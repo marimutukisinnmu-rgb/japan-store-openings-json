@@ -1,7 +1,7 @@
 {
   "period": "2026-08-31/2026-09-07",
   "scope": "Japan",
-  "updatetime": "2026-08-31T03:46:05+09:00",
+  "updatetime": "2026-08-31T05:46:37+09:00",
   "items": [
     {"open_date":"2026-09-01","prefecture":"神奈川県","city":"鎌倉市","store_name":"ライフ鎌倉梶原店","category":"スーパーマーケット","business_type":"chain","source_title":"神奈川県鎌倉市内には約22年ぶりの出店！「ライフ鎌倉梶原店」が9月1日（火）にグランドオープン！","source_url":"https://newscast.jp/news/8043786","evidence_summary":"2026年9月1日に鎌倉市梶原240-3でグランドオープン。地元食材を取り扱う新店舗として案内されている。","confidence":"high"},
     {"open_date":"2026-09-01","prefecture":"東京都","city":"目黒区","store_name":"nana’s green tea サンセットアレイ店","category":"カフェ・和カフェ","business_type":"chain","source_title":"nana’s green tea 9月1日オープンの自由が丘2号店「サンセットアレイ店」","source_url":"https://gourmetpress.net/1474582/","evidence_summary":"2026年9月1日に東京都目黒区自由が丘1-26-8でオープン。営業時間11:00〜21:00、38席と案内されている。","confidence":"high"},
@@ -16,7 +16,7 @@
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"LAKOLE キャナルシティ博多店","category":"ライフスタイル・雑貨","business_type":"chain","source_title":"ライフスタイルブランド「LAKOLE」のブランド最大級500坪・2フロア店舗が2026年9月4日キャナルシティ博多にグランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000003227.000001304.html","evidence_summary":"2026年9月4日にキャナルシティ博多でグランドオープン。ブランド最大級の約500坪・2フロア店舗として案内されている。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"東京都","city":"足立区","store_name":"PAPABUBBLE ルミネ北千住店","category":"スイーツ・キャンディ","business_type":"chain","source_title":"北千住に「パパブブレ」9月4日オープン！","source_url":"https://yashion.jp/news/42833/","evidence_summary":"2026年9月4日にルミネ北千住1階へオープン。北千住エリア初出店として案内されている。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"神奈川県","city":"茅ヶ崎市","store_name":"茅ヶ崎大衆中華 玖龍","category":"中華料理","business_type":"independent","source_title":"【開店】茅ヶ崎大衆中華「玖龍」が9月4日オープン予定！餃子が主役の新店！","source_url":"https://www.chiba-tv.com/plus/detail/2026081950054","evidence_summary":"2026年9月4日に茅ヶ崎駅南口近くでオープン予定と案内されている。大衆中華の新規店舗。","confidence":"high"},
-    {"open_date":"2026-09-04","prefecture":"東京都","city":"名古屋市中区","store_name":"クレヨンしんちゃんオフィシャルショップ～アクションデパート名古屋店～","category":"キャラクターグッズ・物販","business_type":"chain","source_title":"クレヨンしんちゃんオフィシャルショップ～アクションデパート名古屋店～ 名古屋PARCO西館8Fに9月4日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000017.000142047.html","evidence_summary":"2026年9月4日に名古屋PARCO西館8階へオープンする常設オフィシャルショップとして案内されている。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中区","store_name":"クレヨンしんちゃんオフィシャルショップ～アクションデパート名古屋店～","category":"キャラクターグッズ・物販","business_type":"chain","source_title":"クレヨンしんちゃんオフィシャルショップ～アクションデパート名古屋店～ 名古屋PARCO西館8Fに9月4日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000017.000142047.html","evidence_summary":"2026年9月4日に名古屋PARCO西館8階へオープンする常設オフィシャルショップとして案内されている。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"長野県","city":"長野市","store_name":"BY BAKERY 長野本店","category":"ベーカリー","business_type":"chain","source_title":"9/5(土)オープン！「BY BAKERY(ビーワイ ベーカリー)長野本店」","source_url":"https://www.web-komachi.com/?p=301610","evidence_summary":"2026年9月5日に長野市石渡でロードサイド店としてオープン。120種類以上のラインナップから毎日約70種類を販売予定と案内されている。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"東京都","city":"中央区","store_name":"THE SCENE TABLE GINZA","category":"テーマカフェ","business_type":"chain","source_title":"THE SCENE TABLE GINZA 2026年9月5日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000312.000086964.html","evidence_summary":"2026年9月5日に東京都中央区銀座2丁目3-6銀座並木通りビル3階でグランドオープン。営業時間11:00〜20:00。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"大阪府","city":"泉佐野市","store_name":"Issey Miyake りんくうプレミアム・アウトレット店","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"2026年9月5日からりんくうプレミアム・アウトレットのシーサイドエリア1階6300区で常設新規オープン。","confidence":"high"},
@@ -29,13 +29,12 @@
     {"open_date":"2026-09-07","prefecture":"東京都","city":"葛飾区","store_name":"資さんうどん 奥戸店","category":"うどん・和食","business_type":"chain","source_title":"奥戸「資さんうどん」グランドオープン日判明","source_url":"https://katsushika.goguynet.jp/2026/08/16/sukesanokudo-open/","evidence_summary":"2026年9月2〜6日はプレオープンで、グランドオープンは2026年9月7日。所在地は東京都葛飾区奥戸2丁目9-23。","confidence":"high"}
   ],
   "search_notes": [
-    "2026-08-31 03:46 JST時点で対象期間を2026-08-31〜2026-09-07へ動的算出した。",
-    "前回latest.jsonの対象期間内データを再確認し、今回のWeb調査で新たに確認できた店舗を追加した。",
+    "2026-08-31 05:46 JST時点で対象期間を2026-08-31〜2026-09-07へ動的算出した。",
+    "前回latest.jsonを基礎資料として再確認し、今回の追加Web調査で対象期間内の開店情報を更新した。",
     "公式発表、商業施設、地域メディア等を横断し、開業日と所在地を確認できた店舗のみ収録した。",
-    "セブン‐イレブン栃木駅前通り店は9月3日グランドオープンと確認できたため収録した。",
-    "9月4日のLAKOLE、クレヨンしんちゃんオフィシャルショップ名古屋店、茅ヶ崎大衆中華玖龍を追加確認した。",
-    "9月5日のBY BAKERY長野本店、9月6日の龍翔麻辣湯、9月7日の牛角焼肉食堂ゆめタウン久留米店とガチで濃いヤツを追加確認した。",
-    "期間限定POPUP、イベント、単なるリニューアル、9月8日以降の店舗、すでに開店済みの店舗、開業日を確認できない店舗は除外した。",
+    "クレヨンしんちゃんオフィシャルショップ名古屋店の所在地表記を愛知県名古屋市中区へ訂正した。",
+    "9月1〜7日の店舗を対象とし、9月8日以降、すでに開店済み、単なるリニューアル、期間限定POPUP、イベント、開業日を確認できない店舗は除外した。",
+    "資さんうどん奥戸店は9月2〜6日のプレオープンではなく、グランドオープンの9月7日をopen_dateとした。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報の範囲で件数を水増ししていない。"
   ]
 }
