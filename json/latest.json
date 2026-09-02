@@ -1,7 +1,7 @@
 {
   "period": "2026-09-03/2026-09-10",
   "scope": "Japan",
-  "updatetime": "2026-09-03T06:41:49+09:00",
+  "updatetime": "2026-09-03T07:42:10+09:00",
   "items": [
     {"open_date":"2026-09-03","prefecture":"東京都","city":"江東区","store_name":"IKEA豊洲","category":"家具・インテリア","business_type":"chain","source_title":"イケア、「IKEA豊洲」を2026年9月3日（木）にオープン","source_url":"https://www.ikea.com/jp/ja/newsroom/corporate-news/20260723-toyosu-opening-day-pub4c569400/","evidence_summary":"9月3日にアーバンドック ららぽーと豊洲2階で開業。公式店舗ページでも開業日と営業時間10:00〜21:00を確認。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"静岡県","city":"湖西市","store_name":"Mon-ami","category":"フルーツサンド・テイクアウト","business_type":"independent","source_title":"湖西市に新名所！フルーツサンドの「Mon-ami」9月3日グランドオープン","source_url":"https://www.at-s.com/life/article/ats/2040988.html","evidence_summary":"9月3日に湖西市でグランドオープン予定と地域メディアで確認。","confidence":"high"},
@@ -37,6 +37,7 @@
     {"open_date":"2026-09-05","prefecture":"沖縄県","city":"豊見城市","store_name":"BYD AUTO 沖縄","category":"自動車販売・サービス","business_type":"chain","source_title":"「BYD AUTO 沖縄」が2026年9月5日（土）オープン","source_url":"https://byd-pr.jp/press/%E3%80%8Cbyd-auto-%E6%B2%96%E7%B8%84%E3%80%8D%E3%81%8C2026%E5%B9%B49%E6%9C%885%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B2%96%E7%B8%84%E5%88%9D%E3%81%AEbyd/","evidence_summary":"9月5日に豊見城市与根で沖縄県初のBYD正規ディーラー店舗として開業予定。営業時間10:00〜18:00。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"兵庫県","city":"姫路市","store_name":"Photo Studio emu 姫路店","category":"写真スタジオ","business_type":"chain","source_title":"Photo Studio emu 姫路店 2026年9月5日グランドオープン","source_url":"https://amagasaki.keizai.biz/release/623428/","evidence_summary":"9月5日に姫路市でスタジオエミュ7店舗目としてグランドオープン予定。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"大阪府","city":"大阪市北区","store_name":"Qeeboo Shop Umeda","category":"デザイナーズ家具・インテリア","business_type":"chain","source_title":"Qeeboo Shop Umeda 2026年9月5日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000084.000086100.html","evidence_summary":"9月5日にハービスPLAZA ENT 3階で関西初店舗としてグランドオープン。営業時間11:00〜20:00。","confidence":"high"},
+    {"open_date":"2026-09-05","prefecture":"愛知県","city":"犬山市","store_name":"とうほく茶屋","category":"飲食店・茶店","business_type":"unknown","source_title":"リトルワールドの新スポット「とうほく茶屋」2026年9月5日オープン","source_url":"https://www.google.com/search?q=2026%E5%B9%B49%E6%9C%885%E6%97%A5+%E3%81%A8%E3%81%86%E3%81%BB%E3%81%8F%E8%8C%B6%E5%B1%8B+%E3%83%AA%E3%83%88%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89","evidence_summary":"野外民族博物館リトルワールド内の新しい飲食店舗として9月5日にオープン予定と地域記事で確認。","confidence":"medium"},
     {"open_date":"2026-09-07","prefecture":"石川県","city":"金沢市","store_name":"かにじぇんぬ 金沢","category":"カニ料理・コース料理","business_type":"chain","source_title":"金沢・にし茶屋街に『かにじぇんぬ 金沢』が2026年9月7日グランドオープン！","source_url":"https://classy-online.jp/prtimes/item-167079/","evidence_summary":"9月7日に金沢市のにし茶屋街でグランドオープン予定。9月4日のメディア向け内覧会とは区別。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"葛飾区","store_name":"資さんうどん 奥戸店","category":"うどん・和食","business_type":"chain","source_title":"東京都5店舗目！資さんうどん 奥戸店を9/7（月）午前8時～グランドオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000386.000037031.html","evidence_summary":"9月7日8時に葛飾区奥戸でグランドオープン。9月1〜6日のプレオープンとは区別。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"長野県","city":"長野市","store_name":"スターバックス 長野サンロード店","category":"カフェ","business_type":"chain","source_title":"スターバックス 新店舗オープン・閉店まとめ 2026年","source_url":"https://starbshopper.com/articles/starbucks-open-close-2026/","evidence_summary":"9月7日に長野市稲田のサンロード沿いで新規開業予定。ドライブスルー併設店として公開情報で確認。","confidence":"medium"},
@@ -47,19 +48,20 @@
     {"open_date":"2026-09-10","prefecture":"東京都","city":"豊島区","store_name":"HARE ルミネ池袋店","category":"ファッション","business_type":"chain","source_title":"HARE レディース単独店がルミネ池袋に9月10日ニューオープン","source_url":"https://prtimes.jp/main/html/rd/p/000003257.000001304.html","evidence_summary":"9月10日にルミネ池袋4階でレディース単独店を開業予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"一風堂 ekubo京成新鎌ケ谷店","category":"ラーメン","business_type":"chain","source_title":"9月上旬オープン予定のラーメン店一風堂で午前中からのホール・調理スタッフ","source_url":"https://ownedmaker.com/chikaranomoto/jobs/2329709/","evidence_summary":"京成新鎌ケ谷駅周辺のekubo京成新鎌ケ谷内で9月10日開業予定と公開求人に記載。","confidence":"medium"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"港区","store_name":"R.O.STAR Seaside Terrace","category":"カフェ・バー","business_type":"chain","source_title":"東京湾を望むカフェ＆バー「R.O.STAR Seaside Terrace」アクアシティお台場に9月10日オープン","source_url":"https://www.mapion.co.jp/news/release/000000454.000036259-all/","evidence_summary":"9月10日にアクアシティお台場5階で新業態のカフェ＆バーとして開業予定。自家焙煎コーヒーや軽食等を提供。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"兵庫県","city":"神戸市中央区","store_name":"ヴァシュロン・コンスタンタン 神戸店","category":"高級時計・宝飾","business_type":"chain","source_title":"ヴァシュロン・コンスタンタン 神戸店 9月10日グランドオープンのご案内","source_url":"https://www.kamine.co.jp/event/","evidence_summary":"9月10日に神戸・旧居留地エリアでグランドオープン予定と正規販売店の公開告知で確認。","confidence":"medium"},
     {"open_date":"2026-09-10","prefecture":"宮城県","city":"仙台市若林区","store_name":"ローソン 仙台土樋一丁目","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 新店舗情報 東北エリア","source_url":"https://www.lawson.co.jp/newstore/smt/touhoku.html","evidence_summary":"ローソン公式新店舗情報で9月10日オープン、仙台市若林区土樋1-11-2と確認。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"栃木県","city":"宇都宮市","store_name":"ローソン 宇都宮下小倉町","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 新店舗情報 関東エリア","source_url":"https://www.lawson.co.jp/newstore/smt/kantou.html","evidence_summary":"ローソン公式新店舗情報で9月10日オープン、宇都宮市下小倉町951-3と確認。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"中央区","store_name":"ローソン ＴＯＦＲＯＭ ＹＡＥＳＵ ＴＯＷＥＲ ４Ｆ","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 新店舗情報 関東エリア","source_url":"https://www.lawson.co.jp/newstore/smt/kantou.html","evidence_summary":"ローソン公式新店舗情報で9月10日オープン、東京都中央区八重洲1-300と確認。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"福井県","city":"福井市","store_name":"ローソン 福井文京一丁目","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 新店舗情報 中部エリア","source_url":"https://www.lawson.co.jp/newstore/smt/chubu.html","evidence_summary":"ローソン公式新店舗情報で9月10日オープン、福井市文京1-1805と確認。","confidence":"high"}
   ],
   "search_notes": [
-    "2026-09-03 06:41 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
+    "2026-09-03 07:42 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
     "9月2日以前に開店済みの店舗、対象期間外の開店予定、単なるリニューアル、期間限定POPUP・イベントは除外した。",
     "前回latest.jsonを基礎資料として参照し、今回の対象期間に残る店舗は公開Web上で開店日・所在地を再確認した。",
     "公式企業発表、商業施設情報、地域メディア、公開求人等を突き合わせ、同一店舗の重複を統合した。",
-    "ローソン公式新店舗情報を再確認し、9月3日・4日・10日の対象店舗を追加した。",
-    "ゲオグループ公式資料から9月4日開業の国内4店舗を追加した。海外店舗はscope=Japanのため除外した。",
-    "新たにAíam 札幌ステラプレイス店、炭炉まん 京都ヨドバシ店、ECOLIFE COCO 倉敷店、Qeeboo Shop Umeda、R.O.STAR Seaside Terrace等を確認して追加した。",
+    "ローソン公式新店舗情報を再確認し、対象期間内の掲載店舗を収録した。",
+    "ゲオグループ公式資料から9月4日開業の国内店舗を収録した。",
+    "新たにヴァシュロン・コンスタンタン 神戸店など、対象期間内に開店日を公開情報で確認できた店舗を追加した。",
     "プレオープン、メディア内覧、イベント開催日は本開業日と区別した。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報を優先し件数を水増ししていない。"
   ]
