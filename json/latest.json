@@ -1,12 +1,12 @@
 {
   "period": "2026-09-02/2026-09-09",
   "scope": "Japan",
-  "updatetime": "2026-09-02T22:44:00+09:00",
+  "updatetime": "2026-09-02T23:13:00+09:00",
   "items": [
     {"open_date":"2026-09-03","prefecture":"東京都","city":"江東区","store_name":"IKEA豊洲","category":"家具・インテリア","business_type":"chain","source_title":"IKEA豊洲 2026年9月3日オープン","source_url":"https://www.ikea.com/jp/ja/newsroom/","evidence_summary":"9月3日に本開業。9月1日の会員向けプレオープンとは区別。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"静岡県","city":"湖西市","store_name":"Mon-ami","category":"フルーツサンド・テイクアウト","business_type":"independent","source_title":"湖西市に新名所！フルーツサンドの「Mon-ami」9月3日グランドオープン","source_url":"https://www.at-s.com/life/article/ats/2040988.html","evidence_summary":"浜松市から湖西市へ移転し、9月3日にグランドオープン。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"兵庫県","city":"神戸市東灘区","store_name":"中国料理 ツバメ","category":"中国料理","business_type":"independent","source_title":"「中国料理 ツバメ」9月3日にグランドオープン","source_url":"https://higashinada-journal.com/spot/118436/","evidence_summary":"9月3日に神戸市東灘区岡本でグランドオープン予定。","confidence":"high"},
-    {"open_date":"2026-09-03","prefecture":"大阪府","city":"泉佐野市","store_name":"A Bathing Ape Pirate Store® りんくうプレミアム・アウトレット店","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"9月3日に常設新規店として開業予定。","confidence":"high"},
+    {"open_date":"2026-09-03","prefecture":"大阪府","city":"泉佐野市","store_name":"A Bathing Ape Pirate Store® りんくうプレミアム・アウトレット店","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに新規店舗がオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"9月3日に常設新規店として開業予定。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"大阪府","city":"大阪狭山市","store_name":"ローソン南海金剛駅前","category":"コンビニエンスストア","business_type":"chain","source_title":"近畿エリア｜新店情報｜ローソン","source_url":"https://www.lawson.co.jp/newstore/kinki.html","evidence_summary":"9月3日の新規開店として公式掲載。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"大阪府","city":"大阪市城東区","store_name":"ローソン城東諏訪三丁目","category":"コンビニエンスストア","business_type":"chain","source_title":"近畿エリア｜新店情報｜ローソン","source_url":"https://www.lawson.co.jp/newstore/kinki.html","evidence_summary":"9月3日の新規開店として公式掲載。","confidence":"high"},
     {"open_date":"2026-09-03","prefecture":"宮城県","city":"仙台市若林区","store_name":"ローソン仙台南鍛冶町","category":"コンビニエンスストア","business_type":"chain","source_title":"東北エリア｜新店情報｜ローソン","source_url":"https://www.lawson.co.jp/newstore/touhoku.html","evidence_summary":"9月3日の新規開店として公式掲載。","confidence":"high"},
@@ -17,6 +17,8 @@
     {"open_date":"2026-09-03","prefecture":"埼玉県","city":"八潮市","store_name":"モスバーガー 八潮店","category":"ハンバーガー・飲食店","business_type":"chain","source_title":"モスバーガー 八潮店 9月3日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000620.000075449.html","evidence_summary":"9月3日に八潮市へ新店舗として開業。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"大阪府","city":"大阪市北区","store_name":"サブウェイ エキマルシェ大阪店","category":"サンドイッチ・ファストフード","business_type":"chain","source_title":"サブウェイ「エキマルシェ大阪店」9月4日オープン","source_url":"https://subway.co.jp/news/39rlpqm02-9f/","evidence_summary":"9月4日にエキマルシェ大阪内へ開業。営業時間8時〜22時。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"Eggs ’n Things キャナルシティ博多店","category":"ハワイアン・ブレックファースト","business_type":"chain","source_title":"Eggs ’n Things キャナルシティ博多店 9月4日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000330.000012385.html","evidence_summary":"9月4日にキャナルシティ博多イーストビル2階でグランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"LAKOLE キャナルシティ博多店","category":"生活雑貨・アパレル","business_type":"chain","source_title":"2026年9月4日グランドオープン｜キャナルシティ博多のLAKOLE新店舗","source_url":"https://yurunago.or.jp/27943/","evidence_summary":"9月4日にキャナルシティ博多イーストビル2・3階でグランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"GLOBAL WORK キャナルシティ博多店","category":"アパレル・ファッション","business_type":"chain","source_title":"GLOBAL WORK がキャナルシティ博多に9月4日オープン","source_url":"https://www.mapion.co.jp/news/release/000003251.000001304-all/","evidence_summary":"9月4日にキャナルシティ博多へ新店舗を開業。国内最大級の品揃えを掲げている。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"名鉄商店 MEICHIKA","category":"スイーツ・食品・物販","business_type":"chain","source_title":"名鉄商店 MEICHIKAが2026年9月4日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000046.000114315.html","evidence_summary":"9月4日にMEICHIKA内へ3号店として開業。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"LUNA EARTH MEICHIKA店","category":"アクセサリー・ファッション雑貨","business_type":"chain","source_title":"LUNA EARTH MEICHIKA店 9月4日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000891.000061261.html","evidence_summary":"9月4日に名古屋駅のMEICHIKA内へ新店舗として開業。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"長野県","city":"長野市","store_name":"gashacoco 平安堂東和田","category":"カプセルトイ","business_type":"chain","source_title":"ガチャガチャ 新店・リニューアルオープン","source_url":"https://www.web-komachi.com/?p=299870","evidence_summary":"9月4日オープン予定として公開情報で確認。","confidence":"high"},
@@ -40,13 +42,12 @@
     {"open_date":"2026-09-08","prefecture":"東京都","city":"千代田区","store_name":"ドリームカプセル 有楽町マルイ","category":"カプセルトイ","business_type":"chain","source_title":"ガチャガチャ 新店・リニューアルオープン","source_url":"https://gacha-radar.com/openings/","evidence_summary":"9月8日オープン予定として公開情報で確認。","confidence":"medium"}
   ],
   "search_notes": [
-    "2026-09-02 22:44 JST時点で対象期間を2026-09-02〜2026-09-09として動的に算出した。",
+    "2026-09-02 23:13 JST時点で対象期間を2026-09-02〜2026-09-09として動的に算出した。",
     "9月2日にすでに開店済みの店舗は除外し、9月3日以降の未開店予定を再確認した。",
     "公式企業発表、商業施設情報、地域メディア、公開店舗一覧等を突き合わせ、重複を統合した。",
     "IKEA豊洲は9月1日の会員向けプレオープンと9月3日の本開業を区別した。",
-    "りんくうプレミアム・アウトレットではA Bathing Ape Pirate Store®を9月3日、Issey Miyakeを9月5日の常設新規店として確認し、Tasaki Special Shopは期間限定のため除外した。",
-    "ローソン公式の全国・地域別新店情報を再確認し、9月3日〜4日の掲載店舗を追加した。",
-    "スターバックス長野若槻店は公式店舗ページで9月7日OPENを確認したため、第三者まとめ情報から公式情報へ更新した。",
+    "キャナルシティ博多について、LAKOLEとGLOBAL WORKの9月4日新規オープンを追加確認した。",
+    "りんくうプレミアム・アウトレットのA Bathing Ape Pirate Store®は9月3日、Issey Miyakeは9月5日の常設新規店として確認した。",
     "期間限定POPUP、イベント、単なるリニューアル、商品発売情報は原則として除外した。",
     "9月6日・9月9日について、新規常設店舗として開店日を十分に確認できた候補は今回の検索範囲では確認できなかった。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報を優先し件数を水増ししていない。"
