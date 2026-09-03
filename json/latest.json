@@ -1,14 +1,14 @@
 {
   "period":"2026-09-03/2026-09-10",
   "scope":"Japan",
-  "updatetime":"2026-09-03T22:44:05+09:00",
+  "updatetime":"2026-09-03T23:43:15+09:00",
   "items":[
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"Eggs ’n Things キャナルシティ博多店","category":"ハワイアン・ブレックファースト","business_type":"chain","source_title":"『Eggs ’n Things キャナルシティ博多店』2026年9月4日（金）グランドオープン","source_url":"https://www.eggsnthingsjapan.com/news/260826.html","evidence_summary":"キャナルシティ博多イーストビル2階に9月4日グランドオープン、営業時間9:00〜21:00。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"まるや本店 名古屋駅メイチカ店","category":"うなぎ・和食","business_type":"chain","source_title":"まるや本店 名古屋駅メイチカ店","source_url":"https://nagotosha.com/2026/07/11/maruya-honten-nagoya-meichika-open/","evidence_summary":"名古屋駅地下街MEICHIKAに9月4日グランドオープン予定、営業時間10:00〜22:00。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"名鉄商店 MEICHIKA","category":"土産・食品・ギフト","business_type":"chain","source_title":"名駅地下街「MEICHIKA」に「名鉄商店 MEICHIKA」が2026年9月4日(金)オープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000046.000114315.html","evidence_summary":"MEICHIKA内に9月4日10:00開業予定。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"舎鈴 MEICHIKA店","category":"つけめん・ラーメン","business_type":"chain","source_title":"名古屋駅地下街「MEICHIKA」9月4日リニューアル！全17店舗","source_url":"https://www.aichispot.com/meichika-renewal-nagoya-open/","evidence_summary":"MEICHIKAの新規テナントとして9月4日開業予定。","confidence":"medium"},
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"GLOBAL WORK キャナルシティ博多店","category":"アパレル・ファッション","business_type":"chain","source_title":"GLOBAL WORK がキャナルシティ博多に国内最大級の品揃えで9月4日（金）オープン！","source_url":"https://www.mapion.co.jp/news/release/000003251.000001304-all/","evidence_summary":"キャナルシティ博多イーストビルに9月4日新店舗を開業予定。","confidence":"high"},
-    {"open_date":"2026-09-04","prefecture":"東京都","city":"目黒区","store_name":"GRANIT自由が丘店","category":"インテリア・生活雑貨","business_type":"chain","source_title":"9月4日、田ノ実跡地に日本1号店 — スウェーデン発GRANITがサンセット通りに開く","source_url":"https://jiyugaokatecho.com/articles/2026/09/granit-jiyugaoka-japan-first-2026-09-04/","evidence_summary":"自由が丘1-26-16に日本1号店として9月4日11:00オープン予定。","confidence":"medium"},
+    {"open_date":"2026-09-04","prefecture":"東京都","city":"目黒区","store_name":"GRANIT自由が丘店","category":"インテリア・生活雑貨","business_type":"chain","source_title":"9月4日、田ノ実跡地に日本1号店 — スウェーデン発GRANITがサンセット通りに開く","source_url":"https://jiyugaoka.jp/articles/2026/09/granit-jiyugaoka-japan-first-2026-09-04/","evidence_summary":"自由が丘1-26-16に日本1号店として9月4日11:00オープン予定。","confidence":"medium"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"LUNA EARTH MEICHIKA店","category":"アクセサリー・ファッション雑貨","business_type":"chain","source_title":"9/4(金)330円（税込）からのアクセサリーブランド「LUNA EARTH」 MEICHIKA店がOPEN！","source_url":"https://prtimes.jp/main/html/rd/p/000000891.000061261.html","evidence_summary":"MEICHIKA内に9月4日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"東京都","city":"品川区","store_name":"R Baker 品川イノベーションパーク店","category":"ベーカリー・カフェ","business_type":"chain","source_title":"わずか6坪の「超コンパクトモデル」店舗が誕生！「R Baker品川イノベーションパーク店」　9月4日オープン","source_url":"https://mantan-web.jp/prtimes/article/20260903prt00m200000511a.html","evidence_summary":"品川イノベーションパーク1階に9月4日8:00オープン予定。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"東京都","city":"世田谷区","store_name":"なぎちゃんラーメン 成城学園前北口店","category":"ラーメン","business_type":"chain","source_title":"成城の新規出店情報","source_url":"https://setagaya.guide/store_opening_area/seijo/","evidence_summary":"世田谷区成城6丁目に9月4日オープン予定として地域情報で確認。","confidence":"medium"},
@@ -24,17 +24,22 @@
     {"open_date":"2026-09-10","prefecture":"東京都","city":"豊島区","store_name":"HARE ルミネ池袋店","category":"レディースアパレル","business_type":"chain","source_title":"HARE 待望の都内初！レディース単独店がルミネ池袋4Fに9月10日ニューオープン","source_url":"https://prtimes.jp/main/html/rd/p/000003257.000001304.html","evidence_summary":"ルミネ池袋4階にレディース単独店として9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"港区","store_name":"R.O.STAR Seaside Terrace","category":"カフェ・軽食","business_type":"independent","source_title":"東京湾を望むカフェ＆バー「R.O.STAR Seaside Terrace」アクアシティお台場に9月10日(木)オープン","source_url":"https://foods-ch.infomart.co.jp/news/325375","evidence_summary":"アクアシティお台場5階に9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"渋谷区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"『あげもちCocoro』が9月10日(木)新規オープン","source_url":"https://foods-ch.infomart.co.jp/news/326633","evidence_summary":"新宿高島屋地下1階和菓子売場に9月10日新規オープン予定、営業時間10:30〜19:30。","confidence":"high"},
-    {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"一風堂 ekubo 京成 新鎌ケ谷店","category":"ラーメン","business_type":"chain","source_title":"一風堂新店 9月は千葉・埼玉に計2店舗OPEN！","source_url":"https://digitalpr.jp/r/142695","evidence_summary":"ekubo京成新鎌ケ谷3階に9月10日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"一風堂 ekubo 京成 新鎌ケ谷店","category":"ラーメン","business_type":"chain","source_title":"一風堂新店 9月は千葉・埼玉に計2店舗OPEN！","source_url":"https://digitalpr.jp/r/142695","evidence_summary":"ekubo京成新鎌ケ谷3階に9月10日オープン予定、営業時間11:00〜22:00。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"サブウェイ ekubo京成 新鎌ケ谷店","category":"サンドイッチ・ファストフード","business_type":"chain","source_title":"サブウェイ、千葉県の新鎌ヶ谷駅直結の新たな商業施設に出店『ekubo京成 新鎌ケ谷店』9月10日オープン","source_url":"https://subway.co.jp/news/1qu661yhr4/","evidence_summary":"新鎌ヶ谷駅直結のekubo京成新鎌ケ谷1階に9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"ロイヤルホスト ekubo新鎌ケ谷店","category":"洋食・ファミリーレストラン","business_type":"chain","source_title":"「ロイヤルホスト ekubo新鎌ケ谷店」9月10日（木）OPEN","source_url":"https://mantan-web.jp/prtimes/article/20260831prt00m200000733a.html","evidence_summary":"ekubo京成新鎌ケ谷3階に9月10日10:00オープン予定。","confidence":"high"},
-    {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"KEISEI×BIZcomfort新鎌ケ谷","category":"コワーキングスペース","business_type":"chain","source_title":"まちづくりが進む新鎌ケ谷、新たな商業施設にコワーキングスペース「KEISEI×BIZcomfort新鎌ケ谷」が誕生","source_url":"https://chiba.keizai.biz/release/635643/","evidence_summary":"新商業施設ekubo京成新鎌ケ谷の新店舗として9月10日開業予定。","confidence":"high"}
+    {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"KEISEI×BIZcomfort新鎌ケ谷","category":"コワーキングスペース","business_type":"chain","source_title":"まちづくりが進む新鎌ケ谷、新たな商業施設にコワーキングスペース「KEISEI×BIZcomfort新鎌ケ谷」が誕生","source_url":"https://chiba.keizai.biz/release/635643/","evidence_summary":"新商業施設ekubo京成新鎌ケ谷の新店舗として9月10日開業予定。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"台東区","store_name":"グラニフ上野マルイ店","category":"アパレル・ファッション雑貨","business_type":"chain","source_title":"好評の店舗限定ぬいぐるみミニチャームも登場！グラニフ上野マルイ店、2026年9月10日(木)オープン。","source_url":"https://origin.digitalpr.jp/r/142557","evidence_summary":"上野マルイB1Fに9月10日11:00〜20:00で新ストアをオープン予定。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"豊島区","store_name":"おかしやシュクエピ","category":"洋菓子・焼き菓子","business_type":"independent","source_title":"パティシエ歴27年の手塚郁実氏、駒込・染井銀座商店街に新店舗「おかしやシュクエピ」を9月10日オープン","source_url":"https://prenew.jp/news/608517","evidence_summary":"豊島区駒込6-29-13の染井銀座商店街に9月10日11:00〜18:30でオープン予定。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"静岡県","city":"浜松市中央区","store_name":"アエナ イオンモール浜松志都呂店","category":"コスメ・食品・雑貨","business_type":"chain","source_title":"〖アエナ〗新店：2026年9月10日(木)｜イオンモール浜松志都呂","source_url":"https://hamamatsushitoro.aeonmall.jp/news/renewal/a06c91da-946e-4a36-9c8b-ffd61b367414","evidence_summary":"イオンモール浜松志都呂にオフプライスストアとして9月10日新規オープン予定。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-03 22:44 JST時点で対象期間を2026-09-03〜2026-09-10として算出した。",
-    "前回latest.jsonを参照し、今回の追加検索で9月4日のブルースカイランドリー Beisia Town矢板店、9月5日のIssey Miyake りんくうプレミアム・アウトレット店、9月7日の資さんうどん 奥戸店を再確認・追加した。",
-    "りんくうプレミアム・アウトレットのTasaki Special Shopは期間限定のため除外し、常設新規店舗のIssey Miyakeのみ収録した。",
-    "SNOOPY Chocolat京都・清水坂店、モンロワール、グリーンレーベル リラクシング等のリニューアル案件、期間限定POPUP、イベントは除外した。",
-    "ファミリーマート蔵王遠刈田店は9月8日がプレオープンで、グランドオープンが対象期間外のため除外した。",
+    "2026-09-03 23:43 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
+    "前回latest.jsonを参照し、対象期間内の開店予定を公開Web上で再確認した。",
+    "今回の追加検索で、グラニフ上野マルイ店、おかしやシュクエピ、アエナ イオンモール浜松志都呂店を9月10日の新規オープン予定として確認した。",
+    "一風堂 ekubo 京成 新鎌ケ谷店について、9月10日11:00開業予定を最新の公開情報で再確認した。",
+    "りんくうプレミアム・アウトレットのIssey Miyakeは常設新規オープン、Tasaki Special Shopは期間限定のため前者のみ収録した。",
+    "SNOOPY Chocolat京都・清水坂店、グリーンレーベル リラクシング等のリニューアル案件、期間限定POPUP、イベントは新規常設店舗として除外した。",
+    "うなぎや 宇吟は9月10日がプレオープンで、グランドオープンが10月8日のため除外した。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、開業日を確認できた公開情報を優先し件数を水増ししていない。"
   ]
 }
