@@ -1,7 +1,7 @@
 {
   "period":"2026-09-03/2026-09-10",
   "scope":"Japan",
-  "updatetime":"2026-09-03T16:45:42+09:00",
+  "updatetime":"2026-09-03T19:45:30+09:00",
   "items":[
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"Eggs ’n Things キャナルシティ博多店","category":"ハワイアン・ブレックファースト","business_type":"chain","source_title":"『Eggs ’n Things キャナルシティ博多店』2026年9月4日（金）グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000330.000012385.html","evidence_summary":"キャナルシティ博多イーストビル2階に9月4日グランドオープン。営業時間9:00〜21:00。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"まるや本店 名古屋駅メイチカ店","category":"うなぎ・和食","business_type":"chain","source_title":"まるや本店 名古屋駅メイチカ店","source_url":"https://news.livedoor.com/article/detail/32112513/","evidence_summary":"名古屋駅地下街MEICHIKAに9月4日グランドオープン。前身の名駅店とは別の新店舗として開業。","confidence":"high"},
@@ -12,10 +12,13 @@
     {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"LUNA EARTH MEICHIKA店","category":"アクセサリー・ファッション雑貨","business_type":"chain","source_title":"9/4(金)330円（税込）からのアクセサリーブランド「LUNA EARTH」 MEICHIKA店がOPEN！","source_url":"https://prtimes.jp/main/html/rd/p/000000891.000061261.html","evidence_summary":"MEICHIKA内に9月4日オープン予定。所在地は名古屋市中村区名駅3丁目14番15号先、営業時間10:00〜20:00。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"愛知県","city":"犬山市","store_name":"とうほく茶屋","category":"飲食店・郷土料理","business_type":"unknown","source_title":"リトルワールド 9月5日オープンの新スポット詳細解禁","source_url":"https://www.mapion.co.jp/news/release/000000177.000157222/","evidence_summary":"野外民族博物館リトルワールド内で9月5日に新飲食店舗としてグランドオープン。東北の食文化をテーマに提供する。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"東京都","city":"中央区","store_name":"THE SCENE TABLE GINZA","category":"カフェ","business_type":"chain","source_title":"銀座並木通りに、展覧会連動型のテーマカフェが誕生！「THE SCENE TABLE GINZA」2026年９月5日（土）グランドオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000312.000086964.html","evidence_summary":"銀座2丁目の銀座並木通りビル3階に9月5日11:00オープン。ミュージアム併設型カフェとして営業する。","confidence":"high"},
+    {"open_date":"2026-09-05","prefecture":"沖縄県","city":"豊見城市","store_name":"BYD AUTO 沖縄","category":"自動車販売・サービス","business_type":"chain","source_title":"「BYD AUTO 沖縄」が2026年9月5日（土）オープン","source_url":"https://byd-pr.jp/press/%E3%80%8Cbyd-auto-%E6%B2%96%E7%B8%84%E3%80%8D%E3%81%8C2026%E5%B9%B49%E6%9C%885%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B2%96%E7%B8%84%E5%88%9D%E3%81%AEbyd/","evidence_summary":"豊見城市与根6-5に沖縄県内初の正規ディーラー店舗として9月5日オープン。ショールームとサービス工場を併設。","confidence":"high"},
+    {"open_date":"2026-09-06","prefecture":"東京都","city":"目黒区","store_name":"しぶそば自由が丘店","category":"そば・うどん","business_type":"chain","source_title":"〖新店情報〗2026年9月6日（日）「しぶそば自由が丘店」OPEN！","source_url":"https://prtimes.jp/main/html/rd/p/000000070.000050078.html","evidence_summary":"東急線自由が丘駅改札外のエトモ自由が丘に9月6日新規オープン。住所は目黒区自由が丘1-11-6、日祝は10:00〜20:00。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"新宿区","store_name":"AUREME ニュウマン新宿店","category":"アパレル・ファッション","business_type":"chain","source_title":"ルミネ・ニュウマン／26年秋150店舗を刷新","source_url":"https://www.ryutsuu.biz/store/s082719.html","evidence_summary":"ニュウマン新宿2階に新ブランドAUREMEの1号店として9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"豊島区","store_name":"HARE ルミネ池袋店","category":"レディースアパレル","business_type":"chain","source_title":"HARE 待望の都内初！レディース単独店がルミネ池袋4Fに9月10日ニューオープン","source_url":"https://prtimes.jp/main/html/rd/p/000003257.000001304.html","evidence_summary":"ルミネ池袋4階にレディース単独店として9月10日ニューオープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"港区","store_name":"R.O.STAR Seaside Terrace","category":"カフェ・軽食","business_type":"independent","source_title":"東京湾を望むカフェ＆バー「R.O.STAR Seaside Terrace」アクアシティお台場に9月10日(木)オープン","source_url":"https://foods-ch.infomart.co.jp/news/325375","evidence_summary":"アクアシティお台場5階に新業態のカフェ＆バーとして9月10日オープン予定。自家焙煎コーヒーや軽食を提供。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"渋谷区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"『あげもちCocoro』が9月10日(木)新規オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000152231.html","evidence_summary":"新宿高島屋地下1階和菓子売場に9月10日新規オープン。営業時間10:30〜19:30。","confidence":"high"},
+    {"open_date":"2026-09-08","prefecture":"神奈川県","city":"横浜市西区","store_name":"メイクアップフォーエバー そごう横浜店","category":"化粧品・コスメ","business_type":"chain","source_title":"〖メイクアップフォーエバー〗9月８日(火)に日本発の新コンセプトストアを「そごう横浜店」にオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000118.000019175.html","evidence_summary":"そごう横浜店（横浜市西区高島2-18-1）に日本初の新コンセプトストアとして9月8日オープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"一風堂 ekubo 京成 新鎌ケ谷店","category":"ラーメン","business_type":"chain","source_title":"一風堂新店 9月は千葉・埼玉に計2店舗OPEN！","source_url":"https://digitalpr.jp/r/142695","evidence_summary":"9月10日開業の新商業施設ekubo京成新鎌ケ谷3階に同日オープン予定。鎌ケ谷市初出店。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"サブウェイ ekubo京成 新鎌ケ谷店","category":"サンドイッチ・ファストフード","business_type":"chain","source_title":"サブウェイ、千葉県の新鎌ヶ谷駅直結の新たな商業施設に出店『ekubo京成 新鎌ケ谷店』9月10日オープン","source_url":"https://subway.co.jp/news/1qu661yhr4/","evidence_summary":"新鎌ヶ谷駅直結のekubo京成新鎌ケ谷1階に9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"ロイヤルホスト ekubo新鎌ケ谷店","category":"洋食・ファミリーレストラン","business_type":"chain","source_title":"「ロイヤルホスト ekubo新鎌ケ谷店」9月10日（木）OPEN","source_url":"https://mantan-web.jp/prtimes/article/20260831prt00m200000733a.html","evidence_summary":"新商業施設ekubo京成新鎌ケ谷3階に9月10日10:00オープン予定。","confidence":"high"},
@@ -25,14 +28,12 @@
     {"open_date":"2026-09-10","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"PRESS BUTTER SAND アミュプラザ小倉店","category":"バターサンド・洋菓子","business_type":"chain","source_title":"9月10日（木）オープン 小倉エリア初上陸「PRESS BUTTER SAND アミュプラザ小倉店」","source_url":"https://buttersand.com/news/0910amuplaza_kokura/","evidence_summary":"アミュプラザ小倉東館3階に9月10日10:00オープン。9月9日は招待者向けプレオープン。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-03 16:45 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
-    "前回latest.jsonを参照し、対象期間外・開店済み・リニューアルのみ・期間限定POPUP・イベントは除外した。",
-    "公式企業発表、商業施設情報、地域メディア等を追加検索し、開業日と所在地を確認できた店舗を重複統合した。",
-    "今回の追加確認では、GRANIT自由が丘店、LUNA EARTH MEICHIKA店、THE SCENE TABLE GINZA、ロイヤルホスト ekubo新鎌ケ谷店、KEISEI×BIZcomfort新鎌ケ谷などを新たに確認した。",
-    "アミュプラザ小倉東館3階は9月9日に招待者向けプレオープン、9月10日をグランドオープンとして扱い、個別店舗の本開業日が確認できるもののみ収録した。",
-    "MEICHIKAは施設全体がリニューアルだが、新規テナントとして確認できた店舗のみ収録し、既存店舗の再開・リニューアルは除外した。",
-    "SNOOPY Chocolat京都・清水坂店、UNITED ARROWS green label relaxing アミュプラザ小倉店など、今回確認した9月10日のリニューアル案件は新規オープンではないため除外した。",
-    "IQOS フラッグシップ 銀座は年齢制限商品を主目的とするため収録対象から除外した。",
-    "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な公開情報を優先し件数を水増ししていない。"
+    "2026-09-03 19:45 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
+    "前回latest.jsonを参照し、対象期間内の開店予定を公開Web上で再確認したうえで、今回の検索で確認できた新規店舗を追加した。",
+    "公式企業発表、商業施設情報、地域メディア等を横断して確認し、同一店舗の重複を統合した。",
+    "今回の追加確認ではBYD AUTO 沖縄、しぶそば自由が丘店、メイクアップフォーエバー そごう横浜店を対象期間内の新規開業として確認した。",
+    "SNOOPY Chocolat京都・清水坂店、モンロワール東武池袋店、キャトル・セゾン仙台などのリニューアル案件、POPUP、期間限定イベントは除外した。",
+    "ファミリーマート蔵王遠刈田店は9月8日がプレオープンで、グランドオープンは対象期間外のため除外した。",
+    "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、開業日を確認できた公開情報を優先し件数を水増ししていない。"
   ]
 }
