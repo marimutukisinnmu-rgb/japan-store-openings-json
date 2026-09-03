@@ -1,23 +1,30 @@
 {
   "period": "2026-09-03/2026-09-10",
   "scope": "Japan",
-  "updatetime": "2026-09-03T10:41:55+09:00",
+  "updatetime": "2026-09-03T11:42:10+09:00",
   "items": [
-    {"open_date":"2026-09-03","prefecture":"大阪府","city":"泉佐野市","store_name":"A Bathing Ape Pirate Store®","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン 「Tasaki」「Salomon」「A Bathing Ape Pirate Store®」など注目ブランドがこの秋集結","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"りんくうプレミアム・アウトレットのシーサイドエリア1Fで9月3日に常設新規オープン予定と公式発表で確認。","confidence":"high"},
-    {"open_date":"2026-09-05","prefecture":"大阪府","city":"泉佐野市","store_name":"Issey Miyake","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン 「Tasaki」「Salomon」「A Bathing Ape Pirate Store®」など注目ブランドがこの秋集結","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"りんくうプレミアム・アウトレットのシーサイドエリア1F 6300区で9月5日に常設新規オープン予定と公式発表で確認。","confidence":"high"},
+    {"open_date":"2026-09-03","prefecture":"大阪府","city":"泉佐野市","store_name":"A Bathing Ape Pirate Store®","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン 「Tasaki」「Salomon」「A Bathing Ape Pirate Store®」など注目ブランドがこの秋集結","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"りんくうプレミアム・アウトレットのシーサイドエリア1F 6100区で9月3日に常設新規オープン予定と施設運営会社が公表。","confidence":"high"},
+    {"open_date":"2026-09-05","prefecture":"大阪府","city":"泉佐野市","store_name":"Issey Miyake","category":"ファッション","business_type":"chain","source_title":"りんくうアウトレットに「Issey Miyake」が初の新規オープン 「Tasaki」「Salomon」「A Bathing Ape Pirate Store®」など注目ブランドがこの秋集結","source_url":"https://prtimes.jp/main/html/rd/p/000000767.000009047.html","evidence_summary":"りんくうプレミアム・アウトレットのシーサイドエリア1F 6300区で9月5日に常設新規オープン予定と施設運営会社が公表。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"福岡県","city":"福岡市博多区","store_name":"Eggs ’n Things キャナルシティ博多店","category":"ハワイアン・ブレックファースト","business_type":"chain","source_title":"Eggs ’n Things キャナルシティ博多店 2026年9月4日グランドオープン","source_url":"https://www.eggsnthingsjapan.com/news/260826.html","evidence_summary":"9月4日にキャナルシティ博多イーストビル2階でグランドオープン。営業時間9:00〜21:00。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"埼玉県","city":"さいたま市大宮区","store_name":"大宮店（ソプラ銀座）","category":"ペットサロン・犬の幼稚園","business_type":"chain","source_title":"2026年秋、首都圏に7店舗を新規オープン予定です","source_url":"https://sopraginza.co.jp/news/new-stores-2026-autumn/","evidence_summary":"9月4日にさいたま市大宮区桜木町1丁目288-3で開業予定と運営会社が公表。","confidence":"high"},
     {"open_date":"2026-09-04","prefecture":"栃木県","city":"矢板市","store_name":"ブルースカイランドリー Beisia Town矢板店","category":"コインランドリー","business_type":"chain","source_title":"ブルースカイランドリーが2026年9月に4県で計5店舗を新規オープンへ","source_url":"https://news.dellows.jp/149730/","evidence_summary":"9月4日に栃木県矢板市末広町26-2でオープン予定と公開情報で確認。24時間営業予定。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"舎鈴 メイチカ店","category":"つけめん","business_type":"chain","source_title":"つけめん専門店「舎鈴」が中部地方へ初出店！9月4日、名古屋駅「メイチカ」にオープン","source_url":"https://foods-ch.infomart.co.jp/news/325326","evidence_summary":"9月4日に名古屋駅地下街メイチカでオープン。中部地方初出店で、営業時間10:00〜23:00。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"海老豚骨ラーメン一番軒 メイチカ店","category":"ラーメン","business_type":"chain","source_title":"300匹の甘エビから旨味を凝縮。名古屋発「一番軒」の新業態「海老豚骨ラーメン一番軒」がメイチカに9月4日オープン","source_url":"https://foods-ch.infomart.co.jp/news/325317","evidence_summary":"9月4日に名古屋駅地下街メイチカで新業態店舗をオープン予定と公開情報で確認。","confidence":"high"},
+    {"open_date":"2026-09-04","prefecture":"愛知県","city":"名古屋市中村区","store_name":"BEUTEA 名古屋メイチカ店","category":"中国茶・ドリンク","business_type":"chain","source_title":"9月4日オープン｜名古屋駅直結BEUTEAメイチカ店","source_url":"https://bestcalendar.jp/press/145337","evidence_summary":"9月4日9時にメイチカでグランドオープン予定。日本2号店として開業し、通常営業時間は7:00〜22:00と案内。","confidence":"high"},
     {"open_date":"2026-09-05","prefecture":"沖縄県","city":"豊見城市","store_name":"BYD AUTO 沖縄","category":"自動車販売・整備","business_type":"chain","source_title":"「BYD AUTO 沖縄」が2026年9月5日（土）オープン　沖縄初のBYD正規店舗！","source_url":"https://byd-pr.jp/press/%E3%80%8Cbyd-auto-%E6%B2%96%E7%B8%84%E3%80%8D%E3%81%8C2026%E5%B9%B49%E6%9C%885%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B2%96%E7%B8%84%E5%88%9D%E3%81%AEbyd/","evidence_summary":"9月5日に豊見城市与根6-5で沖縄県初の正規ディーラー店舗をオープン予定。営業時間10:00〜18:00。","confidence":"high"},
+    {"open_date":"2026-09-05","prefecture":"東京都","city":"中央区","store_name":"THE SCENE TABLE GINZA","category":"テーマカフェ","business_type":"chain","source_title":"銀座並木通りに、展覧会連動型のテーマカフェが誕生！「THE SCENE TABLE GINZA」2026年9月5日グランドオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000312.000086964.html","evidence_summary":"9月5日に東京都中央区銀座2丁目3-6の銀座並木通りビル3階で開業。営業時間11:00〜20:00。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"洋菓子・カフェ・製菓工房","business_type":"chain","source_title":"できたてのクッキーと、自然豊かな景色を。2026年9月7日グランドオープン！アトリエうかい Cafe ＆ Factory HACHIOJI","source_url":"https://foods-ch.infomart.co.jp/news/326424","evidence_summary":"9月7日にイオン八王子滝山South A棟2Fでグランドオープン予定。カフェ・ショップ併設の製菓製造工房。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"PRESS BUTTER SAND アミュプラザ小倉店","category":"洋菓子・バターサンド","business_type":"chain","source_title":"9月10日オープン PRESS BUTTER SAND アミュプラザ小倉店","source_url":"https://test.buttersand.com/news/0910amuplaza_kokura/","evidence_summary":"9月10日に小倉駅直結のアミュプラザ小倉で開業予定と公式発表で確認。","confidence":"high"},
-    {"open_date":"2026-09-10","prefecture":"兵庫県","city":"西宮市","store_name":"かに道楽 西宮店","category":"かに料理・和食","business_type":"chain","source_title":"かに道楽 西宮店が9月10日グランドオープン","source_url":"https://yurunago.or.jp/30153/","evidence_summary":"9月10日に西宮市浜町8-27でグランドオープン予定と地域メディアで確認。","confidence":"medium"}
+    {"open_date":"2026-09-10","prefecture":"兵庫県","city":"西宮市","store_name":"かに道楽 西宮店","category":"かに料理・和食","business_type":"chain","source_title":"かに道楽 西宮店が9月10日グランドオープン","source_url":"https://yurunago.or.jp/30153/","evidence_summary":"9月10日に西宮市浜町8-27でグランドオープン予定と地域メディアで確認。","confidence":"medium"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"渋谷区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"「新宿高島屋」おかき専門店「あげもちCocoro」が9月10日(木)新規オープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000152231.html","evidence_summary":"9月10日に新宿高島屋地下1階和菓子売場で新規オープン。営業時間10:30〜19:30。","confidence":"high"}
   ],
   "search_notes": [
-    "2026-09-03 10:41 JST時点で対象期間を2026-09-03〜2026-09-10として算出した。",
-    "公式企業発表、商業施設情報、地域メディア等を追加検索し、対象期間内の開店日を確認できる店舗を収集した。",
-    "プレオープン・内覧・リニューアル・期間限定POPUP・イベントは本開業と区別し、期間限定のTasaki Special Shopは除外した。",
-    "TOFROM YAESU TOWERは施設開業と商業エリアの順次開業までは確認できたが、個別店舗の開業日が確認できないものは推測で追加していない。",
+    "2026-09-03 11:42 JST時点で対象期間を2026-09-03〜2026-09-10として動的に算出した。",
+    "前回latest.jsonの対象期間内データを再確認し、今回のWeb検索で確認できた新規店舗を追加した。",
+    "公式企業発表、商業施設・地域メディア等を突き合わせ、同一店舗の重複を統合した。",
+    "9月4日の名古屋駅メイチカ関連では、施設全体のリニューアル日と個別の新規店舗開業日を区別し、個別に開業日を確認できた店舗のみ収録した。",
+    "9月5日のTHE SCENE TABLE GINZA、9月10日のあげもちCocoro 新宿高島屋店は今回の新規検索で開業日・所在地を確認して追加した。",
+    "リニューアルのみの店舗、期間限定POPUP、イベント、既存店の単なる再開、実開店日を確認できない候補は除外した。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な公開情報を優先し件数を水増ししていない。"
   ]
 }
