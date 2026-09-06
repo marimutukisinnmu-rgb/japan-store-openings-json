@@ -1,0 +1,25 @@
+{
+  "period": "2026-09-07/2026-09-14",
+  "scope": "Japan",
+  "items": [
+    {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
+    {"open_date":"2026-09-08","prefecture":"神奈川県","city":"横浜市西区","store_name":"メイクアップフォーエバー そごう横浜店","category":"化粧品・コスメ","business_type":"chain","source_title":"メイクアップフォーエバー 9月8日にそごう横浜店へ新コンセプトストアをオープン","source_url":"https://classy-online.jp/prtimes/item-172274/","evidence_summary":"そごう横浜店に日本初の新コンセプトストアを9月8日にオープン。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"渋谷区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"【新宿高島屋】おかき専門店「あげもちCocoro」が9月10日(木)新規オープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000152231.html","evidence_summary":"新宿高島屋地下1階に9月10日新規オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"東京都","city":"新宿区","store_name":"JAPAN EDITION 新宿フラッグス店","category":"セレクトショップ・雑貨","business_type":"chain","source_title":"Flags（新宿フラッグス）JAPAN EDITION 9月11日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000302.000063373.html","evidence_summary":"新宿フラッグスにブランド初のビルイン店舗として9月11日オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"大阪府","city":"豊中市","store_name":"スーパーマーケットバロー 豊中島江店","category":"スーパーマーケット","business_type":"chain","source_title":"バロー／スーパーマーケットバロー豊中島江店 9月11日オープン","source_url":"https://www.ryutsuu.biz/store/s090482.html","evidence_summary":"大阪府豊中市に9月11日新規オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"長崎県","city":"長崎市","store_name":"カラオケまねきねこ 長崎駅前店","category":"カラオケ・エンターテインメント","business_type":"chain","source_title":"カラオケまねきねこ 長崎駅前店 9月11日12:00グランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/327191","evidence_summary":"長崎駅前で9月11日12時グランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"静岡県","city":"熱海市","store_name":"ガシャポンバンダイオフィシャルショップ 未来屋書店熱海店","category":"カプセルトイ","business_type":"chain","source_title":"ガシャポンバンダイオフィシャルショップ 未来屋書店熱海店 2026年9月11日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000482.000159118.html","evidence_summary":"未来屋書店熱海店内に9月11日オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"長崎県","city":"長崎市","store_name":"東京油組総本店 長崎組","category":"油そば","business_type":"chain","source_title":"東京油組総本店 長崎組 9月11日OPEN","source_url":"https://prtimes.jp/main/html/rd/p/000000764.000031747.html","evidence_summary":"長崎・浜町エリアに9月11日新規オープン。","confidence":"high"},
+    {"open_date":"2026-09-12","prefecture":"長崎県","city":"長崎市","store_name":"あご出汁蕎麦 こがね丸 Express","category":"そば・和食","business_type":"chain","source_title":"長崎スタジアムシティに初出店！あご出汁蕎麦 こがね丸 Express 9月12日オープン","source_url":"https://www.nagasakistadiumcity.com/20260903/","evidence_summary":"長崎スタジアムシティ内に9月12日オープン。施設内初の立ち食いそば店。","confidence":"high"},
+    {"open_date":"2026-09-12","prefecture":"東京都","city":"渋谷区","store_name":"MilkyShop TOKYO","category":"スイーツ・バターサンド","business_type":"chain","source_title":"韓国発のスイーツブランド「MilkyShop」が日本初上陸！9月12日東京・渋谷にグランドオープン","source_url":"https://kstyle.com/article.ksn?articleNo=2283520","evidence_summary":"渋谷区神南エリアに日本1号店を9月12日グランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"山形県","city":"山形市","store_name":"テンポス山形店","category":"飲食店向け業務用品・厨房用品","business_type":"chain","source_title":"テンポス山形店 9月14日オープン予定","source_url":"https://prtimes.jp/main/html/rd/p/000000271.000030130.html","evidence_summary":"山形市に飲食店向け用品を扱う新店舗を9月14日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"東京都","city":"足立区","store_name":"ISETAN MiRROR ルミネ北千住店","category":"化粧品・コスメ","business_type":"chain","source_title":"PAUL & JOEが9月14日にISETAN MiRROR ルミネ北千住店へ新規出店","source_url":"https://prtimes.jp/main/html/rd/p/000000033.000169347.html","evidence_summary":"ISETAN MiRROR ルミネ北千住店で9月14日にPAUL & JOEの新規出店を開始。","confidence":"high"}
+  ],
+  "search_notes": [
+    "2026-09-07 04:43 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
+    "前回保存データの対象期間外店舗を除外し、今回のWeb検索で新たに確認できた公開情報を追加した。",
+    "公式企業発表、商業施設情報、地域メディア等を突き合わせ、期間限定POPUP、イベント、単なるリニューアル・移転、対象期間外の店舗は除外した。",
+    "酒類専門店・バー等、未成年者によるアクセスを助長し得る情報は収録対象から除外した。",
+    "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認できた情報を優先し件数を水増ししていない。"
+  ]
+}
