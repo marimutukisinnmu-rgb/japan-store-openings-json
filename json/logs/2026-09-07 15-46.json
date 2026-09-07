@@ -1,7 +1,6 @@
 {
   "period":"2026-09-07/2026-09-14",
   "scope":"Japan",
-  "updatetime":"2026-09-07T15:46:53+09:00",
   "items":[
     {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"カフェ・洋菓子・製菓工房","business_type":"chain","source_title":"アトリエうかい Cafe ＆ Factory HACHIOJI 9月7日グランドオープン","source_url":"https://hachioji.info/atelierukaicafehachiojiopen/","evidence_summary":"イオン八王子滝山South A棟2階に9月7日グランドオープン。","confidence":"high"},
