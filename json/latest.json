@@ -1,6 +1,7 @@
 {
   "period":"2026-09-07/2026-09-14",
   "scope":"Japan",
+  "updatetime":"2026-09-07T10:43:15+09:00",
   "items":[
     {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"カフェ・洋菓子・製菓工房","business_type":"chain","source_title":"アトリエうかい Cafe ＆ Factory HACHIOJI 9月7日グランドオープン","source_url":"https://hachioji.info/atelierukaicafehachiojiopen/","evidence_summary":"イオン八王子滝山South A棟2階に9月7日グランドオープン。","confidence":"high"},
@@ -12,7 +13,7 @@
     {"open_date":"2026-09-09","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"PRESS BUTTER SAND アミュプラザ小倉店（プレオープン）","category":"バターサンド・菓子","business_type":"chain","source_title":"PRESS BUTTER SAND アミュプラザ小倉店","source_url":"https://buttersand.com/news/0910amuplaza_kokura/","evidence_summary":"9月10日の通常オープンに先立ち、9月9日は招待者向けプレオープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"PRESS BUTTER SAND アミュプラザ小倉店","category":"バターサンド・菓子","business_type":"chain","source_title":"PRESS BUTTER SAND アミュプラザ小倉店 9月10日オープン","source_url":"https://buttersand.com/news/0910amuplaza_kokura/","evidence_summary":"アミュプラザ小倉東館3階に9月10日通常オープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"北海道","city":"札幌市中央区","store_name":"日本茶カフェpocha","category":"カフェ・日本茶","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市中央区で9月10日新規オープン予定として掲載。","confidence":"medium"},
-    {"open_date":"2026-09-10","prefecture":"東京都","city":"渋谷区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"新宿高島屋 おかき専門店 あげもちCocoro 9月10日新規オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000152231.html","evidence_summary":"新宿高島屋地下1階に9月10日新規オープン。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"新宿区","store_name":"あげもちCocoro 新宿高島屋店","category":"おかき・和菓子","business_type":"chain","source_title":"新宿高島屋 おかき専門店 あげもちCocoro 9月10日新規オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000152231.html","evidence_summary":"新宿高島屋地下1階に9月10日新規オープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"富山県","city":"射水市","store_name":"かっぱ寿司 アイタウン射水店","category":"回転寿司","business_type":"chain","source_title":"かっぱ寿司 アイタウン射水店 9月10日グランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/318335","evidence_summary":"富山県射水市で9月10日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"千葉県","city":"鎌ケ谷市","store_name":"一風堂 ekubo 京成 新鎌ケ谷店","category":"ラーメン","business_type":"chain","source_title":"一風堂 9月は千葉・埼玉に計2店舗OPEN","source_url":"https://www.ippudo.com/news/2609_open","evidence_summary":"ekubo 京成 新鎌ケ谷3階に9月10日オープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"中央区","store_name":"Archan TOFROM YAESU","category":"イタリアン・レストラン","business_type":"chain","source_title":"Archan TOFROM YAESU 9月10日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000224.000073553.html","evidence_summary":"TOFROM YAESU TOWER 2階に9月10日開業。","confidence":"high"},
@@ -31,7 +32,15 @@
     {"open_date":"2026-09-12","prefecture":"北海道","city":"札幌市中央区","store_name":"吉野家×はなまるうどん 札幌オーロラタウン店","category":"牛丼・うどん","business_type":"chain","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌オーロラタウンで9月12日新規オープン予定として掲載。","confidence":"medium"},
     {"open_date":"2026-09-14","prefecture":"山梨県","city":"笛吹市","store_name":"焼肉きんぐ 笛吹石和店","category":"焼肉","business_type":"chain","source_title":"焼肉きんぐ 笛吹石和店 2026年9月14日グランドオープン","source_url":"https://mantan-web.jp/prtimes/article/20260831prt00m200000028a.html","evidence_summary":"山梨県笛吹市に9月14日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"静岡県","city":"浜松市浜名区","store_name":"FIT-EASY 浜松中瀬店","category":"フィットネスクラブ","business_type":"chain","source_title":"FIT-EASY 浜松中瀬店 9月14日グランドオープン決定","source_url":"https://mantan-web.jp/prtimes/article/20260825prt00m200000261a.html","evidence_summary":"浜松市浜名区で9月14日グランドオープン。8月31日から9月13日までプレオープン。","confidence":"high"},
-    {"open_date":"2026-09-14","prefecture":"福井県","city":"福井市","store_name":"FIT-EASY 福井松本店","category":"フィットネスクラブ","business_type":"chain","source_title":"FIT-EASY 福井松本店 9月14日グランドオープン決定","source_url":"https://mantan-web.jp/prtimes/article/20260826prt00m200001143a.html","evidence_summary":"福井市で9月14日グランドオープン。8月31日から9月13日までプレオープン。","confidence":"high"}
+    {"open_date":"2026-09-14","prefecture":"北海道","city":"札幌市中央区","store_name":"ぷりゅむ","category":"コンカフェ・メイドカフェ","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市すすきので9月14日新規オープン予定として掲載。","confidence":"medium"}
   ],
-  "search_notes":["2026-09-07 09:42 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。","前回保存データを対象期間内に限定して再確認し、公式企業発表、商業施設公式情報、地域店舗情報、地域メディア等を突き合わせた。","プレオープンはグランドオープンと区別し、単なるリニューアル、期間限定POPUP、イベントのみ、対象期間外の開業情報は除外した。","全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報を優先し件数を水増ししていない。"]
+  "search_notes":[
+    "2026-09-07 10:43 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
+    "前回保存データを対象期間内に限定して再確認し、公式発表、商業施設情報、地域メディア等を横断した。",
+    "FIT-EASY 福井松本店は9月1日付の訂正告知でグランドオープンが9月24日に延期されたことを確認したため、今回の対象期間から除外した。",
+    "9月10日のPRESS BUTTER SAND アミュプラザ小倉店は9月9日の招待者向けプレオープンと9月10日の通常オープンを区別した。",
+    "今回の追加検索では対象期間内の新規オープンとして札幌の『ぷりゅむ』を確認した。",
+    "単なるリニューアル、期間限定POPUP、イベントのみ、対象期間外の店舗、開業日を確認できない店舗は除外した。",
+    "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報を優先し件数を水増ししていない。"
+  ]
 }
