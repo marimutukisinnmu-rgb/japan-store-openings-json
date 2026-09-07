@@ -1,7 +1,7 @@
 {
   "period":"2026-09-07/2026-09-14",
   "scope":"Japan",
-  "updatetime":"2026-09-07T10:43:15+09:00",
+  "updatetime":"2026-09-07T11:41:48+09:00",
   "items":[
     {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"カフェ・洋菓子・製菓工房","business_type":"chain","source_title":"アトリエうかい Cafe ＆ Factory HACHIOJI 9月7日グランドオープン","source_url":"https://hachioji.info/atelierukaicafehachiojiopen/","evidence_summary":"イオン八王子滝山South A棟2階に9月7日グランドオープン。","confidence":"high"},
@@ -32,14 +32,17 @@
     {"open_date":"2026-09-12","prefecture":"北海道","city":"札幌市中央区","store_name":"吉野家×はなまるうどん 札幌オーロラタウン店","category":"牛丼・うどん","business_type":"chain","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌オーロラタウンで9月12日新規オープン予定として掲載。","confidence":"medium"},
     {"open_date":"2026-09-14","prefecture":"山梨県","city":"笛吹市","store_name":"焼肉きんぐ 笛吹石和店","category":"焼肉","business_type":"chain","source_title":"焼肉きんぐ 笛吹石和店 2026年9月14日グランドオープン","source_url":"https://mantan-web.jp/prtimes/article/20260831prt00m200000028a.html","evidence_summary":"山梨県笛吹市に9月14日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"静岡県","city":"浜松市浜名区","store_name":"FIT-EASY 浜松中瀬店","category":"フィットネスクラブ","business_type":"chain","source_title":"FIT-EASY 浜松中瀬店 9月14日グランドオープン決定","source_url":"https://mantan-web.jp/prtimes/article/20260825prt00m200000261a.html","evidence_summary":"浜松市浜名区で9月14日グランドオープン。8月31日から9月13日までプレオープン。","confidence":"high"},
-    {"open_date":"2026-09-14","prefecture":"北海道","city":"札幌市中央区","store_name":"ぷりゅむ","category":"コンカフェ・メイドカフェ","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市すすきので9月14日新規オープン予定として掲載。","confidence":"medium"}
+    {"open_date":"2026-09-14","prefecture":"北海道","city":"札幌市中央区","store_name":"ぷりゅむ","category":"コンカフェ・メイドカフェ","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市すすきので9月14日新規オープン予定として掲載。","confidence":"medium"},
+    {"open_date":"2026-09-14","prefecture":"東京都","city":"足立区","store_name":"ISETAN MiRROR ルミネ北千住店","category":"化粧品・コスメ","business_type":"chain","source_title":"PAUL & JOE 9月14日 ISETAN MiRROR ルミネ北千住店オープン","source_url":"https://news.livedoor.com/pr_article/detail/32211647/","evidence_summary":"ルミネ北千住3階で9月14日オープン。PAUL & JOEのセルフスタイル売場を新設。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"滋賀県","city":"近江八幡市","store_name":"らぁ麺王堂 近江八幡店","category":"ラーメン","business_type":"independent","source_title":"らぁ麺王堂 近江八幡店が9月14日オープン","source_url":"https://shiga2.jp/ramen-odo-omihachiman-open/shiga2/","evidence_summary":"滋賀県近江八幡市出町458で9月14日オープン予定。公式Instagramと現地案内で開業日を確認。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"神奈川県","city":"横浜市磯子区","store_name":"イタリアン リゾート ペルティカ 横浜杉田店","category":"イタリアン・レストラン","business_type":"chain","source_title":"イタリアン リゾート ペルティカ 横浜杉田店 9月14日グランドオープン","source_url":"https://gourmetpress.net/1478386/","evidence_summary":"横浜市磯子区杉田5丁目21-29で9月14日グランドオープン。営業時間は10:30〜23:00。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-07 10:43 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
+    "2026-09-07 11:41 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
     "前回保存データを対象期間内に限定して再確認し、公式発表、商業施設情報、地域メディア等を横断した。",
+    "今回の追加検索で9月14日のISETAN MiRROR ルミネ北千住店、らぁ麺王堂 近江八幡店、イタリアン リゾート ペルティカ 横浜杉田店を新たに確認した。",
     "FIT-EASY 福井松本店は9月1日付の訂正告知でグランドオープンが9月24日に延期されたことを確認したため、今回の対象期間から除外した。",
     "9月10日のPRESS BUTTER SAND アミュプラザ小倉店は9月9日の招待者向けプレオープンと9月10日の通常オープンを区別した。",
-    "今回の追加検索では対象期間内の新規オープンとして札幌の『ぷりゅむ』を確認した。",
     "単なるリニューアル、期間限定POPUP、イベントのみ、対象期間外の店舗、開業日を確認できない店舗は除外した。",
     "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な情報を優先し件数を水増ししていない。"
   ]
