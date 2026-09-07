@@ -1,7 +1,7 @@
 {
   "period":"2026-09-07/2026-09-14",
   "scope":"Japan",
-  "updatetime":"2026-09-07T18:41:30+09:00",
+  "updatetime":"2026-09-07T19:43:35+09:00",
   "items":[
     {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"カフェ・洋菓子・製菓工房","business_type":"chain","source_title":"アトリエうかい Cafe ＆ Factory HACHIOJI 9月7日グランドオープン","source_url":"https://hachioji.info/atelierukaicafehachiojiopen/","evidence_summary":"イオン八王子滝山South A棟2階に9月7日グランドオープン。","confidence":"high"},
@@ -49,25 +49,32 @@
     {"open_date":"2026-09-11","prefecture":"東京都","city":"江戸川区","store_name":"N+ 島忠ホームズ葛西店","category":"アパレル","business_type":"chain","source_title":"ニトリのアパレル『N+』、川崎・葛西の島忠に9月11日同時オープン","source_url":"https://ampmedia.jp/2026/09/07/nplus-0911/","evidence_summary":"島忠ホームズ葛西店に9月11日オープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"福岡県","city":"福岡市東区","store_name":"うどん大文字 イオン福岡東店","category":"うどん・飲食店","business_type":"chain","source_title":"イオン福岡東ショッピングセンター第2弾リニューアル、博多三氣とうどん大文字が9月11日オープン","source_url":"https://foods-ch.infomart.co.jp/news/327226","evidence_summary":"イオン福岡東ショッピングセンターのフードコートに9月11日オープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"富山県","city":"富山市","store_name":"ガシャポンバンダイオフィシャルショップ アピタ富山東店","category":"カプセルトイ専門店","business_type":"chain","source_title":"ガシャポンバンダイオフィシャルショップ アピタ富山東店 2026年9月11日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000483.000159118.html","evidence_summary":"アピタ富山東店に9月11日オープン。","confidence":"high"},
-    {"open_date":"2026-09-12","prefecture":"京都府","city":"京都市南区","store_name":"ガリバー京都店","category":"中古車販売・整備","business_type":"chain","source_title":"中古車のガリバー『ガリバー京都店』2026年9月12日グランドオープン","source_url":"https://response.jp/release/prtimes/20260828/306892.html","evidence_summary":"京都市内の国道1号沿いで9月12日グランドオープン。大型展示場と自社整備工場を併設。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"東京都","city":"世田谷区","store_name":"一膳 二子玉川ライズ店","category":"和牛ひつまぶし・和食","business_type":"chain","source_title":"和牛ひつまぶし専門店「一膳」　二子玉川ライズ店（2026年9月11日オープン）","source_url":"https://setagaya.guide/new_store_opening/ichizen-futakotamagawa-rise/","evidence_summary":"二子玉川ライズ・ショッピングセンター7階に9月11日オープン。YOSHIMI運営の2店舗目。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"宮城県","city":"仙台市泉区","store_name":"Workman Colors ヨークタウン仙台市名坂店","category":"アパレル・ワークウェア","business_type":"chain","source_title":"Workman Colors ヨークタウン仙台市名坂店 9月11日オープン","source_url":"https://sendaiminami-tusin.com/workman260810/","evidence_summary":"仙台市泉区市名坂中道100-9で9月11日オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"大阪府","city":"吹田市","store_name":"tiny pod","category":"焼き菓子・スイーツ","business_type":"independent","source_title":"JR吹田駅チカに誕生！こだわりの焼き菓子店「tiny pod」がオープン","source_url":"https://kansai-kaiten.com/tinypod-suita2609/","evidence_summary":"JR吹田駅近くで9月11日に実店舗をグランドオープン。オンライン・イベント販売から実店舗へ展開。","confidence":"high"},
+    {"open_date":"2026-09-12","prefecture":"京都府","city":"京都市南区","store_name":"ガリバー京都店","category":"中古車販売・整備","business_type":"chain","source_title":"中古車のガリバー、ガリバー京都店が2026年9月12日グランドオープン","source_url":"https://idom-inc.com/news/press/20260828-38673.html","evidence_summary":"京都市南区上鳥羽城ケ前町234-1で9月12日グランドオープン。9月5日から11日はプレオープン。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"北海道","city":"札幌市中央区","store_name":"吉野家×はなまるうどん 札幌オーロラタウン店","category":"牛丼・うどん","business_type":"chain","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市中央区・大通エリアで9月12日新規オープン予定として掲載。","confidence":"medium"},
     {"open_date":"2026-09-12","prefecture":"長崎県","city":"長崎市","store_name":"あご出汁蕎麦 こがね丸 Express","category":"そば・立ち食いそば","business_type":"chain","source_title":"長崎スタジアムシティに『あご出汁蕎麦 こがね丸 Express』が9月12日オープン","source_url":"https://www.nagasakistadiumcity.com/20260903/","evidence_summary":"長崎スタジアムシティ内PEACE STADIUM Concourseに9月12日オープン。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"山形県","city":"天童市","store_name":"そば処 縁結～en～","category":"そば・和食","business_type":"independent","source_title":"天童市 9月12日オープン 期待の新店『そば処 縁結～en～』","source_url":"https://fullpokko.com/open-close/en-open2-pin/","evidence_summary":"山形県天童市で9月12日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"東京都","city":"港区","store_name":"CULLNI AOYAMA","category":"ファッション","business_type":"chain","source_title":"クルニが東京・南青山に新路面店オープン、国内2店舗目","source_url":"https://www.fashion-press.net/news/150625","evidence_summary":"南青山に国内2店舗目の路面店として9月12日オープン。","confidence":"high"},
+    {"open_date":"2026-09-12","prefecture":"大阪府","city":"大阪市中央区","store_name":"CRONOS 心斎橋店","category":"アクティブウェア・ファッション","business_type":"chain","source_title":"CRONOS 心斎橋店、9月12日（土）グランドオープン","source_url":"https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDE4My4wMDAwODExNzkuaHRtbA%3D%3D","evidence_summary":"大阪・心斎橋筋商店街に9月12日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-13","prefecture":"東京都","city":"中央区","store_name":"zen place pilates 人形町","category":"ピラティス・ヨガスタジオ","business_type":"chain","source_title":"2026年9月13日（日）新店オープン zen place pilates 人形町","source_url":"https://mantan-web.jp/prtimes/article/20260826prt00m200000635a.html","evidence_summary":"人形町駅A5出口徒歩6分の新スタジオとして9月13日オープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"東京都","city":"足立区","store_name":"ISETAN MiRROR ルミネ北千住店","category":"化粧品・コスメ","business_type":"chain","source_title":"9月、PAUL & JOEが新たに3つの場所へ","source_url":"https://www.zaikei.co.jp/releases/3595409/","evidence_summary":"ルミネ北千住3階に9月14日新規オープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"静岡県","city":"浜松市浜名区","store_name":"FIT-EASY 浜松中瀬店","category":"フィットネスクラブ","business_type":"chain","source_title":"FIT-EASY 浜松中瀬店 9月14日グランドオープン決定","source_url":"https://prtimes.jp/main/html/rd/p/000000991.000099487.html","evidence_summary":"浜松市浜名区中瀬104-1で9月14日グランドオープン。8月31日〜9月13日はプレオープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"山形県","city":"山形市","store_name":"テンポスバスターズ山形店","category":"厨房機器・飲食店用品","business_type":"chain","source_title":"テンポス山形店 9月14日オープン予定","source_url":"https://prtimes.jp/main/html/rd/p/000000271.000030130.html","evidence_summary":"山形市馬見ケ崎4丁目2-5で9月14日オープン予定。営業時間10:00〜19:00。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"愛媛県","city":"松山市","store_name":"plan:c（プランク）","category":"生パスタ・オープンサンド","business_type":"independent","source_title":"天山『Chianti』跡地に新店『plan:c（プランク）』が9月14日オープン予定","source_url":"https://matsuyama.goguynet.jp/2026/08/29/planc/","evidence_summary":"松山市天山の旧Chianti跡地で9月14日オープン予定。生パスタとオープンサンドの店。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"北海道","city":"札幌市中央区","store_name":"ぷりゅむ","category":"コンカフェ・メイドカフェ","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市すすきのエリアで9月14日新規オープン予定として掲載。","confidence":"medium"},
-    {"open_date":"2026-09-14","prefecture":"神奈川県","city":"横浜市磯子区","store_name":"イタリアン リゾート ペルティカ 横浜杉田店","category":"イタリアン・レストラン","business_type":"chain","source_title":"9/14グランドOPEN イタリアン リゾート ペルティカ 横浜杉田店","source_url":"https://prtimes.jp/main/html/rd/p/000001238.000033462.html","evidence_summary":"横浜市磯子区杉田で9月14日グランドオープン。","confidence":"high"}
+    {"open_date":"2026-09-14","prefecture":"神奈川県","city":"横浜市磯子区","store_name":"イタリアン リゾート ペルティカ 横浜杉田店","category":"イタリアン・レストラン","business_type":"chain","source_title":"9/14グランドOPEN イタリアン リゾート ペルティカ 横浜杉田店","source_url":"https://prtimes.jp/main/html/rd/p/000001238.000033462.html","evidence_summary":"横浜市磯子区杉田で9月14日グランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"東京都","city":"目黒区","store_name":"SOPRA 目黒武蔵小山店","category":"ペットサロン・犬の幼稚園","business_type":"chain","source_title":"目黒武蔵小山店 2026年9月14日オープン決定のお知らせ","source_url":"https://sopraginza.co.jp/news/musashikoyama-open-2026-09/","evidence_summary":"東京都目黒区目黒本町3丁目1-5で9月14日グランドオープン。トリミング、犬の幼稚園、ペットホテル等を併設。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"山梨県","city":"笛吹市","store_name":"焼肉きんぐ 笛吹石和店","category":"焼肉","business_type":"chain","source_title":"焼肉きんぐ 笛吹石和店が2026年9月14日グランドオープン","source_url":"https://www.mapion.co.jp/news/release/000001520.000044964-all/","evidence_summary":"山梨県笛吹市石和町窪中島100-1で9月14日グランドオープン。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-07 18:41 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
-    "前回データを対象期間内に限定して再確認し、当日公開の企業発表、商業施設情報、地域メディア等を追加検索した。",
-    "今回の追加検索では、既存itemsに含まれる対象期間内店舗について日付・開業情報の再確認を行い、対象期間外の店舗は追加していない。",
-    "2026年9月10日オープンのPRESS BUTTER SAND アミュプラザ小倉店について、公式告知で9月9日は招待者向けプレオープン、9月10日を通常オープンと確認した。",
-    "リニューアル、期間限定POPUP、イベントのみ、対象期間外、開業日を確認できない店舗は除外した。",
-    "公開Web情報だけでは全国の個人店・小規模店を完全網羅できないため、確認可能な情報を優先し件数を水増ししていない。"
+    "2026-09-07 19:43 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
+    "前回latest.jsonを基礎資料として対象期間内の店舗だけを再確認し、公式企業発表、商業施設情報、地域メディア等を横断して追加検索した。",
+    "今回の追加検索で9月11日の一膳 二子玉川ライズ店、Workman Colors ヨークタウン仙台市名坂店、tiny pod、9月12日のCRONOS 心斎橋店、9月14日のSOPRA 目黒武蔵小山店、焼肉きんぐ 笛吹石和店を追加した。",
+    "9月14日のSOPRA 目黒武蔵小山店は公式告知で9月14日オープンを確認し、9月15日以降の店舗は対象外として除外した。",
+    "FIT-EASY 福井松本店は9月14日予定の告知が確認できたが、今回の既存データでは延期情報があるため収録せず、対象日付の再確認が必要な案件として扱った。",
+    "プレオープンとグランドオープン、単なるリニューアル、期間限定POPUP、イベントのみ、対象期間外、開業日を確認できない店舗は除外した。",
+    "公開Web情報だけでは全国の個人店・小規模店を完全網羅できないため、確認可能な公開情報を優先し件数を水増ししていない。"
   ]
 }
