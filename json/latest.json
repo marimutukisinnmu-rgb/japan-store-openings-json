@@ -1,7 +1,7 @@
 {
   "period":"2026-09-07/2026-09-14",
   "scope":"Japan",
-  "updatetime":"2026-09-07T17:44:10+09:00",
+  "updatetime":"2026-09-07T18:41:30+09:00",
   "items":[
     {"open_date":"2026-09-07","prefecture":"東京都","city":"中央区","store_name":"壱角家 八重洲店","category":"ラーメン","business_type":"chain","source_title":"壱角家 八重洲店が2026年9月7日(月)にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000345.000027681.html","evidence_summary":"東京都中央区八重洲エリアで9月7日に新規オープン。","confidence":"high"},
     {"open_date":"2026-09-07","prefecture":"東京都","city":"八王子市","store_name":"アトリエうかい Cafe ＆ Factory HACHIOJI","category":"カフェ・洋菓子・製菓工房","business_type":"chain","source_title":"アトリエうかい Cafe ＆ Factory HACHIOJI 9月7日グランドオープン","source_url":"https://hachioji.info/atelierukaicafehachiojiopen/","evidence_summary":"イオン八王子滝山South A棟2階に9月7日グランドオープン。","confidence":"high"},
@@ -63,11 +63,10 @@
     {"open_date":"2026-09-14","prefecture":"神奈川県","city":"横浜市磯子区","store_name":"イタリアン リゾート ペルティカ 横浜杉田店","category":"イタリアン・レストラン","business_type":"chain","source_title":"9/14グランドOPEN イタリアン リゾート ペルティカ 横浜杉田店","source_url":"https://prtimes.jp/main/html/rd/p/000001238.000033462.html","evidence_summary":"横浜市磯子区杉田で9月14日グランドオープン。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-07 17:44 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
+    "2026-09-07 18:41 JST時点で対象期間を2026-09-07〜2026-09-14として動的に算出した。",
     "前回データを対象期間内に限定して再確認し、当日公開の企業発表、商業施設情報、地域メディア等を追加検索した。",
-    "今回、ELLE cafe TAKANAWA、れんげ食堂Toshu 北小金店、北海道生まれ和食処とんでん 我孫子手賀沼店、参厘舎、東横INNつくば駅、N+島忠ホームズ川崎大師店、N+島忠ホームズ葛西店、うどん大文字 イオン福岡東店、ガシャポンバンダイオフィシャルショップ アピタ富山東店、あご出汁蕎麦 こがね丸 Express、そば処 縁結～en～、CULLNI AOYAMA、高価買取おたからや草加西町店、高価買取おたからやイオン高松東店等を新たに確認した。",
-    "9月9日のPRESS BUTTER SANDは招待者向けプレオープン、9月11日のMAMMUTは9月9日のプレオープンイベントとは区別してグランドオープン日を収録した。",
-    "FIT-EASY浜松中瀬店は8月31日〜9月13日のプレオープンと9月14日のグランドオープンを区別した。",
+    "今回の追加検索では、既存itemsに含まれる対象期間内店舗について日付・開業情報の再確認を行い、対象期間外の店舗は追加していない。",
+    "2026年9月10日オープンのPRESS BUTTER SAND アミュプラザ小倉店について、公式告知で9月9日は招待者向けプレオープン、9月10日を通常オープンと確認した。",
     "リニューアル、期間限定POPUP、イベントのみ、対象期間外、開業日を確認できない店舗は除外した。",
     "公開Web情報だけでは全国の個人店・小規模店を完全網羅できないため、確認可能な情報を優先し件数を水増ししていない。"
   ]
