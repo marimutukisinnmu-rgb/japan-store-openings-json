@@ -1,7 +1,7 @@
 {
   "period":"2026-09-08/2026-09-15",
   "scope":"Japan",
-  "updatetime":"2026-09-08T19:41:46+09:00",
+  "updatetime":"2026-09-08T21:45:58+09:00",
   "items":[
     {"open_date":"2026-09-08","prefecture":"神奈川県","city":"横浜市西区","store_name":"メイクアップフォーエバー そごう横浜店","category":"化粧品・コスメ","business_type":"chain","source_title":"メイクアップフォーエバー 9月8日にそごう横浜店へ新コンセプトストアをオープン","source_url":"https://classy-online.jp/prtimes/item-172274/","evidence_summary":"そごう横浜店に9月8日オープン。","confidence":"high"},
     {"open_date":"2026-09-08","prefecture":"高知県","city":"高知市","store_name":"JOYFULL EXPRESS イオンモール高知店","category":"ファミリーレストラン・フードコート","business_type":"chain","source_title":"JOYFULL EXPRESS イオンモール高知店 2026年9月8日グランドオープン","source_url":"https://mantan-web.jp/prtimes/article/20260831prt00m200000872a.html","evidence_summary":"イオンモール高知東館3階に9月8日10時グランドオープン。","confidence":"high"},
@@ -25,6 +25,7 @@
     {"open_date":"2026-09-10","prefecture":"北海道","city":"札幌市中央区","store_name":"日本茶カフェpocha","category":"カフェ・日本茶","business_type":"independent","source_title":"札幌エリアの新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/sapporo/open-shop-list/202609/","evidence_summary":"札幌市中央区で9月10日新規オープン予定として掲載。","confidence":"medium"},
     {"open_date":"2026-09-10","prefecture":"栃木県","city":"宇都宮市","store_name":"ローソン 宇都宮下小倉町","category":"コンビニエンスストア","business_type":"chain","source_title":"関東エリア｜新店情報｜ローソン","source_url":"https://mldata.lawson.co.jp/newstore/smt/kantou.html","evidence_summary":"宇都宮市下小倉町951-3で9月10日オープン。","confidence":"high"},
     {"open_date":"2026-09-10","prefecture":"東京都","city":"中央区","store_name":"ローソン TOFROM YAESU TOWER 4F","category":"コンビニエンスストア","business_type":"chain","source_title":"関東エリア｜新店情報｜ローソン","source_url":"https://mldata.lawson.co.jp/newstore/smt/kantou.html","evidence_summary":"中央区八重洲1-300のTOFROM YAESU TOWER 4階で9月10日オープン。","confidence":"high"},
+    {"open_date":"2026-09-10","prefecture":"東京都","city":"北区","store_name":"和み処KEI","category":"和食・飲食店","business_type":"independent","source_title":"東京都北区 十条銀座商店街に9月10日(木)新店「和み処KEI」オープン予定","source_url":"https://tokyokita.goguynet.jp/2026/09/08/kei20260910/","evidence_summary":"十条銀座商店街で2026年9月10日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"岐阜県","city":"岐南町","store_name":"Beisia Foods Park 岐南店","category":"スーパーマーケット","business_type":"chain","source_title":"Beisia Foods Park 岐南店 9月11日グランドオープン","source_url":"https://www.beisia.co.jp/news/","evidence_summary":"岐阜県羽島郡岐南町で9月11日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"大阪府","city":"豊中市","store_name":"スーパーマーケットバロー 豊中島江店","category":"スーパーマーケット","business_type":"chain","source_title":"バロー 豊中島江店 9月11日オープン","source_url":"https://www.ryutsuu.biz/store/s090482.html","evidence_summary":"大阪府豊中市に9月11日オープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"大阪府","city":"島本町","store_name":"フードスタイル水無瀬店","category":"スーパーマーケット","business_type":"chain","source_title":"ダイエー 9月11日大阪府島本町にフードスタイル水無瀬店オープン","source_url":"https://diamond-rm.net/flash_news/556785/","evidence_summary":"大阪府島本町に9月11日オープン。","confidence":"high"},
@@ -39,6 +40,9 @@
     {"open_date":"2026-09-11","prefecture":"宮城県","city":"仙台市泉区","store_name":"Workman Colors ヨークタウン仙台市名坂店","category":"アパレル・ワークウェア","business_type":"chain","source_title":"Workman Colors ヨークタウン仙台市名坂店 9月11日オープン","source_url":"https://sendaiminami-tusin.com/workman260810/","evidence_summary":"仙台市泉区市名坂中道100-9で9月11日オープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"大阪府","city":"吹田市","store_name":"tiny pod","category":"焼き菓子・スイーツ","business_type":"independent","source_title":"JR吹田駅チカに焼き菓子店 tiny pod がオープン","source_url":"https://kansai-kaiten.com/tinypod-suita2609/","evidence_summary":"JR吹田駅近くで9月11日に実店舗をグランドオープン。","confidence":"high"},
     {"open_date":"2026-09-11","prefecture":"東京都","city":"新宿区","store_name":"ローソン 新宿早稲田通","category":"コンビニエンスストア","business_type":"chain","source_title":"関東エリア｜新店情報｜ローソン","source_url":"https://mldata.lawson.co.jp/newstore/smt/kantou.html","evidence_summary":"新宿区西早稲田2-18-18で9月11日オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"三重県","city":"津市","store_name":"Tecc LIFE SELECT そよら津桜橋店","category":"家電・家具・リフォーム","business_type":"chain","source_title":"ヤマダデンキの「くらしまるごと」体験・体感型店舗が三重県に初進出！「Tecc LIFE SELECT そよら津桜橋店」9月11日（金）オープン","source_url":"https://prtimes.jp/main/html/rd/p/000001158.000082557.html","evidence_summary":"そよら津桜橋内に2026年9月11日オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"東京都","city":"江東区","store_name":"スーパー三和 ららぽーと豊洲店","category":"スーパーマーケット","business_type":"chain","source_title":"「スーパー三和 ららぽーと豊洲店」、9月11日にオープン！","source_url":"https://toyosu.tokyo/open-close/super-sanwa-lalaport-toyosu-grandopen-info/","evidence_summary":"アーバンドッグ ららぽーと豊洲2の1階に9月11日10時オープン。","confidence":"high"},
+    {"open_date":"2026-09-11","prefecture":"大阪府","city":"大阪市北区","store_name":"OMMO ルクア大阪店","category":"ファッション","business_type":"chain","source_title":"ブランド初となる常設店舗をルクア大阪に2026年9月11日（金）オープン【OMMO】","source_url":"https://prtimes.jp/main/html/rd/p/000000006.000125964.html","evidence_summary":"ルクア大阪2階にブランド初の常設店舗を9月11日オープン。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"京都府","city":"京都市南区","store_name":"ガリバー京都店","category":"中古車販売・整備","business_type":"chain","source_title":"ガリバー京都店 2026年9月12日グランドオープン","source_url":"https://idom-inc.com/news/press/20260828-38673.html","evidence_summary":"京都市南区で9月12日グランドオープン。9月5日〜11日はプレオープン。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"島根県","city":"松江市","store_name":"JBOWL 松江店","category":"アサイーボウル・グリークヨーグルト","business_type":"independent","source_title":"松江・カラコロ工房にJBOWL松江店 9/12オープン","source_url":"https://www.lazuda.com/news/archives/8324","evidence_summary":"カラコロ工房1階フードホール内に9月12日オープン。","confidence":"high"},
     {"open_date":"2026-09-12","prefecture":"山形県","city":"天童市","store_name":"そば処 縁結～en～","category":"そば・和食","business_type":"independent","source_title":"天童市 9月12日オープン そば処 縁結～en～","source_url":"https://fullpokko.com/open-close/en-open2-pin/","evidence_summary":"山形県天童市で9月12日オープン予定。","confidence":"high"},
@@ -56,17 +60,19 @@
     {"open_date":"2026-09-14","prefecture":"東京都","city":"目黒区","store_name":"SOPRA 目黒武蔵小山店","category":"ペットサロン・犬の幼稚園","business_type":"chain","source_title":"目黒武蔵小山店 2026年9月14日オープン決定","source_url":"https://sopraginza.co.jp/news/musashikoyama-open-2026-09/","evidence_summary":"東京都目黒区目黒本町3丁目で9月14日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"山梨県","city":"笛吹市","store_name":"焼肉きんぐ 笛吹石和店","category":"焼肉","business_type":"chain","source_title":"焼肉きんぐ 笛吹石和店 2026年9月14日グランドオープン","source_url":"https://www.mapion.co.jp/news/release/000001520.000044964-all/","evidence_summary":"山梨県笛吹市で9月14日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"滋賀県","city":"近江八幡市","store_name":"らぁ麺王堂 近江八幡店","category":"ラーメン","business_type":"independent","source_title":"近江八幡市 らぁ麺王堂 近江八幡店が2026年9月14日オープン","source_url":"https://shiga2.jp/ramen-odo-omihachiman-open/shiga2/","evidence_summary":"滋賀県近江八幡市出町458で9月14日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"宮城県","city":"岩沼市","store_name":"スターバックス コーヒー 岩沼店","category":"カフェ","business_type":"chain","source_title":"スターバックス コーヒー 岩沼店｜スターバックス コーヒー ジャパン","source_url":"https://store.starbucks.co.jp/detail-4618/","evidence_summary":"宮城県岩沼市桜2-8-35で2026年9月14日オープン。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"愛知県","city":"豊田市","store_name":"マクドナルド豊田四郷店","category":"ファストフード","business_type":"chain","source_title":"マクドナルド豊田四郷店 9月14日オープン予定","source_url":"https://toyota.goguynet.jp/2026/08/20/makudonarudo-umetubo-itenn-toyotasigou-o-punn/","evidence_summary":"移転先の新店舗として2026年9月14日7時オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-14","prefecture":"三重県","city":"いなべ市","store_name":"マクドナルドいなべ北勢店","category":"ファストフード","business_type":"chain","source_title":"マクドナルド いなべ北勢店 2026年9月14日オープン予定","source_url":"https://ekimaemap.com/ageki/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E3%81%84%E3%81%AA%E3%81%B9%E5%8C%97%E5%8B%A2%E5%BA%97/","evidence_summary":"三重県いなべ市北勢町阿下喜で9月14日オープン予定。","confidence":"medium"},
     {"open_date":"2026-09-15","prefecture":"東京都","city":"足立区","store_name":"京都北白川ラーメン魁力屋 足立六町店","category":"ラーメン","business_type":"chain","source_title":"東京都 足立六町店 2026年9月15日オープン","source_url":"https://www.kairikiya.co.jp/news/7065","evidence_summary":"東京都足立区六町1丁目6-5で9月15日グランドオープン予定。","confidence":"high"},
     {"open_date":"2026-09-15","prefecture":"東京都","city":"新宿区","store_name":"BAKERS gonna BAKE ルミネ新宿","category":"スコーン・ミルクティー","business_type":"chain","source_title":"BAKERS gonna BAKE ルミネ新宿 9月15日NEW OPEN","source_url":"https://prtimes.jp/main/html/rd/p/000001085.000005743.html","evidence_summary":"ルミネ新宿に9月15日新規オープン。ブランド3号店。","confidence":"high"},
     {"open_date":"2026-09-15","prefecture":"兵庫県","city":"伊丹市","store_name":"からやま 伊丹店","category":"からあげ専門店","business_type":"chain","source_title":"道意線沿いにからやま 9月15日オープン予定","source_url":"https://itami.goguynet.jp/2026/08/14/karayamaopen/","evidence_summary":"兵庫県伊丹市の道意線沿いで9月15日オープン予定。","confidence":"medium"},
     {"open_date":"2026-09-15","prefecture":"宮城県","city":"仙台市青葉区","store_name":"MARE & OYSTER エスパル仙台","category":"牡蠣・シーフードレストラン","business_type":"chain","source_title":"エスパル仙台 MARE & OYSTERが9月15日にNEW OPEN","source_url":"https://prtimes.jp/main/html/rd/p/000000241.000149926.html","evidence_summary":"エスパル仙台東館3階に9月15日11時オープン。東北初出店。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-08 19:41 JST時点で対象期間を2026-09-08〜2026-09-15として動的に算出した。",
-    "前回latest.jsonの対象期間内データを再確認し、公式企業発表、商業施設情報、地域メディア、ローソン公式新店情報等を横断して追加検索した。",
-    "今回の追加確認で、9月10日の日本茶カフェpocha、ローソン宇都宮下小倉町、ローソンTOFROM YAESU TOWER 4F、9月11日のローソン新宿早稲田通、9月12日の吉野家×はなまるうどん札幌オーロラタウン店、ポメラート名古屋栄三越、9月14日のらぁ麺王堂近江八幡店、9月15日のMARE & OYSTER エスパル仙台を追加した。",
-    "PRESS BUTTER SAND アミュプラザ小倉店は9月10日通常オープン、9月9日は招待者向けプレオープンとして公式情報で再確認した。",
-    "期間限定POPUP、商品発売、イベントのみ、単なるリニューアル、対象期間外、開業日を確認できない案件は除外した。",
-    "全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認可能な公開情報を優先し件数を水増ししていない。"
+    "2026-09-08 21:45:58 JST時点で対象期間を2026-09-08〜2026-09-15として再検索した。",
+    "前回データを再確認し、地域メディア、企業公式情報、商業施設情報、プレスリリース等を横断して重複を除去した。",
+    "今回、和み処KEI、Tecc LIFE SELECT そよら津桜橋店、スーパー三和 ららぽーと豊洲店、OMMO ルクア大阪店、スターバックス コーヒー 岩沼店、マクドナルド豊田四郷店、マクドナルドいなべ北勢店を追加した。",
+    "移転・リニューアル案件は、新規店舗として確認できるもののみ採用した。",
+    "対象期間外、商品発売のみ、期間限定イベントのみ、開業日を確認できない案件は除外した。"
   ]
 }
