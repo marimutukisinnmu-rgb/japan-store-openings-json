@@ -1,0 +1,39 @@
+{
+  "updatetime": "2026-09-09T03:45:32+09:00",
+  "period": "2026-09-09/2026-09-16",
+  "scope": "Japan",
+  "search_notes": [
+    "実行時刻は2026-09-09 03:45:32 JST。",
+    "全国の開店予定を公式発表、商業施設、地域メディア、開店情報データベース等で再検索。",
+    "9月16日の新規確認として元祖豚丼屋TONTON山形大野目店（山形県山形市）とコメリハード＆グリーン酒田店（山形県酒田市）を確認。",
+    "既存latest.jsonは2026-09-08/2026-09-15版。対象期間を2026-09-09/2026-09-16へ更新する必要がある。",
+    "既存latest.json本文を保持したまま安全に再構成できる更新経路がこの実行では確保できなかったため、latest.jsonは誤上書きせず保持。",
+    "409競合発生時の古いSHA再利用は行わず、最新ファイルSHAを再取得して確認した。"
+  ],
+  "new_candidates": [
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "store_name": "元祖豚丼屋TONTON 山形大野目店",
+      "category": "豚丼・飲食店",
+      "business_type": "chain",
+      "source_title": "2026年9月 山形の新店16軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "2026年9月16日オープン予定。山形市浜崎8の虎堂家山形大野目店内。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "store_name": "コメリハード＆グリーン酒田店",
+      "category": "ホームセンター",
+      "business_type": "chain",
+      "source_title": "2026年9月 山形の新店16軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "2026年9月16日朝9時オープン予定。酒田市四ツ興野430。",
+      "confidence": "high"
+    }
+  ]
+}
