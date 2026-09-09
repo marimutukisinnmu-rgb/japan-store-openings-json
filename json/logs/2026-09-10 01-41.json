@@ -1,0 +1,7 @@
+{
+  "updatetime":"2026-09-10T01:41:41+09:00",
+  "period":"2026-09-10/2026-09-17",
+  "search_notes":["全国横断検索を実施。公式企業発表、商業施設、地域メディア、業界メディア等を確認。","既存latest.jsonの対象期間内データを保持し、9/16〜9/17の確認済み開店予定を追加する生成データを作成。","latest.json更新は409 Conflict。最新SHAを再取得したが同じSHAが返り、再試行でも409となったため、古いSHAの反復はせず停止。latest.json更新完了とは扱わない。"],
+  "latest_update_status":"409_conflict_retry_exhausted",
+  "latest_sha_observed":"153dbfd4edf858f3eaa1bce813cf463d9db807b"
+}
