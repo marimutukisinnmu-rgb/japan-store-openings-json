@@ -1,0 +1,8 @@
+{
+  "run_at":"2026-09-10T05:41:36+09:00",
+  "period":"2026-09-10/2026-09-17",
+  "scope":"Japan",
+  "search_notes":["公式発表、商業施設、地域メディア、チェーン新店一覧を横断検索。","対象期間外・開店済み・重複店舗を除外。","全国の個人店・小規模店を公開Webだけで完全網羅することはできないため、確認できた情報のみ収録。"],
+  "latest_update":{"status":"success","commit_sha":"f95231a285df03977a71ecac1483f0ea2c872174","conflict_recovery":"first attempt returned HTTP 409; latest SHA was re-fetched and the same generated data was retried with the refreshed SHA; retry succeeded"},
+  "b":{"status":"not_updated","reason":"official nationwide current weather observations could not be safely reconstructed in the required example schema from the available current sources; example/latest.json was not modified"}
+}
