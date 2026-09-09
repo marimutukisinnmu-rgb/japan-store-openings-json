@@ -1,0 +1,18 @@
+{
+  "updatetime": "2026-09-09T10:44:01+09:00",
+  "period": "2026-09-09/2026-09-16",
+  "scope": "Japan",
+  "search_notes": [
+    "全国を対象に開店予定を再検索。公式発表・商業施設・地域情報を横断確認。",
+    "PRESS BUTTER SAND アミュプラザ小倉店は2026-09-10通常オープン。2026-09-09は招待者向けプレオープン。",
+    "Tofrom Yaesuの商業・飲食ゾーンは2026-09-10グランドオープン予定。",
+    "フォートナム・アンド・メイソン東京駅テイクアウト店は2026-09-16オープン予定。",
+    "LE CHOU CHOU -SWEETS＆DELI-は2026-09-15グランドオープン予定。",
+    "新規候補は既存latest.jsonとの重複確認を行った。"
+  ],
+  "latest_update": {
+    "status": "not_updated",
+    "reason": "GitHub取得経路ではlatest.json本文が1行のcontent文字列として途中切断され、既存全itemsを保持した完全な更新データを安全に再構成できないため。",
+    "latest_sha_checked": "153dbfd4edf858f3eaa1bce813cf463d9db807b"
+  }
+}
