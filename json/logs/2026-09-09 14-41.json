@@ -1,0 +1,158 @@
+{
+  "period": "2026-09-09/2026-09-16",
+  "scope": "Japan",
+  "updatetime": "2026-09-09T14:41:18+09:00",
+  "items": [
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "北海道",
+      "city": "札幌市白石区",
+      "store_name": "キャン・ドゥ平和通3丁目店",
+      "category": "100円ショップ",
+      "business_type": "chain",
+      "source_title": "新規オープン予定の百円ショップ 店舗一覧",
+      "source_url": "https://hyakkin.geomedian.com/open/",
+      "evidence_summary": "2026年9月10日オープン予定として掲載。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "store_name": "ローソン 宇都宮下小倉町",
+      "category": "コンビニエンスストア",
+      "business_type": "chain",
+      "source_title": "関東エリア｜新店情報｜ローソン",
+      "source_url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "evidence_summary": "宇都宮市下小倉町951-3で2026年9月10日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "store_name": "ローソン TOFROM YAESU TOWER 4F",
+      "category": "コンビニエンスストア",
+      "business_type": "chain",
+      "source_title": "関東エリア｜新店情報｜ローソン",
+      "source_url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "evidence_summary": "中央区八重洲1-300で2026年9月10日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "東京都",
+      "city": "北区",
+      "store_name": "和み処KEI",
+      "category": "和食・飲食店",
+      "business_type": "independent",
+      "source_title": "東京都北区 十条銀座商店街に9/10(木)、新店「和み処KEI」がオープン予定です。",
+      "source_url": "https://tokyokita.goguynet.jp/2026/09/08/kei20260910/",
+      "evidence_summary": "十条銀座商店街で2026年9月10日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "store_name": "松屋 TOFROM八重洲店",
+      "category": "牛丼・定食",
+      "business_type": "chain",
+      "source_title": "全国の飲食店 開店・閉店情報",
+      "source_url": "https://meshinavi.jp/",
+      "evidence_summary": "2026年9月10日オープン予定として掲載。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-10",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "store_name": "博多天ぷらやまや 吉祥寺店",
+      "category": "天ぷら・和食",
+      "business_type": "chain",
+      "source_title": "吉祥寺エリア｜2026年9月上旬の開店・閉店情報まとめ",
+      "source_url": "https://kichifan.com/2026/09/05/open-closed-first-sep2026/",
+      "evidence_summary": "アトレ吉祥寺本館B1Fで2026年9月10日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-12",
+      "prefecture": "東京都",
+      "city": "港区",
+      "store_name": "CULLNI AOYAMA",
+      "category": "ファッション",
+      "business_type": "chain",
+      "source_title": "関東エリアの2026年9月12日〜13日店舗オープン情報",
+      "source_url": "https://www.fashion-press.net/news/calendar/3/from%3Aweekend/fashion/",
+      "evidence_summary": "東京・南青山に国内2店舗目の新路面店を2026年9月12日オープン。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-12",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "store_name": "そば処 縁結〜en〜",
+      "category": "そば・和食",
+      "business_type": "independent",
+      "source_title": "2026年9月 山形の新店16軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "天童市で2026年9月12日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-14",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "store_name": "テンポスバスターズ山形店",
+      "category": "厨房機器・業務用品",
+      "business_type": "chain",
+      "source_title": "2026年9月 山形の新店16軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "山形市で2026年9月14日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-15",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "store_name": "スターバックス イオンタウン東習志野店",
+      "category": "カフェ",
+      "business_type": "chain",
+      "source_title": "スターバックス 新店舗オープン・閉店まとめ 2026年",
+      "source_url": "https://starbshopper.com/articles/starbucks-open-close-2026/",
+      "evidence_summary": "イオンタウン東習志野に2026年9月15日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "store_name": "フォートナム・アンド・メイソン 東京駅テイクアウト店",
+      "category": "ティースタンド・食品",
+      "business_type": "chain",
+      "source_title": "9月16日開店 フォートナム東京駅テイクアウト店",
+      "source_url": "https://bestcalendar.jp/press/151633",
+      "evidence_summary": "グランスタ東京地下・丸の内改札内に2026年9月16日10時オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "store_name": "元祖豚丼屋TONTON山形大野目店",
+      "category": "豚丼・飲食店",
+      "business_type": "chain",
+      "source_title": "2026年9月 山形の新店16軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "山形市で2026年9月16日オープン予定。",
+      "confidence": "medium"
+    }
+  ],
+  "search_notes": [
+    "2026-09-09 14:41 JST時点で対象期間を2026-09-09〜2026-09-16として再検索した。",
+    "全国情報として飲食店データベース、地域メディア、チェーン公式新店情報、専門店一覧等を横断した。",
+    "重複候補は統合し、対象期間外・開店済み情報は今回の追加候補から除外した。",
+    "既存latest.jsonは現在SHA 153dbfd4edf858f3eaa1bce813cf463d9db807bを確認したが、取得レスポンスが途中切断されるため既存items全文を安全に再構成できず、latest.json本体は誤上書きしなかった。",
+    "検索結果にはmedium confidenceの地域情報も含むため、次回実行時に公式発表等で再確認する。"
+  ]
+}
