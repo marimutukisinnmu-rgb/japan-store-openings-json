@@ -1,0 +1,6 @@
+{
+  "period": "2026-09-10/2026-09-17",
+  "scope": "Japan",
+  "updatetime": "2026-09-10T00:44:07+09:00",
+  "search_notes": "全国横断検索を実施。公式発表・商業施設・地域メディア・店舗情報を照合。9/10のTOFROM YAESU TOWER、PRESS BUTTER SAND アミュプラザ小倉店、あげもちCocoro 新宿高島屋店、かっぱ寿司 アイタウン射水店、一風堂 ekubo 京成 新鎌ケ谷店、ロイヤルホスト ekubo新鎌ケ谷店、北海道生まれ和食処とんでん 我孫子手賀沼店、Archan TOFROM YAESU、L’AS TOKYO、酒と肴 トリノイチ、磯丸水産 栄女子大店、焼き鳥 壱ノ鶏、ローソン宇都宮下小倉町、ローソンTOFROM YAESU TOWER 4F、和み処KEI等を再確認。9/11以降も対象期間内の新店を検索。対象期間外は除外。既存latest.jsonは本文取得が途中切断され全itemsを安全に再構成できないため、破壊的なlatest.json上書きは行わない。"
+}
