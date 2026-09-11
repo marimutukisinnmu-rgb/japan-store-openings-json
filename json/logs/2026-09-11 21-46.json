@@ -1,0 +1,10 @@
+{
+  "updatetime": "2026-09-11T21:46:08+09:00",
+  "period": "2026-09-11/2026-09-18",
+  "scope": "Japan",
+  "status": "success",
+  "latest_path": "/json/latest.json",
+  "latest_commit": "1f124fa7344510ea15e7fd1af574246a69a5a66e",
+  "conflict_409": false,
+  "search_notes": "全国の公式発表、商業施設、チェーン公式新店情報、地域メディア、店舗開業一覧を横断して再確認。対象期間外・既開店・重複を除外し、9月12日〜18日の新規確認分を追加した。"
+}
