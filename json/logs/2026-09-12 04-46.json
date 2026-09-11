@@ -1,0 +1,9 @@
+{
+  "updatetime": "2026-09-12T04:46:39+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "result": "success",
+  "latest_commit": null,
+  "http_409": false,
+  "search_notes": "全国横断検索を実施。2026年9月12日〜19日の開店予定を再確認。DEAN & DELUCA 有楽町（9月17日）、Petaria flower（9月17日）、チチカカ（9月18日）、BOOKOFF FASHION 武蔵境連雀通り店（9月19日）、アエナ アルパーク店（9月17日）などを確認したが、既存latest.json掲載情報との重複または今回の既存データ範囲内だったためlatest.jsonの内容変更は不要と判断。対象期間外の情報は除外した。"
+}
