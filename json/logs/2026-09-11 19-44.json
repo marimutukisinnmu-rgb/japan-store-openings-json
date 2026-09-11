@@ -1,0 +1,19 @@
+{
+  "run_at": "2026-09-11T19:44:08+09:00",
+  "period": "2026-09-11/2026-09-18",
+  "scope": "Japan",
+  "search_notes": "全国横断検索。新規確認として日比谷ろくさん亭、富山市内の寿司劇場とっととやれや・焼鳥 とり藤 富山店・冷したぬき天国 富山店、NEDEN CAFE 柏原店、A table、東筑軒 六本松店、スシロー 天神サザン通り店を追加。既存項目との重複を除外し、対象期間外は除外。",
+  "sources": [
+    "https://tabelog.com/tokyo/A1301/rstLst/cond16-00-00/",
+    "https://toyamatome.com/open-close/",
+    "https://pukutoco.com/2026-open-closed/",
+    "https://starbshopper.com/articles/starbucks-open-close-2026/",
+    "https://geomedian.com/open/",
+    "https://hyakkin.geomedian.com/open/",
+    "https://saikura.info/open-matome-202609/",
+    "https://meshinavi.jp/"
+  ],
+  "latest_update": "completed",
+  "latest_update_commit": "ccc9b7e91cde8cabdb3e0415c5e12012a41fc900",
+  "latest_update_conflict": false
+}
