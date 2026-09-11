@@ -1,0 +1,9 @@
+{
+  "updatetime": "2026-09-12T05:42:44+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": "全国横断再検索。2026-09-12〜2026-09-19の開店予定を確認。新規候補として大分県内の2026年9月開業情報を再確認したが、Lunch＆Cafe SOSHIJIは2025年9月12日開業、ニンテンドーコーナーも2025年9月13日開業で対象期間外。VA Vendome Aoyama アミュプラザおおいた店は現行店舗を確認したが、2026-09-12開業を裏付ける一次情報を確認できなかったため追加しない。既存latest.jsonとの重複も除外。",
+  "new_items": [],
+  "github_latest_update": "not performed because the complete current latest.json content was not safely retrievable in this run; existing data was not overwritten",
+  "conflict_409": false
+}
