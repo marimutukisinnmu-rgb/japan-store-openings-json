@@ -1,0 +1,19 @@
+{
+  "updatetime": "2026-09-12T00:43:39+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "status": "success",
+  "latest_update": {
+    "status": "success",
+    "commit_sha": "914ad5a8028f0b1b8978cbf7848b220b431c4192",
+    "content_sha": "bd36efe48349759d21e79c03590e8a28fda8b3d4"
+  },
+  "conflict_recovery": {
+    "initial_status": 409,
+    "initial_sha": "1a914245ed8cf38fea15ef98656dbde6a8bd751a",
+    "latest_sha_refetched": "05ce85e0829a00829113723e25e8bff8b79d5885",
+    "retry_status": "success",
+    "retries": 1
+  },
+  "search_notes": "2026-09-12実行。2026-09-12〜2026-09-19を対象に全国横断検索。公式発表・企業プレスリリース・商業施設・地域メディア・開店情報データベースを確認し、対象期間外・重複・既開店情報を除外。"
+}
