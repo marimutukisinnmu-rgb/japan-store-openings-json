@@ -1,0 +1,18 @@
+{
+  "run_at": "2026-09-12T06:43:11+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "latest_updated": false,
+  "new_items": [],
+  "search_notes": [
+    "全国を対象に2026-09-12〜2026-09-19の開店予定を再検索した。",
+    "公式発表・商業施設・地域メディア等を横断確認した。",
+    "今回確認したピエール マルコリーニ自由が丘店、DEAN & DELUCA 有楽町、フォートナム・アンド・メイソン東京駅テイクアウト店、一風堂 minanoba川口店、Petaria flower、チチカカ、元祖豚丼屋TONTON 山形大野目店、吉野家×はなまるうどん札幌オーロラタウン店、スターバックス イオンタウン東習志野店等は既存latest.json掲載済みまたは既確認情報だったため重複追加しなかった。",
+    "対象期間外の情報は除外した。"
+  ],
+  "github": {
+    "latest_conflict_409": false,
+    "latest_update_attempted": false,
+    "log_saved": true
+  }
+}
