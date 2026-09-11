@@ -1,0 +1,18 @@
+{
+  "run_at": "2026-09-11T18:44:31+09:00",
+  "period": "2026-09-11/2026-09-18",
+  "scope": "Japan",
+  "search_notes": "全国横断検索。9/17 資さんうどん児玉店、セリアminanoba川口店、コジマ×ビックカメラminanoba川口店、ロピア ムサシ新潟西店、出雲ロフト、明治屋自由が丘ストアー等を再確認。9/18 ITAGAKI EYE WEAR STUDIO 高崎店、BOOKOFF龍ヶ崎店、ハードオフ龍ヶ崎店、THE NORTH FACE 三井アウトレットパーク滋賀竜王、スターバックス ティー＆カフェ 岡山一番街、スターバックス浜名湖サービスエリア ONE SEANA店等を確認。9/16 フォートナム・アンド・メイソン東京駅テイクアウト店、元祖豚丼屋TONTON山形大野目店等も再確認。",
+  "sources": [
+    "https://saikura.info/open-sukesan-udon-kodama-preopen-202609/",
+    "https://bestcalendar.jp/press/151633",
+    "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+    "https://diamond-rm.net/store/newopen/",
+    "https://geomedian.com/open/",
+    "https://hyakkin.geomedian.com/open/",
+    "https://starbshopper.com/articles/starbucks-open-close-2026/",
+    "https://shiga2.jp/shiga-new-open-2026/"
+  ],
+  "latest_update": "not_completed_safely",
+  "latest_update_reason": "GitHub API取得結果が応答上限で最新jsonの完全な既存内容を復元できず、既存データを破壊する上書きを避けた。409は発生していない。"
+}
