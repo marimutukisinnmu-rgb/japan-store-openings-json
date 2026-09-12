@@ -1,0 +1,11 @@
+{
+  "updatetime": "2026-09-12T17:44:27+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "items_count": 47,
+  "search_notes": "全国横断再検索。公式発表・商業施設・地域メディア等を横断し、既存掲載との重複を除去。新規確認としてアエナ アルパーク店、Petaria flower 有明ガーデン店、チチカカ 有明ガーデン店、LIVING HOUSE / SEMPRE editを追加。",
+  "github": {
+    "latest_update": "success",
+    "conflict_409": false,
+    "commit_message": "json update 2026-09-12 17-44"
+  }
+}
