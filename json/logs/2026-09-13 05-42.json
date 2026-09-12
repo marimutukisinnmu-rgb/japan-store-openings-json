@@ -1,0 +1,14 @@
+{
+  "updatetime": "2026-09-13T05:42:58+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "new_candidates": [
+    {"open_date":"2026-09-15","prefecture":"大阪府","city":"大阪市天王寺区","store_name":"焼肉食べ放題 焼肉クラブ 天王寺店","category":"焼肉・飲食店","business_type":"chain","source_title":"大阪・梅田＆天王寺に焼肉食べ放題の新ブランド4日連続？！","source_url":"https://prtimes.jp/main/html/rd/p/000000040.000172054.html","evidence_summary":"2026年9月15日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"大阪府","city":"大阪市天王寺区","store_name":"焼肉食べ放題 無双天王寺駅前店","category":"焼肉・飲食店","business_type":"chain","source_title":"大阪・梅田＆天王寺に焼肉食べ放題の新ブランド4日連続？！","source_url":"https://prtimes.jp/main/html/rd/p/000000040.000172054.html","evidence_summary":"2026年9月16日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"大阪府","city":"大阪市北区","store_name":"焼肉食べ放題 焼肉劇場 梅田店","category":"焼肉・飲食店","business_type":"chain","source_title":"大阪・梅田＆天王寺に焼肉食べ放題の新ブランド4日連続？！","source_url":"https://prtimes.jp/main/html/rd/p/000000040.000172054.html","evidence_summary":"2026年9月17日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-18","prefecture":"大阪府","city":"大阪市北区","store_name":"焼肉食べ放題 焼肉研究所 梅田店","category":"焼肉・飲食店","business_type":"chain","source_title":"大阪・梅田＆天王寺に焼肉食べ放題の新ブランド4日連続？！","source_url":"https://prtimes.jp/main/html/rd/p/000000040.000172054.html","evidence_summary":"2026年9月18日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-15","prefecture":"東京都","city":"八王子市","store_name":"八王子焼肉 タマちゃん","category":"焼肉・飲食店","business_type":"independent","source_title":"新店情報「八王子焼肉 タマちゃん」9/15オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000698.000004635.html","evidence_summary":"八王子市三崎町で2026年9月15日オープン。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"埼玉県","city":"本庄市","store_name":"資さんうどん 児玉店","category":"うどん・飲食店","business_type":"chain","source_title":"資さんうどん新店オープン記念企画","source_url":"https://prtimes.jp/main/html/rd/p/000000397.000037031.html","evidence_summary":"本庄市児玉町吉田林391-1で2026年9月17日グランドオープン予定。","confidence":"high"}
+  ],
+  "search_notes":"2026-09-13 05:42 JST。2026-09-13〜2026-09-19を再検索。公式発表等を確認し、既存掲載との重複を確認。今回、焼肉クラブ天王寺店、無双天王寺駅前店、焼肉劇場梅田店、焼肉研究所梅田店、八王子焼肉タマちゃん、資さんうどん児玉店を新規候補として確認。既存latest.jsonの完全な安全取得・原文保持がこの実行環境ではできず、古い項目を欠落させる危険があるためlatest.jsonの破壊的上書きは行わず、候補を実行ログへ保存。"
+}
