@@ -1,0 +1,15 @@
+{
+  "updatetime": "2026-09-12T22:44:36+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": "全国横断検索を実施。2026-09-17の一風堂 minanoba川口店、2026-09-18のアエナ イオンモール福岡伊都店、2026-09-18のPon！イオンモール神戸北、gashacoco 三井アウトレットパーク入間、ドリームカプセル 町田マルイ、2026-09-18のスターバックス ティー＆カフェ 岡山一番街などを再確認。既存データとの重複確認を優先した。新規候補は既存latest.json全件を安全に取得できないため、欠落を伴う上書きを避けてlatest.jsonへの反映を保留。",
+  "sources_checked": [
+    "https://www.aena.co.jp/2026/",
+    "https://www.ippudo.com/news/2609_open",
+    "https://starbshopper.com/articles/starbucks-open-close-2026/",
+    "https://gacha-radar.com/openings/"
+  ],
+  "latest_update": "deferred_to_avoid_data_loss",
+  "conflict_409": false,
+  "notes": "既存 /json/latest.json の取得結果がツール出力上で途中切断され、全既存itemsを安全に再構成できない状態。古いSHAでの更新や不完全データによる上書きは実施していない。"
+}
