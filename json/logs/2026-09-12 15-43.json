@@ -1,0 +1,38 @@
+{
+  "updatetime": "2026-09-12T15:43:00+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "new_items": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "store_name": "DEAN & DELUCA 有楽町",
+      "category": "デリ・ベーカリー・グロサリー",
+      "business_type": "chain",
+      "source_title": "DEAN & DELUCA 有楽町｜リニューアルオープン",
+      "source_url": "https://www.deandeluca.co.jp/release/news/detail/yurakucho",
+      "evidence_summary": "ルミネ有楽町 ルミネ2 1階で2026年9月17日11時にフルリニューアルオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "奈良県",
+      "city": "桜井市",
+      "store_name": "ケーズデンキ 桜井店",
+      "category": "家電・小売",
+      "business_type": "chain",
+      "source_title": "オープン情報一覧 | ケーズデンキ",
+      "source_url": "https://www.ksdenki.co.jp/store/open/",
+      "evidence_summary": "奈良県桜井市で2026年9月17日オープン予定。",
+      "confidence": "high"
+    }
+  ],
+  "github": {
+    "latest_sha_before_update": "72980d8dd5a5cfbcd8b97b448914255765909d43",
+    "update_status": "success",
+    "commit_sha": "d78c8cbb1cdde85a14488db628bd3f14ba655cda",
+    "content_sha": "a8ed946e964dabcaa03798e8ad520aad9265b26c",
+    "conflict_409": false
+  }
+}
