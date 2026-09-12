@@ -1,0 +1,94 @@
+{
+  "updatetime": "2026-09-12T18:45:15+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": "全国横断再検索。公式・商業施設・地域メディア等を確認し、対象期間内の新規候補を抽出。",
+  "items_checked": [
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "store_name": "フォートナム・アンド・メイソン東京駅テイクアウト店",
+      "category": "ティースタンド・食品",
+      "business_type": "chain",
+      "source_title": "9月16日開店 フォートナム東京駅テイクアウト店",
+      "source_url": "https://bestcalendar.jp/press/151633",
+      "evidence_summary": "2026年9月16日にグランスタ東京でオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "store_name": "アエナ アルパーク店",
+      "category": "化粧品・食品・雑貨",
+      "business_type": "chain",
+      "source_title": "NEW OPEN！ 9月17日（木）アエナ アルパーク店",
+      "source_url": "https://www.aena.co.jp/2026/",
+      "evidence_summary": "2026年9月17日10時にアルパークでオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "store_name": "アエナ イオンモール福岡伊都店",
+      "category": "化粧品・食品・雑貨",
+      "business_type": "chain",
+      "source_title": "NEW OPEN！ 9月18日（金）アエナ イオンモール福岡伊都店",
+      "source_url": "https://www.aena.co.jp/2026/",
+      "evidence_summary": "2026年9月18日10時にイオンモール福岡伊都でオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-19",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "store_name": "BOOKOFF FASHION 武蔵境連雀通り店",
+      "category": "リユース・ファッション",
+      "business_type": "chain",
+      "source_title": "2026年 新店舗オープン/リニューアル情報",
+      "source_url": "https://www.bookoff.co.jp/shop/news/2026.html",
+      "evidence_summary": "BOOKOFF公式の新店舗情報で2026年9月19日オープンを確認。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "兵庫県",
+      "city": "神戸市北区",
+      "store_name": "Pon！イオンモール神戸北",
+      "category": "カプセルトイ",
+      "business_type": "chain",
+      "source_title": "ガチャガチャ新店舗・オープン情報",
+      "source_url": "https://gacha-radar.com/openings/",
+      "evidence_summary": "2026年9月18日オープン予定として掲載。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "store_name": "gashacoco 三井アウトレットパーク入間",
+      "category": "カプセルトイ",
+      "business_type": "chain",
+      "source_title": "ガチャガチャ新店舗・オープン情報",
+      "source_url": "https://gacha-radar.com/openings/",
+      "evidence_summary": "2026年9月18日オープン予定として掲載。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "store_name": "ドリームカプセル 町田マルイ",
+      "category": "カプセルトイ",
+      "business_type": "chain",
+      "source_title": "ガチャガチャ新店舗・オープン情報",
+      "source_url": "https://gacha-radar.com/openings/",
+      "evidence_summary": "2026年9月18日オープン予定として掲載。",
+      "confidence": "medium"
+    }
+  ],
+  "latest_update_status": "not_completed",
+  "latest_update_note": "既存 /json/latest.json の全内容を安全に取得できず、既存itemsを欠落させる上書きを回避。候補データは本ログに保存。409再試行が必要な更新操作は実施していない。"
+}
