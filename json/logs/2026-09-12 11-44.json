@@ -1,0 +1,13 @@
+{
+  "updatetime": "2026-09-12T11:44:03+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": "全国横断検索。新規候補として、Marché Bloom グランスタ東京店（東京都千代田区、9/16）、ほぼ日手帳ストア 東京駅店（東京都千代田区、9/16）、Petaria flower（東京都江東区、9/17・期間限定）、チチカカ（東京都江東区、9/18・期間限定）、BOOKOFF FASHION 武蔵境連雀通り店（東京都武蔵野市、9/19）を一次情報または施設・公式情報で確認。既存latest.json全件の安全な取得が応答制限で完了しなかったため、既存itemsを欠落させる危険のあるlatest.json上書きは行わず。",
+  "candidates": [
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"Marché Bloom グランスタ東京店","category":"焼き菓子・スイーツ","business_type":"chain","source_title":"お花屋さんのような焼き菓子専門店「Marché Bloom（マルシェ ブルーム）」が新登場！","source_url":"https://prtimes.jp/main/html/rd/p/000000033.000131021.html","evidence_summary":"2026年9月16日にグランスタ東京地下丸の内改札内エリアでグランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"ほぼ日手帳ストア 東京駅店","category":"文具・手帳","business_type":"chain","source_title":"「Suicaのペンギン」のほぼ日手帳が9月16日（水）よりグランスタ限定販売！","source_url":"https://prtimes.jp/main/html/rd/p/000000514.000043019.html","evidence_summary":"JR東京駅グランスタ東京地下丸の内改札内エリアに2026年9月16日オープン。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"東京都","city":"江東区","store_name":"Petaria flower","category":"生花・フラワーショップ","business_type":"independent","source_title":"有明ガーデンに「Petaria flower」「チチカカ」がオープン！","source_url":"https://release.traicy.com/posts/202609111361883/","evidence_summary":"有明ガーデン モール2Fに2026年9月17日オープン。期間限定出店。","confidence":"high"},
+    {"open_date":"2026-09-18","prefecture":"東京都","city":"江東区","store_name":"チチカカ","category":"エスニックファッション・雑貨","business_type":"chain","source_title":"有明ガーデンに「Petaria flower」「チチカカ」がオープン！","source_url":"https://release.traicy.com/posts/202609111361883/","evidence_summary":"有明ガーデンに2026年9月18日オープン。期間限定出店。","confidence":"high"},
+    {"open_date":"2026-09-19","prefecture":"東京都","city":"武蔵野市","store_name":"BOOKOFF FASHION 武蔵境連雀通り店","category":"リユース・ファッション","business_type":"chain","source_title":"2026年 新店舗オープン/リニューアル情報","source_url":"https://www.bookoff.co.jp/shop/news/2026.html","evidence_summary":"BOOKOFF公式情報で2026年9月19日オープンを確認。","confidence":"high"}
+  ]
+}
