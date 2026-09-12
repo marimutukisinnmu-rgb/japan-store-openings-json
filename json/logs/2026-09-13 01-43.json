@@ -1,0 +1,44 @@
+{
+  "updatetime": "2026-09-13T01:43:23+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "new_candidates": [
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "Flying Tiger Copenhagen Seasonal POP UP STORE 渋谷スクランブルスクエア",
+      "category": "雑貨・ライフスタイル",
+      "business_type": "chain",
+      "source_title": "フライングタイガーが5年ぶりに渋谷へ！ Seasonal POP UP STORE",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000235.000119592.html",
+      "evidence_summary": "渋谷スクランブルスクエア14階で2026年9月16日から期間限定オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "APOC COFFEE博多駅筑紫口店",
+      "category": "カフェ・飲食店",
+      "business_type": "independent",
+      "source_title": "福岡・博多 APOC COFFEEが9月18日に博多駅筑紫口に2号店をオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000179600.html",
+      "evidence_summary": "福岡市博多区博多駅前4丁目38-10で2026年9月18日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-19",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "store_name": "BOOKOFF FASHION 武蔵境連雀通り店",
+      "category": "リユース・ファッション",
+      "business_type": "chain",
+      "source_title": "BOOKOFF FASHION 武蔵境連雀通り店 2026年9月19日グランドオープン",
+      "source_url": "https://www.bookoff.co.jp/shop/shop84012.html",
+      "evidence_summary": "東京都武蔵野市境南町5-5-16で2026年9月19日グランドオープン。",
+      "confidence": "high"
+    }
+  ],
+  "search_notes": "2026-09-13 01:43 JST。2026-09-13〜2026-09-19を全国横断検索。既存latest.jsonの全内容を安全に取得できない状態のため、既存項目を欠落させる危険があるlatest.jsonの上書きは回避。新規候補はログへ保存。"
+}
