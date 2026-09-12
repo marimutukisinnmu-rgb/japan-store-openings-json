@@ -1,0 +1,56 @@
+{
+  "run_at": "2026-09-12T20:42:12+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "new_items": [
+    {
+      "open_date": "2026-09-12",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "MilkyShop TOKYO",
+      "category": "スイーツ・食品",
+      "business_type": "independent",
+      "source_title": "韓国発のスイーツブランド「MilkyShop」が日本初上陸",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000188196.html",
+      "evidence_summary": "韓国発スイーツブランドの日本初店舗が2026年9月12日、東京・神南にグランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "store_name": "ウェルネス ハブ ストア ナゴヤ",
+      "category": "ヨガ・フィットネス用品",
+      "business_type": "chain",
+      "source_title": "名古屋栄三越 秋のリニューアル",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000185183.html",
+      "evidence_summary": "名古屋栄三越に2026年9月16日NEW OPEN。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "store_name": "マックレガー・マックレガー ゴルフ",
+      "category": "ファッション・ゴルフウェア",
+      "business_type": "chain",
+      "source_title": "名古屋栄三越 秋のリニューアル",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000185183.html",
+      "evidence_summary": "名古屋栄三越に2026年9月16日NEW OPEN。メンズとゴルフの複合ショップ。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "store_name": "パティスリーパブロフ自由が丘店",
+      "category": "カフェ・ベーカリー・テイクアウト",
+      "business_type": "independent",
+      "source_title": "「パティスリーパブロフ」が自由が丘に初出店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000165013.html",
+      "evidence_summary": "自由が丘ミューズスクエア1階に2026年9月17日グランドオープン。",
+      "confidence": "high"
+    }
+  ],
+  "search_notes": "2026-09-12 20:42 JST。2026-09-12〜2026-09-19を全国横断再検索。既存掲載との重複を除去し、対象期間内の新規候補4件を確認してlatest.jsonへ反映。"
+}
