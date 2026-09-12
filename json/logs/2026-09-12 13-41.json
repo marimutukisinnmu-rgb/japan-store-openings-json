@@ -1,0 +1,11 @@
+{
+  "updatetime": "2026-09-12T13:41:55+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "new_items": [
+    {"open_date":"2026-09-18","prefecture":"長野県","city":"辰野町","store_name":"デリシア辰野店","confidence":"high"},
+    {"open_date":"2026-09-18","prefecture":"福岡県","city":"福岡市西区","store_name":"アエナ イオンモール福岡伊都店","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"神奈川県","city":"鎌倉市","store_name":"アエナ イトーヨーカドー大船店","confidence":"high"}
+  ],
+  "notes": "全国横断検索。既存latest.jsonを最新SHAで再取得後、今回確認した新規候補を重複除去してlatest.jsonへ反映。フォートナム・アンド・メイソン東京駅テイクアウト店は既存掲載済みのため追加せず。"
+}
