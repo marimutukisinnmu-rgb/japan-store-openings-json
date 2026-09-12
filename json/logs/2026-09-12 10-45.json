@@ -1,0 +1,24 @@
+{
+  "updatetime": "2026-09-12T10:45:06+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": [
+    "2026-09-12 10:45 JST時点で対象期間を2026-09-12〜2026-09-19として再検索。",
+    "公式発表・商業施設・地域メディアを横断して再確認した。",
+    "9月16日の新規確認として、ほぼ日手帳ストア 東京駅店、かまわぬ GIFT STAND グランスタ東京店、中川政七商店 グランスタ東京店、バター菓子専科 虎子堂 グランスタ東京店、名古屋栄三越の一部新店を確認。",
+    "アトレ新浦安では9月17日にpatisserie BOSO SWEETS、OIMO&MOTCH、marlがNEW OPEN予定であることを公式ページで確認。",
+    "EXPO2025オフィシャルポップアップストア エキマル ア・ラ・モードJR大阪駅中央口店は9月16日開始だが期間限定POPUPのため常設店舗データからは除外。",
+    "PLUSTA中津川は9月16日リニューアルであり、常設新規店舗としては追加しない。",
+    "既存 /json/latest.json の完全な現行itemsを取得できず、既存データを欠落させる危険があるためlatest.jsonの上書き更新は実施しなかった。",
+    "409 Conflictは発生していない。"
+  ],
+  "new_candidates": [
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"ほぼ日手帳ストア 東京駅店","category":"文具・手帳","business_type":"chain","source_title":"「Suicaのペンギン」のほぼ日手帳が9月16日（水）よりグランスタ限定販売！","source_url":"https://prtimes.jp/main/html/rd/p/000000514.000043019.html","evidence_summary":"グランスタ東京地下の丸の内改札内エリアに2026年9月16日オープン。","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"かまわぬ GIFT STAND グランスタ東京店","category":"生活雑貨・ギフト","business_type":"chain","source_title":"『かまわぬ GIFT STAND グランスタ東京店』2026年9月16日（水）リニューアルオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000031.000084513.html","evidence_summary":"グランスタ東京地下の丸の内改札内エリアに2026年9月16日オープン。","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"中川政七商店 グランスタ東京店","category":"生活雑貨・食品","business_type":"chain","source_title":"中川政七商店、東京駅・北九州に2店舗連続オープン。","source_url":"https://prtimes.jp/main/html/rd/p/000000094.000016802.html","evidence_summary":"グランスタ東京地下1階改札内に2026年9月16日再出店。","confidence":"high"},
+    {"open_date":"2026-09-16","prefecture":"東京都","city":"千代田区","store_name":"バター菓子専科 虎子堂 グランスタ東京店","category":"洋菓子・バター菓子","business_type":"independent","source_title":"『バター菓子専科 虎子堂』が9月16日(水)グランスタ東京にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000074408.html","evidence_summary":"JR東京駅地下1階改札内に2026年9月16日オープン。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"千葉県","city":"浦安市","store_name":"patisserie BOSO SWEETS アトレ新浦安店","category":"洋菓子・スイーツ","business_type":"chain","source_title":"#NEW & Renewalショップ｜アトレ新浦安","source_url":"https://www.atre.co.jp/shin_urayasu/pickup/888/news/","evidence_summary":"アトレ新浦安1Fスイーツエリアで2026年9月17日NEW OPEN予定。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"千葉県","city":"浦安市","store_name":"OIMO&MOTCH アトレ新浦安店","category":"スイーツ","business_type":"chain","source_title":"#NEW & Renewalショップ｜アトレ新浦安","source_url":"https://www.atre.co.jp/shin_urayasu/pickup/888/news/","evidence_summary":"アトレ新浦安1Fスイーツエリアで2026年9月17日NEW OPEN予定。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"千葉県","city":"浦安市","store_name":"marl アトレ新浦安店","category":"スイーツ","business_type":"chain","source_title":"#NEW & Renewalショップ｜アトレ新浦安","source_url":"https://www.atre.co.jp/shin_urayasu/pickup/888/news/","evidence_summary":"アトレ新浦安1Fスイーツエリアで2026年9月17日NEW OPEN予定。","confidence":"high"}
+  ]
+}
