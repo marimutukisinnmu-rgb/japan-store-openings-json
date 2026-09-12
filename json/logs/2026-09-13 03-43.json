@@ -1,0 +1,56 @@
+{
+  "updatetime": "2026-09-13T03:43:00+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "new_candidates": [
+    {
+      "open_date": "2026-09-14",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "store_name": "しゃぶしゃぶ・おばんざい くぐる",
+      "category": "しゃぶしゃぶ・おばんざい",
+      "business_type": "independent",
+      "source_title": "明石駅近く桜町に「しゃぶしゃぶ・おばんざい くぐる」が9月14日オープン！",
+      "source_url": "https://akashi-journal.com/openclose/kuguru-akashi/",
+      "evidence_summary": "明石市桜町の明石観光ビル3階に2026年9月14日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-14",
+      "prefecture": "石川県",
+      "city": "野々市市",
+      "store_name": "鶏笑 野々市店",
+      "category": "からあげ・テイクアウト",
+      "business_type": "chain",
+      "source_title": "【鶏笑】からあげ専門店「鶏笑（とりしょう）野々市店」を9月14日（月）オープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001023.000122416.html",
+      "evidence_summary": "石川県野々市市若松町2-53に2026年9月14日11時オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-15",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "store_name": "ヤオコー船橋薬円台店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "ヤオコー／千葉県船橋市に「船橋薬円台店」9月15日オープン",
+      "source_url": "https://www.ryutsuu.biz/store/s091116.html",
+      "evidence_summary": "千葉県船橋市に2026年9月15日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "大牟田市",
+      "store_name": "イオンモール大牟田 新店舗群",
+      "category": "小売・飲食・サービス",
+      "business_type": "chain",
+      "source_title": "『イオンモール大牟田』大型リニューアルオープン第3弾！新店舗オープン情報",
+      "source_url": "https://kurumefan.com/omuta-aeonmall202609",
+      "evidence_summary": "イオンモール大牟田のリニューアル第3弾が2026年9月18日開始。個別店舗は要精査のため候補扱い。",
+      "confidence": "low"
+    }
+  ],
+  "search_notes": "2026-09-13 03:43 JST時点で2026-09-13〜2026-09-19を検索。既存latest.jsonを取得したが内容が大きく、実行環境では全件を安全に読み出せなかったため、既存項目を欠落させる危険のあるlatest.jsonの上書きは行わず、候補をログに保存。"
+}
