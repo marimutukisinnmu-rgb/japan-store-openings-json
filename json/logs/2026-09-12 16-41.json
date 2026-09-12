@@ -1,0 +1,50 @@
+{
+  "updatetime": "2026-09-12T16:41:57+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "search_notes": [
+    "2026-09-12 16:41 JST時点で2026-09-12〜2026-09-19を全国横断再検索。",
+    "新規確認候補：Petaria Flower（東京都江東区、9/17）、Chichikaka（東京都江東区、9/18）、Fortnum & Mason GRANSTA TOKYO（東京都千代田区、9/16）。",
+    "Gransta Tokyoの9月16日リニューアルに伴う新規店舗情報を再確認。Marche Bloom、ほぼ日手帳ストア東京駅店等を再確認。",
+    "既存latest.jsonの全itemsを安全に完全取得できなかったため、既存データ欠落を防ぐ目的でlatest.jsonの上書きは実施していない。",
+    "今回の実行ではlatest.jsonの更新API呼び出しを行っていないため409は発生していない。"
+  ],
+  "new_candidates": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "store_name": "Petaria Flower",
+      "category": "フラワー・ギフト",
+      "business_type": "chain",
+      "source_title": "New Stores Open at Ariake Garden: Petaria Flower and Chichikaka",
+      "source_url": "https://third-news.com/article/12c9f4e2-ad8d-11f1-b20e-9ca3ba08e13f",
+      "evidence_summary": "有明ガーデンで2026年9月17日オープン予定と報じられている。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "store_name": "Chichikaka",
+      "category": "ファッション・生活雑貨",
+      "business_type": "chain",
+      "source_title": "New Stores Open at Ariake Garden: Petaria Flower and Chichikaka",
+      "source_url": "https://third-news.com/article/12c9f4e2-ad8d-11f1-b20e-9ca3ba08e13f",
+      "evidence_summary": "有明ガーデン2階で2026年9月18日オープン予定と報じられている。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-16",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "store_name": "Fortnum & Mason GRANSTA TOKYO",
+      "category": "ティースタンド・食品",
+      "business_type": "chain",
+      "source_title": "Royal Warrant Holder Fortnum & Mason Opens Japan's First Tea Stand Inside JR Tokyo Station's GRANSTA TOKYO on September 16",
+      "source_url": "https://www.haveagood-holiday.com/en/articles/fortnum-and-mason-tokyo-station-tea-stand-opening",
+      "evidence_summary": "JR東京駅グランスタ東京の丸の内改札内で2026年9月16日オープン予定。日本初のティースタンド形態として案内されている。",
+      "confidence": "high"
+    }
+  ]
+}
