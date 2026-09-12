@@ -1,0 +1,116 @@
+{
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "updatetime": "2026-09-13T08:44:26+09:00",
+  "items": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "store_name": "出雲ロフト",
+      "category": "生活雑貨・専門店",
+      "business_type": "chain",
+      "source_title": "ロフト、島根県初の「出雲ロフト」9月17日オープン　開店記念の限定雑貨も販売",
+      "source_url": "https://diamond-rm.net/flash_news/557004/",
+      "evidence_summary": "ゆめタウン出雲東館2階に2026年9月17日オープン。島根県内初出店。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "store_name": "一風堂 minanoba川口店",
+      "category": "ラーメン・飲食店",
+      "business_type": "chain",
+      "source_title": "【新店】9月は千葉・埼玉に計2店舗OPEN！",
+      "source_url": "https://www.ippudo.com/news/2609_open",
+      "evidence_summary": "商業施設minanoba川口1階に2026年9月17日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "博多 ちゃってん",
+      "category": "海鮮居酒屋・九州料理",
+      "business_type": "independent",
+      "source_title": "博多駅筑紫口に高架下商業「ビエラ博多テラス」　9月18日開業",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2128248.html",
+      "evidence_summary": "VIERRA博多テラスの出店6店舗の一つとして2026年9月18日開業。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "麺や兼虎 博多駅前店",
+      "category": "つけ麺・飲食店",
+      "business_type": "chain",
+      "source_title": "博多駅筑紫口に高架下商業「ビエラ博多テラス」　9月18日開業",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2128248.html",
+      "evidence_summary": "VIERRA博多テラスの出店6店舗の一つとして2026年9月18日開業。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "yellow 博多",
+      "category": "オムライス・洋食店",
+      "business_type": "independent",
+      "source_title": "博多駅筑紫口に高架下商業「ビエラ博多テラス」　9月18日開業",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2128248.html",
+      "evidence_summary": "VIERRA博多テラスの出店6店舗の一つ。九州初出店として2026年9月18日開業。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "APOC COFFEE博多駅筑紫口店",
+      "category": "カフェ",
+      "business_type": "independent",
+      "source_title": "『APOC COFFEE』が9月18日に博多駅筑紫口に2号店をオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000179600.html",
+      "evidence_summary": "VIERRA博多テラスに2026年9月18日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "ちんぷんかんぷん 博多店",
+      "category": "焼き鳥居酒屋・飲食店",
+      "business_type": "independent",
+      "source_title": "博多駅筑紫口に高架下商業「ビエラ博多テラス」　9月18日開業",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2128248.html",
+      "evidence_summary": "VIERRA博多テラスの出店6店舗の一つとして2026年9月18日開業。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "GiseL hair care cosme shop",
+      "category": "ヘアケアコスメ・美容室",
+      "business_type": "independent",
+      "source_title": "博多駅筑紫口に高架下商業「ビエラ博多テラス」　9月18日開業",
+      "source_url": "https://www.watch.impress.co.jp/docs/news/2128248.html",
+      "evidence_summary": "VIERRA博多テラスの出店6店舗の一つとして2026年9月18日開業。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "store_name": "アルプラフーズマーケット富山掛尾",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "9月18日(金)あさ9時　アルプラフーズマーケット富山掛尾　オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000591.000096754.html",
+      "evidence_summary": "アクロスプラザ富山掛尾に2026年9月18日午前9時オープン。平和堂の富山県初の食品スーパー業態。",
+      "confidence": "high"
+    }
+  ],
+  "search_notes": "2026-09-13 08:44 JST。2026-09-13〜2026-09-19を全国横断再検索。公式発表、商業施設情報、地域メディア等を照合。既存latest.json掲載候補との重複を確認し、今回新たに確認できた店舗を実行ログへ記録した。APOC COFFEE博多駅筑紫口店は既存候補としても確認済みのため重複登録を避ける対象。"
+}
