@@ -1,0 +1,33 @@
+{
+  "run_at": "2026-09-12T12:43:29+09:00",
+  "period": "2026-09-12/2026-09-19",
+  "scope": "Japan",
+  "new_items": [
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "store_name": "ITAGAKI EYE WEAR STUDIO 高崎店",
+      "source_title": "2026年9月新店まとめ 群馬・埼玉の注目グルメ＆話題スポット一挙紹介",
+      "source_url": "https://saikura.info/open-matome-202609/",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "store_name": "Workman Colors そよら三条須頃店",
+      "source_title": "新潟 話題の開店情報",
+      "source_url": "https://gatachira.com/local_cat/open/",
+      "confidence": "medium"
+    }
+  ],
+  "search_notes": "2026-09-12 12:43実行。2026-09-12〜2026-09-19を全国横断検索。公式発表・企業プレスリリース・商業施設・地域メディア等を確認し、対象期間外・重複・既開店情報を除外。既存掲載店の開店日も再確認。",
+  "github": {
+    "latest_updated": true,
+    "latest_previous_sha": "48531a2bb71d4e9104aac2d7e588b9e7c20dc783",
+    "latest_new_content_sha": "cae50aa057e024e1fc7c6ee13eb5a7cd83625225",
+    "commit_sha": "568e94c2fb38333aba35f57b91c45fd9be707897",
+    "conflict_409": false
+  }
+}
