@@ -1,0 +1,32 @@
+{
+  "updatetime": "2026-09-13T00:42:41+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "search_notes": "全国横断検索を実施。札幌ショップス、アエナ公式、有明ガーデン関連発表、さいほくらし、ケーズデンキ、ガチャ沼レーダー、家電量販店・パソコンショップ新規開店一覧、気象・地域情報等を確認。新規候補としてハードオフ龍ヶ崎店（2026-09-18、茨城県龍ケ崎市）、コジマ×ビックカメラminanoba川口店（2026-09-17、埼玉県川口市）を確認。既存latest.jsonの完全な安全な再構成ができないため、既存項目欠落を避ける目的でlatest.json本体の上書きは実施せず。",
+  "new_candidates": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "store_name": "コジマ×ビックカメラminanoba川口店",
+      "category": "家電量販店",
+      "business_type": "chain",
+      "source_title": "新規オープン予定の家電量販店・パソコンショップ 店舗一覧",
+      "source_url": "https://kaden.geomedian.com/open/",
+      "evidence_summary": "minanoba川口に2026年9月17日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "茨城県",
+      "city": "龍ケ崎市",
+      "store_name": "ハードオフ龍ヶ崎店",
+      "category": "リユース・家電・パソコン",
+      "business_type": "chain",
+      "source_title": "新規オープン予定の家電量販店・パソコンショップ 店舗一覧",
+      "source_url": "https://kaden.geomedian.com/open/",
+      "evidence_summary": "竜ヶ崎城南ショッピングセンターに2026年9月18日オープン予定。",
+      "confidence": "medium"
+    }
+  ]
+}
