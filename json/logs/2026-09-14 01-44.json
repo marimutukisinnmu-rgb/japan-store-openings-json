@@ -1,0 +1,18 @@
+{
+  "updatetime": "2026-09-14T01:44:08+09:00",
+  "period": "2026-09-14/2026-09-21",
+  "scope": "Japan",
+  "search_notes": "全国横断検索。既存 latest.json を再確認し、対象期間内の新規候補を追加確認。スーパーセンタートライアル金ケ崎店（岩手県金ケ崎町、9/16）、ヨドバシカメラ マルチメディア名鉄名古屋店（愛知県名古屋市、9/16）、元祖豚丼屋TONTON山形大野目店（山形県山形市、9/16）、コメリハード＆グリーン酒田店（山形県酒田市、9/16）、グランスタ東京の新規・リニューアル店舗（東京都千代田区、9/16）、スターバックス ティー＆カフェ 岡山一番街（岡山県岡山市、9/18）、アルプラフーズマーケット富山掛尾（富山県富山市、9/18）、スーパーマーケットバロー矢田店（愛知県名古屋市、9/18）、Maison de FLEUR 札幌地下街ポールタウン店（北海道札幌市、9/18）、ろまん亭 イオン東札幌店（北海道札幌市、9/18）、SYNC north（北海道札幌市、9/18）、ダーツ&パーティー REGALO 札幌すすきの駅前店（北海道札幌市、9/18）などを確認。過去日・対象期間外は除外。既存データとの重複候補は統合対象として扱う。",
+  "sources": [
+    "https://toshoken.com/news/33275",
+    "https://www.ryutsuu.biz/2026/05/21",
+    "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+    "https://www.tokyoweekender.com/ja/things-to-do/new-openings-september-2026/",
+    "https://starbshopper.com/articles/starbucks-open-close-2026/",
+    "https://www.ryutsuu.biz/2026",
+    "https://sapporo-list.info/open/",
+    "https://sapporo-list.info/open/september-open/"
+  ],
+  "latest_json_update": "skipped_to_avoid_destructive_overwrite because the existing latest.json content was returned in a truncated tool response and could not be safely reconstructed in full",
+  "github_409": false
+}
