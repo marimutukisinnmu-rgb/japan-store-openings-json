@@ -1,0 +1,14 @@
+{
+  "updatetime": "2026-09-14T03:42:51+09:00",
+  "period": "2026-09-14/2026-09-21",
+  "scope": "Japan",
+  "search_notes": "2026-09-14 03:42 JST。2026-09-14〜2026-09-21を全国横断検索。新規確認候補として、アエナ アルパーク店（広島県広島市・9/17）、アエナ イオンモール福岡伊都店（福岡県福岡市・9/18）、スターバックス ティー＆カフェ 岡山一番街（岡山県岡山市・9/18）、Petaria flower 有明ガーデン（東京都江東区・9/17）、チチカカ 有明ガーデン（東京都江東区・9/18）、ケーズデンキ桜井店（奈良県桜井市・9/17）を確認。既存latest.jsonの現行SHAは取得できたが、完全な本文を安全に再取得できなかったため、既存項目を欠落させる可能性のあるlatest.jsonの上書きは行っていない。",
+  "latest_update": "not_performed",
+  "conflict_409": false,
+  "sources": [
+    "https://www.aena.co.jp/2026/",
+    "https://starbshopper.com/articles/starbucks-open-close-2026/",
+    "https://release.traicy.com/posts/202609111361883/",
+    "https://www.ksdenki.co.jp/store/open/"
+  ]
+}
