@@ -1,0 +1,10 @@
+{
+  "run_at": "2026-09-13T14:41:52+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "status": "completed",
+  "latest_update": "04df2f7c4590dd54255d579a8124a09a29b05739",
+  "latest_content_sha": "27a7ea57df2b06fcd50207d518119e120fdfb669",
+  "http_409": false,
+  "search_notes": "全国横断検索を実施。対象期間外を除外し、既存掲載との重複を除去。ヤオコー船橋薬円台店、Maison de FLEUR 札幌地下街ポールタウン店などを再確認。今回の追加検索では既存データを上回る確度の新規店舗は確認できなかった。"
+}
