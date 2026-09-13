@@ -1,0 +1,29 @@
+{
+  "updatetime": "2026-09-13T21:42:05+09:00",
+  "period": "2026-09-13/2026-09-20",
+  "scope": "Japan",
+  "new_items": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "store_name": "Links cafe 晴れ晴れ",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-19",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "store_name": "NOTIME 長野店",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-20",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "store_name": "Pilates Mirror 光善寺",
+      "confidence": "high"
+    }
+  ],
+  "search_notes": "全国横断Web検索。公式発表・地域メディア等を確認し、対象期間外と重複候補を除外。"
+}
