@@ -1,0 +1,18 @@
+{
+  "run_at": "2026-09-13T22:46:41+09:00",
+  "period": "2026-09-13/2026-09-20",
+  "scope": "Japan",
+  "latest_update": {
+    "status": "success",
+    "commit": "1918065a2165391a73e2a1c300c5243487f010cf",
+    "conflict_409": false,
+    "retries": 0
+  },
+  "new_items": [
+    "BARI-TORE 上峰店",
+    "JACK IN THE DONUTS イオンモール岡山店",
+    "BRISK STAND 大丸心斎橋店",
+    "赤身焼肉 百レン"
+  ],
+  "search_notes": "全国横断検索を実施。公式発表、商業施設、地域メディア等を横断し、対象期間外・過去日・イベントのみの情報を除外。既存latest.jsonの項目を保持して更新。"
+}
