@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-13/2026-09-20",
+  "period": "2026-09-14/2026-09-21",
   "scope": "Japan",
-  "updatetime": "2026-09-13T22:46:41+09:00",
+  "updatetime": "2026-09-14T00:45:09+09:00",
   "items": [
     {"open_date":"2026-09-14","prefecture":"兵庫県","city":"明石市","store_name":"しゃぶしゃぶ・おばんざい くぐる","category":"しゃぶしゃぶ・おばんざい","business_type":"independent","source_title":"明石駅近く桜町に「しゃぶしゃぶ・おばんざい くぐる」が9月14日オープン！","source_url":"https://akashi-journal.com/openclose/kuguru-akashi/","evidence_summary":"明石市桜町の明石観光ビル3階に2026年9月14日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"大阪府","city":"大阪市北区","store_name":"点天バル 大阪茶屋町店","category":"餃子・バル","business_type":"chain","source_title":"ひとくち餃子の「点天」 新店舗「点天バル 大阪茶屋町店」を9月14日（月）大阪・梅田茶屋町にオープン","source_url":"https://www.afpbb.com/articles/-/3652606","evidence_summary":"阪急かっぱ横丁1階に2026年9月14日オープン予定。","confidence":"high"},
@@ -9,6 +9,7 @@
     {"open_date":"2026-09-15","prefecture":"岡山県","city":"岡山市東区","store_name":"ドン・キホーテ岡山西大寺店","category":"ディスカウントストア","business_type":"chain","source_title":"岡山県内4店舗目 ドン・キホーテ岡山西大寺店が9月15日オープン","source_url":"https://news.ksb.co.jp/article/16843726","evidence_summary":"天満屋ハピーズ岡山西大寺モール内に2026年9月15日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-15","prefecture":"長野県","city":"北佐久郡軽井沢町","store_name":"軽井沢 とりまち","category":"焼鳥・飲食店","business_type":"chain","source_title":"鳥しきICHIMONの新店舗 軽井沢 とりまち 9月15日 火 オープン―心ほどける 高原の時間","source_url":"https://www.ldh.co.jp/news/detail.php?lang=jpn&newsid=0000100315&site=OFFICIAL","evidence_summary":"軽井沢T-SITE内に2026年9月15日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-15","prefecture":"東京都","city":"目黒区","store_name":"NEL自由が丘院","category":"鍼灸院・サービス","business_type":"chain","source_title":"銀座ハリッチ系列の脳疲労・睡眠に特化した鍼灸院「NEL」 初のフランチャイズ店舗を自由が丘に9月15日OPEN","source_url":"https://newscast.jp/smart/news/7119336","evidence_summary":"自由が丘に2026年9月15日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-15","prefecture":"東京都","city":"墨田区","store_name":"メンズ眉毛サロン眉ラボ 錦糸町店","category":"美容サービス","business_type":"chain","source_title":"全国28店舗目・錦糸町に初上陸！『メンズ眉毛サロン眉ラボ 錦糸町店』が2026年9月15日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000025.000144583.html","evidence_summary":"錦糸町駅から徒歩5分の東京都墨田区で2026年9月15日グランドオープン予定。","confidence":"high"},
     {"open_date":"2026-09-16","prefecture":"北海道","city":"札幌市中央区","store_name":"北海道炉端アカオニ","category":"炉端居酒屋","business_type":"independent","source_title":"総合炉端居酒屋「北海道炉端アカオニ」が9月16日グランドオープン","source_url":"https://www.atpress.ne.jp/news/629429","evidence_summary":"札幌市中央区南7条西4丁目で9月16日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-16","prefecture":"栃木県","city":"宇都宮市","store_name":"餃天堂 宇都宮駅西口店","category":"餃子・飲食店","business_type":"independent","source_title":"3年半ぶりに宇都宮駅前へ。「餃天堂 宇都宮駅西口店」9月16日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000035.000106009.html","evidence_summary":"JR宇都宮駅西口のアトラスタワー宇都宮1階に2026年9月16日オープン。","confidence":"high"},
     {"open_date":"2026-09-17","prefecture":"神奈川県","city":"横浜市西区","store_name":"アトリエうかい そごう横浜店","category":"洋菓子・スイーツ","business_type":"chain","source_title":"横浜駅東口「そごう横浜店」に、アトリエうかいの常設店舗が誕生","source_url":"https://prtimes.jp/main/html/rd/p/000000107.000013588.html","evidence_summary":"そごう横浜店に2026年9月17日ニューオープン。","confidence":"high"},
@@ -44,7 +45,16 @@
     {"open_date":"2026-09-20","prefecture":"北海道","city":"道北エリア","store_name":"新月苑","category":"焼肉","business_type":"independent","source_title":"新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/open-shop-list/202609/","evidence_summary":"北海道道北エリアで2026年9月20日オープン予定。","confidence":"medium"},
     {"open_date":"2026-09-20","prefecture":"大阪府","city":"枚方市","store_name":"Pilates Mirror 光善寺","category":"フィットネス・ピラティス","business_type":"chain","source_title":"（ピラティスミラー）9月、関西に4店舗オープン！","source_url":"https://www.konami.com/sportsclub/corporate/press/2026/07/31/","evidence_summary":"大阪府枚方市で2026年9月20日オープン予定。コナミスポーツのマシンピラティススタジオ。","confidence":"high"},
     {"open_date":"2026-09-20","prefecture":"大阪府","city":"大阪市中央区","store_name":"BRISK STAND 大丸心斎橋店","category":"ハンバーガー・飲食店","business_type":"chain","source_title":"大丸初出店！心斎橋エリア初進出！BRISK STAND、大丸心斎橋店に9月20日オープン！","source_url":"https://foods-ch.infomart.co.jp/news/328715","evidence_summary":"大丸心斎橋店地下2階の心斎橋フードホールに2026年9月20日オープン予定。","confidence":"high"},
-    {"open_date":"2026-09-20","prefecture":"福岡県","city":"久留米市","store_name":"赤身焼肉 百レン","category":"焼肉・飲食店","business_type":"independent","source_title":"久留米市『赤身焼肉 百レン』9月オープン！和牛の赤身肉やこだわりの馬刺し！焼肉店","source_url":"https://kurumefan.com/yakiniku-hyakuren","evidence_summary":"久留米市天神町に2026年9月20日オープン予定。","confidence":"high"}
+    {"open_date":"2026-09-20","prefecture":"福岡県","city":"久留米市","store_name":"赤身焼肉 百レン","category":"焼肉・飲食店","business_type":"independent","source_title":"久留米市『赤身焼肉 百レン』9月オープン！和牛の赤身肉やこだわりの馬刺し！焼肉店","source_url":"https://kurumefan.com/yakiniku-hyakuren","evidence_summary":"久留米市天神町に2026年9月20日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-20","prefecture":"高知県","city":"高知市","store_name":"スパゲティハウス アーリオ","category":"スパゲティ・飲食店","business_type":"independent","source_title":"高知で45年愛された「スパゲティハウス アーリオ」を事業承継、9月20日グランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/329869","evidence_summary":"高知市中心部で1981年創業の店舗を事業承継し、2026年9月10日プレオープン、9月20日グランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-21","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"赤から小倉魚町店","category":"鍋・居酒屋","business_type":"chain","source_title":"【赤から】2026年9月21日（月・祝）に「赤から小倉魚町店」がグランドオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000168.000126693.html","evidence_summary":"福岡県北九州市小倉北区魚町2-5-1 2階に2026年9月21日グランドオープン予定。","confidence":"high"}
   ],
-  "search_notes": "2026-09-13 22:46 JST。2026-09-13〜2026-09-20を全国横断検索。前回latest.jsonの既存項目を保持し、対象期間内の新規情報を再確認。今回、佐賀県BARI-TORE上峰店、岡山県JACK IN THE DONUTSイオンモール岡山店、大阪府BRISK STAND大丸心斎橋店、福岡県赤身焼肉百レンを新規確認して追加。過去日、対象期間外、単なるイベント・POPUP等は除外した。"
+  "search_notes": [
+    "2026-09-14 00:45 JST時点で対象期間を2026-09-14〜2026-09-21へ動的算出した。",
+    "前回latest.jsonの既存項目を基礎資料として対象期間内の開店予定を再確認した。",
+    "公式発表、商業施設、地域メディア等を横断し、開業日と所在地を確認できた店舗を収録した。",
+    "今回の追加確認として、メンズ眉毛サロン眉ラボ錦糸町店、スパゲティハウス アーリオ、赤から小倉魚町店を追加した。",
+    "2026年9月21日について追加検索し、赤から小倉魚町店のグランドオープンを確認した。",
+    "過去日、対象期間外、単なるイベント・POPUP等は除外した。"
+  ]
 }
