@@ -1,0 +1,10 @@
+{
+  "updatetime": "2026-09-14T07:41:00+09:00",
+  "period": "2026-09-14/2026-09-21",
+  "scope": "Japan",
+  "search_notes": "全国横断検索を実施。ローソン公式の新店情報、全国の新店情報データベース、地域・商業施設関連情報などを確認。追加確認候補として2026-09-17のローソン魚沼井口新田・浜松砂山町、2026-09-18の複数アパレル新店等を確認したが、既存latest.jsonの全項目を完全に保持したまま合成できる本文を取得できなかったため、latest.json本体は安全のため未上書き。JMA公式情報では前線・湿った空気の影響による雨や雷雨の可能性を確認。",
+  "new_candidates": [
+    {"open_date":"2026-09-17","prefecture":"新潟県","city":"魚沼市","store_name":"ローソン 魚沼井口新田","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 中部の新店情報","source_url":"https://www.lawson.co.jp/newstore/chubu.html","evidence_summary":"ローソン公式新店情報で2026年9月17日開店として掲載。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"静岡県","city":"浜松市中央区","store_name":"ローソン 浜松砂山町","category":"コンビニエンスストア","business_type":"chain","source_title":"ローソン 中部の新店情報","source_url":"https://www.lawson.co.jp/newstore/chubu.html","evidence_summary":"ローソン公式新店情報で2026年9月17日開店として掲載。","confidence":"high"}
+  ]
+}
