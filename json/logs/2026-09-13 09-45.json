@@ -1,0 +1,32 @@
+{
+  "updatetime": "2026-09-13T09:45:25+09:00",
+  "period": "2026-09-13/2026-09-19",
+  "scope": "Japan",
+  "new_candidates": [
+    {
+      "open_date": "2026-09-17",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "store_name": "ハンズ 自由が丘店",
+      "category": "生活雑貨・専門店",
+      "business_type": "chain",
+      "source_title": "ハンズ／東京都「自由が丘店」9月17日オープン、新施設「ミューズスクエア」に出店",
+      "source_url": "https://www.ryutsuu.biz/store/s090950.html",
+      "evidence_summary": "東京都目黒区の新施設JIYUG. MUSE SQUAREに2026年9月17日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-18",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "store_name": "APOC COFFEE博多駅筑紫口店",
+      "category": "カフェ",
+      "business_type": "independent",
+      "source_title": "APOC COFFEE博多駅筑紫口店 9月18日オープン",
+      "source_url": "https://apoc-coffee.com/",
+      "evidence_summary": "博多駅筑紫口エリアで2026年9月18日オープン予定。",
+      "confidence": "medium"
+    }
+  ],
+  "search_notes": "2026-09-13 09:45 JST。2026-09-13〜2026-09-19を全国横断再検索。既存latest.jsonを照合し、既存掲載済みの候補は重複除外。ハンズ自由が丘店など新規確認をログ化。"
+}
