@@ -1,0 +1,20 @@
+{
+  "period": "2026-09-13/2026-09-20",
+  "scope": "Japan",
+  "updatetime": "2026-09-13T20:46:40+09:00",
+  "search_notes": "2026-09-13 20:46 JST。2026-09-13〜2026-09-20を全国横断再検索。新規・再確認候補として、ヤオコー船橋薬円台店（9/15）、ヨドバシカメラ マルチメディア名鉄名古屋店（9/16）、ロピア ムサシ新潟西店（9/17）、明治屋自由が丘ストアー（9/17）、アトリエうかい そごう横浜店（9/17）、一風堂 minanoba川口店（9/17）、出雲ロフト（9/17）、SWEETS STANDARD 二子玉川ライズ東急フードショー店（9/17）、ハンズ自由が丘店（9/17）、DEAN & DELUCA 有楽町（9/17）、サカバロクイチ（9/17）、アルプラフーズマーケット富山掛尾（9/18）、スーパーマーケットバロー矢田店（9/18）、SM2 アトレ松戸店（9/18）、Maison de FLEUR 札幌地下街ポールタウン店（9/18）、AMERICAN HOLIC イオンモール京都桂川店（9/18）、ビームス レコーズ / bPrビームス（9/19）等を確認。対象期間外は除外。",
+  "sources": [
+    "https://www.ryutsuu.biz/store/s091116.html",
+    "https://www.ryutsuu.biz/store/s090484.html",
+    "https://www.ryutsuu.biz/store/s090375.html",
+    "https://www.atpress.ne.jp/news/629751",
+    "https://prtimes.jp/main/html/rd/p/000000107.000013588.html",
+    "https://www.ippudo.com/news/2609_open",
+    "https://prtimes.jp/main/html/rd/p/000001002.000012471.html",
+    "https://prtimes.jp/main/html/rd/p/000001263.000036659.html",
+    "https://prtimes.jp/main/html/rd/p/000001259.000036659.html",
+    "https://prtimes.jp/main/html/rd/p/000001261.000036659.html"
+  ],
+  "latest_json_update": "not_performed",
+  "latest_json_reason": "既存latest.jsonの完全な内容を取得できず、既存項目を欠落させる破壊的置換を避けた。"
+}
