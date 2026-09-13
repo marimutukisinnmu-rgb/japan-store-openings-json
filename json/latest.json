@@ -1,7 +1,7 @@
 {
   "period": "2026-09-13/2026-09-20",
   "scope": "Japan",
-  "updatetime": "2026-09-13T19:43:35+09:00",
+  "updatetime": "2026-09-13T21:42:05+09:00",
   "items": [
     {"open_date":"2026-09-14","prefecture":"兵庫県","city":"明石市","store_name":"しゃぶしゃぶ・おばんざい くぐる","category":"しゃぶしゃぶ・おばんざい","business_type":"independent","source_title":"明石駅近く桜町に「しゃぶしゃぶ・おばんざい くぐる」が9月14日オープン！","source_url":"https://akashi-journal.com/openclose/kuguru-akashi/","evidence_summary":"明石市桜町の明石観光ビル3階に2026年9月14日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-14","prefecture":"大阪府","city":"大阪市北区","store_name":"点天バル 大阪茶屋町店","category":"餃子・バル","business_type":"chain","source_title":"ひとくち餃子の「点天」 新店舗「点天バル 大阪茶屋町店」を9月14日（月）大阪・梅田茶屋町にオープン","source_url":"https://www.afpbb.com/articles/-/3652606","evidence_summary":"阪急かっぱ横丁1階に2026年9月14日オープン予定。","confidence":"high"},
@@ -23,6 +23,7 @@
     {"open_date":"2026-09-17","prefecture":"埼玉県","city":"川口市","store_name":"一風堂 minanoba川口店","category":"ラーメン","business_type":"chain","source_title":"【新店】9月は千葉・埼玉に計2店舗OPEN！","source_url":"https://www.ippudo.com/news/2609_open","evidence_summary":"minanoba川口1階に2026年9月17日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-17","prefecture":"埼玉県","city":"本庄市","store_name":"資さんうどん 児玉店","category":"うどん・飲食店","business_type":"chain","source_title":"2026年9月新店まとめ／本庄市『資さんうどん 児玉店』","source_url":"https://saikura.info/open-matome-202609/","evidence_summary":"埼玉県本庄市児玉町で2026年9月17日グランドオープン予定。","confidence":"high"},
     {"open_date":"2026-09-17","prefecture":"東京都","city":"千代田区","store_name":"DEAN & DELUCA 有楽町","category":"食品・カフェ","business_type":"chain","source_title":"フルリニューアルオープン！「DEAN ＆ DELUCA 有楽町」","source_url":"https://dtimes.jp/post-1365936/","evidence_summary":"ルミネ有楽町に2026年9月17日11時フルリニューアルオープン。","confidence":"high"},
+    {"open_date":"2026-09-17","prefecture":"兵庫県","city":"明石市","store_name":"Links cafe 晴れ晴れ","category":"カフェ・スイーツ","business_type":"independent","source_title":"国道2号線沿いの和坂に「Links cafe 晴れ晴れ」が9月17日オープン予定！","source_url":"https://akashi-journal.com/openclose/links-cafe-harebare/","evidence_summary":"明石市和坂3丁目のハイレジデンス西明石1階で2026年9月17日オープン予定。Cafe and pudding 晴れ晴れの2店舗目。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"富山県","city":"富山市","store_name":"アルプラフーズマーケット富山掛尾","category":"スーパーマーケット","business_type":"chain","source_title":"平和堂／「アルプラフーズマーケット富山掛尾」オープン","source_url":"https://www.ryutsuu.biz/store/s091042.html","evidence_summary":"富山市掛尾町に2026年9月18日オープン。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"東京都","city":"千代田区","store_name":"ムラサキスポーツボーダーズ神田店","category":"スポーツ用品","business_type":"chain","source_title":"ムラサキスポーツ ボーダーズ神田店が9月18日オープン","source_url":"https://dmksnowboard.com/murasaki-sports-boarders-kanda/","evidence_summary":"東京・神田エリアに2026年9月18日オープン。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"大阪府","city":"大阪市北区","store_name":"ゴンチャ エキマルシェ大阪店","category":"ティーカフェ","business_type":"chain","source_title":"ゴンチャ、JR大阪駅「エキマルシェ大阪」に新店舗","source_url":"https://ampmedia.jp/2026/09/11/gongcha-ekimaru-osaka/","evidence_summary":"エキマルシェ大阪に2026年9月18日オープン。","confidence":"high"},
@@ -38,7 +39,9 @@
     {"open_date":"2026-09-19","prefecture":"東京都","city":"渋谷区","store_name":"ビームス レコーズ / bPrビームス","category":"ファッション・雑貨","business_type":"chain","source_title":"ビームス、東京・原宿に「ビームス レコーズ / bPrビームス」を2026年9月19日にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000001002.000012471.html","evidence_summary":"東京・原宿に2026年9月19日オープン。","confidence":"high"},
     {"open_date":"2026-09-19","prefecture":"東京都","city":"武蔵野市","store_name":"BOOKOFF FASHION 武蔵境連雀通り店","category":"リユース・ファッション","business_type":"chain","source_title":"店舗検索／店舗オープン・リニューアル情報","source_url":"https://www.bookoff.co.jp/shop/","evidence_summary":"BOOKOFF公式店舗情報で2026年9月19日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-19","prefecture":"大阪府","city":"大阪市住之江区","store_name":"アップガレージライダース大阪住之江店","category":"二輪用品・リユース","business_type":"chain","source_title":"2026年9月19日オープン！ アップガレージライダース大阪住之江店","source_url":"https://news.webike.net/bikenews/583395/","evidence_summary":"大阪住之江の既存四輪店舗に併設して2026年9月19日新規オープン。","confidence":"high"},
-    {"open_date":"2026-09-20","prefecture":"北海道","city":"道北エリア","store_name":"新月苑","category":"焼肉","business_type":"independent","source_title":"新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/open-shop-list/202609/","evidence_summary":"北海道道北エリアで2026年9月20日オープン予定。","confidence":"medium"}
+    {"open_date":"2026-09-19","prefecture":"長野県","city":"長野市","store_name":"NOTIME 長野店","category":"古着・リユース","business_type":"independent","source_title":"長野初進出、下北沢発の無人古着屋「NOTIME」が9月19日長野市にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000016.000095644.html","evidence_summary":"長野市大字北尾張部に2026年9月19日オープン予定。24時間365日営業の無人古着店。","confidence":"high"},
+    {"open_date":"2026-09-20","prefecture":"北海道","city":"道北エリア","store_name":"新月苑","category":"焼肉","business_type":"independent","source_title":"新オープン店舗一覧（2026年9月）","source_url":"https://www.shopship.jp/open-shop-list/202609/","evidence_summary":"北海道道北エリアで2026年9月20日オープン予定。","confidence":"medium"},
+    {"open_date":"2026-09-20","prefecture":"大阪府","city":"枚方市","store_name":"Pilates Mirror 光善寺","category":"フィットネス・ピラティス","business_type":"chain","source_title":"（ピラティスミラー）9月、関西に4店舗オープン！","source_url":"https://www.konami.com/sportsclub/corporate/press/2026/07/31/","evidence_summary":"大阪府枚方市で2026年9月20日オープン予定。コナミスポーツのマシンピラティススタジオ。","confidence":"high"}
   ],
-  "search_notes": "2026-09-13 19:43 JST。2026-09-13〜2026-09-20を全国横断検索。公式発表、商業施設、地域メディア、店舗情報等を横断し、対象期間外・重複候補を除外。今回、9月17〜20日の新規確認分を追加。"
+  "search_notes": "2026-09-13 21:42 JST。2026-09-13〜2026-09-20を全国横断検索。公式発表、商業施設、地域メディア等を横断し、対象期間外・重複候補を除外。今回、Links cafe 晴れ晴れ、NOTIME 長野店、Pilates Mirror 光善寺を新規確認し追加。"
 }
