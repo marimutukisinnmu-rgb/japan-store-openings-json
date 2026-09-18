@@ -1,0 +1,44 @@
+{
+  "updatetime": "2026-09-18T21:44:22+09:00",
+  "period": "2026-09-18/2026-09-25",
+  "scope": "Japan",
+  "result": "latest.jsonの既存内容を確認。実行時点の追加候補を調査。latest.json本体は取得結果が途中で切り詰められ、完全な既存JSONを安全に再構成できないため更新を保留。次回実行で再取得・更新を継続。",
+  "new_confirmed_candidates": [
+    {
+      "open_date": "2026-09-19",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "store_name": "LEPSIM イオンモール和歌山店",
+      "category": "ファッション",
+      "business_type": "chain",
+      "source_title": "「LEPSIM」が、「阪急西宮ガーデンズ店」を9月18日（金）、和歌山県初出店となる「イオンモール和歌山店」を9月19日（土）に、続々オープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000003296.000001304.html",
+      "evidence_summary": "2026年9月19日(土)にイオンモール和歌山店をオープンすると企業プレスリリースで告知。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-19",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "store_name": "お宝あっとマーケット 浅草店",
+      "category": "リユース・ホビー",
+      "business_type": "chain",
+      "source_title": "「お宝あっとマーケット」初の訪日外国人向け店舗を浅草に出店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000187535.html",
+      "evidence_summary": "2026年9月19日(土)に浅草で開業すると企業プレスリリースで告知。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-20",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "store_name": "BRISK STAND DAIMARU SINSAIBASHI店",
+      "category": "ハンバーガー・飲食店",
+      "business_type": "chain",
+      "source_title": "大丸初出店！心斎橋エリア初進出！BRISK STAND、大丸心斎橋店に9月20日オープン！",
+      "source_url": "https://foods-ch.infomart.co.jp/news/328715",
+      "evidence_summary": "2026年9月20日(日)に大丸心斎橋店地下2階へオープンすると告知。",
+      "confidence": "high"
+    }
+  ]
+}
