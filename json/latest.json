@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-09-25",
   "scope": "Japan",
-  "updatetime": "2026-09-18T04:45:33+09:00",
+  "updatetime": "2026-09-21T19:09:00+09:00",
   "items": [
     {"open_date":"2026-09-18","prefecture":"富山県","city":"富山市","store_name":"アルプラフーズマーケット富山掛尾","category":"スーパーマーケット","business_type":"chain","source_title":"平和堂／「アルプラフーズマーケット富山掛尾」オープン","source_url":"https://www.ryutsuu.biz/store/s091042.html","evidence_summary":"富山市掛尾町に2026年9月18日オープン。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"東京都","city":"千代田区","store_name":"ムラサキスポーツボーダーズ神田店","category":"スポーツ用品","business_type":"chain","source_title":"ムラサキスポーツ ボーダーズ神田店が9月18日オープン","source_url":"https://dmksnowboard.com/murasaki-sports-boarders-kanda/","evidence_summary":"東京・神田エリアに2026年9月18日オープン。","confidence":"high"},
@@ -31,13 +31,16 @@
     {"open_date":"2026-09-21","prefecture":"福岡県","city":"北九州市小倉北区","store_name":"赤から小倉魚町店","category":"鍋・居酒屋","business_type":"chain","source_title":"【赤から】2026年9月21日（月・祝）に「赤から小倉魚町店」がグランドオープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000168.000126693.html","evidence_summary":"北九州市小倉北区魚町に2026年9月21日グランドオープン予定。","confidence":"high"},
     {"open_date":"2026-09-21","prefecture":"大阪府","city":"大阪市北区","store_name":"Sushi Tiger 大阪西梅田店","category":"寿司・飲食店","business_type":"chain","source_title":"ベトナム・ホーチミン、ハノイで生まれ現地で愛されてきた鮨ブランド「Sushi Tiger」逆輸入で日本初上陸","source_url":"https://prtimes.jp/main/html/rd/p/000000014.000130092.html","evidence_summary":"大阪・西梅田に2026年9月21日グランドオープン。日本初上陸。","confidence":"high"},
     {"open_date":"2026-09-21","prefecture":"東京都","city":"千代田区","store_name":"ELENDEEK 有楽町マルイ店","category":"ファッション","business_type":"chain","source_title":"有楽町マルイに限定アイテムやオープン記念ノベルティが登場！「ELENDEEK 有楽町マルイ店」","source_url":"https://dtimes.jp/post-1373376/","evidence_summary":"有楽町マルイに2026年9月21日新店舗オープン。","confidence":"high"},
+    {"open_date":"2026-09-21","prefecture":"千葉県","city":"浦安市","store_name":"高価買取おたからや 浦安店","category":"買取・リユース","business_type":"chain","source_title":"【新店舗】いーふらん、千葉県浦安市に「高価買取おたからや 浦安店」を出店！｜2026年9月21日（月・祝）オープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000392.000080252.html","evidence_summary":"千葉県浦安市に2026年9月21日オープン。","confidence":"high"},
+    {"open_date":"2026-09-21","prefecture":"大阪府","city":"大阪市中央区","store_name":"すし鳥商店 大阪・道頓堀店","category":"寿司・飲食店","business_type":"chain","source_title":"「すし鳥商店」が一挙7店舗体制へ！大阪・道頓堀店が9月21日グランドオープン、全7店舗で記念キャンペーン開催","source_url":"https://prtimes.jp/main/html/rd/p/000000032.000131309.html","evidence_summary":"大阪・道頓堀店が2026年9月21日グランドオープン。","confidence":"high"},
+    {"open_date":"2026-09-23","prefecture":"東京都","city":"品川区","store_name":"ペンギンベーカリー戸越銀座店","category":"ベーカリー","business_type":"chain","source_title":"品川区に初出店！「ペンギンベーカリー戸越銀座店」が2026年9月23日（水・祝）にオープン","source_url":"https://www.atpress.ne.jp/news/2687407","evidence_summary":"品川区戸越銀座に2026年9月23日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-24","prefecture":"大阪府","city":"大阪市北区","store_name":"りくろーおじさんの店 グランフロント大阪店","category":"洋菓子・スイーツ","business_type":"chain","source_title":"りくろーおじさんの店の新たなフラッグシップ店が9月24日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000179773.html","evidence_summary":"グランフロント大阪南館B1階に2026年9月24日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-25","prefecture":"愛知県","city":"名古屋市","store_name":"洒落CAFE","category":"カフェ・ポップカルチャー","business_type":"independent","source_title":"東京・大阪・福岡に続く新拠点が愛知・名古屋に。ポップカルチャーの新拠点「洒落CAFE」が2026年9月25日にグランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/330409","evidence_summary":"名古屋に2026年9月25日グランドオープン。","confidence":"high"}
   ],
   "search_notes": [
-    "2026-09-18 04:45 JST時点で対象期間を2026-09-18〜2026-09-25へ更新。",
-    "前回latest.jsonの未来分を基礎資料として、9月18日〜25日の開店予定を再確認。",
-    "今回の追加確認として、OWNDAYS 西武飯能ペペ店、JELLY JELLY CAFE 八王子店、TOM WORKS ATELIER & SHOP、お宝あっとマーケット 浅草店、SMOKE DOOR Haruyoshi Saryo、Sushi Tiger 大阪西梅田店、ELENDEEK 有楽町マルイ店、りくろーおじさんの店 グランフロント大阪店、洒落CAFEを追加。",
-    "過去日、対象期間外、単なるイベント・期間限定催事は原則除外。"
+    "2026-09-21 19:09 JST時点で最新確認を実施。",
+    "既存の2026-09-18〜25のデータを基礎資料として、実行時点で新たに確認できた開店情報を追加。",
+    "今回追加確認: 高価買取おたからや 浦安店、すし鳥商店 大阪・道頓堀店、ペンギンベーカリー戸越銀座店。",
+    "未確認情報・推測情報は追加していない。"
   ]
 }
