@@ -1,0 +1,7 @@
+実行時刻: 2026-09-21 23:42 JST
+対象: main /json/latest.json
+更新: あり
+追加確認: 日本ペットホテル協会 豊島区池袋店（2026-09-22予定）
+情報源: https://prtimes.jp/main/html/rd/p/000000056.000142773.html
+未確認情報・推測情報: 追加なし
+latest.json updatetime: 2026-09-21T23:42:43+09:00
