@@ -1,7 +1,7 @@
 {
   "period":"2026-09-18/2026-09-25",
   "scope":"Japan",
-  "updatetime":"2026-09-21T23:42:43+09:00",
+  "updatetime":"2026-09-22T00:45:50+09:00",
   "items":[
     {"open_date":"2026-09-18","prefecture":"富山県","city":"富山市","store_name":"アルプラフーズマーケット富山掛尾","category":"スーパーマーケット","business_type":"chain","source_title":"平和堂／「アルプラフーズマーケット富山掛尾」オープン","source_url":"https://www.ryutsuu.biz/store/s091042.html","evidence_summary":"富山市掛尾町に2026年9月18日オープン。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"東京都","city":"千代田区","store_name":"ムラサキスポーツボーダーズ神田店","category":"スポーツ用品","business_type":"chain","source_title":"ムラサキスポーツ ボーダーズ神田店が9月18日オープン","source_url":"https://dmksnowboard.com/murasaki-sports-boarders-kanda/","evidence_summary":"東京・神田エリアに2026年9月18日オープン。","confidence":"high"},
@@ -35,14 +35,18 @@
     {"open_date":"2026-09-21","prefecture":"千葉県","city":"浦安市","store_name":"高価買取おたからや 浦安店","category":"買取・リユース","business_type":"chain","source_title":"【新店舗】いーふらん、千葉県浦安市に「高価買取おたからや 浦安店」を出店！｜2026年9月21日（月・祝）オープン！","source_url":"https://prtimes.jp/main/html/rd/p/000000392.000080252.html","evidence_summary":"千葉県浦安市に2026年9月21日オープン。","confidence":"high"},
     {"open_date":"2026-09-21","prefecture":"大阪府","city":"大阪市中央区","store_name":"すし鳥商店 大阪・道頓堀店","category":"寿司・飲食店","business_type":"chain","source_title":"「すし鳥商店」が一挙7店舗体制へ！大阪・道頓堀店が9月21日グランドオープン、全7店舗で記念キャンペーン開催","source_url":"https://prtimes.jp/main/html/rd/p/000000032.000131309.html","evidence_summary":"大阪・道頓堀店が2026年9月21日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-22","prefecture":"東京都","city":"豊島区","store_name":"日本ペットホテル協会 豊島区池袋店","category":"ペットホテル","business_type":"chain","source_title":"日本ペットホテル協会が豊島区・池袋に122店舗目を開設","source_url":"https://prtimes.jp/main/html/rd/p/000000056.000142773.html","evidence_summary":"東京都豊島区池袋に2026年9月22日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-22","prefecture":"大阪府","city":"東大阪市","store_name":"メンズ・カーブス はるやま東大阪店","category":"フィットネス","business_type":"independent","source_title":"はるやま東大阪店に「メンズ・カーブス」が9月22日（火）より施設内オープン！ビジネスウェアと男性向けフィットネスの融合モデルが拡大","source_url":"https://prtimes.jp/main/html/rd/p/000000761.000030981.html","evidence_summary":"はるやま東大阪店の施設内に2026年9月22日オープン。","confidence":"high"},
+    {"open_date":"2026-09-22","prefecture":"石川県","city":"金沢市","store_name":"買取大吉 MEGAドン・キホーテ ラパーク金沢店","category":"買取・リユース","business_type":"chain","source_title":"【金沢市】9月22日、西泉の「MEGAドン・キホーテ ラパーク金沢店」1階に買取専門店の「買取大吉」がオープンするようです。","source_url":"https://kanazawa.goguynet.jp/2026/09/19/kaitoridaikiti-laparkkanazawa/","evidence_summary":"石川県金沢市のMEGAドン・キホーテ ラパーク金沢店1階に2026年9月22日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-22","prefecture":"兵庫県","city":"加古川市","store_name":"むすめのおむすび","category":"おむすび・テイクアウト","business_type":"independent","source_title":"【開店】テイクアウト専門のおむすび屋さん「むすめのおむすび」が9/22（火）サンライズ加古川ビル1階にオープン予定！【立ち飲み屋跡】","source_url":"https://kakogawa-note.com/gourmet/20260909-musumenoomusubi/","evidence_summary":"兵庫県加古川市のサンライズ加古川ビル1階に2026年9月22日オープン予定。","confidence":"high"},
+    {"open_date":"2026-09-22","prefecture":"北海道","city":"江別市","store_name":"ぱん屋ニレカゼ","category":"ベーカリー","business_type":"independent","source_title":"【江別市】「ぱん屋ニレカゼ」移転オープン日決定！文京台南町の新店舗で営業再開","source_url":"https://ebetsunopporo.com/?p=56866","evidence_summary":"北海道江別市文京台南町で2026年9月22日に営業再開予定。","confidence":"high"},
     {"open_date":"2026-09-23","prefecture":"東京都","city":"品川区","store_name":"ペンギンベーカリー戸越銀座店","category":"ベーカリー","business_type":"chain","source_title":"品川区に初出店！「ペンギンベーカリー戸越銀座店」が2026年9月23日（水・祝）にオープン","source_url":"https://www.atpress.ne.jp/news/2687407","evidence_summary":"品川区戸越銀座に2026年9月23日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-24","prefecture":"大阪府","city":"大阪市北区","store_name":"りくろーおじさんの店 グランフロント大阪店","category":"洋菓子・スイーツ","business_type":"chain","source_title":"りくろーおじさんの店の新たなフラッグシップ店が9月24日グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000008.000179773.html","evidence_summary":"グランフロント大阪南館B1階に2026年9月24日グランドオープン。","confidence":"high"},
     {"open_date":"2026-09-25","prefecture":"愛知県","city":"名古屋市","store_name":"洒落CAFE","category":"カフェ・ポップカルチャー","business_type":"independent","source_title":"東京・大阪・福岡に続く新拠点が愛知・名古屋に。ポップカルチャーの新拠点「洒落CAFE」が2026年9月25日にグランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/330409","evidence_summary":"名古屋に2026年9月25日グランドオープン。","confidence":"high"}
   ],
   "search_notes":[
-    "2026-09-21 23:42 JST時点で最新確認を実施。",
-    "既存データを基礎資料として、実行時点で新たに確認できた開店情報を追加。",
-    "今回追加確認: 日本ペットホテル協会 豊島区池袋店（2026-09-22予定）。",
+    "2026-09-22 00:45 JST時点で最新確認を実施。",
+    "既存の2026-09-18〜25のデータを基礎資料として、実行時点で新たに確認できた開店情報を追加。",
+    "今回追加確認: メンズ・カーブス はるやま東大阪店、買取大吉 MEGAドン・キホーテ ラパーク金沢店、むすめのおむすび、ぱん屋ニレカゼ。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
