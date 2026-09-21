@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-09-25",
   "scope": "Japan",
-  "updatetime": "2026-09-21T19:09:00+09:00",
+  "updatetime": "2026-09-21T19:43:00+09:00",
   "items": [
     {"open_date":"2026-09-18","prefecture":"富山県","city":"富山市","store_name":"アルプラフーズマーケット富山掛尾","category":"スーパーマーケット","business_type":"chain","source_title":"平和堂／「アルプラフーズマーケット富山掛尾」オープン","source_url":"https://www.ryutsuu.biz/store/s091042.html","evidence_summary":"富山市掛尾町に2026年9月18日オープン。","confidence":"high"},
     {"open_date":"2026-09-18","prefecture":"東京都","city":"千代田区","store_name":"ムラサキスポーツボーダーズ神田店","category":"スポーツ用品","business_type":"chain","source_title":"ムラサキスポーツ ボーダーズ神田店が9月18日オープン","source_url":"https://dmksnowboard.com/murasaki-sports-boarders-kanda/","evidence_summary":"東京・神田エリアに2026年9月18日オープン。","confidence":"high"},
@@ -23,6 +23,7 @@
     {"open_date":"2026-09-19","prefecture":"長野県","city":"長野市","store_name":"NOTIME 長野店","category":"古着・リユース","business_type":"independent","source_title":"長野初進出、下北沢発の無人古着屋「NOTIME」が9月19日長野市にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000000016.000095644.html","evidence_summary":"長野市に2026年9月19日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-19","prefecture":"東京都","city":"渋谷区","store_name":"ビームス レコーズ / bPrビームス","category":"ファッション・雑貨","business_type":"chain","source_title":"ビームス、東京・原宿に「ビームス レコーズ / bPrビームス」を2026年9月19日にオープン","source_url":"https://prtimes.jp/main/html/rd/p/000001002.000012471.html","evidence_summary":"東京・原宿に2026年9月19日オープン。","confidence":"high"},
     {"open_date":"2026-09-19","prefecture":"東京都","city":"台東区","store_name":"お宝あっとマーケット 浅草店","category":"リユース・ホビー","business_type":"chain","source_title":"「お宝あっとマーケット」初の訪日外国人向け店舗を浅草に出店","source_url":"https://prtimes.jp/main/html/rd/p/000000003.000187535.html","evidence_summary":"浅草に訪日外国人向け新店舗を2026年9月19日開業。","confidence":"high"},
+    {"open_date":"2026-09-20","prefecture":"北海道","city":"札幌市北区","store_name":"STRIDE LAB 札幌","category":"ランニング・アウトドア用品","business_type":"chain","source_title":"ランニング・アウトドア専門店「STRIDE LAB」国内19店舗目が札幌に。9月20日オープン","source_url":"https://prtimes.jp/main/html/rd/p/000000038.000057571.html","evidence_summary":"札幌・北13条に2026年9月20日オープン。","confidence":"high"},
     {"open_date":"2026-09-20","prefecture":"大阪府","city":"枚方市","store_name":"Pilates Mirror 光善寺","category":"フィットネス・ピラティス","business_type":"chain","source_title":"（ピラティスミラー）9月、関西に4店舗オープン！","source_url":"https://www.konami.com/sportsclub/corporate/press/2026/07/31/","evidence_summary":"大阪府枚方市で2026年9月20日オープン予定。","confidence":"high"},
     {"open_date":"2026-09-20","prefecture":"大阪府","city":"大阪市中央区","store_name":"BRISK STAND DAIMARU SINSAIBASHI店","category":"ハンバーガー・飲食店","business_type":"chain","source_title":"大丸初出店！心斎橋エリア初進出！BRISK STAND、大丸心斎橋店に9月20日オープン！","source_url":"https://foods-ch.infomart.co.jp/news/328715","evidence_summary":"大丸心斎橋店地下2階に2026年9月20日オープン。","confidence":"high"},
     {"open_date":"2026-09-20","prefecture":"福岡県","city":"久留米市","store_name":"赤身焼肉 百レン","category":"焼肉・飲食店","business_type":"independent","source_title":"久留米市『赤身焼肉 百レン』9月オープン！和牛の赤身肉やこだわりの馬刺し！焼肉店","source_url":"https://kurumefan.com/yakiniku-hyakuren","evidence_summary":"久留米市天神町に2026年9月20日オープン予定。","confidence":"high"},
@@ -38,9 +39,9 @@
     {"open_date":"2026-09-25","prefecture":"愛知県","city":"名古屋市","store_name":"洒落CAFE","category":"カフェ・ポップカルチャー","business_type":"independent","source_title":"東京・大阪・福岡に続く新拠点が愛知・名古屋に。ポップカルチャーの新拠点「洒落CAFE」が2026年9月25日にグランドオープン","source_url":"https://foods-ch.infomart.co.jp/news/330409","evidence_summary":"名古屋に2026年9月25日グランドオープン。","confidence":"high"}
   ],
   "search_notes": [
-    "2026-09-21 19:09 JST時点で最新確認を実施。",
-    "既存の2026-09-18〜25のデータを基礎資料として、実行時点で新たに確認できた開店情報を追加。",
-    "今回追加確認: 高価買取おたからや 浦安店、すし鳥商店 大阪・道頓堀店、ペンギンベーカリー戸越銀座店。",
+    "2026-09-21 19:43 JST時点で最新確認を実施。",
+    "既存の2026-09-18〜25のデータを基礎資料として、実行時点で新たに確認できた開店情報を確認。",
+    "今回追加確認: STRIDE LAB 札幌。2026年9月20日オープンをPR TIMESで確認。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
