@@ -1,0 +1,13 @@
+2026-09-22 08:42 JST
+全国 開店予定JSON 定期実行ログ
+
+対象: main /json/latest.json
+
+確認済み新規・更新候補:
+- メンズ・カーブス はるやま東大阪店 — 大阪府東大阪市 — 2026-09-22 オープン
+  出典: https://prtimes.jp/main/html/rd/p/000000761.000030981.html
+- BEEF FRITES by RUSTEAKS 埼玉岩槻店 — 埼玉県さいたま市岩槻区 — 2026-09-22 11:00 オープンへ変更
+  出典: https://saitamaminuma-iwatsuki.goguynet.jp/2026/09/15/beeffrites-iwatsuki/
+
+既存 latest.json の取得は成功したが、応答が途中で切断され全件の完全な内容を取得できなかったため、既存データを欠落させる危険を避けて latest.json 本体の更新は実施しない。
+次回実行で再取得・反映を継続する。
