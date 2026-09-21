@@ -1,0 +1,16 @@
+実行時刻: 2026-09-22 00:45 JST
+対象: main /json/latest.json
+結果: 更新成功
+
+今回追加確認:
+- メンズ・カーブス はるやま東大阪店（大阪府東大阪市）: 2026-09-22
+  https://prtimes.jp/main/html/rd/p/000000761.000030981.html
+- 買取大吉 MEGAドン・キホーテ ラパーク金沢店（石川県金沢市）: 2026-09-22
+  https://kanazawa.goguynet.jp/2026/09/19/kaitoridaikiti-laparkkanazawa/
+- むすめのおむすび（兵庫県加古川市）: 2026-09-22
+  https://kakogawa-note.com/gourmet/20260909-musumenoomusubi/
+- ぱん屋ニレカゼ（北海道江別市）: 2026-09-22
+  https://ebetsunopporo.com/?p=56866
+
+latest.json updatetime: 2026-09-22T00:45:50+09:00
+未確認情報・推測情報は追加していない。
