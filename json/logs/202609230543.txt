@@ -1,0 +1,15 @@
+# 全国 開店予定JSON 実行ログ
+
+実行時刻: 2026-09-23 05:43 JST
+対象: main/json/latest.json
+
+## 確認結果
+- latest.json の最終更新時刻は 2026-09-22 00:45:50 JST。
+- 最新調査で以下の開店情報を確認。
+  - コメダ珈琲店 デリスクエア今池店（愛知県名古屋市千種区）: 2026-09-24オープン。https://jouhou.nagoya/komeda-imaike/
+  - 資さんうどん 京都桂店（京都府京都市西京区）: 2026-09-24オープン。https://kyotopi.jp/articles/sukesanudon-katsura
+  - ヘアカラー専門店fufu フューチャーシティファボーレ店（富山県富山市）: 2026-09-24オープン。https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDAxMC4wMDAxODUzNDYuaHRtbA%3D%3D
+  - 川上文旦堂（福岡県久留米市）: 2026-09-24〜09-27期間限定オープン。https://kurumefan.com/kawakamibuntandou
+
+## 更新判断
+既存 latest.json の全件を完全取得できず、上記店舗の重複有無を安全に完全照合できないため、latest.json 本体は今回変更しない。未確認情報を確定情報として追加しない。
