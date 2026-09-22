@@ -1,0 +1,16 @@
+2026-09-22 09:41 JST
+全国 開店予定JSON 定期実行ログ
+
+対象: main /json/latest.json
+
+確認済みの開店・更新候補:
+- ゆず庵 堺鳳店 — 大阪府堺市 — 2026-09-23 グランドオープン
+  出典: https://www.mapion.co.jp/news/release/000001522.000044964-all/
+- はじめての卓球 高崎オーパ店 — 群馬県高崎市 — 2026-09-23 オープン予定
+  出典: https://takasaki.goguynet.jp/
+- Orthofeet 新潟伊勢丹 POP UP SHOP — 新潟県新潟市 — 2026-09-23開始
+  出典: https://brand.orthofeet.jp/news/news-24/
+
+GitHub上の最新 latest.json は取得できたが、応答が途中で切断され、items 全件の完全な内容を取得できなかったため、既存データとの重複確認を完全には実施できない。
+既存データを欠落させる危険を避け、latest.json 本体の上書きは実施しない。
+次回実行で再取得・重複確認・反映を継続する。
