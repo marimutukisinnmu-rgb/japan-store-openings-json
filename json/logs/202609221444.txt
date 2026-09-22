@@ -1,0 +1,25 @@
+# 全国 開店予定JSON 実行ログ
+
+実行時刻: 2026-09-22 14:44 JST
+対象: main/json/latest.json
+
+## 確認
+- latest.json の最新 updatetime: 2026-09-22T00:45:50+09:00
+- GitHub上の latest.json は取得できたが、レスポンスが途中で切断され、items 全件を完全取得できなかった。
+- 既存データとの完全な重複確認ができないため、latest.json 本体の上書きは実施しなかった。
+
+## 最新調査で確認した開店情報
+- 皆集酒場ひかり（兵庫県明石市）: 2026-09-22 グランドオープン
+  Source: https://kisspress.jp/articles/65768/
+- メンズ・カーブス東大阪外環状石切店（大阪府東大阪市）: 2026-09-22 オープン
+  Source: https://prtimes.jp/main/html/rd/p/000000761.000030981.html
+- ペンギンベーカリー戸越銀座店（東京都品川区）: 2026-09-23 オープン
+  Source: https://www.atpress.ne.jp/news/632728
+- ゆず庵 堺鳳店（大阪府堺市）: 2026-09-23 グランドオープン
+  Source: https://prtimes.jp/main/html/rd/p/000001522.000044964.html
+- とみや 富山店（富山県富山市）: 2026-09-28 移転オープン予定
+  Source: https://toyama-watch.com/archives/31318
+
+## 処理結果
+- latest.json: 未変更（データ欠落防止）
+- ログ: 保存成功
