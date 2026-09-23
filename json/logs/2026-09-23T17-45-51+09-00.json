@@ -1,0 +1,32 @@
+{
+  "run_at": "2026-09-23T17:45:51+09:00",
+  "target": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_checked": "2026-09-22T00:45:50+09:00",
+  "new_confirmed_candidates": [
+    {
+      "open_date": "2026-09-24",
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "store_name": "Zoff そよら三条須頃店",
+      "source_url": "https://gatachira.com/local/open-close/10220239/",
+      "evidence_summary": "2026年9月24日オープンと確認。"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "川崎市",
+      "store_name": "あらき",
+      "source_url": "https://kawasaki-info.blog.jp/archives/2026-09.html",
+      "evidence_summary": "ラゾーナ川崎プラザ4Fで2026年9月25日オープン予定と確認。"
+    }
+  ],
+  "latest_json_update": "not performed",
+  "reason": "latest.jsonの現行blob SHAを取得できず、安全な既存ファイル更新を実行できなかったため。本体を推測で上書きせず、確認結果のみログ保存。",
+  "notes": [
+    "既存latest.jsonのperiodは2026-09-18/2026-09-25。",
+    "既存登録済み店舗は重複追加しない。",
+    "未確認の開店日情報は追加しない。"
+  ]
+}
