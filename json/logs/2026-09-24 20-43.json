@@ -1,0 +1,21 @@
+{
+  "executed_at":"2026-09-24T20:43:38+09:00",
+  "target":"全国 開店予定JSON",
+  "latest_json_checked":"2026-09-22T00:45:50+09:00",
+  "latest_json_period":"2026-09-18/2026-09-25",
+  "confirmed_new_information":[
+    {"open_date":"2026-09-25","store_name":"MARBLE TOKYO","location":"東京都台東区","note":"2k540 E-2区画へ移転、11:00リニューアルオープン"},
+    {"open_date":"2026-09-25","store_name":"LifeFit 加古川平岡町店","location":"兵庫県加古川市","note":"15:00グランドオープン予定"},
+    {"open_date":"2026-09-26","store_name":"BAKERIES LAB. 牛久店","location":"茨城県牛久市","note":"9月26日グランドオープン"},
+    {"open_date":"2026-09-26","store_name":"P・SPO 古着SHOP北斎院店","location":"愛媛県松山市","note":"9月26日オープン"},
+    {"open_date":"2026-09-26","store_name":"しゃぶ葉 札幌桑園店","location":"北海道札幌市","note":"9月26日グランドオープン予定"},
+    {"open_date":"2026-09-26","store_name":"MOGU24","location":"東京都八王子市","note":"9月26日グランドオープン"}
+  ],
+  "additional_local_updates":[
+    {"region":"富山県富山市","note":"9月24日付の9月オープン情報更新で、ルーモス、とみや富山店が追加確認された"}
+  ],
+  "excluded": [
+    {"store_name":"Gelateria Queen'z Spoon","reason":"9月24～26日はプレオープンで、グランドオープンは9月27日のため通常の確定開店日リストでは9月27日扱い"}
+  ],
+  "action":"既存latest.jsonの全件を保持したまま、今回確認した情報をログへ保存。latest.json本体は既存全件との完全な重複照合なしに上書きしない。"
+}
