@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2026-09-25",
+  "period": "2026-09-18/2026-09-26",
   "scope": "Japan",
-  "updatetime": "2026-09-25T02:45:24+09:00",
+  "updatetime": "2026-09-25T04:46:05+09:00",
   "items": [
     {
       "open_date": "2026-09-18",
@@ -518,12 +518,60 @@
       "source_url": "https://www.ryutsuu.biz/store/s091876.html",
       "evidence_summary": "神奈川県座間市のイオンモール座間に2026年9月25日オープン。",
       "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "store_name": "LifeFit 加古川平岡町店",
+      "category": "フィットネス",
+      "business_type": "chain",
+      "source_title": "【開店】24時間ジムのLifeFit加古川平岡町店が9/25（金）オープン予定！",
+      "source_url": "https://kakogawa-note.com/open/20260920-lifefit-kakogawa-hiraokacho/",
+      "evidence_summary": "2026年9月25日15時グランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "store_name": "博多大衆酒場 あいらしか 横浜西口店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "生ビール付き2時間飲み放題330円！個室完備 博多大衆酒場 あいらしか 横浜西口店",
+      "source_url": "https://dtimes.jp/post-1386543/",
+      "evidence_summary": "2026年9月25日にグランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "MOGU24",
+      "category": "無人販売・食品",
+      "business_type": "independent",
+      "source_title": "八王子で全国＆世界を食べ歩き！？ご当地グルメが集まる24時間無人販売所がオープン",
+      "source_url": "https://8dabe.com/2026/09/24/mogu24/",
+      "evidence_summary": "2026年9月26日グランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "大阪府",
+      "city": "大阪市淀川区",
+      "store_name": "元祖豚丼屋TONTON 西中島5丁目店",
+      "category": "豚丼・飲食店",
+      "business_type": "chain",
+      "source_title": "【大阪市淀川区】速報。『元祖豚丼屋TONTON 西中島5丁目店』9月26日(土)オープン",
+      "source_url": "https://yodogawaku.goguynet.jp/2026/09/15/gansobutadonyatonton_2609/",
+      "evidence_summary": "2026年9月26日オープン予定.",
+      "confidence": "high"
     }
   ],
   "search_notes": [
-    "2026-09-25 02:45 JST時点で最新確認を実施。",
-    "既存データを基礎資料として、実行時点で新たに確認できた開店情報を追加。",
-    "今回追加確認: MARBLE TOKYO、ゴンチャ イオンモール座間店、chocoZAP 鴻巣赤見台店。",
+    "2026-09-25 04:46 JST時点で最新確認を実施。",
+    "既存データとの重複を確認した上で、実行時点で新たに確認できた開店情報を追加。",
+    "今回追加: LifeFit 加古川平岡町店、博多大衆酒場 あいらしか 横浜西口店、MOGU24、元祖豚丼屋TONTON 西中島5丁目店。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
