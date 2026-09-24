@@ -1,0 +1,59 @@
+{
+  "executed_at": "2026-09-24T22:45:55+09:00",
+  "source": "fresh web research",
+  "latest_json_checked": {
+    "period": "2026-09-18/2026-09-25",
+    "updatetime": "2026-09-22T00:45:50+09:00"
+  },
+  "newly_confirmed_candidates": [
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "store_name": "BEL BUTTER WAFFLE 名古屋サンロード店",
+      "category": "スイーツ",
+      "source_title": "BEL BUTTER WAFFLE 名古屋サンロード店 2026年9月25日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000438.000007024.html",
+      "evidence_summary": "2026年9月25日（金）グランドオープン。名古屋駅直結のナゴヤ地下街サンロード。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "store_name": "世界の山ちゃん 仙台朝市通り店",
+      "category": "居酒屋",
+      "source_title": "世界の山ちゃん 仙台朝市通り店 2026年9月25日オープン",
+      "source_url": "https://sendai-tushin.jp/2026/09/15/post-529133/",
+      "evidence_summary": "2026年9月25日（金）オープン。仙台市青葉区中央3丁目8-8。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "store_name": "KOGASHI 築地店",
+      "category": "スイーツ",
+      "source_title": "東京・築地に9月25日グランドオープン！KOGASHI 築地店",
+      "source_url": "https://dtimes.jp/post-1382775/",
+      "evidence_summary": "2026年9月25日（金）グランドオープン。9月24日はプレオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "Ringo Jam Café 東京/渋谷",
+      "category": "コラボカフェ",
+      "source_title": "Ringo Jam Café 2026年9月25日より順次開催",
+      "source_url": "https://collabo-cafe.com/events/collabo/mrs-green-apple-ringo-jam-cafe-2026/",
+      "evidence_summary": "東京・渋谷のBOX cafe&space GEMS渋谷店で2026年9月25日開始。期間限定。",
+      "confidence": "high"
+    }
+  ],
+  "notes": [
+    "latest.json本体は既存全件との完全照合ができていないため、この実行では上書きしない。",
+    "2026-09-26以降の情報は次回以降も継続確認する。",
+    "開店情報ではない閉店・休業情報は除外した。"
+  ]
+}
