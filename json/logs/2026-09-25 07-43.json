@@ -1,0 +1,65 @@
+{
+  "executed_at": "2026-09-25T07:43:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "path": "json/latest.json",
+  "added": [
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "store_name": "ベイシア本庄早稲田ゲート店"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "store_name": "まいばすけっと 平井駅前店"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "日野市",
+      "store_name": "まいばすけっと 百草園駅前店"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "store_name": "マクドナルド イオンモール柏店"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "store_name": "ECOFIT24 下関幡生店"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "store_name": "ディズニーストア ららぽーと富士見店"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "福岡県",
+      "city": "うきは市",
+      "store_name": "HOTEL R9 The Yard うきは"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "store_name": "Retreat（リトリート）"
+    }
+  ],
+  "sources": [
+    "turn1news0",
+    "turn1news5",
+    "turn1news1",
+    "turn1news9",
+    "turn1news7",
+    "turn0news7",
+    "turn1search11"
+  ],
+  "result": "latest.json updated"
+}
