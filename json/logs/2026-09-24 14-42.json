@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-09-24T14:42:04+09:00",
+  "source": "web research",
+  "latest_json_checked": {
+    "path": "/json/latest.json",
+    "updatetime": "2026-09-22T00:45:50+09:00",
+    "period": "2026-09-18/2026-09-25"
+  },
+  "confirmed_openings": [
+    {
+      "open_date": "2026-09-24",
+      "store_name": "コメダ珈琲店 デリスクア今池店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "evidence": "2026年9月24日オープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-25",
+      "store_name": "まいばすけっと 平井駅前店",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "evidence": "2026年9月25日オープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-25",
+      "store_name": "まいばすけっと 百草園駅前店",
+      "prefecture": "東京都",
+      "city": "日野市",
+      "evidence": "2026年9月25日オープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-25",
+      "store_name": "コープさっぽろ 小樽南店",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "evidence": "2026年9月25日転換オープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-25",
+      "store_name": "ピッツェリア馬車道 桶川店",
+      "prefecture": "埼玉県",
+      "city": "桶川市",
+      "evidence": "2026年9月25日リニューアルオープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-25",
+      "store_name": "ベイシア 本庄早稲田ゲート店",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "evidence": "2026年9月25日リニューアルオープンと報道確認"
+    },
+    {
+      "open_date": "2026-09-26",
+      "store_name": "BAKERIES LAB. 牛久店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "evidence": "2026年9月26日グランドオープンと公式発表確認"
+    },
+    {
+      "open_date": "2026-09-26",
+      "store_name": "湘南フクワライ食堂",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "evidence": "2026年9月26日グランドオープンと地域情報で確認"
+    }
+  ],
+  "notes": [
+    "既存latest.json全件を完全取得・照合できていないため、重複不明の情報はlatest.json本体へ推測追加していない。",
+    "9月28日以降の情報は今回の直近開店処理から除外。"
+  ]
+}
