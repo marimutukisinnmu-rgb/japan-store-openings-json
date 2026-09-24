@@ -1,0 +1,15 @@
+{
+  "executed_at":"2026-09-24T10:46:02+09:00",
+  "source_latest_json_updatetime":"2026-09-22T00:45:50+09:00",
+  "status":"research_completed",
+  "notes":"最新JSONの全件を安全に再構成できないため、latest.json本体は変更せず、今回新たに確認できた開店情報のみをログ化。既存データとの重複は未確定。",
+  "confirmed_openings":[
+    {"open_date":"2026-09-25","prefecture":"神奈川県","city":"横浜市西区","store_name":"個室完備 博多大衆酒場 あいらしか 横浜西口店","source":"PR TIMES","evidence":"2026年9月25日グランドオープン"},
+    {"open_date":"2026-09-26","prefecture":"静岡県","city":"藤枝市","store_name":"＆U brunch table","source":"藤枝市役所","evidence":"岡部宿大旅籠柏屋の物産休憩棟で9月26日グランドオープン"},
+    {"open_date":"2026-09-26","prefecture":"富山県","city":"富山市","store_name":"VAMOS 〜bar&small pizza&PoTeTo〜","source":"富山ウォッチ","evidence":"9月26日グランドオープン、24・25日はプレオープン予定"},
+    {"open_date":"2026-09-26","prefecture":"北海道","city":"帯広市","store_name":"大衆とり酒場 とりいちず 帯広店","source":"PR TIMES","evidence":"2026年9月26日グランドオープン"},
+    {"open_date":"2026-09-26","prefecture":"東京都","city":"新宿区","store_name":"新時代 新宿・靖国通り店","source":"PR TIMES","evidence":"2026年9月26日グランドオープン"},
+    {"open_date":"2026-09-24","prefecture":"愛知県","city":"名古屋市千種区","store_name":"コメダ珈琲店 デリスクア今池店","source":"名古屋情報通","evidence":"2026年9月24日オープン"}
+  ],
+  "excluded_from_store_list":[{"name":"SIXPAD 博多阪急店","reason":"9月24日開始のポップアップショップのため、恒久的な開店予定店舗としては今回のログ対象から除外"}]
+}
