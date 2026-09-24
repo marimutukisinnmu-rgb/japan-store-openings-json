@@ -1,1 +1,132 @@
-{"period":"2026-09-18/2026-09-26","scope":"Japan","updatetime":"2026-09-25T06:45:50+09:00","items":[{"open_date":"2026-09-26","prefecture":"茨城県","city":"牛久市","store_name":"BAKERIES LAB. 牛久店","category":"ベーカリー","business_type":"chain","source_title":"「BAKERIES LAB.」累計31店舗目！牛久店が2026年9月26日（土）グランドオープン","source_url":"https://prtimes.jp/main/html/rd/p/000001063.000005340.html","evidence_summary":"2026年9月26日グランドオープン。","confidence":"high"},{"open_date":"2026-09-26","prefecture":"東京都","city":"渋谷区","store_name":"厳選もつ酒場エビス参 初台店","category":"居酒屋・飲食店","business_type":"chain","source_title":"初台駅徒歩1分に「厳選もつ酒場エビス参」が9月26日オープン！","source_url":"https://mainichikirei.jp/prtimes/article/20260918prt00m100001289a.html","evidence_summary":"東京都渋谷区初台に2026年9月26日グランドオープン。","confidence":"high"}],"search_notes":["2026-09-25 06:45 JST時点で最新確認を実施。","今回確認した新規情報を追加。","未確認情報・推測情報は追加していない。"]}
+{
+  "period": "2026-09-18/2026-09-29",
+  "scope": "Japan",
+  "updatetime": "2026-09-25T07:43:10+09:00",
+  "items": [
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "store_name": "BAKERIES LAB. 牛久店",
+      "category": "ベーカリー",
+      "business_type": "chain",
+      "source_title": "「BAKERIES LAB.」累計31店舗目！牛久店が2026年9月26日（土）グランドオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001063.000005340.html",
+      "evidence_summary": "2026年9月26日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "厳選もつ酒場エビス参 初台店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "初台駅徒歩1分に「厳選もつ酒場エビス参」が9月26日オープン！",
+      "source_url": "https://mainichikirei.jp/prtimes/article/20260918prt00m100001289a.html",
+      "evidence_summary": "東京都渋谷区初台に2026年9月26日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "store_name": "ベイシア本庄早稲田ゲート店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "ベイシア／埼玉県「本庄早稲田ゲート店」9月25日リニューアルオープン",
+      "source_url": "https://www.ryutsuu.biz/store/s092479.html",
+      "evidence_summary": "2026年9月25日リニューアルオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "store_name": "まいばすけっと 平井駅前店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "まいばすけっと／東京都内に「平井駅前店」「百草園駅前店」9月25日同時オープン",
+      "source_url": "https://www.ryutsuu.biz/store/s092478.html",
+      "evidence_summary": "2026年9月25日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-25",
+      "prefecture": "東京都",
+      "city": "日野市",
+      "store_name": "まいばすけっと 百草園駅前店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "まいばすけっと／東京都内に「平井駅前店」「百草園駅前店」9月25日同時オープン",
+      "source_url": "https://www.ryutsuu.biz/store/s092478.html",
+      "evidence_summary": "2026年9月25日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "store_name": "マクドナルド イオンモール柏店",
+      "category": "ファストフード",
+      "business_type": "chain",
+      "source_title": "柏市・イオンモール柏の「マクドナルド」が9/29リニューアルオープン",
+      "source_url": "https://kashiwa-tsushin.com/27153.html",
+      "evidence_summary": "2026年9月29日10時リニューアルオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "store_name": "ECOFIT24 下関幡生店",
+      "category": "フィットネスジム",
+      "business_type": "chain",
+      "source_title": "山口県下関市 24時間フィットネスジム「ECOFIT24下関幡生店」9月29日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000128.000095989.html",
+      "evidence_summary": "2026年9月29日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "store_name": "ディズニーストア ららぽーと富士見店",
+      "category": "キャラクターグッズ",
+      "business_type": "chain",
+      "source_title": "ディズニーストア ららぽーと富士見店 グランドオープン",
+      "source_url": "https://www.disney.co.jp/store/news/information/if20260915_101",
+      "evidence_summary": "2026年9月29日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "福岡県",
+      "city": "うきは市",
+      "store_name": "HOTEL R9 The Yard うきは",
+      "category": "ホテル",
+      "business_type": "chain",
+      "source_title": "『HOTEL R9 The Yard うきは』うきは市に9月オープン",
+      "source_url": "https://kurumefan.com/hotelr9theyard-ukiha",
+      "evidence_summary": "2026年9月29日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "store_name": "Retreat（リトリート）",
+      "category": "飲食・食品販売",
+      "business_type": "independent",
+      "source_title": "2026年9月 山形の新店20軒",
+      "source_url": "https://yamagatagoto.com/yamagata-open-2026-09/533/",
+      "evidence_summary": "2026年9月29日オープン。洋食デリ＆ワインの複合店。",
+      "confidence": "medium"
+    }
+  ],
+  "search_notes": [
+    "2026-09-25 07:43 JST時点で最新確認を実施。",
+    "9月25日および9月29日の確定度の高い開店・リニューアル情報を追加。",
+    "未確認情報・推測情報は追加していない。"
+  ]
+}
