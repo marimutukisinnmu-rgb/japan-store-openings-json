@@ -1,0 +1,35 @@
+{
+  "executed_at": "2026-09-24T18:42:15+09:00",
+  "source": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json_checked": "json/latest.json",
+  "latest_json_updatetime": "2026-09-22T00:45:50+09:00",
+  "latest_json_period": "2026-09-18/2026-09-25",
+  "confirmed_new_candidates": [
+    {"open_date":"2026-09-25","store_name":"MARBLE TOKYO","location":"東京都台東区","type":"リニューアルオープン","source":"https://prtimes.jp/main/html/rd/p/000000612.000015279.html"},
+    {"open_date":"2026-09-25","store_name":"炭火のでん 天神橋筋六丁目","location":"大阪府大阪市","type":"新規オープン","source":"https://prtimes.jp/main/html/rd/p/000000285.000030130.html"},
+    {"open_date":"2026-09-25","store_name":"boost","location":"東京都港区西麻布","type":"新規オープン","source":"https://prtimes.jp/main/html/rd/p/000000026.000152766.html"},
+    {"open_date":"2026-09-25","store_name":"ベイシア 本庄早稲田ゲート店","location":"埼玉県本庄市","type":"リニューアルオープン","source":"https://www.ryutsuu.biz/store/s092479.html"},
+    {"open_date":"2026-09-25","store_name":"コープさっぽろ 小樽南店","location":"北海道小樽市","type":"転換オープン","source":"https://hre-net.com/keizai/ryutu/94776/"},
+    {"open_date":"2026-09-25","store_name":"まいばすけっと 平井駅前店","location":"東京都江戸川区","type":"新規オープン","source":"https://www.ryutsuu.biz/store/s092478.html"},
+    {"open_date":"2026-09-25","store_name":"まいばすけっと 百草園駅前店","location":"東京都日野市","type":"新規オープン","source":"https://www.ryutsuu.biz/store/s092478.html"},
+    {"open_date":"2026-09-25","store_name":"アエナ ベイシア本庄早稲田ゲート店","location":"埼玉県本庄市","type":"新規オープン","source":"https://www.aena.co.jp/2026/"},
+    {"open_date":"2026-09-25","store_name":"キャン・ドゥ DCM多賀城東店","location":"宮城県多賀城市","type":"新規オープン","source":"https://hyakkin.geomedian.com/open/"},
+    {"open_date":"2026-09-25","store_name":"スターバックスコーヒー JR池袋駅西口店","location":"東京都豊島区","type":"新規オープン","source":"https://geomedian.com/open/"},
+    {"open_date":"2026-09-25","store_name":"マクドナルド 中津駅前店","location":"大阪府大阪市北区","type":"新規オープン","source":"https://fastfood.geomedian.com/open/"},
+    {"open_date":"2026-09-25","store_name":"マクドナルド 小山粟宮店","location":"栃木県小山市","type":"新規オープン","source":"https://fastfood.geomedian.com/open/"},
+    {"open_date":"2026-09-25","store_name":"マクドナルド 宇部西岐波店","location":"山口県宇部市","type":"新規オープン","source":"https://fastfood.geomedian.com/open/"},
+    {"open_date":"2026-09-25","store_name":"マクドナルド 平塚南豊田店","location":"神奈川県平塚市","type":"新規オープン","source":"https://fastfood.geomedian.com/open/"},
+    {"open_date":"2026-09-26","store_name":"BAKERIES LAB. 牛久店","location":"茨城県牛久市","type":"グランドオープン","source":"https://prtimes.jp/main/html/rd/p/000001063.000005340.html"},
+    {"open_date":"2026-09-26","store_name":"ビッグ・エー 春日部増富店","location":"埼玉県春日部市","type":"新規オープン予定","source":"https://geomedian.com/open/"},
+    {"open_date":"2026-09-26","store_name":"セリア イオンタウン十文字南店","location":"秋田県横手市","type":"新規オープン予定","source":"https://hyakkin.geomedian.com/open/"},
+    {"open_date":"2026-09-26","store_name":"しゃぶ葉 札幌桑園店","location":"北海道札幌市","type":"グランドオープン","source":"https://www.shopship.jp/open-shop-list/202609/"},
+    {"open_date":"2026-09-26","store_name":"大衆居酒屋とりいちず 帯広店","location":"北海道帯広市","type":"新規オープン予定","source":"https://www.shopship.jp/open-shop-list/202609/"},
+    {"open_date":"2026-09-26","store_name":"MOGU24","location":"東京都八王子市","type":"グランドオープン","source":"https://8dabe.com/2026/09/24/mogu24/"}
+  ],
+  "notes": [
+    "期間限定ポップアップ・イベントは通常の恒久店舗とは区別した。",
+    "latest.json本体は既存全件の完全な重複照合と期間拡張を伴うため、この実行では安全のため未変更。",
+    "2026-09-26の情報は現在のlatest.jsonの対象期間外だが、次回更新候補として記録。"
+  ]
+}
