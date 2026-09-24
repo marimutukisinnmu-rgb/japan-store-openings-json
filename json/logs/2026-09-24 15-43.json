@@ -1,0 +1,18 @@
+{
+  "run_time":"2026-09-24T15:43:23+09:00",
+  "source":"main/json/latest.json",
+  "latest_json_updatetime":"2026-09-22T00:45:50+09:00",
+  "latest_json_period":"2026-09-18/2026-09-25",
+  "action":"fresh_opening_research",
+  "confirmed_candidates":[
+    {"open_date":"2026-09-25","prefecture":"東京都","city":"港区","store_name":"boost","category":"飲食店","confidence":"high","source_url":"https://prtimes.jp/main/html/rd/p/000000026.000152766.html","evidence_summary":"西麻布に2026年9月25日オープンと2026年9月24日発表。"},
+    {"open_date":"2026-09-25","prefecture":"北海道","city":"小樽市","store_name":"コープさっぽろ 小樽南店","category":"スーパーマーケット","confidence":"high","source_url":"https://hre-net.com/keizai/ryutu/94776/","evidence_summary":"2026年9月25日に生鮮強化型パワーアップ店舗へ転換オープン。"},
+    {"open_date":"2026-09-25","prefecture":"埼玉県","city":"鴻巣市","store_name":"チョコザップ 鴻巣赤見台店","category":"フィットネス","confidence":"high","source_url":"https://saitama-city-marathon.jp/2026/09/23/kounosusi-458/","evidence_summary":"2026年9月25日オープン。"},
+    {"open_date":"2026-09-26","prefecture":"茨城県","city":"牛久市","store_name":"BAKERIES LAB. 牛久店","category":"ベーカリー","confidence":"high","source_url":"https://prtimes.jp/main/html/rd/p/000001063.000005340.html","evidence_summary":"2026年9月26日グランドオープン。"},
+    {"open_date":"2026-09-26","prefecture":"沖縄県","city":"名護市","store_name":"フルーツ晩餐会","category":"フルーツパーラー・飲食店","confidence":"high","source_url":"https://prtimes.jp/main/html/rd/p/000000024.000122939.html","evidence_summary":"なごアグリパーク内に2026年9月26日オープン。"},
+    {"open_date":"2026-09-26","prefecture":"愛媛県","city":"松山市","store_name":"P・SPO 古着SHOP北斎院店","category":"古着・リユース","confidence":"high","source_url":"https://love-spo.com/article/%E3%80%90%E6%84%9B%E5%AA%9B%E3%83%BB%E6%9D%BE%E5%B1%B1%E3%80%91p%E3%83%BBspo%E3%80%8124%E6%99%82%E9%96%93%E5%96%B6%E6%A5%AD%E3%81%AE%E3%80%8C%E5%8F%A4%E7%9D%80shop%E5%8C%97%E6%96%8E%E9%99%A2%E5%BA%97%E3%80%8D/","evidence_summary":"2026年9月26日オープン。"},
+    {"open_date":"2026-09-26","prefecture":"北海道","city":"札幌市中央区","store_name":"しゃぶ葉 札幌桑園店","category":"しゃぶしゃぶ","confidence":"high","source_url":"https://sapporo-sokuho.com/archives/post-111992.html","evidence_summary":"2026年9月26日グランドオープン。"}
+  ],
+  "latest_json_update":"not_performed",
+  "reason":"Existing latest.json is dated through 2026-09-25 and its full item list could not be safely reconstructed from the truncated fetch response; therefore new candidates were logged without speculative overwrite or duplicate insertion."
+}
