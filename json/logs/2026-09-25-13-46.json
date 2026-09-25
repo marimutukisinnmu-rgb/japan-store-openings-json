@@ -1,0 +1,16 @@
+{
+  "execution_time": "2026-09-25T13:46:33+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "action": "update",
+  "added_items": [
+    "naillab. センター北院",
+    "新時代 新宿靖国通り店",
+    "STAR WARS STORE by BENELIC 池袋パルコ店",
+    "クラークス 柏店",
+    "TOSHOP",
+    "洒落CAFE théâtre 有楽町マルイ店"
+  ],
+  "latest_commit": "ea9ad23dcda8a2135c5d74e30bc73c5a38fcc576"
+}
