@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-30",
   "scope": "Japan",
-  "updatetime": "2026-09-25T13:46:33+09:00",
+  "updatetime": "2026-09-26T01:46:24+09:00",
   "items": [
     {
       "open_date": "2026-09-26",
@@ -194,11 +194,47 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000356.000048489.html",
       "evidence_summary": "2026年10月30日グランドオープン予定。有楽町マルイ8階。",
       "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "もつ焼きばん 八王子店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "レモンサワー発祥の老舗「もつ焼きばん」 FC2号店「八王子店」を9月26日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000176206.html",
+      "evidence_summary": "2026年9月26日（土）オープン。東京都八王子市三崎町、JR八王子駅北口から徒歩5分。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "茨城県",
+      "city": "那珂市",
+      "store_name": "オートバックス那珂店",
+      "category": "カー用品・自動車サービス",
+      "business_type": "chain",
+      "source_title": "「オートバックス那珂店」新規オープン",
+      "source_url": "https://www.autobacs.co.jp/ja/news/news-202609251400-2.html",
+      "evidence_summary": "2026年9月26日（土）新規オープン。営業時間10:00～19:00。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "store_name": "The Fleur MISATO",
+      "category": "洗車・カーサービス",
+      "business_type": "independent",
+      "source_title": "洗い放題.com® の新ブランド「The Fleur MISATO」（三郷店）が9月26日グランドオープン！会員専用レーンの初導入によりサブスク会員様の顧客体験をさらに向上",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000107290.html",
+      "evidence_summary": "2026年9月26日（土）グランドオープン予定。埼玉県三郷市ピアラシティ一丁目3番1号。",
+      "confidence": "high"
     }
   ],
   "search_notes": [
-    "2026-09-25 13:46 JST時点で最新確認を実施。",
-    "9月26日、9月29日、10月1日、10月2日、10月3日、10月30日の確定度の高い開店情報を追加。",
+    "2026-09-26 01:46 JST時点で最新確認を実施。",
+    "既存データとの重複を確認し、9月26日の確定度の高い開店情報を追加。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
