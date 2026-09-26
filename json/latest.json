@@ -1,32 +1,8 @@
 {
   "period": "2026-09-18/2026-10-30",
   "scope": "Japan",
-  "updatetime": "2026-09-26T01:46:24+09:00",
+  "updatetime": "2026-09-26T12:46:58+09:00",
   "items": [
-    {
-      "open_date": "2026-09-26",
-      "prefecture": "茨城県",
-      "city": "牛久市",
-      "store_name": "BAKERIES LAB. 牛久店",
-      "category": "ベーカリー",
-      "business_type": "chain",
-      "source_title": "「BAKERIES LAB.」累計31店舗目！牛久店が2026年9月26日（土）グランドオープン",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000001063.000005340.html",
-      "evidence_summary": "2026年9月26日グランドオープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-09-26",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "store_name": "厳選もつ酒場エビス参 初台店",
-      "category": "居酒屋・飲食店",
-      "business_type": "chain",
-      "source_title": "初台駅徒歩1分に「厳選もつ酒場エビス参」が9月26日オープン！",
-      "source_url": "https://mainichikirei.jp/prtimes/article/20260918prt00m100001289a.html",
-      "evidence_summary": "東京都渋谷区初台に2026年9月26日グランドオープン。",
-      "confidence": "high"
-    },
     {
       "open_date": "2026-09-25",
       "prefecture": "埼玉県",
@@ -65,14 +41,38 @@
     },
     {
       "open_date": "2026-09-26",
-      "prefecture": "神奈川県",
-      "city": "横浜市都筑区",
-      "store_name": "naillab. センター北院",
-      "category": "サービス",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "store_name": "The Fleur MISATO",
+      "category": "洗車・カーサービス",
+      "business_type": "independent",
+      "source_title": "洗い放題.com® の新ブランド「The Fleur MISATO」（三郷店）が9月26日グランドオープン！会員専用レーンの初導入によりサブスク会員様の顧客体験をさらに向上",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000107290.html",
+      "evidence_summary": "2026年9月26日（土）グランドオープン予定。埼玉県三郷市ピアラシティ一丁目3番1号。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "もつ焼きばん 八王子店",
+      "category": "居酒屋・飲食店",
       "business_type": "chain",
-      "source_title": "巻き爪をかばう歩き方が、膝の負担に。膝痛専門整体院に巻き爪専門店「naillab.」を併設、横浜・センター北に9月26日オープン",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000063.000137287.html",
-      "evidence_summary": "2026年9月26日開院。",
+      "source_title": "レモンサワー発祥の老舗「もつ焼きばん」 FC2号店「八王子店」を9月26日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000176206.html",
+      "evidence_summary": "2026年9月26日（土）オープン。東京都八王子市三崎町、JR八王子駅北口から徒歩5分。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "厳選もつ酒場エビス参 初台店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "初台駅徒歩1分に「厳選もつ酒場エビス参」が9月26日オープン！",
+      "source_url": "https://mainichikirei.jp/prtimes/article/20260918prt00m100001289a.html",
+      "evidence_summary": "東京都渋谷区初台に2026年9月26日グランドオープン。",
       "confidence": "high"
     },
     {
@@ -85,6 +85,54 @@
       "source_title": "【新宿にオープン】全国200店舗展開 行列ができる居酒屋『新時代』が新宿・靖国通りに2026年9月26日(土)グランドオープン",
       "source_url": "https://mantan-web.jp/prtimes/article/20260918prt00m200000773a.html",
       "evidence_summary": "2026年9月26日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "store_name": "naillab. センター北院",
+      "category": "サービス",
+      "business_type": "chain",
+      "source_title": "巻き爪をかばう歩き方が、膝の負担に。膝痛専門整体院に巻き爪専門店「naillab.」を併設、横浜・センター北に9月26日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000063.000137287.html",
+      "evidence_summary": "2026年9月26日開院。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "store_name": "BAKERIES LAB. 牛久店",
+      "category": "ベーカリー",
+      "business_type": "chain",
+      "source_title": "「BAKERIES LAB.」累計31店舗目！牛久店が2026年9月26日（土）グランドオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001063.000005340.html",
+      "evidence_summary": "2026年9月26日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-26",
+      "prefecture": "茨城県",
+      "city": "那珂市",
+      "store_name": "オートバックス那珂店",
+      "category": "カー用品・自動車サービス",
+      "business_type": "chain",
+      "source_title": "「オートバックス那珂店」新規オープン",
+      "source_url": "https://www.autobacs.co.jp/ja/news/news-202609251400-2.html",
+      "evidence_summary": "2026年9月26日（土）新規オープン。営業時間10:00～19:00。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "store_name": "鉄板ハンバーグよしだや札幌",
+      "category": "飲食店",
+      "business_type": "independent",
+      "source_title": "「鉄板ハンバーグよしだや札幌」が9月29日オープン",
+      "source_url": "https://www.atpress.ne.jp/news/632328",
+      "evidence_summary": "2026年9月29日、札幌市中央区南3条にオープン予定。",
       "confidence": "high"
     },
     {
@@ -101,18 +149,6 @@
     },
     {
       "open_date": "2026-09-29",
-      "prefecture": "山口県",
-      "city": "下関市",
-      "store_name": "ECOFIT24 下関幡生店",
-      "category": "フィットネスジム",
-      "business_type": "chain",
-      "source_title": "山口県下関市 24時間フィットネスジム「ECOFIT24下関幡生店」9月29日オープン",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000128.000095989.html",
-      "evidence_summary": "2026年9月29日グランドオープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-09-29",
       "prefecture": "埼玉県",
       "city": "富士見市",
       "store_name": "ディズニーストア ららぽーと富士見店",
@@ -125,14 +161,14 @@
     },
     {
       "open_date": "2026-09-29",
-      "prefecture": "福岡県",
-      "city": "うきは市",
-      "store_name": "HOTEL R9 The Yard うきは",
-      "category": "ホテル",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "store_name": "ECOFIT24 下関幡生店",
+      "category": "フィットネスジム",
       "business_type": "chain",
-      "source_title": "『HOTEL R9 The Yard うきは』うきは市に9月オープン",
-      "source_url": "https://kurumefan.com/hotelr9theyard-ukiha",
-      "evidence_summary": "2026年9月29日オープン。",
+      "source_title": "山口県下関市 24時間フィットネスジム「ECOFIT24下関幡生店」9月29日オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000128.000095989.html",
+      "evidence_summary": "2026年9月29日グランドオープン。",
       "confidence": "high"
     },
     {
@@ -148,6 +184,30 @@
       "confidence": "medium"
     },
     {
+      "open_date": "2026-09-29",
+      "prefecture": "福岡県",
+      "city": "うきは市",
+      "store_name": "HOTEL R9 The Yard うきは",
+      "category": "ホテル",
+      "business_type": "chain",
+      "source_title": "『HOTEL R9 The Yard うきは』うきは市に9月オープン",
+      "source_url": "https://kurumefan.com/hotelr9theyard-ukiha",
+      "evidence_summary": "2026年9月29日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "愛知県",
+      "city": "みよし市",
+      "store_name": "PROsiteみよし店",
+      "category": "ホームセンター",
+      "business_type": "chain",
+      "source_title": "ホームセンターバロー、10月1日、愛知県に「PROsiteみよし店」オープン",
+      "source_url": "https://diamond-rm.net/flash_news/558575/",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
       "open_date": "2026-10-01",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -157,6 +217,18 @@
       "source_title": "STAR WARS STORE by BENELIC 池袋パルコ店",
       "source_url": "https://benelic.com/starwarsstore/",
       "evidence_summary": "2026年10月1日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "store_name": "マジックレストラン Gran GIOIA Ginza",
+      "category": "レストラン",
+      "business_type": "independent",
+      "source_title": "【新店】銀座で？空中浮遊撮影？23年の歴史「美食と不思議の隠れ家」リブランディング。10月1日開業",
+      "source_url": "https://foods-ch.infomart.co.jp/news/333735",
+      "evidence_summary": "2026年10月1日、銀座中央通りのブシュロン銀座ビル13階に拡大移転オープン。",
       "confidence": "high"
     },
     {
@@ -194,47 +266,11 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000356.000048489.html",
       "evidence_summary": "2026年10月30日グランドオープン予定。有楽町マルイ8階。",
       "confidence": "high"
-    },
-    {
-      "open_date": "2026-09-26",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "store_name": "もつ焼きばん 八王子店",
-      "category": "居酒屋・飲食店",
-      "business_type": "chain",
-      "source_title": "レモンサワー発祥の老舗「もつ焼きばん」 FC2号店「八王子店」を9月26日オープン",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000176206.html",
-      "evidence_summary": "2026年9月26日（土）オープン。東京都八王子市三崎町、JR八王子駅北口から徒歩5分。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-09-26",
-      "prefecture": "茨城県",
-      "city": "那珂市",
-      "store_name": "オートバックス那珂店",
-      "category": "カー用品・自動車サービス",
-      "business_type": "chain",
-      "source_title": "「オートバックス那珂店」新規オープン",
-      "source_url": "https://www.autobacs.co.jp/ja/news/news-202609251400-2.html",
-      "evidence_summary": "2026年9月26日（土）新規オープン。営業時間10:00～19:00。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-09-26",
-      "prefecture": "埼玉県",
-      "city": "三郷市",
-      "store_name": "The Fleur MISATO",
-      "category": "洗車・カーサービス",
-      "business_type": "independent",
-      "source_title": "洗い放題.com® の新ブランド「The Fleur MISATO」（三郷店）が9月26日グランドオープン！会員専用レーンの初導入によりサブスク会員様の顧客体験をさらに向上",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000107290.html",
-      "evidence_summary": "2026年9月26日（土）グランドオープン予定。埼玉県三郷市ピアラシティ一丁目3番1号。",
-      "confidence": "high"
     }
   ],
   "search_notes": [
-    "2026-09-26 01:46 JST時点で最新確認を実施。",
-    "既存データとの重複を確認し、9月26日の確定度の高い開店情報を追加。",
+    "2026-09-26 12:46 JST時点で最新確認を実施。",
+    "既存データとの重複を確認し、今回確認できた確定度の高い開店情報を追加。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
