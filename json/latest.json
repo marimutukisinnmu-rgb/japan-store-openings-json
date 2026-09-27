@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-30",
   "scope": "Japan",
-  "updatetime": "2026-09-28T04:46:32+09:00",
+  "updatetime": "2026-09-28T07:46:48+09:00",
   "items": [
     {
       "open_date": "2026-09-25",
@@ -350,11 +350,35 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000051.000145487.html",
       "evidence_summary": "2026年10月2日グランドオープン予定。",
       "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-28",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "store_name": "麺場 田所商店 新浦安店",
+      "category": "ラーメン",
+      "business_type": "chain",
+      "source_title": "麺場 田所商店 新浦安店｜浦安市鉄鋼通りに2026年9月28日オープン",
+      "source_url": "https://jimoharu.net/urayasu-tadokoro-shoten-shinurayasu-2026/",
+      "evidence_summary": "2026年9月28日オープン予定。浦安市鉄鋼通り。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-28",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "store_name": "甘味処鎌倉 レイリア久留米店",
+      "category": "和菓子・スイーツ",
+      "business_type": "chain",
+      "source_title": "久留米市『甘味処鎌倉』9月オープン！",
+      "source_url": "https://kurumefan.com/warabimochi-kamakura",
+      "evidence_summary": "2026年9月28日から9月30日までの期間限定オープン予定。レイリア久留米2階。",
+      "confidence": "high"
     }
   ],
   "search_notes": [
-    "2026-09-28 04:46 JST時点で最新確認を実施。",
-    "前回の正常データを基礎として保持し、今回確認できた確定度の高い新規開店情報を追加。",
+    "2026-09-28 07:46 JST時点で最新確認を実施。",
+    "既存データを保持し、今回確認できた確定度の高い新規開店情報を追加。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
