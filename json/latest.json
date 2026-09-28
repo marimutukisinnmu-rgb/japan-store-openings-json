@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-30",
   "scope": "Japan",
-  "updatetime": "2026-09-28T07:46:48+09:00",
+  "updatetime": "2026-09-28T10:09:00+09:00",
   "items": [
     {
       "open_date": "2026-09-25",
@@ -374,11 +374,83 @@
       "source_url": "https://kurumefan.com/warabimochi-kamakura",
       "evidence_summary": "2026年9月28日から9月30日までの期間限定オープン予定。レイリア久留米2階。",
       "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-28",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "store_name": "イタリアン リゾート ペルティカ 鎌倉店",
+      "category": "レストラン",
+      "business_type": "chain",
+      "source_title": "【9/28グランドOPEN‼】五感をくすぐるリゾートイタリアン『イタリアン リゾート ペルティカ 鎌倉店』がオープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001253.000033462.html",
+      "evidence_summary": "2026年9月28日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-28",
+      "prefecture": "三重県",
+      "city": "名張市",
+      "store_name": "高価買取おたからや 名張夏見店",
+      "category": "買取専門店",
+      "business_type": "chain",
+      "source_title": "【新店舗】いーふらん、三重県名張市に「高価買取おたからや 名張夏見店」を出店！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000402.000080252.html",
+      "evidence_summary": "2026年9月28日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "東京都",
+      "city": "三鷹市",
+      "store_name": "大衆魚酒場 ニューはたはた三鷹店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "「凧、凧 三鷹店」が『大衆魚酒場 ニューはたはた三鷹店』へ！2026年9月29日（火）リニューアルオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001067.000005340.html",
+      "evidence_summary": "2026年9月29日リニューアルオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "store_name": "zen place pilates 浦安",
+      "category": "ピラティススタジオ",
+      "business_type": "chain",
+      "source_title": "【2026年10月1日（木曜）新店オープン】国内150店舗のzen placeピラティス・ヨガスタジオ「zen place pilates 浦安」がオープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000470.000043196.html",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-10",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "store_name": "新時代 横浜鶴屋町店",
+      "category": "居酒屋・飲食店",
+      "business_type": "chain",
+      "source_title": "【横浜に新店】全国200店舗展開 行列ができる居酒屋『新時代』が横浜・鶴屋町に2026年10月10日(土)グランドオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000276.000070373.html",
+      "evidence_summary": "2026年10月10日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-30",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "store_name": "あい鍼灸院・接骨院 京阪丹波橋駅ナカ院",
+      "category": "鍼灸院・接骨院",
+      "business_type": "chain",
+      "source_title": "京阪丹波橋駅改札内に「あい鍼灸院・接骨院 京阪丹波橋駅ナカ院」が2026年10月30日（金）オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000077.000118183.html",
+      "evidence_summary": "2026年10月30日オープン。京阪丹波橋駅改札内。",
+      "confidence": "high"
     }
   ],
   "search_notes": [
-    "2026-09-28 07:46 JST時点で最新確認を実施。",
-    "既存データを保持し、今回確認できた確定度の高い新規開店情報を追加。",
+    "2026-09-28 10:09 JST時点で最新確認を実施。",
+    "既存データを保持し、今回確認できた確定度の高い新規・リニューアル開店情報を追加。",
     "未確認情報・推測情報は追加していない。"
   ]
 }
