@@ -1,16 +1,120 @@
 {
   "period": "2026-09-18/2026-10-30",
   "scope": "Japan",
-  "updatetime": "2026-09-29T04:43:30+09:00",
+  "updatetime": "2026-09-29T12:43:53+09:00",
   "items": [
-    {"open_date":"2026-09-29","prefecture":"北海道","city":"札幌市中央区","store_name":"鉄板ハンバーグよしだや札幌","category":"飲食店","business_type":"independent","source_title":"鉄板ハンバーグよしだや札幌が9月29日オープン","source_url":"https://www.atpress.ne.jp/news/632328","evidence_summary":"2026年9月29日オープン予定。","confidence":"high"},
-    {"open_date":"2026-09-29","prefecture":"北海道","city":"江別市","store_name":"サンドラッグ上江別店","category":"ドラッグストア","business_type":"chain","source_title":"サンドラッグ上江別店9月29日オープン","source_url":"https://ebetsunopporo.com/?p=56961","evidence_summary":"2026年9月29日午前9時グランドオープン予定。","confidence":"high"},
-    {"open_date":"2026-09-29","prefecture":"香川県","city":"善通寺市","store_name":"コメダ珈琲店 善通寺店","category":"カフェ","business_type":"chain","source_title":"コメダ珈琲店 善通寺店2026年9月29日グランドオープン","source_url":"https://takamatsu.goguynet.jp/2026/09/23/komedacoffee-kagawa/","evidence_summary":"2026年9月29日グランドオープン。","confidence":"high"},
-    {"open_date":"2026-09-29","prefecture":"福岡県","city":"うきは市","store_name":"HOTEL R9 The Yard うきは","category":"ホテル","business_type":"chain","source_title":"HOTEL R9 The Yard うきは9月オープン","source_url":"https://kurumefan.com/hotelr9theyard-ukiha","evidence_summary":"2026年9月29日オープン。","confidence":"high"},
-    {"open_date":"2026-09-30","prefecture":"福岡県","city":"北九州市戸畑区","store_name":"バーガーキング イオン戸畑ショッピングセンター店","category":"ファストフード","business_type":"chain","source_title":"バーガーキング イオン戸畑ショッピングセンター店2026年9月30日オープン","source_url":"https://kitakyushukokura-moji.goguynet.jp/2026/09/27/burgerking-newopen-2026-no2/","evidence_summary":"2026年9月30日午前10時オープン予定。","confidence":"high"},
-    {"open_date":"2026-09-30","prefecture":"新潟県","city":"新潟市中央区","store_name":"chocoZAP 新潟笹口一丁目","category":"フィットネスジム","business_type":"chain","source_title":"chocoZAP 新潟笹口一丁目が9月30日オープン","source_url":"https://gatachira.com/local/open-close/10221807/","evidence_summary":"2026年9月30日12時オープン予定。","confidence":"high"},
-    {"open_date":"2026-09-30","prefecture":"大阪府","city":"高槻市","store_name":"chocoZAP 高槻辻子三丁目","category":"フィットネスジム","business_type":"chain","source_title":"外環ぞい高槻にchocoZAPが9月30日オープン予定","source_url":"https://www.hira2.jp/open-close/chocozap-20260925.html","evidence_summary":"2026年9月30日12時オープン予定。","confidence":"high"},
-    {"open_date":"2026-10-01","prefecture":"千葉県","city":"船橋市","store_name":"Flying Tiger Copenhagen 東武百貨店船橋店","category":"雑貨","business_type":"chain","source_title":"東武百貨店船橋店でフライングタイガーが10月1日初出店","source_url":"https://jimoharu.net/tobu-funabashi-pastel-flyingtiger-2026/","evidence_summary":"2026年10月1日から期間限定オープン予定。","confidence":"high"}
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "store_name": "鉄板ハンバーグよしだや札幌",
+      "category": "飲食店",
+      "business_type": "independent",
+      "source_title": "鉄板ハンバーグよしだや札幌が9月29日オープン",
+      "source_url": "https://www.atpress.ne.jp/news/632328",
+      "evidence_summary": "2026年9月29日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "store_name": "サンドラッグ上江別店",
+      "category": "ドラッグストア",
+      "business_type": "chain",
+      "source_title": "サンドラッグ上江別店9月29日オープン",
+      "source_url": "https://ebetsunopporo.com/?p=56961",
+      "evidence_summary": "2026年9月29日午前9時グランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "香川県",
+      "city": "善通寺市",
+      "store_name": "コメダ珈琲店 善通寺店",
+      "category": "カフェ",
+      "business_type": "chain",
+      "source_title": "コメダ珈琲店 善通寺店2026年9月29日グランドオープン",
+      "source_url": "https://takamatsu.goguynet.jp/2026/09/23/komedacoffee-kagawa/",
+      "evidence_summary": "2026年9月29日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-29",
+      "prefecture": "福岡県",
+      "city": "うきは市",
+      "store_name": "HOTEL R9 The Yard うきは",
+      "category": "ホテル",
+      "business_type": "chain",
+      "source_title": "HOTEL R9 The Yard うきは9月オープン",
+      "source_url": "https://kurumefan.com/hotelr9theyard-ukiha",
+      "evidence_summary": "2026年9月29日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-30",
+      "prefecture": "福岡県",
+      "city": "北九州市戸畑区",
+      "store_name": "バーガーキング イオン戸畑ショッピングセンター店",
+      "category": "ファストフード",
+      "business_type": "chain",
+      "source_title": "バーガーキング イオン戸畑ショッピングセンター店2026年9月30日オープン",
+      "source_url": "https://kitakyushukokura-moji.goguynet.jp/2026/09/27/burgerking-newopen-2026-no2/",
+      "evidence_summary": "2026年9月30日午前10時オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-30",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "store_name": "chocoZAP 新潟笹口一丁目",
+      "category": "フィットネスジム",
+      "business_type": "chain",
+      "source_title": "chocoZAP 新潟笹口一丁目が9月30日オープン",
+      "source_url": "https://gatachira.com/local/open-close/10221807/",
+      "evidence_summary": "2026年9月30日12時オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-09-30",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "store_name": "chocoZAP 高槻辻子三丁目",
+      "category": "フィットネスジム",
+      "business_type": "chain",
+      "source_title": "外環ぞい高槻にchocoZAPが9月30日オープン予定",
+      "source_url": "https://www.hira2.jp/open-close/chocozap-20260925.html",
+      "evidence_summary": "2026年9月30日12時オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "store_name": "Flying Tiger Copenhagen 東武百貨店船橋店",
+      "category": "雑貨",
+      "business_type": "chain",
+      "source_title": "東武百貨店船橋店でフライングタイガーが10月1日初出店",
+      "source_url": "https://jimoharu.net/tobu-funabashi-pastel-flyingtiger-2026/",
+      "evidence_summary": "2026年10月1日から期間限定オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "store_name": "串カツ田中 膳所店",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "新店情報『串カツ田中 膳所店』が10月1日(木)にオープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000634.000027839.html",
+      "evidence_summary": "2026年10月1日オープン予定。2026年9月29日10時30分公開のプレスリリースで確認。",
+      "confidence": "high"
+    }
   ],
-  "search_notes":["2026-09-29 04:43 JST時点で最新確認を実施。","今回確認できた確定度の高い追加情報のみを記録。"]
+  "search_notes": [
+    "2026-09-29 04:43 JST時点で最新確認を実施。",
+    "今回確認できた確定度の高い追加情報のみを記録。",
+    "2026-09-29 12:43 JST時点で追加確認。串カツ田中 膳所店の2026年10月1日オープンを公式発表系情報で確認。"
+  ]
 }
