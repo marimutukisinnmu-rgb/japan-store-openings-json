@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2026-10-30",
+  "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-09-29T12:43:53+09:00",
+  "updatetime": "2026-09-30T16:39:39+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -108,13 +108,85 @@
       "business_type": "chain",
       "source_title": "新店情報『串カツ田中 膳所店』が10月1日(木)にオープン！",
       "source_url": "https://prtimes.jp/main/html/rd/p/000000634.000027839.html",
-      "evidence_summary": "2026年10月1日オープン予定。2026年9月29日10時30分公開のプレスリリースで確認。",
+      "evidence_summary": "2026年10月1日オープン予定。2026年9月29日公開のプレスリリースで確認。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "store_name": "とやま鮨らーめん 富山高山すし空港店",
+      "category": "飲食店",
+      "business_type": "independent",
+      "source_title": "とやま鮨らーめんが富山空港2階に2026年10月1日移転オープン",
+      "source_url": "https://toyama-watch.com/archives/31645",
+      "evidence_summary": "2026年10月1日に富山空港1階から2階へ移転・リニューアルオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "港区",
+      "store_name": "歌舞伎町レバニラ 青葉",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "歌舞伎町で60年愛される台湾料理『青葉』のレバニラ専門店が浜松町ネオ横丁にオープン",
+      "source_url": "https://www.value-press.com/pressrelease/381601",
+      "evidence_summary": "2026年10月1日に浜松町ネオ横丁内でオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "store_name": "おにぎりこんが コレド室町テラス店",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "おにぎりこんが コレド室町テラス店が10月1日にグランドオープン",
+      "source_url": "https://foods-ch.infomart.co.jp/news/336696",
+      "evidence_summary": "2026年10月1日にコレド室町テラス1階へ国内17店舗目として出店。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "store_name": "Cub HOUSE 株式会社ゲンズ八戸ノ里店",
+      "category": "二輪車関連",
+      "business_type": "chain",
+      "source_title": "ホンダの原付二種専門店Cub HOUSEが全国5店舗に拡大",
+      "source_url": "https://news.webike.net/bikenews/595300/",
+      "evidence_summary": "2026年10月1日オープン予定。Honda Commuter店舗内のShop in Shop形式。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "store_name": "レッドバロン町田鶴川",
+      "category": "二輪車販売",
+      "business_type": "chain",
+      "source_title": "東京都町田市に10月1日、レッドバロン町田鶴川がグランドオープン",
+      "source_url": "https://carview.yahoo.co.jp/news/detail/d6b351168d86294f3b94cc0706d1877d93fe06ce/",
+      "evidence_summary": "2026年10月1日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "store_name": "ゴンチャ 南砂町SUNAMO店",
+      "category": "カフェ",
+      "business_type": "chain",
+      "source_title": "ゴンチャ 南砂町SUNAMO店が10月1日オープン",
+      "source_url": "https://ampmedia.jp/2026/09/24/gongcha-sunamo/",
+      "evidence_summary": "2026年10月1日オープン。SUNAMO 1階、営業時間10:00～21:00、12席。",
       "confidence": "high"
     }
   ],
   "search_notes": [
     "2026-09-29 04:43 JST時点で最新確認を実施。",
-    "今回確認できた確定度の高い追加情報のみを記録。",
-    "2026-09-29 12:43 JST時点で追加確認。串カツ田中 膳所店の2026年10月1日オープンを公式発表系情報で確認。"
+    "2026-09-29 12:43 JST時点で追加確認。串カツ田中 膳所店の2026年10月1日オープンを公式発表系情報で確認。",
+    "2026-09-30 16:39 JST時点で追加確認。10月1日オープン予定の新規情報を確認し、既存項目と重複しないものを追加。"
   ]
 }
