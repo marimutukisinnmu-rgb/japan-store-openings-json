@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-01T09:39:36+09:00",
+  "updatetime": "2026-10-01T13:41:58+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -89,6 +89,18 @@
     },
     {
       "open_date": "2026-10-01",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "store_name": "松屋 松阪鎌田町店",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "松屋、松阪・下関で松のや併設の新店2店が本日10時オープン",
+      "source_url": "https://gyumesy.com/articles/9q20ef/",
+      "evidence_summary": "2026年10月1日午前10時オープン。松のや併設。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
       "prefecture": "京都府",
       "city": "京都市下京区",
       "store_name": "ISHIYA G 大丸京都店",
@@ -97,6 +109,18 @@
       "source_title": "ISHIYA G 大丸京都店が10月1日グランドオープン",
       "source_url": "https://www.leafkyoto.net/260928-kyoto-ihiyag/",
       "evidence_summary": "2026年10月1日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "京都府",
+      "city": "京都市山科区",
+      "store_name": "ラーメン大志 山科店",
+      "category": "ラーメン",
+      "business_type": "independent",
+      "source_title": "【京都新店】早くも2号店！注目のネオ背脂醤油ラーメン「大志」が10月1日にオープン",
+      "source_url": "https://kyotopi.jp/articles/ramen-taishi-yamashina",
+      "evidence_summary": "2026年10月1日オープン。河原町本店に続く2号店。",
       "confidence": "high"
     },
     {
@@ -125,6 +149,42 @@
     },
     {
       "open_date": "2026-10-01",
+      "prefecture": "千葉県",
+      "city": "千葉市稲毛区",
+      "store_name": "カラープラス稲毛店",
+      "category": "美容",
+      "business_type": "chain",
+      "source_title": "ヘアカラー専門店「カラープラス」が千葉・稲毛に新店オープン！全国80店舗",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000034.000114538.html",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "store_name": "Meltyuna Lab",
+      "category": "雑貨・専門店",
+      "business_type": "independent",
+      "source_title": "【狭山市】スクイーズ専門店「Meltyuna Lab」が10月1日グランドオープンします♪",
+      "source_url": "https://saitama-city-marathon.jp/2026/09/27/sayamasi-71/",
+      "evidence_summary": "2026年10月1日グランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "store_name": "Rintosull イオンレイクタウンmori店",
+      "category": "フィットネス",
+      "business_type": "chain",
+      "source_title": "イオンレイクタウンmoriに「Rintosull」10月1日オープン！",
+      "source_url": "https://yashion.jp/news/43476",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
       "prefecture": "大阪府",
       "city": "東大阪市",
       "store_name": "Cub HOUSE 株式会社ゲンズ八戸ノ里店",
@@ -133,6 +193,30 @@
       "source_title": "ホンダの原付二種専門店Cub HOUSEが全国5店舗に拡大",
       "source_url": "https://news.webike.net/bikenews/595300/",
       "evidence_summary": "2026年10月1日オープン予定。Honda Commuter店舗内のShop in Shop形式。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "store_name": "ヤマロク泉店",
+      "category": "ラーメン",
+      "business_type": "independent",
+      "source_title": "10月1日に仙台市泉区実沢にラーメン店「ヤマロク泉店」ができるらしい",
+      "source_url": "https://tomiya-times.jp/category/open/",
+      "evidence_summary": "2026年10月1日オープン予定。",
+      "confidence": "medium"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "store_name": "韓国家庭料理 扶餘 汗蒸幕のゆ店",
+      "category": "飲食店",
+      "business_type": "independent",
+      "source_title": "市名坂の「汗蒸幕のゆ」で韓国家庭料理「扶餘」が10月1日オープン",
+      "source_url": "https://tomiya-times.jp/category/open/",
+      "evidence_summary": "2026年10月1日オープン予定。",
       "confidence": "high"
     },
     {
@@ -149,6 +233,18 @@
     },
     {
       "open_date": "2026-10-01",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "store_name": "松屋 下関長府店",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "松屋、松阪・下関で松のや併設の新店2店が本日10時オープン",
+      "source_url": "https://gyumesy.com/articles/9q20ef/",
+      "evidence_summary": "2026年10月1日午前10時オープン。松のや併設。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
       "prefecture": "愛知県",
       "city": "みよし市",
       "store_name": "PROsiteみよし店",
@@ -156,6 +252,18 @@
       "business_type": "chain",
       "source_title": "ホームセンターバロー、10月1日、愛知県にPROsiteみよし店オープン",
       "source_url": "https://diamond-rm.net/flash_news/558575/",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "新潟県",
+      "city": "長岡市",
+      "store_name": "ASM NAGAOKA",
+      "category": "カー用品",
+      "business_type": "chain",
+      "source_title": "オートパーツリユースストア「ASM NAGAOKA」新規オープン",
+      "source_url": "https://www.autobacs.co.jp/ja/news/news-202609301400-2.html",
       "evidence_summary": "2026年10月1日オープン。",
       "confidence": "high"
     },
@@ -186,6 +294,30 @@
     {
       "open_date": "2026-10-01",
       "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "スペラボ八王子中野上町店",
+      "category": "トランクルーム",
+      "business_type": "chain",
+      "source_title": "2026年10月1日オープン！開店記念の特別割引賃料！スペラボ八王子中野上町店",
+      "source_url": "https://dtimes.jp/post-1392802/",
+      "evidence_summary": "2026年10月1日オープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "store_name": "なんくるないさー八幡山",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "ブランド14店舗目となる、沖縄料理「なんくるないさー八幡山」2026年10月1日（木）グランドオープン",
+      "source_url": "https://mainichikirei.jp/prtimes/article/20260930prt00m100000056a.html",
+      "evidence_summary": "2026年10月1日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "東京都",
       "city": "町田市",
       "store_name": "レッドバロン町田鶴川",
       "category": "二輪車販売",
@@ -209,37 +341,13 @@
     },
     {
       "open_date": "2026-10-01",
-      "prefecture": "滋賀県",
-      "city": "大津市",
-      "store_name": "串カツ田中 膳所店",
-      "category": "飲食店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "食品館あおば ぐりーんうぉーく多摩店",
+      "category": "スーパーマーケット",
       "business_type": "chain",
-      "source_title": "新店情報『串カツ田中 膳所店』が10月1日(木)にオープン！",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000634.000027839.html",
-      "evidence_summary": "2026年10月1日オープン予定。2026年9月29日公開のプレスリリースで確認。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "神奈川県",
-      "city": "藤沢市",
-      "store_name": "片付け堂 藤沢店",
-      "category": "片付けサービス",
-      "business_type": "chain",
-      "source_title": "片付け堂 藤沢店が2026年10月オープン",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000100928.html",
-      "evidence_summary": "2026年10月1日オープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "新潟県",
-      "city": "長岡市",
-      "store_name": "ASM NAGAOKA",
-      "category": "カー用品",
-      "business_type": "chain",
-      "source_title": "オートパーツリユースストア「ASM NAGAOKA」新規オープン",
-      "source_url": "https://www.autobacs.co.jp/ja/news/news-202609301400-2.html",
+      "source_title": "待ってました！『ベルク』跡地に新スーパー『食品館あおば』10/1オープン",
+      "source_url": "https://8dabe.com/2026/09/29/shokuhinkan-aoba/",
       "evidence_summary": "2026年10月1日オープン。",
       "confidence": "high"
     },
@@ -257,98 +365,14 @@
     },
     {
       "open_date": "2026-10-01",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "store_name": "食品館あおば ぐりーんうぉーく多摩店",
-      "category": "スーパーマーケット",
-      "business_type": "chain",
-      "source_title": "待ってました！『ベルク』跡地に新スーパー『食品館あおば』10/1オープン",
-      "source_url": "https://8dabe.com/2026/09/29/shokuhinkan-aoba/",
-      "evidence_summary": "2026年10月1日オープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "東京都",
-      "city": "杉並区",
-      "store_name": "なんくるないさー八幡山",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "store_name": "串カツ田中 膳所店",
       "category": "飲食店",
       "business_type": "chain",
-      "source_title": "ブランド14店舗目となる、沖縄料理「なんくるないさー八幡山」2026年10月1日（木）グランドオープン",
-      "source_url": "https://mainichikirei.jp/prtimes/article/20260930prt00m100000056a.html",
-      "evidence_summary": "2026年10月1日グランドオープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "埼玉県",
-      "city": "狭山市",
-      "store_name": "Meltyuna Lab",
-      "category": "雑貨・専門店",
-      "business_type": "independent",
-      "source_title": "【狭山市】スクイーズ専門店「Meltyuna Lab」が10月1日グランドオープンします♪",
-      "source_url": "https://saitama-city-marathon.jp/2026/09/27/sayamasi-71/",
-      "evidence_summary": "2026年10月1日グランドオープン予定。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "store_name": "スペラボ八王子中野上町店",
-      "category": "トランクルーム",
-      "business_type": "chain",
-      "source_title": "2026年10月1日オープン！開店記念の特別割引賃料！スペラボ八王子中野上町店",
-      "source_url": "https://dtimes.jp/post-1392802/",
-      "evidence_summary": "2026年10月1日オープン予定。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "宮城県",
-      "city": "仙台市泉区",
-      "store_name": "韓国家庭料理 扶餘 汗蒸幕のゆ店",
-      "category": "飲食店",
-      "business_type": "independent",
-      "source_title": "市名坂の「汗蒸幕のゆ」で韓国家庭料理「扶餘」が10月1日オープン",
-      "source_url": "https://tomiya-times.jp/category/open/",
-      "evidence_summary": "2026年10月1日オープン予定。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "宮城県",
-      "city": "仙台市泉区",
-      "store_name": "ヤマロク泉店",
-      "category": "ラーメン",
-      "business_type": "independent",
-      "source_title": "10月1日に仙台市泉区実沢にラーメン店「ヤマロク泉店」ができるらしい",
-      "source_url": "https://tomiya-times.jp/category/open/",
-      "evidence_summary": "2026年10月1日オープン予定。",
-      "confidence": "medium"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "千葉県",
-      "city": "千葉市稲毛区",
-      "store_name": "カラープラス稲毛店",
-      "category": "美容",
-      "business_type": "chain",
-      "source_title": "ヘアカラー専門店「カラープラス」が千葉・稲毛に新店オープン！全国80店舗",
-      "source_url": "https://prtimes.jp/main/html/rd/p/000000034.000114538.html",
-      "evidence_summary": "2026年10月1日オープン。",
-      "confidence": "high"
-    },
-    {
-      "open_date": "2026-10-01",
-      "prefecture": "埼玉県",
-      "city": "越谷市",
-      "store_name": "Rintosull イオンレイクタウンmori店",
-      "category": "フィットネス",
-      "business_type": "chain",
-      "source_title": "イオンレイクタウンmoriに「Rintosull」10月1日オープン！",
-      "source_url": "https://yashion.jp/news/43476",
-      "evidence_summary": "2026年10月1日オープン。",
+      "source_title": "新店情報『串カツ田中 膳所店』が10月1日(木)にオープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000634.000027839.html",
+      "evidence_summary": "2026年10月1日オープン予定。2026年9月29日公開のプレスリリースで確認。",
       "confidence": "high"
     },
     {
@@ -361,6 +385,42 @@
       "source_title": "神奈川県に初出店『タイヤ・ホイール買取専門店Reキャリー』の新店舗が横浜市に10月1日オープン",
       "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000155179.html",
       "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-01",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "store_name": "片付け堂 藤沢店",
+      "category": "片付けサービス",
+      "business_type": "chain",
+      "source_title": "片付け堂 藤沢店が2026年10月オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000018.000100928.html",
+      "evidence_summary": "2026年10月1日オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "store_name": "ゆげ焙煎所 甲南山手店",
+      "category": "カフェ",
+      "business_type": "independent",
+      "source_title": "東灘・JR甲南山手駅のすぐ南側に「ゆげ焙煎所 甲南山手店」さんが2026年10月2日（金）オープン予定！",
+      "source_url": "https://higashinada-journal.com/spot/119734/",
+      "evidence_summary": "2026年10月2日オープン予定。自家焙煎のスペシャルティコーヒー専門店。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "store_name": "コープさっぽろ みわ店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "コープさっぽろ、北見市の「コープさっぽろ みわ店」10月2日パワーアップオープン",
+      "source_url": "https://diamond-rm.net/flash_news/559289/",
+      "evidence_summary": "2026年10月2日、生鮮部門を強化したパワーアップオープン。",
       "confidence": "high"
     }
   ]
