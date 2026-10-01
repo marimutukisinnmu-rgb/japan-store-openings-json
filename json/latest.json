@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-01T17:43:30+09:00",
+  "updatetime": "2026-10-02T04:46:34+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -485,6 +485,42 @@
     },
     {
       "open_date": "2026-10-02",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "store_name": "LOWYAアリオ八尾店",
+      "category": "家具・インテリア",
+      "business_type": "chain",
+      "source_title": "2026年10月2日（金）アリオ八尾にLOWYAの実店舗がオープン！",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000169.000026707.html",
+      "evidence_summary": "2026年10月2日、アリオ八尾2階にオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "store_name": "SEGA STORE OSAKA",
+      "category": "物販・キャラクターグッズ",
+      "business_type": "chain",
+      "source_title": "「SEGA STORE OSAKA」10月2日（金）オープン",
+      "source_url": "https://www.sega.jp/topics/detail/260914_3/",
+      "evidence_summary": "2026年10月2日、心斎橋PARCO 6階にオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "store_name": "大福麻辣燙",
+      "category": "飲食店",
+      "business_type": "independent",
+      "source_title": "【岡山市北区】表町にマーラータン専門店「大福麻辣燙」が10月2日オープン",
+      "source_url": "https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/09/26/malatang-4/",
+      "evidence_summary": "2026年10月2日グランドオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
       "prefecture": "愛知県",
       "city": "豊橋市",
       "store_name": "COW DONUT",
@@ -493,6 +529,30 @@
       "source_title": "豊橋市 新規オープン・閉店情報2026年まとめ",
       "source_url": "https://info-tahara.com/%E3%80%90%E8%B1%8A%E6%A9%8B%E5%B8%82%E3%80%91%E6%96%B0%E8%A6%8F%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%BB%E9%96%89%E5%BA%97%E6%83%85%E5%A0%B12025%E5%B9%B4%E3%81%BE%E3%81%A8%E3%82%81/",
       "evidence_summary": "2026年10月2日オープン予定。愛知県豊橋市西岩田1丁目13-13の生ドーナツ専門店。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "store_name": "サロモンストア 吉祥寺店",
+      "category": "スポーツ用品",
+      "business_type": "chain",
+      "source_title": "吉祥寺に新たなブランド拠点となるサロモンストア 吉祥寺店を10/2（金）にNEW OPEN",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000062.000112205.html",
+      "evidence_summary": "2026年10月2日、吉祥寺にオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "石川県",
+      "city": "小松市",
+      "store_name": "ONLY イオンモール新小松店",
+      "category": "衣料品",
+      "business_type": "chain",
+      "source_title": "京都発・創業50周年 テーラーの技術を受け継ぐスーツブランド「ONLY」が北陸初進出",
+      "source_url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDExNi4wMDAwMTc2MzkuaHRtbA%3D%3D",
+      "evidence_summary": "2026年10月2日、イオンモール新小松店をオープン。",
       "confidence": "high"
     }
   ]
