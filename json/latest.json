@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-02T15:41:39+09:00",
+  "updatetime": "2026-10-02T18:47:23+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -613,6 +613,42 @@
       "source_title": "【柏崎市】生鮮強化型のドラッグストア『クスリのアオキ 柏崎店』が10月2日にオープン！",
       "source_url": "https://gatachira.com/local/open-close/10222468/",
       "evidence_summary": "2026年10月2日オープン。調剤薬局併設。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "store_name": "MUG&RUG",
+      "category": "カフェ・ワークショップ",
+      "business_type": "independent",
+      "source_title": "三郷駅徒歩2分に「MUG&RUG」10月3日オープン！カフェと自分だけのラグづくりを楽しむお店",
+      "source_url": "https://yashion.jp/news/44671/3/",
+      "evidence_summary": "2026年10月3日オープン予定。カフェ利用とタフティングのワークショップを提供。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "store_name": "BAKERIES LAB. 京成高砂店",
+      "category": "ベーカリー",
+      "business_type": "chain",
+      "source_title": "「BAKERIES LAB.」累計32店舗目！京成高砂店が2026年10月3日（土）グランドオープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001068.000005340.html",
+      "evidence_summary": "2026年10月3日グランドオープン予定。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "store_name": "TOSHOP",
+      "category": "物販・ショップ",
+      "business_type": "independent",
+      "source_title": "八王子駅南口「桑都の杜」にTOSHOPオープン",
+      "source_url": "https://8dabe.com/2026/09/30/sotonomori-5/",
+      "evidence_summary": "2026年10月3日開設予定。「桑都の杜」のSPOT HACHIOJI内のショップ。",
       "confidence": "high"
     }
   ]
