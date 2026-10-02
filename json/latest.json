@@ -1,1 +1,56 @@
-{"period":"2026-09-18/2026-10-31","scope":"Japan","updatetime":"2026-10-02T22:40:32+09:00","items":[]}
+{
+  "period": "2026-09-18/2026-10-31",
+  "scope": "Japan",
+  "updatetime": "2026-10-03T00:44:23+09:00",
+  "items": [
+    {
+      "name": "PARK BASEL",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-03",
+      "category": "カフェ"
+    },
+    {
+      "name": "TAKAO COFFEE 桑都の杜店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-03",
+      "category": "カフェ"
+    },
+    {
+      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-03",
+      "category": "寝具"
+    },
+    {
+      "name": "アイズドッグ足立江北店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-10-03",
+      "category": "トリミングサロン"
+    },
+    {
+      "name": "MANA 北青山店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-03",
+      "category": "シューズ"
+    },
+    {
+      "name": "Tasty-T vintage",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
+      "opening_date": "2026-10-03",
+      "category": "古着・ヴィンテージ"
+    },
+    {
+      "name": "UNO CAFE ゆめちからテラス店",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "opening_date": "2026-10-03",
+      "category": "カフェ"
+    }
+  ]
+}
