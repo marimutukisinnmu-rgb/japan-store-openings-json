@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-03T05:39:41+09:00",
+  "updatetime": "2026-10-03T08:42:28+09:00",
   "items": [
     {
       "name": "PARK BASEL",
@@ -93,6 +93,27 @@
       "city": "札幌市",
       "opening_date": "2026-10-03",
       "category": "ハンバーグ"
+    },
+    {
+      "name": "わらび餅専門店門藤 福島丸子店",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-10-03",
+      "category": "和菓子"
+    },
+    {
+      "name": "BAKERIES LAB. 京成高砂店",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-10-03",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "Q（らぁ麺/料理や）",
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "opening_date": "2026-10-03",
+      "category": "ラーメン・料理"
     }
   ]
 }
