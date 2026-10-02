@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-02T04:46:34+09:00",
+  "updatetime": "2026-10-02T14:40:46+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -553,6 +553,18 @@
       "source_title": "京都発・創業50周年 テーラーの技術を受け継ぐスーツブランド「ONLY」が北陸初進出",
       "source_url": "https://senken.co.jp/prtimes/aHR0cHM6Ly9wcnRpbWVzLmpwL21haW4vaHRtbC9yZC9wLzAwMDAwMDExNi4wMDAwMTc2MzkuaHRtbA%3D%3D",
       "evidence_summary": "2026年10月2日、イオンモール新小松店をオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "store_name": "アイズドッグ足立江北店",
+      "category": "ペット美容",
+      "business_type": "independent",
+      "source_title": "東京都足立区に愛犬のトリミングサロン「アイズドッグ足立江北店」が誕生-2026年10月3日（土）オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000103887.html",
+      "evidence_summary": "2026年10月3日オープン。日暮里・舎人ライナー江北駅から徒歩2分のトリミングサロン。",
       "confidence": "high"
     }
   ]
