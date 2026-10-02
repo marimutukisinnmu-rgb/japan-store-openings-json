@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-02T18:47:23+09:00",
+  "updatetime": "2026-10-02T20:44:52+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -649,6 +649,42 @@
       "source_title": "八王子駅南口「桑都の杜」にTOSHOPオープン",
       "source_url": "https://8dabe.com/2026/09/30/sotonomori-5/",
       "evidence_summary": "2026年10月3日開設予定。「桑都の杜」のSPOT HACHIOJI内のショップ。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "store_name": "わらび餅専門店門藤 福島丸子店",
+      "category": "スイーツ",
+      "business_type": "independent",
+      "source_title": "わらび餅専門店門藤が2026年10月3日にグランドオープン",
+      "source_url": "https://www.atpress.ne.jp/news/625779",
+      "evidence_summary": "わらび餅専門店門藤が2026年10月3日にグランドオープン",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "store_name": "サブウェイ 静岡人宿町店",
+      "category": "ファストフード",
+      "business_type": "chain",
+      "source_title": "2026年10月3日オープン",
+      "source_url": "https://dtimes.jp/post-1390867/",
+      "evidence_summary": "2026年10月3日オープン",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-03",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "store_name": "hololive production official pop up shop 池袋PACKS",
+      "category": "物販・ポップアップ",
+      "business_type": "independent",
+      "source_title": "2026年10月3日から池袋PACKSで期間限定オープン",
+      "source_url": "https://hololive.hololivepro.com/news/20260911-01-409/",
+      "evidence_summary": "2026年10月3日から池袋PACKSで期間限定オープン",
       "confidence": "high"
     }
   ]
