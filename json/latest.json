@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-02T14:40:46+09:00",
+  "updatetime": "2026-10-02T15:41:39+09:00",
   "items": [
     {
       "open_date": "2026-09-29",
@@ -565,6 +565,54 @@
       "source_title": "東京都足立区に愛犬のトリミングサロン「アイズドッグ足立江北店」が誕生-2026年10月3日（土）オープン",
       "source_url": "https://prtimes.jp/main/html/rd/p/000000007.000103887.html",
       "evidence_summary": "2026年10月3日オープン。日暮里・舎人ライナー江北駅から徒歩2分のトリミングサロン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "愛知県",
+      "city": "日進市",
+      "store_name": "大阪屋ショップ 日進店",
+      "category": "スーパーマーケット",
+      "business_type": "chain",
+      "source_title": "愛知2店舗目！スーパーマーケット『大阪屋ショップ』が日進・赤池に2026年10月2日オープン",
+      "source_url": "https://jouhou.nagoya/ohsakaya-nisshin/",
+      "evidence_summary": "2026年10月2日オープン。愛知県内2店舗目。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "store_name": "ごちそうスープパスタ 代々木店",
+      "category": "飲食店",
+      "business_type": "chain",
+      "source_title": "10月2日よりオープニングキャンペーン！パンチョ発の新ブランド「ごちそうスープパスタ」、東京・代々木に1号店オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000114.000117096.html",
+      "evidence_summary": "2026年10月2日、東京・代々木に1号店をオープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "store_name": "リブマックス神戸駅前店",
+      "category": "不動産・賃貸",
+      "business_type": "chain",
+      "source_title": "【リブマックス神戸駅前店】2026年10月2日（金）新規オープン",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000147.000162689.html",
+      "evidence_summary": "2026年10月2日新規オープン。",
+      "confidence": "high"
+    },
+    {
+      "open_date": "2026-10-02",
+      "prefecture": "新潟県",
+      "city": "柏崎市",
+      "store_name": "クスリのアオキ 柏崎店",
+      "category": "ドラッグストア",
+      "business_type": "chain",
+      "source_title": "【柏崎市】生鮮強化型のドラッグストア『クスリのアオキ 柏崎店』が10月2日にオープン！",
+      "source_url": "https://gatachira.com/local/open-close/10222468/",
+      "evidence_summary": "2026年10月2日オープン。調剤薬局併設。",
       "confidence": "high"
     }
   ]
