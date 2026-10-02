@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-03T02:39:35+09:00",
+  "updatetime": "2026-10-03T05:39:41+09:00",
   "items": [
     {
       "name": "PARK BASEL",
@@ -72,6 +72,27 @@
       "city": "上天草市",
       "opening_date": "2026-10-03",
       "category": "ドラッグストア"
+    },
+    {
+      "name": "海霞",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-03",
+      "category": "寿司・日本料理"
+    },
+    {
+      "name": "SUNNY BANANA",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-03",
+      "category": "ジューススタンド"
+    },
+    {
+      "name": "North Continent 赤れんが店",
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "opening_date": "2026-10-03",
+      "category": "ハンバーグ"
     }
   ]
 }
