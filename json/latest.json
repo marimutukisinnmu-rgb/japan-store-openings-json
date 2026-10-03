@@ -1,119 +1,27 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-03T08:42:28+09:00",
+  "updatetime": "2026-10-03T12:48:40+09:00",
   "items": [
-    {
-      "name": "PARK BASEL",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "TAKAO COFFEE 桑都の杜店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
-      "opening_date": "2026-10-03",
-      "category": "寝具"
-    },
-    {
-      "name": "アイズドッグ足立江北店",
-      "prefecture": "東京都",
-      "city": "足立区",
-      "opening_date": "2026-10-03",
-      "category": "トリミングサロン"
-    },
-    {
-      "name": "MANA 北青山店",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-03",
-      "category": "シューズ"
-    },
-    {
-      "name": "Tasty-T vintage",
-      "prefecture": "埼玉県",
-      "city": "熊谷市",
-      "opening_date": "2026-10-03",
-      "category": "古着・ヴィンテージ"
-    },
-    {
-      "name": "UNO CAFE ゆめちからテラス店",
-      "prefecture": "北海道",
-      "city": "江別市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "ファミリーマート 八王子そうとの杜店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "コンビニ"
-    },
-    {
-      "name": "JINS イオン小平店",
-      "prefecture": "東京都",
-      "city": "小平市",
-      "opening_date": "2026-10-03",
-      "category": "眼鏡"
-    },
-    {
-      "name": "ディスカウントドラッグコスモス天草登立店",
-      "prefecture": "熊本県",
-      "city": "上天草市",
-      "opening_date": "2026-10-03",
-      "category": "ドラッグストア"
-    },
-    {
-      "name": "海霞",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-03",
-      "category": "寿司・日本料理"
-    },
-    {
-      "name": "SUNNY BANANA",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-10-03",
-      "category": "ジューススタンド"
-    },
-    {
-      "name": "North Continent 赤れんが店",
-      "prefecture": "北海道",
-      "city": "札幌市",
-      "opening_date": "2026-10-03",
-      "category": "ハンバーグ"
-    },
-    {
-      "name": "わらび餅専門店門藤 福島丸子店",
-      "prefecture": "福島県",
-      "city": "福島市",
-      "opening_date": "2026-10-03",
-      "category": "和菓子"
-    },
-    {
-      "name": "BAKERIES LAB. 京成高砂店",
-      "prefecture": "東京都",
-      "city": "葛飾区",
-      "opening_date": "2026-10-03",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "Q（らぁ麺/料理や）",
-      "prefecture": "北海道",
-      "city": "札幌市",
-      "opening_date": "2026-10-03",
-      "category": "ラーメン・料理"
-    }
+    {"name":"PARK BASEL","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
+    {"name":"TAKAO COFFEE 桑都の杜店","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
+    {"name":"SHOWA NISHIKAWA FACTORY STORE 博多店","prefecture":"福岡県","city":"福岡市博多区","opening_date":"2026-10-03","category":"寝具"},
+    {"name":"アイズドッグ足立江北店","prefecture":"東京都","city":"足立区","opening_date":"2026-10-03","category":"トリミングサロン"},
+    {"name":"MANA 北青山店","prefecture":"東京都","city":"港区","opening_date":"2026-10-03","category":"シューズ"},
+    {"name":"Tasty-T vintage","prefecture":"埼玉県","city":"熊谷市","opening_date":"2026-10-03","category":"古着・ヴィンテージ"},
+    {"name":"UNO CAFE ゆめちからテラス店","prefecture":"北海道","city":"江別市","opening_date":"2026-10-03","category":"カフェ"},
+    {"name":"ファミリーマート 八王子そうとの杜店","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"コンビニ"},
+    {"name":"JINS イオン小平店","prefecture":"東京都","city":"小平市","opening_date":"2026-10-03","category":"眼鏡"},
+    {"name":"ディスカウントドラッグコスモス天草登立店","prefecture":"熊本県","city":"上天草市","opening_date":"2026-10-03","category":"ドラッグストア"},
+    {"name":"海霞","prefecture":"東京都","city":"港区","opening_date":"2026-10-03","category":"寿司・日本料理"},
+    {"name":"SUNNY BANANA","prefecture":"東京都","city":"世田谷区","opening_date":"2026-10-03","category":"ジューススタンド"},
+    {"name":"North Continent 赤れんが店","prefecture":"北海道","city":"札幌市","opening_date":"2026-10-03","category":"ハンバーグ"},
+    {"name":"わらび餅専門店門藤 福島丸子店","prefecture":"福島県","city":"福島市","opening_date":"2026-10-03","category":"和菓子"},
+    {"name":"BAKERIES LAB. 京成高砂店","prefecture":"東京都","city":"葛飾区","opening_date":"2026-10-03","category":"ベーカリー"},
+    {"name":"Q（らぁ麺/料理や）","prefecture":"北海道","city":"札幌市","opening_date":"2026-10-03","category":"ラーメン・料理"},
+    {"name":"Rainbow Art（レインボーアート）吉祥寺校","prefecture":"東京都","city":"武蔵野市","opening_date":"2026-10-03","category":"アート教室"},
+    {"name":"Bake A Holic","prefecture":"神奈川県","city":"平塚市","opening_date":"2026-10-03","category":"シナモンロール専門店"},
+    {"name":"もつ煮家えん 富士見店","prefecture":"埼玉県","city":"富士見市","opening_date":"2026-10-03","category":"もつ煮"},
+    {"name":"モビリティタウン熊本","prefecture":"熊本県","city":"熊本市南区","opening_date":"2026-10-03","category":"モビリティ施設"}
   ]
 }
