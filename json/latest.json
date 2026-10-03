@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-04T00:41:16+09:00",
+  "updatetime": "2026-10-04T01:41:14+09:00",
   "items": [
     {"name":"PARK BASEL","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
     {"name":"TAKAO COFFEE 桑都の杜店","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
@@ -24,6 +24,8 @@
     {"name":"もつ煮家えん 富士見店","prefecture":"埼玉県","city":"富士見市","opening_date":"2026-10-03","category":"もつ煮"},
     {"name":"モビリティタウン熊本","prefecture":"熊本県","city":"熊本市南区","opening_date":"2026-10-03","category":"モビリティ施設"},
     {"name":"TATRAS（タトラス）鳥栖店","prefecture":"佐賀県","city":"鳥栖市","opening_date":"2026-10-09","category":"ファッション"},
-    {"name":"松屋 まえばし赤城モール店","prefecture":"群馬県","city":"前橋市","opening_date":"2026-10-28","category":"牛丼・定食"}
+    {"name":"NANGA SHOP SAPPORO","prefecture":"北海道","city":"札幌市中央区","opening_date":"2026-10-09","category":"アウトドア・ファッション"},
+    {"name":"松屋 まえばし赤城モール店","prefecture":"群馬県","city":"前橋市","opening_date":"2026-10-28","category":"牛丼・定食"},
+    {"name":"CHUMS サッポロファクトリー店","prefecture":"北海道","city":"札幌市中央区","opening_date":"2026-10-23","category":"アウトドア・ファッション"}
   ]
 }
