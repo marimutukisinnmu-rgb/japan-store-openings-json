@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-04T05:46:47+09:00",
+  "updatetime": "2026-10-04T09:42:00+09:00",
   "items": [
     {"name":"PARK BASEL","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
     {"name":"TAKAO COFFEE 桑都の杜店","prefecture":"東京都","city":"八王子市","opening_date":"2026-10-03","category":"カフェ"},
@@ -23,6 +23,7 @@
     {"name":"Bake A Holic","prefecture":"神奈川県","city":"平塚市","opening_date":"2026-10-03","category":"シナモンロール専門店"},
     {"name":"もつ煮家えん 富士見店","prefecture":"埼玉県","city":"富士見市","opening_date":"2026-10-03","category":"もつ煮"},
     {"name":"モビリティタウン熊本","prefecture":"熊本県","city":"熊本市南区","opening_date":"2026-10-03","category":"モビリティ施設"},
+    {"name":"WCB The Ballpark","prefecture":"東京都","city":"品川区","opening_date":"2026-10-04","category":"ビアレストラン"},
     {"name":"TATRAS（タトラス）鳥栖店","prefecture":"佐賀県","city":"鳥栖市","opening_date":"2026-10-09","category":"ファッション"},
     {"name":"NANGA SHOP SAPPORO","prefecture":"北海道","city":"札幌市中央区","opening_date":"2026-10-09","category":"アウトドア・ファッション"},
     {"name":"松屋 まえばし赤城モール店","prefecture":"群馬県","city":"前橋市","opening_date":"2026-10-28","category":"牛丼・定食"},
