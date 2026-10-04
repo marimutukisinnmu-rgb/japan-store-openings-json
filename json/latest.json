@@ -1,63 +1,21 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-04T10:48:31+09:00",
+  "updatetime": "2026-10-04T18:41:09+09:00",
   "items": [
     {
-      "name": "PARK BASEL",
+      "name": "Bake A Holic",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-03",
+      "category": "シナモンロール専門店"
+    },
+    {
+      "name": "BAKERIES LAB. 京成高砂店",
       "prefecture": "東京都",
-      "city": "八王子市",
+      "city": "葛飾区",
       "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "TAKAO COFFEE 桑都の杜店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
-      "opening_date": "2026-10-03",
-      "category": "寝具"
-    },
-    {
-      "name": "アイズドッグ足立江北店",
-      "prefecture": "東京都",
-      "city": "足立区",
-      "opening_date": "2026-10-03",
-      "category": "トリミングサロン"
-    },
-    {
-      "name": "MANA 北青山店",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-03",
-      "category": "シューズ"
-    },
-    {
-      "name": "Tasty-T vintage",
-      "prefecture": "埼玉県",
-      "city": "熊谷市",
-      "opening_date": "2026-10-03",
-      "category": "古着・ヴィンテージ"
-    },
-    {
-      "name": "UNO CAFE ゆめちからテラス店",
-      "prefecture": "北海道",
-      "city": "江別市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "ファミリーマート 八王子そうとの杜店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "コンビニ"
+      "category": "ベーカリー"
     },
     {
       "name": "JINS イオン小平店",
@@ -67,25 +25,11 @@
       "category": "眼鏡"
     },
     {
-      "name": "ディスカウントドラッグコスモス天草登立店",
-      "prefecture": "熊本県",
-      "city": "上天草市",
-      "opening_date": "2026-10-03",
-      "category": "ドラッグストア"
-    },
-    {
-      "name": "海霞",
+      "name": "MANA 北青山店",
       "prefecture": "東京都",
       "city": "港区",
       "opening_date": "2026-10-03",
-      "category": "寿司・日本料理"
-    },
-    {
-      "name": "SUNNY BANANA",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-10-03",
-      "category": "ジューススタンド"
+      "category": "シューズ"
     },
     {
       "name": "North Continent 赤れんが店",
@@ -95,18 +39,11 @@
       "category": "ハンバーグ"
     },
     {
-      "name": "わらび餅専門店門藤 福島丸子店",
-      "prefecture": "福島県",
-      "city": "福島市",
-      "opening_date": "2026-10-03",
-      "category": "和菓子"
-    },
-    {
-      "name": "BAKERIES LAB. 京成高砂店",
+      "name": "PARK BASEL",
       "prefecture": "東京都",
-      "city": "葛飾区",
+      "city": "八王子市",
       "opening_date": "2026-10-03",
-      "category": "ベーカリー"
+      "category": "カフェ"
     },
     {
       "name": "Q（らぁ麺/料理や）",
@@ -123,11 +60,60 @@
       "category": "アート教室"
     },
     {
-      "name": "Bake A Holic",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
+      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
       "opening_date": "2026-10-03",
-      "category": "シナモンロール専門店"
+      "category": "寝具"
+    },
+    {
+      "name": "SUNNY BANANA",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-03",
+      "category": "ジューススタンド"
+    },
+    {
+      "name": "TAKAO COFFEE 桑都の杜店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-03",
+      "category": "カフェ"
+    },
+    {
+      "name": "Tasty-T vintage",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
+      "opening_date": "2026-10-03",
+      "category": "古着・ヴィンテージ"
+    },
+    {
+      "name": "UNO CAFE ゆめちからテラス店",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "opening_date": "2026-10-03",
+      "category": "カフェ"
+    },
+    {
+      "name": "アイズドッグ足立江北店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-10-03",
+      "category": "トリミングサロン"
+    },
+    {
+      "name": "ディスカウントドラッグコスモス天草登立店",
+      "prefecture": "熊本県",
+      "city": "上天草市",
+      "opening_date": "2026-10-03",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "ファミリーマート 八王子そうとの杜店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-03",
+      "category": "コンビニ"
     },
     {
       "name": "もつ煮家えん 富士見店",
@@ -144,6 +130,20 @@
       "category": "モビリティ施設"
     },
     {
+      "name": "わらび餅専門店門藤 福島丸子店",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-10-03",
+      "category": "和菓子"
+    },
+    {
+      "name": "海霞",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-03",
+      "category": "寿司・日本料理"
+    },
+    {
       "name": "WCB The Ballpark",
       "prefecture": "東京都",
       "city": "品川区",
@@ -151,60 +151,25 @@
       "category": "ビアレストラン"
     },
     {
-      "name": "TATRAS（タトラス）鳥栖店",
-      "prefecture": "佐賀県",
-      "city": "鳥栖市",
-      "opening_date": "2026-10-09",
-      "category": "ファッション"
+      "name": "Mcafe（エムカフェ）",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-10-05",
+      "category": "カフェ"
     },
     {
-      "name": "NANGA SHOP SAPPORO",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-09",
-      "category": "アウトドア・ファッション"
+      "name": "らーめん大統領 ホワイトハウス西大寺店",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-10-05",
+      "category": "ラーメン"
     },
     {
-      "name": "松屋 まえばし赤城モール店",
-      "prefecture": "群馬県",
-      "city": "前橋市",
-      "opening_date": "2026-10-28",
-      "category": "牛丼・定食"
-    },
-    {
-      "name": "CHUMS サッポロファクトリー店",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-23",
-      "category": "アウトドア・ファッション"
-    },
-    {
-      "name": "SPINGLE 宮島",
-      "prefecture": "広島県",
-      "city": "廿日市市",
-      "opening_date": "2026-10-08",
-      "category": "シューズ"
-    },
-    {
-      "name": "ホットケーキパーラーFru-Full 成城店",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-10-08",
-      "category": "ホットケーキ・カフェ"
-    },
-    {
-      "name": "BOOKOFF PLUS 箕輪店",
-      "prefecture": "長野県",
-      "city": "上伊那郡箕輪町",
-      "opening_date": "2026-10-08",
-      "category": "リユースショップ"
-    },
-    {
-      "name": "TODAY'S SPECIAL Nagoya",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-10-09",
-      "category": "ライフスタイル・雑貨"
+      "name": "わらび餅専門店 門藤 那須塩原店",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "opening_date": "2026-10-05",
+      "category": "和菓子"
     },
     {
       "name": "高価買取おたからや ひたちなか大成店",
@@ -214,11 +179,95 @@
       "category": "買取専門店"
     },
     {
+      "name": "すき家 2国芦屋清水店",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "opening_date": "2026-10-06",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "珈琲と。つくえ",
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "opening_date": "2026-10-06",
+      "category": "カフェ"
+    },
+    {
+      "name": "MEN'S BIGI 大丸福岡天神店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-07",
+      "category": "メンズファッション"
+    },
+    {
+      "name": "BOOKOFF PLUS 箕輪店",
+      "prefecture": "長野県",
+      "city": "上伊那郡箕輪町",
+      "opening_date": "2026-10-08",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "SPINGLE 宮島",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-10-08",
+      "category": "シューズ"
+    },
+    {
+      "name": "コメリPRO富田林店",
+      "prefecture": "大阪府",
+      "city": "富田林市",
+      "opening_date": "2026-10-08",
+      "category": "ホームセンター"
+    },
+    {
+      "name": "ホットケーキパーラーFru-Full 成城店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-08",
+      "category": "ホットケーキ・カフェ"
+    },
+    {
+      "name": "NANGA SHOP SAPPORO",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-09",
+      "category": "アウトドア・ファッション"
+    },
+    {
+      "name": "TATRAS（タトラス）鳥栖店",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
+    },
+    {
+      "name": "TODAY'S SPECIAL Nagoya",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-09",
+      "category": "ライフスタイル・雑貨"
+    },
+    {
+      "name": "CHUMS サッポロファクトリー店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-23",
+      "category": "アウトドア・ファッション"
+    },
+    {
       "name": "FIT LABO 坂戸店",
       "prefecture": "埼玉県",
       "city": "坂戸市",
       "opening_date": "2026-10-24",
       "category": "マシンピラティス・セミパーソナルトレーニング"
+    },
+    {
+      "name": "松屋 まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-10-28",
+      "category": "牛丼・定食"
     }
   ]
 }
