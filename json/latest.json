@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-06T15:48:29+09:00",
+  "updatetime": "2026-10-07T02:46:43+09:00",
   "items": [
     {
       "name": "North Continent 赤れんが店",
@@ -25,13 +25,6 @@
       "category": "カフェ"
     },
     {
-      "name": "Tasty-T vintage",
-      "prefecture": "埼玉県",
-      "city": "熊谷市",
-      "opening_date": "2026-10-03",
-      "category": "古着・ヴィンテージ"
-    },
-    {
       "name": "もつ煮家えん 富士見店",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -39,39 +32,11 @@
       "category": "もつ煮"
     },
     {
-      "name": "BAKERIES LAB. 京成高砂店",
-      "prefecture": "東京都",
-      "city": "葛飾区",
+      "name": "Tasty-T vintage",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
       "opening_date": "2026-10-03",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "JINS イオン小平店",
-      "prefecture": "東京都",
-      "city": "小平市",
-      "opening_date": "2026-10-03",
-      "category": "眼鏡"
-    },
-    {
-      "name": "MANA 北青山店",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-03",
-      "category": "シューズ"
-    },
-    {
-      "name": "PARK BASEL",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "カフェ"
-    },
-    {
-      "name": "Rainbow Art（レインボーアート）吉祥寺校",
-      "prefecture": "東京都",
-      "city": "武蔵野市",
-      "opening_date": "2026-10-03",
-      "category": "アート教室"
+      "category": "古着・ヴィンテージ"
     },
     {
       "name": "SUNNY BANANA",
@@ -81,18 +46,18 @@
       "category": "ジューススタンド"
     },
     {
-      "name": "TAKAO COFFEE 桑都の杜店",
+      "name": "PARK BASEL",
       "prefecture": "東京都",
       "city": "八王子市",
       "opening_date": "2026-10-03",
       "category": "カフェ"
     },
     {
-      "name": "アイズドッグ足立江北店",
+      "name": "TAKAO COFFEE 桑都の杜店",
       "prefecture": "東京都",
-      "city": "足立区",
+      "city": "八王子市",
       "opening_date": "2026-10-03",
-      "category": "トリミングサロン"
+      "category": "カフェ"
     },
     {
       "name": "ファミリーマート 八王子そうとの杜店",
@@ -102,11 +67,46 @@
       "category": "コンビニ"
     },
     {
+      "name": "JINS イオン小平店",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-10-03",
+      "category": "眼鏡"
+    },
+    {
+      "name": "Rainbow Art（レインボーアート）吉祥寺校",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-10-03",
+      "category": "アート教室"
+    },
+    {
+      "name": "MANA 北青山店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-03",
+      "category": "シューズ"
+    },
+    {
       "name": "海霞",
       "prefecture": "東京都",
       "city": "港区",
       "opening_date": "2026-10-03",
       "category": "寿司・日本料理"
+    },
+    {
+      "name": "BAKERIES LAB. 京成高砂店",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-10-03",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "アイズドッグ足立江北店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-10-03",
+      "category": "トリミングサロン"
     },
     {
       "name": "ディスカウントドラッグコスモス天草登立店",
@@ -207,13 +207,6 @@
       "category": "ハンバーガー"
     },
     {
-      "name": "すき家 2国芦屋清水店",
-      "prefecture": "兵庫県",
-      "city": "芦屋市",
-      "opening_date": "2026-10-06",
-      "category": "牛丼・定食"
-    },
-    {
       "name": "珈琲と。つくえ",
       "prefecture": "兵庫県",
       "city": "神戸市東灘区",
@@ -221,11 +214,25 @@
       "category": "カフェ"
     },
     {
+      "name": "すき家 2国芦屋清水店",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "opening_date": "2026-10-06",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "つけ麺 燈 tou",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
       "opening_date": "2026-10-06",
       "category": "つけ麺"
+    },
+    {
+      "name": "春福（チュンフー）",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "opening_date": "2026-10-07",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "MEN'S BIGI 大丸福岡天神店",
