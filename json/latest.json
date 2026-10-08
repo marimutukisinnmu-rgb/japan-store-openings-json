@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-08T07:45:19+09:00",
+  "updatetime": "2026-10-08T20:41:00+09:00",
   "items": [
     {
       "name": "North Continent 赤れんが店",
@@ -464,6 +464,41 @@
       "city": "前橋市",
       "opening_date": "2026-10-28",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "LEPSIM イオンモール旭川西店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
+    },
+    {
+      "name": "GEORGE’S イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-10-09",
+      "category": "ライフスタイル・雑貨"
+    },
+    {
+      "name": "SIXPAD STORE イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-10-09",
+      "category": "健康・フィットネス"
+    },
+    {
+      "name": "オルビス イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-10-09",
+      "category": "化粧品・スキンケア"
+    },
+    {
+      "name": "おかしのまちおか イオンモール久御山店",
+      "prefecture": "京都府",
+      "city": "久世郡久御山町",
+      "opening_date": "2026-10-09",
+      "category": "菓子専門店"
     }
   ]
 }
