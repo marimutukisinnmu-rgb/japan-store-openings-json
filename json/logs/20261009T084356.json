@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-09T08:43:56+09:00",
+  "source": "Official company announcements and PR releases",
+  "status": "candidates_verified_pending_latest_json_update",
+  "target": "json/latest.json",
+  "candidates": [
+    {
+      "name": "AOKI川崎駅東口店",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000001217.000011795.html"
+    },
+    {
+      "name": "アップガレージ羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "カー用品・リユース",
+      "source": "https://prtimes.jp/main/html/rd/p/000000223.000058006.html"
+    },
+    {
+      "name": "アップガレージライダース羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "バイク用品・リユース",
+      "source": "https://prtimes.jp/main/html/rd/p/000000223.000058006.html"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "タイヤ販売",
+      "source": "https://prtimes.jp/main/html/rd/p/000000223.000058006.html"
+    }
+  ]
+}
