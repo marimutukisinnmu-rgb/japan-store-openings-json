@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-08T20:41:00+09:00",
+  "updatetime": "2026-10-09T04:42:09+09:00",
   "items": [
     {
       "name": "North Continent 赤れんが店",
@@ -499,6 +499,34 @@
       "city": "久世郡久御山町",
       "opening_date": "2026-10-09",
       "category": "菓子専門店"
+    },
+    {
+      "name": "RABBIT BAGELS 奈良店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-10-09",
+      "category": "ベーグル専門店"
+    },
+    {
+      "name": "ヤオコーまるひろ入間SC店",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "opening_date": "2026-10-09",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "らかんスタジオ Finelight 黒磯店",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "opening_date": "2026-10-10",
+      "category": "フォトスタジオ"
+    },
+    {
+      "name": "KOGASHI 明石店",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-10-10",
+      "category": "スイーツ"
     }
   ]
 }
