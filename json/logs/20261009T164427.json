@@ -1,0 +1,64 @@
+{
+  "executed_at": "2026-10-09T16:44:27+09:00",
+  "task": "全国 開店予定JSON",
+  "target": "json/latest.json",
+  "status": "blocked_before_github_request_by_safety_check",
+  "before_blob_sha": "68dc25736cc83bb3152574a395238e769025fbd8",
+  "sha_supplied_to_update_tool": "68dc25736cc83bb3152574a395238e769025fbd8",
+  "github_update_request_sent": false,
+  "previous_count": 90,
+  "intended_count": 96,
+  "added_items": [
+    [
+      "Gelateria Gabriele Vannucci 新宿店",
+      "東京都",
+      "新宿区",
+      "2026-10-13",
+      "ジェラート"
+    ],
+    [
+      "PRESS BUTTER SAND グランスタ東京店 -10th Anniversary Limited TOKYO-",
+      "東京都",
+      "千代田区",
+      "2026-10-22",
+      "バターサンド・洋菓子"
+    ],
+    [
+      "ルルレモン玉川髙島屋S.C. ストア",
+      "東京都",
+      "世田谷区",
+      "2026-10-22",
+      "スポーツ・アパレル"
+    ],
+    [
+      "マリベル渋谷",
+      "東京都",
+      "渋谷区",
+      "2026-10-28",
+      "チョコレート"
+    ],
+    [
+      "ダンデライオン・チョコレート 清澄白河ファクトリー",
+      "東京都",
+      "江東区",
+      "2026-10-30",
+      "チョコレート・カフェ・ファクトリー"
+    ],
+    [
+      "GR caffè",
+      "長野県",
+      "小諸市",
+      "2026-10-30",
+      "カフェ・ショップ・工房"
+    ]
+  ],
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000036.000035757.html",
+    "https://buttersand.com/news/10th_anniversary_limited_tokyo/",
+    "https://prtimes.jp/main/html/rd/p/000000022.000079540.html",
+    "https://www.mariebelle.jp/kyoto_news/2026/10/07/864/",
+    "https://mantan-web.jp/prtimes/article/20260929prt00m200000311a.html",
+    "https://prtimes.jp/main/html/rd/p/000000011.000099787.html"
+  ],
+  "note": "Six candidates were verified against public announcements and were absent from the fetched latest.json. The update_file call was blocked by the safety check before GitHub received a write request; no latest.json change was made. SHA values are GitHub blob SHAs, not SHA-256."
+}
