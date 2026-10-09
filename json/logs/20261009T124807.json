@@ -1,0 +1,38 @@
+{
+  "run_at": "2026-10-09T12:48:07+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_blob_sha": "a53c46f8dfb8030e959f0f37b6772a3c8f7eff55",
+  "after_blob_sha": "e32fff8069bdf86fd19096976435f73f3d2c1b9c",
+  "commit_sha": "5afaba0edae9676e4cc8cac976ea4fedd069b89b",
+  "previous_count": 75,
+  "current_count": 78,
+  "added": [
+    {
+      "name": "gelato pique アーバンドック ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・ルームウェア",
+      "source": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html"
+    },
+    {
+      "name": "gelato pique シャミネ松江店",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・ルームウェア",
+      "source": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html"
+    },
+    {
+      "name": "月島もんじゃ おこげ 仙台クリスロード",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-09",
+      "category": "もんじゃ焼き",
+      "source": "https://prtimes.jp/main/html/rd/p/000000008.000186441.html"
+    }
+  ]
+}
