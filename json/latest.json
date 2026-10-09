@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-09T04:42:09+09:00",
+  "updatetime": "2026-10-09T12:48:07+09:00",
   "items": [
     {
       "name": "North Continent 赤れんが店",
@@ -527,6 +527,27 @@
       "city": "明石市",
       "opening_date": "2026-10-10",
       "category": "スイーツ"
+    },
+    {
+      "name": "gelato pique アーバンドック ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・ルームウェア"
+    },
+    {
+      "name": "gelato pique シャミネ松江店",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・ルームウェア"
+    },
+    {
+      "name": "月島もんじゃ おこげ 仙台クリスロード",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-09",
+      "category": "もんじゃ焼き"
     }
   ]
 }
