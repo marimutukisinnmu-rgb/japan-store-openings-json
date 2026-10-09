@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-09T12:48:07+09:00",
+  "updatetime": "2026-10-09T14:39:56+09:00",
   "items": [
     {
       "name": "North Continent 赤れんが店",
@@ -548,6 +548,90 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-10-09",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "ローソン 世田谷区役所",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-13",
+      "category": "コンビニ"
+    },
+    {
+      "name": "サブウェイ イオンモール大日店",
+      "prefecture": "大阪府",
+      "city": "守口市",
+      "opening_date": "2026-10-14",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "ローソン タイムズステーション札幌駅前",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 荒川東尾久五丁目",
+      "prefecture": "東京都",
+      "city": "荒川区",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 福井文京七丁目",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 沖縄古謝三丁目",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "資さんうどん 倉賀野店",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2026-10-15",
+      "category": "うどん"
+    },
+    {
+      "name": "ローソン 世田谷等々力二丁目",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-16",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 葛飾東堀切二丁目",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-10-16",
+      "category": "コンビニ"
+    },
+    {
+      "name": "八郎そば 大和深見店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-22",
+      "category": "そば・和食"
+    },
+    {
+      "name": "ペルティカ 多摩境店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-30",
+      "category": "レストラン"
+    },
+    {
+      "name": "しゃぶ葉 イオンモール福岡伊都店",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "opening_date": "2026-10-31",
+      "category": "しゃぶしゃぶ"
     }
   ]
 }
