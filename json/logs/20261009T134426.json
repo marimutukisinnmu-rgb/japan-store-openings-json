@@ -1,0 +1,59 @@
+{
+  "run_at": "2026-10-09T13:44:26+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "latest_json_update_blocked",
+  "update_before_blob_sha": "e32fff8069bdf86fd19096976435f73f3d2c1b9c",
+  "update_sha_supplied": "e32fff8069bdf86fd19096976435f73f3d2c1b9c",
+  "write_request_sent": false,
+  "block_stage": "update_file tool call safety-check stage",
+  "http_status": null,
+  "conflict_409": false,
+  "updated_blob_sha": null,
+  "commit_sha": null,
+  "verified_candidates": [
+    {
+      "name": "pourjours（プールジュール）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-13",
+      "category": "カフェ・ワッフル・洋菓子",
+      "source": "https://prtimes.jp/main/html/rd/p/000000016.000036474.html"
+    },
+    {
+      "name": "POP MART 池袋PARCO店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "アートトイ・キャラクターグッズ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000041.000062707.html"
+    },
+    {
+      "name": "ゴンチャ 東京ソラマチ店",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-29",
+      "category": "ティーカフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    },
+    {
+      "name": "RANDY'S DONUTS 東京ソラマチ店",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-29",
+      "category": "ドーナツ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    },
+    {
+      "name": "整体×もみほぐし Refresh 東京ソラマチ店",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-31",
+      "category": "リラクゼーション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    }
+  ],
+  "note": "Candidates verified from publisher/operator announcements. latest.json remains unchanged because the update_file tool call was blocked before the GitHub request was sent."
+}
