@@ -1,0 +1,38 @@
+{
+  "run_at": "2026-10-11T08:46:31+09:00",
+  "task": "全国 開店予定JSON",
+  "target": "json/latest.json",
+  "previous_blob_sha": "ff01b5f2d66c21c3a1eb433e7464cd753aeec034",
+  "update_request_sha": "未送信",
+  "update_status": "安全チェックでツール呼び出しが実行前にブロック。GitHubへの更新要求は未送信。",
+  "http_status": null,
+  "commit_sha": null,
+  "verified_candidates": [
+    {
+      "name": "ほっともっと 甲南山手森南町店",
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "opening_date": "2026-10-02",
+      "category": "弁当・持ち帰り",
+      "source": "https://www.hottomotto.com/contents/news/20261006_shop.html"
+    },
+    {
+      "name": "BOOKOFF SUPER BAZAAR 広島大手町店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-10-17",
+      "category": "リユースショップ（リニューアル）",
+      "source": "https://www.bookoff.co.jp/shop/news/2026.html"
+    },
+    {
+      "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-10-17",
+      "category": "リユースショップ（リニューアル）",
+      "source": "https://www.bookoff.co.jp/shop/news/2026.html"
+    }
+  ],
+  "latest_json_updated": false,
+  "notes": "情報は確認済み。最新JSONへの反映は未完了。次回実行で継続する。"
+}
