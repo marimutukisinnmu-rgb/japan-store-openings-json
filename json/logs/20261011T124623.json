@@ -1,0 +1,34 @@
+{
+  "run_at": "2026-10-11T12:46:23+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "target_blob_sha_before": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "period": "2026-09-18/2026-10-31",
+  "items_before": 144,
+  "result": "調査した公式情報から、対象期間内で未登録と確証できる新規項目は今回確認できず。latest.json は変更しない。",
+  "checked_sources": [
+    {
+      "title": "ローソン 関東の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/kantou.html",
+      "finding": "掲載された10月13日、15日、16日の店舗は既存JSONに登録済み"
+    },
+    {
+      "title": "サブウェイ 2026年のお知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "finding": "イオンモール大日店の10月14日開店は既存JSONに登録済み"
+    },
+    {
+      "title": "アスナル金山 店舗開店のご案内",
+      "url": "https://www.asunal.jp/news/",
+      "finding": "KANNON COFFEEは2026年11月中旬予定で、JSONの対象期間外"
+    }
+  ],
+  "update_diagnostic": {
+    "latest_json_update": "not_attempted_no_verified_new_item",
+    "request_sha": null,
+    "http_status": null,
+    "commit_sha": null
+  }
+}
