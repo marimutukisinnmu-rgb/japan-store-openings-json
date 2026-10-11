@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-10-11T16:47:48+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update_blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "latest_json_retrieval": "success",
+  "registered_item_count": 144,
+  "additions_verified": [
+    {
+      "name": "Y's / Y's for men 池袋 PARCO",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000001128.000034350.html"
+    },
+    {
+      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-18",
+      "category": "喫茶店",
+      "source": "https://www.ginza-renoir.co.jp/shopsearch/shops/tokyo/shinjuku-3chome-t%26t-bldg.html"
+    },
+    {
+      "name": "マリベル渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・菓子",
+      "source": "https://prtimes.jp/main/html/rd/p/000000002.000192334.html"
+    }
+  ],
+  "update_attempted": false,
+  "update_reason": "Fetched latest.json is a large JSON document. A full replacement payload preserving all 144 existing entries was not safely assembled in this isolated operation; no update request was sent to avoid replacing the file with incomplete data.",
+  "post_check": "latest.json unchanged; blob SHA remains 9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "notes": "Candidates were verified against current latest.json and not found by exact store name. This is not a claim that nationwide coverage is exhaustive."
+}
