@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-10-12T05:39:43+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "before_items_count": 146,
+  "candidates": [
+    {
+      "name": "元祖おにぽん食堂",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-10-13",
+      "category": "カフェ食堂",
+      "source": "https://prtimes.jp/main/html/rd/p/000000001.000190462.html",
+      "verified": "公式発表で開業日と所在地を確認"
+    },
+    {
+      "name": "一竜 大森店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-10-13",
+      "category": "ラーメン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000371.000027681.html",
+      "verified": "運営会社の発表で開店日と所在地を確認"
+    }
+  ],
+  "update_attempt": {
+    "result": "blocked_by_safety_check",
+    "stage": "update_file tool call rejected before GitHub request",
+    "sha_passed_to_github": false,
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null
+  },
+  "note": "最新JSONは再取得で確認。登録件数146件、上記2件は未登録。JSON更新は未完了。"
+}
