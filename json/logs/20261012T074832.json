@@ -1,0 +1,73 @@
+{
+  "run_at": "2026-10-12T07:48:32+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "status": "update_blocked_by_safety_check",
+  "before_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "sha_supplied_to_tool": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "github_request_sent": false,
+  "block_stage": "update_file tool invocation, before connector/GitHub request",
+  "http_status": null,
+  "conflict_409": false,
+  "verified_candidates": [
+    {
+      "name": "Rolife サンシャインシティアルパ店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-01",
+      "category": "DIY・ミニチュア・ホビー雑貨",
+      "source": "https://prtimes.jp/main/html/rd/p/000000337.000000720.html"
+    },
+    {
+      "name": "ホグロフス渋谷キャットストリート",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-08",
+      "category": "アウトドア・ファッション（移転）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000006.000148307.html"
+    },
+    {
+      "name": "Pandora ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-08",
+      "category": "ジュエリー・アクセサリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000093.000066920.html"
+    },
+    {
+      "name": "YOMO～食べられるよもぎ蒸し～ 名古屋久屋大通店",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "opening_date": "2026-10-10",
+      "category": "ウェルネス・リラクゼーションサロン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000050.000056004.html"
+    },
+    {
+      "name": "O1C",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-16",
+      "category": "ブランチカフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000029.000118492.html"
+    },
+    {
+      "name": "Y's / Y's for men 池袋 PARCO",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000001128.000034350.html"
+    },
+    {
+      "name": "マリベル渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子",
+      "source": "https://prtimes.jp/main/html/rd/p/000000002.000192334.html"
+    }
+  ],
+  "latest_json_update_completed": false,
+  "note": "既存JSONは146件。候補7件を追加する内容を準備したが、安全チェックによりupdate_file呼び出しが拒否され、GitHubへの更新要求は送信されていない。"
+}
