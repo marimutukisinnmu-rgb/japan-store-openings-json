@@ -1,0 +1,60 @@
+{
+  "executed_at": "2026-10-12T08:46:08+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "partial",
+  "latest_json": {
+    "before_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+    "update_request_sent": false,
+    "update_status": "blocked_before_connector_execution",
+    "block_stage": "A tool invocation containing both fetch_file and update_file was blocked by OpenAI safety checks before either operation completed in that invocation; independent read from a prior call had succeeded.",
+    "http_status": null,
+    "after_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+    "commit_sha": null,
+    "existing_item_count": 146
+  },
+  "candidates": [
+    {
+      "name": "鯛塩そば 灯花 トリエ京王調布店",
+      "prefecture": "東京都",
+      "city": "調布市",
+      "opening_date": "2026-10-15",
+      "category": "ラーメン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000041.000129147.html"
+    },
+    {
+      "name": "Un BOURBON 大丸東京店（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-21",
+      "category": "菓子・期間限定ポップアップ",
+      "source": "https://www.bourbon.co.jp/news/detail/20260924091854.html"
+    },
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000635.000027839.html"
+    },
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000198.000088159.html"
+    },
+    {
+      "name": "マリベル渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子",
+      "source": "https://prtimes.jp/main/html/rd/p/000000002.000192334.html"
+    }
+  ],
+  "notes": "Candidates are not yet added to latest.json. Exact duplicate check against the fetched 146 items found none. Write was not sent; no HTTP response or commit SHA exists."
+}
