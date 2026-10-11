@@ -1,0 +1,107 @@
+{
+  "run_at": "2026-10-11T09:44:44+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "previous_blob_sha": "ff01b5f2d66c21c3a1eb433e7464cd753aeec034",
+  "request_sha": "ff01b5f2d66c21c3a1eb433e7464cd753aeec034",
+  "updated_blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "update_commit_sha": "74f24aee35090cc0f10ecc1390e7e55c6c225a94",
+  "previous_item_count": 133,
+  "final_item_count": 144,
+  "added_items": [
+    {
+      "name": "SAKImoto bakery and more 葛西店",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-10-02",
+      "category": "ベーカリー・カフェ",
+      "source": "https://tohakusha.com/main/html/rd/p/000000035.000125380.html"
+    },
+    {
+      "name": "リファ バイタルウェア（玉川高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-02",
+      "category": "期間限定ポップアップ（ファッション）",
+      "source": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/"
+    },
+    {
+      "name": "ルルレモン 玉川高島屋S.C.",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-22",
+      "category": "スポーツ・アウトドア",
+      "source": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/"
+    },
+    {
+      "name": "スターバックスコーヒー ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "カフェ",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "モスバーガー ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "ハンバーガー",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "ニトリ デコホーム ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "インテリア雑貨",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "ABC-MART ボーノ相模大野店（移転スケールアップ）",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "シューズ・アパレル（移転拡大）",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "保険見直し本舗 ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "保険代理店",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "GiGO ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "アミューズメント",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "illusie300 ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "生活雑貨",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    },
+    {
+      "name": "OLYMPIA ボーノ相模大野店（改装リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "バラエティショップ（リニューアル）",
+      "source": "https://bono-sagamiono.jp/renewal2026/"
+    }
+  ],
+  "notes": [
+    "新店・期間限定出店・移転拡大・改装リニューアルを含む。",
+    "更新要求成功後、main/json/latest.json を再取得し blob SHA と登録件数を確認した。"
+  ]
+}
