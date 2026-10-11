@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-10-12T00:48:29+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "before_item_count": 144,
+  "before_updatetime": "2026-10-11T09:44:44+09:00",
+  "findings": [
+    {
+      "name": "BOOKOFF SUPER BAZAAR 広島大手町店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-10-17",
+      "category": "リユースショップ（リニューアル）",
+      "source": "https://www.bookoff.co.jp/shop/shop20135.html"
+    },
+    {
+      "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-10-17",
+      "category": "リユースショップ（リニューアル）",
+      "source": "https://www.bookoff.co.jp/shop/shop20379.html"
+    }
+  ],
+  "update_attempt": {
+    "prepared": true,
+    "sha_passed": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "result": "blocked_by_safety_check",
+    "blocked_stage": "update_file tool call before GitHub request was sent",
+    "http_status": null,
+    "conflict_409": false,
+    "after_blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "commit_sha": null
+  },
+  "log_write": "pending"
+}
