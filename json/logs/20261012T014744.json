@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-10-12T01:47:44+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "target_blob_sha_before": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+  "target_updated_at_before": "2026-10-11T09:44:44+09:00",
+  "target_item_count_before": 144,
+  "candidates": [
+    {
+      "name": "Un BOURBON 大丸東京店（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（菓子・コンセプトショップ）",
+      "source": "https://www.bourbon.co.jp/news/detail/20260924091854.html"
+    },
+    {
+      "name": "キャンドゥ ハックドラッグ戸塚店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-10-24",
+      "category": "100円ショップ",
+      "source": "https://www.cando-web.co.jp/news/2026/"
+    },
+    {
+      "name": "キイロイトリ銭湯（東京駅一番街）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（キャラクター催事）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000411.000001117.html"
+    }
+  ],
+  "update_attempt": {
+    "content_sha_argument": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "result": "blocked_by_safety_check",
+    "blocked_stage": "update_file tool call before GitHub request was sent",
+    "http_status": null,
+    "commit_sha": null,
+    "new_blob_sha": null
+  },
+  "post_attempt_readback": {
+    "blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "updatetime": "2026-10-11T09:44:44+09:00",
+    "item_count": 144,
+    "candidates_present": false
+  },
+  "note": "候補3件は公式・発表元ページで確認。latest.jsonへの追加は安全チェックでブロックされたため未反映。"
+}
