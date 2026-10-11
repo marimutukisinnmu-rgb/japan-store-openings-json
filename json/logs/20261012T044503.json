@@ -1,0 +1,42 @@
+{
+  "executed_at": "2026-10-12T04:45:03+09:00",
+  "task": "全国 開店予定JSON",
+  "target": "json/latest.json",
+  "source_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "new_candidates": [
+    {
+      "name": "Un BOURBON 大丸東京店（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（菓子）",
+      "source": "https://www.bourbon.co.jp/news/detail/20260924091854.html"
+    },
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン",
+      "source": "https://pisola.jp/news/11617.html"
+    },
+    {
+      "name": "キイロイトリ銭湯（東京駅一番街）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（キャラクター）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html"
+    }
+  ],
+  "update_attempt": {
+    "result": "blocked_by_safety_check",
+    "stage": "functions tool invocation before GitHub update request",
+    "sha_passed_to_github": "none",
+    "http_status": null,
+    "conflict_409": false,
+    "after_blob_sha": null,
+    "commit_sha": null
+  },
+  "notes": "The latest.json update call was blocked before any GitHub write request was sent. Candidates remain unregistered pending a later safe write attempt."
+}
