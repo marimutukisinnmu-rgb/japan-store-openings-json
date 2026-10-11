@@ -1,0 +1,37 @@
+{
+  "run_at": "2026-10-12T02:42:32+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "update_diagnostics": {
+    "before_blob_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "request_sha": "9c26b58c676c4ca9b6f93622f28a75bb3069d23b",
+    "result": "success",
+    "error_type": null,
+    "http_status": "connector did not return HTTP status",
+    "after_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+    "commit_sha": "d989328d2b212f20917f381de8894c971b13e5fb",
+    "verified_by_refetch": true,
+    "final_count": 146
+  },
+  "added_items": [
+    {
+      "name": "BEAMS SPORTS（都立明治公園）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-12",
+      "category": "スポーツ・ファッション",
+      "source": "https://www.beams.co.jp/company/information/pressrelease/261"
+    },
+    {
+      "name": "Parklet Meiji Park",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-12",
+      "category": "ベーカリー・カフェ",
+      "source": "https://www.beams.co.jp/company/information/pressrelease/261"
+    }
+  ],
+  "note": "新規2件を既存144件に追加。参照情報はBEAMS公式発表。"
+}
