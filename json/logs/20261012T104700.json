@@ -1,0 +1,43 @@
+{
+  "run_at": "2026-10-12T10:47:00+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "target_blob_sha_before": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "update_attempt": "not sent",
+  "update_status": "not updated in this run; full-file replacement requires a separate write call with the complete current JSON; no write request was sent",
+  "candidates": [
+    {
+      "name": "JOURNAL STANDARD FURNITURE ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-08",
+      "category": "家具・インテリア",
+      "source": "https://prtimes.jp/main/html/rd/p/000000703.000002198.html"
+    },
+    {
+      "name": "PLST ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000703.000002198.html"
+    },
+    {
+      "name": "ジーユー ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000703.000002198.html"
+    },
+    {
+      "name": "ユニクロ ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000703.000002198.html"
+    }
+  ],
+  "note": "候補は公式のららぽーと豊洲発表で確認。latest.jsonには未反映。"
+}
