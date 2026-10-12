@@ -1,0 +1,42 @@
+{
+  "executed_at": "2026-10-13T06:38:00+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "d16c8f8415f161296caa4b3d73bbf30a313eca29",
+  "request_sha": "d16c8f8415f161296caa4b3d73bbf30a313eca29",
+  "write_status": "success",
+  "updated_blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+  "commit_sha": "37809e6caf5a66119d961a52d78a880040fe166a",
+  "post_write_verification": {
+    "status": "success",
+    "blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "item_count": 153,
+    "updatetime": "2026-10-13T06:38:00+09:00"
+  },
+  "added_items": [
+    {
+      "name": "元祖どないや 上野湯島店",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-10-15",
+      "category": "たこ焼き",
+      "source": "https://www.donaiya.jp/shopinfo/"
+    },
+    {
+      "name": "Workman Colors イオンモール桑名店",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・カジュアルウェア",
+      "source": "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%A1%91%E5%90%8D%E5%BA%97"
+    }
+  ],
+  "error": {
+    "type": null,
+    "http_status": null,
+    "stage": null
+  },
+  "notes": "Both entries were absent by name/date before insertion and supported by the businesses' official pages."
+}
