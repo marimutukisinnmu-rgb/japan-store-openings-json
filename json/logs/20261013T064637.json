@@ -1,0 +1,32 @@
+{
+  "executed_at": "2026-10-13T06:46:37+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+  "request_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+  "write_status": "blocked_by_safety_check",
+  "updated_blob_sha": null,
+  "commit_sha": null,
+  "retry": {
+    "before_blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "request_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "status": "blocked_by_safety_check"
+  },
+  "post_write_verification": {
+    "status": "unchanged",
+    "blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "item_count": 153,
+    "updatetime": "2026-10-13T06:38:00+09:00"
+  },
+  "proposed_additions_count": 20,
+  "proposed_additions_date": "2026-10-28",
+  "source": "Tokyu official MICCA tenant list",
+  "error": {
+    "type": "OpenAI safety check block",
+    "http_status": null,
+    "stage": "update request, retry update request, and log creation"
+  },
+  "notes": "Proposed additions were not saved. No 409 response was received."
+}
