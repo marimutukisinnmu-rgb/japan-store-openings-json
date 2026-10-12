@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-10-12T22:45:37+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "before_blob_sha": "eeca7fc8cae1703c0372f406b28d18da66ba70f9",
+  "before_item_count": 147,
+  "candidates": [
+    {
+      "name": "The POOH SHOP 東京駅 by marimo craft",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-14",
+      "category": "キャラクター雑貨・オフィシャルショップ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000346.000095831.html"
+    },
+    {
+      "name": "MAKE UP FOR EVER そごう広島店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-10-23",
+      "category": "化粧品・メイクアップ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000130.000019175.html"
+    }
+  ],
+  "latest_json_update": "not completed",
+  "update_block_stage": "The fetch-then-update connector call was blocked by OpenAI safety checks before the connector operation ran; no GitHub update request was sent.",
+  "note": "Candidate records were not added to latest.json."
+}
