@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-10-12T23:46:13+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "before_blob_sha": "eeca7fc8cae1703c0372f406b28d18da66ba70f9",
+  "sha_passed_to_update_file": "eeca7fc8cae1703c0372f406b28d18da66ba70f9",
+  "after_blob_sha": "d16c8f8415f161296caa4b3d73bbf30a313eca29",
+  "commit_sha": "ad91c96201628d39472981c763a1809f2c78faf7",
+  "count_before": 147,
+  "count_after": 151,
+  "additions": [
+    {
+      "name": "The POOH SHOP 東京駅 by marimo craft",
+      "opening_date": "2026-10-14",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "category": "キャラクター雑貨",
+      "source": "https://marimocraft.co.jp/news/shop_0917/"
+    },
+    {
+      "name": "キャラコレ（東京キャラクターストリート）",
+      "opening_date": "2026-10-14",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "category": "キャラクター雑貨（新店舗・ポップアップ）",
+      "source": "https://marimocraft.co.jp/event/fm1014/"
+    },
+    {
+      "name": "マリベル渋谷",
+      "opening_date": "2026-10-28",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "category": "チョコレート・洋菓子",
+      "source": "https://www.mariebelle.jp/kyoto_news/2026/10/07/864/"
+    },
+    {
+      "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+      "opening_date": "2026-10-30",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "category": "チョコレート・カフェ・ファクトリー",
+      "source": "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory"
+    }
+  ],
+  "notes": "All four entries were absent from the pre-update JSON and verified in official announcements. Update request succeeded; subsequent fetch confirmed blob SHA, timestamp, and item count.",
+  "http_status": "not returned by connector"
+}
