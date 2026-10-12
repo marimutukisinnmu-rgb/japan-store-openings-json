@@ -1,0 +1,30 @@
+{
+  "run_at": "2026-10-12T17:23:34+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "fetched_blob_sha": "008aa6a593a0e031c12d59f3fd54bcf5611c3051",
+  "fetched_updatetime": "2026-10-12T02:42:32+09:00",
+  "fetched_item_count": 146,
+  "findings": [
+    {
+      "name": "Mila Owen ららぽーと豊洲店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000703.000002198.html",
+      "source_note": "施設運営元の発表に10/9 NEW OPENと記載。既存JSONに同名店舗なし。"
+    }
+  ],
+  "update": {
+    "attempted": false,
+    "request_sha": null,
+    "reason": "更新用の完全な置換JSONを独立した書き込み要求として安全に準備できず、既存146件を失う部分置換を避けた。",
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null
+  },
+  "note": "情報調査とログ保存はJSON本体の更新から独立して実施。"
+}
