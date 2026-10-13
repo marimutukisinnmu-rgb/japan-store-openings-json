@@ -1,0 +1,75 @@
+{
+  "executed_at": "2026-10-13T17:45:57+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "update_before_blob_sha": "6498d793d1285ed6bc099a37c465728d2f98d55a",
+  "update_request_sha": "6498d793d1285ed6bc099a37c465728d2f98d55a",
+  "update_after_blob_sha": "8566b6ea05a0fc54ad1046a387cc0320cddf1e7c",
+  "commit_sha": "b26d24826f085f441fd60cafd690da0d1646323d",
+  "items_before": 173,
+  "items_after": 181,
+  "added_items": [
+    {
+      "name": "Workman Colors イオンモール大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-10-02"
+    },
+    {
+      "name": "Workman Colors イトーヨーカドー大和鶴間店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-09"
+    },
+    {
+      "name": "Workman Colors シンフォニープラザ八戸沼館店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-10-16"
+    },
+    {
+      "name": "Workman Colors イオンモール扶桑店",
+      "prefecture": "愛知県",
+      "city": "丹羽郡扶桑町",
+      "opening_date": "2026-10-23"
+    },
+    {
+      "name": "WORKMAN Plus 広島三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-29"
+    },
+    {
+      "name": "WORKMAN Plus2 牧之原榛原店",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-10-29"
+    },
+    {
+      "name": "オーケー長吉店",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-29"
+    },
+    {
+      "name": "Workman Colors イオンタウン刈谷店",
+      "prefecture": "愛知県",
+      "city": "刈谷市",
+      "opening_date": "2026-10-30"
+    }
+  ],
+  "source_urls": [
+    "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%A4%A7%E5%9E%A3%E5%BA%97",
+    "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%83%88%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AB%E3%83%89%E3%83%BC%E5%A4%A7%E5%92%8C%E9%B6%B4%E9%96%93%E5%BA%97",
+    "https://www.workman.co.jp/store/workman-colors-%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B6%E5%85%AB%E6%88%B8%E6%B2%BC%E9%A4%A8%E5%BA%97",
+    "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%89%B6%E6%A1%91%E5%BA%97",
+    "https://www.workman.co.jp/store/workman-plus-%E5%BA%83%E5%B3%B6%E4%B8%89%E6%AC%A1%E5%BA%97",
+    "https://www.workman.co.jp/store/workmanplus%E6%A6%9B%E5%8E%9F%E5%BA%97",
+    "https://ok-corporation.jp/news/entry-3321.html",
+    "https://www.workman.co.jp/store/property/basic-casual/area/230006"
+  ],
+  "notes": "公式店舗情報で開店日を照合。対象期間内の過去日付も既存JSONの期間定義に合わせて登録。"
+}
