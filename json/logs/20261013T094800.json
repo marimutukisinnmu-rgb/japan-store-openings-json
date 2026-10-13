@@ -1,0 +1,18 @@
+{
+  "run_at": "2026-10-13T09:48:00+09:00",
+  "task": "全国 開店予定JSON",
+  "branch": "main",
+  "target": "json/latest.json",
+  "latest_blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+  "latest_updatetime": "2026-10-13T06:38:00+09:00",
+  "existing_item_count": 153,
+  "new_verified_items": [],
+  "processing_result": "今回の確認範囲では、既存153件に追加できる新規の開店予定を確実な一次情報で確認できなかった。",
+  "write_diagnostic": {
+    "update_requested": false,
+    "request_sha": null,
+    "result": "更新要求なし",
+    "reason": "新規追加候補を確定できず、latest.jsonの不要な再書き込みを避けた。"
+  },
+  "schedule": "継続。停止・無効化・スケジュール変更なし。"
+}
