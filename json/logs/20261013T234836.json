@@ -1,0 +1,24 @@
+{
+  "executed_at": "2026-10-13T23:48:36+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "previous_blob_sha": "8566b6ea05a0fc54ad1046a387cc0320cddf1e7c",
+  "update_request_sha": "8566b6ea05a0fc54ad1046a387cc0320cddf1e7c",
+  "updated_blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+  "commit_sha": "528a1cfd54c2f40eca7509436e2a3328761d12b5",
+  "previous_count": 181,
+  "added_count": 59,
+  "updated_count": 240,
+  "sources": [
+    "https://chocozap.jp/studios/newest",
+    "https://www.bookoff.co.jp/shop/news/2026.html",
+    "https://www.bookoff.co.jp/shop/shop20135.html",
+    "https://www.bookoff.co.jp/shop/shop20379.html",
+    "https://www.royal-holdings.co.jp/shop/2026/",
+    "https://pkg.navitime.co.jp/royal-gr/spot/detail?code=0000000902"
+  ],
+  "note": "公式の新店舗一覧・店舗ページで確認したchocoZAP 56店舗、BOOKOFFの10月17日リニューアル2店舗、リッチモンドホテル八戸スクエア1施設を追加。既存名との重複なし。"
+}
