@@ -1,0 +1,11 @@
+{
+  "run_at": "2026-10-13T12:43:53+09:00",
+  "task": "全国 開店予定JSON",
+  "latest_path": "json/latest.json",
+  "before_blob_sha": "6498d793d1285ed6bc099a37c465728d2f98d55a",
+  "item_count": 173,
+  "new_verified_items": [],
+  "update_result": "安全チェックでブロック",
+  "retry_sha": "6498d793d1285ed6bc099a37c465728d2f98d55a",
+  "retry_result": "安全チェックでブロック"
+}
