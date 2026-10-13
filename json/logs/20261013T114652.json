@@ -1,0 +1,42 @@
+{
+  "run_at": "2026-10-13T11:46:52+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "source": "東急株式会社公式発表「新綱島MICCA」入居テナント一覧（2026-10-28グランドオープン）。公式一覧の21テナントのうち、11月オープン予定の鍋島ジャッキー餃子楼を除く20件を追加。",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000001378.000010686.html",
+  "latest_file": "json/latest.json",
+  "write_diagnostics": {
+    "before_blob_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "request_sha": "a6cd16bf9f435bb2a71f269a795afaca0401c8f2",
+    "result": "success",
+    "added_count": 20,
+    "final_item_count": 173,
+    "after_blob_sha": "6498d793d1285ed6bc099a37c465728d2f98d55a",
+    "commit_sha": "5aa6487255540cad753f7d68634ea2e58d069baa",
+    "http_status": null
+  },
+  "added_items": [
+    "OMOYA flour＋water／輪餅屋",
+    "串焼き こはる 新綱島店",
+    "L’atelier de Antique -Chocolat & Gelato-",
+    "SMASH HOUSE by CRAFTROCK BREWING",
+    "洋食亭ブラームス",
+    "中華そば みなと橋",
+    "海鮮問屋 浜の玄太丸／魚の玄太丸",
+    "沖縄テラス 南風花（はいばな）",
+    "Italian TOSCANA 新綱島店",
+    "鴨屋 そば香",
+    "SUMRINA Spice & Cafe",
+    "洋麺屋 五右衛門 新綱島店",
+    "松のや 新綱島店",
+    "中華食堂 日高屋 新綱島店",
+    "ハックドラッグ新綱島MICCA店",
+    "FaSS 新綱島店",
+    "ファイテンショップ新綱島MICCA",
+    "東急沿線の仲介＆consulting",
+    "売るナビ 新綱島MICCA店",
+    "ハピスタ"
+  ],
+  "note": "初回の確認ログ作成後に公式テナント一覧画像まで確認し、20件の追加漏れを発見したため、latest.jsonを修正して本追記ログを新規作成。先行ログは上書きしていない。"
+}
