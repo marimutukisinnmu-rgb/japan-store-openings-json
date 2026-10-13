@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-10-31",
   "scope": "Japan",
-  "updatetime": "2026-10-13T11:46:52+09:00",
+  "updatetime": "2026-10-13T17:45:57+09:00",
   "items": [
     {
       "name": "ローソン Ｓ四日市市総合会館",
@@ -114,6 +114,13 @@
       "city": "世田谷区",
       "opening_date": "2026-10-02",
       "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Workman Colors イオンモール大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-10-02",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "ディスカウントドラッグコスモス天草登立店",
@@ -662,6 +669,13 @@
       "category": "カラオケ"
     },
     {
+      "name": "Workman Colors イトーヨーカドー大和鶴間店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 54号広島八木店",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -900,6 +914,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "Workman Colors シンフォニープラザ八戸沼館店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
       "name": "八郎そば 大和深見店",
       "prefecture": "神奈川県",
       "city": "大和市",
@@ -975,6 +996,13 @@
       "city": "札幌市中央区",
       "opening_date": "2026-10-23",
       "category": "アウトドア・ファッション"
+    },
+    {
+      "name": "Workman Colors イオンモール扶桑店",
+      "prefecture": "愛知県",
+      "city": "丹羽郡扶桑町",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "FIT LABO 坂戸店",
@@ -1159,6 +1187,27 @@
       "category": "ドーナツ"
     },
     {
+      "name": "WORKMAN Plus 広島三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-29",
+      "category": "作業服・作業用品"
+    },
+    {
+      "name": "WORKMAN Plus2 牧之原榛原店",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-10-29",
+      "category": "作業服・作業用品（移転リニューアル）"
+    },
+    {
+      "name": "オーケー長吉店",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-29",
+      "category": "ディスカウントスーパー"
+    },
+    {
       "name": "gelato pique シャミネ松江店",
       "prefecture": "島根県",
       "city": "松江市",
@@ -1199,6 +1248,13 @@
       "city": "神戸市北区",
       "opening_date": "2026-10-30",
       "category": "ファッション（期間限定）"
+    },
+    {
+      "name": "Workman Colors イオンタウン刈谷店",
+      "prefecture": "愛知県",
+      "city": "刈谷市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "整体×もみほぐし Refresh 東京ソラマチ店",
