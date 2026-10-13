@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-10-14T00:39:34+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+  "attempted_update_blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+  "update_result": "blocked_by_safety_check",
+  "block_stage": "functions.exec call containing fetch_file followed by update_file; write was not confirmed to have reached GitHub",
+  "http_status": null,
+  "updated_blob_sha": null,
+  "commit_sha": null,
+  "post_check": {
+    "blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+    "item_count": 240,
+    "updatetime": "2026-10-13T23:48:36+09:00"
+  },
+  "candidates": [
+    {
+      "name": "chocoZAP 田辺中央",
+      "prefecture": "和歌山県",
+      "city": "田辺市",
+      "opening_date": "2026-10-14",
+      "category": "フィットネスジム（リニューアル）",
+      "source": "https://chocozap.jp/info/16965",
+      "status": "verified_official_but_not_saved"
+    },
+    {
+      "name": "chocoZAP 加治屋町",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-10-23",
+      "category": "フィットネスジム（リニューアル）",
+      "source": "https://chocozap.jp/info/16963",
+      "status": "verified_official_but_not_saved"
+    }
+  ],
+  "note": "Current latest.json remains unchanged. No alternate write path was used to bypass the blocked update. Continue on next scheduled run."
+}
