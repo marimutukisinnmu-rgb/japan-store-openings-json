@@ -1,0 +1,44 @@
+{
+  "run_at": "2026-10-16T07:40:03+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_write_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "pre_write_sha_acquired": true,
+  "update_file_sha_argument": null,
+  "write_status": "blocked_by_safety_check",
+  "block_stage": "functions.exec tool call containing update_file was rejected before the connector operations could be confirmed",
+  "github_api_request_confirmed_sent": false,
+  "http_status": null,
+  "post_write_blob_sha": null,
+  "commit_sha": null,
+  "previous_item_count": 251,
+  "verified_candidates": [
+    {
+      "name": "キャンドゥ 遠野中央店",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "https://www.cando-web.co.jp/news/store/newstore/detail_001011"
+    },
+    {
+      "name": "キャンドゥ 中の島1条店",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "https://www.cando-web.co.jp/news/store/newstore/detail_001007"
+    },
+    {
+      "name": "キャンドゥ むつ小川店",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "https://www.cando-web.co.jp/news/store/newstore/detail_001003"
+    }
+  ],
+  "notes": "All three candidates were confirmed on official Can Do announcements and were absent from the fetched latest.json. latest.json was not updated. This log does not claim the update request reached GitHub."
+}
