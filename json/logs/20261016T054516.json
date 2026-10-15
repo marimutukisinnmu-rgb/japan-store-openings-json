@@ -1,0 +1,30 @@
+{
+  "run_at": "2026-10-16T05:45:16+09:00",
+  "task": "全国 開店予定JSON",
+  "latest_json_sha_before": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "latest_json_update": "blocked_before_github_request",
+  "candidates": [
+    {
+      "name": "MUS",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "ファッション雑貨"
+    },
+    {
+      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-18",
+      "category": "喫茶店"
+    },
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ"
+    }
+  ],
+  "note": "候補3件は公式情報で確認し、既存JSONには未登録。更新とログ保存の書き込み操作は安全チェックでブロックされた。"
+}
