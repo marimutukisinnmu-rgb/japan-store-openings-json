@@ -1,0 +1,31 @@
+{
+  "executed_at": "2026-10-16T02:43:42+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "latest_json_update_blocked",
+  "update_before_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "sha_passed_to_update_request": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "update_request_confirmed_sent": false,
+  "error_type": "OpenAI safety check blocked tool call",
+  "http_status": null,
+  "additions_not_saved": [
+    {
+      "name": "かつや 中野北口店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-10-21",
+      "category": "とんかつ・カツ丼",
+      "source": "https://www.arclandservice.co.jp/katsuya/information/"
+    },
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン",
+      "source": "https://pisola.jp/news/11617.html"
+    }
+  ],
+  "note": "No alternate write path was used after the update call was blocked."
+}
