@@ -1,0 +1,64 @@
+{
+  "run_at": "2026-10-15T18:48:07+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+    "after_blob_sha": "c1652f9d5d4e137c73248700bb0a9171aaec33d9",
+    "update_attempted": false,
+    "update_request_sha": null,
+    "result": "no_content_change",
+    "reason": "今回確認した公式新店舗一覧の候補は既存JSONに登録済みで、追加できる未登録の確定情報を確認できなかったため、latest.jsonは上書きしない。",
+    "item_count": 240,
+    "updatetime": "2026-10-13T23:48:36+09:00"
+  },
+  "verified_existing_entries": [
+    {
+      "name": "chocoZAP 泉中央一丁目（女性専用）",
+      "opening_date": "2026-10-14"
+    },
+    {
+      "name": "chocoZAP 南大井六丁目",
+      "opening_date": "2026-10-14"
+    },
+    {
+      "name": "chocoZAP 大牟田新栄町",
+      "opening_date": "2026-10-15"
+    },
+    {
+      "name": "chocoZAP 東大泉六丁目",
+      "opening_date": "2026-10-16"
+    },
+    {
+      "name": "マリベル渋谷",
+      "opening_date": "2026-10-28"
+    },
+    {
+      "name": "オーケー長吉店",
+      "opening_date": "2026-10-29"
+    },
+    {
+      "name": "chocoZAP 札幌南藤野三条",
+      "opening_date": "2026-10-30"
+    }
+  ],
+  "sources_checked": [
+    "https://chocozap.jp/studios/newest",
+    "https://prtimes.jp/main/html/rd/p/000000002.000192334.html",
+    "https://ok-corporation.jp/news/new-shop/"
+  ],
+  "coverage_note": "全国すべての店舗発表を網羅したとは断定しない。今回照合した公式情報のうち、確認した候補は既存データに含まれていた。",
+  "write_diagnostics": {
+    "blob_sha_type": "GitHub blob SHA (not local SHA-256)",
+    "before_sha_acquired": true,
+    "actual_update_sha_passed": null,
+    "write_result": "not_attempted",
+    "block_stage": null,
+    "http_status": null,
+    "post_write_blob_sha": null,
+    "commit_sha": null,
+    "conflict_409": false
+  }
+}
