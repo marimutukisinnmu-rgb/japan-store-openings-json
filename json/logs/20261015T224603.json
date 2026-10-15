@@ -1,0 +1,38 @@
+{
+  "run_at": "2026-10-15T22:46:03+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "target_sha_before": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "target_write": {
+    "attempted": false,
+    "reason": "今回確認できた公式開店情報は既存JSONに登録済み。新規追加を裏付ける未登録候補を確定できなかったため、latest.jsonは変更しない。",
+    "request_sha": null,
+    "result": "no_write_needed",
+    "http_status": null,
+    "after_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "commit_sha": null
+  },
+  "latest_json": {
+    "item_count": 251,
+    "period": "2026-09-18/2026-11-11",
+    "updatetime": "2026-10-15T21:45:59+09:00"
+  },
+  "checked_sources": [
+    {
+      "name": "Lawson official new store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": [
+        "2026-10-16 世田谷等々力二丁目: already registered",
+        "2026-10-16 葛飾東堀切二丁目: already registered"
+      ]
+    },
+    {
+      "name": "chocoZAP official newest stores",
+      "url": "https://chocozap.jp/studios/newest",
+      "findings": "2026-11-05 to 2026-11-11 entries in the official list were already registered."
+    }
+  ],
+  "result": "No new verified unique items found in this run; latest.json unchanged."
+}
