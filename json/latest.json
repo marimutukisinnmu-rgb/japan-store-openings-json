@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2026-10-31",
+  "period": "2026-09-18/2026-11-11",
   "scope": "Japan",
-  "updatetime": "2026-10-13T23:48:36+09:00",
+  "updatetime": "2026-10-15T21:45:59+09:00",
   "items": [
     {
       "name": "ローソン Ｓ四日市市総合会館",
@@ -1681,6 +1681,83 @@
       "prefecture": "長崎県",
       "city": "島原市",
       "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 中須一丁目",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "opening_date": "2026-11-05",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP みずほ台二丁目",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "opening_date": "2026-11-07",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 富岡黒川",
+      "prefecture": "群馬県",
+      "city": "富岡市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP さいたま下落合",
+      "prefecture": "埼玉県",
+      "city": "さいたま市中央区",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 八王子松木",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 厚木中町三丁目",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 平塚八重咲町",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 阿倍野三明",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 鳥取永楽",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 段原二丁目",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 深谷緑ヶ丘",
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "opening_date": "2026-11-11",
       "category": "フィットネスジム"
     }
   ]
