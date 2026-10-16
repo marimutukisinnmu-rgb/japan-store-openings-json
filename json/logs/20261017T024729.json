@@ -1,0 +1,40 @@
+{
+  "run_at": "2026-10-17T02:47:29+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "branch": "main",
+  "fetched_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+  "verified_candidates": [
+    {
+      "name": "MELON LAB. 市原八幡宿店",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "opening_date": "2026-10-17",
+      "category": "メロンパン専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000001071.000005340.html"
+    },
+    {
+      "name": "コッペんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "コッペパン専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000150.000153230.html"
+    },
+    {
+      "name": "ドーナツんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "ドーナツ専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000150.000153230.html"
+    }
+  ],
+  "update_status": "blocked",
+  "blocked_stage": "The functions.exec call containing fetch_file plus update_file was blocked before execution.",
+  "sha_passed_to_update": "not sent; update_file was not executed",
+  "http_status": null,
+  "new_blob_sha": null,
+  "commit_sha": null,
+  "note": "Candidates were verified from official company press releases. JSON body unchanged; do not claim items added."
+}
