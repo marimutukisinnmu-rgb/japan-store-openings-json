@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-11",
   "scope": "Japan",
-  "updatetime": "2026-10-15T21:45:59+09:00",
+  "updatetime": "2026-10-16T17:41:01+09:00",
   "items": [
     {
       "name": "ローソン Ｓ四日市市総合会館",
@@ -956,6 +956,27 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "Y's / Y's for men 池袋PARCO店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・セレクトショップ"
+    },
+    {
+      "name": "and wander 池袋PARCO店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "アウトドアファッション"
+    },
+    {
+      "name": "ATRIUM 池袋PARCO店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "アイウェア・セレクトショップ"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 広島大手町店",
       "prefecture": "広島県",
       "city": "広島市中区",
@@ -1626,6 +1647,13 @@
       "city": "広島市安佐北区",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "KEY TIMEZ 池袋PARCO店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・セレクトショップ"
     },
     {
       "name": "整体×もみほぐし Refresh 東京ソラマチ店",
