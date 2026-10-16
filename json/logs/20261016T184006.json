@@ -1,0 +1,32 @@
+{
+  "run_at": "2026-10-16T18:40:06+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update_blob_sha": "b800967211d13ebcf6c5a8f718483f4bec34597d",
+  "candidates": [
+    {
+      "name": "Un BOURBON（大丸東京店 期間限定ショップ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（菓子・コンセプトショップ）",
+      "source": "https://www.bourbon.co.jp/news/detail/20260924091854.html"
+    },
+    {
+      "name": "豚山 柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-10-23",
+      "category": "ラーメン",
+      "source": "https://www.gift-group.co.jp/news/butayama-chiba-kashiwa"
+    }
+  ],
+  "update_status": "blocked_before_update_file_execution",
+  "error": "This tool call was blocked by OpenAI's safety checks. Please double check what you are sending.",
+  "update_request_sent_to_github": false,
+  "http_status": null,
+  "post_update_blob_sha": null,
+  "commit_sha": null
+}
