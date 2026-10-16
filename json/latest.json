@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-11",
   "scope": "Japan",
-  "updatetime": "2026-10-16T20:44:12+09:00",
+  "updatetime": "2026-10-16T22:39:33+09:00",
   "items": [
     {
       "name": "ローソン Ｓ四日市市総合会館",
@@ -998,6 +998,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-18",
+      "category": "カフェ・喫茶店"
+    },
+    {
       "name": "デイリーテーブル 紀ノ国屋 西荻窪駅店（リニューアル）",
       "prefecture": "東京都",
       "city": "杉並区",
@@ -1010,6 +1017,13 @@
       "city": "杉並区",
       "opening_date": "2026-10-19",
       "category": "カフェ"
+    },
+    {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-19",
+      "category": "洋菓子・パティスリー"
     },
     {
       "name": "chocoZAP 釧路緑ヶ岡",
