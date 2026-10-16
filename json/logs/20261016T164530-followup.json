@@ -1,0 +1,52 @@
+{
+  "run_at": "2026-10-16T16:45:30+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "type": "supplemental_research_log",
+  "related_log": "json/logs/20261016T164530.json",
+  "additional_candidates_found_after_initial_log": [
+    {
+      "name": "HUNTER 南町田グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・雑貨（リニューアル）",
+      "source": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    },
+    {
+      "name": "chocoZAP 豊前赤熊",
+      "prefecture": "福岡県",
+      "city": "豊前市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム",
+      "source": "https://chocozap.jp/studios/newest"
+    },
+    {
+      "name": "chocoZAP 下大利一丁目",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム",
+      "source": "https://chocozap.jp/studios/newest"
+    }
+  ],
+  "duplicate_check": {
+    "base_latest_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "all_three_candidates_absent": true,
+    "current_items": 251
+  },
+  "latest_json_update_diagnostic": {
+    "result": "blocked_before_github_api_request",
+    "pre_update_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "sha_passed_to_update_file": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "sha_actually_sent_to_github_api": null,
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null,
+    "conflict_409_observed": false,
+    "blocked_stage": "mcp__GitHub__update_file tool call safety check"
+  },
+  "note": "These three candidates supplement the two candidates recorded in the initial run log. They were confirmed from official store/venue pages and are within the existing period ending 2026-11-11."
+}
