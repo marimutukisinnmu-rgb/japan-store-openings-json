@@ -1,0 +1,44 @@
+{
+  "run_at": "2026-10-17T01:47:57+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+    "fetch": "success",
+    "update": "blocked_before_update_file_execution_by_safety_check",
+    "request_sha_sent": null,
+    "http_status": null,
+    "after_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+    "entries_before": 265,
+    "entries_after": 265
+  },
+  "confirmed_candidates_not_added": [
+    {
+      "name": "MELON LAB. 市原八幡宿店",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "opening_date": "2026-10-17",
+      "category": "ベーカリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000001071.000005340.html"
+    },
+    {
+      "name": "コッペんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "ベーカリー・コッペパン",
+      "source": "https://abc-chain.com/press/"
+    },
+    {
+      "name": "ドーナツんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "ドーナツ専門店",
+      "source": "https://abc-chain.com/press/"
+    }
+  ],
+  "note": "公式発表で候補3件を確認。latest.jsonへの追加は未完了。GitHub APIに更新要求が送信されたことは確認できない。"
+}
