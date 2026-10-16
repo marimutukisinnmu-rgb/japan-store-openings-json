@@ -1,0 +1,48 @@
+{
+  "executed_at": "2026-10-17T00:46:37+09:00",
+  "task": "全国 開店予定JSON",
+  "branch": "main",
+  "target": "json/latest.json",
+  "fetched_before_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+  "fetched_before_updatetime": "2026-10-16T22:39:33+09:00",
+  "existing_count": 265,
+  "verified_unregistered_candidates": [
+    {
+      "name": "MELON LAB. 市原八幡宿店",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "opening_date": "2026-10-17",
+      "category": "メロンパン専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000001071.000005340.html"
+    },
+    {
+      "name": "コッペんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "コッペパン専門店",
+      "source": "https://abc-chain.com/press/【静岡県初上陸！】コッペパン専門店「コッペんどっと」とドーナツ専門店「ドーナツんどっと」が浜松市に10月17日同時OPEN！"
+    },
+    {
+      "name": "ドーナツんどっと浜松原島店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-17",
+      "category": "ドーナツ専門店",
+      "source": "https://abc-chain.com/press/【静岡県初上陸！】コッペパン専門店「コッペんどっと」とドーナツ専門店「ドーナツんどっと」が浜松市に10月17日同時OPEN！"
+    }
+  ],
+  "latest_json_write": {
+    "result": "blocked_before_GitHub_API_request",
+    "stage": "functions.exec tool invocation safety check",
+    "sha_passed_to_update": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+    "actual_api_request_sha": null,
+    "http_status": null,
+    "error_type": "OpenAI safety check",
+    "post_update_blob_sha": null,
+    "commit_sha": null
+  },
+  "latest_json_write_attempted": false,
+  "reason": "The tool invocation was blocked before the GitHub write request could be confirmed; latest.json remains unchanged.",
+  "verified_at": "2026-10-17T00:46:37+09:00"
+}
