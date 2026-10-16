@@ -1,0 +1,61 @@
+{
+  "executed_at": "2026-10-16T10:43:15+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+  "update_attempt": {
+    "intended_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "actual_request_sha": null,
+    "status": "blocked_before_GitHub_API_request",
+    "stage": "functions.exec tool-call safety check",
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null,
+    "retry": false
+  },
+  "verified_candidates": [
+    {
+      "name": "キャンドゥ ハックドラッグ戸塚店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-10-24",
+      "category": "100円ショップ",
+      "source": "Can★Do official 2026 store announcements"
+    },
+    {
+      "name": "キャンドゥ 遠野中央店",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "Can★Do official announcement 2026-10-15"
+    },
+    {
+      "name": "キャンドゥ 中の島1条店",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "Can★Do official announcement 2026-10-15"
+    },
+    {
+      "name": "キャンドゥ むつ小川店",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ",
+      "source": "Can★Do official announcement 2026-10-15"
+    },
+    {
+      "name": "キャンドゥ イオン札幌麻生店",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "opening_date": "2026-10-30",
+      "category": "100円ショップ（リニューアル）",
+      "source": "Can★Do official announcement 2026-10-16"
+    }
+  ],
+  "note": "Five candidates verified against official Can★Do pages but not yet added to latest.json. Latest JSON remained unchanged after the blocked update call."
+}
