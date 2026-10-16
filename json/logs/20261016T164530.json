@@ -1,0 +1,44 @@
+{
+  "run_at": "2026-10-16T16:45:30+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "latest_json_update_blocked",
+  "update_diagnostic": {
+    "pre_update_blob_sha": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "sha_obtained_from_github": true,
+    "sha_passed_to_update_file": "afe5c1934657a14c7d790a333d52f01f71f2825c",
+    "sha_actually_sent_to_github_api": null,
+    "write_result": "blocked_before_github_api_request",
+    "blocked_stage": "mcp__GitHub__update_file tool call safety check",
+    "error": "This tool call was blocked by OpenAI's safety checks. Please double check what you are sending.",
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null,
+    "conflict_409_observed": false,
+    "retry": "Not retried because the write call was blocked before an API response; no SHA conflict was observed."
+  },
+  "existing_items": 251,
+  "proposed_items": [
+    {
+      "name": "スターバックス コーヒー 東海大学医学部付属病院店",
+      "prefecture": "神奈川県",
+      "city": "伊勢原市",
+      "opening_date": "2026-10-22",
+      "category": "カフェ",
+      "source": "https://store.starbucks.co.jp/detail-4490/"
+    },
+    {
+      "name": "ローソン 白楽駅前",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-10-30",
+      "category": "コンビニ",
+      "source": "https://www.lawson.co.jp/newstore/smt/"
+    }
+  ],
+  "proposed_item_count": 2,
+  "latest_json_changed": false,
+  "notes": "Both candidates were absent from the fetched latest.json. The existing period ends 2026-11-11, so both dates fall within scope."
+}
