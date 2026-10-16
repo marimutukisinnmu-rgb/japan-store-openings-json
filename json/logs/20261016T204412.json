@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-10-16T20:44:12+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "diagnostics": {
+    "before_blob_sha": "b800967211d13ebcf6c5a8f718483f4bec34597d",
+    "sha_passed_to_update_file": "b800967211d13ebcf6c5a8f718483f4bec34597d",
+    "update_result": "success",
+    "after_blob_sha": "3fa20a9a3f44f1969f1acc6705de7928015ea4f7",
+    "commit_sha": "2ff1a347d2f4904e62b9685e17b549a6fe0cda10",
+    "http_status": "not provided by connector",
+    "retry": "not needed",
+    "post_write_fetch": "success"
+  },
+  "before_item_count": 255,
+  "after_item_count": 263,
+  "added_items": [
+    {
+      "name": "バイセル プリコ西明石店",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-10-18",
+      "category": "買取専門店",
+      "source": "https://buysell-kaitori.com/store/plico-nishiakashi/"
+    },
+    {
+      "name": "デイリーテーブル 紀ノ国屋 西荻窪駅店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-10-19",
+      "category": "スーパーマーケット（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000583.000055282.html"
+    },
+    {
+      "name": "猿田彦珈琲 Daily Table KINOKUNIYA 西荻窪駅",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-10-19",
+      "category": "カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000583.000055282.html"
+    },
+    {
+      "name": "GINZAグローバルスタイル PREMIUM 天満屋倉敷店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-10-20",
+      "category": "オーダースーツ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000408.000019787.html"
+    },
+    {
+      "name": "ピュアココ トーキョー 近鉄あべのハルカス店",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-10-21",
+      "category": "洋菓子・スイーツ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000239.000040854.html"
+    },
+    {
+      "name": "サンマルクカフェ＆茶 両国東口店",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-21",
+      "category": "カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000184.000085701.html"
+    },
+    {
+      "name": "廻鮮江戸前すし魚魚丸 天白店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-10-21",
+      "category": "回転寿司",
+      "source": "https://prtimes.jp/main/html/rd/p/000000018.000065701.html"
+    },
+    {
+      "name": "JOYFULL EXPRESS イオンモール高岡店",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-10-27",
+      "category": "ファミリーレストラン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000402.000023968.html"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "post_write_retrieval": "success",
+    "count_matches": "success",
+    "duplicate_check": "no exact-name duplicates"
+  }
+}
