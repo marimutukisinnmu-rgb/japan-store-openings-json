@@ -1,0 +1,32 @@
+{
+  "run_at": "2026-10-16T22:39:33+09:00",
+  "task": "全国 開店予定JSON",
+  "target": "json/latest.json",
+  "before_blob_sha": "3fa20a9a3f44f1969f1acc6705de7928015ea4f7",
+  "update_request_sha": "3fa20a9a3f44f1969f1acc6705de7928015ea4f7",
+  "write_status": "success",
+  "after_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+  "commit_sha": "2841a9baf5cef9f8468897e9284116c635eddd60",
+  "items_before": 263,
+  "items_after": 265,
+  "added": [
+    {
+      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-18",
+      "category": "カフェ・喫茶店"
+    },
+    {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-19",
+      "category": "洋菓子・パティスリー"
+    }
+  ],
+  "verification": {
+    "refetched": true,
+    "refetched_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d"
+  }
+}
