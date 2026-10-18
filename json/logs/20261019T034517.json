@@ -18,11 +18,18 @@
       "success": true
     },
     "http_status": "not exposed by connector",
-    "conflict_409": "not reported"
+    "conflict_409": "not reported",
+    "cleanup_after_duplicate_review": {
+      "final_blob_sha": "931bc572df1082cc6360b4e1b185a6c6fd9e4e06",
+      "final_tree_sha": "4ea124ab4e6b04e163c426054bf8742dd4f024cc",
+      "final_commit_sha": "2054e0755432756a613c9d5d4e863faac5c0641f",
+      "expected_head_sha": "b2ebb316fb0cc893c5074793f2372b82ad3c60fd",
+      "status": "success"
+    }
   },
   "result": {
     "previous_count": 298,
-    "new_count": 303,
+    "final_count": 301,
     "added": [
       {
         "name": "PRONTO 日本橋三井タワー店",
@@ -44,23 +51,19 @@
         "city": "横浜市港北区",
         "opening_date": "2026-10-28",
         "category": "ベーグル専門店"
-      },
+      }
+    ],
+    "removed_duplicate": [
       {
         "name": "松のや新綱島店",
-        "prefecture": "神奈川県",
-        "city": "横浜市港北区",
-        "opening_date": "2026-10-28",
-        "category": "とんかつ専門店"
+        "reason": "既存JSONの「松のや 新綱島店」と同じ店舗・開店日・所在地を指す重複として除外"
       },
       {
         "name": "中華食堂 日高屋 新綱島MICCA店",
-        "prefecture": "神奈川県",
-        "city": "横浜市港北区",
-        "opening_date": "2026-10-28",
-        "category": "中華食堂"
+        "reason": "既存JSONの「中華食堂 日高屋 新綱島店」と同じ店舗・開店日・所在地を指す重複として除外"
       }
     ],
-    "note": "L’atelier de Antique -Chocolat & Gelato- was already present in the pre-run JSON and was not newly added."
+    "note": "L’atelier de Antique -Chocolat & Gelato- was already present in the pre-run JSON and was not added. Initial write temporarily contained five additions (303 entries); a follow-up cleanup removed two duplicate variants, leaving 301 entries."
   },
   "sources": [
     "https://www.pronto.co.jp/company/",
@@ -68,9 +71,10 @@
     "https://www.tokyu.co.jp/company/news/pdf/20260925-micca-t.pdf"
   ],
   "post_write_verification": {
-    "blob_sha": "57015ec6ef2e6b8fce832d4f385ac02a2a10ab37",
-    "count": 303,
+    "blob_sha": "931bc572df1082cc6360b4e1b185a6c6fd9e4e06",
+    "count": 301,
     "updatetime": "2026-10-19T03:45:17+09:00",
+    "duplicate_variants_removed": true,
     "success": true
   }
 }
