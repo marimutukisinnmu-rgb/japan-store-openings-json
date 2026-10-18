@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-10-19T00:42:38+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "success",
+  "update_diagnostic": {
+    "old_blob_sha": "f4b950b1133dfdbbd4142ab2a22702c9f228080f",
+    "sha_passed_to_update_file": "f4b950b1133dfdbbd4142ab2a22702c9f228080f",
+    "update_result": "success",
+    "new_blob_sha": "e384412d368261d8b56e804b889e265d42682be8",
+    "commit_sha": "374e8168654b7245a99adc10e6001c7f46fbb223",
+    "http_status": null,
+    "conflict_409": false,
+    "verified_after_write": true
+  },
+  "item_count_before": 292,
+  "item_count_after": 295,
+  "added": [
+    {
+      "name": "コヒナ グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "ファッション",
+      "source": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    },
+    {
+      "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-13",
+      "category": "ファッション",
+      "source": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子・カフェ",
+      "source": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+    }
+  ],
+  "final_blob_sha": "e384412d368261d8b56e804b889e265d42682be8",
+  "final_commit_sha": "374e8168654b7245a99adc10e6001c7f46fbb223",
+  "final_updatetime": "2026-10-19T00:42:38+09:00"
+}
