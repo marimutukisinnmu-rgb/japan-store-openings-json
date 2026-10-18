@@ -1,0 +1,193 @@
+{
+  "run_at": "2026-10-18T21:47:31+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+  "new_blob_sha": "76cedf5866391821446493d879b509527ac5ce8a",
+  "commit_sha": "134852402ec7848fd59b21601957597cf5c32a8a",
+  "branch_update": {
+    "method": "Git Data API: create_blob → create_tree → create_commit → update_ref",
+    "expected_previous_commit_sha": "47498a541c36f05cf8f831ac721ff7b78bd626c9",
+    "requested_commit_sha": "134852402ec7848fd59b21601957597cf5c32a8a",
+    "result": "success",
+    "update_ref_response": {
+      "success": true
+    },
+    "http_status": "not returned by connector"
+  },
+  "counts": {
+    "before": 265,
+    "added": 22,
+    "after": 287
+  },
+  "updatetime": "2026-10-18T21:47:31+09:00",
+  "additions": [
+    {
+      "name": "松のや 本八幡北口店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-09-18",
+      "category": "とんかつ・定食"
+    },
+    {
+      "name": "すし松 千川店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-09-24",
+      "category": "寿司"
+    },
+    {
+      "name": "すし松 八千代店",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "opening_date": "2026-09-29",
+      "category": "寿司"
+    },
+    {
+      "name": "松屋 狭山台店（松のや併設）",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-09-30",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 下関長府店（松のや併設）",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "opening_date": "2026-10-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 松阪鎌田町店（松のや併設）",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "opening_date": "2026-10-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 沖縄比屋根店（松のや併設）",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-10-02",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 宇治弐番店（松のや併設）",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-10-10",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 八代店（松のや併設）",
+      "prefecture": "熊本県",
+      "city": "八代市",
+      "opening_date": "2026-10-15",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "トロ壱 上野店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-10-16",
+      "category": "居酒屋・海鮮"
+    },
+    {
+      "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-10-19",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "コメダ珈琲店 板橋仲宿店",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "opening_date": "2026-10-19",
+      "category": "カフェ・喫茶店"
+    },
+    {
+      "name": "松屋 千葉仁戸名店（松のや併設）",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "opening_date": "2026-10-20",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-20",
+      "category": "ファストフード"
+    },
+    {
+      "name": "豚山 柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-10-23",
+      "category": "ラーメン"
+    },
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "松屋 久喜菖蒲店（松のや併設）",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "opening_date": "2026-10-27",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 可児店（松のや併設）",
+      "prefecture": "岐阜県",
+      "city": "可児市",
+      "opening_date": "2026-10-30",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "キャンドゥセレクト Aコープ雄夢店",
+      "prefecture": "北海道",
+      "city": "紋別郡雄武町",
+      "opening_date": "2026-11-01",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "松屋 旭川永山店（松のや併設）",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 大川店（松のや併設）",
+      "prefecture": "福岡県",
+      "city": "大川市",
+      "opening_date": "2026-11-05",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 大正駅前店",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "opening_date": "2026-11-07",
+      "category": "牛丼・定食"
+    }
+  ],
+  "sources": [
+    "https://shn-food.co.jp/archives/2131",
+    "https://www.anytimefitness.co.jp/mukogaokayuensetagayadori/",
+    "https://www.komeda.co.jp/",
+    "https://bento.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+    "https://search.kfc.co.jp/points/5120",
+    "https://butayama.com/news",
+    "https://prtimes.jp/main/html/rd/p/000000198.000088159.html",
+    "https://www.cando-web.co.jp/news/store/newstore/detail_001006"
+  ]
+}
