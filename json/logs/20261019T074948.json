@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-10-19T07:49:48+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "checked_no_content_change",
+  "latest_before": {
+    "blob_sha": "2bd8c48ccd17586d5884579003220522144c4626",
+    "updatetime": "2026-10-19T05:44:37+09:00",
+    "item_count": 303
+  },
+  "update_diagnostic": {
+    "attempted": false,
+    "reason": "今回確認した公式開店情報は既存JSONに登録済み。未登録の追加候補を確認できなかったため、latest.jsonへの不要なコミットを避けた。",
+    "request_sha": null,
+    "result": "no_write_requested",
+    "http_status": null
+  },
+  "verified_existing_candidates": [
+    {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "opening_date": "2026-10-19",
+      "status": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000003.000167354.html"
+    },
+    {
+      "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
+      "opening_date": "2026-10-19",
+      "status": "already_registered",
+      "source": "https://www.anytimefitness.co.jp/mukogaokayuensetagayadori/"
+    },
+    {
+      "name": "コメダ珈琲店 板橋仲宿店",
+      "opening_date": "2026-10-19",
+      "status": "already_registered",
+      "source": "https://www.komeda.co.jp/"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 三次店",
+      "opening_date": "2026-10-20",
+      "status": "already_registered",
+      "source": "https://search.kfc.co.jp/points/5120"
+    },
+    {
+      "name": "松屋 千葉仁戸名店（松のや併設）",
+      "opening_date": "2026-10-20",
+      "status": "already_registered",
+      "source": "https://qr.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html"
+    },
+    {
+      "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
+      "opening_date": "2026-10-20",
+      "status": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000409.000001117.html"
+    }
+  ],
+  "scope_note": "確認した情報源の範囲で未登録候補は見つからなかった。全国すべての開店予定を網羅的に確認したという意味ではない。",
+  "log_write_diagnostic": {
+    "path": "json/logs/20261019T074948.json",
+    "prefetch_result": "404 NOT_FOUND (file did not exist)",
+    "write_method": "create_file",
+    "write_result": "pending"
+  }
+}
