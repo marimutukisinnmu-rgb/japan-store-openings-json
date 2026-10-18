@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2026-11-11",
+  "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-18T22:41:39+09:00",
+  "updatetime": "2026-10-19T00:42:38+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1033,6 +1033,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ワッツ 住吉マックスバリュ店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ"
+    },
+    {
       "name": "舎鈴 ミーナ津田沼店",
       "prefecture": "千葉県",
       "city": "習志野市",
@@ -1045,13 +1052,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "ワッツ 住吉マックスバリュ店",
-      "prefecture": "長崎県",
-      "city": "長崎市",
-      "opening_date": "2026-10-16",
-      "category": "100円ショップ"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1068,16 +1068,16 @@
       "category": "リユースショップ（リニューアル）"
     },
     {
-      "name": "ワッツザ・ビッグ岩見沢店",
-      "prefecture": "北海道",
-      "city": "岩見沢市",
+      "name": "ワッツウィズ草津ラ・ムー店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
       "opening_date": "2026-10-17",
       "category": "100円ショップ"
     },
     {
-      "name": "ワッツウィズ草津ラ・ムー店",
-      "prefecture": "滋賀県",
-      "city": "草津市",
+      "name": "ワッツザ・ビッグ岩見沢店",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
       "opening_date": "2026-10-17",
       "category": "100円ショップ"
     },
@@ -1089,18 +1089,18 @@
       "category": "買取専門店"
     },
     {
-      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-10-18",
-      "category": "カフェ・喫茶店"
-    },
-    {
       "name": "ワッツウィズはまやまラピタ店",
       "prefecture": "島根県",
       "city": "出雲市",
       "opening_date": "2026-10-18",
       "category": "100円ショップ"
+    },
+    {
+      "name": "喫茶室ルノアール 新宿３丁目T&Tビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-18",
+      "category": "カフェ・喫茶店"
     },
     {
       "name": "L’ATELIER L’ARCHESTE GINZA",
@@ -2046,6 +2046,27 @@
       "city": "深谷市",
       "opening_date": "2026-11-11",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "コヒナ グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "ファッション"
+    },
+    {
+      "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-13",
+      "category": "ファッション"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子・カフェ"
     }
   ]
 }
