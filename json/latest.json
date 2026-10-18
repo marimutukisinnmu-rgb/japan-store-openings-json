@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-19T03:45:17+09:00",
+  "updatetime": "2026-10-19T04:43:14+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1054,6 +1054,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "タリーズコーヒー 小樽ポートスクエア店",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "opening_date": "2026-10-16",
+      "category": "カフェ"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -1965,13 +1972,6 @@
     },
     {
       "name": "整体×もみほぐし Refresh",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-31",
-      "category": "リラクゼーション"
-    },
-    {
-      "name": "整体×もみほぐし Refresh 東京ソラマチ店",
       "prefecture": "東京都",
       "city": "墨田区",
       "opening_date": "2026-10-31",
