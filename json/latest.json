@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-19T05:44:37+09:00",
+  "updatetime": "2026-10-19T08:40:54+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1250,6 +1250,13 @@
       "category": "回転寿司"
     },
     {
+      "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（菓子・食品）"
+    },
+    {
       "name": "ルルレモン 玉川高島屋S.C.",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -1367,6 +1374,20 @@
       "city": "静岡市駿河区",
       "opening_date": "2026-10-24",
       "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "アニメイトラシック福岡天神",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-24",
+      "category": "アニメ・キャラクターグッズ"
+    },
+    {
+      "name": "Princess Tart 二子玉川",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-24",
+      "category": "フルーツタルト・紅茶専門店"
     },
     {
       "name": "ワッツウィズ 八木城南ウォンツ店",
