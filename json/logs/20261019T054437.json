@@ -1,0 +1,52 @@
+{
+  "run_at": "2026-10-19T05:44:37+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "success",
+  "diagnostics": {
+    "before_blob_sha": "ac569e591d7fefcc5c67dbcbf29aebbc69ed8e77",
+    "update_file": {
+      "attempted_sha": "ac569e591d7fefcc5c67dbcbf29aebbc69ed8e77",
+      "status": "success",
+      "http_status": "not exposed by connector"
+    },
+    "new_blob_sha": "2bd8c48ccd17586d5884579003220522144c4626",
+    "commit_sha": "14e372a81803d2293da53bd0d44502e717263f12",
+    "conflict_409": "not reported"
+  },
+  "result": {
+    "previous_count": 301,
+    "final_count": 303,
+    "added": [
+      {
+        "name": "京都北白川 ラーメン魁力屋 東広島西条店",
+        "prefecture": "広島県",
+        "city": "東広島市",
+        "opening_date": "2026-10-19",
+        "category": "ラーメン"
+      },
+      {
+        "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-10-20",
+        "category": "キャラクターグッズ（リニューアル）"
+      }
+    ],
+    "note": "Entries sorted by opening_date. Prior run log 20261019T034517.json remains inconsistent with its later correction because a prior log-edit attempt was blocked; this run's log records the current state."
+  },
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000050.000185678.html",
+    "https://prtimes.jp/main/html/rd/p/000000409.000001117.html"
+  ],
+  "post_write_verification": {
+    "blob_sha": "2bd8c48ccd17586d5884579003220522144c4626",
+    "count": 303,
+    "updatetime": "2026-10-19T05:44:37+09:00",
+    "saijo_entry_present": true,
+    "tokyo_station_renovation_entry_present": true,
+    "success": true
+  }
+}
