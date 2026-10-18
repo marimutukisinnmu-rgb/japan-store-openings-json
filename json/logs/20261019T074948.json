@@ -60,6 +60,9 @@
     "path": "json/logs/20261019T074948.json",
     "prefetch_result": "404 NOT_FOUND (file did not exist)",
     "write_method": "create_file",
-    "write_result": "pending"
+    "write_result": "success",
+    "create_commit_sha": "c74d907a44c4442394abb358b1ade1b40bacca58",
+    "resulting_blob_sha": "ae047920b73716b8c95061a635ca6298c998c8ec",
+    "correction_note": "A subsequent update_file attempt to correct this log was blocked before tool execution; this blob contains the actual successful create_file result."
   }
 }
