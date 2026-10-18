@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-10-19T01:47:36+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "success",
+  "update_diagnostics": {
+    "old_blob_sha": "e384412d368261d8b56e804b889e265d42682be8",
+    "update_file_call": "blocked_before_execution_by_safety_check; no API request confirmed",
+    "new_blob_sha": "08cfc8688119a181310be6d1d47ce8fb4f85dc49",
+    "new_tree_sha": "898cf06e74b041839af28528afd19fe5d6f4bfe2",
+    "new_commit_sha": "10ec90705033286e2fcdd612393955247d865144",
+    "branch_head_before": "15517b3fe84edd7de41201f2aba13ac13ee02b0b",
+    "update_ref_first_attempt": "blocked_before_execution_by_safety_check",
+    "update_ref_retry": {
+      "force": false,
+      "expected_sha": "15517b3fe84edd7de41201f2aba13ac13ee02b0b",
+      "result": "success"
+    },
+    "http_status": "not provided by connector",
+    "verification": "refetched json/latest.json; blob SHA and both entries verified"
+  },
+  "previous_count": 295,
+  "new_count": 297,
+  "added": [
+    {
+      "name": "整体×もみほぐし Refresh",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-31",
+      "category": "リラクゼーション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    },
+    {
+      "name": "ふわりノ休足",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-06",
+      "category": "リラクゼーション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    }
+  ],
+  "sources_checked": [
+    "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+  ],
+  "notes": [
+    "Official announcement gives exact opening dates. No other newly confirmed exact-date candidates were added.",
+    "A and B processed independently."
+  ]
+}
