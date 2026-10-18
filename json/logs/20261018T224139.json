@@ -1,0 +1,59 @@
+{
+  "run_at": "2026-10-18T22:41:39+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "latest_json_update_not_completed",
+  "update_before_blob_sha": "76cedf5866391821446493d879b509527ac5ce8a",
+  "attempted_update_sha": null,
+  "update_attempt": "ツール呼び出しがOpenAI安全チェックで実行前にブロック。GitHub APIへの更新要求は確認できず。",
+  "error_http_status": null,
+  "new_blob_sha": null,
+  "commit_sha": null,
+  "source": "株式会社ワッツ公式サイト",
+  "verified_candidates": [
+    {
+      "name": "ワッツ 住吉マックスバリュ店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ",
+      "source_url": "https://www.watts-jp.com/shop/53869/"
+    },
+    {
+      "name": "ワッツザ・ビッグ岩見沢店",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
+      "opening_date": "2026-10-17",
+      "category": "100円ショップ",
+      "source_url": "https://www.watts-jp.com/shop/53855/"
+    },
+    {
+      "name": "ワッツウィズ草津ラ・ムー店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-10-17",
+      "category": "100円ショップ",
+      "source_url": "https://www.watts-jp.com/shop/54033/"
+    },
+    {
+      "name": "ワッツウィズはまやまラピタ店",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "opening_date": "2026-10-18",
+      "category": "100円ショップ",
+      "source_url": "https://www.watts-jp.com/shop/54017/"
+    },
+    {
+      "name": "ワッツウィズ 八木城南ウォンツ店",
+      "prefecture": "広島県",
+      "city": "広島市",
+      "opening_date": "2026-10-25",
+      "category": "100円ショップ",
+      "source_url": "https://www.watts-jp.com/store-news/ワッツウィズ-八木城南ウォンツ店"
+    }
+  ],
+  "existing_json_count": 287,
+  "note": "既存JSONには候補5件が未登録であることを確認。JSON本体は未変更。候補の追加と更新は次回以降に継続。"
+}
