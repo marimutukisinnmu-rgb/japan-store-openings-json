@@ -1,0 +1,82 @@
+{
+  "run_at": "2026-10-19T03:45:17+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "success",
+  "diagnostics": {
+    "before_blob_sha": "a4d4231ec45ea9deb13460f1cfc48a9a4d77cfd4",
+    "direct_update_file": "blocked by safety check before tool execution; API request not confirmed",
+    "new_blob_sha": "57015ec6ef2e6b8fce832d4f385ac02a2a10ab37",
+    "new_tree_sha": "67921486d1e6597ed75de75e7754cb413eac9c5e",
+    "commit_sha": "34db8f298b2820229fdc3834141943f6a44d27c2",
+    "update_ref": {
+      "expected_head": "a0d8ad60a57da4ada6958e5b92095416286a7f88",
+      "passed_commit_sha": "34db8f298b2820229fdc3834141943f6a44d27c2",
+      "force": false,
+      "success": true
+    },
+    "http_status": "not exposed by connector",
+    "conflict_409": "not reported"
+  },
+  "result": {
+    "previous_count": 298,
+    "new_count": 303,
+    "added": [
+      {
+        "name": "PRONTO 日本橋三井タワー店",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-10-19",
+        "category": "カフェ・バー"
+      },
+      {
+        "name": "L’atelier de Antique -Chocolat & Gelato-",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-10-28",
+        "category": "チョコレート・ジェラート・ケーキ・スイーツ"
+      },
+      {
+        "name": "flour+water 綱島店",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-10-28",
+        "category": "ベーカリー・ビストロ"
+      },
+      {
+        "name": "輪餅屋 綱島店",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-10-28",
+        "category": "ベーグル専門店"
+      },
+      {
+        "name": "松のや新綱島店",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-10-28",
+        "category": "とんかつ専門店"
+      },
+      {
+        "name": "中華食堂 日高屋 新綱島MICCA店",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-10-28",
+        "category": "中華食堂"
+      }
+    ]
+  },
+  "sources": [
+    "https://www.pronto.co.jp/company/",
+    "https://www.tokyu.co.jp/company/news/detail/62046.html",
+    "https://www.tokyu.co.jp/company/news/pdf/20260925-micca-t.pdf"
+  ],
+  "post_write_verification": {
+    "blob_sha": "57015ec6ef2e6b8fce832d4f385ac02a2a10ab37",
+    "count": 303,
+    "updatetime": "2026-10-19T03:45:17+09:00",
+    "success": true
+  }
+}
