@@ -1,0 +1,26 @@
+{
+  "run_at": "2026-10-18T19:42:42+09:00",
+  "target": "json/latest.json",
+  "before_blob_sha": "3883a0dfb02351ff4798ed4831aa1d4d03b6140d",
+  "before_updated_at": "2026-10-16T22:39:33+09:00",
+  "before_item_count": 265,
+  "candidates": [
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ",
+      "source_title": "静岡・駿府の工房 匠宿 公式発表"
+    }
+  ],
+  "latest_update": {
+    "result": "blocked_by_safety_check",
+    "stage": "fetch_file + update_file call blocked before execution",
+    "request_sha": null,
+    "http_status": null,
+    "after_blob_sha": null,
+    "commit_sha": null
+  },
+  "log_creation_attempt": "retry after initial block"
+}
