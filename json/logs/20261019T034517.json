@@ -32,13 +32,6 @@
         "category": "カフェ・バー"
       },
       {
-        "name": "L’atelier de Antique -Chocolat & Gelato-",
-        "prefecture": "神奈川県",
-        "city": "横浜市港北区",
-        "opening_date": "2026-10-28",
-        "category": "チョコレート・ジェラート・ケーキ・スイーツ"
-      },
-      {
         "name": "flour+water 綱島店",
         "prefecture": "神奈川県",
         "city": "横浜市港北区",
@@ -66,7 +59,8 @@
         "opening_date": "2026-10-28",
         "category": "中華食堂"
       }
-    ]
+    ],
+    "note": "L’atelier de Antique -Chocolat & Gelato- was already present in the pre-run JSON and was not newly added."
   },
   "sources": [
     "https://www.pronto.co.jp/company/",
