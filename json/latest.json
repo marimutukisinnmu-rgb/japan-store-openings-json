@@ -1,8 +1,22 @@
 {
   "period": "2026-09-18/2026-11-11",
   "scope": "Japan",
-  "updatetime": "2026-10-16T22:39:33+09:00",
+  "updatetime": "2026-10-18T21:47:31+09:00",
   "items": [
+    {
+      "name": "松のや 本八幡北口店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-09-18",
+      "category": "とんかつ・定食"
+    },
+    {
+      "name": "すし松 千川店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-09-24",
+      "category": "寿司"
+    },
     {
       "name": "ローソン Ｓ四日市市総合会館",
       "prefecture": "三重県",
@@ -23,6 +37,20 @@
       "city": "諏訪郡富士見町",
       "opening_date": "2026-09-25",
       "category": "コンビニ"
+    },
+    {
+      "name": "すし松 八千代店",
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "opening_date": "2026-09-29",
+      "category": "寿司"
+    },
+    {
+      "name": "松屋 狭山台店（松のや併設）",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-09-30",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
@@ -81,6 +109,20 @@
       "category": "コンビニ"
     },
     {
+      "name": "松屋 下関長府店（松のや併設）",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "opening_date": "2026-10-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 松阪鎌田町店（松のや併設）",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "opening_date": "2026-10-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "SAKImoto bakery and more 葛西店",
       "prefecture": "東京都",
       "city": "江戸川区",
@@ -121,6 +163,13 @@
       "city": "小豆郡土庄町",
       "opening_date": "2026-10-02",
       "category": "コンビニ"
+    },
+    {
+      "name": "松屋 沖縄比屋根店（松のや併設）",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-10-02",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "Bake A Holic",
@@ -711,6 +760,13 @@
       "category": "フォトスタジオ"
     },
     {
+      "name": "松屋 宇治弐番店（松のや併設）",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-10-10",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "新時代 横浜鶴屋町店",
       "prefecture": "神奈川県",
       "city": "横浜市神奈川区",
@@ -865,6 +921,13 @@
       "category": "うどん"
     },
     {
+      "name": "松屋 八代店（松のや併設）",
+      "prefecture": "熊本県",
+      "city": "八代市",
+      "opening_date": "2026-10-15",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "and wander 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -949,6 +1012,13 @@
       "category": "シューズ"
     },
     {
+      "name": "トロ壱 上野店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-10-16",
+      "category": "居酒屋・海鮮"
+    },
+    {
       "name": "ローソン 葛飾東堀切二丁目",
       "prefecture": "東京都",
       "city": "葛飾区",
@@ -1005,6 +1075,27 @@
       "category": "カフェ・喫茶店"
     },
     {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-19",
+      "category": "洋菓子・パティスリー"
+    },
+    {
+      "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-10-19",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "コメダ珈琲店 板橋仲宿店",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "opening_date": "2026-10-19",
+      "category": "カフェ・喫茶店"
+    },
+    {
       "name": "デイリーテーブル 紀ノ国屋 西荻窪駅店（リニューアル）",
       "prefecture": "東京都",
       "city": "杉並区",
@@ -1017,13 +1108,6 @@
       "city": "杉並区",
       "opening_date": "2026-10-19",
       "category": "カフェ"
-    },
-    {
-      "name": "L’ATELIER L’ARCHESTE GINZA",
-      "prefecture": "東京都",
-      "city": "中央区",
-      "opening_date": "2026-10-19",
-      "category": "洋菓子・パティスリー"
     },
     {
       "name": "chocoZAP 釧路緑ヶ岡",
@@ -1073,6 +1157,20 @@
       "city": "倉敷市",
       "opening_date": "2026-10-20",
       "category": "オーダースーツ"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-20",
+      "category": "ファストフード"
+    },
+    {
+      "name": "松屋 千葉仁戸名店（松のや併設）",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "opening_date": "2026-10-20",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "サンマルクカフェ＆茶 両国東口店",
@@ -1180,6 +1278,13 @@
       "category": "ハンバーガー"
     },
     {
+      "name": "豚山 柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-10-23",
+      "category": "ラーメン"
+    },
+    {
       "name": "保険見直し本舗 ボーノ相模大野店",
       "prefecture": "神奈川県",
       "city": "相模原市南区",
@@ -1199,6 +1304,13 @@
       "city": "神戸市北区",
       "opening_date": "2026-10-24",
       "category": "スポーツ・アウトドア"
+    },
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ"
     },
     {
       "name": "chocoZAP せんげん台西一丁目",
@@ -1248,6 +1360,13 @@
       "city": "高岡市",
       "opening_date": "2026-10-27",
       "category": "ファミリーレストラン"
+    },
+    {
+      "name": "松屋 久喜菖蒲店（松のや併設）",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "opening_date": "2026-10-27",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "FaSS 新綱島店",
@@ -1726,6 +1845,13 @@
       "category": "レストラン"
     },
     {
+      "name": "松屋 可児店（松のや併設）",
+      "prefecture": "岐阜県",
+      "city": "可児市",
+      "opening_date": "2026-10-30",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "chocoZAP 宇都宮不動前",
       "prefecture": "栃木県",
       "city": "宇都宮市",
@@ -1782,6 +1908,20 @@
       "category": "リラクゼーション"
     },
     {
+      "name": "キャンドゥセレクト Aコープ雄夢店",
+      "prefecture": "北海道",
+      "city": "紋別郡雄武町",
+      "opening_date": "2026-11-01",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "松屋 旭川永山店（松のや併設）",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-01",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -1789,11 +1929,25 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "松屋 大川店（松のや併設）",
+      "prefecture": "福岡県",
+      "city": "大川市",
+      "opening_date": "2026-11-05",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
       "opening_date": "2026-11-07",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "松屋 大正駅前店",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "opening_date": "2026-11-07",
+      "category": "牛丼・定食"
     },
     {
       "name": "chocoZAP さいたま下落合",
