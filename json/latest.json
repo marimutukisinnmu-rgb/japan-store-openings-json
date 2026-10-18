@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-11",
   "scope": "Japan",
-  "updatetime": "2026-10-18T21:47:31+09:00",
+  "updatetime": "2026-10-18T22:41:39+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1047,6 +1047,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "ワッツ 住吉マックスバリュ店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -1061,6 +1068,20 @@
       "category": "リユースショップ（リニューアル）"
     },
     {
+      "name": "ワッツザ・ビッグ岩見沢店",
+      "prefecture": "北海道",
+      "city": "岩見沢市",
+      "opening_date": "2026-10-17",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ草津ラ・ムー店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-10-17",
+      "category": "100円ショップ"
+    },
+    {
       "name": "バイセル プリコ西明石店",
       "prefecture": "兵庫県",
       "city": "明石市",
@@ -1073,6 +1094,13 @@
       "city": "新宿区",
       "opening_date": "2026-10-18",
       "category": "カフェ・喫茶店"
+    },
+    {
+      "name": "ワッツウィズはまやまラピタ店",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "opening_date": "2026-10-18",
+      "category": "100円ショップ"
     },
     {
       "name": "L’ATELIER L’ARCHESTE GINZA",
@@ -1311,6 +1339,13 @@
       "city": "静岡市駿河区",
       "opening_date": "2026-10-24",
       "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "ワッツウィズ 八木城南ウォンツ店",
+      "prefecture": "広島県",
+      "city": "広島市",
+      "opening_date": "2026-10-25",
+      "category": "100円ショップ"
     },
     {
       "name": "chocoZAP せんげん台西一丁目",
