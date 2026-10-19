@@ -1,0 +1,12 @@
+{
+  "run_at": "2026-10-20T02:43:56+09:00",
+  "target": "json/latest.json",
+  "status": "updated_and_verified",
+  "old_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+  "new_blob_sha": "bdda26325be0fa3c3222b3937793b95802629e9b",
+  "commit_sha": "2d7635bb3ebec7877fe56e226eb402969b1e82da",
+  "updatetime": "2026-10-20T02:43:56+09:00",
+  "item_count": 335,
+  "added_count": 22,
+  "verification": "latest.json re-fetched; SHA and count confirmed. Initial contents-API update attempt was blocked before API request; sequential Git Data API update succeeded."
+}
