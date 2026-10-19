@@ -1,0 +1,26 @@
+{
+  "run_at": "2026-10-20T06:46:46+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "fetch_status": "success",
+  "prewrite_blob_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "sha_passed_to_update": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "update_status": "blocked",
+  "error_type": "OpenAI safety check",
+  "blocked_stage": "after SHA retrieval, at update_file request",
+  "http_status": "unavailable; no HTTP response observed",
+  "conflict_409": "not observed",
+  "retry": "not retried because the failure was a safety-check block, not a SHA conflict",
+  "confirmed_new_item": {
+    "name": "キイロイトリ銭湯",
+    "prefecture": "東京都",
+    "city": "千代田区",
+    "opening_date": "2026-10-30",
+    "category": "期間限定ポップアップ（キャラクターグッズ）",
+    "source": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html"
+  },
+  "latest_json_updated": false,
+  "note": "The new item was verified from the San-X announcement and was not present in the fetched latest.json. JSON update did not complete."
+}
