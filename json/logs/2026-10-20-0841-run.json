@@ -1,0 +1,23 @@
+{
+  "run_at": "2026-10-20T08:41:50+09:00",
+  "target": "json/latest.json",
+  "target_blob_sha_before": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "update_attempted": true,
+  "update_passed_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "update_result": "blocked_by_openai_safety_check",
+  "blocked_stage": "after SHA fetch, at update_file request",
+  "http_status": null,
+  "conflict_retry": false,
+  "update_confirmed": false,
+  "candidate_not_reflected": {
+    "name": "OWNDAYS 鹿児島天文館店",
+    "prefecture": "鹿児島県",
+    "city": "鹿児島市",
+    "opening_date": "2026-10-23",
+    "category": "眼鏡",
+    "source": "https://www.owndays.com/jp/en/information/1095",
+    "source_published": "2026-10-16"
+  },
+  "source_note": "Official OWNDAYS announcement says the store opens 2026-10-23; no exact-name match found in latest.json.",
+  "next_run": "continue"
+}
