@@ -1,0 +1,30 @@
+{
+  "run_at": "2026-10-20T05:47:33+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": {
+    "latest_fetch": "success",
+    "latest_blob_sha_before": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "prior_updatetime": "2026-10-20T02:43:56+09:00",
+    "item_count": 333,
+    "future_items_from_2026_10_20": 168,
+    "research": "新規の開店情報を検索・照合。パンとエスプレッソと匠宿（2026-10-24）は公式発表を確認したが、既存JSONに登録済み。今回、新規追加が確実な情報は確認できなかった。",
+    "update_attempt": {
+      "operation": "update_file",
+      "sha_passed": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+      "result": "blocked",
+      "stage": "SHA取得後、update_file要求時",
+      "error_type": "OpenAI safety check",
+      "http_status": null,
+      "commit_sha": null,
+      "updated_blob_sha": null
+    },
+    "retry": "未実施。安全チェックによるブロックであり、SHA競合を示すエラーではない。",
+    "log_write": "このログ自体の保存を試行中"
+  },
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000198.000088159.html"
+  ]
+}
