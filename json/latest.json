@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-19T08:40:54+09:00",
+  "updatetime": "2026-10-19T09:44:59+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1012,6 +1012,13 @@
       "category": "シューズ"
     },
     {
+      "name": "タリーズコーヒー 小樽ポートスクエア店",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "opening_date": "2026-10-16",
+      "category": "カフェ"
+    },
+    {
       "name": "トロ壱 上野店",
       "prefecture": "東京都",
       "city": "台東区",
@@ -1052,13 +1059,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "タリーズコーヒー 小樽ポートスクエア店",
-      "prefecture": "北海道",
-      "city": "小樽市",
-      "opening_date": "2026-10-16",
-      "category": "カフェ"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1117,6 +1117,13 @@
       "category": "洋菓子・パティスリー"
     },
     {
+      "name": "PRONTO 日本橋三井タワー店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-19",
+      "category": "カフェ・バー"
+    },
+    {
       "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
       "prefecture": "神奈川県",
       "city": "川崎市多摩区",
@@ -1143,13 +1150,6 @@
       "city": "杉並区",
       "opening_date": "2026-10-19",
       "category": "カフェ"
-    },
-    {
-      "name": "PRONTO 日本橋三井タワー店",
-      "prefecture": "東京都",
-      "city": "中央区",
-      "opening_date": "2026-10-19",
-      "category": "カフェ・バー"
     },
     {
       "name": "京都北白川 ラーメン魁力屋 東広島西条店",
@@ -1215,6 +1215,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-20",
+      "category": "キャラクターグッズ（リニューアル）"
+    },
+    {
       "name": "松屋 千葉仁戸名店（松のや併設）",
       "prefecture": "千葉県",
       "city": "千葉市",
@@ -1222,11 +1229,11 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
+      "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
       "prefecture": "東京都",
       "city": "千代田区",
-      "opening_date": "2026-10-20",
-      "category": "キャラクターグッズ（リニューアル）"
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（菓子・食品）"
     },
     {
       "name": "サンマルクカフェ＆茶 両国東口店",
@@ -1248,13 +1255,6 @@
       "city": "名古屋市天白区",
       "opening_date": "2026-10-21",
       "category": "回転寿司"
-    },
-    {
-      "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-21",
-      "category": "期間限定ポップアップ（菓子・食品）"
     },
     {
       "name": "ルルレモン 玉川高島屋S.C.",
@@ -1369,11 +1369,11 @@
       "category": "スポーツ・アウトドア"
     },
     {
-      "name": "パンとエスプレッソと匠宿",
-      "prefecture": "静岡県",
-      "city": "静岡市駿河区",
+      "name": "Princess Tart 二子玉川",
+      "prefecture": "東京都",
+      "city": "世田谷区",
       "opening_date": "2026-10-24",
-      "category": "ベーカリー・カフェ"
+      "category": "フルーツタルト・紅茶専門店"
     },
     {
       "name": "アニメイトラシック福岡天神",
@@ -1383,11 +1383,18 @@
       "category": "アニメ・キャラクターグッズ"
     },
     {
-      "name": "Princess Tart 二子玉川",
-      "prefecture": "東京都",
-      "city": "世田谷区",
+      "name": "キャンドゥ ハックドラッグ戸塚店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
       "opening_date": "2026-10-24",
-      "category": "フルーツタルト・紅茶専門店"
+      "category": "100円ショップ"
+    },
+    {
+      "name": "パンとエスプレッソと匠宿",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-10-24",
+      "category": "ベーカリー・カフェ"
     },
     {
       "name": "ワッツウィズ 八木城南ウォンツ店",
@@ -1458,6 +1465,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ヘアカット・スタイリング専門店"
+    },
+    {
+      "name": "flour+water 綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "ベーカリー・ビストロ"
     },
     {
       "name": "Italian TOSCANA 新綱島店",
@@ -1607,13 +1621,6 @@
       "category": "スパゲッティー専門店"
     },
     {
-      "name": "flour+water 綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "ベーカリー・ビストロ"
-    },
-    {
       "name": "輪餅屋 綱島店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1675,6 +1682,27 @@
       "city": "大阪市平野区",
       "opening_date": "2026-10-29",
       "category": "ディスカウントスーパー"
+    },
+    {
+      "name": "キャンドゥ むつ小川店",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ 遠野中央店",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ 中の島1条店",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
     },
     {
       "name": "ケーズデンキ 山口店",
@@ -1936,6 +1964,13 @@
       "category": "ファッション・カジュアルウェア"
     },
     {
+      "name": "キャンドゥ イオン札幌麻生店（リニューアル）",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "opening_date": "2026-10-30",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
       "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
       "prefecture": "東京都",
       "city": "江東区",
@@ -1997,6 +2032,13 @@
       "city": "矢板市",
       "opening_date": "2026-10-31",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "キャンドゥ 酒田光ケ丘店",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "opening_date": "2026-10-31",
+      "category": "100円ショップ"
     },
     {
       "name": "しゃぶ葉 イオンモール福岡伊都店",
