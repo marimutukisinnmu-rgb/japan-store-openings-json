@@ -1,0 +1,39 @@
+{
+  "run_at": "2026-10-19T15:51:37+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "update_blocked_before_execution",
+  "last_verified_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+  "update_request_sha": "not_sent",
+  "safety_block_stage": "functions.exec call blocked before internal GitHub read/update operations executed",
+  "http_status": null,
+  "new_blob_sha": null,
+  "commit_sha": null,
+  "candidates_not_added": [
+    {
+      "name": "御座候 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "和菓子"
+    },
+    {
+      "name": "治一郎 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "PLUSTAアスティ静岡（リニューアル）",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "駅売店（リニューアル）"
+    }
+  ],
+  "source": "JR東海静岡開発株式会社の2026-10-19発表",
+  "note": "OWNDAYS is scheduled for 2027-02 and falls outside the current JSON period."
+}
