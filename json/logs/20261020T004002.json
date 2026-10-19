@@ -1,0 +1,158 @@
+{
+  "run_at": "2026-10-20T00:40:02+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "status": "latest_json_update_blocked",
+  "before_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+  "sha_passed_to_update_file": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+  "write_result": "blocked_by_openai_safety_check_before_github_api_request",
+  "http_status": null,
+  "after_blob_sha": null,
+  "commit_sha": null,
+  "research_sources": [
+    "https://www.ecute.jp/omiya/news",
+    "https://bono-sagamiono.jp/renewal2026/",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://www.royal-holdings.co.jp/shop/2026/",
+    "https://chocozap.jp/studios/282",
+    "https://chocozap.jp/studios/222",
+    "https://www.arclandservice.co.jp/"
+  ],
+  "new_candidates": [
+    {
+      "name": "エキナカブラン",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー・惣菜"
+    },
+    {
+      "name": "デメララベーカリー エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "木村屋總本店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー（リニューアル）"
+    },
+    {
+      "name": "おむすび処 ほんのり屋 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "おむすび（リニューアル）"
+    },
+    {
+      "name": "アール・エフ・ワン エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-05",
+      "category": "惣菜（リニューアル）"
+    },
+    {
+      "name": "立鮨 銀座おのでら エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "寿司"
+    },
+    {
+      "name": "ごちとん エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "豚汁定食"
+    },
+    {
+      "name": "仙臺たんや利久 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "牛たん（リニューアル）"
+    },
+    {
+      "name": "かにチャーハンの店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "炒飯（リニューアル）"
+    },
+    {
+      "name": "御座候 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "和菓子"
+    },
+    {
+      "name": "治一郎 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "洋菓子・バウムクーヘン"
+    },
+    {
+      "name": "PLUSTAアスティ静岡",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "土産・物販（リニューアル）"
+    },
+    {
+      "name": "chocoZAP 平野宮町",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "chocoZAP 阪神芦屋",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "かつや 中野北口店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-10-21",
+      "category": "とんかつ・定食"
+    },
+    {
+      "name": "ローソン 白楽駅前",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-10-30",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 隼人駅東口",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ガチャガチャの森 ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "カプセルトイ"
+    },
+    {
+      "name": "Zoff ボーノ相模大野店（移転リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡・サングラス（移転リニューアル）"
+    }
+  ]
+}
