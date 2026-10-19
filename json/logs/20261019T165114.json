@@ -1,0 +1,107 @@
+{
+  "run_at": "2026-10-19T16:51:14+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+    "update_request_sha": null,
+    "result": "update_blocked_before_inner_GitHub_operations",
+    "http_status": null,
+    "updated_blob_sha": null,
+    "commit_sha": null,
+    "known_count_before_run": 313,
+    "new_candidates": [
+      {
+        "name": "エキナカブラン",
+        "opening_date": "2026-10-21",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "ベーカリー"
+      },
+      {
+        "name": "デメララベーカリー エキュート大宮店",
+        "opening_date": "2026-10-21",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "スコーン・焼き菓子"
+      },
+      {
+        "name": "木村屋總本店 エキュート大宮店",
+        "opening_date": "2026-10-21",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "ベーカリー（リニューアル）"
+      },
+      {
+        "name": "おむすび処 ほんのり屋 エキュート大宮店",
+        "opening_date": "2026-10-21",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "おむすび・和食（リニューアル）"
+      },
+      {
+        "name": "アール・エフ・ワン エキュート大宮店",
+        "opening_date": "2026-11-05",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "惣菜・サラダ（リニューアル）"
+      },
+      {
+        "name": "立鮨 銀座おのでら エキュート大宮店",
+        "opening_date": "2026-11-13",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "寿司"
+      },
+      {
+        "name": "ごちとん エキュート大宮店",
+        "opening_date": "2026-11-13",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "豚汁専門店"
+      },
+      {
+        "name": "仙臺たんや利久 エキュート大宮店",
+        "opening_date": "2026-11-13",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "牛たん（リニューアル）"
+      },
+      {
+        "name": "かにチャーハンの店 エキュート大宮店",
+        "opening_date": "2026-11-13",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "category": "チャーハン（リニューアル）"
+      },
+      {
+        "name": "御座候 アスティ静岡店",
+        "opening_date": "2026-11-18",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "category": "和菓子"
+      },
+      {
+        "name": "治一郎 アスティ静岡店",
+        "opening_date": "2026-11-18",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "category": "洋菓子・バウムクーヘン"
+      },
+      {
+        "name": "PLUSTAアスティ静岡",
+        "opening_date": "2026-11-18",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "category": "土産・物販（リニューアル）"
+      }
+    ],
+    "source_urls": [
+      "https://prtimes.jp/main/html/rd/p/000001262.000082978.html",
+      "https://prtimes.jp/main/html/rd/p/000001268.000082978.html",
+      "https://prtimes.jp/main/html/rd/p/000000026.000149247.html"
+    ]
+  }
+}
