@@ -1,0 +1,45 @@
+{
+  "run_at": "2026-10-19T11:39:49+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_update": {
+    "before_blob_sha": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "request_sha": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "first_attempt": "blocked_before_tool_execution_by_OpenAI_safety_checks",
+    "sha_refetched_before_retry": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "retry_request_sha": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "retry_result": "blocked_before_tool_execution_by_OpenAI_safety_checks",
+    "updated_blob_sha": null,
+    "commit_sha": null,
+    "http_status": null
+  },
+  "proposed_items": [
+    {
+      "name": "WIND AND SEA SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション",
+      "source": "https://shibuya.parco.jp/new-renewal/detail/?id=8924"
+    },
+    {
+      "name": "chocoZAP 平野宮町（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）",
+      "source": "https://chocozap.jp/studios/282"
+    },
+    {
+      "name": "chocoZAP 阪神芦屋（リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）",
+      "source": "https://chocozap.jp/studios/222"
+    }
+  ],
+  "status": "latest.json was not changed; the three candidates remain uncommitted. This log records the failed write attempts."
+}
