@@ -10,7 +10,7 @@
     "prior_updatetime": "2026-10-20T02:43:56+09:00",
     "item_count": 333,
     "future_items_from_2026_10_20": 168,
-    "research": "新規の開店情報を検索・照合。パンとエスプレッソと匠宿（2026-10-24）は公式発表を確認したが、既存JSONに登録済み。今回、新規追加が確実な情報は確認できなかった。",
+    "research": "新規開店情報を検索・照合。パンとエスプレッソと匠宿（2026-10-24）は既存JSONに登録済み。追加確認で、キイロイトリ銭湯（東京都千代田区、2026-10-30〜2026-11-12の期間限定ポップアップ）が公式発表で確認でき、既存JSONには未登録と判明。latest.jsonへの追加更新は安全チェックでブロックされたため未反映。",
     "update_attempt": {
       "operation": "update_file",
       "sha_passed": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
@@ -25,6 +25,8 @@
     "log_write": "このログ自体の保存を試行中"
   },
   "sources": [
-    "https://prtimes.jp/main/html/rd/p/000000198.000088159.html"
-  ]
+    "https://prtimes.jp/main/html/rd/p/000000198.000088159.html",
+    "https://prtimes.jp/main/html/rd/p/000000956.000018631.html"
+  ],
+  "correction": "初回ログ作成後の追加調査で未登録の確定候補を発見。先行ログの調査結果をこの内容で訂正。"
 }
