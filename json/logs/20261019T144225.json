@@ -1,0 +1,32 @@
+{
+  "executed_at": "2026-10-19T14:42:25+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "store": "すき家 118号常陸大宮泉店",
+      "opening_date": "2026-10-22",
+      "prefecture": "茨城県",
+      "city": "常陸大宮市",
+      "category": "牛丼",
+      "source": "https://maps.sukiya.jp/jp/detail/669.html",
+      "result": "公式店舗情報で開店日・住所を確認し、既存JSONに未登録であることを確認"
+    }
+  ],
+  "update": {
+    "result": "success",
+    "before_blob_sha": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "request_sha": "48d19747debd0ceea8429dbb1e31ccf78c8e5344",
+    "after_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+    "commit_sha": "35d896545851f7285385dedf58d5669620d97c85",
+    "item_count": 313,
+    "updatetime": "2026-10-19T14:42:25+09:00"
+  },
+  "notes": [
+    "GitHubのblob SHAを記録。SHA-256ではない。",
+    "今回確認した追加候補のうち、すき家 118号常陸大宮泉店のみ更新対象として追加。",
+    "他の候補は今回、十分な一次情報を確認できなかったため追加していない。"
+  ]
+}
