@@ -1,0 +1,124 @@
+{
+  "task": "全国 開店予定JSON",
+  "executed_at": "2026-10-19T17:48:44+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "update_diagnostic": {
+    "pre_update_blob_sha": "128e6bf4e09133a3a727b292860d1643c1e905d8",
+    "sha_fetch_status": "success in prior read-only fetch",
+    "sha_passed_to_update_request": null,
+    "update_request_sent": false,
+    "result": "blocked_by_safety_check_before_internal_fetch_update_execution",
+    "http_status": null,
+    "after_blob_sha": null,
+    "commit_sha": null
+  },
+  "candidates_not_written": [
+    {
+      "name": "エキナカブラン",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "デメララベーカリー",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー・ペイストリー"
+    },
+    {
+      "name": "木村屋總本店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー（リニューアル）"
+    },
+    {
+      "name": "おむすび処 ほんのり屋 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "おむすび（リニューアル）"
+    },
+    {
+      "name": "chocoZAP 平野宮町",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "chocoZAP 阪神芦屋",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "アール・エフ・ワン エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-05",
+      "category": "惣菜（リニューアル）"
+    },
+    {
+      "name": "立鮨 銀座おのでら",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "寿司"
+    },
+    {
+      "name": "ごちとん",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "豚汁・定食"
+    },
+    {
+      "name": "仙臺たんや利久 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "牛たん（リニューアル）"
+    },
+    {
+      "name": "かにチャーハンの店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "チャーハン（リニューアル）"
+    },
+    {
+      "name": "御座候 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "和菓子・回転焼き"
+    },
+    {
+      "name": "治一郎 アスティ静岡店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "PLUSTAアスティ静岡",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "駅売店・土産（リニューアル）"
+    }
+  ],
+  "sources": [
+    "https://www.ecute.jp/news",
+    "https://prtimes.jp/main/html/rd/p/000000026.000149247.html",
+    "https://chocozap.jp/studios/282",
+    "https://chocozap.jp/studios/222"
+  ],
+  "note": "latest.json was not modified. Candidate records remain pending. Existing item すき家 118号常陸大宮泉店 was already present in latest.json."
+}
