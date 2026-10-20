@@ -1,0 +1,11 @@
+{
+  "run_at": "2026-10-20T12:43:42+09:00",
+  "task": "store_openings_scan",
+  "target": "json/latest.json",
+  "target_blob_sha_before": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "item_count": 333,
+  "latest_updatetime": "2026-10-20T02:43:56+09:00",
+  "result": "no_change",
+  "reason": "今回確認した公式発表の候補は既存JSONに登録済み。未登録と確定できる新規項目は確認できなかった。全国全件を網羅したとの意味ではない。",
+  "update_attempted": false
+}
