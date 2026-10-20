@@ -1,0 +1,28 @@
+{
+  "run_at": "2026-10-20T10:42:47+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "fetch": {
+    "success": true,
+    "blob_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "updatetime": "2026-10-20T02:43:56+09:00",
+    "item_count": 333,
+    "period": "2026-09-18/2026-11-28"
+  },
+  "research": [
+    {
+      "name": "スターバックスコーヒー ボーノ相模大野店",
+      "opening_date": "2026-10-23",
+      "status": "既存JSONに登録済み",
+      "source": "https://store.starbucks.co.jp/detail-4636/"
+    }
+  ],
+  "result": {
+    "verified_new_items": [],
+    "note": "今回の調査で確認できた公式情報の候補は既存JSONに登録済み、または新規追加を確定できる情報なし。latest.jsonは内容変更せず、updatetimeも変更しない。",
+    "latest_json_write": "not_attempted_no_verified_changes",
+    "update_request_sha": null
+  }
+}
