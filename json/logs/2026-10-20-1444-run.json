@@ -1,0 +1,76 @@
+{
+  "run_at": "2026-10-20T14:44:47+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "latest.json update blocked; run log records confirmed candidates and diagnostic",
+  "latest_json": {
+    "fetch": "success",
+    "before_blob_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "updated_at_before": "2026-10-20T02:43:56+09:00",
+    "item_count_before": 333
+  },
+  "candidates": [
+    {
+      "name": "ジンギスカン羊はち 学芸大学店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-10-20",
+      "category": "ジンギスカン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000497.000034691.html"
+    },
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン・レストラン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000027.000175373.html"
+    },
+    {
+      "name": "OWNDAYS 鹿児島天文館店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡",
+      "source": "https://www.owndays.com/jp/ja/information/1095"
+    },
+    {
+      "name": "OWNDAYS ヴェルサウォーク西尾店",
+      "prefecture": "愛知県",
+      "city": "西尾市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡",
+      "source": "https://www.owndays.com/jp/ja/information/1094"
+    },
+    {
+      "name": "廻転鮨 銀座おのでら ハレザ池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "回転寿司",
+      "source": "https://prtimes.jp/main/html/rd/p/000000092.000118864.html"
+    },
+    {
+      "name": "キイロイトリ銭湯",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（キャラクターグッズ）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html"
+    }
+  ],
+  "write_diagnostic": {
+    "stage": "update_file tool invocation",
+    "result": "blocked_before_github_request_confirmed",
+    "sha_prepared_for_update": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "sha_actually_sent": null,
+    "error_type": "OpenAI safety check",
+    "http_status": null,
+    "conflict_409_confirmed": false,
+    "retry": "not attempted; no GitHub conflict response was received",
+    "after_fetch_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "latest_json_changed": false
+  }
+}
