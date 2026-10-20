@@ -3,9 +3,40 @@
   "task": "store_openings_scan",
   "target": "json/latest.json",
   "target_blob_sha_before": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
-  "item_count": 333,
-  "latest_updatetime": "2026-10-20T02:43:56+09:00",
-  "result": "no_change",
-  "reason": "今回確認した公式発表の候補は既存JSONに登録済み。未登録と確定できる新規項目は確認できなかった。全国全件を網羅したとの意味ではない。",
-  "update_attempted": false
+  "item_count_before": 333,
+  "latest_updatetime_before": "2026-10-20T02:43:56+09:00",
+  "verified_unregistered_candidates": [
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン・レストラン"
+    },
+    {
+      "name": "OWNDAYS 鹿児島天文館店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡"
+    },
+    {
+      "name": "キイロイトリ銭湯",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（キャラクターグッズ）"
+    }
+  ],
+  "sources_verified": true,
+  "update_attempted": true,
+  "update_result": "blocked",
+  "block_stage": "update_file tool call after the current blob SHA had been fetched and the proposed content prepared",
+  "error_type": "OpenAI safety check",
+  "http_status": null,
+  "sha_passed_to_github": "not confirmed; tool call was blocked before GitHub request was confirmed",
+  "latest_json_updated": false,
+  "new_blob_sha": null,
+  "commit_sha": null,
+  "note": "No bypass or alternate write path was used. The task continues on the next run."
 }
