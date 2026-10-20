@@ -1,0 +1,36 @@
+{
+  "run_at": "2026-10-20T09:39:52+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_blob_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "update_attempt": {
+    "intended_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+    "result": "blocked_by_OpenAI_safety_check",
+    "stage": "mcp__GitHub__update_file tool invocation; no GitHub HTTP response available",
+    "http_status": null,
+    "retry": "not attempted; no 409/conflict response received",
+    "updated_blob_sha": null,
+    "commit_sha": null
+  },
+  "verified_candidates_not_added": [
+    {
+      "name": "PISOLA熊本嘉島店",
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "opening_date": "2026-10-21",
+      "category": "イタリアン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000027.000175373.html"
+    },
+    {
+      "name": "スナック水紋",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "opening_date": "2026-10-21",
+      "category": "飲食店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000009.000120047.html"
+    }
+  ],
+  "note": "latest.json remains unchanged because the update tool invocation was blocked by safety checks. These candidates are not represented as successfully added."
+}
