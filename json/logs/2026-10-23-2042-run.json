@@ -1,0 +1,84 @@
+{
+  "execution_time": "2026-10-23T20:42:24+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "ef1a020c6ba61def6d919530dff501ad9d47dcd5",
+    "sha_passed_to_update_request": "ef1a020c6ba61def6d919530dff501ad9d47dcd5",
+    "write_status": "success",
+    "http_status": "not returned by connector",
+    "conflict_or_409": "no conflict indicated",
+    "retry": "not needed",
+    "after_blob_sha": "3507c11b21c5a4e9ebabca55d7aeb6c46e461152",
+    "commit_sha": "85619d0366076986a6f74bab7c359bde6c2388d3",
+    "updatetime": "2026-10-23T20:42:24+09:00",
+    "item_count_before": 338,
+    "item_count_after": 346
+  },
+  "added_items": [
+    {
+      "name": "バイセル えきマチ1丁目行橋店",
+      "prefecture": "福岡県",
+      "city": "行橋市",
+      "opening_date": "2026-10-15",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バイセル プレンティ西神中央店",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "opening_date": "2026-10-16",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バイセル シャミネ鳥取店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-10-23",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バイセル イオンモール奈良登美ヶ丘店",
+      "prefecture": "奈良県",
+      "city": "生駒市",
+      "opening_date": "2026-10-30",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バイセル 伊勢崎連取店",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
+      "opening_date": "2026-10-30",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バイセル 三宮神戸マルイ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-31",
+      "category": "買取専門店"
+    },
+    {
+      "name": "バーガーキング そよらつくば学園の森店",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "opening_date": "2026-10-25",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 下丸子駅前店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-10-30",
+      "category": "ハンバーガー"
+    }
+  ],
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000251.000018121.html",
+    "https://buysell-kaitori.com/store/shamine-tottori/",
+    "https://prtimes.jp/main/html/rd/p/000000436.000038980.html"
+  ],
+  "notes": "Newly verified official store opening information; only records not already present by exact name/date were added. No changes were made to any unrelated repository paths."
+}
