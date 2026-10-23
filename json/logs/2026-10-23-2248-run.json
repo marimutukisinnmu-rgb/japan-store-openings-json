@@ -37,5 +37,5 @@
   "sources_checked": [
     "https://prtimes.jp/main/html/rd/p/000001296.000007414.html"
   ],
-  "log_write": "pending"
+  "log_write": "success (file created and refetched; blob SHA verified)"
 }
