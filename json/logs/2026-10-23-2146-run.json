@@ -1,0 +1,35 @@
+{
+  "run_at": "2026-10-23T21:46:35+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "update": {
+    "before_blob_sha": "3507c11b21c5a4e9ebabca55d7aeb6c46e461152",
+    "request_sha": "3507c11b21c5a4e9ebabca55d7aeb6c46e461152",
+    "write_success": true,
+    "after_blob_sha": "9fafd95273711e67f5d3768a89cfb65d5ac3b077",
+    "commit_sha": "6c21979439c8b2d1e134407cf1214f4337d7586d",
+    "http_status": "not returned by connector",
+    "retry": "not needed; no conflict error observed",
+    "verification": "refetched file; blob SHA, timestamp, and 346-item count matched"
+  },
+  "data": {
+    "previous_updatetime": "2026-10-23T20:42:24+09:00",
+    "updatetime": "2026-10-23T21:46:35+09:00",
+    "item_count": 346,
+    "new_items_added": 0,
+    "notes": [
+      "No confirmed new store opening was found that was both missing from the JSON and sufficiently verified during this run.",
+      "Official Ramen Butayama listing confirms 豚山 柏店 opened 2026-10-23; it was already present in the JSON.",
+      "Dandelion Chocolate 清澄白河ファクトリー and Tokyo Solamachi openings for ゴンチャ and ランディーズドーナツ were checked and already present."
+    ]
+  },
+  "sources_checked": [
+    "https://shop.butayama.com/all/",
+    "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory-open",
+    "https://pro.tokyo-solamachi.jp/"
+  ],
+  "log_write": "pending"
+}
