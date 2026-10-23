@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-23T21:46:35+09:00",
+  "updatetime": "2026-10-23T22:48:13+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1507,6 +1507,13 @@
       "city": "松戸市",
       "opening_date": "2026-10-24",
       "category": "買取専門店"
+    },
+    {
+      "name": "THE NORTH FACE リンクス池袋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "アウトドア・ファッション"
     },
     {
       "name": "バーガーキング そよらつくば学園の森店",
