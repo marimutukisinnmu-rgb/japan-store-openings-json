@@ -1,0 +1,41 @@
+{
+  "run_at": "2026-10-23T22:48:13+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "update": {
+    "before_blob_sha": "9fafd95273711e67f5d3768a89cfb65d5ac3b077",
+    "request_sha": "9fafd95273711e67f5d3768a89cfb65d5ac3b077",
+    "write_success": true,
+    "after_blob_sha": "007dc6c52804bd0ff13992e8e6d175235e08a79a",
+    "commit_sha": "0154a7f886f79e6916570f7cd5fdf98c59008cb7",
+    "http_status": "not returned by connector",
+    "retry": "not needed; no conflict error observed",
+    "verification": "refetched file; blob SHA, timestamp, 347-item count, and new item matched"
+  },
+  "data": {
+    "previous_updatetime": "2026-10-23T21:46:35+09:00",
+    "updatetime": "2026-10-23T22:48:13+09:00",
+    "item_count": 347,
+    "new_items_added": 1,
+    "added_items": [
+      {
+        "name": "THE NORTH FACE リンクス池袋",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-10-24",
+        "category": "アウトドア・ファッション"
+      }
+    ],
+    "notes": [
+      "Official Goldwin release published 2026-10-23 confirms opening on 2026-10-24.",
+      "The item was absent before update; duplicate check by exact name and opening date passed."
+    ]
+  },
+  "sources_checked": [
+    "https://prtimes.jp/main/html/rd/p/000001296.000007414.html"
+  ],
+  "log_write": "pending"
+}
