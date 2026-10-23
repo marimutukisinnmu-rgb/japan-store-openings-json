@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-20T02:43:56+09:00",
+  "updatetime": "2026-10-23T18:43:23+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1418,6 +1418,27 @@
       "category": "保険代理店"
     },
     {
+      "name": "眼鏡市場 セレオ国分寺店",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡・サングラス・補聴器"
+    },
+    {
+      "name": "HARE 代官山店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション"
+    },
+    {
+      "name": "牡蠣奉行 宇都宮店（期間限定）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-10-23",
+      "category": "期間限定・飲食イベント"
+    },
+    {
       "name": "FIT LABO 坂戸店",
       "prefecture": "埼玉県",
       "city": "坂戸市",
@@ -1458,6 +1479,13 @@
       "city": "静岡市駿河区",
       "opening_date": "2026-10-24",
       "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "高価買取おたからや コモディイイダ新松戸店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-24",
+      "category": "買取専門店"
     },
     {
       "name": "ワッツウィズ 八木城南ウォンツ店",
@@ -2074,6 +2102,13 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "KENZO ポップアップストア 六本木ヒルズ",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ・ファッション"
     },
     {
       "name": "chocoZAP 宇都宮不動前",
