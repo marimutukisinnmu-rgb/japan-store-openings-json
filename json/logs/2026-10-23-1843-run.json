@@ -1,0 +1,58 @@
+{
+  "run_at": "2026-10-23T18:43:23+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_blob_sha": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "sha_passed_to_update": "9dfdd8beca4665a05196a187cc2fa353fc75fa60",
+  "update_result": "success",
+  "commit_sha": "dc1647fe8a0deefb2b7107e249ed55678ffd3ba5",
+  "after_blob_sha": "716ebd65a2c4d18b550c6de672baa32b0d41b8e6",
+  "updatetime": "2026-10-23T18:43:23+09:00",
+  "item_count_after": 338,
+  "added_items": [
+    {
+      "name": "眼鏡市場 セレオ国分寺店",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡・サングラス・補聴器",
+      "source": "https://prtimes.jp/main/html/rd/p/000000331.000096543.html"
+    },
+    {
+      "name": "HARE 代官山店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000003326.000001304.html"
+    },
+    {
+      "name": "牡蠣奉行 宇都宮店（期間限定）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-10-23",
+      "category": "期間限定・飲食イベント",
+      "source": "https://prtimes.jp/main/html/rd/p/000000048.000089418.html"
+    },
+    {
+      "name": "高価買取おたからや コモディイイダ新松戸店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-24",
+      "category": "買取専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000446.000080252.html"
+    },
+    {
+      "name": "KENZO ポップアップストア 六本木ヒルズ",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ・ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000004.000190563.html"
+    }
+  ],
+  "notes": "Existing JSON was fetched and parsed; candidate entries were checked for exact-name/date duplicates before append. Other official openings found in this run were already present in latest.json. GitHub update response returned commit and content blob SHA; latest.json was re-fetched and verified."
+}
