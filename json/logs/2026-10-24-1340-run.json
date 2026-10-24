@@ -1,0 +1,48 @@
+{
+  "run_at": "2026-10-24T13:40:24+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "previous_blob_sha": "8e7158538082ff00158dd35f3b9a45c2b5610fff",
+  "update_request_sha": "8e7158538082ff00158dd35f3b9a45c2b5610fff",
+  "updated_blob_sha": "9ba251616eb8b449b7c899b2c2d0ddc185f4c1d0",
+  "commit_sha": "bc6af888cbcafac70442ef519f842150bc117ffb",
+  "count_before": 351,
+  "count_after": 354,
+  "added": [
+    {
+      "name": "chocoZAP 弘前樹木四丁目",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP いわき東田",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 高宮駅前",
+      "prefecture": "福岡県",
+      "city": "福岡市南区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    }
+  ],
+  "sources": [
+    "https://chocozap.jp/studios/newest"
+  ],
+  "verification": {
+    "fetch_after_write": "success",
+    "verified_blob_sha": "9ba251616eb8b449b7c899b2c2d0ddc185f4c1d0",
+    "verified_count": 354
+  },
+  "http_status": "not returned by connector",
+  "error": null,
+  "retry": "not needed"
+}
