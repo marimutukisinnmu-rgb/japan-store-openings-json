@@ -142,5 +142,12 @@
   "limitations": [
     "全国の開店予定を完全網羅したとは保証できない",
     "お肉の専門店スギモトとEggs ’n Things（東京ソラマチ）は開店日の具体的な日付が未発表のため未登録"
-  ]
+  ],
+  "task_status": {
+    "checked_after_json_update": true,
+    "schedule": "HOURLY (retained)",
+    "was_enabled_at_start": true,
+    "enabled_after_run": false,
+    "note": "The automation was disabled by the run-completion handling after the data update; no schedule definition change was made."
+  }
 }
