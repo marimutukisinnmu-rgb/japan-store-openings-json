@@ -1,0 +1,103 @@
+{
+  "run_at": "2026-10-25T07:48:49+09:00",
+  "target": "json/latest.json",
+  "result": "success",
+  "previous_count": 432,
+  "added_count": 7,
+  "final_count": 439,
+  "previous_blob_sha": "976ad25870b9a4720afd44552c730d769a174c1f",
+  "new_blob_sha": "2f1d35a5b7cd288c48219ed7ca8c993dfea61c35",
+  "commit_sha": "b82cb3a0cbaead252ba49809d2cd539c7ec2f6ad",
+  "items_added": [
+    {
+      "name": "H&F BELX 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-16",
+      "category": "ノンカフェインティー・ハーブティー"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（なんば1号店）",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（福岡店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（仙台店）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "Zoff 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-06",
+      "category": "メガネ・アイウェア"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社パルコ",
+      "title": "仙台PARCO 2026年秋冬のNEW＆RENEWAL",
+      "url": "https://prtimes.jp/main/html/rd/p/000004039.000003639.html",
+      "supports": [
+        "H&F BELX 仙台PARCO店の2026-10-16開店",
+        "Zoffの仙台PARCO新店が2026-11-06開店"
+      ]
+    },
+    {
+      "publisher": "アイティーエンタテインメント株式会社",
+      "title": "アニメ「ハイキュー!!」× and GALLERY Collaboration Cafe",
+      "url": "https://prtimes.jp/main/html/rd/p/000000057.000117213.html",
+      "supports": [
+        "池袋店・なんば1号店・名古屋1号店・福岡店・仙台店の開催開始日2026-11-03"
+      ]
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "final_count": 439,
+    "each_new_item_occurs_once": true,
+    "duplicate_name_date_pairs": 0,
+    "sorted_by_opening_date": true,
+    "refetched_after_update": true,
+    "refetched_blob_sha_matches_update_response": true
+  },
+  "unconfirmed": [
+    {
+      "subject": "and GALLERY 有楽町店でのハイキュー!!コラボカフェ",
+      "reason": "公式発表の冒頭では開催地が5か所とされる一方、詳細の開催場所一覧には有楽町店も記載され、記述が一致しないため今回は追加せず。"
+    },
+    {
+      "subject": "東京ソラマチのお肉の専門店スギモト、Eggs ’n Things",
+      "reason": "公式発表では「11月下旬」「冬」とされ、確定した開店日を確認できないため日付を推測して追加せず。"
+    }
+  ],
+  "errors": [
+    "GitHubコネクタからHTTPステータスコードは取得できず。更新後の再取得と内容検証は成功。"
+  ]
+}
