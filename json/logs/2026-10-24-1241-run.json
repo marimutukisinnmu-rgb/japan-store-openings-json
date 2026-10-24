@@ -1,0 +1,64 @@
+{
+  "run_at": "2026-10-24T12:41:56+09:00",
+  "task": "全国 開店予定JSON",
+  "repo": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "blob_sha": "007dc6c52804bd0ff13992e8e6d175235e08a79a",
+    "item_count": 347
+  },
+  "write": {
+    "sha_sent": "007dc6c52804bd0ff13992e8e6d175235e08a79a",
+    "status": "success",
+    "http_status": "not returned by connector",
+    "commit_sha": "87bad3eaabdf029c3e75bed4986b2f21dbff5270",
+    "updated_blob_sha": "8e7158538082ff00158dd35f3b9a45c2b5610fff"
+  },
+  "after": {
+    "blob_sha": "8e7158538082ff00158dd35f3b9a45c2b5610fff",
+    "item_count": 351,
+    "updatetime": "2026-10-24T12:41:56+09:00",
+    "verified_by_refetch": true
+  },
+  "added": [
+    {
+      "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定コラボカフェ（ゲーム）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000356.000092133.html"
+    },
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-28",
+      "category": "サンドイッチ",
+      "source": "https://prtimes.jp/main/html/rd/p/000001938.000009215.html"
+    },
+    {
+      "name": "フードスタイル東五反田店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-29",
+      "category": "スーパーマーケット（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000167.000135992.html"
+    },
+    {
+      "name": "STANDARD DONUTS 天神西通り店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "ドーナツ専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000017.000130092.html"
+    }
+  ],
+  "notes": [
+    "既存JSONと重複する同名・同日レコードなし。",
+    "全件の開店・開催日と所在地を発表資料で確認。",
+    "更新要求は個別実行。競合エラーなし。"
+  ]
+}
