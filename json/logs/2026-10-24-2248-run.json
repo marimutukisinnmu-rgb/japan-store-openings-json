@@ -1,0 +1,54 @@
+{
+  "run_at": "2026-10-24T22:48:54+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "update": {
+    "before_blob_sha": "bd6c2b386dcf12ce53a6c14b3ecf48426cd2f88e",
+    "sha_passed_to_update_request": "bd6c2b386dcf12ce53a6c14b3ecf48426cd2f88e",
+    "after_blob_sha": "704012b3b7081ebc16909f0d4aeef775664c6603",
+    "commit_sha": "8200c2729f68ed338f4b6ebf68b461fc5328b334",
+    "before_count": 373,
+    "after_count": 376,
+    "updated_at": "2026-10-24T22:48:54+09:00"
+  },
+  "added_items": [
+    {
+      "name": "カラオケまねきねこ 府中駅前店",
+      "prefecture": "東京都",
+      "city": "府中市",
+      "opening_date": "2026-10-30",
+      "category": "カラオケ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000107.000178734.html"
+    },
+    {
+      "name": "CANADA GOOSE（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000796.000009047.html"
+    },
+    {
+      "name": "MARITHÉ + FRANCOIS GIRBAUD（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000796.000009047.html"
+    }
+  ],
+  "verification": {
+    "refetched": true,
+    "fetched_blob_sha": "704012b3b7081ebc16909f0d4aeef775664c6603",
+    "json_parse_valid": true,
+    "count_matches": true,
+    "all_three_items_present": true
+  },
+  "errors": [],
+  "unverified": [
+    "HTTP status code was not exposed by the GitHub connector.",
+    "Official release lists Canada Goose and MARITHE + FRANCOIS GIRBAUD as brands opening at Gotemba Premium Outlets on 2026-10-30; exact tenant storefront naming was not independently provided, so the outlet name is parenthesized."
+  ]
+}
