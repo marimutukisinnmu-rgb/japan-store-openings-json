@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T13:40:24+09:00",
+  "updatetime": "2026-10-24T18:39:57+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1467,6 +1467,20 @@
       "category": "保険代理店"
     },
     {
+      "name": "廻転鮨 銀座おのでら ハレザ池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "回転寿司"
+    },
+    {
+      "name": "ゴンチャ ルミネ有楽町店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-23",
+      "category": "ティーカフェ"
+    },
+    {
       "name": "FIT LABO 坂戸店",
       "prefecture": "埼玉県",
       "city": "坂戸市",
@@ -1782,6 +1796,20 @@
       "category": "ベーグル専門店"
     },
     {
+      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "博多ぐるぐるとりかわ 竹乃屋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-28",
+      "category": "焼鳥・居酒屋"
+    },
+    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -1885,6 +1913,13 @@
       "city": "墨田区",
       "opening_date": "2026-10-29",
       "category": "ドーナツ"
+    },
+    {
+      "name": "UNI COFFEE ROASTERY シタディーンノース新宿東京",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-29",
+      "category": "カフェ・ロースタリー"
     },
     {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
@@ -2216,6 +2251,20 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "キイロイトリ銭湯（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定キャラクターストア"
+    },
+    {
+      "name": "ジャルダン・デ・サンス 東京",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "フランス料理（リニューアル）"
+    },
+    {
       "name": "chocoZAP 宇都宮不動前",
       "prefecture": "栃木県",
       "city": "宇都宮市",
@@ -2328,6 +2377,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-11-05",
+      "category": "文具・雑貨"
+    },
+    {
       "name": "ふわりノ休足",
       "prefecture": "東京都",
       "city": "墨田区",
@@ -2417,6 +2473,13 @@
       "city": "町田市",
       "opening_date": "2026-11-12",
       "category": "ファッション"
+    },
+    {
+      "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定コラボカフェ（アーティスト）"
     },
     {
       "name": "かにチャーハンの店 エキュート大宮店",
