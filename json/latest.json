@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-12-10",
   "scope": "Japan",
-  "updatetime": "2026-10-25T05:39:19+09:00",
+  "updatetime": "2026-10-25T06:41:52+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -11,13 +11,6 @@
       "category": "とんかつ・定食"
     },
     {
-      "name": "ローソン Ｓ四日市市総合会館",
-      "prefecture": "三重県",
-      "city": "四日市市",
-      "opening_date": "2026-09-24",
-      "category": "コンビニ"
-    },
-    {
       "name": "すし松 千川店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -25,16 +18,23 @@
       "category": "寿司"
     },
     {
-      "name": "ローソン 富士見南原山",
-      "prefecture": "長野県",
-      "city": "諏訪郡富士見町",
-      "opening_date": "2026-09-25",
+      "name": "ローソン Ｓ四日市市総合会館",
+      "prefecture": "三重県",
+      "city": "四日市市",
+      "opening_date": "2026-09-24",
       "category": "コンビニ"
     },
     {
       "name": "ローソン 板橋東山町",
       "prefecture": "東京都",
       "city": "板橋区",
+      "opening_date": "2026-09-25",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 富士見南原山",
+      "prefecture": "長野県",
+      "city": "諏訪郡富士見町",
       "opening_date": "2026-09-25",
       "category": "コンビニ"
     },
@@ -53,51 +53,9 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "ローソン 中区栄三丁目",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-10-01",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 奥州江刺南大通り",
-      "prefecture": "岩手県",
-      "city": "奥州市",
-      "opening_date": "2026-10-01",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 石巻湊東二丁目",
-      "prefecture": "宮城県",
-      "city": "石巻市",
-      "opening_date": "2026-10-01",
-      "category": "コンビニ"
-    },
-    {
-      "name": "松屋 松阪鎌田町店（松のや併設）",
-      "prefecture": "三重県",
-      "city": "松阪市",
-      "opening_date": "2026-10-01",
-      "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "松屋 下関長府店（松のや併設）",
-      "prefecture": "山口県",
-      "city": "下関市",
-      "opening_date": "2026-10-01",
-      "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "ローソン 御殿場二枚橋",
-      "prefecture": "静岡県",
-      "city": "御殿場市",
-      "opening_date": "2026-10-01",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 千葉市立幕張海浜病院",
-      "prefecture": "千葉県",
-      "city": "千葉市美浜区",
+      "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
+      "prefecture": "徳島県",
+      "city": "阿南市",
       "opening_date": "2026-10-01",
       "category": "コンビニ"
     },
@@ -109,9 +67,37 @@
       "category": "コンビニ"
     },
     {
-      "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
-      "prefecture": "徳島県",
-      "city": "阿南市",
+      "name": "ローソン 奥州江刺南大通り",
+      "prefecture": "岩手県",
+      "city": "奥州市",
+      "opening_date": "2026-10-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 御殿場二枚橋",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 石巻湊東二丁目",
+      "prefecture": "宮城県",
+      "city": "石巻市",
+      "opening_date": "2026-10-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 千葉市立幕張海浜病院",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-10-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 中区栄三丁目",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
       "opening_date": "2026-10-01",
       "category": "コンビニ"
     },
@@ -123,39 +109,18 @@
       "category": "コンビニ"
     },
     {
-      "name": "ローソン 岡崎上里三丁目",
-      "prefecture": "愛知県",
-      "city": "岡崎市",
-      "opening_date": "2026-10-02",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 宇和島新田町一丁目",
-      "prefecture": "愛媛県",
-      "city": "宇和島市",
-      "opening_date": "2026-10-02",
-      "category": "コンビニ"
-    },
-    {
-      "name": "松屋 沖縄比屋根店（松のや併設）",
-      "prefecture": "沖縄県",
-      "city": "沖縄市",
-      "opening_date": "2026-10-02",
+      "name": "松屋 下関長府店（松のや併設）",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "opening_date": "2026-10-01",
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "Workman Colors イオンモール大垣店",
-      "prefecture": "岐阜県",
-      "city": "大垣市",
-      "opening_date": "2026-10-02",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
-      "name": "ローソン 小豆島土庄町上庄",
-      "prefecture": "香川県",
-      "city": "小豆郡土庄町",
-      "opening_date": "2026-10-02",
-      "category": "コンビニ"
+      "name": "松屋 松阪鎌田町店（松のや併設）",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "opening_date": "2026-10-01",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "SAKImoto bakery and more 葛西店",
@@ -165,6 +130,13 @@
       "category": "ベーカリー・カフェ"
     },
     {
+      "name": "Workman Colors イオンモール大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-10-02",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
       "name": "リファ バイタルウェア（玉川高島屋S.C. POP UP SHOP）",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -172,32 +144,32 @@
       "category": "期間限定ポップアップ（ファッション）"
     },
     {
-      "name": "ディスカウントドラッグコスモス天草登立店",
-      "prefecture": "熊本県",
-      "city": "上天草市",
-      "opening_date": "2026-10-03",
-      "category": "ドラッグストア"
+      "name": "ローソン 宇和島新田町一丁目",
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
+      "opening_date": "2026-10-02",
+      "category": "コンビニ"
     },
     {
-      "name": "モビリティタウン熊本",
-      "prefecture": "熊本県",
-      "city": "熊本市南区",
-      "opening_date": "2026-10-03",
-      "category": "モビリティ施設"
+      "name": "ローソン 岡崎上里三丁目",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-10-02",
+      "category": "コンビニ"
     },
     {
-      "name": "Tasty-T vintage",
-      "prefecture": "埼玉県",
-      "city": "熊谷市",
-      "opening_date": "2026-10-03",
-      "category": "古着・ヴィンテージ"
+      "name": "ローソン 小豆島土庄町上庄",
+      "prefecture": "香川県",
+      "city": "小豆郡土庄町",
+      "opening_date": "2026-10-02",
+      "category": "コンビニ"
     },
     {
-      "name": "もつ煮家えん 富士見店",
-      "prefecture": "埼玉県",
-      "city": "富士見市",
-      "opening_date": "2026-10-03",
-      "category": "もつ煮"
+      "name": "松屋 沖縄比屋根店（松のや併設）",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-10-02",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "Bake A Holic",
@@ -228,6 +200,13 @@
       "category": "シューズ"
     },
     {
+      "name": "North Continent 赤れんが店",
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "opening_date": "2026-10-03",
+      "category": "ハンバーグ"
+    },
+    {
       "name": "PARK BASEL",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -235,11 +214,25 @@
       "category": "カフェ"
     },
     {
+      "name": "Q（らぁ麺/料理や）",
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "opening_date": "2026-10-03",
+      "category": "ラーメン・料理"
+    },
+    {
       "name": "Rainbow Art（レインボーアート）吉祥寺校",
       "prefecture": "東京都",
       "city": "武蔵野市",
       "opening_date": "2026-10-03",
       "category": "アート教室"
+    },
+    {
+      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-03",
+      "category": "寝具"
     },
     {
       "name": "SUNNY BANANA",
@@ -256,53 +249,11 @@
       "category": "カフェ"
     },
     {
-      "name": "アイズドッグ足立江北店",
-      "prefecture": "東京都",
-      "city": "足立区",
+      "name": "Tasty-T vintage",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
       "opening_date": "2026-10-03",
-      "category": "トリミングサロン"
-    },
-    {
-      "name": "ファミリーマート 八王子そうとの杜店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-10-03",
-      "category": "コンビニ"
-    },
-    {
-      "name": "海霞",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-03",
-      "category": "寿司・日本料理"
-    },
-    {
-      "name": "SHOWA NISHIKAWA FACTORY STORE 博多店",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
-      "opening_date": "2026-10-03",
-      "category": "寝具"
-    },
-    {
-      "name": "わらび餅専門店門藤 福島丸子店",
-      "prefecture": "福島県",
-      "city": "福島市",
-      "opening_date": "2026-10-03",
-      "category": "和菓子"
-    },
-    {
-      "name": "North Continent 赤れんが店",
-      "prefecture": "北海道",
-      "city": "札幌市",
-      "opening_date": "2026-10-03",
-      "category": "ハンバーグ"
-    },
-    {
-      "name": "Q（らぁ麺/料理や）",
-      "prefecture": "北海道",
-      "city": "札幌市",
-      "opening_date": "2026-10-03",
-      "category": "ラーメン・料理"
+      "category": "古着・ヴィンテージ"
     },
     {
       "name": "UNO CAFE ゆめちからテラス店",
@@ -312,6 +263,55 @@
       "category": "カフェ"
     },
     {
+      "name": "アイズドッグ足立江北店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-10-03",
+      "category": "トリミングサロン"
+    },
+    {
+      "name": "ディスカウントドラッグコスモス天草登立店",
+      "prefecture": "熊本県",
+      "city": "上天草市",
+      "opening_date": "2026-10-03",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "ファミリーマート 八王子そうとの杜店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "もつ煮家えん 富士見店",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "opening_date": "2026-10-03",
+      "category": "もつ煮"
+    },
+    {
+      "name": "モビリティタウン熊本",
+      "prefecture": "熊本県",
+      "city": "熊本市南区",
+      "opening_date": "2026-10-03",
+      "category": "モビリティ施設"
+    },
+    {
+      "name": "わらび餅専門店門藤 福島丸子店",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-10-03",
+      "category": "和菓子"
+    },
+    {
+      "name": "海霞",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-03",
+      "category": "寿司・日本料理"
+    },
+    {
       "name": "WCB The Ballpark",
       "prefecture": "東京都",
       "city": "品川区",
@@ -319,11 +319,25 @@
       "category": "ビアレストラン"
     },
     {
-      "name": "高価買取おたからや ひたちなか大成店",
-      "prefecture": "茨城県",
-      "city": "ひたちなか市",
+      "name": "Mcafe（エムカフェ）",
+      "prefecture": "福岡県",
+      "city": "久留米市",
       "opening_date": "2026-10-05",
-      "category": "買取専門店"
+      "category": "カフェ"
+    },
+    {
+      "name": "SiOKUMA BAKERY 東金店",
+      "prefecture": "千葉県",
+      "city": "東金市",
+      "opening_date": "2026-10-05",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "ゴーゴーカレー イオンモール神戸南店",
+      "prefecture": "兵庫県",
+      "city": "神戸市兵庫区",
+      "opening_date": "2026-10-05",
+      "category": "カレー"
     },
     {
       "name": "らーめん大統領 ホワイトハウス西大寺店",
@@ -340,13 +354,6 @@
       "category": "コンビニ"
     },
     {
-      "name": "SiOKUMA BAKERY 東金店",
-      "prefecture": "千葉県",
-      "city": "東金市",
-      "opening_date": "2026-10-05",
-      "category": "ベーカリー"
-    },
-    {
       "name": "わらび餅専門店 門藤 那須塩原店",
       "prefecture": "栃木県",
       "city": "那須塩原市",
@@ -354,25 +361,11 @@
       "category": "和菓子"
     },
     {
-      "name": "Mcafe（エムカフェ）",
-      "prefecture": "福岡県",
-      "city": "久留米市",
+      "name": "高価買取おたからや ひたちなか大成店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
       "opening_date": "2026-10-05",
-      "category": "カフェ"
-    },
-    {
-      "name": "ゴーゴーカレー イオンモール神戸南店",
-      "prefecture": "兵庫県",
-      "city": "神戸市兵庫区",
-      "opening_date": "2026-10-05",
-      "category": "カレー"
-    },
-    {
-      "name": "つけ麺 燈 tou",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-10-06",
-      "category": "つけ麺"
+      "category": "買取専門店"
     },
     {
       "name": "I’m donut？ 寺町店",
@@ -389,13 +382,6 @@
       "category": "ハンバーガー"
     },
     {
-      "name": "ローソン 大川駅前",
-      "prefecture": "神奈川県",
-      "city": "川崎市川崎区",
-      "opening_date": "2026-10-06",
-      "category": "コンビニ"
-    },
-    {
       "name": "すき家 2国芦屋清水店",
       "prefecture": "兵庫県",
       "city": "芦屋市",
@@ -403,11 +389,32 @@
       "category": "牛丼・定食"
     },
     {
+      "name": "つけ麺 燈 tou",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-06",
+      "category": "つけ麺"
+    },
+    {
+      "name": "ローソン 大川駅前",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "opening_date": "2026-10-06",
+      "category": "コンビニ"
+    },
+    {
       "name": "珈琲と。つくえ",
       "prefecture": "兵庫県",
       "city": "神戸市東灘区",
       "opening_date": "2026-10-06",
       "category": "カフェ"
+    },
+    {
+      "name": "MEN'S BIGI 大丸福岡天神店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-07",
+      "category": "メンズファッション"
     },
     {
       "name": "春福（チュンフー）",
@@ -424,18 +431,11 @@
       "category": "そば・和食"
     },
     {
-      "name": "MEN'S BIGI 大丸福岡天神店",
-      "prefecture": "福岡県",
-      "city": "福岡市中央区",
-      "opening_date": "2026-10-07",
-      "category": "メンズファッション"
-    },
-    {
-      "name": "仙台諏訪町",
-      "prefecture": "宮城県",
-      "city": "仙台市太白区",
+      "name": "BOOKOFF PLUS 箕輪店",
+      "prefecture": "長野県",
+      "city": "上伊那郡箕輪町",
       "opening_date": "2026-10-08",
-      "category": "コンビニ"
+      "category": "リユースショップ"
     },
     {
       "name": "SPINGLE 宮島",
@@ -445,32 +445,11 @@
       "category": "シューズ"
     },
     {
-      "name": "ローソン Ｓジ アウトレット湘南平塚",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
+      "name": "こめもん専門店 タコタマ",
+      "prefecture": "福岡県",
+      "city": "久留米市",
       "opening_date": "2026-10-08",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 横浜野毛小路",
-      "prefecture": "神奈川県",
-      "city": "横浜市中区",
-      "opening_date": "2026-10-08",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 川和町駅前",
-      "prefecture": "神奈川県",
-      "city": "横浜市都筑区",
-      "opening_date": "2026-10-08",
-      "category": "コンビニ"
-    },
-    {
-      "name": "資さんうどん 横浜霧ケ丘店",
-      "prefecture": "神奈川県",
-      "city": "横浜市緑区",
-      "opening_date": "2026-10-08",
-      "category": "うどん"
+      "category": "たこ焼き・粉もの"
     },
     {
       "name": "コメリPRO富田林店",
@@ -478,20 +457,6 @@
       "city": "富田林市",
       "opening_date": "2026-10-08",
       "category": "ホームセンター"
-    },
-    {
-      "name": "ローソン 寝屋川桜木町",
-      "prefecture": "大阪府",
-      "city": "寝屋川市",
-      "opening_date": "2026-10-08",
-      "category": "コンビニ"
-    },
-    {
-      "name": "BOOKOFF PLUS 箕輪店",
-      "prefecture": "長野県",
-      "city": "上伊那郡箕輪町",
-      "opening_date": "2026-10-08",
-      "category": "リユースショップ"
     },
     {
       "name": "すき家 432号松江古志原店",
@@ -515,16 +480,16 @@
       "category": "コンビニ"
     },
     {
-      "name": "こめもん専門店 タコタマ",
-      "prefecture": "福岡県",
-      "city": "久留米市",
+      "name": "ローソン Ｓジ アウトレット湘南平塚",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
       "opening_date": "2026-10-08",
-      "category": "たこ焼き・粉もの"
+      "category": "コンビニ"
     },
     {
-      "name": "郡山うねめ通り",
-      "prefecture": "福島県",
-      "city": "郡山市",
+      "name": "ローソン 横浜野毛小路",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
       "opening_date": "2026-10-08",
       "category": "コンビニ"
     },
@@ -536,121 +501,51 @@
       "category": "コンビニ"
     },
     {
-      "name": "TODAY'S SPECIAL Nagoya",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-10-09",
-      "category": "ライフスタイル・雑貨"
+      "name": "ローソン 寝屋川桜木町",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-10-08",
+      "category": "コンビニ"
     },
     {
-      "name": "ローソン 仙台栗生西",
+      "name": "ローソン 川和町駅前",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-10-08",
+      "category": "コンビニ"
+    },
+    {
+      "name": "郡山うねめ通り",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "opening_date": "2026-10-08",
+      "category": "コンビニ"
+    },
+    {
+      "name": "資さんうどん 横浜霧ケ丘店",
+      "prefecture": "神奈川県",
+      "city": "横浜市緑区",
+      "opening_date": "2026-10-08",
+      "category": "うどん"
+    },
+    {
+      "name": "仙台諏訪町",
       "prefecture": "宮城県",
-      "city": "仙台市青葉区",
-      "opening_date": "2026-10-09",
-      "category": "コンビニ"
-    },
-    {
-      "name": "月島もんじゃ おこげ 仙台クリスロード",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
-      "opening_date": "2026-10-09",
-      "category": "もんじゃ焼き"
-    },
-    {
-      "name": "おかしのまちおか イオンモール久御山店",
-      "prefecture": "京都府",
-      "city": "久世郡久御山町",
-      "opening_date": "2026-10-09",
-      "category": "菓子専門店"
-    },
-    {
-      "name": "ローソン 広島横川新町",
-      "prefecture": "広島県",
-      "city": "広島市西区",
-      "opening_date": "2026-10-09",
-      "category": "コンビニ"
-    },
-    {
-      "name": "TATRAS（タトラス）鳥栖店",
-      "prefecture": "佐賀県",
-      "city": "鳥栖市",
-      "opening_date": "2026-10-09",
-      "category": "ファッション"
-    },
-    {
-      "name": "GEORGE’S イオンモール羽生店",
-      "prefecture": "埼玉県",
-      "city": "羽生市",
-      "opening_date": "2026-10-09",
-      "category": "ライフスタイル・雑貨"
-    },
-    {
-      "name": "SIXPAD STORE イオンモール羽生店",
-      "prefecture": "埼玉県",
-      "city": "羽生市",
-      "opening_date": "2026-10-09",
-      "category": "健康・フィットネス"
-    },
-    {
-      "name": "オルビス イオンモール羽生店",
-      "prefecture": "埼玉県",
-      "city": "羽生市",
-      "opening_date": "2026-10-09",
-      "category": "化粧品・スキンケア"
-    },
-    {
-      "name": "ヤオコーまるひろ入間SC店",
-      "prefecture": "埼玉県",
-      "city": "入間市",
-      "opening_date": "2026-10-09",
-      "category": "スーパーマーケット"
-    },
-    {
-      "name": "ローソン 浦和東高砂町",
-      "prefecture": "埼玉県",
-      "city": "さいたま市浦和区",
-      "opening_date": "2026-10-09",
-      "category": "コンビニ"
-    },
-    {
-      "name": "AOKI 川崎駅東口店",
-      "prefecture": "神奈川県",
-      "city": "川崎市川崎区",
-      "opening_date": "2026-10-09",
-      "category": "ファッション"
-    },
-    {
-      "name": "Workman Colors イトーヨーカドー大和鶴間店",
-      "prefecture": "神奈川県",
-      "city": "大和市",
-      "opening_date": "2026-10-09",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
-      "name": "カラオケまねきねこ 藤沢南口駅前店",
-      "prefecture": "神奈川県",
-      "city": "藤沢市",
-      "opening_date": "2026-10-09",
-      "category": "カラオケ"
-    },
-    {
-      "name": "くし葉 ららぽーと湘南平塚店",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-10-09",
-      "category": "しゃぶしゃぶ・バイキング"
-    },
-    {
-      "name": "ローソン 白山八ツ矢町",
-      "prefecture": "石川県",
-      "city": "白山市",
-      "opening_date": "2026-10-09",
+      "city": "仙台市太白区",
+      "opening_date": "2026-10-08",
       "category": "コンビニ"
     },
     {
       "name": "AMERICAN HOLIC 京王モール店",
       "prefecture": "東京都",
       "city": "新宿区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
+    },
+    {
+      "name": "AOKI 川崎駅東口店",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
       "opening_date": "2026-10-09",
       "category": "ファッション"
     },
@@ -662,46 +557,11 @@
       "category": "ファッション・ルームウェア"
     },
     {
-      "name": "アップガレージライダース羽村店",
-      "prefecture": "東京都",
-      "city": "羽村市",
+      "name": "GEORGE’S イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
       "opening_date": "2026-10-09",
-      "category": "バイク用品リユース"
-    },
-    {
-      "name": "アップガレージ羽村店",
-      "prefecture": "東京都",
-      "city": "羽村市",
-      "opening_date": "2026-10-09",
-      "category": "カー・バイク用品リユース"
-    },
-    {
-      "name": "タイヤ流通センターアップガレージ羽村店",
-      "prefecture": "東京都",
-      "city": "羽村市",
-      "opening_date": "2026-10-09",
-      "category": "タイヤ販売"
-    },
-    {
-      "name": "RABBIT BAGELS 奈良店",
-      "prefecture": "奈良県",
-      "city": "奈良市",
-      "opening_date": "2026-10-09",
-      "category": "ベーグル専門店"
-    },
-    {
-      "name": "WHITECROWN",
-      "prefecture": "福岡県",
-      "city": "久留米市",
-      "opening_date": "2026-10-09",
-      "category": "ステーキサンド・キッチンカー"
-    },
-    {
-      "name": "ローソン 姫路国分寺",
-      "prefecture": "兵庫県",
-      "city": "姫路市",
-      "opening_date": "2026-10-09",
-      "category": "コンビニ"
+      "category": "ライフスタイル・雑貨"
     },
     {
       "name": "LEPSIM イオンモール旭川西店",
@@ -718,6 +578,83 @@
       "category": "アウトドア・ファッション"
     },
     {
+      "name": "RABBIT BAGELS 奈良店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-10-09",
+      "category": "ベーグル専門店"
+    },
+    {
+      "name": "SIXPAD STORE イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-10-09",
+      "category": "健康・フィットネス"
+    },
+    {
+      "name": "TATRAS（タトラス）鳥栖店",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
+    },
+    {
+      "name": "TODAY'S SPECIAL Nagoya",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-09",
+      "category": "ライフスタイル・雑貨"
+    },
+    {
+      "name": "WHITECROWN",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-10-09",
+      "category": "ステーキサンド・キッチンカー"
+    },
+    {
+      "name": "Workman Colors イトーヨーカドー大和鶴間店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "アップガレージライダース羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "バイク用品リユース"
+    },
+    {
+      "name": "アップガレージ羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "カー・バイク用品リユース"
+    },
+    {
+      "name": "おかしのまちおか イオンモール久御山店",
+      "prefecture": "京都府",
+      "city": "久世郡久御山町",
+      "opening_date": "2026-10-09",
+      "category": "菓子専門店"
+    },
+    {
+      "name": "オルビス イオンモール羽生店",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-10-09",
+      "category": "化粧品・スキンケア"
+    },
+    {
+      "name": "カラオケまねきねこ 藤沢南口駅前店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-10-09",
+      "category": "カラオケ"
+    },
+    {
       "name": "カラオケまねきねこ 和歌山ぶらくり丁店",
       "prefecture": "和歌山県",
       "city": "和歌山市",
@@ -725,11 +662,67 @@
       "category": "カラオケ"
     },
     {
-      "name": "松屋 宇治弐番店（松のや併設）",
-      "prefecture": "京都府",
-      "city": "宇治市",
-      "opening_date": "2026-10-10",
-      "category": "牛丼・定食（松のや併設）"
+      "name": "くし葉 ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-09",
+      "category": "しゃぶしゃぶ・バイキング"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ羽村店",
+      "prefecture": "東京都",
+      "city": "羽村市",
+      "opening_date": "2026-10-09",
+      "category": "タイヤ販売"
+    },
+    {
+      "name": "ヤオコーまるひろ入間SC店",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "opening_date": "2026-10-09",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "ローソン 浦和東高砂町",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-10-09",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 広島横川新町",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-10-09",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 仙台栗生西",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-09",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 白山八ツ矢町",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-10-09",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 姫路国分寺",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-10-09",
+      "category": "コンビニ"
+    },
+    {
+      "name": "月島もんじゃ おこげ 仙台クリスロード",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-09",
+      "category": "もんじゃ焼き"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 54号広島八木店",
@@ -739,25 +732,25 @@
       "category": "リユースショップ"
     },
     {
-      "name": "ここの屋",
-      "prefecture": "山形県",
-      "city": "天童市",
-      "opening_date": "2026-10-10",
-      "category": "ラーメン"
-    },
-    {
-      "name": "新時代 横浜鶴屋町店",
-      "prefecture": "神奈川県",
-      "city": "横浜市神奈川区",
-      "opening_date": "2026-10-10",
-      "category": "居酒屋"
-    },
-    {
       "name": "Japan TCG Center キテミテマツド店",
       "prefecture": "千葉県",
       "city": "松戸市",
       "opening_date": "2026-10-10",
       "category": "トレーディングカードショップ"
+    },
+    {
+      "name": "KOGASHI 明石店",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-10-10",
+      "category": "スイーツ"
+    },
+    {
+      "name": "ここの屋",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "opening_date": "2026-10-10",
+      "category": "ラーメン"
     },
     {
       "name": "らかんスタジオ Finelight 黒磯店",
@@ -767,11 +760,18 @@
       "category": "フォトスタジオ"
     },
     {
-      "name": "KOGASHI 明石店",
-      "prefecture": "兵庫県",
-      "city": "明石市",
+      "name": "松屋 宇治弐番店（松のや併設）",
+      "prefecture": "京都府",
+      "city": "宇治市",
       "opening_date": "2026-10-10",
-      "category": "スイーツ"
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "新時代 横浜鶴屋町店",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-10-10",
+      "category": "居酒屋"
     },
     {
       "name": "BEAMS SPORTS（都立明治公園）",
@@ -816,11 +816,11 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "クリスピー・クリーム・ドーナツ エスパル山形（期間限定）",
-      "prefecture": "山形県",
-      "city": "山形市",
+      "name": "chocoZAP 南大井六丁目",
+      "prefecture": "東京都",
+      "city": "品川区",
       "opening_date": "2026-10-14",
-      "category": "ドーナツ（期間限定）"
+      "category": "フィットネスジム"
     },
     {
       "name": "EAGLE BASE 金沢八景店",
@@ -828,20 +828,6 @@
       "city": "横浜市金沢区",
       "opening_date": "2026-10-14",
       "category": "パーソナルジム"
-    },
-    {
-      "name": "サブウェイ イオンモール大日店",
-      "prefecture": "大阪府",
-      "city": "守口市",
-      "opening_date": "2026-10-14",
-      "category": "サンドイッチ"
-    },
-    {
-      "name": "chocoZAP 南大井六丁目",
-      "prefecture": "東京都",
-      "city": "品川区",
-      "opening_date": "2026-10-14",
-      "category": "フィットネスジム"
     },
     {
       "name": "The POOH SHOP 東京駅 by marimo craft",
@@ -858,18 +844,25 @@
       "category": "キャラクター雑貨（新店舗・ポップアップ）"
     },
     {
-      "name": "ローソン 沖縄古謝三丁目",
-      "prefecture": "沖縄県",
-      "city": "沖縄市",
-      "opening_date": "2026-10-15",
-      "category": "コンビニ"
+      "name": "クリスピー・クリーム・ドーナツ エスパル山形（期間限定）",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "opening_date": "2026-10-14",
+      "category": "ドーナツ（期間限定）"
     },
     {
-      "name": "松屋 八代店（松のや併設）",
-      "prefecture": "熊本県",
-      "city": "八代市",
+      "name": "サブウェイ イオンモール大日店",
+      "prefecture": "大阪府",
+      "city": "守口市",
+      "opening_date": "2026-10-14",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "chocoZAP 大牟田新栄町",
+      "prefecture": "福岡県",
+      "city": "大牟田市",
       "opening_date": "2026-10-15",
-      "category": "牛丼・定食（松のや併設）"
+      "category": "フィットネスジム"
     },
     {
       "name": "PISOLA前橋三俣店",
@@ -879,11 +872,11 @@
       "category": "イタリアン"
     },
     {
-      "name": "資さんうどん 倉賀野店",
-      "prefecture": "群馬県",
-      "city": "高崎市",
+      "name": "バイセル えきマチ1丁目行橋店",
+      "prefecture": "福岡県",
+      "city": "行橋市",
       "opening_date": "2026-10-15",
-      "category": "うどん"
+      "category": "買取専門店"
     },
     {
       "name": "リッチモンドホテル八戸スクエア",
@@ -893,9 +886,30 @@
       "category": "ホテル"
     },
     {
+      "name": "ローソン タイムズステーション札幌駅前",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 沖縄古謝三丁目",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
       "name": "ローソン 荒川東尾久五丁目",
       "prefecture": "東京都",
       "city": "荒川区",
+      "opening_date": "2026-10-15",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 福井文京七丁目",
+      "prefecture": "福井県",
+      "city": "福井市",
       "opening_date": "2026-10-15",
       "category": "コンビニ"
     },
@@ -907,74 +921,18 @@
       "category": "たこ焼き"
     },
     {
-      "name": "ローソン 福井文京七丁目",
-      "prefecture": "福井県",
-      "city": "福井市",
+      "name": "資さんうどん 倉賀野店",
+      "prefecture": "群馬県",
+      "city": "高崎市",
       "opening_date": "2026-10-15",
-      "category": "コンビニ"
+      "category": "うどん"
     },
     {
-      "name": "chocoZAP 大牟田新栄町",
-      "prefecture": "福岡県",
-      "city": "大牟田市",
+      "name": "松屋 八代店（松のや併設）",
+      "prefecture": "熊本県",
+      "city": "八代市",
       "opening_date": "2026-10-15",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "バイセル えきマチ1丁目行橋店",
-      "prefecture": "福岡県",
-      "city": "行橋市",
-      "opening_date": "2026-10-15",
-      "category": "買取専門店"
-    },
-    {
-      "name": "ローソン タイムズステーション札幌駅前",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-15",
-      "category": "コンビニ"
-    },
-    {
-      "name": "かにじぇんぬ 祇園",
-      "prefecture": "京都府",
-      "city": "京都市東山区",
-      "opening_date": "2026-10-16",
-      "category": "活ガニ料理"
-    },
-    {
-      "name": "クラークス 富士見店",
-      "prefecture": "埼玉県",
-      "city": "富士見市",
-      "opening_date": "2026-10-16",
-      "category": "シューズ"
-    },
-    {
-      "name": "Workman Colors イオンモール桑名店",
-      "prefecture": "三重県",
-      "city": "桑名市",
-      "opening_date": "2026-10-16",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
-      "name": "Workman Colors シンフォニープラザ八戸沼館店",
-      "prefecture": "青森県",
-      "city": "八戸市",
-      "opening_date": "2026-10-16",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
-      "name": "舎鈴 ミーナ津田沼店",
-      "prefecture": "千葉県",
-      "city": "習志野市",
-      "opening_date": "2026-10-16",
-      "category": "つけめん"
-    },
-    {
-      "name": "ワッツ 住吉マックスバリュ店",
-      "prefecture": "長崎県",
-      "city": "長崎市",
-      "opening_date": "2026-10-16",
-      "category": "100円ショップ"
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "and wander 池袋PARCO店",
@@ -1012,11 +970,32 @@
       "category": "デザイン雑貨"
     },
     {
+      "name": "Fred Perry（神戸三田プレミアム・アウトレット）",
+      "prefecture": "兵庫県",
+      "city": "神戸市北区",
+      "opening_date": "2026-10-16",
+      "category": "ファッション（期間限定）"
+    },
+    {
       "name": "POP MART 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
       "opening_date": "2026-10-16",
       "category": "アートトイ・雑貨（リニューアル）"
+    },
+    {
+      "name": "Workman Colors イオンモール桑名店",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Workman Colors シンフォニープラザ八戸沼館店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-10-16",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "Y's / Y's for men 池袋PARCO店",
@@ -1026,11 +1005,39 @@
       "category": "ファッション・セレクトショップ"
     },
     {
+      "name": "かにじぇんぬ 祇園",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "opening_date": "2026-10-16",
+      "category": "活ガニ料理"
+    },
+    {
+      "name": "クラークス 富士見店",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "opening_date": "2026-10-16",
+      "category": "シューズ"
+    },
+    {
+      "name": "タリーズコーヒー 小樽ポートスクエア店",
+      "prefecture": "北海道",
+      "city": "小樽市",
+      "opening_date": "2026-10-16",
+      "category": "カフェ"
+    },
+    {
       "name": "トロ壱 上野店",
       "prefecture": "東京都",
       "city": "台東区",
       "opening_date": "2026-10-16",
       "category": "居酒屋・海鮮"
+    },
+    {
+      "name": "バイセル プレンティ西神中央店",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "opening_date": "2026-10-16",
+      "category": "買取専門店"
     },
     {
       "name": "ローソン 葛飾東堀切二丁目",
@@ -1047,25 +1054,18 @@
       "category": "コンビニ"
     },
     {
-      "name": "Fred Perry（神戸三田プレミアム・アウトレット）",
-      "prefecture": "兵庫県",
-      "city": "神戸市北区",
+      "name": "ワッツ 住吉マックスバリュ店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
       "opening_date": "2026-10-16",
-      "category": "ファッション（期間限定）"
+      "category": "100円ショップ"
     },
     {
-      "name": "バイセル プレンティ西神中央店",
-      "prefecture": "兵庫県",
-      "city": "神戸市西区",
+      "name": "舎鈴 ミーナ津田沼店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
       "opening_date": "2026-10-16",
-      "category": "買取専門店"
-    },
-    {
-      "name": "タリーズコーヒー 小樽ポートスクエア店",
-      "prefecture": "北海道",
-      "city": "小樽市",
-      "opening_date": "2026-10-16",
-      "category": "カフェ"
+      "category": "つけめん"
     },
     {
       "name": "赤から帯広店",
@@ -1075,23 +1075,16 @@
       "category": "鍋料理"
     },
     {
-      "name": "BOOKOFF SUPER BAZAAR 広島大手町店",
-      "prefecture": "広島県",
-      "city": "広島市中区",
+      "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
       "opening_date": "2026-10-17",
       "category": "リユースショップ（リニューアル）"
     },
     {
-      "name": "ワッツウィズ草津ラ・ムー店",
-      "prefecture": "滋賀県",
-      "city": "草津市",
-      "opening_date": "2026-10-17",
-      "category": "100円ショップ"
-    },
-    {
-      "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
-      "prefecture": "神奈川県",
-      "city": "横浜市戸塚区",
+      "name": "BOOKOFF SUPER BAZAAR 広島大手町店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
       "opening_date": "2026-10-17",
       "category": "リユースショップ（リニューアル）"
     },
@@ -1103,11 +1096,25 @@
       "category": "ネイル・ビューティー（旗艦店）"
     },
     {
+      "name": "ワッツウィズ草津ラ・ムー店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-10-17",
+      "category": "100円ショップ"
+    },
+    {
       "name": "ワッツザ・ビッグ岩見沢店",
       "prefecture": "北海道",
       "city": "岩見沢市",
       "opening_date": "2026-10-17",
       "category": "100円ショップ"
+    },
+    {
+      "name": "バイセル プリコ西明石店",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-10-18",
+      "category": "買取専門店"
     },
     {
       "name": "ワッツウィズはまやまラピタ店",
@@ -1124,27 +1131,6 @@
       "category": "カフェ・喫茶店"
     },
     {
-      "name": "バイセル プリコ西明石店",
-      "prefecture": "兵庫県",
-      "city": "明石市",
-      "opening_date": "2026-10-18",
-      "category": "買取専門店"
-    },
-    {
-      "name": "京都北白川 ラーメン魁力屋 東広島西条店",
-      "prefecture": "広島県",
-      "city": "東広島市",
-      "opening_date": "2026-10-19",
-      "category": "ラーメン"
-    },
-    {
-      "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
-      "prefecture": "神奈川県",
-      "city": "川崎市多摩区",
-      "opening_date": "2026-10-19",
-      "category": "フィットネスジム"
-    },
-    {
       "name": "L’ATELIER L’ARCHESTE GINZA",
       "prefecture": "東京都",
       "city": "中央区",
@@ -1157,6 +1143,13 @@
       "city": "中央区",
       "opening_date": "2026-10-19",
       "category": "カフェ・バー"
+    },
+    {
+      "name": "エニタイムフィットネス 向ヶ丘遊園世田谷通り店",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-10-19",
+      "category": "フィットネスジム"
     },
     {
       "name": "コメダ珈琲店 板橋仲宿店",
@@ -1180,37 +1173,16 @@
       "category": "カフェ"
     },
     {
-      "name": "GINZAグローバルスタイル PREMIUM 天満屋倉敷店",
-      "prefecture": "岡山県",
-      "city": "倉敷市",
-      "opening_date": "2026-10-20",
-      "category": "オーダースーツ"
-    },
-    {
-      "name": "chocoZAP 大垣鶴見",
-      "prefecture": "岐阜県",
-      "city": "大垣市",
-      "opening_date": "2026-10-20",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "ケンタッキーフライドチキン 三次店",
+      "name": "京都北白川 ラーメン魁力屋 東広島西条店",
       "prefecture": "広島県",
-      "city": "三次市",
-      "opening_date": "2026-10-20",
-      "category": "ファストフード"
+      "city": "東広島市",
+      "opening_date": "2026-10-19",
+      "category": "ラーメン"
     },
     {
-      "name": "松屋 千葉仁戸名店（松のや併設）",
-      "prefecture": "千葉県",
-      "city": "千葉市",
-      "opening_date": "2026-10-20",
-      "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "chocoZAP 大東中垣内",
-      "prefecture": "大阪府",
-      "city": "大東市",
+      "name": "chocoZAP 釧路緑ヶ岡",
+      "prefecture": "北海道",
+      "city": "釧路市",
       "opening_date": "2026-10-20",
       "category": "フィットネスジム"
     },
@@ -1222,11 +1194,18 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
-      "prefecture": "東京都",
-      "city": "千代田区",
+      "name": "chocoZAP 大垣鶴見",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
       "opening_date": "2026-10-20",
-      "category": "キャラクターグッズ（リニューアル）"
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 大東中垣内",
+      "prefecture": "大阪府",
+      "city": "大東市",
+      "opening_date": "2026-10-20",
+      "category": "フィットネスジム"
     },
     {
       "name": "chocoZAP 富山金泉寺",
@@ -1243,18 +1222,39 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 釧路緑ヶ岡",
-      "prefecture": "北海道",
-      "city": "釧路市",
+      "name": "GINZAグローバルスタイル PREMIUM 天満屋倉敷店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
       "opening_date": "2026-10-20",
-      "category": "フィットネスジム"
+      "category": "オーダースーツ"
     },
     {
-      "name": "廻鮮江戸前すし魚魚丸 天白店",
-      "prefecture": "愛知県",
-      "city": "名古屋市天白区",
+      "name": "ケンタッキーフライドチキン 三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-20",
+      "category": "ファストフード"
+    },
+    {
+      "name": "リラックマストア＆すみっコぐらしshop 東京駅店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-20",
+      "category": "キャラクターグッズ（リニューアル）"
+    },
+    {
+      "name": "松屋 千葉仁戸名店（松のや併設）",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "opening_date": "2026-10-20",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
       "opening_date": "2026-10-21",
-      "category": "回転寿司"
+      "category": "期間限定ポップアップ（菓子・食品）"
     },
     {
       "name": "エキナカブラン",
@@ -1271,34 +1271,6 @@
       "category": "おむすび（リニューアル）"
     },
     {
-      "name": "デメララベーカリー エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-10-21",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "木村屋總本店 エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-10-21",
-      "category": "ベーカリー（リニューアル）"
-    },
-    {
-      "name": "ピュアココ トーキョー 近鉄あべのハルカス店",
-      "prefecture": "大阪府",
-      "city": "大阪市阿倍野区",
-      "opening_date": "2026-10-21",
-      "category": "洋菓子・スイーツ"
-    },
-    {
-      "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-21",
-      "category": "期間限定ポップアップ（菓子・食品）"
-    },
-    {
       "name": "かつや 中野北口店",
       "prefecture": "東京都",
       "city": "中野区",
@@ -1311,6 +1283,41 @@
       "city": "墨田区",
       "opening_date": "2026-10-21",
       "category": "カフェ"
+    },
+    {
+      "name": "デメララベーカリー エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "ピュアココ トーキョー 近鉄あべのハルカス店",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-10-21",
+      "category": "洋菓子・スイーツ"
+    },
+    {
+      "name": "廻鮮江戸前すし魚魚丸 天白店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-10-21",
+      "category": "回転寿司"
+    },
+    {
+      "name": "木村屋總本店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー（リニューアル）"
+    },
+    {
+      "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定コラボカフェ（ゲーム）"
     },
     {
       "name": "すき家 118号常陸大宮泉店",
@@ -1327,27 +1334,6 @@
       "category": "ナポリタン・スパゲッティー"
     },
     {
-      "name": "八郎そば 大和深見店",
-      "prefecture": "神奈川県",
-      "city": "大和市",
-      "opening_date": "2026-10-22",
-      "category": "そば・和食"
-    },
-    {
-      "name": "不二家 小田原百貨店 湯河原店",
-      "prefecture": "神奈川県",
-      "city": "足柄下郡湯河原町",
-      "opening_date": "2026-10-22",
-      "category": "洋菓子"
-    },
-    {
-      "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-22",
-      "category": "期間限定コラボカフェ（ゲーム）"
-    },
-    {
       "name": "ルルレモン 玉川高島屋S.C.",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -1362,6 +1348,20 @@
       "category": "スポーツ・アパレル"
     },
     {
+      "name": "八郎そば 大和深見店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-22",
+      "category": "そば・和食"
+    },
+    {
+      "name": "不二家 小田原百貨店 湯河原店",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡湯河原町",
+      "opening_date": "2026-10-22",
+      "category": "洋菓子"
+    },
+    {
       "name": "平成ファンシーカフェ（東京・SHIBUYA109渋谷店）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -1369,32 +1369,11 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
-      "name": "OWNDAYS ヴェルサウォーク西尾店",
-      "prefecture": "愛知県",
-      "city": "西尾市",
-      "opening_date": "2026-10-23",
-      "category": "眼鏡・サングラス"
-    },
-    {
-      "name": "Workman Colors イオンモール扶桑店",
-      "prefecture": "愛知県",
-      "city": "丹羽郡扶桑町",
-      "opening_date": "2026-10-23",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
       "prefecture": "埼玉県",
       "city": "三郷市",
       "opening_date": "2026-10-23",
       "category": "シューズ・アパレル（リニューアル）"
-    },
-    {
-      "name": "OWNDAYS 鹿児島天文館店",
-      "prefecture": "鹿児島県",
-      "city": "鹿児島市",
-      "opening_date": "2026-10-23",
-      "category": "眼鏡・サングラス"
     },
     {
       "name": "ABC-MART ボーノ相模大野店（移転スケールアップ）",
@@ -1411,11 +1390,32 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "CHUMS サッポロファクトリー店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-23",
+      "category": "アウトドア・ファッション"
+    },
+    {
+      "name": "Eddie Bauer サッポロファクトリー店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-23",
+      "category": "アウトドア・ファッション"
+    },
+    {
       "name": "GiGO ボーノ相模大野店",
       "prefecture": "神奈川県",
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "アミューズメント"
+    },
+    {
+      "name": "HARE 代官山店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション"
     },
     {
       "name": "illusie300 ボーノ相模大野店",
@@ -1432,53 +1432,18 @@
       "category": "バラエティショップ（リニューアル）"
     },
     {
-      "name": "スターバックスコーヒー ボーノ相模大野店",
-      "prefecture": "神奈川県",
-      "city": "相模原市南区",
+      "name": "OWNDAYS ヴェルサウォーク西尾店",
+      "prefecture": "愛知県",
+      "city": "西尾市",
       "opening_date": "2026-10-23",
-      "category": "カフェ"
+      "category": "眼鏡・サングラス"
     },
     {
-      "name": "ニトリ デコホーム ボーノ相模大野店",
-      "prefecture": "神奈川県",
-      "city": "相模原市南区",
+      "name": "OWNDAYS 鹿児島天文館店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
       "opening_date": "2026-10-23",
-      "category": "インテリア雑貨"
-    },
-    {
-      "name": "モスバーガー ボーノ相模大野店",
-      "prefecture": "神奈川県",
-      "city": "相模原市南区",
-      "opening_date": "2026-10-23",
-      "category": "ハンバーガー"
-    },
-    {
-      "name": "保険見直し本舗 ボーノ相模大野店",
-      "prefecture": "神奈川県",
-      "city": "相模原市南区",
-      "opening_date": "2026-10-23",
-      "category": "保険代理店"
-    },
-    {
-      "name": "豚山 柏店",
-      "prefecture": "千葉県",
-      "city": "柏市",
-      "opening_date": "2026-10-23",
-      "category": "ラーメン"
-    },
-    {
-      "name": "バイセル シャミネ鳥取店",
-      "prefecture": "鳥取県",
-      "city": "鳥取市",
-      "opening_date": "2026-10-23",
-      "category": "買取専門店"
-    },
-    {
-      "name": "HARE 代官山店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-23",
-      "category": "ファッション"
+      "category": "眼鏡・サングラス"
     },
     {
       "name": "PLST ららぽーと豊洲店",
@@ -1486,6 +1451,13 @@
       "city": "江東区",
       "opening_date": "2026-10-23",
       "category": "ファッション（移転リニューアル）"
+    },
+    {
+      "name": "Workman Colors イオンモール扶桑店",
+      "prefecture": "愛知県",
+      "city": "丹羽郡扶桑町",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "ゴンチャ ルミネ有楽町店",
@@ -1509,11 +1481,60 @@
       "category": "オーガニックコスメ・ヘアケア（リニューアル）"
     },
     {
+      "name": "スターバックスコーヒー ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "カフェ"
+    },
+    {
+      "name": "トロ壱 博多駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-23",
+      "category": "居酒屋・海鮮"
+    },
+    {
+      "name": "ニトリ デコホーム ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "インテリア雑貨"
+    },
+    {
+      "name": "バイセル シャミネ鳥取店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-10-23",
+      "category": "買取専門店"
+    },
+    {
+      "name": "フルーツギャザリング イオンモール福岡店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "opening_date": "2026-10-23",
+      "category": "ビューティーセレクトショップ"
+    },
+    {
+      "name": "モスバーガー ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-10-23",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "ユニクロ ららぽーと豊洲店",
       "prefecture": "東京都",
       "city": "江東区",
       "opening_date": "2026-10-23",
       "category": "ファッション（リニューアル）"
+    },
+    {
+      "name": "牡蠣奉行 宇都宮店（期間限定）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-10-23",
+      "category": "期間限定・飲食イベント"
     },
     {
       "name": "廻転鮨 銀座おのでら ハレザ池袋店",
@@ -1530,39 +1551,25 @@
       "category": "眼鏡・サングラス・補聴器"
     },
     {
-      "name": "牡蠣奉行 宇都宮店（期間限定）",
-      "prefecture": "栃木県",
-      "city": "宇都宮市",
+      "name": "豚山 柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
       "opening_date": "2026-10-23",
-      "category": "期間限定・飲食イベント"
+      "category": "ラーメン"
     },
     {
-      "name": "トロ壱 博多駅前店",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
+      "name": "保険見直し本舗 ボーノ相模大野店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
       "opening_date": "2026-10-23",
-      "category": "居酒屋・海鮮"
+      "category": "保険代理店"
     },
     {
-      "name": "フルーツギャザリング イオンモール福岡店",
-      "prefecture": "福岡県",
-      "city": "糟屋郡粕屋町",
-      "opening_date": "2026-10-23",
-      "category": "ビューティーセレクトショップ"
-    },
-    {
-      "name": "CHUMS サッポロファクトリー店",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-23",
-      "category": "アウトドア・ファッション"
-    },
-    {
-      "name": "Eddie Bauer サッポロファクトリー店",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-23",
-      "category": "アウトドア・ファッション"
+      "name": "adabat（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "ゴルフウェア"
     },
     {
       "name": "FIT LABO 坂戸店",
@@ -1570,6 +1577,41 @@
       "city": "坂戸市",
       "opening_date": "2026-10-24",
       "category": "マシンピラティス・セミパーソナルトレーニング"
+    },
+    {
+      "name": "JINS（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "眼鏡"
+    },
+    {
+      "name": "Mark & Lona（神戸三田プレミアム・アウトレット）",
+      "prefecture": "兵庫県",
+      "city": "神戸市北区",
+      "opening_date": "2026-10-24",
+      "category": "スポーツ・アウトドア"
+    },
+    {
+      "name": "Princess Tart 二子玉川",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-24",
+      "category": "フルーツタルト・紅茶専門店"
+    },
+    {
+      "name": "THE NORTH FACE リンクス池袋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "アウトドア・ファッション"
+    },
+    {
+      "name": "アニメイトラシック福岡天神",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-24",
+      "category": "アニメ・キャラクターグッズ"
     },
     {
       "name": "キャンドゥ ハックドラッグ戸塚店",
@@ -1593,53 +1635,11 @@
       "category": "買取専門店"
     },
     {
-      "name": "adabat（LINKS IKEBUKURO 7階）",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "ゴルフウェア"
-    },
-    {
-      "name": "JINS（LINKS IKEBUKURO 7階）",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "眼鏡"
-    },
-    {
-      "name": "Princess Tart 二子玉川",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-10-24",
-      "category": "フルーツタルト・紅茶専門店"
-    },
-    {
-      "name": "THE NORTH FACE リンクス池袋",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "アウトドア・ファッション"
-    },
-    {
       "name": "石井スポーツ POP UP STORE（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
       "opening_date": "2026-10-24",
       "category": "期間限定ポップアップ（アウトドア7ブランド）"
-    },
-    {
-      "name": "アニメイトラシック福岡天神",
-      "prefecture": "福岡県",
-      "city": "福岡市中央区",
-      "opening_date": "2026-10-24",
-      "category": "アニメ・キャラクターグッズ"
-    },
-    {
-      "name": "Mark & Lona（神戸三田プレミアム・アウトレット）",
-      "prefecture": "兵庫県",
-      "city": "神戸市北区",
-      "opening_date": "2026-10-24",
-      "category": "スポーツ・アウトドア"
     },
     {
       "name": "バーガーキング そよらつくば学園の森店",
@@ -1656,16 +1656,16 @@
       "category": "100円ショップ"
     },
     {
-      "name": "chocoZAP 安芸矢野西",
-      "prefecture": "広島県",
-      "city": "広島市安芸区",
+      "name": "chocoZAP せんげん台西一丁目",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
       "opening_date": "2026-10-27",
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP せんげん台西一丁目",
-      "prefecture": "埼玉県",
-      "city": "越谷市",
+      "name": "chocoZAP 安芸矢野西",
+      "prefecture": "広島県",
+      "city": "広島市安芸区",
       "opening_date": "2026-10-27",
       "category": "フィットネスジム"
     },
@@ -1677,11 +1677,25 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "松屋 久喜菖蒲店（松のや併設）",
-      "prefecture": "埼玉県",
-      "city": "久喜市",
+      "name": "chocoZAP 阪神芦屋",
+      "prefecture": "兵庫県",
+      "city": "芦屋市",
       "opening_date": "2026-10-27",
-      "category": "牛丼・定食（松のや併設）"
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "chocoZAP 志免別府（女性専用）",
+      "prefecture": "福岡県",
+      "city": "糟屋郡志免町",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 生駒南口",
+      "prefecture": "奈良県",
+      "city": "生駒市",
+      "opening_date": "2026-10-27",
+      "category": "フィットネスジム"
     },
     {
       "name": "chocoZAP 平野宮町",
@@ -1698,13 +1712,6 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 生駒南口",
-      "prefecture": "奈良県",
-      "city": "生駒市",
-      "opening_date": "2026-10-27",
-      "category": "フィットネスジム"
-    },
-    {
       "name": "JOYFULL EXPRESS イオンモール高岡店",
       "prefecture": "富山県",
       "city": "高岡市",
@@ -1712,25 +1719,18 @@
       "category": "ファミリーレストラン"
     },
     {
-      "name": "chocoZAP 志免別府（女性専用）",
-      "prefecture": "福岡県",
-      "city": "糟屋郡志免町",
+      "name": "松屋 久喜菖蒲店（松のや併設）",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
       "opening_date": "2026-10-27",
-      "category": "フィットネスジム"
+      "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "chocoZAP 阪神芦屋",
-      "prefecture": "兵庫県",
-      "city": "芦屋市",
-      "opening_date": "2026-10-27",
-      "category": "フィットネスジム（リニューアル）"
-    },
-    {
-      "name": "松屋 まえばし赤城モール店",
-      "prefecture": "群馬県",
-      "city": "前橋市",
+      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
       "opening_date": "2026-10-28",
-      "category": "牛丼・定食"
+      "category": "ベーカリー"
     },
     {
       "name": "FaSS 新綱島店",
@@ -1782,6 +1782,20 @@
       "category": "カレー・エスニック料理"
     },
     {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-28",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "すき家 金沢北安江店",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-10-28",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "ハックドラッグ新綱島MICCA店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1801,6 +1815,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "健康・ボディケアショップ"
+    },
+    {
+      "name": "マリベル渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子"
     },
     {
       "name": "沖縄テラス 南風花（はいばな）",
@@ -1838,6 +1859,13 @@
       "category": "とんかつ専門店"
     },
     {
+      "name": "松屋 まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-10-28",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "中華そば みなと橋",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1866,6 +1894,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "博多ぐるぐるとりかわ 竹乃屋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-28",
+      "category": "焼鳥・居酒屋"
+    },
+    {
       "name": "洋食亭ブラームス",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1887,51 +1922,9 @@
       "category": "ベーグル専門店"
     },
     {
-      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-28",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-28",
-      "category": "サンドイッチ"
-    },
-    {
-      "name": "マリベル渋谷",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-28",
-      "category": "チョコレート・洋菓子"
-    },
-    {
-      "name": "博多ぐるぐるとりかわ 竹乃屋",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-28",
-      "category": "焼鳥・居酒屋"
-    },
-    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
-      "opening_date": "2026-10-29",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "キャンドゥ 遠野中央店",
-      "prefecture": "岩手県",
-      "city": "遠野市",
-      "opening_date": "2026-10-29",
-      "category": "100円ショップ"
-    },
-    {
-      "name": "chocoZAP 高崎綿貫",
-      "prefecture": "群馬県",
-      "city": "高崎市",
       "opening_date": "2026-10-29",
       "category": "フィットネスジム"
     },
@@ -1943,32 +1936,18 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "WORKMAN Plus 広島三次店",
-      "prefecture": "広島県",
-      "city": "三次市",
+      "name": "chocoZAP 高崎綿貫",
+      "prefecture": "群馬県",
+      "city": "高崎市",
       "opening_date": "2026-10-29",
-      "category": "作業服・作業用品"
+      "category": "フィットネスジム"
     },
     {
-      "name": "ケーズデンキ 山口店",
-      "prefecture": "山口県",
-      "city": "山口市",
+      "name": "chocoZAP 新伊丹西口",
+      "prefecture": "兵庫県",
+      "city": "伊丹市",
       "opening_date": "2026-10-29",
-      "category": "家電量販店"
-    },
-    {
-      "name": "キャンドゥ むつ小川店",
-      "prefecture": "青森県",
-      "city": "むつ市",
-      "opening_date": "2026-10-29",
-      "category": "100円ショップ"
-    },
-    {
-      "name": "WORKMAN Plus2 牧之原榛原店",
-      "prefecture": "静岡県",
-      "city": "牧之原市",
-      "opening_date": "2026-10-29",
-      "category": "作業服・作業用品（移転リニューアル）"
+      "category": "フィットネスジム"
     },
     {
       "name": "chocoZAP 富田林北口",
@@ -1976,13 +1955,6 @@
       "city": "富田林市",
       "opening_date": "2026-10-29",
       "category": "フィットネスジム"
-    },
-    {
-      "name": "オーケー長吉店",
-      "prefecture": "大阪府",
-      "city": "大阪市平野区",
-      "opening_date": "2026-10-29",
-      "category": "ディスカウントスーパー"
     },
     {
       "name": "RANDY‘S DONUTS 東京ソラマチ店",
@@ -1997,6 +1969,55 @@
       "city": "新宿区",
       "opening_date": "2026-10-29",
       "category": "カフェ・ロースタリー"
+    },
+    {
+      "name": "WORKMAN Plus 広島三次店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-10-29",
+      "category": "作業服・作業用品"
+    },
+    {
+      "name": "WORKMAN Plus2 牧之原榛原店",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-10-29",
+      "category": "作業服・作業用品（移転リニューアル）"
+    },
+    {
+      "name": "オーケー長吉店",
+      "prefecture": "大阪府",
+      "city": "大阪市平野区",
+      "opening_date": "2026-10-29",
+      "category": "ディスカウントスーパー"
+    },
+    {
+      "name": "キャンドゥ むつ小川店",
+      "prefecture": "青森県",
+      "city": "むつ市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ 遠野中央店",
+      "prefecture": "岩手県",
+      "city": "遠野市",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ 中の島1条店",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "opening_date": "2026-10-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ケーズデンキ 山口店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-10-29",
+      "category": "家電量販店"
     },
     {
       "name": "ゴンチャ 東京ソラマチ店",
@@ -2020,79 +2041,30 @@
       "category": "ドーナツ"
     },
     {
-      "name": "chocoZAP 新伊丹西口",
+      "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
-      "city": "伊丹市",
-      "opening_date": "2026-10-29",
-      "category": "フィットネスジム"
+      "city": "神戸市北区",
+      "opening_date": "2026-10-30",
+      "category": "ファッション"
     },
     {
-      "name": "キャンドゥ 中の島1条店",
-      "prefecture": "北海道",
-      "city": "札幌市豊平区",
-      "opening_date": "2026-10-29",
-      "category": "100円ショップ"
+      "name": "CANADA GOOSE（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）"
     },
     {
-      "name": "chocoZAP 瀬戸東松山",
-      "prefecture": "愛知県",
-      "city": "瀬戸市",
+      "name": "chocoZAP いわき下船尾",
+      "prefecture": "福島県",
+      "city": "いわき市",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 浅間町駅前",
-      "prefecture": "愛知県",
-      "city": "名古屋市西区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 天白原一丁目（女性専用）",
-      "prefecture": "愛知県",
-      "city": "名古屋市天白区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 豊橋南牛川（女性専用）",
-      "prefecture": "愛知県",
-      "city": "豊橋市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "Workman Colors イオンタウン刈谷店",
-      "prefecture": "愛知県",
-      "city": "刈谷市",
-      "opening_date": "2026-10-30",
-      "category": "ファッション・カジュアルウェア"
-    },
-    {
-      "name": "松屋 可児店（松のや併設）",
-      "prefecture": "岐阜県",
-      "city": "可児市",
-      "opening_date": "2026-10-30",
-      "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "chocoZAP 宮城野榴岡",
-      "prefecture": "宮城県",
-      "city": "仙台市宮城野区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "バイセル 伊勢崎連取店",
-      "prefecture": "群馬県",
-      "city": "伊勢崎市",
-      "opening_date": "2026-10-30",
-      "category": "買取専門店"
-    },
-    {
-      "name": "chocoZAP 安佐北口田",
-      "prefecture": "広島県",
-      "city": "広島市安佐北区",
+      "name": "chocoZAP いわき東田",
+      "prefecture": "福島県",
+      "city": "いわき市",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
@@ -2104,16 +2076,9 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 鶴ヶ島鶴ヶ丘",
-      "prefecture": "埼玉県",
-      "city": "鶴ヶ島市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 南栗橋西口",
-      "prefecture": "埼玉県",
-      "city": "久喜市",
+      "name": "chocoZAP 安佐北口田",
+      "prefecture": "広島県",
+      "city": "広島市安佐北区",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
@@ -2125,32 +2090,25 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 宮城野榴岡",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 五本木三丁目",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 向ヶ丘遊園東",
       "prefecture": "神奈川県",
       "city": "川崎市多摩区",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 生田（女性専用）",
-      "prefecture": "神奈川県",
-      "city": "川崎市多摩区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 天王町駅南",
-      "prefecture": "神奈川県",
-      "city": "横浜市保土ケ谷区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "ローソン 白楽駅前",
-      "prefecture": "神奈川県",
-      "city": "横浜市神奈川区",
-      "opening_date": "2026-10-30",
-      "category": "コンビニ"
     },
     {
       "name": "chocoZAP 弘前樹木四丁目",
@@ -2167,23 +2125,51 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "CANADA GOOSE（御殿場プレミアム・アウトレット）",
-      "prefecture": "静岡県",
-      "city": "御殿場市",
+      "name": "chocoZAP 高宮駅前",
+      "prefecture": "福岡県",
+      "city": "福岡市南区",
       "opening_date": "2026-10-30",
-      "category": "ファッション・アウトレット（常設店）"
-    },
-    {
-      "name": "MARITHÉ + FRANCOIS GIRBAUD（御殿場プレミアム・アウトレット）",
-      "prefecture": "静岡県",
-      "city": "御殿場市",
-      "opening_date": "2026-10-30",
-      "category": "ファッション・アウトレット（常設店）"
+      "category": "フィットネスジム"
     },
     {
       "name": "chocoZAP 高洲三丁目",
       "prefecture": "千葉県",
       "city": "千葉市美浜区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 佐野田沼",
+      "prefecture": "栃木県",
+      "city": "佐野市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 札幌南藤野三条",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 瀬戸東松山",
+      "prefecture": "愛知県",
+      "city": "瀬戸市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 生田（女性専用）",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 浅間町駅前",
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
@@ -2195,13 +2181,6 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 茂原（女性専用）",
-      "prefecture": "千葉県",
-      "city": "茂原市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
       "name": "chocoZAP 鳥取南吉方",
       "prefecture": "鳥取県",
       "city": "鳥取市",
@@ -2209,16 +2188,44 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "gelato pique シャミネ松江店",
-      "prefecture": "島根県",
-      "city": "松江市",
+      "name": "chocoZAP 鶴ヶ島鶴ヶ丘",
+      "prefecture": "埼玉県",
+      "city": "鶴ヶ島市",
       "opening_date": "2026-10-30",
-      "category": "ファッション・ルームウェア"
+      "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 五本木三丁目",
-      "prefecture": "東京都",
-      "city": "目黒区",
+      "name": "chocoZAP 天王町駅南",
+      "prefecture": "神奈川県",
+      "city": "横浜市保土ケ谷区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 天白原一丁目（女性専用）",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 田村船引",
+      "prefecture": "福島県",
+      "city": "田村市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 南栗橋西口",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 南相馬原町本町",
+      "prefecture": "福島県",
+      "city": "南相馬市",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
@@ -2230,11 +2237,46 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 福島松川",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 兵庫県庁前",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 豊橋南牛川（女性専用）",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 茂原（女性専用）",
+      "prefecture": "千葉県",
+      "city": "茂原市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 立川柴崎町",
       "prefecture": "東京都",
       "city": "立川市",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "gelato pique シャミネ松江店",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・ルームウェア"
     },
     {
       "name": "KENZO ポップアップストア 六本木ヒルズ",
@@ -2251,11 +2293,39 @@
       "category": "ファッション・セレクトショップ"
     },
     {
+      "name": "MARITHÉ + FRANCOIS GIRBAUD（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）"
+    },
+    {
       "name": "PUMA グランベリーパーク店",
       "prefecture": "東京都",
       "city": "町田市",
       "opening_date": "2026-10-30",
       "category": "スポーツ・ファッション（アウトレット）"
+    },
+    {
+      "name": "STANDARD DONUTS 天神西通り店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "ドーナツ専門店"
+    },
+    {
+      "name": "Studio Nicholson（神戸三田プレミアム・アウトレット）",
+      "prefecture": "兵庫県",
+      "city": "神戸市北区",
+      "opening_date": "2026-10-30",
+      "category": "ファッション（期間限定）"
+    },
+    {
+      "name": "Workman Colors イオンタウン刈谷店",
+      "prefecture": "愛知県",
+      "city": "刈谷市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "カラオケまねきねこ 府中駅前店",
@@ -2279,6 +2349,13 @@
       "category": "期間限定キャラクターショップ"
     },
     {
+      "name": "キャンドゥ イオン札幌麻生店（リニューアル）",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "opening_date": "2026-10-30",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
       "name": "ジャルダン・デ・サンス 東京",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -2300,20 +2377,6 @@
       "category": "ハンバーガー"
     },
     {
-      "name": "ペルティカ 多摩境店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-10-30",
-      "category": "レストラン"
-    },
-    {
-      "name": "chocoZAP 佐野田沼",
-      "prefecture": "栃木県",
-      "city": "佐野市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
       "name": "バイセル イオンモール奈良登美ヶ丘店",
       "prefecture": "奈良県",
       "city": "生駒市",
@@ -2321,121 +2384,44 @@
       "category": "買取専門店"
     },
     {
-      "name": "chocoZAP 高宮駅前",
-      "prefecture": "福岡県",
-      "city": "福岡市南区",
+      "name": "バイセル 伊勢崎連取店",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
       "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
+      "category": "買取専門店"
     },
     {
-      "name": "STANDARD DONUTS 天神西通り店",
-      "prefecture": "福岡県",
-      "city": "福岡市中央区",
-      "opening_date": "2026-10-30",
-      "category": "ドーナツ専門店"
-    },
-    {
-      "name": "chocoZAP いわき下船尾",
-      "prefecture": "福島県",
-      "city": "いわき市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP いわき東田",
-      "prefecture": "福島県",
-      "city": "いわき市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 田村船引",
-      "prefecture": "福島県",
-      "city": "田村市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 南相馬原町本町",
-      "prefecture": "福島県",
-      "city": "南相馬市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 福島松川",
-      "prefecture": "福島県",
-      "city": "福島市",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
-      "prefecture": "兵庫県",
-      "city": "神戸市北区",
-      "opening_date": "2026-10-30",
-      "category": "ファッション"
-    },
-    {
-      "name": "chocoZAP 兵庫県庁前",
-      "prefecture": "兵庫県",
-      "city": "神戸市中央区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "Studio Nicholson（神戸三田プレミアム・アウトレット）",
-      "prefecture": "兵庫県",
-      "city": "神戸市北区",
-      "opening_date": "2026-10-30",
-      "category": "ファッション（期間限定）"
-    },
-    {
-      "name": "chocoZAP 札幌南藤野三条",
-      "prefecture": "北海道",
-      "city": "札幌市南区",
-      "opening_date": "2026-10-30",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "キャンドゥ イオン札幌麻生店（リニューアル）",
-      "prefecture": "北海道",
-      "city": "札幌市北区",
-      "opening_date": "2026-10-30",
-      "category": "100円ショップ（リニューアル）"
-    },
-    {
-      "name": "chocoZAP 広島丹那",
-      "prefecture": "広島県",
-      "city": "広島市南区",
-      "opening_date": "2026-10-31",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "キャンドゥ 酒田光ケ丘店",
-      "prefecture": "山形県",
-      "city": "酒田市",
-      "opening_date": "2026-10-31",
-      "category": "100円ショップ"
-    },
-    {
-      "name": "chocoZAP 島原柏野",
-      "prefecture": "長崎県",
-      "city": "島原市",
-      "opening_date": "2026-10-31",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "整体×もみほぐし Refresh",
+      "name": "ペルティカ 多摩境店",
       "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-31",
-      "category": "リラクゼーション"
+      "city": "町田市",
+      "opening_date": "2026-10-30",
+      "category": "レストラン"
+    },
+    {
+      "name": "ローソン 白楽駅前",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-10-30",
+      "category": "コンビニ"
+    },
+    {
+      "name": "松屋 可児店（松のや併設）",
+      "prefecture": "岐阜県",
+      "city": "可児市",
+      "opening_date": "2026-10-30",
+      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "chocoZAP 宇都宮不動前",
       "prefecture": "栃木県",
       "city": "宇都宮市",
+      "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 広島丹那",
+      "prefecture": "広島県",
+      "city": "広島市南区",
       "opening_date": "2026-10-31",
       "category": "フィットネスジム"
     },
@@ -2454,11 +2440,32 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 島原柏野",
+      "prefecture": "長崎県",
+      "city": "島原市",
+      "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 矢板鹿島",
       "prefecture": "栃木県",
       "city": "矢板市",
       "opening_date": "2026-10-31",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "RofJ BY JUMP SHOP POP UP SHOP in SAPPORO",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定ポップアップ（ライフスタイル・アパレル）"
+    },
+    {
+      "name": "キャンドゥ 酒田光ケ丘店",
+      "prefecture": "山形県",
+      "city": "酒田市",
+      "opening_date": "2026-10-31",
+      "category": "100円ショップ"
     },
     {
       "name": "しゃぶ葉 イオンモール福岡伊都店",
@@ -2475,25 +2482,11 @@
       "category": "買取専門店"
     },
     {
-      "name": "RofJ BY JUMP SHOP POP UP SHOP in SAPPORO",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
+      "name": "整体×もみほぐし Refresh",
+      "prefecture": "東京都",
+      "city": "墨田区",
       "opening_date": "2026-10-31",
-      "category": "期間限定ポップアップ（ライフスタイル・アパレル）"
-    },
-    {
-      "name": "ローソン 隼人駅東口",
-      "prefecture": "鹿児島県",
-      "city": "霧島市",
-      "opening_date": "2026-11-01",
-      "category": "コンビニ"
-    },
-    {
-      "name": "スマイルホテルプレミアム鳥取",
-      "prefecture": "鳥取県",
-      "city": "鳥取市",
-      "opening_date": "2026-11-01",
-      "category": "ホテル"
+      "category": "リラクゼーション"
     },
     {
       "name": "OSTERIA SALVATORE 阿佐ヶ谷",
@@ -2517,6 +2510,20 @@
       "category": "100円ショップ"
     },
     {
+      "name": "スマイルホテルプレミアム鳥取",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-01",
+      "category": "ホテル"
+    },
+    {
+      "name": "ローソン 隼人駅東口",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-01",
+      "category": "コンビニ"
+    },
+    {
       "name": "松屋 旭川永山店（松のや併設）",
       "prefecture": "北海道",
       "city": "旭川市",
@@ -2538,6 +2545,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ローソン 岩内町万代",
+      "prefecture": "北海道",
+      "city": "岩内郡岩内町",
+      "opening_date": "2026-11-04",
+      "category": "コンビニ"
+    },
+    {
       "name": "ローソン 三井リンクラボ東陽町",
       "prefecture": "東京都",
       "city": "江東区",
@@ -2552,60 +2566,11 @@
       "category": "コンビニ"
     },
     {
-      "name": "ローソン 岩内町万代",
-      "prefecture": "北海道",
-      "city": "岩内郡岩内町",
-      "opening_date": "2026-11-04",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 羽島市役所南",
-      "prefecture": "岐阜県",
-      "city": "羽島市",
-      "opening_date": "2026-11-05",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン Ｓイオンモール京都五条",
-      "prefecture": "京都府",
-      "city": "京都市右京区",
-      "opening_date": "2026-11-05",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 伏見久我西出町",
-      "prefecture": "京都府",
-      "city": "京都市伏見区",
-      "opening_date": "2026-11-05",
-      "category": "コンビニ"
-    },
-    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
       "opening_date": "2026-11-05",
       "category": "フィットネスジム"
-    },
-    {
-      "name": "アール・エフ・ワン エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-11-05",
-      "category": "惣菜（リニューアル）"
-    },
-    {
-      "name": "ローソン さいたま東大成町二丁目",
-      "prefecture": "埼玉県",
-      "city": "さいたま市北区",
-      "opening_date": "2026-11-05",
-      "category": "コンビニ"
-    },
-    {
-      "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
-      "prefecture": "埼玉県",
-      "city": "羽生市",
-      "opening_date": "2026-11-05",
-      "category": "オムライス（リニューアル）"
     },
     {
       "name": "Penno Penna 大船ルミネウィング店",
@@ -2615,16 +2580,16 @@
       "category": "文具・雑貨"
     },
     {
-      "name": "ローソン 鎌倉御成町",
-      "prefecture": "神奈川県",
-      "city": "鎌倉市",
+      "name": "アール・エフ・ワン エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
       "opening_date": "2026-11-05",
-      "category": "コンビニ"
+      "category": "惣菜（リニューアル）"
     },
     {
-      "name": "ローソン ハチノスクエア",
-      "prefecture": "青森県",
-      "city": "八戸市",
+      "name": "ローソン Ｓイオンモール京都五条",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
       "opening_date": "2026-11-05",
       "category": "コンビニ"
     },
@@ -2636,9 +2601,16 @@
       "category": "コンビニ"
     },
     {
-      "name": "ローソン 台東蔵前四丁目",
-      "prefecture": "東京都",
-      "city": "台東区",
+      "name": "ローソン さいたま東大成町二丁目",
+      "prefecture": "埼玉県",
+      "city": "さいたま市北区",
+      "opening_date": "2026-11-05",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン ハチノスクエア",
+      "prefecture": "青森県",
+      "city": "八戸市",
       "opening_date": "2026-11-05",
       "category": "コンビニ"
     },
@@ -2650,11 +2622,18 @@
       "category": "コンビニ"
     },
     {
-      "name": "松屋 大川店（松のや併設）",
-      "prefecture": "福岡県",
-      "city": "大川市",
+      "name": "ローソン 羽島市役所南",
+      "prefecture": "岐阜県",
+      "city": "羽島市",
       "opening_date": "2026-11-05",
-      "category": "牛丼・定食（松のや併設）"
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 鎌倉御成町",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-11-05",
+      "category": "コンビニ"
     },
     {
       "name": "ローソン 帯広西７条北二丁目",
@@ -2664,6 +2643,34 @@
       "category": "コンビニ"
     },
     {
+      "name": "ローソン 台東蔵前四丁目",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-05",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 伏見久我西出町",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "opening_date": "2026-11-05",
+      "category": "コンビニ"
+    },
+    {
+      "name": "松屋 大川店（松のや併設）",
+      "prefecture": "福岡県",
+      "city": "大川市",
+      "opening_date": "2026-11-05",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-11-05",
+      "category": "オムライス（リニューアル）"
+    },
+    {
       "name": "POP MART 沖縄浦添PARCO CITY店",
       "prefecture": "沖縄県",
       "city": "浦添市",
@@ -2671,9 +2678,30 @@
       "category": "アートトイ・キャラクターグッズ"
     },
     {
-      "name": "ローソン 仙台堤通雨宮町",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
+      "name": "アトリエはるか エミオ練馬店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-06",
+      "category": "ヘアメイク・ビューティーサロン"
+    },
+    {
+      "name": "ふわりノ休足",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-06",
+      "category": "リラクゼーション"
+    },
+    {
+      "name": "リンツ ショコラ ブティック ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-06",
+      "category": "チョコレート"
+    },
+    {
+      "name": "ローソン 横浜浅間町",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
       "opening_date": "2026-11-06",
       "category": "コンビニ"
     },
@@ -2692,39 +2720,18 @@
       "category": "コンビニ"
     },
     {
-      "name": "芋屋金次郎 アミュプラザ鹿児島店",
-      "prefecture": "鹿児島県",
-      "city": "鹿児島市",
-      "opening_date": "2026-11-06",
-      "category": "和菓子・芋菓子"
-    },
-    {
-      "name": "リンツ ショコラ ブティック ラスカ平塚店",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-11-06",
-      "category": "チョコレート"
-    },
-    {
-      "name": "ローソン 横浜浅間町",
-      "prefecture": "神奈川県",
-      "city": "横浜市西区",
+      "name": "ローソン 神戸学園西町四丁目",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
       "opening_date": "2026-11-06",
       "category": "コンビニ"
     },
     {
-      "name": "アトリエはるか エミオ練馬店",
-      "prefecture": "東京都",
-      "city": "練馬区",
+      "name": "ローソン 仙台堤通雨宮町",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
       "opening_date": "2026-11-06",
-      "category": "ヘアメイク・ビューティーサロン"
-    },
-    {
-      "name": "ふわりノ休足",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-11-06",
-      "category": "リラクゼーション"
+      "category": "コンビニ"
     },
     {
       "name": "ローソン 徳島南末広",
@@ -2741,11 +2748,11 @@
       "category": "コンビニ"
     },
     {
-      "name": "ローソン 神戸学園西町四丁目",
-      "prefecture": "兵庫県",
-      "city": "神戸市西区",
+      "name": "芋屋金次郎 アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
       "opening_date": "2026-11-06",
-      "category": "コンビニ"
+      "category": "和菓子・芋菓子"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -2755,13 +2762,6 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "松屋 大正駅前店",
-      "prefecture": "大阪府",
-      "city": "大阪市",
-      "opening_date": "2026-11-07",
-      "category": "牛丼・定食"
-    },
-    {
       "name": "タグ・ホイヤー 東京 銀座",
       "prefecture": "東京都",
       "city": "中央区",
@@ -2769,23 +2769,23 @@
       "category": "高級時計・ウォッチブティック"
     },
     {
-      "name": "chocoZAP 富岡黒川",
-      "prefecture": "群馬県",
-      "city": "富岡市",
-      "opening_date": "2026-11-10",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 段原二丁目",
-      "prefecture": "広島県",
-      "city": "広島市南区",
-      "opening_date": "2026-11-10",
-      "category": "フィットネスジム"
+      "name": "松屋 大正駅前店",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "opening_date": "2026-11-07",
+      "category": "牛丼・定食"
     },
     {
       "name": "chocoZAP さいたま下落合",
       "prefecture": "埼玉県",
       "city": "さいたま市中央区",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 阿倍野三明",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
       "opening_date": "2026-11-10",
       "category": "フィットネスジム"
     },
@@ -2797,16 +2797,9 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 平塚八重咲町",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-11-10",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "chocoZAP 阿倍野三明",
-      "prefecture": "大阪府",
-      "city": "大阪市阿倍野区",
+      "name": "chocoZAP 段原二丁目",
+      "prefecture": "広島県",
+      "city": "広島市南区",
       "opening_date": "2026-11-10",
       "category": "フィットネスジム"
     },
@@ -2825,18 +2818,25 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 富岡黒川",
+      "prefecture": "群馬県",
+      "city": "富岡市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 平塚八重咲町",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
       "opening_date": "2026-11-11",
       "category": "フィットネスジム"
-    },
-    {
-      "name": "平成ファンシーカフェ（大阪・KITTE大阪2号店）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-12",
-      "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -2853,32 +2853,11 @@
       "category": "ファッション"
     },
     {
-      "name": "かにチャーハンの店 エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-11-13",
-      "category": "中華・チャーハン（リニューアル）"
-    },
-    {
-      "name": "ごちとん エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-11-13",
-      "category": "豚汁定食"
-    },
-    {
-      "name": "仙臺たんや利久 エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-11-13",
-      "category": "牛たん（リニューアル）"
-    },
-    {
-      "name": "立鮨 銀座おのでら エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-11-13",
-      "category": "寿司"
+      "name": "平成ファンシーカフェ（大阪・KITTE大阪2号店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
       "name": "sanrio house 渋谷PARCO店",
@@ -2886,13 +2865,6 @@
       "city": "渋谷区",
       "opening_date": "2026-11-13",
       "category": "キャラクターグッズ・アパレル・コスメ・雑貨・食品"
-    },
-    {
-      "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-11-13",
-      "category": "ファッション"
     },
     {
       "name": "アップガレージライダース釧路店",
@@ -2909,6 +2881,20 @@
       "category": "カー用品リユース（10/23プレオープン、11/13グランドオープン）"
     },
     {
+      "name": "かにチャーハンの店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "中華・チャーハン（リニューアル）"
+    },
+    {
+      "name": "ごちとん エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "豚汁定食"
+    },
+    {
       "name": "タイヤ流通センターアップガレージ釧路店",
       "prefecture": "北海道",
       "city": "釧路市",
@@ -2916,11 +2902,25 @@
       "category": "新品タイヤ専門店"
     },
     {
-      "name": "ローカルインディア ラスカ平塚店",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-11-18",
-      "category": "インド料理"
+      "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-13",
+      "category": "ファッション"
+    },
+    {
+      "name": "仙臺たんや利久 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "牛たん（リニューアル）"
+    },
+    {
+      "name": "立鮨 銀座おのでら エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-13",
+      "category": "寿司"
     },
     {
       "name": "PLUSTAアスティ静岡",
@@ -2928,6 +2928,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "土産・食品（リニューアル）"
+    },
+    {
+      "name": "ローカルインディア ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-18",
+      "category": "インド料理"
     },
     {
       "name": "御座候 アスティ静岡店",
@@ -2984,6 +2991,13 @@
       "city": "京都市南区",
       "opening_date": "2026-11-27",
       "category": "生活雑貨・文具・美容雑貨"
+    },
+    {
+      "name": "Guzman y Gomez 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "メキシカン・ファストカジュアル"
     },
     {
       "name": "キル フェ ボン新宿",
