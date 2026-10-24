@@ -1,0 +1,47 @@
+{
+  "run_at": "2026-10-24T23:43:29+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "update": {
+    "before_blob_sha": "704012b3b7081ebc16909f0d4aeef775664c6603",
+    "sha_passed_to_update_request": "704012b3b7081ebc16909f0d4aeef775664c6603",
+    "after_blob_sha": "2a9525d802b997b64d84184cc936157cd3c99abc",
+    "commit_sha": "6105b04f429f440c2f3461d07e7fa0afccc5881b",
+    "before_count": 376,
+    "after_count": 378,
+    "updated_at": "2026-10-24T23:43:29+09:00"
+  },
+  "added_items": [
+    {
+      "name": "OWNDAYS ヴェルサウォーク西尾店",
+      "prefecture": "愛知県",
+      "city": "西尾市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡・サングラス",
+      "source": "https://prtimes.jp/main/html/rd/p/000000306.000005214.html"
+    },
+    {
+      "name": "OWNDAYS 鹿児島天文館店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-10-23",
+      "category": "眼鏡・サングラス",
+      "source": "https://prtimes.jp/main/html/rd/p/000000303.000005214.html"
+    }
+  ],
+  "verification": {
+    "refetched": true,
+    "fetched_blob_sha": "2a9525d802b997b64d84184cc936157cd3c99abc",
+    "json_parse_valid": true,
+    "count_matches": true,
+    "both_added_items_present": true,
+    "period_unchanged": "2026-09-18/2026-11-28"
+  },
+  "errors": [],
+  "unverified": [
+    "GitHub connector did not expose the HTTP status code.",
+    "National completeness of all store-opening announcements was not established; only confirmed and previously absent entries were added."
+  ]
+}
