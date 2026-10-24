@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-10-24T18:39:57+09:00",
+  "task": "全国 開店予定JSON",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "previous_blob_sha": "9ba251616eb8b449b7c899b2c2d0ddc185f4c1d0",
+  "update_request_sha": "9ba251616eb8b449b7c899b2c2d0ddc185f4c1d0",
+  "updated_blob_sha": "a688e1ae33616a6c4fa34fe1a40a2fe5cf5dfe60",
+  "commit_sha": "6138e878ed9f5182fa8828f81181f6cab7db3e42",
+  "count_before": 354,
+  "count_after": 363,
+  "added": [
+    {
+      "name": "廻転鮨 銀座おのでら ハレザ池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "回転寿司"
+    },
+    {
+      "name": "ゴンチャ ルミネ有楽町店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-23",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "博多ぐるぐるとりかわ 竹乃屋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-28",
+      "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "UNI COFFEE ROASTERY シタディーンノース新宿東京",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-29",
+      "category": "カフェ・ロースタリー"
+    },
+    {
+      "name": "キイロイトリ銭湯（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定キャラクターストア"
+    },
+    {
+      "name": "ジャルダン・デ・サンス 東京",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "フランス料理（リニューアル）"
+    },
+    {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-11-05",
+      "category": "文具・雑貨"
+    },
+    {
+      "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定コラボカフェ（アーティスト）"
+    }
+  ],
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000092.000118864.html",
+    "https://prtimes.jp/main/html/rd/p/000000437.000048503.html",
+    "https://prtimes.jp/main/html/rd/p/000000028.000068697.html",
+    "https://prtimes.jp/main/html/rd/p/000000038.000092330.html",
+    "https://prtimes.jp/main/html/rd/p/000000126.000084389.html",
+    "https://prtimes.jp/main/html/rd/p/000000411.000001117.html",
+    "https://prtimes.jp/main/html/rd/p/000000263.000097330.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+    "https://prtimes.jp/main/html/rd/p/000000333.000086964.html"
+  ],
+  "verification": {
+    "fetch_after_write": "success",
+    "verified_blob_sha": "a688e1ae33616a6c4fa34fe1a40a2fe5cf5dfe60",
+    "verified_count": 363,
+    "all_9_added_records_found": true,
+    "json_valid": true
+  },
+  "http_status": "not returned by connector",
+  "error": null,
+  "retry": "not needed"
+}
