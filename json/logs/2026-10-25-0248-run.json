@@ -1,0 +1,53 @@
+{
+  "run_at": "2026-10-25T02:48:24+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_checks": [
+    {
+      "name": "イオンモールKYOTOロフト",
+      "opening_date": "2026-11-27",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001824.000018324.html",
+      "source_type": "株式会社ロフト公式発表"
+    },
+    {
+      "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "opening_date": "2026-11-05",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "source_url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "source_type": "イオンモール羽生公式店舗ニュース"
+    }
+  ],
+  "changes": {
+    "previous_item_count": 389,
+    "added_item_count": 2,
+    "resulting_item_count": 391,
+    "items": [
+      "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "イオンモールKYOTOロフト"
+    ]
+  },
+  "github": {
+    "previous_blob_sha": "c54009aa6aad356f26974ef407df9943d53ed620",
+    "updated_blob_sha": "630a456b5454f44dbb4575ca37ba7cd5237189bb",
+    "commit_sha": "154debf04cc84af10135f5ba021c59fc125845c9",
+    "write_result": "success",
+    "readback_result": "success"
+  },
+  "validation": {
+    "json_parse": "success",
+    "both_added_records_present_exactly_once": true,
+    "updated_at": "2026-10-25T02:48:24+09:00",
+    "period": "2026-09-18/2026-11-28"
+  },
+  "errors": [],
+  "unverified": [
+    "全国の開店情報を完全に網羅できたかは未確認。",
+    "GitHubコネクタからHTTPステータスコードは取得できなかった。"
+  ]
+}
