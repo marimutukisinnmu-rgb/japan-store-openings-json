@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T12:41:56+09:00",
+  "updatetime": "2026-10-24T13:40:24+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1901,6 +1901,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP いわき東田",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP さいたま東大門（女性専用）",
       "prefecture": "埼玉県",
       "city": "さいたま市緑区",
@@ -1943,9 +1950,23 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 弘前樹木四丁目",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 弘前東城北",
       "prefecture": "青森県",
       "city": "弘前市",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 高宮駅前",
+      "prefecture": "福岡県",
+      "city": "福岡市南区",
       "opening_date": "2026-10-30",
       "category": "フィットネスジム"
     },
