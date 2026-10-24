@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-10-25T08:41:48+09:00",
+  "target": "json/latest.json",
+  "source_file_before": {
+    "blob_sha": "2f1d35a5b7cd288c48219ed7ca8c993dfea61c35",
+    "item_count": 439,
+    "updatetime": "2026-10-25T07:48:49+09:00"
+  },
+  "sources": [
+    {
+      "name": "サブウェイ 川崎市役所前店",
+      "url": "https://subway.co.jp/news/n4-kw4yuv/",
+      "publisher": "サブウェイ公式サイト",
+      "published": "2026-10-23",
+      "opening_date": "2026-10-30",
+      "location": "神奈川県川崎市川崎区東田町8 パレール1階",
+      "verification": "店名、開店日、住所を公式発表で確認"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026/10/2026_musashikosugi.html",
+      "publisher": "タリーズコーヒージャパン公式サイト",
+      "published": "2026-10-20",
+      "opening_date": "2026-10-30",
+      "location": "神奈川県川崎市中原区小杉町3-472 武蔵小杉東急スクエア1階",
+      "verification": "店名、開店日、住所を公式発表で確認"
+    }
+  ],
+  "changes": [
+    {
+      "action": "add",
+      "name": "サブウェイ 川崎市役所前店",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "opening_date": "2026-10-30",
+      "category": "サンドイッチ"
+    },
+    {
+      "action": "add",
+      "name": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-10-30",
+      "category": "カフェ・ティー専門店"
+    }
+  ],
+  "skipped": [
+    "サブウェイ 住友不動産秋葉原ファーストビル店: 既存登録を確認したため重複追加せず",
+    "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店: 既存登録を確認したため重複追加せず",
+    "キイロイトリ銭湯: 既存登録を確認したため重複追加せず"
+  ],
+  "source_file_after": {
+    "blob_sha": "ae3d8a0e425fdee4e38f9f60753c971b51d4bb26",
+    "commit_sha": "a9e135fac8ae1f8b24b192913b644a0ef9beb986",
+    "item_count": 441,
+    "updatetime": "2026-10-25T08:41:48+09:00",
+    "verification": "保存後に再取得し、JSON構文、441件、新規2件が各1件、開店日順を確認"
+  },
+  "errors": [
+    "GitHubコネクタからHTTPステータスコードは取得できず"
+  ],
+  "unverified": [
+    "全国すべての開店予定を網羅できたことは保証できない"
+  ]
+}
