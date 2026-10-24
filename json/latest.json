@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-23T22:48:13+09:00",
+  "updatetime": "2026-10-24T12:41:56+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1306,6 +1306,13 @@
       "category": "ベーカリー（リニューアル）"
     },
     {
+      "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定コラボカフェ（ゲーム）"
+    },
+    {
       "name": "すき家 118号常陸大宮泉店",
       "prefecture": "茨城県",
       "city": "常陸大宮市",
@@ -1481,6 +1488,13 @@
       "category": "フルーツタルト・紅茶専門店"
     },
     {
+      "name": "THE NORTH FACE リンクス池袋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "アウトドア・ファッション"
+    },
+    {
       "name": "アニメイトラシック福岡天神",
       "prefecture": "福岡県",
       "city": "福岡市中央区",
@@ -1507,13 +1521,6 @@
       "city": "松戸市",
       "opening_date": "2026-10-24",
       "category": "買取専門店"
-    },
-    {
-      "name": "THE NORTH FACE リンクス池袋",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "アウトドア・ファッション"
     },
     {
       "name": "バーガーキング そよらつくば学園の森店",
@@ -1647,6 +1654,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "カレー・エスニック料理"
+    },
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-28",
+      "category": "サンドイッチ"
     },
     {
       "name": "ハックドラッグ新綱島MICCA店",
@@ -1857,6 +1871,13 @@
       "city": "墨田区",
       "opening_date": "2026-10-29",
       "category": "ティーカフェ"
+    },
+    {
+      "name": "フードスタイル東五反田店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-29",
+      "category": "スーパーマーケット（リニューアル）"
     },
     {
       "name": "ランディーズドーナツ 東京スカイツリータウン・ソラマチ店",
@@ -2095,6 +2116,13 @@
       "city": "町田市",
       "opening_date": "2026-10-30",
       "category": "スポーツ・ファッション（アウトレット）"
+    },
+    {
+      "name": "STANDARD DONUTS 天神西通り店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "ドーナツ専門店"
     },
     {
       "name": "Studio Nicholson（神戸三田プレミアム・アウトレット）",
