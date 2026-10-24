@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T20:47:34+09:00",
+  "updatetime": "2026-10-24T21:42:44+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1089,6 +1089,13 @@
       "category": "リユースショップ（リニューアル）"
     },
     {
+      "name": "ecnue soin EBISU",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-17",
+      "category": "ネイル・ビューティー（旗艦店）"
+    },
+    {
       "name": "ワッツウィズ草津ラ・ムー店",
       "prefecture": "滋賀県",
       "city": "草津市",
@@ -1341,6 +1348,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "opening_date": "2026-10-23",
+      "category": "シューズ・アパレル（リニューアル）"
+    },
+    {
       "name": "ABC-MART ボーノ相模大野店（移転スケールアップ）",
       "prefecture": "神奈川県",
       "city": "相模原市南区",
@@ -1495,11 +1509,25 @@
       "category": "保険代理店"
     },
     {
+      "name": "adabat（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "ゴルフウェア"
+    },
+    {
       "name": "FIT LABO 坂戸店",
       "prefecture": "埼玉県",
       "city": "坂戸市",
       "opening_date": "2026-10-24",
       "category": "マシンピラティス・セミパーソナルトレーニング"
+    },
+    {
+      "name": "JINS（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "眼鏡"
     },
     {
       "name": "Mark & Lona（神戸三田プレミアム・アウトレット）",
@@ -1549,20 +1577,6 @@
       "city": "松戸市",
       "opening_date": "2026-10-24",
       "category": "買取専門店"
-    },
-    {
-      "name": "adabat（LINKS IKEBUKURO 7階）",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "ゴルフウェア"
-    },
-    {
-      "name": "JINS（LINKS IKEBUKURO 7階）",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-24",
-      "category": "眼鏡"
     },
     {
       "name": "石井スポーツ POP UP STORE（LINKS IKEBUKURO 7階）",
@@ -2529,6 +2543,13 @@
       "city": "町田市",
       "opening_date": "2026-11-12",
       "category": "ファッション"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "キャラクターグッズ・アパレル・コスメ・雑貨・食品"
     },
     {
       "name": "かにチャーハンの店 エキュート大宮店",
