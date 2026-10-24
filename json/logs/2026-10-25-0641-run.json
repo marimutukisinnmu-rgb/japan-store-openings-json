@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-10-25T06:41:52+09:00",
+  "target_file": "json/latest.json",
+  "before_count": 430,
+  "added_count": 2,
+  "after_count": 432,
+  "changes": [
+    {
+      "name": "すき家 金沢北安江店",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-10-28",
+      "category": "牛丼・定食",
+      "source": "https://maps.sukiya.jp/jp/detail/6629.html"
+    },
+    {
+      "name": "Guzman y Gomez 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "メキシカン・ファストカジュアル",
+      "source": "https://prtimes.jp/main/html/rd/p/000000498.000040062.html"
+    }
+  ],
+  "duplicate_candidates_not_added": [
+    "廻転鮨 銀座おのでら ハレザ池袋店",
+    "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
+    "POP MART 池袋PARCO店",
+    "キル フェ ボン新宿",
+    "フードスタイル東五反田店",
+    "サブウェイ 住友不動産秋葉原ファーストビル店",
+    "STANDARD DONUTS 天神西通り店",
+    "HARE 代官山店"
+  ],
+  "before_blob_sha": "0980383b2533733b6e353c6f47d2bad7990d76c4",
+  "after_blob_sha": "976ad25870b9a4720afd44552c730d769a174c1f",
+  "update_commit_sha": "4bb7463e8ef6a76cc159b806b3cfcf6d9d894550",
+  "validation": {
+    "json_parse": "passed",
+    "reread_after_write": "passed",
+    "item_count": 432,
+    "new_items_each_exactly_once": true,
+    "sorted_by_opening_date": true
+  },
+  "errors": [
+    "GitHub connector did not provide an HTTP status code."
+  ],
+  "unverified": [
+    "National coverage of all newly announced openings is not guaranteed."
+  ]
+}
