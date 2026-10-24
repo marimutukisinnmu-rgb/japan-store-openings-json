@@ -1,0 +1,55 @@
+{
+  "run_at": "2026-10-25T01:43:17+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "item_count": 387,
+    "blob_sha": "f9b000ddd36d6d27cbc2ca68e006ac5292bab6d8"
+  },
+  "added": [
+    {
+      "name": "タグ・ホイヤー 東京 銀座",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-07",
+      "category": "高級時計・ウォッチブティック",
+      "source": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html"
+    },
+    {
+      "name": "Japan Blue Jeans SHIBUYA PARCO",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "デニム・ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000015.000112208.html/"
+    }
+  ],
+  "skipped_existing": [
+    {
+      "name": "HARE 代官山店",
+      "opening_date": "2026-10-23",
+      "reason": "同名・同日データが既に登録済み。重複追加せず。",
+      "source": "https://prtimes.jp/main/html/rd/p/000003326.000001304.html"
+    }
+  ],
+  "after": {
+    "item_count": 389,
+    "blob_sha": "c54009aa6aad356f26974ef407df9943d53ed620",
+    "updatetime": "2026-10-25T01:43:17+09:00"
+  },
+  "verification": {
+    "json_parse": "success",
+    "updated_file_refetch": "success",
+    "new_entries_found": 2,
+    "duplicate_name_date_pairs": 0
+  },
+  "errors": [
+    "GitHub connector did not expose an HTTP status for the successful update."
+  ],
+  "unverified": [
+    "Nationwide coverage is not guaranteed; only confirmed announcements were added."
+  ]
+}
