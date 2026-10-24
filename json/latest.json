@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-25T02:48:24+09:00",
+  "updatetime": "2026-10-25T03:45:03+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1348,6 +1348,20 @@
       "category": "そば・和食"
     },
     {
+      "name": "スパゲッティーのパンチョ 上尾店",
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "opening_date": "2026-10-22",
+      "category": "ナポリタン・スパゲッティー"
+    },
+    {
+      "name": "ルルレモン玉川髙島屋S.C. ストア",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-22",
+      "category": "スポーツ・アパレル"
+    },
+    {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
       "prefecture": "埼玉県",
       "city": "三郷市",
@@ -1521,6 +1535,27 @@
       "city": "柏市",
       "opening_date": "2026-10-23",
       "category": "ラーメン"
+    },
+    {
+      "name": "Eddie Bauer サッポロファクトリー店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-23",
+      "category": "アウトドア・ファッション"
+    },
+    {
+      "name": "ジョンマスターオーガニック 有楽町マルイ店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-23",
+      "category": "オーガニックコスメ・ヘアケア（リニューアル）"
+    },
+    {
+      "name": "フルーツギャザリング イオンモール福岡店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "opening_date": "2026-10-23",
+      "category": "ビューティーセレクトショップ"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -2662,6 +2697,27 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "アップガレージ釧路店",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "opening_date": "2026-11-13",
+      "category": "カー用品リユース（10/23プレオープン、11/13グランドオープン）"
+    },
+    {
+      "name": "アップガレージライダース釧路店",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "opening_date": "2026-11-13",
+      "category": "バイク用品リユース"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ釧路店",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "opening_date": "2026-11-13",
+      "category": "新品タイヤ専門店"
     },
     {
       "name": "PLUSTAアスティ静岡",
