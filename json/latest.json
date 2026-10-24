@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T23:43:29+09:00",
+  "updatetime": "2026-10-25T00:43:27+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2648,6 +2648,69 @@
       "city": "鹿児島市",
       "opening_date": "2026-10-23",
       "category": "眼鏡・サングラス"
+    },
+    {
+      "name": "芋屋金次郎 アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-06",
+      "category": "和菓子・芋菓子"
+    },
+    {
+      "name": "グラニフ京都",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-11-19",
+      "category": "ファッション・キャラクターグッズ・カフェ"
+    },
+    {
+      "name": "ディズニーストア アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-19",
+      "category": "キャラクターグッズ・雑貨"
+    },
+    {
+      "name": "Vans Store Shibuya PARCO",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・アパレル"
+    },
+    {
+      "name": "リンツ ショコラ ブティック ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-06",
+      "category": "チョコレート"
+    },
+    {
+      "name": "ローカルインディア ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-18",
+      "category": "インド料理"
+    },
+    {
+      "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-03",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨（移転リニューアル）"
+    },
+    {
+      "name": "スマイルホテルプレミアム鳥取",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-01",
+      "category": "ホテル"
     }
   ]
 }
