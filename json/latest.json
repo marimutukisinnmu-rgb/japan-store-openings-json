@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-12-10",
   "scope": "Japan",
-  "updatetime": "2026-10-25T06:41:52+09:00",
+  "updatetime": "2026-10-25T07:48:49+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1073,6 +1073,13 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
+    },
+    {
+      "name": "H&F BELX 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-16",
+      "category": "ノンカフェインティー・ハーブティー"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -2538,6 +2545,41 @@
       "category": "ラーメン（リニューアル）"
     },
     {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（なんば1号店）",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（福岡店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（仙台店）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
       "name": "ローソン Ｓ京都山城総合医療センター",
       "prefecture": "京都府",
       "city": "木津川市",
@@ -2753,6 +2795,13 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-06",
       "category": "和菓子・芋菓子"
+    },
+    {
+      "name": "Zoff 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-06",
+      "category": "メガネ・アイウェア"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
