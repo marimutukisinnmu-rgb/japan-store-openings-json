@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T19:48:55+09:00",
+  "updatetime": "2026-10-24T20:47:34+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1334,6 +1334,13 @@
       "category": "そば・和食"
     },
     {
+      "name": "不二家 小田原百貨店 湯河原店",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡湯河原町",
+      "opening_date": "2026-10-22",
+      "category": "洋菓子"
+    },
+    {
       "name": "ABC-MART ボーノ相模大野店（移転スケールアップ）",
       "prefecture": "神奈川県",
       "city": "相模原市南区",
@@ -1542,6 +1549,27 @@
       "city": "松戸市",
       "opening_date": "2026-10-24",
       "category": "買取専門店"
+    },
+    {
+      "name": "adabat（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "ゴルフウェア"
+    },
+    {
+      "name": "JINS（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "眼鏡"
+    },
+    {
+      "name": "石井スポーツ POP UP STORE（LINKS IKEBUKURO 7階）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-24",
+      "category": "期間限定ポップアップ（アウトドア7ブランド）"
     },
     {
       "name": "バーガーキング そよらつくば学園の森店",
