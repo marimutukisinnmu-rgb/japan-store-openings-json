@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-25T01:43:17+09:00",
+  "updatetime": "2026-10-25T02:48:24+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2482,6 +2482,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "羽生市",
+      "opening_date": "2026-11-05",
+      "category": "オムライス（リニューアル）"
+    },
+    {
       "name": "POP MART 沖縄浦添PARCO CITY店",
       "prefecture": "沖縄県",
       "city": "浦添市",
@@ -2718,6 +2725,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-20",
       "category": "シューズ・アパレル"
+    },
+    {
+      "name": "イオンモールKYOTOロフト",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・文具・美容雑貨"
     },
     {
       "name": "キル フェ ボン新宿",
