@@ -1,0 +1,103 @@
+{
+  "run_at": "2026-10-25T00:43:27+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "previous": {
+    "blob_sha": "2a9525d802b997b64d84184cc936157cd3c99abc",
+    "item_count": 378,
+    "updatetime": "2026-10-24T23:43:29+09:00"
+  },
+  "update": {
+    "added_count": 9,
+    "item_count_after": 387,
+    "updatetime": "2026-10-25T00:43:27+09:00",
+    "blob_sha_after": "f9b000ddd36d6d27cbc2ca68e006ac5292bab6d8",
+    "commit_sha": "2d9fbcc7decf1d5311e074c32ea45e444d9781c0",
+    "json_parse_validation": true,
+    "re_fetch_validation": true,
+    "all_added_records_found_exactly_once": true
+  },
+  "added_items": [
+    {
+      "name": "芋屋金次郎 アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-06",
+      "category": "和菓子・芋菓子",
+      "source": "https://prtimes.jp/main/html/rd/p/000000065.000081839.html"
+    },
+    {
+      "name": "グラニフ京都",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-11-19",
+      "category": "ファッション・キャラクターグッズ・カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000226.000067867.html"
+    },
+    {
+      "name": "ディズニーストア アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-19",
+      "category": "キャラクターグッズ・雑貨",
+      "source": "https://prtimes.jp/main/html/rd/p/000000800.000002021.html"
+    },
+    {
+      "name": "Vans Store Shibuya PARCO",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・アパレル",
+      "source": "https://prtimes.jp/main/html/rd/p/000000120.000131577.html"
+    },
+    {
+      "name": "リンツ ショコラ ブティック ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-06",
+      "category": "チョコレート",
+      "source": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html"
+    },
+    {
+      "name": "ローカルインディア ラスカ平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-18",
+      "category": "インド料理",
+      "source": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html"
+    },
+    {
+      "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-03",
+      "category": "ラーメン（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html"
+    },
+    {
+      "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨（移転リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html"
+    },
+    {
+      "name": "スマイルホテルプレミアム鳥取",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-01",
+      "category": "ホテル",
+      "source": "https://prtimes.jp/main/html/rd/p/000000131.000078364.html"
+    }
+  ],
+  "notes": [
+    "Added entries were checked against the existing item names before writing.",
+    "Renewal/relocation entries are explicitly marked in name/category.",
+    "No existing records were removed or overwritten.",
+    "HTTP status code was not exposed by the GitHub connector."
+  ]
+}
