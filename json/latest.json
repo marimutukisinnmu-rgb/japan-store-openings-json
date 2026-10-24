@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T21:42:44+09:00",
+  "updatetime": "2026-10-24T22:48:54+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2613,6 +2613,27 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "カラオケまねきねこ 府中駅前店",
+      "prefecture": "東京都",
+      "city": "府中市",
+      "opening_date": "2026-10-30",
+      "category": "カラオケ"
+    },
+    {
+      "name": "CANADA GOOSE（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）"
+    },
+    {
+      "name": "MARITHÉ + FRANCOIS GIRBAUD（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・アウトレット（常設店）"
     }
   ]
 }
