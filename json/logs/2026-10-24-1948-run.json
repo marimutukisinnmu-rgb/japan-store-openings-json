@@ -1,0 +1,60 @@
+{
+  "run_at": "2026-10-24T19:48:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+    "https://prtimes.jp/main/html/rd/p/000000555.000046400.html",
+    "https://prtimes.jp/main/html/rd/p/000000195.000049183.html"
+  ],
+  "before": {
+    "blob_sha": "a688e1ae33616a6c4fa34fe1a40a2fe5cf5dfe60",
+    "item_count": 363,
+    "updatetime": "2026-10-24T18:39:57+09:00"
+  },
+  "added_items": [
+    {
+      "name": "トロ壱 博多駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-23",
+      "category": "居酒屋・海鮮",
+      "source": "https://prtimes.jp/main/html/rd/p/000000195.000049183.html"
+    },
+    {
+      "name": "POP MART 沖縄浦添PARCO CITY店",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-11-06",
+      "category": "アートトイ・キャラクターグッズ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html"
+    },
+    {
+      "name": "アトリエはるか エミオ練馬店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-06",
+      "category": "ヘアメイク・ビューティーサロン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000555.000046400.html"
+    }
+  ],
+  "after": {
+    "blob_sha": "560069267be1d02bd4fcfba320c7c6f51f095b59",
+    "commit_sha": "1012d0f2d6a43d31fc39e786dfdabaa78186eb33",
+    "item_count": 366,
+    "updatetime": "2026-10-24T19:48:55+09:00"
+  },
+  "verification": {
+    "fetched_after_write": true,
+    "json_parse_success": true,
+    "all_added_items_present": true,
+    "duplicate_name_and_date_check_passed": true
+  },
+  "errors": [],
+  "unverified": [
+    "No exhaustive nationwide discovery can guarantee every newly announced opening was found in this run."
+  ]
+}
