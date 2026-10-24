@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-10-25T03:45:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_checks": [
+    {
+      "name": "スパゲッティーのパンチョ 上尾店",
+      "opening_date": "2026-10-22",
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000115.000117096.html",
+      "source_type": "株式会社パンチョ公式プレスリリース",
+      "release_date": "2026-10-15"
+    },
+    {
+      "name": "ルルレモン玉川髙島屋S.C. ストア",
+      "opening_date": "2026-10-22",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000079540.html",
+      "source_type": "lululemon athletica JP合同会社プレスリリース",
+      "release_date": "2026-09-30"
+    },
+    {
+      "name": "Eddie Bauer サッポロファクトリー店",
+      "opening_date": "2026-10-23",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000074.000064544.html",
+      "source_type": "株式会社水甚プレスリリース",
+      "release_date": "2026-10-21"
+    },
+    {
+      "name": "ジョンマスターオーガニック 有楽町マルイ店（リニューアル）",
+      "opening_date": "2026-10-23",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000399.000011608.html",
+      "source_type": "株式会社ジョンマスターオーガニックグループプレスリリース",
+      "release_date": "2026-10-19"
+    },
+    {
+      "name": "フルーツギャザリング イオンモール福岡店",
+      "opening_date": "2026-10-23",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000114019.html",
+      "source_type": "エフ・ジー・ジェイ株式会社プレスリリース",
+      "release_date": "2026-09-15"
+    },
+    {
+      "name": "アップガレージ釧路店",
+      "opening_date": "2026-11-13",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000227.000058006.html",
+      "source_type": "株式会社アップガレージグループプレスリリース",
+      "release_date": "2026-10-14",
+      "note": "10月23日プレオープン、11月13日グランドオープン"
+    },
+    {
+      "name": "アップガレージライダース釧路店",
+      "opening_date": "2026-11-13",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000227.000058006.html",
+      "source_type": "株式会社アップガレージグループプレスリリース",
+      "release_date": "2026-10-14"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ釧路店",
+      "opening_date": "2026-11-13",
+      "prefecture": "北海道",
+      "city": "釧路市",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000227.000058006.html",
+      "source_type": "株式会社アップガレージグループプレスリリース",
+      "release_date": "2026-10-14"
+    }
+  ],
+  "changes": {
+    "previous_item_count": 391,
+    "added_item_count": 8,
+    "resulting_item_count": 399,
+    "items": [
+      "スパゲッティーのパンチョ 上尾店",
+      "ルルレモン玉川髙島屋S.C. ストア",
+      "Eddie Bauer サッポロファクトリー店",
+      "ジョンマスターオーガニック 有楽町マルイ店（リニューアル）",
+      "フルーツギャザリング イオンモール福岡店",
+      "アップガレージ釧路店",
+      "アップガレージライダース釧路店",
+      "タイヤ流通センターアップガレージ釧路店"
+    ]
+  },
+  "github": {
+    "previous_blob_sha": "630a456b5454f44dbb4575ca37ba7cd5237189bb",
+    "updated_blob_sha": "f82469f7450d4bc9df3a03a588e667eedc71a028",
+    "commit_sha": "e412eae58d2f1ea46acf8f1d8f366beffb5c0f68",
+    "write_result": "success",
+    "readback_result": "success"
+  },
+  "validation": {
+    "json_parse": "success",
+    "all_eight_added_records_present_exactly_once": true,
+    "items_sorted_by_opening_date": true,
+    "updated_at": "2026-10-25T03:45:03+09:00",
+    "period": "2026-09-18/2026-11-28"
+  },
+  "errors": [],
+  "unverified": [
+    "全国の開店情報を完全に網羅できたかは未確認。",
+    "GitHubコネクタからHTTPステータスコードは取得できなかった。",
+    "アップガレージ釧路店は10月23日に買取のみでプレオープン済み。JSONのopening_dateは11月13日のグランドオープン日を採用。"
+  ]
+}
