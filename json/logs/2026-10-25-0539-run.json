@@ -1,0 +1,146 @@
+{
+  "run_at": "2026-10-25T05:39:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "count": 422,
+    "blob_sha": "01dcb0c3d629ceb383efe0fb672425ed6ae595a2",
+    "period": "2026-09-18/2026-11-28"
+  },
+  "changes": {
+    "added_count": 8,
+    "added_items": [
+      {
+        "name": "RANDY‘S DONUTS 東京ソラマチ店",
+        "prefecture": "東京都",
+        "city": "墨田区",
+        "opening_date": "2026-10-29",
+        "category": "ドーナツ・洋菓子"
+      },
+      {
+        "name": "キイロイトリ銭湯（東京駅一番街）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-10-30",
+        "category": "期間限定キャラクターショップ"
+      },
+      {
+        "name": "OSTERIA SALVATORE 阿佐ヶ谷",
+        "prefecture": "東京都",
+        "city": "杉並区",
+        "opening_date": "2026-11-01",
+        "category": "イタリア料理・カフェ"
+      },
+      {
+        "name": "Puffy & Sweety",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-01",
+        "category": "テイクアウトスイーツ"
+      },
+      {
+        "name": "ローソン Ｓイオンモール京都五条",
+        "prefecture": "京都府",
+        "city": "京都市右京区",
+        "opening_date": "2026-11-05",
+        "category": "コンビニ"
+      },
+      {
+        "name": "&TEAM CAFE～THE WOLF BUTLERS～（大阪・KITTE大阪1号店）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-03",
+        "category": "期間限定コラボカフェ（アーティスト）"
+      },
+      {
+        "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-12-03",
+        "category": "期間限定コラボカフェ（アーティスト）"
+      },
+      {
+        "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-12-10",
+        "category": "期間限定コラボカフェ（アーティスト）"
+      }
+    ],
+    "skipped_uncertain": [
+      {
+        "name": "お肉の専門店スギモト（東京ソラマチ）",
+        "reason": "公式発表は「11月下旬」で具体的な日付なし。opening_dateに推測値を設定しないため未登録。"
+      },
+      {
+        "name": "Eggs ’n Things（東京ソラマチ）",
+        "reason": "公式発表は「2026年冬」で具体的な日付なし。opening_dateに推測値を設定しないため未登録。"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "東京ソラマチ NEW SHOP OPEN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+      "supports": [
+        "RANDY‘S DONUTS 東京ソラマチ店 2026-10-29"
+      ]
+    },
+    {
+      "title": "キイロイトリ銭湯 期間限定オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html",
+      "supports": [
+        "キイロイトリ銭湯（東京駅一番街） 2026-10-30"
+      ]
+    },
+    {
+      "title": "OSTERIA SALVATORE 阿佐ヶ谷 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+      "supports": [
+        "OSTERIA SALVATORE 阿佐ヶ谷 2026-11-01"
+      ]
+    },
+    {
+      "title": "Puffy & Sweety 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000828.000059399.html",
+      "supports": [
+        "Puffy & Sweety 2026-11-01"
+      ]
+    },
+    {
+      "title": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": [
+        "ローソン Ｓイオンモール京都五条 2026-11-05"
+      ]
+    },
+    {
+      "title": "&TEAM CAFE～THE WOLF BUTLERS～ 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000333.000086964.html",
+      "supports": [
+        "大阪 2026-12-03",
+        "愛知 2026-12-03",
+        "渋谷 2026-12-10"
+      ]
+    }
+  ],
+  "after": {
+    "count": 430,
+    "blob_sha": "0980383b2533733b6e353c6f47d2bad7990d76c4",
+    "commit_sha": "7297c97d27734e24bb50ee72b74c3e52f5e46be5",
+    "period": "2026-09-18/2026-12-10",
+    "updatetime": "2026-10-25T05:39:19+09:00"
+  },
+  "verification": {
+    "json_parse": "success",
+    "saved_file_refetched": "success",
+    "all_8_added_items_found_once": true,
+    "sort_by_opening_date": "success"
+  },
+  "errors": [],
+  "limitations": [
+    "全国の開店予定を完全網羅したとは保証できない",
+    "お肉の専門店スギモトとEggs ’n Things（東京ソラマチ）は開店日の具体的な日付が未発表のため未登録"
+  ]
+}
