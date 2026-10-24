@@ -1,0 +1,53 @@
+{
+  "run_at": "2026-10-24T21:42:44+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "blob_sha": "9cfa3b3d6e8e00a13f3f86ae42ea817062ad702c",
+    "item_count": 370
+  },
+  "update_request": {
+    "passed_blob_sha": "9cfa3b3d6e8e00a13f3f86ae42ea817062ad702c"
+  },
+  "after": {
+    "blob_sha": "bd6c2b386dcf12ce53a6c14b3ecf48426cd2f88e",
+    "commit_sha": "97dd913efc491c78dbc8dbfabf8dfe6226785512",
+    "item_count": 373,
+    "updatetime": "2026-10-24T21:42:44+09:00",
+    "verified_by_refetch": true,
+    "json_parse_ok": true
+  },
+  "additions": [
+    {
+      "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "opening_date": "2026-10-23",
+      "category": "シューズ・アパレル（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000960.000074055.html"
+    },
+    {
+      "name": "ecnue soin EBISU",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-17",
+      "category": "ネイル・ビューティー（旗艦店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000006.000077616.html"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "キャラクターグッズ・アパレル・コスメ・雑貨・食品",
+      "source": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
+    }
+  ],
+  "errors": [],
+  "unconfirmed": [
+    "全国のすべての店舗開店情報を網羅できたことは保証できない。追加は今回確認できた公式発表に限定した。",
+    "HTTPステータスはGitHubコネクタから取得できなかった。"
+  ]
+}
