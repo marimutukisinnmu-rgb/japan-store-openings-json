@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-11-28",
   "scope": "Japan",
-  "updatetime": "2026-10-24T18:39:57+09:00",
+  "updatetime": "2026-10-24T19:48:55+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1397,6 +1397,13 @@
       "category": "ファッション・カジュアルウェア"
     },
     {
+      "name": "ゴンチャ ルミネ有楽町店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-23",
+      "category": "ティーカフェ"
+    },
+    {
       "name": "ジーユー ららぽーと豊洲店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -1409,6 +1416,13 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "カフェ"
+    },
+    {
+      "name": "トロ壱 博多駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-23",
+      "category": "居酒屋・海鮮"
     },
     {
       "name": "ニトリ デコホーム ボーノ相模大野店",
@@ -1446,6 +1460,13 @@
       "category": "期間限定・飲食イベント"
     },
     {
+      "name": "廻転鮨 銀座おのでら ハレザ池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "回転寿司"
+    },
+    {
       "name": "眼鏡市場 セレオ国分寺店",
       "prefecture": "東京都",
       "city": "国分寺市",
@@ -1465,20 +1486,6 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
-    },
-    {
-      "name": "廻転鮨 銀座おのでら ハレザ池袋店",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-23",
-      "category": "回転寿司"
-    },
-    {
-      "name": "ゴンチャ ルミネ有楽町店",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-23",
-      "category": "ティーカフェ"
     },
     {
       "name": "FIT LABO 坂戸店",
@@ -1619,6 +1626,13 @@
       "city": "久喜市",
       "opening_date": "2026-10-27",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "ベーカリー"
     },
     {
       "name": "FaSS 新綱島店",
@@ -1775,6 +1789,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "博多ぐるぐるとりかわ 竹乃屋",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-28",
+      "category": "焼鳥・居酒屋"
+    },
+    {
       "name": "洋食亭ブラームス",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1794,20 +1815,6 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
-    },
-    {
-      "name": "BOULANGERIE LANDEMAINE SHIBUYA",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-28",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "博多ぐるぐるとりかわ 竹乃屋",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-28",
-      "category": "焼鳥・居酒屋"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -1843,6 +1850,13 @@
       "city": "富田林市",
       "opening_date": "2026-10-29",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "UNI COFFEE ROASTERY シタディーンノース新宿東京",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-29",
+      "category": "カフェ・ロースタリー"
     },
     {
       "name": "WORKMAN Plus 広島三次店",
@@ -1913,13 +1927,6 @@
       "city": "墨田区",
       "opening_date": "2026-10-29",
       "category": "ドーナツ"
-    },
-    {
-      "name": "UNI COFFEE ROASTERY シタディーンノース新宿東京",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-10-29",
-      "category": "カフェ・ロースタリー"
     },
     {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
@@ -2195,11 +2202,25 @@
       "category": "ファッション・カジュアルウェア"
     },
     {
+      "name": "キイロイトリ銭湯（期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定キャラクターストア"
+    },
+    {
       "name": "キャンドゥ イオン札幌麻生店（リニューアル）",
       "prefecture": "北海道",
       "city": "札幌市北区",
       "opening_date": "2026-10-30",
       "category": "100円ショップ（リニューアル）"
+    },
+    {
+      "name": "ジャルダン・デ・サンス 東京",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-30",
+      "category": "フランス料理（リニューアル）"
     },
     {
       "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
@@ -2249,20 +2270,6 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "キイロイトリ銭湯（期間限定）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-30",
-      "category": "期間限定キャラクターストア"
-    },
-    {
-      "name": "ジャルダン・デ・サンス 東京",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-30",
-      "category": "フランス料理（リニューアル）"
     },
     {
       "name": "chocoZAP 宇都宮不動前",
@@ -2363,6 +2370,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-11-05",
+      "category": "文具・雑貨"
+    },
+    {
       "name": "アール・エフ・ワン エキュート大宮店",
       "prefecture": "埼玉県",
       "city": "さいたま市大宮区",
@@ -2377,11 +2391,18 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "Penno Penna 大船ルミネウィング店",
-      "prefecture": "神奈川県",
-      "city": "鎌倉市",
-      "opening_date": "2026-11-05",
-      "category": "文具・雑貨"
+      "name": "POP MART 沖縄浦添PARCO CITY店",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-11-06",
+      "category": "アートトイ・キャラクターグッズ"
+    },
+    {
+      "name": "アトリエはるか エミオ練馬店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-06",
+      "category": "ヘアメイク・ビューティーサロン"
     },
     {
       "name": "ふわりノ休足",
@@ -2468,18 +2489,18 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "コヒナ グランベリーパーク店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-11-12",
-      "category": "ファッション"
-    },
-    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "コヒナ グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "ファッション"
     },
     {
       "name": "かにチャーハンの店 エキュート大宮店",
