@@ -97,10 +97,17 @@
     "fetched_blob_sha_matches_update_result": true
   },
   "errors": [
-    "GitHub connector did not expose HTTP status code."
+    "GitHub connector did not expose HTTP status code.",
+    "The recurring automation was disabled by automation lifecycle handling after the successful run, despite the task prompt requesting continued operation."
   ],
   "unverified": [
     "Nationwide completeness cannot be guaranteed.",
     "CORNES TRADING KIDS was not added because its announced start date (2026-09-03) precedes the current dataset period start (2026-09-18)."
-  ]
+  ],
+  "schedule_status": {
+    "checked_at_run_start": "enabled",
+    "configured_schedule": "hourly",
+    "after_run": "disabled",
+    "note": "The automation runtime disabled the recurring task after this successful run. Future automatic runs will not occur unless re-enabled."
+  }
 }
