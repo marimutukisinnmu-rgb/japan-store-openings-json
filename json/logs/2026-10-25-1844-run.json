@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-10-25T18:44:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 481,
+  "after_count": 486,
+  "added": [
+    {
+      "name": "Phool 有楽町マルイ店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-04",
+      "category": "天然石ジュエリー"
+    },
+    {
+      "name": "ドラえもん未来デパート IN 東京ドームシティ2026",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "FiT24 茂原店",
+      "prefecture": "千葉県",
+      "city": "茂原市",
+      "opening_date": "2026-10-16",
+      "category": "24時間フィットネスジム"
+    },
+    {
+      "name": "miffy style POP UP SHOP in 大阪梅田",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "miffy style POP UP SHOP in 札幌",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定キャラクターショップ"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000191145.html",
+      "supports": "Phool 有楽町マルイ店の2026-10-04開店、東京都千代田区有楽町2-7-1 有楽町マルイ3階。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000002219.000022901.html",
+      "supports": "ドラえもん未来デパート IN 東京ドームシティ2026の2026-10-09開催開始、東京都文京区後楽1-3-61。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000160.000075275.html",
+      "supports": "FiT24 茂原店の2026-10-16 10:00開店、千葉県茂原市茂原10-1。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000001117.html",
+      "supports": "miffy style POP UP SHOP in 大阪梅田の2026-10-31開始、2026-11-17終了、阪急三番街北館キデイランド大阪梅田店。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000001117.html",
+      "supports": "miffy style POP UP SHOP in 札幌の2026-11-06開始、2026-11-24終了、札幌アピア地下1階。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000411.000001117.html",
+      "result": "キイロイトリ銭湯は既存JSONに同日・同所の類似名レコードが2件あるため、新規追加せず既存データも変更しなかった。重複の可能性は要確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+      "result": "東京ソラマチの『Eggs ’n Things』および『お肉の専門店スギモト』はオープン予定の発表を確認したが、具体的な開店日は確定していないため追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000411.000001117.html",
+      "result": "『キイロイトリ銭湯』は開催開始日2026-10-30と終了日2026-11-12を公式発表で確認したが、既存登録があるため再追加しなかった。"
+    }
+  ],
+  "previous_blob_sha": "63a8d28b9feac2631bc0aa00bac5da54070831a2",
+  "updated_blob_sha": "483a3f8d0e70d1ed1282b1e6b25ee932461843d5",
+  "update_commit_sha": "b562c3d2777251adf1f80dfffdf13937addb90e8",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "preserved_all_previous_entries": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed.",
+    "The two existing Kiiroitori sento records may describe the same event; left unchanged to avoid unverified deletion.",
+    "Tokyo Solamachi's Eggs ’n Things and お肉の専門店スギモト have no confirmed exact opening date in the reviewed announcement."
+  ]
+}
