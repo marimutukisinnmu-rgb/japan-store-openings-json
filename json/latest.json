@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T13:46:22+09:00",
+  "updatetime": "2026-10-25T14:42:38+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -37,6 +37,13 @@
       "city": "諏訪郡富士見町",
       "opening_date": "2026-09-25",
       "category": "コンビニ"
+    },
+    {
+      "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-09-26",
+      "category": "ファッション・アウトレット（複合店）"
     },
     {
       "name": "すし松 八千代店",
@@ -123,6 +130,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "BIOTOP（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-02",
+      "category": "期間限定ポップアップ・ファッション"
+    },
+    {
       "name": "SAKImoto bakery and more 葛西店",
       "prefecture": "東京都",
       "city": "江戸川区",
@@ -191,6 +205,13 @@
       "city": "小平市",
       "opening_date": "2026-10-03",
       "category": "眼鏡"
+    },
+    {
+      "name": "Lavenham（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ・ファッション"
     },
     {
       "name": "MANA 北青山店",
@@ -548,6 +569,13 @@
       "city": "川崎市川崎区",
       "opening_date": "2026-10-09",
       "category": "ファッション"
+    },
+    {
+      "name": "AVIREX（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・アウトレット（常設店）"
     },
     {
       "name": "gelato pique アーバンドック ららぽーと豊洲店",
@@ -1101,6 +1129,13 @@
       "city": "渋谷区",
       "opening_date": "2026-10-17",
       "category": "ネイル・ビューティー（旗艦店）"
+    },
+    {
+      "name": "STUNNING LURE（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-17",
+      "category": "期間限定ポップアップ・ファッション"
     },
     {
       "name": "ワッツウィズ草津ラ・ムー店",
@@ -2629,6 +2664,13 @@
       "category": "ラーメン（リニューアル）"
     },
     {
+      "name": "ゆで太郎 利府店（もつ次郎併設）",
+      "prefecture": "宮城県",
+      "city": "宮城郡利府町",
+      "opening_date": "2026-11-04",
+      "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
       "name": "ローソン Ｓ京都山城総合医療センター",
       "prefecture": "京都府",
       "city": "木津川市",
@@ -2655,13 +2697,6 @@
       "city": "小平市",
       "opening_date": "2026-11-04",
       "category": "コンビニ"
-    },
-    {
-      "name": "ゆで太郎 利府店（もつ次郎併設）",
-      "prefecture": "宮城県",
-      "city": "宮城郡利府町",
-      "opening_date": "2026-11-04",
-      "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -2769,6 +2804,13 @@
       "category": "オムライス（リニューアル）"
     },
     {
+      "name": "KEEN（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-11-06",
+      "category": "アウトドア・フットウェア（アウトレット常設店）"
+    },
+    {
       "name": "POP MART 沖縄浦添PARCO CITY店",
       "prefecture": "沖縄県",
       "city": "浦添市",
@@ -2802,6 +2844,13 @@
       "city": "墨田区",
       "opening_date": "2026-11-06",
       "category": "リラクゼーション"
+    },
+    {
+      "name": "ゆで太郎 環七鹿浜店（もつ次郎併設）",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-06",
+      "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
       "name": "リンツ ショコラ ブティック ラスカ平塚店",
@@ -2872,13 +2921,6 @@
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
-    },
-    {
-      "name": "ゆで太郎 環七鹿浜店（もつ次郎併設）",
-      "prefecture": "東京都",
-      "city": "足立区",
-      "opening_date": "2026-11-06",
-      "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -3068,6 +3110,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "THE GUNDAM BASE POP-UP in TAKAOKA",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-15",
+      "category": "期間限定ポップアップ（ガンダム公式ショップ）"
     },
     {
       "name": "PLUSTAアスティ静岡",
