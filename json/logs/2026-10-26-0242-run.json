@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-10-26T02:42:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "item_count": 545,
+    "blob_sha": "76e45f397b4aa15c651c4225f20c749506467fb8"
+  },
+  "after": {
+    "item_count": 547,
+    "blob_sha": "0c25b77f919eebd5dd2d9bdcf701a5ff2a65e19c",
+    "commit_sha": "cbea2d54b1c772db76e0bc6f01fa7d1da03cc351"
+  },
+  "added_count": 2,
+  "added_items": [
+    {
+      "name": "TASAKI 池袋西武店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "ジュエリー・ブライダルジュエリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000401.000004388.html"
+    },
+    {
+      "name": "ゴンチャ ルミネ町田店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-30",
+      "category": "ティーカフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000441.000048503.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "post_write_fetch": "passed",
+    "final_item_count": 547,
+    "all_added_items_present_exactly_once": true,
+    "added_item_counts": [
+      {
+        "name": "TASAKI 池袋西武店",
+        "date": "2026-10-23",
+        "count": 1
+      },
+      {
+        "name": "ゴンチャ ルミネ町田店",
+        "date": "2026-10-30",
+        "count": 1
+      }
+    ],
+    "duplicate_name_date_keys": 0,
+    "opening_dates_sorted": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "existing_item_count_before": 545,
+    "old_records_preserved": true,
+    "write_blob_sha_matches_refetched_sha": true
+  },
+  "sources_checked": [
+    {
+      "name": "TASAKI 池袋西武店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000401.000004388.html",
+      "confirmed": "2026-10-23 opening; Seibu Ikebukuro Main Building 6F"
+    },
+    {
+      "name": "ゴンチャ ルミネ町田店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000441.000048503.html",
+      "confirmed": "2026-10-30 opening; Lumine Machida 1F"
+    }
+  ],
+  "errors": [],
+  "unverified": [
+    "This run does not establish that every planned opening nationwide has been found.",
+    "Only entries with a confirmed opening date and no existing name/date match were added."
+  ]
+}
