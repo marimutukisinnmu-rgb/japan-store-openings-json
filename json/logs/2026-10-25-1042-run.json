@@ -1,0 +1,78 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-25T10:42:23+09:00",
+  "source_file": "json/latest.json",
+  "source_blob_sha": "c5df5b75015b810a1cfef66f61e1e66622cad7fb",
+  "result_blob_sha": "62766c3170273dbeda18c2cf3bf122292b680d50",
+  "result_commit_sha": "37a2de5affecc146d44830a7490266eb37f2d606",
+  "count_before": 443,
+  "count_added": 5,
+  "count_after": 448,
+  "added_items": [
+    {
+      "name": "キャンドゥセレクト DCMニコット羽幌店",
+      "prefecture": "北海道",
+      "city": "苫前郡羽幌町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（キャンドゥセレクト）",
+      "source": "https://www.cando-web.co.jp/news/store/newstore/detail_001012",
+      "verification": "Can★Do公式発表で開店日・住所を確認"
+    },
+    {
+      "name": "plus KAMERIYA GINZA SIX POP UP SHOP",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップ（菓子・茶・茶器）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000004.000179524.html",
+      "verification": "運営会社の発表で期間・会場を確認"
+    },
+    {
+      "name": "ソプラ銀座 代々木公園店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-31",
+      "category": "トリミングサロン・犬の幼稚園",
+      "source": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "verification": "運営会社の発表で開店日・所在地・業態を確認"
+    },
+    {
+      "name": "ソプラ銀座 文京白山店",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-11-01",
+      "category": "トリミングサロン・犬の幼稚園",
+      "source": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "verification": "運営会社の発表で開店日・所在地・業態を確認"
+    },
+    {
+      "name": "ソプラ銀座 ミーナ津田沼店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-20",
+      "category": "トリミングサロン・犬の幼稚園",
+      "source": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "verification": "運営会社の発表で開店日・所在地・業態を確認"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "after_write_fetch": "success",
+    "fetched_blob_sha_matches_written_sha": true,
+    "new_items_each_registered_once": true,
+    "opening_date_sort": "success",
+    "existing_data_preserved": true
+  },
+  "errors": [
+    "GitHub connector did not expose an HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide coverage of all opening announcements cannot be guaranteed."
+  ],
+  "scheduled_task_status": {
+    "checked": false,
+    "enabled": "not checked in this data-update step",
+    "cadence": "hourly",
+    "schedule_changed": false
+  }
+}
