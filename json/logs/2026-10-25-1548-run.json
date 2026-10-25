@@ -1,0 +1,143 @@
+{
+  "run_at": "2026-10-25T15:48:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 467,
+  "after_count": 477,
+  "added": [
+    {
+      "name": "串カツ田中 和歌山駅前店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-10-23",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "ニトリ 梅田茶屋町店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-30",
+      "category": "家具・インテリア・家電（旗艦店）"
+    },
+    {
+      "name": "MarieBelle SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子"
+    },
+    {
+      "name": "バニラージュ（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "洋菓子・バニラスイーツ"
+    },
+    {
+      "name": "DESCENTE（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（スポーツウェア）"
+    },
+    {
+      "name": "メゾン・デュ・ミエル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定ポップアップ（洋菓子・ベーカリー）"
+    },
+    {
+      "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定ポップアップ（ファッション・バッグ）"
+    },
+    {
+      "name": "オクシタニアル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定ポップアップ（洋菓子）"
+    },
+    {
+      "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定ポップアップ（ベーカリー・洋菓子）"
+    },
+    {
+      "name": "TENTIAL SHIBUYA SCRAMBLE SQUARE",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-04",
+      "category": "リカバリーウェア・コンディショニング用品"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000638.000027839.html",
+      "supports": "串カツ田中 和歌山駅前店の開店日（2026-10-23）と和歌山県和歌山市友田町2丁目153の所在地。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000001757.000073913.html",
+      "supports": "ニトリ 梅田茶屋町店の開店日（2026-10-30）と大阪府大阪市北区茶屋町16番7号の所在地。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000187.000046405.html",
+      "supports": "渋谷スクランブルスクエア内のMarieBelle SHIBUYA（10/28）、バニラージュ（10/28）、DESCENTE POP UP（11/6）、メゾン・デュ・ミエル POP UP（11/12）、LASTFRAME POP-UP STORE（11/21）、オクシタニアル POP UP（11/26）、MAISON KAYSER POP UP（11/26）、TENTIAL（12/4）の開始日と会場。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "ローソン公式新店情報を照合し、確認できた候補はすべて既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+      "result": "Penno Penna 大船ルミネウィング店は既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000002244.000022901.html",
+      "result": "RofJ BY JUMP SHOP POP UP SHOP in SAPPOROは既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000333.000086964.html",
+      "result": "&TEAM CAFEの新宿会場は既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000084389.html",
+      "result": "UNI COFFEE ROASTERY シタディーンノース新宿東京は既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "キル フェ ボン新宿は既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "result": "POP MART 沖縄浦添PARCO CITY店は既存登録済みのため再追加しなかった。"
+    }
+  ],
+  "previous_blob_sha": "0f2c9bcff600f58880886cec449954c459b16fc1",
+  "updated_blob_sha": "becb54e5c5432a372454237b48443291afbd2a5a",
+  "update_commit_sha": "0471df56f00d7884cb010d1d692770a1996b2585",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed.",
+    "Temporary pop-up end dates were not added to the dataset because the current schema stores opening dates only."
+  ]
+}
