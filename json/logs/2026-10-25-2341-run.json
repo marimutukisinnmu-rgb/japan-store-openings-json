@@ -1,0 +1,140 @@
+{
+  "run_at": "2026-10-25T23:41:04+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "publisher": "株式会社コズミックダイナー（株式会社コズミックホールディングス発表）",
+      "title": "「こなれ」富山駅前店の10月22日オープンと姫路店の11月6日オープン予定",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000033002.html",
+      "published_at": "2026-10-21",
+      "verified_details": [
+        "個室 熟成肉と海鮮 こなれ 富山駅前店：2026-10-22、富山県富山市新桜町2-26",
+        "こなれ 姫路店：2026-11-06のオープン予定を発表。市区町村は姫路市。具体的住所は同発表では未確認。"
+      ]
+    },
+    {
+      "publisher": "ノーラン・エステートサービス株式会社",
+      "title": "Morning Park Cafeが2026年11月6日にグランドオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000191948.html",
+      "published_at": "2026-10-14",
+      "verified_details": [
+        "2026-11-06開店、東京都新宿区大久保1丁目4-20 三島屋ビル1F"
+      ]
+    },
+    {
+      "publisher": "株式会社庫や",
+      "title": "チーズガーデン 遠鉄百貨店 2026年11月20日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000242.000040854.html",
+      "published_at": "2026-10-22",
+      "verified_details": [
+        "2026-11-20開店、静岡県浜松市中央区砂山町320-2 遠鉄百貨店新館地下1F"
+      ]
+    },
+    {
+      "publisher": "株式会社BANDAI SPIRITS",
+      "title": "THE GUNDAM BASE SHIBUYA 11月20日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000085.000028758.html",
+      "published_at": "2026-10-20",
+      "verified_details": [
+        "2026-11-20開店、東京都渋谷区宇田川町15-1 渋谷PARCO 5階"
+      ]
+    },
+    {
+      "publisher": "ベネリック株式会社",
+      "title": "ULTRAMAN STORE OSAKA ルクア サウス店 11月24日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000002254.000022901.html",
+      "published_at": "2026-10-22",
+      "verified_details": [
+        "2026-11-24開店、大阪府大阪市北区梅田3-1-1 LUCUA SOUTH 12階"
+      ]
+    },
+    {
+      "publisher": "株式会社リンガーハット",
+      "title": "濵かつ 飯田橋店 2026年11月25日オープン",
+      "url": "https://www.ringerhut.co.jp/info/2026/1016_1/",
+      "published_at": "2026-10-16",
+      "verified_details": [
+        "2026-11-25開店予定、東京都千代田区飯田橋4-7-8"
+      ]
+    }
+  ],
+  "before": {
+    "item_count": 523,
+    "blob_sha": "37a5d1d18163abc754af06f90e59e1741eaf9d58"
+  },
+  "additions": [
+    {
+      "name": "個室 熟成肉と海鮮 こなれ 富山駅前店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-10-22",
+      "category": "個室居酒屋・熟成肉・海鮮"
+    },
+    {
+      "name": "Morning Park Cafe",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "カフェ"
+    },
+    {
+      "name": "こなれ 姫路店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-06",
+      "category": "個室居酒屋・熟成肉・海鮮"
+    },
+    {
+      "name": "チーズガーデン 遠鉄百貨店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "チーズ菓子・洋菓子"
+    },
+    {
+      "name": "THE GUNDAM BASE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ガンダム公式ショップ・プラモデル・キャラクターグッズ"
+    },
+    {
+      "name": "ULTRAMAN STORE OSAKA ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "ウルトラマン公式ショップ・キャラクターグッズ"
+    },
+    {
+      "name": "濵かつ 飯田橋店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-25",
+      "category": "とんかつ・定食"
+    }
+  ],
+  "after": {
+    "item_count": 530,
+    "blob_sha": "40302462145d60203396e41781d49e932bfcfed9",
+    "commit_sha": "93e824be88ec4cd033f62c3d903fe439b1da4244",
+    "updatetime": "2026-10-25T23:41:04+09:00",
+    "refetched_and_verified": true,
+    "json_parse": "success",
+    "additions_each_count": 1,
+    "date_sorted": true,
+    "existing_records_preserved_by_append_and_sort": true
+  },
+  "unconfirmed": [
+    "こなれ 姫路店の具体的な住所は今回確認した発表では未確認。市区町村と開店予定日だけを記録。",
+    "有隣堂の大船ルミネウィング新ブランド店は2026年11月予定までで具体的な開店日未確認のため追加せず。",
+    "KATE stage LASH八王子店も2026年11月予定までで具体的な開店日未確認のため追加せず。",
+    "『串とメシにはサケキタル。』の発表は見出しと本文で店舗所在地が一致しないため追加せず。",
+    "全国すべての開店予定情報を網羅したとは保証できない。"
+  ],
+  "errors": [],
+  "schedule_status": {
+    "checked_after_data_update": false,
+    "note": "Task enablement/schedule status not changed during the data write."
+  }
+}
