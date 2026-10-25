@@ -1,0 +1,96 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-25T11:40:05+09:00",
+  "source_file": "json/latest.json",
+  "source_blob_sha": "62766c3170273dbeda18c2cf3bf122292b680d50",
+  "result_blob_sha": "4b34a9add2a80037f5dd9c017835e956d34123d0",
+  "result_commit_sha": "8b6035816336779a267f5c54a4c22c20c3a086bb",
+  "count_before": 448,
+  "count_added": 7,
+  "count_after": 455,
+  "added_items": [
+    {
+      "name": "アップガレージ浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "カー用品リユース・中古パーツ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000229.000058006.html",
+      "verification": "運営会社の発表で開店日・所在地・業態を確認"
+    },
+    {
+      "name": "アップガレージライダース浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "バイク用品リユース",
+      "source": "https://prtimes.jp/main/html/rd/p/000000229.000058006.html",
+      "verification": "運営会社の発表で併設店・グランドオープン日・所在地を確認"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "新品タイヤ専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000229.000058006.html",
+      "verification": "運営会社の発表で併設店・グランドオープン日・所在地を確認"
+    },
+    {
+      "name": "THE CITY BAKERY ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000513.000047031.html",
+      "verification": "施設運営会社の発表で全面オープン日・場所・ブランドを確認"
+    },
+    {
+      "name": "PAUL ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000513.000047031.html",
+      "verification": "施設運営会社の発表で全面オープン日・場所・ブランドを確認"
+    },
+    {
+      "name": "ル・シュプレーム ジェイアール名古屋タカシマヤ店（移設リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー（移設リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000513.000047031.html",
+      "verification": "施設運営会社の発表でデパ地下からの移設・全面オープン日を確認"
+    },
+    {
+      "name": "とっとこハムちゃんずCAFE in Cafe Fan Base",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定コラボカフェ（キャラクター）",
+      "source": "https://prtimes.jp/main/html/rd/p/000004420.000011710.html",
+      "verification": "主催者の発表で開催開始日・終了日・会場所在地を確認"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "after_write_fetch": "success",
+    "fetched_blob_sha_matches_written_sha": true,
+    "new_items_each_registered_once": true,
+    "opening_date_sort": "success",
+    "existing_data_preserved": true
+  },
+  "errors": [
+    "GitHub connector did not expose an HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide coverage of all opening announcements cannot be guaranteed."
+  ],
+  "scheduled_task_status": {
+    "checked": false,
+    "enabled": "not checked in this data-update step",
+    "cadence": "hourly",
+    "schedule_changed": false
+  }
+}
