@@ -1,0 +1,51 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-25T09:39:37+09:00",
+  "source_file": "json/latest.json",
+  "source_blob_sha": "ae3d8a0e425fdee4e38f9f60753c971b51d4bb26",
+  "result_blob_sha": "c5df5b75015b810a1cfef66f61e1e66622cad7fb",
+  "result_commit_sha": "b1eb0781ef336df988f78f4ea740dcb286b5d2aa",
+  "count_before": 441,
+  "count_added": 2,
+  "count_after": 443,
+  "added_items": [
+    {
+      "name": "LAVA 札幌琴似店（拡大リニューアル）",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-11-01",
+      "category": "ホットヨガ・マシンピラティス（拡大リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000196.000036736.html",
+      "verification": "運営会社の発表で拡大リニューアル日と所在地を確認"
+    },
+    {
+      "name": "月島もんじゃ たまとや 姫路",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-06",
+      "category": "もんじゃ焼き",
+      "source": "https://prtimes.jp/main/html/rd/p/000000011.000186441.html",
+      "verification": "運営会社の発表で開店日と住所を確認"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "after_write_fetch": "success",
+    "fetched_blob_sha_matches_written_sha": true,
+    "new_items_each_registered_once": true,
+    "opening_date_sort": "success",
+    "existing_data_preserved": true
+  },
+  "errors": [
+    "GitHub connector did not expose an HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide coverage of all opening announcements cannot be guaranteed."
+  ],
+  "scheduled_task_status": {
+    "checked": true,
+    "enabled": true,
+    "cadence": "hourly",
+    "schedule_changed": false
+  }
+}
