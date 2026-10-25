@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-10-26T00:40:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "item_count": 530,
+    "blob_sha": "40302462145d60203396e41781d49e932bfcfed9"
+  },
+  "after": {
+    "item_count": 539,
+    "blob_sha": "a7a18e64496ab4caf0d3afa20cd12e0a805023f4",
+    "commit_sha": "801d3743acf6e4d250ea2e5f50c2a17b0432c064"
+  },
+  "added_count": 9,
+  "added_items": [
+    {
+      "name": "アップル相模原店",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "opening_date": "2026-10-03",
+      "category": "中古車買取・販売",
+      "source": "https://prtimes.jp/main/html/rd/p/000000016.000115193.html"
+    },
+    {
+      "name": "堂島ミルク（あべのハルカス近鉄本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-10-21",
+      "category": "洋菓子・クリームスイーツ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000052.000078354.html"
+    },
+    {
+      "name": "STREET CHURROS イオンモール大和店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-23",
+      "category": "チュロスカフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000018.000154644.html"
+    },
+    {
+      "name": "ECOFIT24 岡崎西店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-10-26",
+      "category": "24時間フィットネスジム",
+      "source": "https://prtimes.jp/main/html/rd/p/000000134.000095989.html"
+    },
+    {
+      "name": "菜菜麻辣湯 ららぽーと安城店",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-10-28",
+      "category": "麻辣湯専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000144.000177867.html"
+    },
+    {
+      "name": "楊國福 麻辣湯 鶴見店",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "opening_date": "2026-10-28",
+      "category": "麻辣湯専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000022.000102637.html"
+    },
+    {
+      "name": "むすびや",
+      "prefecture": "神奈川県",
+      "city": "横浜市緑区",
+      "opening_date": "2026-10-28",
+      "category": "おむすび専門店・テイクアウト",
+      "source": "https://prtimes.jp/main/html/rd/p/000000079.000050078.html"
+    },
+    {
+      "name": "穴太商店 木更津店",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-10-29",
+      "category": "米由来食品・カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000048.000111326.html"
+    },
+    {
+      "name": "GINZAグローバルスタイル PREMIUM sitatte札幌店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-30",
+      "category": "オーダースーツ・ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000411.000019787.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "post_write_fetch": "passed",
+    "final_item_count": 539,
+    "all_added_items_present_exactly_once": true,
+    "duplicate_name_date_keys": 0,
+    "opening_dates_sorted": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "existing_records": "Preserved; only the 9 verified items were added and updatetime was updated."
+  },
+  "errors": [],
+  "unverified": [
+    "This run does not establish that every planned opening nationwide has been found.",
+    "The existing schema has no dedicated opening-end-date field for temporary stores."
+  ],
+  "scheduled_task_status": "Not yet checked in this run."
+}
