@@ -1,0 +1,60 @@
+{
+  "run_at": "2026-10-25T12:39:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 455,
+  "after_count": 459,
+  "added": [
+    {
+      "name": "ゆで太郎 利府店（もつ次郎併設）",
+      "opening_date": "2026-11-04"
+    },
+    {
+      "name": "ゆで太郎 環七鹿浜店（もつ次郎併設）",
+      "opening_date": "2026-11-06"
+    },
+    {
+      "name": "ゆで太郎 田川店（もつ次郎併設）",
+      "opening_date": "2026-11-25"
+    },
+    {
+      "name": "ゆで太郎 久御山店（もつ次郎併設）",
+      "opening_date": "2026-11-27"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://yudetaro.jp/area/miyagi/",
+      "supports": "利府店、2026-11-04、宮城県宮城郡利府町"
+    },
+    {
+      "url": "https://yudetaro.jp/area/tokyo/",
+      "supports": "環七鹿浜店、2026-11-06、東京都足立区"
+    },
+    {
+      "url": "https://yudetaro.jp/area/fukuoka/",
+      "supports": "田川店、2026-11-25、福岡県田川市"
+    },
+    {
+      "url": "https://yudetaro.jp/area/kyoto/",
+      "supports": "久御山店、2026-11-27、京都府久世郡久御山町"
+    }
+  ],
+  "previous_blob_sha": "4b34a9add2a80037f5dd9c017835e956d34123d0",
+  "updated_blob_sha": "7ad884b87c4313b2de809336a2dab9560735e0a6",
+  "update_commit_sha": "679fd40635e986bcebf6e36cc58f7e730ae8799c",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "chronological_opening_date_order": true,
+    "read_after_write": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed."
+  ],
+  "schedule_status": "not checked in this step"
+}
