@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-10-25T13:46:22+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 459,
+  "after_count": 460,
+  "added": [
+    {
+      "name": "原神CAFE",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2027-01-20",
+      "category": "ゲーム公式カフェ（常設）"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000456.000096124.html",
+      "supports": "原神CAFEの2027-01-20オープンと東京都千代田区有楽町2-7-1 有楽町マルイ3Fの所在地"
+    }
+  ],
+  "additional_checks": [
+    {
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "公式新店情報を照合。候補のうち既存登録済みの店舗は再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000001378.000010686.html",
+      "result": "新綱島MICCAの公式テナント一覧を照合。確認済みテナントのうち既存登録済みの店舗は再追加しなかった。"
+    }
+  ],
+  "previous_blob_sha": "7ad884b87c4313b2de809336a2dab9560735e0a6",
+  "updated_blob_sha": "25f6fc33014ac855e02d3bd2d41d41e82da9ddc3",
+  "update_commit_sha": "ccdf162b1d99d0341ed340b0d0679d8d1d74a5b6",
+  "validation": {
+    "json_parse": true,
+    "expected_entry_once": true,
+    "chronological_opening_date_order": true,
+    "period_extended_to_latest_confirmed_date": true,
+    "read_after_write": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed.",
+    "Some newly checked official announcements corresponded to entries already present; no duplicate entries were added."
+  ],
+  "schedule_status": "not checked in this step"
+}
