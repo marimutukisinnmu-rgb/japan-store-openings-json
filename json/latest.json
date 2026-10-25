@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T16:39:23+09:00",
+  "updatetime": "2026-10-25T18:44:06+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -331,6 +331,13 @@
       "city": "港区",
       "opening_date": "2026-10-03",
       "category": "寿司・日本料理"
+    },
+    {
+      "name": "Phool 有楽町マルイ店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-04",
+      "category": "天然石ジュエリー"
     },
     {
       "name": "WCB The Ballpark",
@@ -704,6 +711,13 @@
       "category": "タイヤ販売"
     },
     {
+      "name": "ドラえもん未来デパート IN 東京ドームシティ2026",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
       "name": "ヤオコーまるひろ入間SC店",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -989,6 +1003,13 @@
       "city": "豊島区",
       "opening_date": "2026-10-16",
       "category": "ファッション・セレクトショップ"
+    },
+    {
+      "name": "FiT24 茂原店",
+      "prefecture": "千葉県",
+      "city": "茂原市",
+      "opening_date": "2026-10-16",
+      "category": "24時間フィットネスジム"
     },
     {
       "name": "Flying Tiger Copenhagen 池袋サンシャインシティストア",
@@ -1600,6 +1621,13 @@
       "category": "眼鏡・サングラス・補聴器"
     },
     {
+      "name": "串カツ田中 和歌山駅前店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-10-23",
+      "category": "串カツ・居酒屋"
+    },
+    {
       "name": "豚山 柏店",
       "prefecture": "千葉県",
       "city": "柏市",
@@ -1612,13 +1640,6 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
-    },
-    {
-      "name": "串カツ田中 和歌山駅前店",
-      "prefecture": "和歌山県",
-      "city": "和歌山市",
-      "opening_date": "2026-10-23",
-      "category": "串カツ・居酒屋"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -1817,6 +1838,13 @@
       "category": "チョコレート・ジェラート・ケーキ・スイーツ"
     },
     {
+      "name": "MarieBelle SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子"
+    },
+    {
       "name": "OMOYA flour＋water／輪餅屋",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1864,6 +1892,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ドラッグストア"
+    },
+    {
+      "name": "バニラージュ（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "洋菓子・バニラスイーツ"
     },
     {
       "name": "ハピスタ",
@@ -1985,20 +2020,6 @@
       "category": "ベーグル専門店"
     },
     {
-      "name": "MarieBelle SHIBUYA",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-28",
-      "category": "チョコレート・洋菓子"
-    },
-    {
-      "name": "バニラージュ（渋谷スクランブルスクエア）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-28",
-      "category": "洋菓子・バニラスイーツ"
-    },
-    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -2039,6 +2060,13 @@
       "city": "墨田区",
       "opening_date": "2026-10-29",
       "category": "ドーナツ・洋菓子"
+    },
+    {
+      "name": "sanrio house 名古屋PARCO店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-29",
+      "category": "キャラクターグッズ・カフェ"
     },
     {
       "name": "UNI COFFEE ROASTERY シタディーンノース新宿東京",
@@ -2116,13 +2144,6 @@
       "city": "墨田区",
       "opening_date": "2026-10-29",
       "category": "ドーナツ"
-    },
-    {
-      "name": "sanrio house 名古屋PARCO店",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-10-29",
-      "category": "キャラクターグッズ・カフェ"
     },
     {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
@@ -2468,6 +2489,13 @@
       "category": "チョコレート・カフェ・ファクトリー"
     },
     {
+      "name": "ニトリ 梅田茶屋町店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-30",
+      "category": "家具・インテリア・家電（旗艦店）"
+    },
+    {
       "name": "バーガーキング 下丸子駅前店",
       "prefecture": "東京都",
       "city": "大田区",
@@ -2510,13 +2538,6 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "ニトリ 梅田茶屋町店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-10-30",
-      "category": "家具・インテリア・家電（旗艦店）"
-    },
-    {
       "name": "chocoZAP 宇都宮不動前",
       "prefecture": "栃木県",
       "city": "宇都宮市",
@@ -2557,6 +2578,13 @@
       "city": "矢板市",
       "opening_date": "2026-10-31",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "miffy style POP UP SHOP in 大阪梅田",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定キャラクターショップ"
     },
     {
       "name": "RofJ BY JUMP SHOP POP UP SHOP in SAPPORO",
@@ -2846,11 +2874,32 @@
       "category": "オムライス（リニューアル）"
     },
     {
+      "name": "BASE Sand 目黒店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-06",
+      "category": "サンドイッチ専門店"
+    },
+    {
+      "name": "DESCENTE（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（スポーツウェア）"
+    },
+    {
       "name": "KEEN（御殿場プレミアム・アウトレット）",
       "prefecture": "静岡県",
       "city": "御殿場市",
       "opening_date": "2026-11-06",
       "category": "アウトドア・フットウェア（アウトレット常設店）"
+    },
+    {
+      "name": "miffy style POP UP SHOP in 札幌",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定キャラクターショップ"
     },
     {
       "name": "POP MART 沖縄浦添PARCO CITY店",
@@ -2965,20 +3014,6 @@
       "category": "もんじゃ焼き"
     },
     {
-      "name": "DESCENTE（渋谷スクランブルスクエア POP UP）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-06",
-      "category": "期間限定ポップアップ（スポーツウェア）"
-    },
-    {
-      "name": "BASE Sand 目黒店",
-      "prefecture": "東京都",
-      "city": "品川区",
-      "opening_date": "2026-11-06",
-      "category": "サンドイッチ専門店"
-    },
-    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -3091,6 +3126,13 @@
       "category": "ファッション"
     },
     {
+      "name": "メゾン・デュ・ミエル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定ポップアップ（洋菓子・ベーカリー）"
+    },
+    {
       "name": "ル・シュプレーム ジェイアール名古屋タカシマヤ店（移設リニューアル）",
       "prefecture": "愛知県",
       "city": "名古屋市中村区",
@@ -3105,11 +3147,11 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
-      "name": "メゾン・デュ・ミエル（渋谷スクランブルスクエア POP UP）",
+      "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
       "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-12",
-      "category": "期間限定ポップアップ（洋菓子・ベーカリー）"
+      "city": "千代田区",
+      "opening_date": "2026-11-13",
+      "category": "キャラクターグッズ（移転リニューアル）"
     },
     {
       "name": "sanrio house 渋谷PARCO店",
@@ -3173,13 +3215,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
-    },
-    {
-      "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-13",
-      "category": "キャラクターグッズ（移転リニューアル）"
     },
     {
       "name": "THE GUNDAM BASE POP-UP in TAKAOKA",
@@ -3294,18 +3329,18 @@
       "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
-      "name": "オクシタニアル（渋谷スクランブルスクエア POP UP）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-26",
-      "category": "期間限定ポップアップ（洋菓子）"
-    },
-    {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
       "prefecture": "東京都",
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "期間限定ポップアップ（ベーカリー・洋菓子）"
+    },
+    {
+      "name": "オクシタニアル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定ポップアップ（洋菓子）"
     },
     {
       "name": "イオンモールKYOTOロフト",
