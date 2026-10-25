@@ -1,0 +1,147 @@
+{
+  "run_at": "2026-10-25T20:40:41+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 497,
+  "after_count": 507,
+  "added": [
+    {
+      "name": "伊勢丹新宿店＜ザ・ギンザ＞",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-25",
+      "category": "化粧品・スキンケア（百貨店常設カウンター）"
+    },
+    {
+      "name": "ABURI百貫 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "回転寿司"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "海鮮食堂・定食・丼"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ショッピングモール"
+    },
+    {
+      "name": "THE GUNDAM BASE POP-UP in NAGANO",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ガンダム公式ショップ"
+    },
+    {
+      "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定コラボカフェ（ヘアケアブランド）"
+    },
+    {
+      "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（LINE FRIENDS SQUARE SHIBUYA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定キャラクターグッズ・ポップアップ"
+    },
+    {
+      "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（阪急うめだ本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定キャラクターグッズ・ポップアップ"
+    },
+    {
+      "name": "そよらひたち野うしく",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "都市型ショッピングセンター"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000003223.000005794.html",
+      "supports": "資生堂の公式発表。伊勢丹新宿店＜ザ・ギンザ＞の2026-11-25開設、所在地、常設カウンターを確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000182170.html",
+      "supports": "サイプレス・ホールディングスの発表。ABURI百貫 イオンモール伊達店の2026-11-27開店を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+      "supports": "サイプレス・ホールディングスの発表。築地食堂 源ちゃん イオンモール伊達店の2026-11-27開店を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html",
+      "supports": "サイプレス・ホールディングスの発表。銀座惣菜店 イオンモール伊達店の2026-11-27開店を確認。"
+    },
+    {
+      "url": "https://www.aeonmall.com/news/index/16845/",
+      "supports": "イオンモール公式発表。イオンモール伊達の2026-11-27グランドオープンを確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000028758.html",
+      "supports": "BANDAI SPIRITSの発表。THE GUNDAM BASE POP-UP in NAGANOの2026-11-27〜12-20開催、長野市の会場を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000001039.000012002.html",
+      "supports": "I-neの発表。YOLU MELLOW NIGHT Cafeの2026-11-19〜11-25開催と東京都港区北青山の会場を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000135.000040759.html",
+      "supports": "LINE Friends Japanの発表。PEACEMINUSONE X ZO&FRIENDS POP-UPの渋谷・大阪両会場で2026-11-11開始を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000006151.000007505.html",
+      "supports": "イオンの発表。そよらひたち野うしくの2026-11-18開業、茨城県牛久市を確認。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "result": "追加対象10件は更新前JSONに同名レコードが存在しないことを確認。"
+    },
+    {
+      "result": "イオンモール伊達の開業日と、同施設に出店する3店舗の開店日は、施設運営会社または運営会社の公式発表で個別に確認。"
+    },
+    {
+      "result": "期間限定のYOLUカフェ、PEACEMINUSONE X ZO&FRIENDS、GUNDAM BASE POP-UPは開催開始日を登録。開催終了日は既存JSONの項目にないため追加項目は作成していない。"
+    }
+  ],
+  "previous_blob_sha": "77666b65d2b293c39cc920f3b32933645720a5a4",
+  "updated_blob_sha": "cc6f79db971a02ffcad86cd238819027d8961dda",
+  "update_commit_sha": "c3e5f756055d424e2c027d987b15b222c0cc848e",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "preserved_all_previous_entries": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての開店予定情報を網羅できたことまでは保証できない。",
+    "「パンとエスプレッソと」の大阪・堂島の新業態は公式発表で「2026年11月下旬」までしか確認できず、具体的な日付がないため追加しなかった。"
+  ]
+}
