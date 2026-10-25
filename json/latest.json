@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-12-10",
   "scope": "Japan",
-  "updatetime": "2026-10-25T09:39:37+09:00",
+  "updatetime": "2026-10-25T10:42:23+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1929,6 +1929,13 @@
       "category": "ベーグル専門店"
     },
     {
+      "name": "plus KAMERIYA GINZA SIX POP UP SHOP",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップ（菓子・茶・茶器）"
+    },
+    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -2510,6 +2517,13 @@
       "category": "リラクゼーション"
     },
     {
+      "name": "ソプラ銀座 代々木公園店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-31",
+      "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
       "name": "OSTERIA SALVATORE 阿佐ヶ谷",
       "prefecture": "東京都",
       "city": "杉並区",
@@ -2557,6 +2571,13 @@
       "city": "札幌市西区",
       "opening_date": "2026-11-01",
       "category": "ホットヨガ・マシンピラティス（拡大リニューアル）"
+    },
+    {
+      "name": "ソプラ銀座 文京白山店",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-11-01",
+      "category": "トリミングサロン・犬の幼稚園"
     },
     {
       "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
@@ -2832,6 +2853,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "キャンドゥセレクト DCMニコット羽幌店",
+      "prefecture": "北海道",
+      "city": "苫前郡羽幌町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -3061,6 +3089,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-20",
       "category": "シューズ・アパレル"
+    },
+    {
+      "name": "ソプラ銀座 ミーナ津田沼店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-20",
+      "category": "トリミングサロン・犬の幼稚園"
     },
     {
       "name": "イオンモールKYOTOロフト",
