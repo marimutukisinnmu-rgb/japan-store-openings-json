@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-10-25T16:39:23+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 477,
+  "after_count": 481,
+  "added": [
+    {
+      "name": "sanrio house 名古屋PARCO店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-29",
+      "category": "キャラクターグッズ・カフェ"
+    },
+    {
+      "name": "猿田彦珈琲 皇居東御苑店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "カフェ"
+    },
+    {
+      "name": "BASE Sand 目黒店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-06",
+      "category": "サンドイッチ専門店"
+    },
+    {
+      "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-13",
+      "category": "キャラクターグッズ（移転リニューアル）"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000004516.000018505.html",
+      "supports": "sanrio house 名古屋PARCO店の2026-10-29開店と名古屋PARCO西館地下1階の所在地。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+      "supports": "猿田彦珈琲 皇居東御苑店の2026-11-03開店と東京都千代田区千代田1-9の所在地。"
+    },
+    {
+      "url": "https://basefood.co.jp/news/4353",
+      "supports": "BASE Sand 目黒店の2026-11-06開店と東京都品川区上大崎2-13-44 大庭ビル1階の所在地。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000001280.000030268.html",
+      "supports": "hololive production official shop in Tokyo Stationの2026-11-13移転リニューアルと東京駅一番街地下1階の所在地。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000002180.000022901.html",
+      "result": "STAR WARS STORE by BENELIC 大阪 ルクア サウス店は2026年11月中の開店予定まで確認できたが、日付が特定されていないため、日付必須のJSONには推測で追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "result": "sanrio house 渋谷PARCO店は既存登録済みのため再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+      "result": "猿田彦珈琲の皇居東御苑店以外の別店舗情報は今回の追加対象にしていない。"
+    }
+  ],
+  "previous_blob_sha": "becb54e5c5432a372454237b48443291afbd2a5a",
+  "updated_blob_sha": "63a8d28b9feac2631bc0aa00bac5da54070831a2",
+  "update_commit_sha": "7574d1b06378a99caacb1a568b914df740229abf",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed.",
+    "STAR WARS STORE by BENELIC 大阪 ルクア サウス店の開店日は公式発表で2026年11月中までしか確認できず、日付は未確定。"
+  ]
+}
