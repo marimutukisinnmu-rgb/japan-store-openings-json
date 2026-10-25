@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-25T19:45:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 486,
+  "after_count": 497,
+  "added": [
+    {
+      "name": "L’atelier de Antique - chocolat & gelato - 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・ジェラート・ケーキ・スイーツ"
+    },
+    {
+      "name": "SMASH HOUSE by CRAFTROCK BREWING 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "ハンバーガー・レストラン"
+    },
+    {
+      "name": "洋食亭ブラームス 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "洋食"
+    },
+    {
+      "name": "中華そば みなと橋 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "中華そば"
+    },
+    {
+      "name": "海鮮問屋 浜の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "海鮮料理"
+    },
+    {
+      "name": "魚の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "鮮魚専門店"
+    },
+    {
+      "name": "沖縄テラス 南風花（はいばな）新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "沖縄料理"
+    },
+    {
+      "name": "鴨屋 そば香 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "蕎麦店"
+    },
+    {
+      "name": "SUMURINA Spice&Café 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "カレー・エスニックカフェ"
+    },
+    {
+      "name": "東急沿線の仲介＆consulting 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "不動産売買仲介・資産コンサルティング"
+    },
+    {
+      "name": "ハピスタ 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "フォトスタジオ"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000001378.000010686.html",
+      "supports": "東急株式会社の公式発表。新綱島MICCAの2026-10-28グランドオープンと21テナント一覧を確認。"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2143382.html",
+      "supports": "新綱島MICCAの開業日に関する報道。21店舗の出店一覧を掲載し、綱島ジャッキー餃子楼は11月オープン予定と区別。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000191423.html",
+      "supports": "株式会社すきずきの公式発表。海鮮問屋 浜の玄太丸 新綱島店と魚の玄太丸 新綱島店の両店について2026-10-28の開店日と所在地を確認。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/p/rd/p/000000074.000012023.html",
+      "supports": "株式会社ワイズテーブルコーポレーションの公式発表を確認。OSTERIA SALVATORE 阿佐ヶ谷は既存JSONに登録済みのため再追加せず。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000081.000033144.html",
+      "supports": "Dandelion Chocolate Japan株式会社の公式発表を確認。ダンデライオン・チョコレート 清澄白河ファクトリーは既存JSONに登録済みのため再追加せず。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "result": "綱島ジャッキー餃子楼は公式テナント一覧に11月オープン予定とあるが、確認できる具体的な開店日がないため追加しなかった。"
+    },
+    {
+      "result": "追加対象11件は既存JSONに同名・同日で登録されていないことを確認。"
+    },
+    {
+      "result": "ダンデライオン・チョコレート 清澄白河ファクトリーとOSTERIA SALVATORE 阿佐ヶ谷は既存JSONに登録済みのため重複追加していない。"
+    }
+  ],
+  "previous_blob_sha": "483a3f8d0e70d1ed1282b1e6b25ee932461843d5",
+  "updated_blob_sha": "77666b65d2b293c39cc920f3b32933645720a5a4",
+  "update_commit_sha": "93614a658e0dc462e6542e01a874d4cf94044554",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "preserved_all_previous_entries": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての開店予定情報を網羅できたことまでは保証できない。",
+    "綱島ジャッキー餃子楼の具体的な開店日は未確認のため未登録。"
+  ]
+}
