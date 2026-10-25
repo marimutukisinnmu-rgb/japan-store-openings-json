@@ -47,5 +47,10 @@
     "Nationwide completeness cannot be guaranteed.",
     "Some newly checked official announcements corresponded to entries already present; no duplicate entries were added."
   ],
-  "schedule_status": "not checked in this step"
+  "schedule_status": {
+    "checked_before_runtime_cleanup": "enabled",
+    "schedule": "hourly",
+    "state_after_run": "disabled",
+    "note": "Automation runtime lifecycle handling disabled the recurring task after this successful run; future automatic runs will not occur unless re-enabled."
+  }
 }
