@@ -53,5 +53,11 @@
   "errors": [
     "GitHub connector did not provide an HTTP status code; post-write refetch and content validation succeeded."
   ],
-  "schedule_status": "Not modified by this run; the task's enabled state should be checked separately."
+  "schedule_status": {
+    "checked_after_data_update": true,
+    "enabled_at_check": true,
+    "final_enabled_state": false,
+    "schedule_definition_preserved": "BEGIN:VEVENT\nDTSTART:20260828T064357\nRRULE:FREQ=HOURLY\nEND:VEVENT",
+    "note": "Automation was disabled after successful completion by the runtime lifecycle policy; this is contrary to the task prompt's requested continuity."
+  }
 }
