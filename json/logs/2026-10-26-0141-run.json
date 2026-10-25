@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-10-26T01:41:13+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before": {
+    "item_count": 539,
+    "blob_sha": "a7a18e64496ab4caf0d3afa20cd12e0a805023f4"
+  },
+  "after": {
+    "item_count": 545,
+    "blob_sha": "76e45f397b4aa15c651c4225f20c749506467fb8",
+    "commit_sha": "f3882a8e5d5ada904feb189f8a3e20ace75806d3"
+  },
+  "added_count": 6,
+  "added_items": [
+    {
+      "name": "SMART GOLF 五橋荒町店",
+      "prefecture": "宮城県",
+      "city": "仙台市若林区",
+      "opening_date": "2026-10-17",
+      "category": "インドアゴルフ練習場",
+      "source": "https://prtimes.jp/main/html/rd/p/000000139.000132489.html"
+    },
+    {
+      "name": "SMART GOLF 吹田フラワーロード店",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "opening_date": "2026-10-27",
+      "category": "インドアゴルフ練習場",
+      "source": "https://prtimes.jp/main/html/rd/p/000000139.000132489.html"
+    },
+    {
+      "name": "SMART GOLF 千葉中央店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-10-27",
+      "category": "インドアゴルフ練習場",
+      "source": "https://prtimes.jp/main/html/rd/p/000000139.000132489.html"
+    },
+    {
+      "name": "HANAGATAYAグランスタ東京北通路店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-27",
+      "category": "土産・弁当セレクトショップ（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000001271.000082978.html"
+    },
+    {
+      "name": "ASICS PICKLEBALL CONNECT",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定スポーツ施設（ピックルボールコート）",
+      "source": "https://corp.asics.com/jp/press/article/2026-10-23_asics-pickleball-connect"
+    },
+    {
+      "name": "ライブコーヒー 湘南藤沢 The PIER店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-11-03",
+      "category": "コーヒー豆・カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000001.000193107.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "post_write_fetch": "passed",
+    "final_item_count": 545,
+    "all_added_items_present_exactly_once": true,
+    "duplicate_name_date_keys": 0,
+    "opening_dates_sorted": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "old_records_preserved": true,
+    "write_blob_sha_matches_refetched_sha": true
+  },
+  "errors": [],
+  "unverified": [
+    "This run does not establish that every planned opening nationwide has been found.",
+    "ASICS PICKLEBALL CONNECT is a temporary sports facility rather than a conventional retail shop; it was included because the dataset also records temporary venues and other commercial openings."
+  ],
+  "scheduled_task_status": "disabled_after_successful_run_by_automation_runtime",
+  "scheduled_task_note": "After the data update succeeded, the recurring automation was disabled under the automation runtime completion policy. This conflicts with the user's request to keep it running. The hourly schedule definition remains stored, but future automatic runs will not occur while disabled."
+}
