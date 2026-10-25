@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T15:48:52+09:00",
+  "updatetime": "2026-10-25T16:39:23+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2118,6 +2118,13 @@
       "category": "ドーナツ"
     },
     {
+      "name": "sanrio house 名古屋PARCO店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-10-29",
+      "category": "キャラクターグッズ・カフェ"
+    },
+    {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
       "city": "神戸市北区",
@@ -2692,6 +2699,13 @@
       "category": "ラーメン（リニューアル）"
     },
     {
+      "name": "猿田彦珈琲 皇居東御苑店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "カフェ"
+    },
+    {
       "name": "ゆで太郎 利府店（もつ次郎併設）",
       "prefecture": "宮城県",
       "city": "宮城郡利府町",
@@ -2958,6 +2972,13 @@
       "category": "期間限定ポップアップ（スポーツウェア）"
     },
     {
+      "name": "BASE Sand 目黒店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-06",
+      "category": "サンドイッチ専門店"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -3152,6 +3173,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-13",
+      "category": "キャラクターグッズ（移転リニューアル）"
     },
     {
       "name": "THE GUNDAM BASE POP-UP in TAKAOKA",
