@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-12-10",
   "scope": "Japan",
-  "updatetime": "2026-10-25T11:40:05+09:00",
+  "updatetime": "2026-10-25T12:39:12+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2657,6 +2657,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ゆで太郎 利府店（もつ次郎併設）",
+      "prefecture": "宮城県",
+      "city": "宮城郡利府町",
+      "opening_date": "2026-11-04",
+      "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -2865,6 +2872,13 @@
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "ゆで太郎 環七鹿浜店（もつ次郎併設）",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-06",
+      "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -3147,11 +3161,25 @@
       "category": "新品タイヤ専門店"
     },
     {
+      "name": "ゆで太郎 田川店（もつ次郎併設）",
+      "prefecture": "福岡県",
+      "city": "田川市",
+      "opening_date": "2026-11-25",
+      "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
       "name": "イオンモールKYOTOロフト",
       "prefecture": "京都府",
       "city": "京都市南区",
       "opening_date": "2026-11-27",
       "category": "生活雑貨・文具・美容雑貨"
+    },
+    {
+      "name": "ゆで太郎 久御山店（もつ次郎併設）",
+      "prefecture": "京都府",
+      "city": "久世郡久御山町",
+      "opening_date": "2026-11-27",
+      "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
       "name": "Guzman y Gomez 西新宿店",
