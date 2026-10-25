@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2026-12-10",
   "scope": "Japan",
-  "updatetime": "2026-10-25T10:42:23+09:00",
+  "updatetime": "2026-10-25T11:40:05+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -977,6 +977,13 @@
       "category": "ファッション（期間限定）"
     },
     {
+      "name": "H&F BELX 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-10-16",
+      "category": "ノンカフェインティー・ハーブティー"
+    },
+    {
       "name": "POP MART 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -1073,13 +1080,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "H&F BELX 仙台PARCO店",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
-      "opening_date": "2026-10-16",
-      "category": "ノンカフェインティー・ハーブティー"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1297,6 +1297,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-10-21",
       "category": "ベーカリー"
+    },
+    {
+      "name": "とっとこハムちゃんずCAFE in Cafe Fan Base",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
       "name": "ピュアココ トーキョー 近鉄あべのハルカス店",
@@ -1775,6 +1782,13 @@
       "category": "ベーカリー・ビストロ"
     },
     {
+      "name": "plus KAMERIYA GINZA SIX POP UP SHOP",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップ（菓子・茶・茶器）"
+    },
+    {
       "name": "SMASH HOUSE by CRAFTROCK BREWING",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1927,13 +1941,6 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
-    },
-    {
-      "name": "plus KAMERIYA GINZA SIX POP UP SHOP",
-      "prefecture": "東京都",
-      "city": "中央区",
-      "opening_date": "2026-10-28",
-      "category": "期間限定ポップアップ（菓子・茶・茶器）"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -2370,11 +2377,25 @@
       "category": "100円ショップ（リニューアル）"
     },
     {
+      "name": "サブウェイ 川崎市役所前店",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "opening_date": "2026-10-30",
+      "category": "サンドイッチ"
+    },
+    {
       "name": "ジャルダン・デ・サンス 東京",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-10-30",
       "category": "フランス料理（リニューアル）"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-10-30",
+      "category": "カフェ・ティー専門店"
     },
     {
       "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
@@ -2424,20 +2445,6 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "サブウェイ 川崎市役所前店",
-      "prefecture": "神奈川県",
-      "city": "川崎市川崎区",
-      "opening_date": "2026-10-30",
-      "category": "サンドイッチ"
-    },
-    {
-      "name": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店",
-      "prefecture": "神奈川県",
-      "city": "川崎市中原区",
-      "opening_date": "2026-10-30",
-      "category": "カフェ・ティー専門店"
     },
     {
       "name": "chocoZAP 宇都宮不動前",
@@ -2503,6 +2510,13 @@
       "category": "しゃぶしゃぶ"
     },
     {
+      "name": "ソプラ銀座 代々木公園店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-31",
+      "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
       "name": "バイセル 三宮神戸マルイ店",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -2517,11 +2531,11 @@
       "category": "リラクゼーション"
     },
     {
-      "name": "ソプラ銀座 代々木公園店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-31",
-      "category": "トリミングサロン・犬の幼稚園"
+      "name": "LAVA 札幌琴似店（拡大リニューアル）",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-11-01",
+      "category": "ホットヨガ・マシンピラティス（拡大リニューアル）"
     },
     {
       "name": "OSTERIA SALVATORE 阿佐ヶ谷",
@@ -2552,6 +2566,13 @@
       "category": "ホテル"
     },
     {
+      "name": "ソプラ銀座 文京白山店",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "opening_date": "2026-11-01",
+      "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
       "name": "ローソン 隼人駅東口",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -2566,34 +2587,6 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "LAVA 札幌琴似店（拡大リニューアル）",
-      "prefecture": "北海道",
-      "city": "札幌市西区",
-      "opening_date": "2026-11-01",
-      "category": "ホットヨガ・マシンピラティス（拡大リニューアル）"
-    },
-    {
-      "name": "ソプラ銀座 文京白山店",
-      "prefecture": "東京都",
-      "city": "文京区",
-      "opening_date": "2026-11-01",
-      "category": "トリミングサロン・犬の幼稚園"
-    },
-    {
-      "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-11-03",
-      "category": "ラーメン（リニューアル）"
-    },
-    {
-      "name": "ハイキュー!! × and GALLERY コラボカフェ（池袋店）",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-11-03",
-      "category": "期間限定コラボカフェ（アニメ）"
-    },
-    {
       "name": "ハイキュー!! × and GALLERY コラボカフェ（なんば1号店）",
       "prefecture": "大阪府",
       "city": "大阪市浪速区",
@@ -2601,9 +2594,16 @@
       "category": "期間限定コラボカフェ（アニメ）"
     },
     {
-      "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（仙台店）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
       "opening_date": "2026-11-03",
       "category": "期間限定コラボカフェ（アニメ）"
     },
@@ -2615,11 +2615,18 @@
       "category": "期間限定コラボカフェ（アニメ）"
     },
     {
-      "name": "ハイキュー!! × and GALLERY コラボカフェ（仙台店）",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
       "opening_date": "2026-11-03",
       "category": "期間限定コラボカフェ（アニメ）"
+    },
+    {
+      "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-03",
+      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "ローソン Ｓ京都山城総合医療センター",
@@ -2762,11 +2769,25 @@
       "category": "アートトイ・キャラクターグッズ"
     },
     {
+      "name": "Zoff 仙台PARCO店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-06",
+      "category": "メガネ・アイウェア"
+    },
+    {
       "name": "アトリエはるか エミオ練馬店",
       "prefecture": "東京都",
       "city": "練馬区",
       "opening_date": "2026-11-06",
       "category": "ヘアメイク・ビューティーサロン"
+    },
+    {
+      "name": "キャンドゥセレクト DCMニコット羽幌店",
+      "prefecture": "北海道",
+      "city": "苫前郡羽幌町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
       "name": "ふわりノ休足",
@@ -2839,25 +2860,11 @@
       "category": "和菓子・芋菓子"
     },
     {
-      "name": "Zoff 仙台PARCO店",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
-      "opening_date": "2026-11-06",
-      "category": "メガネ・アイウェア"
-    },
-    {
       "name": "月島もんじゃ たまとや 姫路",
       "prefecture": "兵庫県",
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
-    },
-    {
-      "name": "キャンドゥセレクト DCMニコット羽幌店",
-      "prefecture": "北海道",
-      "city": "苫前郡羽幌町",
-      "opening_date": "2026-11-06",
-      "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -2951,11 +2958,32 @@
       "category": "期間限定コラボカフェ（アーティスト）"
     },
     {
+      "name": "PAUL ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "THE CITY BAKERY ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー"
+    },
+    {
       "name": "コヒナ グランベリーパーク店",
       "prefecture": "東京都",
       "city": "町田市",
       "opening_date": "2026-11-12",
       "category": "ファッション"
+    },
+    {
+      "name": "ル・シュプレーム ジェイアール名古屋タカシマヤ店（移設リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー（移設リニューアル）"
     },
     {
       "name": "平成ファンシーカフェ（大阪・KITTE大阪2号店）",
@@ -3091,11 +3119,32 @@
       "category": "シューズ・アパレル"
     },
     {
+      "name": "アップガレージライダース浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "バイク用品リユース"
+    },
+    {
+      "name": "アップガレージ浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "カー用品リユース・中古パーツ"
+    },
+    {
       "name": "ソプラ銀座 ミーナ津田沼店",
       "prefecture": "千葉県",
       "city": "習志野市",
       "opening_date": "2026-11-20",
       "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
+      "name": "タイヤ流通センターアップガレージ浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "新品タイヤ専門店"
     },
     {
       "name": "イオンモールKYOTOロフト",
