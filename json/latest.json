@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T01:41:13+09:00",
+  "updatetime": "2026-10-26T02:42:51+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -1719,6 +1719,13 @@
       "category": "保険代理店"
     },
     {
+      "name": "TASAKI 池袋西武店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "ジュエリー・ブライダルジュエリー"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -2753,6 +2760,13 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ゴンチャ ルミネ町田店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-30",
+      "category": "ティーカフェ"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
