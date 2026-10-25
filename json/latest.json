@@ -1,8 +1,15 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T20:40:41+09:00",
+  "updatetime": "2026-10-25T21:39:55+09:00",
   "items": [
+    {
+      "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-18",
+      "category": "ゴルフ用品・ファッション（リニューアル）"
+    },
     {
       "name": "松のや 本八幡北口店",
       "prefecture": "千葉県",
@@ -58,6 +65,20 @@
       "city": "狭山市",
       "opening_date": "2026-09-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "Maison Margiela Fragrances（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-01",
+      "category": "フレグランス（期間限定ストア）"
+    },
+    {
+      "name": "MIKIMOTO BEAUTY（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-01",
+      "category": "スキンケア・ビューティー（旗艦店）"
     },
     {
       "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
@@ -718,6 +739,13 @@
       "category": "期間限定キャラクターショップ"
     },
     {
+      "name": "ブルーレーベル／ブラックレーベル・クレストブリッジ（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション（リニューアル）"
+    },
+    {
       "name": "ヤオコーまるひろ入間SC店",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -1031,6 +1059,20 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-10-16",
       "category": "ノンカフェインティー・ハーブティー"
+    },
+    {
+      "name": "HUNTER（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-16",
+      "category": "シューズ・ファッション（リニューアル）"
+    },
+    {
+      "name": "PAÑPURI（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-16",
+      "category": "フレグランス・スキンケア・ボディケア"
     },
     {
       "name": "POP MART 池袋PARCO店",
@@ -1831,6 +1873,13 @@
       "category": "イタリアン"
     },
     {
+      "name": "L’atelier de Antique - chocolat & gelato - 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・ジェラート・ケーキ・スイーツ"
+    },
+    {
       "name": "L’atelier de Antique -Chocolat & Gelato-",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1866,11 +1915,25 @@
       "category": "ビアレストラン"
     },
     {
+      "name": "SMASH HOUSE by CRAFTROCK BREWING 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "ハンバーガー・レストラン"
+    },
+    {
       "name": "SUMRINA Spice & Cafe",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "カレー・エスニック料理"
+    },
+    {
+      "name": "SUMURINA Spice&Café 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "カレー・エスニックカフェ"
     },
     {
       "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
@@ -1908,6 +1971,13 @@
       "category": "フォトスタジオ"
     },
     {
+      "name": "ハピスタ 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "フォトスタジオ"
+    },
+    {
       "name": "ファイテンショップ新綱島MICCA",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1929,6 +1999,20 @@
       "category": "沖縄料理"
     },
     {
+      "name": "沖縄テラス 南風花（はいばな）新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "沖縄料理"
+    },
+    {
+      "name": "海鮮問屋 浜の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "海鮮料理"
+    },
+    {
       "name": "海鮮問屋 浜の玄太丸／魚の玄太丸",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1941,6 +2025,20 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "蕎麦店"
+    },
+    {
+      "name": "鴨屋 そば香 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "蕎麦店"
+    },
+    {
+      "name": "魚の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "鮮魚専門店"
     },
     {
       "name": "串焼き こはる 新綱島店",
@@ -1971,6 +2069,13 @@
       "category": "中華そば"
     },
     {
+      "name": "中華そば みなと橋 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "中華そば"
+    },
+    {
       "name": "中華食堂 日高屋 新綱島店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -1979,6 +2084,13 @@
     },
     {
       "name": "東急沿線の仲介＆consulting",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "不動産売買仲介・資産コンサルティング"
+    },
+    {
+      "name": "東急沿線の仲介＆consulting 新綱島MICCA店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
@@ -2006,6 +2118,13 @@
       "category": "洋食店"
     },
     {
+      "name": "洋食亭ブラームス 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "洋食"
+    },
+    {
       "name": "洋麺屋 五右衛門 新綱島店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -2018,83 +2137,6 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
-    },
-    {
-      "name": "L’atelier de Antique - chocolat & gelato - 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "チョコレート・ジェラート・ケーキ・スイーツ"
-    },
-    {
-      "name": "SMASH HOUSE by CRAFTROCK BREWING 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "ハンバーガー・レストラン"
-    },
-    {
-      "name": "洋食亭ブラームス 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "洋食"
-    },
-    {
-      "name": "中華そば みなと橋 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "中華そば"
-    },
-    {
-      "name": "海鮮問屋 浜の玄太丸 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "海鮮料理"
-    },
-    {
-      "name": "魚の玄太丸 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "鮮魚専門店"
-    },
-    {
-      "name": "沖縄テラス 南風花（はいばな）新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "沖縄料理"
-    },
-    {
-      "name": "鴨屋 そば香 新綱島店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "蕎麦店"
-    },
-    {
-      "name": "SUMURINA Spice&Café 新綱島MICCA店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "カレー・エスニックカフェ"
-    },
-    {
-      "name": "東急沿線の仲介＆consulting 新綱島MICCA店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "不動産売買仲介・資産コンサルティング"
-    },
-    {
-      "name": "ハピスタ 新綱島MICCA店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-10-28",
-      "category": "フォトスタジオ"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -2860,6 +2902,20 @@
       "category": "文具・雑貨"
     },
     {
+      "name": "WORKMAN Plus まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-05",
+      "category": "作業服・作業用品"
+    },
+    {
+      "name": "WORKMAN Plus 松阪大黒田店",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "opening_date": "2026-11-05",
+      "category": "作業服・作業用品"
+    },
+    {
       "name": "アール・エフ・ワン エキュート大宮店",
       "prefecture": "埼玉県",
       "city": "さいたま市大宮区",
@@ -2984,6 +3040,20 @@
       "city": "浦添市",
       "opening_date": "2026-11-06",
       "category": "アートトイ・キャラクターグッズ"
+    },
+    {
+      "name": "Workman Colors イオンモールナゴヤドーム前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Workman Colors イオンモール旭川西店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "Zoff 仙台PARCO店",
@@ -3210,6 +3280,13 @@
       "category": "ベーカリー"
     },
     {
+      "name": "WORKMAN Plus 双葉店（移転リニューアル）",
+      "prefecture": "山梨県",
+      "city": "甲斐市",
+      "opening_date": "2026-11-12",
+      "category": "作業服・作業用品（移転リニューアル）"
+    },
+    {
       "name": "コヒナ グランベリーパーク店",
       "prefecture": "東京都",
       "city": "町田市",
@@ -3250,6 +3327,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-13",
       "category": "キャラクターグッズ・アパレル・コスメ・雑貨・食品"
+    },
+    {
+      "name": "Workman Colors トリアス久山店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡久山町",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "アップガレージライダース釧路店",
@@ -3322,6 +3406,13 @@
       "category": "土産・食品（リニューアル）"
     },
     {
+      "name": "そよらひたち野うしく",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "都市型ショッピングセンター"
+    },
+    {
       "name": "ローカルインディア ラスカ平塚店",
       "prefecture": "神奈川県",
       "city": "平塚市",
@@ -3343,11 +3434,11 @@
       "category": "洋菓子"
     },
     {
-      "name": "そよらひたち野うしく",
-      "prefecture": "茨城県",
-      "city": "牛久市",
-      "opening_date": "2026-11-18",
-      "category": "都市型ショッピングセンター"
+      "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定コラボカフェ（ヘアケアブランド）"
     },
     {
       "name": "グラニフ京都",
@@ -3362,13 +3453,6 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-19",
       "category": "キャラクターグッズ・雑貨"
-    },
-    {
-      "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-11-19",
-      "category": "期間限定コラボカフェ（ヘアケアブランド）"
     },
     {
       "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
@@ -3390,6 +3474,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-20",
       "category": "シューズ・アパレル"
+    },
+    {
+      "name": "Workman Colors イオンモール京都五条店",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "アップガレージライダース浜松西店",
@@ -3455,20 +3546,6 @@
       "category": "期間限定ポップアップ（洋菓子）"
     },
     {
-      "name": "イオンモールKYOTOロフト",
-      "prefecture": "京都府",
-      "city": "京都市南区",
-      "opening_date": "2026-11-27",
-      "category": "生活雑貨・文具・美容雑貨"
-    },
-    {
-      "name": "ゆで太郎 久御山店（もつ次郎併設）",
-      "prefecture": "京都府",
-      "city": "久世郡久御山町",
-      "opening_date": "2026-11-27",
-      "category": "そば・もつ煮（もつ次郎併設）"
-    },
-    {
       "name": "ABURI百貫 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -3476,18 +3553,25 @@
       "category": "回転寿司"
     },
     {
-      "name": "築地食堂 源ちゃん イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
+      "name": "THE GUNDAM BASE POP-UP in NAGANO",
+      "prefecture": "長野県",
+      "city": "長野市",
       "opening_date": "2026-11-27",
-      "category": "海鮮食堂・定食・丼"
+      "category": "期間限定ガンダム公式ショップ"
     },
     {
-      "name": "銀座惣菜店 イオンモール伊達店",
+      "name": "Workman Colors イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "炭火焼鳥・惣菜"
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "イオンモールKYOTOロフト",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・文具・美容雑貨"
     },
     {
       "name": "イオンモール伊達",
@@ -3497,11 +3581,25 @@
       "category": "ショッピングモール"
     },
     {
-      "name": "THE GUNDAM BASE POP-UP in NAGANO",
-      "prefecture": "長野県",
-      "city": "長野市",
+      "name": "ゆで太郎 久御山店（もつ次郎併設）",
+      "prefecture": "京都府",
+      "city": "久世郡久御山町",
       "opening_date": "2026-11-27",
-      "category": "期間限定ガンダム公式ショップ"
+      "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "海鮮食堂・定食・丼"
     },
     {
       "name": "Guzman y Gomez 西新宿店",
