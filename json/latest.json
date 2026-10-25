@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T22:45:10+09:00",
+  "updatetime": "2026-10-25T23:41:04+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -1479,6 +1479,13 @@
       "city": "渋谷区",
       "opening_date": "2026-10-22",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "個室 熟成肉と海鮮 こなれ 富山駅前店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-10-22",
+      "category": "個室居酒屋・熟成肉・海鮮"
     },
     {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
@@ -3168,6 +3175,20 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "Morning Park Cafe",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "カフェ"
+    },
+    {
+      "name": "こなれ 姫路店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-06",
+      "category": "個室居酒屋・熟成肉・海鮮"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -3518,11 +3539,32 @@
       "category": "新品タイヤ専門店"
     },
     {
+      "name": "チーズガーデン 遠鉄百貨店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-20",
+      "category": "チーズ菓子・洋菓子"
+    },
+    {
+      "name": "THE GUNDAM BASE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ガンダム公式ショップ・プラモデル・キャラクターグッズ"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
       "opening_date": "2026-11-21",
       "category": "期間限定ポップアップ（ファッション・バッグ）"
+    },
+    {
+      "name": "ULTRAMAN STORE OSAKA ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "ウルトラマン公式ショップ・キャラクターグッズ"
     },
     {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
@@ -3537,6 +3579,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-25",
       "category": "化粧品・スキンケア（百貨店常設カウンター）"
+    },
+    {
+      "name": "濵かつ 飯田橋店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-25",
+      "category": "とんかつ・定食"
     },
     {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
