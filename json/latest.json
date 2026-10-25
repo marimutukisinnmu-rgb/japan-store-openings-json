@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T00:40:30+09:00",
+  "updatetime": "2026-10-26T01:41:13+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -312,6 +312,13 @@
       "category": "トリミングサロン"
     },
     {
+      "name": "アップル相模原店",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "opening_date": "2026-10-03",
+      "category": "中古車買取・販売"
+    },
+    {
       "name": "ディスカウントドラッグコスモス天草登立店",
       "prefecture": "熊本県",
       "city": "上天草市",
@@ -352,13 +359,6 @@
       "city": "港区",
       "opening_date": "2026-10-03",
       "category": "寿司・日本料理"
-    },
-    {
-      "name": "アップル相模原店",
-      "prefecture": "神奈川県",
-      "city": "相模原市中央区",
-      "opening_date": "2026-10-03",
-      "category": "中古車買取・販売"
     },
     {
       "name": "Phool 有楽町マルイ店",
@@ -1201,6 +1201,13 @@
       "category": "ネイル・ビューティー（旗艦店）"
     },
     {
+      "name": "SMART GOLF 五橋荒町店",
+      "prefecture": "宮城県",
+      "city": "仙台市若林区",
+      "opening_date": "2026-10-17",
+      "category": "インドアゴルフ練習場"
+    },
+    {
       "name": "STUNNING LURE（御殿場プレミアム・アウトレット）",
       "prefecture": "静岡県",
       "city": "御殿場市",
@@ -1425,18 +1432,18 @@
       "category": "回転寿司"
     },
     {
-      "name": "木村屋總本店 エキュート大宮店",
-      "prefecture": "埼玉県",
-      "city": "さいたま市大宮区",
-      "opening_date": "2026-10-21",
-      "category": "ベーカリー（リニューアル）"
-    },
-    {
       "name": "堂島ミルク（あべのハルカス近鉄本店）",
       "prefecture": "大阪府",
       "city": "大阪市阿倍野区",
       "opening_date": "2026-10-21",
       "category": "洋菓子・クリームスイーツ"
+    },
+    {
+      "name": "木村屋總本店 エキュート大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-10-21",
+      "category": "ベーカリー（リニューアル）"
     },
     {
       "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
@@ -1474,6 +1481,13 @@
       "category": "スポーツ・アパレル"
     },
     {
+      "name": "個室 熟成肉と海鮮 こなれ 富山駅前店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-10-22",
+      "category": "個室居酒屋・熟成肉・海鮮"
+    },
+    {
       "name": "八郎そば 大和深見店",
       "prefecture": "神奈川県",
       "city": "大和市",
@@ -1493,13 +1507,6 @@
       "city": "渋谷区",
       "opening_date": "2026-10-22",
       "category": "期間限定コラボカフェ（キャラクター）"
-    },
-    {
-      "name": "個室 熟成肉と海鮮 こなれ 富山駅前店",
-      "prefecture": "富山県",
-      "city": "富山市",
-      "opening_date": "2026-10-22",
-      "category": "個室居酒屋・熟成肉・海鮮"
     },
     {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
@@ -1584,6 +1591,13 @@
       "city": "江東区",
       "opening_date": "2026-10-23",
       "category": "ファッション（移転リニューアル）"
+    },
+    {
+      "name": "STREET CHURROS イオンモール大和店",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-10-23",
+      "category": "チュロスカフェ"
     },
     {
       "name": "Workman Colors イオンモール扶桑店",
@@ -1703,13 +1717,6 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
-    },
-    {
-      "name": "STREET CHURROS イオンモール大和店",
-      "prefecture": "神奈川県",
-      "city": "大和市",
-      "opening_date": "2026-10-23",
-      "category": "チュロスカフェ"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -1866,11 +1873,32 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "HANAGATAYAグランスタ東京北通路店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-27",
+      "category": "土産・弁当セレクトショップ（リニューアル）"
+    },
+    {
       "name": "JOYFULL EXPRESS イオンモール高岡店",
       "prefecture": "富山県",
       "city": "高岡市",
       "opening_date": "2026-10-27",
       "category": "ファミリーレストラン"
+    },
+    {
+      "name": "SMART GOLF 吹田フラワーロード店",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "opening_date": "2026-10-27",
+      "category": "インドアゴルフ練習場"
+    },
+    {
+      "name": "SMART GOLF 千葉中央店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-10-27",
+      "category": "インドアゴルフ練習場"
     },
     {
       "name": "松屋 久喜菖蒲店（松のや併設）",
@@ -2027,6 +2055,13 @@
       "category": "チョコレート・洋菓子"
     },
     {
+      "name": "むすびや",
+      "prefecture": "神奈川県",
+      "city": "横浜市緑区",
+      "opening_date": "2026-10-28",
+      "category": "おむすび専門店・テイクアウト"
+    },
+    {
       "name": "沖縄テラス 南風花（はいばな）",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -2081,6 +2116,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "串焼き・惣菜・居酒屋"
+    },
+    {
+      "name": "菜菜麻辣湯 ららぽーと安城店",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-10-28",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "松のや 新綱島店",
@@ -2146,6 +2188,13 @@
       "category": "焼鳥・居酒屋"
     },
     {
+      "name": "楊國福 麻辣湯 鶴見店",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "opening_date": "2026-10-28",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "洋食亭ブラームス",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -2172,27 +2221,6 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
-    },
-    {
-      "name": "菜菜麻辣湯 ららぽーと安城店",
-      "prefecture": "愛知県",
-      "city": "安城市",
-      "opening_date": "2026-10-28",
-      "category": "麻辣湯専門店"
-    },
-    {
-      "name": "楊國福 麻辣湯 鶴見店",
-      "prefecture": "神奈川県",
-      "city": "横浜市鶴見区",
-      "opening_date": "2026-10-28",
-      "category": "麻辣湯専門店"
-    },
-    {
-      "name": "むすびや",
-      "prefecture": "神奈川県",
-      "city": "横浜市緑区",
-      "opening_date": "2026-10-28",
-      "category": "おむすび専門店・テイクアウト"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -2566,6 +2594,13 @@
       "category": "ファッション・ルームウェア"
     },
     {
+      "name": "GINZAグローバルスタイル PREMIUM sitatte札幌店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-30",
+      "category": "オーダースーツ・ファッション"
+    },
+    {
       "name": "KENZO ポップアップストア 六本木ヒルズ",
       "prefecture": "東京都",
       "city": "港区",
@@ -2720,11 +2755,11 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "GINZAグローバルスタイル PREMIUM sitatte札幌店",
-      "prefecture": "北海道",
-      "city": "札幌市中央区",
-      "opening_date": "2026-10-30",
-      "category": "オーダースーツ・ファッション"
+      "name": "ASICS PICKLEBALL CONNECT",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定スポーツ施設（ピックルボールコート）"
     },
     {
       "name": "chocoZAP 宇都宮不動前",
@@ -2811,18 +2846,18 @@
       "category": "買取専門店"
     },
     {
-      "name": "整体×もみほぐし Refresh",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-31",
-      "category": "リラクゼーション"
-    },
-    {
       "name": "ミッフィーほかほかダイニング（東京・BOX cafe&space東京ソラマチ店）",
       "prefecture": "東京都",
       "city": "墨田区",
       "opening_date": "2026-10-31",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "整体×もみほぐし Refresh",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-31",
+      "category": "リラクゼーション"
     },
     {
       "name": "LAVA 札幌琴似店（拡大リニューアル）",
@@ -2921,6 +2956,13 @@
       "city": "平塚市",
       "opening_date": "2026-11-03",
       "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "ライブコーヒー 湘南藤沢 The PIER店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-11-03",
+      "category": "コーヒー豆・カフェ"
     },
     {
       "name": "猿田彦珈琲 皇居東御苑店",
@@ -3112,6 +3154,13 @@
       "category": "期間限定キャラクターショップ"
     },
     {
+      "name": "Morning Park Cafe",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "カフェ"
+    },
+    {
       "name": "POP MART 沖縄浦添PARCO CITY店",
       "prefecture": "沖縄県",
       "city": "浦添市",
@@ -3152,6 +3201,13 @@
       "city": "苫前郡羽幌町",
       "opening_date": "2026-11-06",
       "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
+      "name": "こなれ 姫路店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-06",
+      "category": "個室居酒屋・熟成肉・海鮮"
     },
     {
       "name": "ふわりノ休足",
@@ -3236,20 +3292,6 @@
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
-    },
-    {
-      "name": "Morning Park Cafe",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-06",
-      "category": "カフェ"
-    },
-    {
-      "name": "こなれ 姫路店",
-      "prefecture": "兵庫県",
-      "city": "姫路市",
-      "opening_date": "2026-11-06",
-      "category": "個室居酒屋・熟成肉・海鮮"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -3560,6 +3602,13 @@
       "category": "デニム・ファッション"
     },
     {
+      "name": "THE GUNDAM BASE SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ガンダム公式ショップ・プラモデル・キャラクターグッズ"
+    },
+    {
       "name": "Vans Store Shibuya PARCO",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -3607,13 +3656,6 @@
       "city": "浜松市中央区",
       "opening_date": "2026-11-20",
       "category": "チーズ菓子・洋菓子"
-    },
-    {
-      "name": "THE GUNDAM BASE SHIBUYA",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-20",
-      "category": "ガンダム公式ショップ・プラモデル・キャラクターグッズ"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
