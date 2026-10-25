@@ -102,5 +102,6 @@
     "This run does not establish that every planned opening nationwide has been found.",
     "The existing schema has no dedicated opening-end-date field for temporary stores."
   ],
-  "scheduled_task_status": "Not yet checked in this run."
+  "scheduled_task_status": "disabled_after_successful_run_by_automation_runtime",
+  "scheduled_task_note": "The scheduled automation was disabled after this successful run by the automation runtime's completion policy. The user's prompt requested continued operation; this status change conflicts with that requested policy. Schedule definition remains stored as hourly, but future runs will not occur while disabled."
 }
