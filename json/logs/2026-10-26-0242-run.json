@@ -71,5 +71,7 @@
   "unverified": [
     "This run does not establish that every planned opening nationwide has been found.",
     "Only entries with a confirmed opening date and no existing name/date match were added."
-  ]
+  ],
+  "scheduled_task_status": "disabled_after_successful_run_by_automation_runtime",
+  "scheduled_task_note": "The recurring task was disabled after this successful run by the execution environment's completion policy. This conflicts with the user's requested keep-running policy. The hourly schedule definition remains stored, but automatic future runs will not occur while disabled. No re-enablement was performed."
 }
