@@ -1,0 +1,57 @@
+{
+  "run_at": "2026-10-25T22:45:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "publisher": "株式会社エルティーアール",
+      "title": "ミッフィーのスペシャルなテーマカフェが東京・大阪で開催決定「ミッフィーほかほかダイニング」期間限定オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000334.000086964.html",
+      "published_at": "2026-10-23",
+      "verified_details": [
+        "東京会場：2026-10-31～2027-01-24、東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ1F タワーヤード6番地",
+        "大阪会場：2026-11-26～2027-01-11、大阪府大阪市中央区心斎橋筋1-6-1 2階"
+      ]
+    }
+  ],
+  "before": {
+    "item_count": 521,
+    "blob_sha": "79f9be3fefd21eba371536ed27c06f2ec31cfa18"
+  },
+  "additions": [
+    {
+      "name": "ミッフィーほかほかダイニング（東京・BOX cafe&space東京ソラマチ店）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "ミッフィーほかほかダイニング（大阪・Collabo_Index SHINSAIBASHI）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定コラボカフェ（キャラクター）"
+    }
+  ],
+  "after": {
+    "item_count": 523,
+    "blob_sha": "37a5d1d18163abc754af06f90e59e1741eaf9d58",
+    "commit_sha": "d86928a97802cd77ae772164a4123afa57fa1f5e",
+    "updatetime": "2026-10-25T22:45:10+09:00",
+    "refetched_and_verified": true,
+    "json_parse": "success",
+    "additions_each_count": 1,
+    "date_sorted": true,
+    "existing_records_preserved_by_append_and_sort": true
+  },
+  "unconfirmed": [
+    "東京ソラマチ『お肉の専門店スギモト』は公式発表で2026年11月下旬までしか確認できず、具体的な開店日は未確認のため追加しなかった。",
+    "東京ソラマチ『Eggs ’n Things』は『2026年冬』予定で、具体的な開店日は未確認のため追加しなかった。",
+    "全国すべての開店予定を網羅したとは保証できない。"
+  ],
+  "errors": [
+    "GitHub connector did not provide an HTTP status code; post-write refetch and content validation succeeded."
+  ],
+  "schedule_status": "Not modified by this run; the task's enabled state should be checked separately."
+}
