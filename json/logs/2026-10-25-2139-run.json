@@ -1,0 +1,177 @@
+{
+  "run_at": "2026-10-25T21:39:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 507,
+  "after_count": 521,
+  "added_count": 14,
+  "previous_blob_sha": "cc6f79db971a02ffcad86cd238819027d8961dda",
+  "updated_blob_sha": "79f9be3fefd21eba371536ed27c06f2ec31cfa18",
+  "update_commit_sha": "4c12c3e7f336efa670f9355379b20410c34d732f",
+  "period": "2026-09-18/2027-01-20",
+  "added": [
+    {
+      "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-18",
+      "category": "ゴルフ用品・ファッション（リニューアル）"
+    },
+    {
+      "name": "Maison Margiela Fragrances（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-01",
+      "category": "フレグランス（期間限定ストア）"
+    },
+    {
+      "name": "MIKIMOTO BEAUTY（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-01",
+      "category": "スキンケア・ビューティー（旗艦店）"
+    },
+    {
+      "name": "ブルーレーベル／ブラックレーベル・クレストブリッジ（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション（リニューアル）"
+    },
+    {
+      "name": "PAÑPURI（GINZA SIX）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-16",
+      "category": "フレグランス・スキンケア・ボディケア"
+    },
+    {
+      "name": "HUNTER（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-16",
+      "category": "シューズ・ファッション（リニューアル）"
+    },
+    {
+      "name": "WORKMAN Plus 松阪大黒田店",
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "opening_date": "2026-11-05",
+      "category": "作業服・作業用品"
+    },
+    {
+      "name": "WORKMAN Plus まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-05",
+      "category": "作業服・作業用品"
+    },
+    {
+      "name": "Workman Colors イオンモール旭川西店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Workman Colors イオンモールナゴヤドーム前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "WORKMAN Plus 双葉店（移転リニューアル）",
+      "prefecture": "山梨県",
+      "city": "甲斐市",
+      "opening_date": "2026-11-12",
+      "category": "作業服・作業用品（移転リニューアル）"
+    },
+    {
+      "name": "Workman Colors トリアス久山店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡久山町",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Workman Colors イオンモール京都五条店",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Workman Colors イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・カジュアルウェア"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社ワークマン公式店舗情報",
+      "url": "https://www.workman.co.jp/store/workman-plus-%E6%9D%BE%E9%98%AA%E5%A4%A7%E9%BB%92%E7%94%B0%E5%BA%97",
+      "records": [
+        "WORKMAN Plus 松阪大黒田店",
+        "WORKMAN Plus まえばし赤城モール店",
+        "Workman Colors イオンモール旭川西店",
+        "Workman Colors イオンモールナゴヤドーム前店",
+        "WORKMAN Plus 双葉店（移転リニューアル）",
+        "Workman Colors トリアス久山店",
+        "Workman Colors イオンモール京都五条店",
+        "Workman Colors イオンモール伊達店"
+      ],
+      "note": "各店舗の公式ページで開店日・所在地・業態を確認"
+    },
+    {
+      "name": "GINZA SIX公式 2026年秋冬リニューアル情報",
+      "url": "https://ginza6.tokyo/sp/gsix2026/renewal/",
+      "records": [
+        "Maison Margiela Fragrances（GINZA SIX）",
+        "MIKIMOTO BEAUTY（GINZA SIX）",
+        "PAÑPURI（GINZA SIX）"
+      ],
+      "note": "開店日、店舗区分、会場を確認"
+    },
+    {
+      "name": "グランベリーパーク公式 2026 Autumn 新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "records": [
+        "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
+        "ブルーレーベル／ブラックレーベル・クレストブリッジ（グランベリーパーク）",
+        "HUNTER（グランベリーパーク）"
+      ],
+      "note": "開店・リニューアル日、会場を確認"
+    },
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "records": [],
+      "note": "10月末〜11月上旬の掲載店舗を照合。対象店舗は既存JSONに登録済みのため追加なし"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "saved_file_refetched": "passed",
+    "previous_507_records_preserved": 507,
+    "new_records_found": 14,
+    "missing_new_records": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "refetched_blob_sha_matches_write": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "グランベリーパークのReDは公式ページで『10月上旬〜中旬』とされ、具体的な開店日を確認できなかったため追加していない。",
+    "全国のすべての新店情報を網羅できたとは保証しない。"
+  ],
+  "task_state_check": {
+    "checked_at": "2026-10-25T21:39:55+09:00",
+    "enabled": true,
+    "schedule": "hourly",
+    "note": "実行時点では有効状態・毎時スケジュールを確認"
+  }
+}
