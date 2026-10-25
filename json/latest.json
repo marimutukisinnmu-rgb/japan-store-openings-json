@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T02:42:51+09:00",
+  "updatetime": "2026-10-26T03:44:43+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -1180,6 +1180,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "COOL Fuel / RUMBLE CRUMBLE（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-16",
+      "category": "アイスクリーム・クッキー"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -1724,6 +1731,20 @@
       "city": "豊島区",
       "opening_date": "2026-10-23",
       "category": "ジュエリー・ブライダルジュエリー"
+    },
+    {
+      "name": "BRIEFING（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "バッグ・ラゲッジ"
+    },
+    {
+      "name": "KEY TIMEZ（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・セレクトショップ"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -2361,6 +2382,13 @@
       "city": "木更津市",
       "opening_date": "2026-10-29",
       "category": "米由来食品・カフェ"
+    },
+    {
+      "name": "Maker’s Watch Knot（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-29",
+      "category": "腕時計・カスタマイズ"
     },
     {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
