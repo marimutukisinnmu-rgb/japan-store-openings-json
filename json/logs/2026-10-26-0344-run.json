@@ -1,0 +1,63 @@
+{
+  "run_at": "2026-10-26T03:44:43+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://www.shibuya-scramble-square.com/",
+    "https://www.shibuya-scramble-square.com/about/",
+    "https://www.shibuya-scramble-square.com/floorguide/",
+    "https://www.shibuya-scramble-square.com/assets/pdf/about/20261005scsq.pdf"
+  ],
+  "before": {
+    "item_count": 547,
+    "blob_sha": "0c25b77f919eebd5dd2d9bdcf701a5ff2a65e19c"
+  },
+  "additions": [
+    {
+      "name": "COOL Fuel / RUMBLE CRUMBLE（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-16",
+      "category": "アイスクリーム・クッキー"
+    },
+    {
+      "name": "BRIEFING（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "バッグ・ラゲッジ"
+    },
+    {
+      "name": "KEY TIMEZ（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・セレクトショップ"
+    },
+    {
+      "name": "Maker’s Watch Knot（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-29",
+      "category": "腕時計・カスタマイズ"
+    }
+  ],
+  "after": {
+    "item_count": 551,
+    "blob_sha": "405c0723193fb43f5303d13dc3312f2875e96b9e",
+    "commit_sha": "c2d11a95c2771db87c3b3d38a14f6e0518cf131b",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "date_order": "ascending"
+  },
+  "skipped_or_unconfirmed": [
+    "Other stores already present in the JSON were not re-added.",
+    "This run is not guaranteed to cover every new opening nationwide."
+  ],
+  "errors": [],
+  "automation_status": "Not included in data-write verification."
+}
