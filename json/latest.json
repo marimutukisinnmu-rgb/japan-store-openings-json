@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T19:45:30+09:00",
+  "updatetime": "2026-10-25T20:40:41+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -3175,6 +3175,20 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（LINE FRIENDS SQUARE SHIBUYA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定キャラクターグッズ・ポップアップ"
+    },
+    {
+      "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（阪急うめだ本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定キャラクターグッズ・ポップアップ"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -3329,6 +3343,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "そよらひたち野うしく",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "都市型ショッピングセンター"
+    },
+    {
       "name": "グラニフ京都",
       "prefecture": "京都府",
       "city": "京都市下京区",
@@ -3341,6 +3362,13 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-19",
       "category": "キャラクターグッズ・雑貨"
+    },
+    {
+      "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定コラボカフェ（ヘアケアブランド）"
     },
     {
       "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
@@ -3406,6 +3434,13 @@
       "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
+      "name": "伊勢丹新宿店＜ザ・ギンザ＞",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-25",
+      "category": "化粧品・スキンケア（百貨店常設カウンター）"
+    },
+    {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -3432,6 +3467,41 @@
       "city": "久世郡久御山町",
       "opening_date": "2026-11-27",
       "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
+      "name": "ABURI百貫 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "回転寿司"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "海鮮食堂・定食・丼"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ショッピングモール"
+    },
+    {
+      "name": "THE GUNDAM BASE POP-UP in NAGANO",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ガンダム公式ショップ"
     },
     {
       "name": "Guzman y Gomez 西新宿店",
