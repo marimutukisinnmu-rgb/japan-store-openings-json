@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T14:42:38+09:00",
+  "updatetime": "2026-10-25T15:48:52+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -1614,6 +1614,13 @@
       "category": "保険代理店"
     },
     {
+      "name": "串カツ田中 和歌山駅前店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-10-23",
+      "category": "串カツ・居酒屋"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -1976,6 +1983,20 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
+    },
+    {
+      "name": "MarieBelle SHIBUYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・洋菓子"
+    },
+    {
+      "name": "バニラージュ（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "洋菓子・バニラスイーツ"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -2482,6 +2503,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "ニトリ 梅田茶屋町店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-30",
+      "category": "家具・インテリア・家電（旗艦店）"
+    },
+    {
       "name": "chocoZAP 宇都宮不動前",
       "prefecture": "栃木県",
       "city": "宇都宮市",
@@ -2923,6 +2951,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "DESCENTE（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（スポーツウェア）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -3047,6 +3082,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "メゾン・デュ・ミエル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定ポップアップ（洋菓子・ベーカリー）"
     },
     {
       "name": "sanrio house 渋谷PARCO店",
@@ -3210,11 +3252,32 @@
       "category": "新品タイヤ専門店"
     },
     {
+      "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定ポップアップ（ファッション・バッグ）"
+    },
+    {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
       "prefecture": "福岡県",
       "city": "田川市",
       "opening_date": "2026-11-25",
       "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
+      "name": "オクシタニアル（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定ポップアップ（洋菓子）"
+    },
+    {
+      "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "期間限定ポップアップ（ベーカリー・洋菓子）"
     },
     {
       "name": "イオンモールKYOTOロフト",
@@ -3257,6 +3320,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-03",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "TENTIAL SHIBUYA SCRAMBLE SQUARE",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-04",
+      "category": "リカバリーウェア・コンディショニング用品"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
