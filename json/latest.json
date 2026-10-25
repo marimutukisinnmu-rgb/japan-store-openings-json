@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-25T18:44:06+09:00",
+  "updatetime": "2026-10-25T19:45:30+09:00",
   "items": [
     {
       "name": "松のや 本八幡北口店",
@@ -2018,6 +2018,83 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
+    },
+    {
+      "name": "L’atelier de Antique - chocolat & gelato - 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "チョコレート・ジェラート・ケーキ・スイーツ"
+    },
+    {
+      "name": "SMASH HOUSE by CRAFTROCK BREWING 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "ハンバーガー・レストラン"
+    },
+    {
+      "name": "洋食亭ブラームス 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "洋食"
+    },
+    {
+      "name": "中華そば みなと橋 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "中華そば"
+    },
+    {
+      "name": "海鮮問屋 浜の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "海鮮料理"
+    },
+    {
+      "name": "魚の玄太丸 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "鮮魚専門店"
+    },
+    {
+      "name": "沖縄テラス 南風花（はいばな）新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "沖縄料理"
+    },
+    {
+      "name": "鴨屋 そば香 新綱島店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "蕎麦店"
+    },
+    {
+      "name": "SUMURINA Spice&Café 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "カレー・エスニックカフェ"
+    },
+    {
+      "name": "東急沿線の仲介＆consulting 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "不動産売買仲介・資産コンサルティング"
+    },
+    {
+      "name": "ハピスタ 新綱島MICCA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "フォトスタジオ"
     },
     {
       "name": "chocoZAP 岡山中川町",
