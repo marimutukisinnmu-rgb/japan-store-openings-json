@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-10-25T14:42:38+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "before_count": 460,
+  "after_count": 467,
+  "added": [
+    {
+      "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-09-26",
+      "category": "ファッション・アウトレット（複合店）"
+    },
+    {
+      "name": "BIOTOP（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-02",
+      "category": "期間限定ポップアップ・ファッション"
+    },
+    {
+      "name": "Lavenham（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ・ファッション"
+    },
+    {
+      "name": "AVIREX（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・アウトレット（常設店）"
+    },
+    {
+      "name": "STUNNING LURE（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-10-17",
+      "category": "期間限定ポップアップ・ファッション"
+    },
+    {
+      "name": "KEEN（御殿場プレミアム・アウトレット）",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-11-06",
+      "category": "アウトドア・フットウェア（アウトレット常設店）"
+    },
+    {
+      "name": "THE GUNDAM BASE POP-UP in TAKAOKA",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-15",
+      "category": "期間限定ポップアップ（ガンダム公式ショップ）"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000796.000009047.html",
+      "supports": "御殿場プレミアム・アウトレットの2026年秋の新規常設店・期間限定店舗。XLARGE / X-girl (9/26)、BIOTOP (10/2)、Lavenham (10/3)、AVIREX (10/9)、STUNNING LURE (10/17)、KEEN (11/6) の営業開始日・店舗区分。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000084.000028758.html",
+      "supports": "THE GUNDAM BASE POP-UP in TAKAOKAの開催期間2026-11-15〜2027-01-06、会場（イオンモール高岡 東館2階 イオンホール）、富山県高岡市下伏間江383。"
+    }
+  ],
+  "additional_checks": [
+    {
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "ローソン公式新店情報を照合。候補のうち登録済みの店舗は再追加しなかった。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "result": "POP MART 沖縄浦添PARCO CITY店を確認したが既存登録済みのため追加せず。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000112208.html",
+      "result": "Japan Blue Jeans SHIBUYA PARCOを確認したが既存登録済みのため追加せず。"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "result": "sanrio house 渋谷PARCO店を確認したが既存登録済みのため追加せず。"
+    }
+  ],
+  "previous_blob_sha": "25f6fc33014ac855e02d3bd2d41d41e82da9ddc3",
+  "updated_blob_sha": "0f2c9bcff600f58880886cec449954c459b16fc1",
+  "update_commit_sha": "c8f089d922d0e8ff2bc3ebac032208247d2f2d76",
+  "validation": {
+    "json_parse": true,
+    "expected_entries_once": true,
+    "duplicate_name_date_keys": 0,
+    "chronological_opening_date_order": true,
+    "period_preserved": "2026-09-18/2027-01-20",
+    "read_after_write": true,
+    "fetched_blob_sha_matches_update_result": true
+  },
+  "errors": [
+    "GitHub connector did not expose HTTP status code."
+  ],
+  "unverified": [
+    "Nationwide completeness cannot be guaranteed.",
+    "CORNES TRADING KIDS was not added because its announced start date (2026-09-03) precedes the current dataset period start (2026-09-18)."
+  ]
+}
