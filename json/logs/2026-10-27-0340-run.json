@@ -1,0 +1,107 @@
+{
+  "run_at": "2026-10-27T03:40:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_added_items",
+  "source_urls": [
+    "https://gbp.minamimachida-grandberrypark.com/2026au/",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://subway.co.jp/news/year/2026/",
+    "https://www.sukiya.jp/news/",
+    "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory-open",
+    "https://onodera-group.com/news/7933/"
+  ],
+  "before": {
+    "item_count": 566,
+    "blob_sha": "a29a101431fb926dda8878c8f48748c1ae917970"
+  },
+  "additions": [
+    {
+      "name": "COHINA グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "ファッション・アパレル",
+      "source_url": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    }
+  ],
+  "checked_existing_candidates": [
+    {
+      "name": "PUMA グランベリーパーク店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
+      "opening_date": "2026-11-13",
+      "status": "already_registered"
+    },
+    {
+      "name": "サブウェイ 川崎市役所前店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "すき家 金沢北安江店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered"
+    },
+    {
+      "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "立鮨 銀座おのでら エキュート大宮店",
+      "opening_date": "2026-11-13",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 567,
+    "blob_sha": "e4da8260b37c796a2bb63e86d30d2358309b78fc",
+    "commit_sha": "ba41df8fb94be5f2868ddde9b548b22f006ea8a8"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 1,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-27T03:40:46+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の調査で全国すべての新規開店予定を網羅できたことは保証できない。"
+    },
+    {
+      "name": "ReD（グランベリーパーク）",
+      "detail": "公式施設ページでは10月上旬〜中旬予定との記載のみで、具体的な開店日は確認できないため追加していない."
+    },
+    {
+      "name": "キイロイトリ銭湯関連候補",
+      "detail": "既存データ内に名称に関連するレコードがあるため、内容を確認していないものは推測で統合・削除していない。",
+      "records": [
+        {
+          "name": "キイロイトリ銭湯（期間限定）",
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "opening_date": "2026-10-30",
+          "category": "期間限定キャラクターストア"
+        },
+        {
+          "name": "キイロイトリ銭湯（東京駅一番街）",
+          "prefecture": "東京都",
+          "city": "千代田区",
+          "opening_date": "2026-10-30",
+          "category": "期間限定キャラクターショップ"
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "task_status_note": "Data file update and verification completed. Automation enablement is reported separately."
+}
