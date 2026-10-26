@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-27T00:48:25+09:00",
+  "updatetime": "2026-10-27T01:46:10+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -156,6 +156,13 @@
       "city": "松阪市",
       "opening_date": "2026-10-01",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "茶房 ◯△□（まるさんかくしかく）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-01",
+      "category": "自然食レストラン・カフェ"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
