@@ -1,0 +1,45 @@
+{
+  "run_at": "2026-10-27T01:46:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000004.000189353.html"
+  ],
+  "before": {
+    "item_count": 565,
+    "blob_sha": "03813fcdc95ea5642299ad9fda544759819464a1"
+  },
+  "additions": [
+    {
+      "name": "茶房 ◯△□（まるさんかくしかく）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-01",
+      "category": "自然食レストラン・カフェ"
+    }
+  ],
+  "after": {
+    "item_count": 566,
+    "blob_sha": "207c8e6a4d2cd2ea4ab04b6f9a81fc23692280c9",
+    "commit_sha": "6260fea7738fb32eef1be7b26bf24460a2fd00a6"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 1,
+    "added_item_verified": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "updatetime": "2026-10-27T01:46:10+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の検索で全国すべての新規開店予定を網羅できたことは保証できない。具体的な開店日を公式発表で確認できない候補は登録していない。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "This data-write sequence does not change the schedule or task enablement."
+}
