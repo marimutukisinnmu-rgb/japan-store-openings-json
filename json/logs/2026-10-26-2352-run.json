@@ -1,0 +1,91 @@
+{
+  "run_at": "2026-10-26T23:52:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000004072.000003639.html",
+    "https://prtimes.jp/main/html/rd/p/000001378.000010686.html"
+  ],
+  "before": {
+    "item_count": 559,
+    "blob_sha": "9badf8eb46ef20af1075294e8d0ba88637be105a"
+  },
+  "additions": [
+    {
+      "name": "Verdy’s Postal Service（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-09-18",
+      "category": "文具・雑貨・ポストカード（アーティスト常設店）"
+    },
+    {
+      "name": "STUDIO NICHOLSON OSAKA（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-10-02",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "SEGA STORE OSAKA（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-10-02",
+      "category": "ゲーム・キャラクターグッズ"
+    },
+    {
+      "name": "新綱島ＭＩＣＣＡ",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "複合商業施設（古民家・木造商業施設）"
+    }
+  ],
+  "already_present": [],
+  "after": {
+    "item_count": 563,
+    "blob_sha": "bd952b899e6ff7681dd724766fbbbd6c71c6779c",
+    "commit_sha": "464ea48683820cbbc95b3dd266d12dbbb89c914c",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "addition_counts": [
+      {
+        "name": "Verdy’s Postal Service（心斎橋PARCO）",
+        "count": 1
+      },
+      {
+        "name": "STUDIO NICHOLSON OSAKA（心斎橋PARCO）",
+        "count": 1
+      },
+      {
+        "name": "SEGA STORE OSAKA（心斎橋PARCO）",
+        "count": 1
+      },
+      {
+        "name": "新綱島ＭＩＣＣＡ",
+        "count": 1
+      }
+    ],
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "updatetime": "2026-10-26T23:52:00+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "縁島ジャッキー餃子楼（新綱島MICCA）",
+      "detail": "公式テナント一覧では11月オープン予定までで、具体的な開店日が未確認のため追加せず。"
+    },
+    {
+      "name": "お肉の専門店スギモト（東京ソラマチ）",
+      "detail": "公式発表は11月下旬予定までで、具体的な開店日が未確認のため追加せず。"
+    },
+    {
+      "name": "Eggs ’n Things（東京ソラマチ）",
+      "detail": "公式発表は2026年冬予定までで、具体的な開店日が未確認のため追加せず。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "This run updated repository data only; task enablement was not changed in this data-write sequence."
+}
