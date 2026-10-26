@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-10-27T02:47:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_no_new_items",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000001938.000009215.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135992.html",
+    "https://prtimes.jp/main/html/rd/p/000000081.000033144.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000192334.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+    "https://prtimes.jp/main/html/rd/p/000004039.000003639.html",
+    "https://prtimes.jp/main/html/rd/p/000000411.000001117.html"
+  ],
+  "before": {
+    "item_count": 566,
+    "blob_sha": "207c8e6a4d2cd2ea4ab04b6f9a81fc23692280c9"
+  },
+  "additions": [],
+  "checked_existing_candidates": [
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered"
+    },
+    {
+      "name": "フードスタイル東五反田店",
+      "opening_date": "2026-10-29",
+      "status": "already_registered"
+    },
+    {
+      "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "マリベル渋谷",
+      "opening_date": "2026-10-28",
+      "status": "already_registered"
+    },
+    {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "opening_date": "2026-11-05",
+      "status": "already_registered"
+    },
+    {
+      "name": "Zoff 仙台PARCO店",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 566,
+    "blob_sha": "a29a101431fb926dda8878c8f48748c1ae917970",
+    "commit_sha": "148f41d617ba036793759f4fc8b2751c387e93ef"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 0,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "updatetime": "2026-10-27T02:47:10+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の検索で全国すべての新規開店予定を網羅できたことは保証できない。具体的な開店日が公式発表で確認できない候補は登録していない。"
+    },
+    {
+      "name": "キイロイトリ銭湯",
+      "detail": "既存JSON内に同日・同所在地とみられる候補が異なる名称で2件存在する。今回の更新では既存データを推測で統合・削除していない。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "Data-write sequence does not change schedule or task enablement."
+}
