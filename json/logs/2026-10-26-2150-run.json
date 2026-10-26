@@ -36,5 +36,5 @@
     "全国すべての新規開店情報を網羅できたことまでは保証できない。"
   ],
   "errors": [],
-  "automation_status": "定期タスクの状態は別途確認。"
+  "automation_status": "After the successful data update, the recurring automation was disabled by the automation runtime's completion policy. The hourly schedule definition remains unchanged, but automatic future runs are disabled."
 }
