@@ -1,0 +1,56 @@
+{
+  "run_at": "2026-10-26T19:40:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000002.000190931.html",
+    "https://prtimes.jp/main/html/rd/p/000001198.000082557.html",
+    "https://prtimes.jp/main/html/rd/p/000000191.000134094.html",
+    "https://prtimes.jp/main/html/rd/p/000000348.000018877.html"
+  ],
+  "before": {
+    "item_count": 551,
+    "blob_sha": "405c0723193fb43f5303d13dc3312f2875e96b9e"
+  },
+  "additions": [
+    {
+      "name": "沖縄琉球しゃぶしゃぶ くろ凪",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-10-26",
+      "category": "沖縄料理・しゃぶしゃぶ・居酒屋"
+    },
+    {
+      "name": "ヤマダデンキ広島本店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-06",
+      "category": "家電量販店"
+    },
+    {
+      "name": "PRONTO 新小岩店",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-11-24",
+      "category": "カフェ・喫茶酒場"
+    }
+  ],
+  "after": {
+    "item_count": 554,
+    "blob_sha": "f77b1e1d078705fc693cdb2c921733e4566e4de1",
+    "commit_sha": "85393c77c7d12aad42699b1a5aee1a0465af950f",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "date_order": "ascending"
+  },
+  "skipped_or_unconfirmed": [
+    "パセーラのタカラトミープラネット、#C-pla、THE CUBE、星乃珈琲店、雨ニモマケズ高等学校は、確認した施設運営会社の発表では2027年春または2027年4月予定のため、2026年11月6日開店として登録していない。",
+    "全国すべての新規開店情報を網羅できたことまでは保証できない。"
+  ],
+  "errors": [],
+  "automation_status": "Not included in data-write verification."
+}
