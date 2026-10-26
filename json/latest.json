@@ -1,8 +1,15 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T22:51:00+09:00",
+  "updatetime": "2026-10-26T23:52:00+09:00",
   "items": [
+    {
+      "name": "Verdy’s Postal Service（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-09-18",
+      "category": "文具・雑貨・ポストカード（アーティスト常設店）"
+    },
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
       "prefecture": "東京都",
@@ -163,6 +170,20 @@
       "city": "江戸川区",
       "opening_date": "2026-10-02",
       "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "SEGA STORE OSAKA（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-10-02",
+      "category": "ゲーム・キャラクターグッズ"
+    },
+    {
+      "name": "STUDIO NICHOLSON OSAKA（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-10-02",
+      "category": "ファッション・アパレル"
     },
     {
       "name": "Workman Colors イオンモール大垣店",
@@ -1460,6 +1481,20 @@
       "category": "期間限定コラボカフェ（ゲーム）"
     },
     {
+      "name": "LEE GIMBAP（リキンパ）目黒不動前店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-22",
+      "category": "韓国料理・キンパ専門店"
+    },
+    {
+      "name": "PRESS BUTTER SAND グランスタ東京店（10th Anniversary Limited TOKYO）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
       "name": "すき家 118号常陸大宮泉店",
       "prefecture": "茨城県",
       "city": "常陸大宮市",
@@ -1514,20 +1549,6 @@
       "city": "渋谷区",
       "opening_date": "2026-10-22",
       "category": "期間限定コラボカフェ（キャラクター）"
-    },
-    {
-      "name": "LEE GIMBAP（リキンパ）目黒不動前店",
-      "prefecture": "東京都",
-      "city": "品川区",
-      "opening_date": "2026-10-22",
-      "category": "韓国料理・キンパ専門店"
-    },
-    {
-      "name": "PRESS BUTTER SAND グランスタ東京店（10th Anniversary Limited TOKYO）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-10-22",
-      "category": "期間限定ポップアップ（バターサンド）"
     },
     {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
@@ -2193,6 +2214,13 @@
       "city": "前橋市",
       "opening_date": "2026-10-28",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "新綱島ＭＩＣＣＡ",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-10-28",
+      "category": "複合商業施設（古民家・木造商業施設）"
     },
     {
       "name": "中華そば みなと橋",
