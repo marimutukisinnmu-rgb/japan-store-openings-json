@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T21:50:32+09:00",
+  "updatetime": "2026-10-26T22:51:00+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -1514,6 +1514,20 @@
       "city": "渋谷区",
       "opening_date": "2026-10-22",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "LEE GIMBAP（リキンパ）目黒不動前店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-22",
+      "category": "韓国料理・キンパ専門店"
+    },
+    {
+      "name": "PRESS BUTTER SAND グランスタ東京店（10th Anniversary Limited TOKYO）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定ポップアップ（バターサンド）"
     },
     {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
