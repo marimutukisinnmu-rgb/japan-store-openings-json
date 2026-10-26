@@ -1,0 +1,45 @@
+{
+  "run_at": "2026-10-26T22:51:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000007.000178808.html",
+    "https://buttersand.com/news/10th_anniversary_limited_tokyo/"
+  ],
+  "before": {
+    "item_count": 557,
+    "blob_sha": "6832debec52b6fb91b61ac864eb206b120226d1f"
+  },
+  "additions": [
+    {
+      "name": "LEE GIMBAP（リキンパ）目黒不動前店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-10-22",
+      "category": "韓国料理・キンパ専門店"
+    },
+    {
+      "name": "PRESS BUTTER SAND グランスタ東京店（10th Anniversary Limited TOKYO）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定ポップアップ（バターサンド）"
+    }
+  ],
+  "after": {
+    "item_count": 559,
+    "blob_sha": "9badf8eb46ef20af1075294e8d0ba88637be105a",
+    "commit_sha": "d995f7b524a82cc669750fc63bf163f72fdb3b88",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "updatetime": "2026-10-26T22:51:00+09:00"
+  },
+  "unconfirmed": [],
+  "errors": [],
+  "task_status_note": "Task enablement is managed separately from repository data updates."
+}
