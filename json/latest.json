@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T20:42:41+09:00",
+  "updatetime": "2026-10-26T21:50:32+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -1033,6 +1033,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "COOL Fuel / RUMBLE CRUMBLE（渋谷スクランブルスクエア）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-16",
+      "category": "アイスクリーム・クッキー"
+    },
+    {
       "name": "destination Tokyo 池袋店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -1178,13 +1185,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "COOL Fuel / RUMBLE CRUMBLE（渋谷スクランブルスクエア）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-16",
-      "category": "アイスクリーム・クッキー"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1530,6 +1530,13 @@
       "category": "シューズ・アパレル（移転拡大）"
     },
     {
+      "name": "BRIEFING（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "バッグ・ラゲッジ"
+    },
+    {
       "name": "chocoZAP 南藤沢",
       "prefecture": "神奈川県",
       "city": "藤沢市",
@@ -1572,6 +1579,13 @@
       "category": "生活雑貨"
     },
     {
+      "name": "KEY TIMEZ（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・セレクトショップ"
+    },
+    {
       "name": "OLYMPIA ボーノ相模大野店（改装リニューアル）",
       "prefecture": "神奈川県",
       "city": "相模原市南区",
@@ -1605,6 +1619,13 @@
       "city": "大和市",
       "opening_date": "2026-10-23",
       "category": "チュロスカフェ"
+    },
+    {
+      "name": "TASAKI 池袋西武店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-23",
+      "category": "ジュエリー・ブライダルジュエリー"
     },
     {
       "name": "Workman Colors イオンモール扶桑店",
@@ -1724,27 +1745,6 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
-    },
-    {
-      "name": "TASAKI 池袋西武店",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-23",
-      "category": "ジュエリー・ブライダルジュエリー"
-    },
-    {
-      "name": "BRIEFING（渋谷スクランブルスクエア店）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-23",
-      "category": "バッグ・ラゲッジ"
-    },
-    {
-      "name": "KEY TIMEZ（渋谷スクランブルスクエア店）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-23",
-      "category": "ファッション・セレクトショップ"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -2083,6 +2083,13 @@
       "category": "健康・ボディケアショップ"
     },
     {
+      "name": "ペコちゃんmilkyタイム イオンモール大高店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-10-28",
+      "category": "ソフトクリーム・洋菓子"
+    },
+    {
       "name": "マリベル渋谷",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -2293,6 +2300,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "Maker’s Watch Knot（渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-29",
+      "category": "腕時計・カスタマイズ"
+    },
+    {
       "name": "RANDY‘S DONUTS 東京ソラマチ店",
       "prefecture": "東京都",
       "city": "墨田区",
@@ -2389,13 +2403,6 @@
       "city": "木更津市",
       "opening_date": "2026-10-29",
       "category": "米由来食品・カフェ"
-    },
-    {
-      "name": "Maker’s Watch Knot（渋谷スクランブルスクエア店）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-29",
-      "category": "腕時計・カスタマイズ"
     },
     {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
@@ -2720,6 +2727,13 @@
       "category": "100円ショップ（リニューアル）"
     },
     {
+      "name": "ゴンチャ ルミネ町田店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-30",
+      "category": "ティーカフェ"
+    },
+    {
       "name": "サブウェイ 川崎市役所前店",
       "prefecture": "神奈川県",
       "city": "川崎市川崎区",
@@ -2795,13 +2809,6 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "ゴンチャ ルミネ町田店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-10-30",
-      "category": "ティーカフェ"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
@@ -3266,6 +3273,13 @@
       "category": "リラクゼーション"
     },
     {
+      "name": "ヤマダデンキ広島本店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-06",
+      "category": "家電量販店"
+    },
+    {
       "name": "ゆで太郎 環七鹿浜店（もつ次郎併設）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -3341,13 +3355,6 @@
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
-    },
-    {
-      "name": "ヤマダデンキ広島本店",
-      "prefecture": "広島県",
-      "city": "広島市中区",
-      "opening_date": "2026-11-06",
-      "category": "家電量販店"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -3658,6 +3665,13 @@
       "category": "デニム・ファッション"
     },
     {
+      "name": "PUPPET SUNSUN STORE 渋谷店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ・雑貨（常設店）"
+    },
+    {
       "name": "THE GUNDAM BASE SHIBUYA",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -3714,25 +3728,11 @@
       "category": "チーズ菓子・洋菓子"
     },
     {
-      "name": "PUPPET SUNSUN STORE 渋谷店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-20",
-      "category": "キャラクターグッズ・雑貨（常設店）"
-    },
-    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
       "opening_date": "2026-11-21",
       "category": "期間限定ポップアップ（ファッション・バッグ）"
-    },
-    {
-      "name": "ULTRAMAN STORE OSAKA ルクア サウス店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-24",
-      "category": "ウルトラマン公式ショップ・キャラクターグッズ"
     },
     {
       "name": "PRONTO 新小岩店",
@@ -3747,6 +3747,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-24",
       "category": "キャラクターグッズ・雑貨（常設店）"
+    },
+    {
+      "name": "ULTRAMAN STORE OSAKA ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "ウルトラマン公式ショップ・キャラクターグッズ"
     },
     {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
