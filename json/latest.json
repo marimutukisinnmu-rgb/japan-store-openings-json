@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T23:52:00+09:00",
+  "updatetime": "2026-10-27T00:48:25+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -823,6 +823,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "DÉPAREILLÉ（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 54号広島八木店",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -870,6 +877,13 @@
       "city": "横浜市神奈川区",
       "opening_date": "2026-10-10",
       "category": "居酒屋"
+    },
+    {
+      "name": "手打ちそば 澄十朗（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-10",
+      "category": "そば・和食"
     },
     {
       "name": "BEAMS SPORTS（都立明治公園）",
