@@ -44,5 +44,5 @@
     "全国すべての新規開店情報を網羅できたことまでは保証できない。"
   ],
   "errors": [],
-  "automation_status": "This run did not modify the task schedule. The platform task state should be checked separately."
+  "automation_status": "The task was enabled when checked during this run. After the successful run, the runtime policy disabled it; the hourly schedule definition remains, but is_enabled=false and future automatic runs will not occur unless re-enabled."
 }
