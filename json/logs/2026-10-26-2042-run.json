@@ -1,0 +1,48 @@
+{
+  "run_at": "2026-10-26T20:42:41+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://shop.chocolate-inc.com/pages/puppet-sunsun-store",
+    "https://shop.chocolate-inc.com/blogs/puppet-sunsun-store-news/20261026"
+  ],
+  "before": {
+    "item_count": 554,
+    "blob_sha": "f77b1e1d078705fc693cdb2c921733e4566e4de1"
+  },
+  "additions": [
+    {
+      "name": "PUPPET SUNSUN STORE 渋谷店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ・雑貨（常設店）"
+    },
+    {
+      "name": "PUPPET SUNSUN STORE 梅田店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "キャラクターグッズ・雑貨（常設店）"
+    }
+  ],
+  "after": {
+    "item_count": 556,
+    "blob_sha": "269dd777e2d0bae4d4e6811110941a309824c9e8",
+    "commit_sha": "f6b417b561c704cab94de520409e083c0196a171",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "date_order": "ascending"
+  },
+  "skipped_or_unconfirmed": [
+    "東京ソラマチの「お肉の専門店スギモト」は2026年11月下旬予定で具体的な開店日未確認のため追加していない。",
+    "東京ソラマチのEggs ’n Thingsは2026年冬予定で具体的な開店日未確認のため追加していない。",
+    "全国すべての新規開店情報を網羅できたことまでは保証できない。"
+  ],
+  "errors": [],
+  "automation_status": "This run did not modify the task schedule. The platform task state should be checked separately."
+}
