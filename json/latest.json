@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-26T19:40:54+09:00",
+  "updatetime": "2026-10-26T20:42:41+09:00",
   "items": [
     {
       "name": "アディダスゴルフ ファクトリー アウトレット（グランベリーパーク・リニューアル）",
@@ -3714,6 +3714,13 @@
       "category": "チーズ菓子・洋菓子"
     },
     {
+      "name": "PUPPET SUNSUN STORE 渋谷店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ・雑貨（常設店）"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -3733,6 +3740,13 @@
       "city": "葛飾区",
       "opening_date": "2026-11-24",
       "category": "カフェ・喫茶酒場"
+    },
+    {
+      "name": "PUPPET SUNSUN STORE 梅田店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "キャラクターグッズ・雑貨（常設店）"
     },
     {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
