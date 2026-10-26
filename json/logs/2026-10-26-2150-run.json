@@ -1,0 +1,40 @@
+{
+  "run_at": "2026-10-26T21:50:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success",
+  "source_urls": [
+    "https://shop.fujiya-peko.co.jp/b/fujiya/info/02219/",
+    "https://www.fujiya-peko.co.jp/news/news/2026.html"
+  ],
+  "before": {
+    "item_count": 556,
+    "blob_sha": "269dd777e2d0bae4d4e6811110941a309824c9e8"
+  },
+  "additions": [
+    {
+      "name": "ペコちゃんmilkyタイム イオンモール大高店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-10-28",
+      "category": "ソフトクリーム・洋菓子"
+    }
+  ],
+  "after": {
+    "item_count": 557,
+    "blob_sha": "6832debec52b6fb91b61ac864eb206b120226d1f",
+    "commit_sha": "2212dff2a4e00b2bbcbbed95d21cc3036c539ec0",
+    "verified_by_refetch": true,
+    "json_parse": true,
+    "each_addition_present_once": true,
+    "prior_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "date_order": "ascending"
+  },
+  "skipped_or_unconfirmed": [
+    "既存JSONに登録済みのPRONTO 新小岩店、KENZO ポップアップストア 六本木ヒルズ、STANDARD DONUTS 天神西通り店、Penno Penna 大船ルミネウィング店は重複追加していない。",
+    "全国すべての新規開店情報を網羅できたことまでは保証できない。"
+  ],
+  "errors": [],
+  "automation_status": "定期タスクの状態は別途確認。"
+}
