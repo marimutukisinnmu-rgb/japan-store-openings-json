@@ -1,0 +1,55 @@
+{
+  "run_at": "2026-10-28T01:46:39+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_added_verified_opening_records",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/"
+  ],
+  "before": {
+    "item_count": 588,
+    "blob_sha": "be96e3a27783e1d2f5e4d4d93434c87b2803ce1b",
+    "updatetime": "2026-10-28T00:47:54+09:00"
+  },
+  "additions": [],
+  "already_present_candidates": [
+    {
+      "name": "ローソン 岩内町万代",
+      "date": "2026-11-04",
+      "status": "already_present"
+    },
+    {
+      "name": "ローソン さいたま東大成町二丁目",
+      "date": "2026-11-05",
+      "status": "already_present"
+    },
+    {
+      "name": "ローソン Ｓ四街道市役所",
+      "date": "2026-11-05",
+      "status": "already_present"
+    }
+  ],
+  "after": {
+    "item_count": 588,
+    "blob_sha": "53fcd3e06245f3d92a8b00065914da713b25c335",
+    "commit_sha": "762c61f9acc691993abaafa366f28aab6e93af9b"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 0,
+    "all_added_records_present_exactly_once": true,
+    "old_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-28T01:46:39+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回確認した公式ローソン新店一覧の範囲で確認。全国すべての新規開店情報を網羅したとは保証できない。"
+    }
+  ],
+  "errors": []
+}
