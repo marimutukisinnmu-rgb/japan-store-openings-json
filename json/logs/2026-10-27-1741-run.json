@@ -1,0 +1,124 @@
+{
+  "run_at": "2026-10-27T17:41:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_added_items",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000432.000048503.html",
+    "https://butayama.com/news/butayama-niigata-niigatayoneyama",
+    "https://prtimes.jp/main/html/rd/p/000000433.000048503.html",
+    "https://subway.co.jp/news/d8_gl4nwc/",
+    "https://prtimes.jp/main/html/rd/p/000000093.000066920.html"
+  ],
+  "before": {
+    "item_count": 567,
+    "blob_sha": "e4da8260b37c796a2bb63e86d30d2358309b78fc"
+  },
+  "additions": [
+    {
+      "name": "ゴンチャ イオンモール座間店",
+      "prefecture": "神奈川県",
+      "city": "座間市",
+      "opening_date": "2026-09-25",
+      "category": "ティーカフェ",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000432.000048503.html"
+    },
+    {
+      "name": "豚山 新潟米山店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-09-28",
+      "category": "ラーメン",
+      "source_url": "https://butayama.com/news/butayama-niigata-niigatayoneyama"
+    },
+    {
+      "name": "ゴンチャ 南砂町SUNAMO店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-01",
+      "category": "ティーカフェ",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000433.000048503.html"
+    },
+    {
+      "name": "サブウェイ 京都府立医科大学付属病院店",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "opening_date": "2026-10-05",
+      "category": "サンドイッチ",
+      "source_url": "https://subway.co.jp/news/d8_gl4nwc/"
+    },
+    {
+      "name": "Pandora ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-08",
+      "category": "ジュエリー・アクセサリー",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000093.000066920.html"
+    }
+  ],
+  "checked_existing_candidates": [
+    {
+      "name": "ルルレモン玉川髙島屋S.C. ストア",
+      "opening_date": "2026-10-22",
+      "status": "already_registered"
+    },
+    {
+      "name": "サブウェイ イオンモール大日店",
+      "opening_date": "2026-10-14",
+      "status": "already_registered"
+    },
+    {
+      "name": "すき家 118号常陸大宮泉店",
+      "opening_date": "2026-10-22",
+      "status": "already_registered"
+    },
+    {
+      "name": "POP MART 池袋PARCO店",
+      "opening_date": "2026-10-16",
+      "status": "already_registered"
+    },
+    {
+      "name": "OSTERIA SALVATORE 阿佐ヶ谷",
+      "opening_date": "2026-11-01",
+      "status": "already_registered"
+    },
+    {
+      "name": "猿田彦珈琲 皇居東御苑店",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "opening_date": "2026-11-28",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 572,
+    "blob_sha": "a2a6eafd6c019e353b1c8330d51796c6f4dfc909",
+    "commit_sha": "90167bf5ab3952690491d5138163dce02e8289f6"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 5,
+    "each_added_record_count_is_one": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-27T17:41:18+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の調査で全国すべての新規開店情報を網羅できたことは保証できない。"
+    },
+    {
+      "name": "東京ソラマチの一部新店",
+      "detail": "公式発表に季節・月の予定のみで具体的な開店日が確認できない候補は、推測で追加していない。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "Data file update verified. Automation status is checked separately."
+}
