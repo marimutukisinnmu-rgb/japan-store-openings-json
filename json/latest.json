@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T04:41:08+09:00",
+  "updatetime": "2026-10-28T05:41:32+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -1358,6 +1358,13 @@
       "name": "DAISO ヤオコー八王子中野上町店",
       "prefecture": "東京都",
       "city": "八王子市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO エバグリーン海南店",
+      "prefecture": "和歌山県",
+      "city": "海南市",
       "opening_date": "2026-10-16",
       "category": "100円ショップ"
     },
