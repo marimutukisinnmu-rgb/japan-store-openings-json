@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T05:41:32+09:00",
+  "updatetime": "2026-10-28T06:43:44+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3222,6 +3222,13 @@
       "city": "旭川市",
       "opening_date": "2026-11-01",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "合 Shinjuku",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-02",
+      "category": "和食店"
     },
     {
       "name": "ハイキュー!! × and GALLERY コラボカフェ（なんば1号店）",
