@@ -2,42 +2,96 @@
   "run_at": "2026-10-28T01:46:39+09:00",
   "task": "全国 開店予定JSON（回転JSON）",
   "target": "json/latest.json",
-  "result": "success_added_verified_opening_records",
+  "result": "success_added_verified_opening_record",
   "source_urls": [
-    "https://www.lawson.co.jp/newstore/smt/"
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+    "https://gbp.minamimachida-grandberrypark.com/2026au/",
+    "https://prtimes.jp/main/html/rd/p/000000057.000117213.html"
   ],
-  "before": {
+  "baseline": {
     "item_count": 588,
     "blob_sha": "be96e3a27783e1d2f5e4d4d93434c87b2803ce1b",
     "updatetime": "2026-10-28T00:47:54+09:00"
   },
-  "additions": [],
-  "already_present_candidates": [
+  "metadata_refresh": {
+    "item_count": 588,
+    "blob_sha": "53fcd3e06245f3d92a8b00065914da713b25c335",
+    "commit_sha": "762c61f9acc691993abaafa366f28aab6e93af9b",
+    "updatetime": "2026-10-28T01:46:39+09:00",
+    "details": "Initial official-source sweep found the checked Lawson candidates already present; refresh time was saved and verified."
+  },
+  "additions": [
+    {
+      "name": "ノーブル（POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定ポップアップ（レディスファッション）",
+      "source_url": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/"
+    }
+  ],
+  "checked_existing_candidates": [
     {
       "name": "ローソン 岩内町万代",
-      "date": "2026-11-04",
-      "status": "already_present"
+      "opening_date": "2026-11-04",
+      "status": "already_registered"
     },
     {
       "name": "ローソン さいたま東大成町二丁目",
-      "date": "2026-11-05",
-      "status": "already_present"
+      "opening_date": "2026-11-05",
+      "status": "already_registered"
     },
     {
       "name": "ローソン Ｓ四街道市役所",
-      "date": "2026-11-05",
-      "status": "already_present"
+      "opening_date": "2026-11-05",
+      "status": "already_registered"
+    },
+    {
+      "name": "OSTERIA SALVATORE 阿佐ヶ谷",
+      "opening_date": "2026-11-01",
+      "status": "already_registered"
+    },
+    {
+      "name": "HUNTER（グランベリーパーク）",
+      "opening_date": "2026-10-16",
+      "status": "already_registered"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（池袋店）",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（なんば1号店）",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（福岡店）",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（仙台店）",
+      "opening_date": "2026-11-03",
+      "status": "already_registered"
     }
   ],
   "after": {
-    "item_count": 588,
-    "blob_sha": "53fcd3e06245f3d92a8b00065914da713b25c335",
-    "commit_sha": "762c61f9acc691993abaafa366f28aab6e93af9b"
+    "item_count": 589,
+    "blob_sha": "7144df631b1f70905032b9e3b7af37507284e5e0",
+    "commit_sha": "66eb3a88070f90934bc2acb172fa55acf4cd180a"
   },
   "validation": {
     "json_syntax": "passed",
     "saved_file_refetched": "passed",
-    "added_item_count": 0,
+    "added_item_count": 1,
     "all_added_records_present_exactly_once": true,
     "old_records_preserved": true,
     "duplicate_name_date_keys": 0,
@@ -48,8 +102,13 @@
   "unconfirmed": [
     {
       "name": "全国の未調査店舗情報",
-      "detail": "今回確認した公式ローソン新店一覧の範囲で確認。全国すべての新規開店情報を網羅したとは保証できない。"
+      "detail": "今回確認した公式情報源の範囲で1件を追加。全国すべての新規開店情報を網羅したとは保証できない。"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY 有楽町会場",
+      "detail": "同じ公式リリースの概要部分は5会場を列挙する一方、詳細な開催場所欄には有楽町店も記載。情報源内に不一致があるため、新規レコードは追加せず保留。"
     }
   ],
-  "errors": []
+  "errors": [],
+  "prior_sweep_log": "fba044adb9774877ed00d36808fe85ce802ca2f3"
 }
