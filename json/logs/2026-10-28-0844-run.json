@@ -1,0 +1,96 @@
+{
+  "run_at": "2026-10-28T08:44:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "株式会社富澤商店 公式プレスリリース",
+      "url": "https://tomiz.com/information/detail/2762",
+      "supports": [
+        "店舗名：富澤商店 アミュプラザ小倉店",
+        "開店日：2026-11-13",
+        "所在地：福岡県北九州市小倉北区浅野1-1-1 アミュプラザ小倉 西館3階",
+        "カテゴリ：製菓・製パン材料・器具"
+      ]
+    },
+    {
+      "title": "富澤商店 公式店舗情報",
+      "url": "https://tomiz.com/store/information/182",
+      "supports": [
+        "2026-11-13オープン",
+        "アミュプラザ小倉西館3階"
+      ]
+    },
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": [
+        "2026-10-30から2026-11-06の掲載店舗を照合"
+      ],
+      "note": "今回照合したローソン候補は既存JSONに登録済み。重複追加なし。"
+    },
+    {
+      "title": "キル フェ ボン公式・新宿店オープン発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "supports": [
+        "2026-11-28開店"
+      ],
+      "note": "既存JSONに登録済み。"
+    },
+    {
+      "title": "ダンデライオン・チョコレート公式発表",
+      "url": "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory-open",
+      "supports": [
+        "2026-10-30開店"
+      ],
+      "note": "既存JSONに登録済み。"
+    },
+    {
+      "title": "OSTERIA SALVATORE 阿佐ヶ谷公式出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+      "supports": [
+        "2026-11-01開店"
+      ],
+      "note": "既存JSONに登録済み。"
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "富澤商店 アミュプラザ小倉店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-13",
+        "category": "製菓・製パン材料・器具"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 604,
+    "count_after": 605
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "da3a8d1500661e445c8f01315130a7f7d94db4db",
+    "after_blob_sha": "d17fc87ba1f81d70866033cee7f6e9edbc2dba2a",
+    "update_commit_sha": "eedf7221ba32b61c594c22c6cf6c3ff400190d5c",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "json_parse": true,
+    "count_before": 604,
+    "count_after": 605,
+    "added_count": 1,
+    "added_occurrences": 1,
+    "duplicate_name_date_keys": 0,
+    "date_sorted": true,
+    "all_preexisting_items_preserved": true,
+    "saved_blob_sha_matches_update_result": true,
+    "saved_blob_sha": "d17fc87ba1f81d70866033cee7f6e9edbc2dba2a",
+    "update_commit_sha": "eedf7221ba32b61c594c22c6cf6c3ff400190d5c"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。"
+  ]
+}
