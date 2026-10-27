@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-27T23:44:44+09:00",
+  "updatetime": "2026-10-28T00:47:54+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -39,6 +39,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ゴンチャ イオンモール座間店",
+      "prefecture": "神奈川県",
+      "city": "座間市",
+      "opening_date": "2026-09-25",
+      "category": "ティーカフェ"
+    },
+    {
       "name": "ローソン 板橋東山町",
       "prefecture": "東京都",
       "city": "板橋区",
@@ -51,13 +58,6 @@
       "city": "諏訪郡富士見町",
       "opening_date": "2026-09-25",
       "category": "コンビニ"
-    },
-    {
-      "name": "ゴンチャ イオンモール座間店",
-      "prefecture": "神奈川県",
-      "city": "座間市",
-      "opening_date": "2026-09-25",
-      "category": "ティーカフェ"
     },
     {
       "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
@@ -100,6 +100,41 @@
       "city": "中央区",
       "opening_date": "2026-10-01",
       "category": "スキンケア・ビューティー（旗艦店）"
+    },
+    {
+      "name": "Noix（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツショップ"
+    },
+    {
+      "name": "POP UP MON-CREVE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツ・ギフトショップ"
+    },
+    {
+      "name": "キャラメルゴーストハウス（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
+      "name": "ゴンチャ 南砂町SUNAMO店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-01",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "フレッシュチーズスタジオ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "チーズ・乳製品（期間限定ショップ）"
     },
     {
       "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
@@ -158,6 +193,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ロリアン洋菓子店（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
       "name": "松屋 下関長府店（松のや併設）",
       "prefecture": "山口県",
       "city": "下関市",
@@ -177,48 +219,6 @@
       "city": "品川区",
       "opening_date": "2026-10-01",
       "category": "自然食レストラン・カフェ"
-    },
-    {
-      "name": "ゴンチャ 南砂町SUNAMO店",
-      "prefecture": "東京都",
-      "city": "江東区",
-      "opening_date": "2026-10-01",
-      "category": "ティーカフェ"
-    },
-    {
-      "name": "Noix（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-01",
-      "category": "期間限定スイーツショップ"
-    },
-    {
-      "name": "POP UP MON-CREVE（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-01",
-      "category": "期間限定スイーツ・ギフトショップ"
-    },
-    {
-      "name": "キャラメルゴーストハウス（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-01",
-      "category": "期間限定洋菓子ショップ"
-    },
-    {
-      "name": "ロリアン洋菓子店（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-01",
-      "category": "期間限定洋菓子ショップ"
-    },
-    {
-      "name": "フレッシュチーズスタジオ（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-01",
-      "category": "チーズ・乳製品（期間限定ショップ）"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -361,6 +361,13 @@
       "category": "寝具"
     },
     {
+      "name": "STAR WARS POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ（映画・キャラクターグッズ）"
+    },
+    {
       "name": "SUNNY BANANA",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -401,6 +408,20 @@
       "city": "相模原市中央区",
       "opening_date": "2026-10-03",
       "category": "中古車買取・販売"
+    },
+    {
+      "name": "アニメカードキャプターさくらTaKaRaBaKo POPUP SHOP（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "お文具といっしょ POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
     },
     {
       "name": "ディスカウントドラッグコスモス天草登立店",
@@ -445,27 +466,6 @@
       "category": "寿司・日本料理"
     },
     {
-      "name": "STAR WARS POP UP STORE（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-03",
-      "category": "期間限定ポップアップ（映画・キャラクターグッズ）"
-    },
-    {
-      "name": "アニメカードキャプターさくらTaKaRaBaKo POPUP SHOP（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-03",
-      "category": "期間限定キャラクターショップ"
-    },
-    {
-      "name": "お文具といっしょ POP UP STORE（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-03",
-      "category": "期間限定キャラクターショップ"
-    },
-    {
       "name": "Phool 有楽町マルイ店",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -501,6 +501,13 @@
       "category": "カレー"
     },
     {
+      "name": "サブウェイ 京都府立医科大学付属病院店",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "opening_date": "2026-10-05",
+      "category": "サンドイッチ"
+    },
+    {
       "name": "らーめん大統領 ホワイトハウス西大寺店",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -527,13 +534,6 @@
       "city": "ひたちなか市",
       "opening_date": "2026-10-05",
       "category": "買取専門店"
-    },
-    {
-      "name": "サブウェイ 京都府立医科大学付属病院店",
-      "prefecture": "京都府",
-      "city": "京都市上京区",
-      "opening_date": "2026-10-05",
-      "category": "サンドイッチ"
     },
     {
       "name": "I’m donut？ 寺町店",
@@ -604,6 +604,20 @@
       "city": "上伊那郡箕輪町",
       "opening_date": "2026-10-08",
       "category": "リユースショップ"
+    },
+    {
+      "name": "Pandora ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-08",
+      "category": "ジュエリー・アクセサリー"
+    },
+    {
+      "name": "SEOUL＋（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-08",
+      "category": "ファッション・雑貨"
     },
     {
       "name": "SPINGLE 宮島",
@@ -704,20 +718,6 @@
       "category": "コンビニ"
     },
     {
-      "name": "Pandora ららぽーと湘南平塚店",
-      "prefecture": "神奈川県",
-      "city": "平塚市",
-      "opening_date": "2026-10-08",
-      "category": "ジュエリー・アクセサリー"
-    },
-    {
-      "name": "SEOUL＋（東京ソラマチ）",
-      "prefecture": "東京都",
-      "city": "墨田区",
-      "opening_date": "2026-10-08",
-      "category": "ファッション・雑貨"
-    },
-    {
       "name": "AMERICAN HOLIC 京王モール店",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -737,6 +737,13 @@
       "city": "御殿場市",
       "opening_date": "2026-10-09",
       "category": "ファッション・アウトレット（常設店）"
+    },
+    {
+      "name": "DÉPAREILLÉ（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション"
     },
     {
       "name": "gelato pique アーバンドック ららぽーと豊洲店",
@@ -928,13 +935,6 @@
       "category": "もんじゃ焼き"
     },
     {
-      "name": "DÉPAREILLÉ（東京ミッドタウン）",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-09",
-      "category": "ファッション"
-    },
-    {
       "name": "BOOKOFF SUPER BAZAAR 54号広島八木店",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -970,6 +970,13 @@
       "category": "フォトスタジオ"
     },
     {
+      "name": "手打ちそば 澄十朗（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-10",
+      "category": "そば・和食"
+    },
+    {
       "name": "松屋 宇治弐番店（松のや併設）",
       "prefecture": "京都府",
       "city": "宇治市",
@@ -982,13 +989,6 @@
       "city": "横浜市神奈川区",
       "opening_date": "2026-10-10",
       "category": "居酒屋"
-    },
-    {
-      "name": "手打ちそば 澄十朗（東京ミッドタウン）",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-10-10",
-      "category": "そば・和食"
     },
     {
       "name": "BEAMS SPORTS（都立明治公園）",
@@ -1082,6 +1082,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "Manhattan Portage ららぽーと福岡 POP UP STORE",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-15",
+      "category": "期間限定ポップアップ（バッグ・アパレル）"
+    },
+    {
       "name": "PISOLA前橋三俣店",
       "prefecture": "群馬県",
       "city": "前橋市",
@@ -1152,13 +1159,6 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "Manhattan Portage ららぽーと福岡 POP UP STORE",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
-      "opening_date": "2026-10-15",
-      "category": "期間限定ポップアップ（バッグ・アパレル）"
-    },
-    {
       "name": "and wander 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -1171,6 +1171,13 @@
       "city": "豊島区",
       "opening_date": "2026-10-16",
       "category": "アイウェア・セレクトショップ"
+    },
+    {
+      "name": "Cafe＆Dining LUANA",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "カフェ・ダイニング（スパ施設内）"
     },
     {
       "name": "chocoZAP 東大泉六丁目",
@@ -1332,13 +1339,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "Cafe＆Dining LUANA",
-      "prefecture": "東京都",
-      "city": "豊島区",
-      "opening_date": "2026-10-16",
-      "category": "カフェ・ダイニング（スパ施設内）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1530,6 +1530,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "Off & Relax ～Offして、艶めく～ @ cosme TOKYO POP-UP STORE",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（ヘアケア・美容）"
+    },
+    {
       "name": "Un BOURBON（大丸東京店 期間限定ポップアップ）",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -1605,13 +1612,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-10-21",
       "category": "ベーカリー（リニューアル）"
-    },
-    {
-      "name": "Off & Relax ～Offして、艶めく～ @ cosme TOKYO POP-UP STORE",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-21",
-      "category": "期間限定ポップアップ（ヘアケア・美容）"
     },
     {
       "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
@@ -2118,6 +2118,13 @@
       "category": "ベーカリー"
     },
     {
+      "name": "Café Swarovski（銀座）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定カフェ（ホリデーシーズン）"
+    },
+    {
       "name": "FaSS 新綱島店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -2438,13 +2445,6 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
-    },
-    {
-      "name": "Café Swarovski（銀座）",
-      "prefecture": "東京都",
-      "city": "中央区",
-      "opening_date": "2026-10-28",
-      "category": "期間限定カフェ（ホリデーシーズン）"
     },
     {
       "name": "chocoZAP 岡山中川町",
@@ -3378,6 +3378,20 @@
       "category": "アウトドア・フットウェア（アウトレット常設店）"
     },
     {
+      "name": "LUCIR-K JEWELRY & GASTRONOMY",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-06",
+      "category": "宝飾・時計・バッグ・カフェ・レストラン・制作体験"
+    },
+    {
+      "name": "Matchami Lab 表参道 POP UP STORE",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（抹茶ドリンク・菓子）"
+    },
+    {
       "name": "miffy style POP UP SHOP in 札幌",
       "prefecture": "北海道",
       "city": "札幌市中央区",
@@ -3840,6 +3854,13 @@
       "category": "デニム・ファッション"
     },
     {
+      "name": "petit main あべのハルカス近鉄本店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-20",
+      "category": "子ども服・ベビー用品（移転・売場拡張リニューアル）"
+    },
+    {
       "name": "PUPPET SUNSUN STORE 渋谷店",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -4008,6 +4029,13 @@
       "category": "ショッピングモール"
     },
     {
+      "name": "とんかつとう庵 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "とんかつ専門店"
+    },
+    {
       "name": "ゆで太郎 久御山店（もつ次郎併設）",
       "prefecture": "京都府",
       "city": "久世郡久御山町",
@@ -4027,6 +4055,13 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "海鮮食堂・定食・丼"
+    },
+    {
+      "name": "天丼専門店 ゑるびす イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "天丼専門店"
     },
     {
       "name": "Guzman y Gomez 西新宿店",
@@ -4055,6 +4090,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-03",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "SieMatic｜Rimadesio 青山ショールーム",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-04",
+      "category": "キッチン・インテリアショールーム"
     },
     {
       "name": "TENTIAL SHIBUYA SCRAMBLE SQUARE",
