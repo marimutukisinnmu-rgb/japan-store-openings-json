@@ -1,0 +1,61 @@
+{
+  "run_at": "2026-10-28T05:41:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "DAISO公式：DAISO エバグリーン海南店（和歌山県）オープン",
+      "url": "https://www.daiso-sangyo.co.jp/info/shop/51178",
+      "supports": [
+        "store name",
+        "prefecture",
+        "opening date 2026-10-16"
+      ]
+    },
+    {
+      "title": "求人アスコム：DAISO エバグリーン海南店 募集情報",
+      "url": "https://kyujin-ascom.com/detail/?access_from=feature&access_type=dtl&cate=40&id=163824220",
+      "supports": [
+        "city 海南市",
+        "address 和歌山県海南市重根35"
+      ],
+      "note": "Non-official supporting source for city/address; official DAISO announcement did not expose the full address in the accessible snippet."
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "DAISO エバグリーン海南店",
+        "prefecture": "和歌山県",
+        "city": "海南市",
+        "opening_date": "2026-10-16",
+        "category": "100円ショップ"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 601,
+    "count_after": 602
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "56a8c69ad6cc71a708b694bfda319158f12fbbf4",
+    "after_blob_sha": "1840058e70e03c04961f3d74f1eaa711eee94728",
+    "update_commit_sha": "e895991088a2be7177d82a6f5bf9ec7e65d9325a",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_and_date_format": true,
+    "duplicate_name_opening_date_keys": 0,
+    "date_sorted": true,
+    "new_item_occurrences": 1,
+    "all_preexisting_and_added_items_preserved_after_fetch": true,
+    "saved_blob_sha_matches_update_result": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "Nationwide completeness of all upcoming openings is not guaranteed.",
+    "The city/address were corroborated by a job listing rather than the accessible official DAISO announcement."
+  ]
+}
