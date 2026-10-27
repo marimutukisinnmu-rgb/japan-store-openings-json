@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-10-28T06:43:44+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "UDS株式会社の発表：和食店「合 Shinjuku」開業",
+      "url": "https://prtimes.jp/main/html/rd/p/000000177.000006647.html",
+      "supports": [
+        "store name 合 Shinjuku",
+        "opening date 2026-11-02",
+        "prefecture 東京都",
+        "city 新宿区",
+        "address 東京都新宿区新宿5丁目3-18 ONSEN RYOKAN 由縁 新宿1F",
+        "category 和食店"
+      ]
+    },
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": [
+        "upcoming Lawson opening dates and locations cross-checked against existing JSON"
+      ],
+      "note": "The Lawson entries found in the checked official list were already present in latest.json; no duplicate records were added."
+    },
+    {
+      "title": "株式会社ヨウジヤマモトの発表：Y's期間限定ストア",
+      "url": "https://prtimes.jp/main/html/rd/p/000001135.000034350.html",
+      "supports": [
+        "seven department-store locations named for sequential opening from 2026-11-04"
+      ],
+      "note": "Individual opening dates for each location were not specified in the accessible announcement, so these were not added with guessed dates."
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "合 Shinjuku",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-02",
+        "category": "和食店"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 602,
+    "count_after": 603
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "1840058e70e03c04961f3d74f1eaa711eee94728",
+    "after_blob_sha": "e3766d5e35c6d3cca55cfd0ae9f0752ebb9b21a9",
+    "update_commit_sha": "2d0fcdc9cd24207095d7d500f37049a8e53e50ad",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_and_date_format": true,
+    "duplicate_name_opening_date_keys": 0,
+    "date_sorted": true,
+    "new_item_occurrences": 1,
+    "all_preexisting_items_preserved_after_fetch": true,
+    "saved_blob_sha_matches_update_result": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "Individual opening dates for the seven Y's temporary-store locations were not specified; those entries were held back rather than assigning guessed dates.",
+    "Nationwide completeness of all upcoming openings is not guaranteed."
+  ]
+}
