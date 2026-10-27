@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-27T03:40:46+09:00",
+  "updatetime": "2026-10-27T17:41:18+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -53,11 +53,25 @@
       "category": "コンビニ"
     },
     {
+      "name": "ゴンチャ イオンモール座間店",
+      "prefecture": "神奈川県",
+      "city": "座間市",
+      "opening_date": "2026-09-25",
+      "category": "ティーカフェ"
+    },
+    {
       "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
       "prefecture": "静岡県",
       "city": "御殿場市",
       "opening_date": "2026-09-26",
       "category": "ファッション・アウトレット（複合店）"
+    },
+    {
+      "name": "豚山 新潟米山店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-09-28",
+      "category": "ラーメン"
     },
     {
       "name": "すし松 八千代店",
@@ -163,6 +177,13 @@
       "city": "品川区",
       "opening_date": "2026-10-01",
       "category": "自然食レストラン・カフェ"
+    },
+    {
+      "name": "ゴンチャ 南砂町SUNAMO店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-01",
+      "category": "ティーカフェ"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -452,6 +473,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "サブウェイ 京都府立医科大学付属病院店",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "opening_date": "2026-10-05",
+      "category": "サンドイッチ"
+    },
+    {
       "name": "I’m donut？ 寺町店",
       "prefecture": "京都府",
       "city": "京都市中京区",
@@ -618,6 +646,13 @@
       "city": "仙台市太白区",
       "opening_date": "2026-10-08",
       "category": "コンビニ"
+    },
+    {
+      "name": "Pandora ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-08",
+      "category": "ジュエリー・アクセサリー"
     },
     {
       "name": "AMERICAN HOLIC 京王モール店",
