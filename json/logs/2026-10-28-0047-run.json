@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-28T00:47:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_added_verified_opening_records",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000006.000189236.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000121512.html",
+    "https://prtimes.jp/main/html/rd/p/000000510.000066361.html",
+    "https://prtimes.jp/main/html/rd/p/000000014.000182170.html",
+    "https://prtimes.jp/main/html/rd/p/000000015.000182170.html",
+    "https://prtimes.jp/main/html/rd/p/000000005.000180856.html"
+  ],
+  "before": {
+    "item_count": 582,
+    "blob_sha": "7fe500ba13a04a52a90a0d8dcf6838d9aee42241",
+    "updatetime": "2026-10-27T23:44:44+09:00"
+  },
+  "additions": [
+    {
+      "name": "Matchami Lab 表参道 POP UP STORE",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（抹茶ドリンク・菓子）",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000006.000189236.html"
+    },
+    {
+      "name": "LUCIR-K JEWELRY & GASTRONOMY",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-06",
+      "category": "宝飾・時計・バッグ・カフェ・レストラン・制作体験",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000002.000121512.html"
+    },
+    {
+      "name": "petit main あべのハルカス近鉄本店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-20",
+      "category": "子ども服・ベビー用品（移転・売場拡張リニューアル）",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000510.000066361.html"
+    },
+    {
+      "name": "天丼専門店 ゑるびす イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "天丼専門店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000014.000182170.html"
+    },
+    {
+      "name": "とんかつとう庵 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "とんかつ専門店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000015.000182170.html"
+    },
+    {
+      "name": "SieMatic｜Rimadesio 青山ショールーム",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-04",
+      "category": "キッチン・インテリアショールーム",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000180856.html"
+    }
+  ],
+  "checked_existing_candidates": [
+    {
+      "name": "BASE Sand 目黒店",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    },
+    {
+      "name": "イオンモールKYOTOロフト",
+      "opening_date": "2026-11-27",
+      "status": "already_registered"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "status": "already_registered"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "status": "already_registered"
+    },
+    {
+      "name": "ABURI百貫 イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "status": "already_registered"
+    },
+    {
+      "name": "POP MART 沖縄浦添PARCO CITY店",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    },
+    {
+      "name": "PRONTO 新小岩店",
+      "opening_date": "2026-11-24",
+      "status": "already_registered"
+    },
+    {
+      "name": "THE GUNDAM BASE POP-UP in NAGANO",
+      "opening_date": "2026-11-27",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 588,
+    "blob_sha": "be96e3a27783e1d2f5e4d4d93434c87b2803ce1b",
+    "commit_sha": "bc81e951181362047b0c445c89c30315307013ae"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 6,
+    "all_added_records_present_exactly_once": true,
+    "old_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-28T00:47:54+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回確認した公式発表の範囲で6件を確認した。全国すべての開店・リニューアル情報を網羅したとは保証できない。"
+    },
+    {
+      "name": "その他の候補",
+      "detail": "開店日が『11月下旬』など具体的な日付まで確定していない候補は推測で追加していない。"
+    }
+  ],
+  "errors": []
+}
