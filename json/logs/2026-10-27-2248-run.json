@@ -1,0 +1,175 @@
+{
+  "run_at": "2026-10-27T22:48:22+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_added_verified",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000141.000007029.html",
+    "https://prtimes.jp/main/html/rd/p/000000023.000103315.html",
+    "https://pkg.navitime.co.jp/royal-gr/spot/detail?code=0000000907",
+    "https://pro.tokyo-solamachi.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000013.000167039.html",
+    "https://prtimes.jp/main/html/rd/p/000000048.000152772.html",
+    "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+    "https://prtimes.jp/main/html/rd/p/000000011.000186441.html",
+    "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+    "https://gbp.minamimachida-grandberrypark.com/2026au/"
+  ],
+  "before": {
+    "item_count": 571,
+    "blob_sha": "581360136df04adb3baf11fcf022e0b3b5ff2ef5"
+  },
+  "additions": [
+    {
+      "name": "Noix（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツショップ"
+    },
+    {
+      "name": "POP UP MON-CREVE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツ・ギフトショップ"
+    },
+    {
+      "name": "キャラメルゴーストハウス（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
+      "name": "ロリアン洋菓子店（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
+      "name": "フレッシュチーズスタジオ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "チーズ・乳製品（期間限定ショップ）"
+    },
+    {
+      "name": "STAR WARS POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ（映画・キャラクターグッズ）"
+    },
+    {
+      "name": "アニメカードキャプターさくらTaKaRaBaKo POPUP SHOP（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "お文具といっしょ POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "SEOUL＋（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-08",
+      "category": "ファッション・雑貨"
+    },
+    {
+      "name": "Manhattan Portage ららぽーと福岡 POP UP STORE",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-15",
+      "category": "期間限定ポップアップ（バッグ・アパレル）"
+    },
+    {
+      "name": "Cafe＆Dining LUANA",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "カフェ・ダイニング（スパ施設内）"
+    },
+    {
+      "name": "Off & Relax ～Offして、艶めく～ @ cosme TOKYO POP-UP STORE",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（ヘアケア・美容）"
+    },
+    {
+      "name": "Café Swarovski（銀座）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定カフェ（ホリデーシーズン）"
+    }
+  ],
+  "deduplications": [],
+  "checked_existing_candidates": [
+    {
+      "name": "ランディーズドーナツ 東京スカイツリータウン・ソラマチ店",
+      "opening_date": "2026-10-29",
+      "status": "already_registered"
+    },
+    {
+      "name": "ブルーレーベル／ブラックレーベル・クレストブリッジ（グランベリーパーク）",
+      "opening_date": "2026-10-09",
+      "status": "already_registered"
+    },
+    {
+      "name": "整体×もみほぐし Refresh",
+      "opening_date": "2026-10-31",
+      "status": "already_registered"
+    },
+    {
+      "name": "ふわりノ休足",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    },
+    {
+      "name": "月島もんじゃ たまとや 姫路",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    },
+    {
+      "name": "POP MART 沖縄浦添PARCO CITY店",
+      "opening_date": "2026-11-06",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 584,
+    "blob_sha": "400b75534984699ce707a350c4917477d91934cd",
+    "commit_sha": "79a52015b2b7d7c239eb504ba1c1b04c098fd5b0"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 13,
+    "duplicate_name_date_keys": 0,
+    "existing_records_preserved": true,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-27T22:48:22+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の調査で全国すべての新規開店情報を網羅できたことは保証できない。"
+    },
+    {
+      "name": "期間限定ポップアップの開催状況",
+      "detail": "公式掲載の開始日を記録。開催期間が終了したものも履歴として含めており、開催延長・当日変更までは個別に確認していない。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "定期タスクの有効状態とスケジュールはデータ更新後に別途確認。"
+}
