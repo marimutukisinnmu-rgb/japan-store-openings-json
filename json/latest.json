@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-27T18:39:51+09:00",
+  "updatetime": "2026-10-27T22:48:22+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -184,6 +184,41 @@
       "city": "江東区",
       "opening_date": "2026-10-01",
       "category": "ティーカフェ"
+    },
+    {
+      "name": "Noix（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツショップ"
+    },
+    {
+      "name": "POP UP MON-CREVE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定スイーツ・ギフトショップ"
+    },
+    {
+      "name": "キャラメルゴーストハウス（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
+      "name": "ロリアン洋菓子店（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "期間限定洋菓子ショップ"
+    },
+    {
+      "name": "フレッシュチーズスタジオ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-01",
+      "category": "チーズ・乳製品（期間限定ショップ）"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -408,6 +443,27 @@
       "city": "港区",
       "opening_date": "2026-10-03",
       "category": "寿司・日本料理"
+    },
+    {
+      "name": "STAR WARS POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ（映画・キャラクターグッズ）"
+    },
+    {
+      "name": "アニメカードキャプターさくらTaKaRaBaKo POPUP SHOP（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
+    },
+    {
+      "name": "お文具といっしょ POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定キャラクターショップ"
     },
     {
       "name": "Phool 有楽町マルイ店",
@@ -653,6 +709,13 @@
       "city": "平塚市",
       "opening_date": "2026-10-08",
       "category": "ジュエリー・アクセサリー"
+    },
+    {
+      "name": "SEOUL＋（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-08",
+      "category": "ファッション・雑貨"
     },
     {
       "name": "AMERICAN HOLIC 京王モール店",
@@ -1089,6 +1152,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "Manhattan Portage ららぽーと福岡 POP UP STORE",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-15",
+      "category": "期間限定ポップアップ（バッグ・アパレル）"
+    },
+    {
       "name": "and wander 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -1262,6 +1332,13 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
+    },
+    {
+      "name": "Cafe＆Dining LUANA",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-16",
+      "category": "カフェ・ダイニング（スパ施設内）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1528,6 +1605,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-10-21",
       "category": "ベーカリー（リニューアル）"
+    },
+    {
+      "name": "Off & Relax ～Offして、艶めく～ @ cosme TOKYO POP-UP STORE",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-21",
+      "category": "期間限定ポップアップ（ヘアケア・美容）"
     },
     {
       "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
@@ -2361,6 +2445,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-10-28",
       "category": "ベーグル専門店"
+    },
+    {
+      "name": "Café Swarovski（銀座）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定カフェ（ホリデーシーズン）"
     },
     {
       "name": "chocoZAP 岡山中川町",
