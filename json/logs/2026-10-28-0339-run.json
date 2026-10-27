@@ -1,0 +1,105 @@
+{
+  "run_at": "2026-10-28T03:39:31+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_no_new_confirmed_records_metadata_refreshed",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://www.lawson.co.jp/newstore/kantou.html",
+    "https://www.lawson.co.jp/newstore/touhoku.html",
+    "https://www.lawson.co.jp/newstore/chubu.html",
+    "https://www.lawson.co.jp/newstore/kinki.html",
+    "https://prtimes.jp/main/html/rd/p/000001757.000073913.html",
+    "https://prtimes.jp/main/html/rd/p/000000348.000018877.html",
+    "https://prtimes.jp/main/html/rd/p/000000003.000167354.html",
+    "https://prtimes.jp/main/html/rd/p/000000002.000192334.html",
+    "https://prtimes.jp/main/html/rd/p/000000017.000130092.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135992.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+    "https://prtimes.jp/main/html/rd/p/000001938.000009215.html",
+    "https://www.fujiya-peko.co.jp/news/news/2026.html",
+    "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+  ],
+  "baseline": {
+    "item_count": 589,
+    "blob_sha": "41d10f300f8e203f8ebe060b757b3044c22355eb",
+    "updatetime": "2026-10-28T02:42:51+09:00"
+  },
+  "metadata_refresh": {
+    "item_count": 589,
+    "blob_sha": "e111a389fa98eeebc6d076812db3ca8a98066a43",
+    "updatetime": "2026-10-28T03:39:31+09:00",
+    "details": "The official-source sweep found the checked opening candidates already present in the dataset. No additions, deletions, merges, or record edits were justified; only the verification timestamp was refreshed."
+  },
+  "additions": [],
+  "checked_existing_candidates": [
+    {
+      "name": "ニトリ 梅田茶屋町店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "PRONTO 新小岩店",
+      "opening_date": "2026-11-24",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "opening_date": "2026-10-19",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "マリベル渋谷",
+      "opening_date": "2026-10-28",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "STANDARD DONUTS 天神西通り店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "フードスタイル東五反田店",
+      "opening_date": "2026-10-29",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "opening_date": "2026-11-28",
+      "status": "already_registered_exact"
+    }
+  ],
+  "after": {
+    "item_count": 589,
+    "blob_sha": "e111a389fa98eeebc6d076812db3ca8a98066a43",
+    "commit_sha": "877825d31f2016eca8d31b70862fa122476d8f53"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 0,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "invalid_dates_or_required_fields": 0,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-28T03:39:31+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回の検索で確認した公式情報源の範囲では未登録の確実な開店情報を確認できなかった。全国すべての新規開店情報を網羅したとは保証できない。"
+    }
+  ],
+  "errors": []
+}
