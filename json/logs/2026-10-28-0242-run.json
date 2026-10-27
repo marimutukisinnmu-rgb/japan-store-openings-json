@@ -1,0 +1,203 @@
+{
+  "run_at": "2026-10-28T02:42:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_no_new_confirmed_records_metadata_refreshed",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://www.fujiya-peko.co.jp/news/news/2026.html",
+    "https://www.gongcha.co.jp/pressrelease/",
+    "https://prtimes.jp/main/html/rd/p/000001938.000009215.html",
+    "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+    "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+    "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
+  ],
+  "baseline": {
+    "item_count": 589,
+    "blob_sha": "7144df631b1f70905032b9e3b7af37507284e5e0",
+    "updatetime": "2026-10-28T01:46:39+09:00"
+  },
+  "metadata_refresh": {
+    "item_count": 589,
+    "blob_sha": "41d10f300f8e203f8ebe060b757b3044c22355eb",
+    "commit_sha": "1a6611cc1205ce8db089039eec2111c648485e09",
+    "updatetime": "2026-10-28T02:42:51+09:00",
+    "details": "Official-source sweep found the checked opening candidates already present in the dataset. No new records or deletions were justified; only the verification timestamp was refreshed."
+  },
+  "additions": [],
+  "checked_existing_candidates": [
+    {
+      "name": "ペコちゃんmilkyタイム イオンモール大高店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "不二家 小田原百貨店 湯河原店",
+      "opening_date": "2026-10-22",
+      "status": "already_registered_related_official_listing; no rename applied"
+    },
+    {
+      "name": "ゴンチャ ルミネ有楽町店",
+      "opening_date": "2026-10-23",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ふわりノ休足",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 白楽駅前",
+      "opening_date": "2026-10-30",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 隼人駅東口",
+      "opening_date": "2026-11-01",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 岩内町万代",
+      "opening_date": "2026-11-04",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 三井リンクラボ東陽町",
+      "opening_date": "2026-11-04",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 小川駅西口",
+      "opening_date": "2026-11-04",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン Ｓ京都山城総合医療センター",
+      "opening_date": "2026-11-04",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 帯広西７条北二丁目",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン ハチノスクエア",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 宇都宮岡本駅西口",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン さいたま東大成町二丁目",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン Ｓ四街道市役所",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 台東蔵前四丁目",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 鎌倉御成町",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 羽島市役所南",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 伏見久我西出町",
+      "opening_date": "2026-11-05",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 仙台堤通雨宮町",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 横浜浅間町",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 富山八尾大杉",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 神戸学園西町四丁目",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 徳島南末広",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 熊本城南隈庄",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "ローソン 菊陽花立",
+      "opening_date": "2026-11-06",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "opening_date": "2026-11-28",
+      "status": "already_registered_exact"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "opening_date": "2026-11-13",
+      "status": "already_registered_exact"
+    }
+  ],
+  "after": {
+    "item_count": 589,
+    "blob_sha": "41d10f300f8e203f8ebe060b757b3044c22355eb",
+    "commit_sha": "1a6611cc1205ce8db089039eec2111c648485e09"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 0,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "invalid_dates": 0,
+    "missing_required_fields": 0,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-28T02:42:51+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回確認した公式情報源の範囲で未登録の確実な開店情報は確認できなかった。全国すべての新規開店情報を網羅したとは保証できない。"
+    },
+    {
+      "name": "不二家 小田原百貨店 湯河原店の名称差",
+      "detail": "公式の見出しと既存JSONの名称表記が異なるが、既存の同日・同地域レコードを保持し、根拠のない改名は行っていない。"
+    }
+  ],
+  "errors": []
+}
