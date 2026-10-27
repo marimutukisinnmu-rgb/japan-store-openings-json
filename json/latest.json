@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-27T22:48:22+09:00",
+  "updatetime": "2026-10-27T23:44:44+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -1647,13 +1647,6 @@
       "city": "上尾市",
       "opening_date": "2026-10-22",
       "category": "ナポリタン・スパゲッティー"
-    },
-    {
-      "name": "ルルレモン 玉川高島屋S.C.",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-10-22",
-      "category": "スポーツ・アウトドア"
     },
     {
       "name": "ルルレモン玉川髙島屋S.C. ストア",
@@ -3691,13 +3684,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
-    },
-    {
-      "name": "COHINA グランベリーパーク店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-11-12",
-      "category": "ファッション・アパレル"
     },
     {
       "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
