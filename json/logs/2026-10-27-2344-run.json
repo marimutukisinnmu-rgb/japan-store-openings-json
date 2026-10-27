@@ -1,0 +1,139 @@
+{
+  "run_at": "2026-10-27T23:44:44+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_no_new_items_verified_deduplications",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000022.000079540.html",
+    "https://gbp.minamimachida-grandberrypark.com/2026au/",
+    "https://prtimes.jp/main/html/rd/p/000000333.000086964.html",
+    "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+    "https://prtimes.jp/main/html/rd/p/000000356.000092133.html",
+    "https://prtimes.jp/main/html/rd/p/000000004.000190563.html",
+    "https://prtimes.jp/main/html/rd/p/000000440.000048503.html",
+    "https://prtimes.jp/main/html/rd/p/000000017.000130092.html",
+    "https://prtimes.jp/main/html/rd/p/000000081.000033144.html",
+    "https://prtimes.jp/main/html/rd/p/000004458.000018505.html",
+    "https://prtimes.jp/main/html/rd/p/000001938.000009215.html",
+    "https://prtimes.jp/main/html/rd/p/000000167.000135992.html",
+    "https://prtimes.jp/main/html/rd/p/000001378.000010686.html",
+    "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+    "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+  ],
+  "before": {
+    "item_count": 584,
+    "blob_sha": "400b75534984699ce707a350c4917477d91934cd",
+    "updatetime": "2026-10-27T22:48:22+09:00"
+  },
+  "additions": [],
+  "deduplications": [
+    {
+      "removed": "ルルレモン 玉川高島屋S.C.",
+      "kept": "ルルレモン玉川髙島屋S.C. ストア",
+      "opening_date": "2026-10-22",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "reason": "lululemon official release identifies one store at 玉川髙島屋S.C. 南館3階, with the canonical name and date; the alternate record had the same date/city and represented the same store.",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000022.000079540.html"
+    },
+    {
+      "removed": "COHINA グランベリーパーク店",
+      "kept": "コヒナ グランベリーパーク店",
+      "opening_date": "2026-11-12",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "reason": "Grandberry Park official page lists one store named コヒナ opening 11/12; the uppercase Latin variant duplicated the same store/date/location.",
+      "source_url": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    }
+  ],
+  "checked_existing_candidates": [
+    {
+      "name": "KENZO ポップアップストア 六本木ヒルズ",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "ゴンチャ 東京ソラマチ店",
+      "opening_date": "2026-10-29",
+      "status": "already_registered"
+    },
+    {
+      "name": "STANDARD DONUTS 天神西通り店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "ダンデライオン・チョコレート 清澄白河ファクトリー",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "gelato pique シャミネ松江店",
+      "opening_date": "2026-10-30",
+      "status": "already_registered"
+    },
+    {
+      "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
+      "opening_date": "2026-10-22",
+      "status": "already_registered"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "opening_date": "2026-11-13",
+      "status": "already_registered"
+    },
+    {
+      "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
+      "opening_date": "2026-11-12",
+      "status": "already_registered"
+    },
+    {
+      "name": "L’ATELIER L’ARCHESTE GINZA",
+      "opening_date": "2026-10-19",
+      "status": "already_registered"
+    },
+    {
+      "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
+      "opening_date": "2026-10-28",
+      "status": "already_registered"
+    },
+    {
+      "name": "フードスタイル東五反田店",
+      "opening_date": "2026-10-29",
+      "status": "already_registered"
+    },
+    {
+      "name": "新綱島ＭＩＣＣＡ",
+      "opening_date": "2026-10-28",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 582,
+    "blob_sha": "7fe500ba13a04a52a90a0d8dcf6838d9aee42241",
+    "commit_sha": "34a236418b9724165d7c20bd377a9de5affae20e"
+  },
+  "validation": {
+    "json_syntax": "passed",
+    "saved_file_refetched": "passed",
+    "added_item_count": 0,
+    "removed_confirmed_duplicate_count": 2,
+    "duplicate_name_date_keys": 0,
+    "existing_records_preserved_except_two_verified_duplicates": true,
+    "opening_date_sorted": true,
+    "content_sha_matches_write_result": true,
+    "updatetime": "2026-10-27T23:44:44+09:00"
+  },
+  "unconfirmed": [
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回確認した情報源の範囲で未登録の確実な新規開店情報は見つからなかった。全国すべての開店情報を網羅したとは保証できない。"
+    },
+    {
+      "name": "開催日が月・季節のみの候補",
+      "detail": "東京ソラマチの一部店舗は『11月下旬』『冬』などの案内にとどまるため、日付を推測して登録していない。"
+    }
+  ],
+  "errors": [],
+  "task_status_note": "開始時のタスク状態は有効、毎時スケジュール定義あり。next_run_time は取得結果で null のため、次回実行時刻は確認できない。"
+}
