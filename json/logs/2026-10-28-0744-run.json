@@ -1,0 +1,72 @@
+{
+  "run_at": "2026-10-28T07:44:27+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "アニエスベージャパン株式会社の公式発表：アニエスベー 松屋銀座店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000145.000007744.html",
+      "supports": [
+        "store name アニエスベー 松屋銀座店",
+        "opening date 2026-10-09",
+        "prefecture 東京都",
+        "city 中央区",
+        "address 東京都中央区銀座2-3-6 銀座並木通りビル1階",
+        "category fashion flagship store with cafe"
+      ]
+    },
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": [
+        "Upcoming Lawson openings cross-checked against existing JSON"
+      ],
+      "note": "The Lawson openings checked in this run were already registered; no duplicates were added."
+    },
+    {
+      "title": "東京ソラマチ公式・NEW SHOP OPEN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+      "supports": [
+        "Refresh opening 2026-10-31",
+        "ふわりノ休足 opening 2026-11-06"
+      ],
+      "note": "Both exact-date openings were already present in latest.json. The meat shop and Eggs ’n Things only had month/season-level dates, so no date was guessed."
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "アニエスベー 松屋銀座店",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-10-09",
+        "category": "ファッション・カフェ併設（旗艦店）"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 603,
+    "count_after": 604
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "e3766d5e35c6d3cca55cfd0ae9f0752ebb9b21a9",
+    "after_blob_sha": "da3a8d1500661e445c8f01315130a7f7d94db4db",
+    "update_commit_sha": "b1da4447e301efb99415c094b2b079fa1f10c06f",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_and_date_format": true,
+    "duplicate_name_opening_date_keys": 0,
+    "date_sorted": true,
+    "new_item_occurrences": 1,
+    "all_preexisting_items_preserved_after_fetch": true,
+    "saved_blob_sha_matches_update_result": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。",
+    "東京ソラマチの『お肉の専門店スギモト』は『11月下旬』、Eggs ’n Thingsは『2026年冬』までしか日付が示されていないため、具体的な日付を推測して追加していない。"
+  ]
+}
