@@ -1,0 +1,152 @@
+{
+  "run_at": "2026-10-28T04:41:08+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "success_confirmed_records_added",
+  "source_urls": [
+    "https://www.hottomotto.com/contents/news/20261006_shop.html",
+    "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_043444",
+    "https://www.zoff.co.jp/shop/store/11428",
+    "https://www.zoff.co.jp/shop/store/list.aspx?pref=15",
+    "https://gatachira.com/local/open-close/10225678/",
+    "https://www.daiso-sangyo.co.jp/infolist/shop",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003324",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003456",
+    "https://www.daiso-sangyo.co.jp/shop/detail/005043",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010591",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003468",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010635",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003514",
+    "https://www.daiso-sangyo.co.jp/shop/pref/32/page/4",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://yudetaro.jp/news/",
+    "https://sukiya.jp/news/"
+  ],
+  "baseline": {
+    "item_count": 589,
+    "blob_sha": "e111a389fa98eeebc6d076812db3ca8a98066a43",
+    "updatetime": "2026-10-28T03:39:31+09:00"
+  },
+  "additions": [
+    {
+      "name": "ほっともっと 甲南山手森南町店",
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "opening_date": "2026-10-02",
+      "category": "弁当・惣菜"
+    },
+    {
+      "name": "DAISO 出雲今市店",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO ヤオコー八王子中野上町店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-10-16",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "THREEPPY ひらせい上越店",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "opening_date": "2026-10-17",
+      "category": "300円ショップ・雑貨"
+    },
+    {
+      "name": "DAISO 千歳武道館前店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-10-23",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO イオンスタイル諏訪店",
+      "prefecture": "長野県",
+      "city": "諏訪郡下諏訪町",
+      "opening_date": "2026-10-23",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO ピピアめふ店",
+      "prefecture": "兵庫県",
+      "city": "宝塚市",
+      "opening_date": "2026-10-23",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "THREEPPY イオン湯川店",
+      "prefecture": "北海道",
+      "city": "函館市",
+      "opening_date": "2026-10-23",
+      "category": "300円ショップ・雑貨"
+    },
+    {
+      "name": "DAISO そよらつくば学園の森店",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "opening_date": "2026-10-25",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "吉野家 菊川加茂店",
+      "prefecture": "静岡県",
+      "city": "菊川市",
+      "opening_date": "2026-10-30",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "Zoff ビーンズ赤羽店",
+      "prefecture": "東京都",
+      "city": "北区",
+      "opening_date": "2026-11-13",
+      "category": "眼鏡・アイウェア"
+    },
+    {
+      "name": "Zoff スーパーセンタームサシ新潟店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-11-13",
+      "category": "眼鏡・アイウェア"
+    }
+  ],
+  "already_present_candidates": [],
+  "after": {
+    "item_count": 601,
+    "blob_sha": "56a8c69ad6cc71a708b694bfda319158f12fbbf4",
+    "commit_sha": "2e447faada39b7bee86bc143852ea88eb611baca",
+    "updatetime": "2026-10-28T04:41:08+09:00"
+  },
+  "verification": {
+    "refetched_sha": "56a8c69ad6cc71a708b694bfda319158f12fbbf4",
+    "write_blob_sha": "56a8c69ad6cc71a708b694bfda319158f12fbbf4",
+    "blob_sha_matches": true,
+    "count_before": 589,
+    "count_after": 601,
+    "additions_expected": 12,
+    "additions_found_exactly_once": true,
+    "previous_records_preserved": true,
+    "validation": {
+      "json_syntax": "passed",
+      "item_count": 601,
+      "duplicate_name_date_keys": 0,
+      "invalid_required_fields_or_dates": 0,
+      "opening_date_sorted": true,
+      "all_items_have_expected_fields": true
+    }
+  },
+  "unconfirmed": [
+    {
+      "name": "DAISO エバグリーン海南店",
+      "detail": "公式NEW SHOP一覧で2026-10-16のオープン告知は確認できたが、今回参照できた公式情報から所在地の市区町村を独立して確認できなかったため、city必須のJSONには追加せず保留。"
+    },
+    {
+      "name": "全国の未調査店舗情報",
+      "detail": "今回確認した公式情報源の範囲では追加候補を確認したが、全国すべての新規開店情報を網羅したとは保証できない。"
+    }
+  ],
+  "errors": []
+}
