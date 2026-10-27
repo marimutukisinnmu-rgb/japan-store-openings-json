@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T06:43:44+09:00",
+  "updatetime": "2026-10-28T07:44:27+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -940,6 +940,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-10-09",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "アニエスベー 松屋銀座店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・カフェ併設（旗艦店）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 54号広島八木店",
