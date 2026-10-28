@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T17:44:55+09:00",
+  "updatetime": "2026-10-28T18:48:51+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -67,18 +67,18 @@
       "category": "ファッション・アウトレット（複合店）"
     },
     {
-      "name": "豚山 新潟米山店",
-      "prefecture": "新潟県",
-      "city": "新潟市中央区",
-      "opening_date": "2026-09-28",
-      "category": "ラーメン"
-    },
-    {
       "name": "大戸屋ごはん処 多治見店",
       "prefecture": "岐阜県",
       "city": "多治見市",
       "opening_date": "2026-09-28",
       "category": "定食・和食"
+    },
+    {
+      "name": "豚山 新潟米山店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-09-28",
+      "category": "ラーメン"
     },
     {
       "name": "すし松 八千代店",
@@ -1537,13 +1537,6 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 富山金泉寺",
-      "prefecture": "富山県",
-      "city": "富山市",
-      "opening_date": "2026-10-20",
-      "category": "フィットネスジム"
-    },
-    {
       "name": "chocoZAP 薬院二丁目",
       "prefecture": "福岡県",
       "city": "福岡市中央区",
@@ -2209,6 +2202,13 @@
       "category": "期間限定カフェ（ホリデーシーズン）"
     },
     {
+      "name": "chocoZAP 富山金泉寺",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-10-28",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "FaSS 新綱島店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -2531,6 +2531,13 @@
       "category": "ベーグル専門店"
     },
     {
+      "name": "chocoZAP 宇佐岩崎",
+      "opening_date": "2026-10-29",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -2699,6 +2706,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP かほく狩鹿野",
+      "opening_date": "2026-10-30",
+      "prefecture": "石川県",
+      "city": "かほく市",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP さいたま東大門（女性専用）",
       "prefecture": "埼玉県",
       "city": "さいたま市緑区",
@@ -2713,10 +2727,38 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 横手大町",
+      "opening_date": "2026-10-30",
+      "prefecture": "秋田県",
+      "city": "横手市",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 横浜駒岡五丁目",
       "prefecture": "神奈川県",
       "city": "横浜市鶴見区",
       "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 沖縄美原",
+      "opening_date": "2026-10-30",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 下大利一丁目",
+      "opening_date": "2026-10-30",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 各務原那加桐野",
+      "opening_date": "2026-10-30",
+      "prefecture": "岐阜県",
+      "city": "各務原市",
       "category": "フィットネスジム"
     },
     {
@@ -2755,10 +2797,10 @@
       "category": "フィットネスジム"
     },
     {
-      "name": "chocoZAP 高宮駅前",
-      "prefecture": "福岡県",
-      "city": "福岡市南区",
+      "name": "chocoZAP 江戸川台西口（女性専用）",
       "opening_date": "2026-10-30",
+      "prefecture": "千葉県",
+      "city": "流山市",
       "category": "フィットネスジム"
     },
     {
@@ -2808,6 +2850,13 @@
       "prefecture": "千葉県",
       "city": "船橋市",
       "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 中津大新田",
+      "opening_date": "2026-10-30",
+      "prefecture": "大分県",
+      "city": "中津市",
       "category": "フィットネスジム"
     },
     {
@@ -2867,6 +2916,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 白石本通八丁目",
+      "opening_date": "2026-10-30",
+      "prefecture": "北海道",
+      "city": "札幌市白石区",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 福島松川",
       "prefecture": "福島県",
       "city": "福島市",
@@ -2885,6 +2941,13 @@
       "prefecture": "愛知県",
       "city": "豊橋市",
       "opening_date": "2026-10-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 豊前赤熊",
+      "opening_date": "2026-10-30",
+      "prefecture": "福岡県",
+      "city": "豊前市",
       "category": "フィットネスジム"
     },
     {
@@ -3098,10 +3161,31 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 高宮駅前",
+      "prefecture": "福岡県",
+      "city": "福岡市南区",
+      "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 佐野大橋",
       "prefecture": "栃木県",
       "city": "佐野市",
       "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 札幌南藤野2条（女性専用）",
+      "opening_date": "2026-10-31",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 勝田台北口",
+      "opening_date": "2026-10-31",
+      "prefecture": "千葉県",
+      "city": "八千代市",
       "category": "フィットネスジム"
     },
     {
@@ -3112,10 +3196,31 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 新潟小新南",
+      "opening_date": "2026-10-31",
+      "prefecture": "新潟県",
+      "city": "新潟市西区",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 島原柏野",
       "prefecture": "長崎県",
       "city": "島原市",
       "opening_date": "2026-10-31",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 八王子台町四丁目",
+      "opening_date": "2026-10-31",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 八王子北野",
+      "opening_date": "2026-10-31",
+      "prefecture": "東京都",
+      "city": "八王子市",
       "category": "フィットネスジム"
     },
     {
@@ -3308,6 +3413,13 @@
       "category": "カフェ"
     },
     {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-04",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
       "name": "ゆで太郎 利府店（もつ次郎併設）",
       "prefecture": "宮城県",
       "city": "宮城郡利府町",
@@ -3341,13 +3453,6 @@
       "city": "小平市",
       "opening_date": "2026-11-04",
       "category": "コンビニ"
-    },
-    {
-      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹新宿店）",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-04",
-      "category": "期間限定ポップアップ（ファッション）"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -3700,6 +3805,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 千葉中央一丁目",
+      "opening_date": "2026-11-10",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "chocoZAP 段原二丁目",
       "prefecture": "広島県",
       "city": "広島市南区",
@@ -3742,6 +3854,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 中間通谷一丁目",
+      "opening_date": "2026-11-11",
+      "prefecture": "福岡県",
+      "city": "中間市",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（LINE FRIENDS SQUARE SHIBUYA）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -3775,6 +3894,34 @@
       "city": "新宿区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "chocoZAP 深谷上柴町西",
+      "opening_date": "2026-11-12",
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 川西小花",
+      "opening_date": "2026-11-12",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 八王子インター",
+      "opening_date": "2026-11-12",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 八王子左入町",
+      "opening_date": "2026-11-12",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "category": "フィットネスジム"
     },
     {
       "name": "PAUL ジェイアール名古屋タカシマヤ店",
@@ -3824,6 +3971,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "chocoZAP ドン・キホーテUNY藤岡",
+      "opening_date": "2026-11-13",
+      "prefecture": "群馬県",
+      "city": "藤岡市",
+      "category": "フィットネスジム"
     },
     {
       "name": "hololive production official shop in Tokyo Station（移転リニューアル）",
@@ -3924,6 +4078,13 @@
       "category": "寿司"
     },
     {
+      "name": "chocoZAP 白井堀込",
+      "opening_date": "2026-11-14",
+      "prefecture": "千葉県",
+      "city": "白井市",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "THE GUNDAM BASE POP-UP in TAKAOKA",
       "prefecture": "富山県",
       "city": "高岡市",
@@ -3931,11 +4092,102 @@
       "category": "期間限定ポップアップ（ガンダム公式ショップ）"
     },
     {
+      "name": "chocoZAP 花川戸二丁目",
+      "opening_date": "2026-11-17",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 熊谷妻沼",
+      "opening_date": "2026-11-17",
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 熊本大津",
+      "opening_date": "2026-11-17",
+      "prefecture": "熊本県",
+      "city": "菊池郡大津町",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 山下駅前",
+      "opening_date": "2026-11-17",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 常陸大宮泉",
+      "opening_date": "2026-11-17",
+      "prefecture": "茨城県",
+      "city": "常陸大宮市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 寝屋川打上",
+      "opening_date": "2026-11-17",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 白鳥二丁目（女性専用）",
+      "opening_date": "2026-11-17",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 立川曙町一丁目",
+      "opening_date": "2026-11-17",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 上越東本町",
+      "opening_date": "2026-11-18",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 西新五丁目",
+      "opening_date": "2026-11-18",
+      "prefecture": "福岡県",
+      "city": "福岡市早良区",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "PLUSTAアスティ静岡",
       "prefecture": "静岡県",
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "土産・食品（リニューアル）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹立川店）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（香林坊大和）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（小倉井筒屋）",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
     },
     {
       "name": "そよらひたち野うしく",
@@ -3966,25 +4218,25 @@
       "category": "洋菓子"
     },
     {
-      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹立川店）",
-      "prefecture": "東京都",
-      "city": "立川市",
-      "opening_date": "2026-11-18",
-      "category": "期間限定ポップアップ（ファッション）"
+      "name": "chocoZAP 一乗寺向畑",
+      "opening_date": "2026-11-19",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "category": "フィットネスジム"
     },
     {
-      "name": "Y’s 2026-27 A/W POP-UP STORE（香林坊大和）",
-      "prefecture": "石川県",
-      "city": "金沢市",
-      "opening_date": "2026-11-18",
-      "category": "期間限定ポップアップ（ファッション）"
+      "name": "chocoZAP 逗子一丁目",
+      "opening_date": "2026-11-19",
+      "prefecture": "神奈川県",
+      "city": "逗子市",
+      "category": "フィットネスジム"
     },
     {
-      "name": "Y’s 2026-27 A/W POP-UP STORE（小倉井筒屋）",
-      "prefecture": "福岡県",
-      "city": "北九州市小倉北区",
-      "opening_date": "2026-11-18",
-      "category": "期間限定ポップアップ（ファッション）"
+      "name": "chocoZAP 水海道山田",
+      "opening_date": "2026-11-19",
+      "prefecture": "茨城県",
+      "city": "常総市",
+      "category": "フィットネスジム"
     },
     {
       "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
@@ -4006,6 +4258,27 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-19",
       "category": "キャラクターグッズ・雑貨"
+    },
+    {
+      "name": "chocoZAP 嘉麻鴨生",
+      "opening_date": "2026-11-20",
+      "prefecture": "福岡県",
+      "city": "嘉麻市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 市川大洲",
+      "opening_date": "2026-11-20",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 東長崎北口",
+      "opening_date": "2026-11-20",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "category": "フィットネスジム"
     },
     {
       "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
@@ -4099,6 +4372,20 @@
       "category": "期間限定ポップアップ（ファッション・バッグ）"
     },
     {
+      "name": "chocoZAP 東大和清水六丁目",
+      "opening_date": "2026-11-24",
+      "prefecture": "東京都",
+      "city": "東大和市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 武蔵新城二丁目",
+      "opening_date": "2026-11-24",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "PRONTO 新小岩店",
       "prefecture": "東京都",
       "city": "葛飾区",
@@ -4120,6 +4407,27 @@
       "category": "ウルトラマン公式ショップ・キャラクターグッズ"
     },
     {
+      "name": "chocoZAP うきは吉井",
+      "opening_date": "2026-11-25",
+      "prefecture": "福岡県",
+      "city": "うきは市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 前橋大友町一丁目",
+      "opening_date": "2026-11-25",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "Y’s / Y’s for men 2026-27 A/W POP-UP STORE（広島三越）",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -4139,13 +4447,6 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
-    },
-    {
-      "name": "Y’s / Y’s for men 2026-27 A/W POP-UP STORE（広島三越）",
-      "prefecture": "広島県",
-      "city": "広島市中区",
-      "opening_date": "2026-11-25",
-      "category": "期間限定ポップアップ（ファッション）"
     },
     {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
