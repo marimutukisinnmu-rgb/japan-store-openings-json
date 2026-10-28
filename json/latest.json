@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T09:48:19+09:00",
+  "updatetime": "2026-10-28T10:47:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3336,6 +3336,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-04",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -3742,6 +3749,20 @@
       "category": "期間限定キャラクターグッズ・ポップアップ"
     },
     {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹浦和店）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（静岡伊勢丹）",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -3938,6 +3959,27 @@
       "category": "洋菓子"
     },
     {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹立川店）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（香林坊大和）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（小倉井筒屋）",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション）"
+    },
+    {
       "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
       "prefecture": "東京都",
       "city": "港区",
@@ -4090,6 +4132,13 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "Y’s / Y’s for men 2026-27 A/W POP-UP STORE（広島三越）",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ポップアップ（ファッション）"
     },
     {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
