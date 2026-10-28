@@ -1,0 +1,76 @@
+{
+  "run_at": "2026-10-28T17:44:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "大戸屋公式・多治見店オープン告知",
+      "url": "https://www.ootoya.com/news/286.html",
+      "note": "2026-09-28開店、店舗名「大戸屋ごはん処 多治見店」、岐阜県多治見市宝町9-20を確認。既存JSONに同名・同日レコードがなかったため追加。"
+    },
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "note": "10月30日〜11月6日の開店候補を照合。確認した候補は既存JSONに登録済み。"
+    },
+    {
+      "title": "gelato pique公式発表（株式会社マッシュホールディングス）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html",
+      "note": "シャミネ松江店（2026-10-30）等を照合。該当候補は既存JSONに登録済み。"
+    },
+    {
+      "title": "ラーメン豚山公式・新店情報",
+      "url": "https://butayama.com/news",
+      "note": "豚山 柏店（2026-10-23）の告知を照合。既存JSONに登録済み。"
+    },
+    {
+      "title": "ダンデライオン・チョコレート公式発表",
+      "url": "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory-open",
+      "note": "清澄白河ファクトリー（2026-10-30）の告知を照合。既存JSONに登録済み。"
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "大戸屋ごはん処 多治見店",
+        "prefecture": "岐阜県",
+        "city": "多治見市",
+        "opening_date": "2026-09-28",
+        "category": "定食・和食"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 612,
+    "count_after": 613,
+    "metadata_only_update": null
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "9edd9198de68ff152ea02d5393fcc873e118cbf6",
+    "after_blob_sha": "dc2cb2391552770ffb31c4a3ab04dbf946218ae5",
+    "update_commit_sha": "bea88a80969040ac5f88f9f8bf1d99c185f7eabb",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "parse": true,
+    "count_before": 612,
+    "count_after": 613,
+    "added_count": 1,
+    "all_preexisting_items_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "date_sorted": true,
+    "updatetime_matches": true,
+    "saved_blob_matches_write": true,
+    "before_blob_sha": "9edd9198de68ff152ea02d5393fcc873e118cbf6",
+    "after_blob_sha": "dc2cb2391552770ffb31c4a3ab04dbf946218ae5",
+    "update_commit_sha": "bea88a80969040ac5f88f9f8bf1d99c185f7eabb"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。",
+    "今回の確認範囲外に、まだ登録されていない開店情報が存在する可能性がある。"
+  ]
+}
