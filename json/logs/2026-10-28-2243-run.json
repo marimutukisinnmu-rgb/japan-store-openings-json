@@ -1,0 +1,68 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-28T22:43:06+09:00",
+  "target": {
+    "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+    "path": "json/latest.json",
+    "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "sources": [
+    {
+      "name": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "10/30〜11/6の確認対象を既存JSONと照合。該当候補は登録済み。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "10/31〜11/25の確認対象を照合。該当候補は登録済み。"
+    },
+    {
+      "name": "すき家公式・新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "result": "10/28 金沢北安江店を含む確認対象は登録済み。"
+    },
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "日付が明示された対象店は登録済み。"
+    }
+  ],
+  "before": {
+    "blob_sha": "53d75f16ad92bb1787543c1419627e31b8b53008",
+    "updatetime": "2026-10-28T21:47:37+09:00",
+    "item_count": 662
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "updatetime_changed": true
+  },
+  "validation_before": {
+    "json_parse": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "sorted_by_opening_date": true
+  },
+  "after": {
+    "blob_sha": "d3d0b27563d804fa8d1578e7321d459ffc82bb10",
+    "commit_sha": "72517bd9d256b72ff4846779ea01548041551cf7",
+    "updatetime": "2026-10-28T22:43:06+09:00",
+    "item_count": 662,
+    "items_unchanged": true
+  },
+  "validation_after": {
+    "json_parse": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "sorted_by_opening_date": true,
+    "updatetime_matches": true,
+    "sha_from_fetch": true
+  },
+  "unconfirmed": [
+    "グランベリーパーク公式ページのReDは開店時期が『10月上旬～中旬』とのみ記載され、正確な日付を確認できなかったため、日付を推測して追加していない。"
+  ],
+  "errors": []
+}
