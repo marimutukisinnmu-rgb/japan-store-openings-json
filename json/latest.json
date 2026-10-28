@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-28T18:48:51+09:00",
+  "updatetime": "2026-10-28T21:47:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -1117,6 +1117,13 @@
       "category": "イタリアン"
     },
     {
+      "name": "カインズリフォーム ユアエルム青戸店",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-10-15",
+      "category": "リフォーム相談・サービス店舗"
+    },
+    {
       "name": "バイセル えきマチ1丁目行橋店",
       "prefecture": "福岡県",
       "city": "行橋市",
@@ -1675,6 +1682,13 @@
       "city": "千代田区",
       "opening_date": "2026-10-22",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "カインズリフォーム 赤羽ビビオ店",
+      "prefecture": "東京都",
+      "city": "北区",
+      "opening_date": "2026-10-22",
+      "category": "リフォーム相談・サービス店舗"
     },
     {
       "name": "すき家 118号常陸大宮泉店",
@@ -2293,6 +2307,20 @@
       "category": "カレー・エスニックカフェ"
     },
     {
+      "name": "カインズ まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-10-28",
+      "category": "ホームセンター"
+    },
+    {
+      "name": "がってん寿司FOOD COURTレイクタウンkaze店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-10-28",
+      "category": "寿司（フードコート業態）"
+    },
+    {
       "name": "サブウェイ 住友不動産秋葉原ファーストビル店",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -2620,6 +2648,13 @@
       "city": "大阪市平野区",
       "opening_date": "2026-10-29",
       "category": "ディスカウントスーパー"
+    },
+    {
+      "name": "カインズ 上田国分店",
+      "prefecture": "長野県",
+      "city": "上田市",
+      "opening_date": "2026-10-29",
+      "category": "ホームセンター"
     },
     {
       "name": "キャンドゥ むつ小川店",
@@ -4146,6 +4181,13 @@
       "prefecture": "東京都",
       "city": "立川市",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "HMVららぽーと堺",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "opening_date": "2026-11-17",
+      "category": "音楽・映像ソフト・エンタメグッズ"
     },
     {
       "name": "chocoZAP 上越東本町",
