@@ -1,0 +1,93 @@
+{
+  "run_at": "2026-10-28T09:48:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": [
+        "2026-11-01および2026-11-04〜2026-11-06の新店舗一覧を確認"
+      ],
+      "note": "今回照合した候補はlatest.jsonにすでに登録済み。重複追加なし。"
+    },
+    {
+      "title": "猿田彦珈琲 皇居東御苑店 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+      "supports": [
+        "2026-11-03開店",
+        "東京都千代田区・皇居東御苑 大手休憩所内"
+      ],
+      "note": "既存JSONに同一店舗・開店日が登録済み。"
+    },
+    {
+      "title": "サンエックス公式発表・キイロイトリ銭湯",
+      "url": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html",
+      "supports": [
+        "2026-10-30〜2026-11-12の期間限定ストア",
+        "東京駅一番街 地下1階 いちばんプラザ"
+      ],
+      "note": "既存JSONに登録済み。"
+    },
+    {
+      "title": "スワロフスキー・ジャパン公式発表・Café Swarovski",
+      "url": "https://prtimes.jp/main/html/rd/p/000000141.000007029.html",
+      "supports": [
+        "2026-10-28〜2026-12-25の期間限定カフェ",
+        "Swarovski銀座2階"
+      ],
+      "note": "既存JSONに登録済み。"
+    },
+    {
+      "title": "廻転鮨 銀座おのでら 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000092.000118864.html",
+      "supports": [
+        "2026-10-23開店",
+        "東京都豊島区東池袋1-18-1 Hareza Tower 1F"
+      ],
+      "note": "既存JSONに登録済み。"
+    },
+    {
+      "title": "キル フェ ボン公式・新宿店オープン発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "supports": [
+        "2026-11-28開店",
+        "東京都新宿区西新宿1-9-1 明治安田新宿ビル1F"
+      ],
+      "note": "既存JSONに登録済み。"
+    }
+  ],
+  "change": {
+    "added": [],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 605,
+    "count_after": 605,
+    "metadata_only_update": "updatetimeを実行時刻に更新"
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "d17fc87ba1f81d70866033cee7f6e9edbc2dba2a",
+    "after_blob_sha": "4ae7910421b2cbd72df94e5065947abbca31fe7e",
+    "update_commit_sha": "1100cdae7ba1e35991fac8a72576616aa04b1f16",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "parse": true,
+    "countBefore": 605,
+    "countAfter": 605,
+    "itemsUnchanged": true,
+    "updatetimeMatches": true,
+    "duplicateNameDateKeys": 0,
+    "dateSorted": true,
+    "savedBlobMatchesWrite": true,
+    "beforeBlobSha": "d17fc87ba1f81d70866033cee7f6e9edbc2dba2a",
+    "afterBlobSha": "4ae7910421b2cbd72df94e5065947abbca31fe7e",
+    "updateCommitSha": "1100cdae7ba1e35991fac8a72576616aa04b1f16",
+    "all_preexisting_items_preserved": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。今回照合した候補は既存登録済みのため新規追加なし。"
+  ]
+}
