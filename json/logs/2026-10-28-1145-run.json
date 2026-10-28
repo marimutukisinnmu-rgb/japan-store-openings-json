@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-10-28T11:45:25+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "ローソン公式・全国新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "note": "2026-10-30〜2026-11-06の新店候補を既存JSONと照合。今回確認した候補は登録済み。"
+    },
+    {
+      "title": "Can★Do公式・2026年お知らせ",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "note": "10月29日〜11月6日の新店・リニューアル告知7件を照合。すべて既存登録済み。"
+    },
+    {
+      "title": "すかいらーくグループ公式・新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "note": "ペルティカ 多摩境店（2026-10-30）、しゃぶ葉 イオンモール福岡伊都店（2026-10-31）などを照合。確認した候補は登録済み。"
+    },
+    {
+      "title": "銀座おのでら公式・NEWS",
+      "url": "https://onodera-group.com/news/",
+      "note": "立鮨 銀座おのでら エキュート大宮店（2026-11-13）の告知を確認。既存登録済み。"
+    },
+    {
+      "title": "仙台PARCO 2026年秋冬 NEW＆RENEWAL（PARCO発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004039.000003639.html",
+      "note": "Zoff 仙台PARCO店（2026-11-06）の告知を確認。既存登録済み。"
+    },
+    {
+      "title": "猿田彦珈琲公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+      "note": "猿田彦珈琲 皇居東御苑店（2026-11-03）を照合。既存登録済み。"
+    },
+    {
+      "title": "新店舗の直近公式発表（各運営会社）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192334.html",
+      "note": "マリベル渋谷（2026-10-28）、ほかサブウェイ 住友不動産秋葉原ファーストビル店（10-28）、フードスタイル東五反田店（10-29）、ダンデライオン・チョコレート 清澄白河ファクトリー（10-30）、Penno Penna 大船ルミネウィング店（11-05）を既存JSONと照合。いずれも登録済み。"
+    }
+  ],
+  "change": {
+    "added": [],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 612,
+    "count_after": 612,
+    "metadata_only_update": "updatetime を 2026-10-28T11:45:25+09:00 に更新"
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "3bbcfc1640b8eee6db7afdcf235747a8669ce292",
+    "after_blob_sha": "9edd9198de68ff152ea02d5393fcc873e118cbf6",
+    "update_commit_sha": "d6c62159790c7776ab1afa0ccb544d6aa4c1d4ea",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "parse": true,
+    "count_before": 612,
+    "count_after": 612,
+    "added_count": 0,
+    "all_preexisting_items_preserved": true,
+    "items_unchanged": true,
+    "duplicate_name_date_keys": 0,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "date_sorted": true,
+    "updatetime_matches": true,
+    "saved_blob_matches_write": true,
+    "before_blob_sha": "3bbcfc1640b8eee6db7afdcf235747a8669ce292",
+    "after_blob_sha": "9edd9198de68ff152ea02d5393fcc873e118cbf6",
+    "update_commit_sha": "d6c62159790c7776ab1afa0ccb544d6aa4c1d4ea"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。",
+    "今回調査した情報源の範囲では、新規追加が必要な未登録の確定情報は確認できなかった。"
+  ]
+}
