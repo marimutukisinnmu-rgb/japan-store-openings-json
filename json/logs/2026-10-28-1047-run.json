@@ -1,0 +1,143 @@
+{
+  "run_at": "2026-10-28T10:47:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "title": "株式会社ヨウジヤマモト公式発表（Y’s 2026-27 A/W POP-UP STORE）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001135.000034350.html",
+      "note": "2026-11-04から11-25まで、7会場の各開催開始日・会場名を確認。既存JSONに同一店舗・開店日の組み合わせがなかったため7件追加。"
+    },
+    {
+      "title": "伊勢丹新宿店 公式アクセス情報",
+      "url": "https://www.mistore.jp/store/shinjuku/access.html",
+      "note": "東京都新宿区を確認。"
+    },
+    {
+      "title": "伊勢丹浦和店 公式アクセス情報",
+      "url": "https://www.mistore.jp/store/urawa/access.html",
+      "note": "埼玉県さいたま市浦和区を確認。"
+    },
+    {
+      "title": "静岡伊勢丹 公式アクセス情報",
+      "url": "https://www.isetan.mistore.jp/shizuoka/access.html",
+      "note": "静岡県静岡市葵区を確認。"
+    },
+    {
+      "title": "伊勢丹立川店 公式アクセス情報",
+      "url": "https://www.mistore.jp/store/tachikawa/access.html",
+      "note": "東京都立川市を確認。"
+    },
+    {
+      "title": "香林坊大和 公式アクセス情報",
+      "url": "https://daiwa-dp.co.jp/kohrinbo/access-parking/",
+      "note": "石川県金沢市を確認。"
+    },
+    {
+      "title": "井筒屋小倉店 公式アクセス情報",
+      "url": "https://izutsuya.co.jp/storelist/kokura/access/",
+      "note": "福岡県北九州市小倉北区を確認。"
+    },
+    {
+      "title": "広島三越 公式アクセス情報",
+      "url": "https://www.mitsukoshi.mistore.jp/hiroshima/access.html",
+      "note": "広島県広島市中区を確認。"
+    },
+    {
+      "title": "ローソン公式・新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "note": "11月4日〜6日の複数店舗を照合。今回確認した候補はすべて既存登録済み。"
+    },
+    {
+      "title": "KENZO公式発表（六本木ヒルズのポップアップ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000190563.html",
+      "note": "2026-10-30開始のKENZOポップアップは既存JSONに登録済み。"
+    }
+  ],
+  "change": {
+    "added": [
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-04",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹浦和店）",
+        "prefecture": "埼玉県",
+        "city": "さいたま市浦和区",
+        "opening_date": "2026-11-11",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（静岡伊勢丹）",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-11-11",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹立川店）",
+        "prefecture": "東京都",
+        "city": "立川市",
+        "opening_date": "2026-11-18",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（香林坊大和）",
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "opening_date": "2026-11-18",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s 2026-27 A/W POP-UP STORE（小倉井筒屋）",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-18",
+        "category": "期間限定ポップアップ（ファッション）"
+      },
+      {
+        "name": "Y’s / Y’s for men 2026-27 A/W POP-UP STORE（広島三越）",
+        "prefecture": "広島県",
+        "city": "広島市中区",
+        "opening_date": "2026-11-25",
+        "category": "期間限定ポップアップ（ファッション）"
+      }
+    ],
+    "removed": [],
+    "updated_existing_items": [],
+    "count_before": 605,
+    "count_after": 612,
+    "metadata_only_update": null
+  },
+  "git": {
+    "branch": "main",
+    "before_blob_sha": "4ae7910421b2cbd72df94e5065947abbca31fe7e",
+    "after_blob_sha": "3bbcfc1640b8eee6db7afdcf235747a8669ce292",
+    "update_commit_sha": "34ca6d6bf50455345f05e7a7f1d2004f3d7975fb",
+    "saved_file_url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "validation": {
+    "parse": true,
+    "countBefore": 605,
+    "countAfter": 612,
+    "addedCount": 7,
+    "allPreexistingItemsPreserved": true,
+    "duplicateNameDateKeys": 0,
+    "requiredFieldsMissing": 0,
+    "invalidDates": 0,
+    "dateSorted": true,
+    "updatetimeMatches": true,
+    "savedBlobMatchesWrite": true,
+    "beforeBlobSha": "4ae7910421b2cbd72df94e5065947abbca31fe7e",
+    "afterBlobSha": "3bbcfc1640b8eee6db7afdcf235747a8669ce292",
+    "updateCommitSha": "34ca6d6bf50455345f05e7a7f1d2004f3d7975fb"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての新規開店情報を網羅できたかは未確認。",
+    "今回は公式発表で日付・会場を確認できたY’sの7会場を追加。未確認の候補は推測で登録していない。"
+  ]
+}
