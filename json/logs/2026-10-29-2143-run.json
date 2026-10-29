@@ -1,0 +1,313 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-29T21:43:18+09:00",
+  "target": {
+    "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+    "path": "json/latest.json",
+    "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "sources": [
+    {
+      "name": "JR西日本SC開発公式発表（PR TIMES）・LUCUA SOUTH第2期開業",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "result": "2026-11-24開業の28店舗一覧を確認。既存のPUPPET SUNSUN STORE 梅田店とULTRAMAN STORE OSAKA ルクア サウス店を除く26店舗を追加。日付が明示された12月のTAMASHII NATIONS STORE OSAKA（12/2）、THE★JOJO WORLD OSAKA（12/4）、名称仮称のスクウェア・エニックス公式グッズショップ（12/23）も追加。日付が「12月上旬予定」のナムコは推測で日付登録しない。"
+    },
+    {
+      "name": "chocoZAP公式・池田栄本町店リニューアル告知",
+      "url": "https://chocozap.jp/info/20529",
+      "result": "2026-11-12 12:00のリニューアルオープンを確認。既存JSONに未登録のため追加。"
+    },
+    {
+      "name": "chocoZAP公式・池田栄本町店の店舗ページ",
+      "url": "https://chocozap.jp/studios/1307",
+      "result": "所在地を大阪府池田市と確認。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "2026-10-29～2026-11-25の新規出店候補を照合。確認対象は登録済み。"
+    },
+    {
+      "name": "ローソン公式・新店舗情報（関東・中部・北海道）",
+      "url": "https://www.lawson.co.jp/newstore/kantou.html",
+      "result": "10月30日～11月6日の確認対象は既存JSONに登録済み。"
+    },
+    {
+      "name": "ローソン公式・新店舗情報（中部）",
+      "url": "https://www.lawson.co.jp/newstore/smt/chubu.html",
+      "result": "11月5日・6日の対象店舗は登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "2026年11月の国内出店対象9件は登録済み。海外店舗は日本国内対象外として除外。"
+    },
+    {
+      "name": "イオン公式・イオンモール伊達開業発表",
+      "url": "https://www.aeon.info/en/news/release_111072/",
+      "result": "2026-11-27開業の施設および確認できた店舗候補は既存JSONに登録済み。"
+    },
+    {
+      "name": "ロイヤルホールディングス公式・新店情報",
+      "url": "https://www.royal-holdings.co.jp/shop/",
+      "result": "Cafe＆Dining LUANAは既存JSONに登録済み。"
+    }
+  ],
+  "before": {
+    "blob_sha": "ad1d0e24f249b6901e28a7e656d9718334661f82",
+    "updatetime": "2026-10-29T20:39:02+09:00",
+    "item_count": 692
+  },
+  "changes": {
+    "added": 30,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "updatetime_changed": true,
+    "added_items": [
+      {
+        "name": "ちいかわパークストア（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクター公式ショップ"
+      },
+      {
+        "name": "サンリオ ハローステージ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターショップ"
+      },
+      {
+        "name": "スキ♡プレイス（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "イベントスペース"
+      },
+      {
+        "name": "にしむらゆうじ購買部 本店 大阪（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターグッズ・雑貨"
+      },
+      {
+        "name": "エヴァンゲリオンストア オオサカ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "アニメ公式ショップ・グッズ"
+      },
+      {
+        "name": "STRICT-G（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "アパレル・雑貨"
+      },
+      {
+        "name": "ナガノマーケット UMEDA（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターグッズ・雑貨"
+      },
+      {
+        "name": "ビーサイドレーベル（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "ステッカー・雑貨"
+      },
+      {
+        "name": "ガチャワールド（LUCUA SOUTH 11F）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "キャラコレ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクター雑貨"
+      },
+      {
+        "name": "あっちこっちJournal（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "新聞・雑貨"
+      },
+      {
+        "name": "名探偵コナンプラザ（LUCUA SOUTH・期間限定）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターグッズ（期間限定ショップ）"
+      },
+      {
+        "name": "STAR WARS STORE by BENELIC（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "映画公式ショップ・キャラクターグッズ"
+      },
+      {
+        "name": "しろたんふんわりストア（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターグッズ・雑貨"
+      },
+      {
+        "name": "NARUMIYA HAPPY PARK（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "子ども服・キャラクター雑貨"
+      },
+      {
+        "name": "刀剣乱舞万屋本舗 大阪梅田店（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "ゲーム公式ショップ・キャラクターグッズ"
+      },
+      {
+        "name": "EVERYTHING MINECRAFT（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "ゲーム公式グッズ"
+      },
+      {
+        "name": "ファンタジーヴィレッジ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "ゲームライセンス商品・雑貨"
+      },
+      {
+        "name": "NHKキャラクターショップ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクターグッズ"
+      },
+      {
+        "name": "シルバニアファミリー森のお家 Premium（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "玩具・キャラクター雑貨"
+      },
+      {
+        "name": "JUMP SHOP（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "漫画公式グッズショップ"
+      },
+      {
+        "name": "レゴ ストア（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "玩具・ブロック"
+      },
+      {
+        "name": "ハリー・ポッター マホウドコロ（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "映画公式グッズショップ"
+      },
+      {
+        "name": "アンパンマンキッズコレクション（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "子ども服・雑貨"
+      },
+      {
+        "name": "POP MART（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "アートトイ・フィギュア"
+      },
+      {
+        "name": "ガチャワールド（LUCUA SOUTH 15F）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-02",
+        "category": "フィギュア・コレクターズトイ公式店"
+      },
+      {
+        "name": "THE★JOJO WORLD OSAKA（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-04",
+        "category": "体験型公式ショップ・キャラクターグッズ"
+      },
+      {
+        "name": "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-23",
+        "category": "ゲーム公式グッズショップ（名称仮称）"
+      },
+      {
+        "name": "chocoZAP 池田栄本町店（リニューアル）",
+        "prefecture": "大阪府",
+        "city": "池田市",
+        "opening_date": "2026-11-12",
+        "category": "フィットネスジム（リニューアル）"
+      }
+    ],
+    "unconfirmed": [
+      {
+        "name": "ナムコ（LUCUA SOUTH）",
+        "opening_date": null,
+        "reason": "公式発表は「2026年12月上旬予定」のみ。確定日がないため追加保留。"
+      },
+      {
+        "name": "chocoZAP 宗像自由ヶ丘店（リニューアル）",
+        "opening_date": "2026-10-11",
+        "reason": "前回ログでは公式告知ページの取得が404で未確認のため、今回も推測で追加しない。"
+      }
+    ]
+  },
+  "after": {
+    "item_count": 722,
+    "blob_sha": "0d63682740a35e080bfe87c0ca70f5867ef0a54d",
+    "commit_sha": "8588eae662bb443252306c3e52ec98ec45086892",
+    "updatetime": "2026-10-29T21:43:18+09:00",
+    "verification": {
+      "saved_and_refetched": true,
+      "json_parse": true,
+      "added_items_present": true,
+      "duplicate_name_date_keys": 0,
+      "missing_required_fields_or_bad_date_format": 0,
+      "opening_date_sorted": true,
+      "sha_matches_write_result": true
+    }
+  },
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "RRULE:FREQ=HOURLY",
+    "next_run_time": null,
+    "note": "実行開始時に有効状態と毎時スケジュール定義を確認。次回実行時刻は取得できず。"
+  }
+}
