@@ -1,0 +1,342 @@
+{
+  "run_at": "2026-10-30T08:46:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "運営元公式の新店舗一覧で開店日・店舗名・所在地を確認した情報のみ追加",
+  "sources": [
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "supports": "2026-09-30〜2026-10-13の開店日と店舗名・所在地。公式一覧の該当日付欄に掲載"
+    }
+  ],
+  "before": {
+    "item_count": 736,
+    "blob_sha": "f748b05aa0320bc04a37ddf6ab16acce43d9d01e",
+    "updatetime": "2026-10-30T07:46:09+09:00"
+  },
+  "additions": [
+    {
+      "name": "chocoZAP 土浦神立",
+      "prefecture": "茨城県",
+      "city": "土浦市",
+      "opening_date": "2026-10-13",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 上越藤野新田",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "opening_date": "2026-10-13",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 対馬",
+      "prefecture": "長崎県",
+      "city": "対馬市",
+      "opening_date": "2026-10-10",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 中野中央二丁目（女性専用）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-10-08",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 福山新市",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "opening_date": "2026-10-08",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 多度津葛原",
+      "prefecture": "香川県",
+      "city": "仲多度郡多度津町",
+      "opening_date": "2026-10-08",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 松戸上本郷",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-07",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP MEGAドン・キホーテ成東",
+      "prefecture": "千葉県",
+      "city": "山武市",
+      "opening_date": "2026-10-06",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 大蔵二丁目",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-06",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 戸塚吉田町",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-10-06",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 東大阪長田中",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "opening_date": "2026-10-06",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP EV GARDENふくしま",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-10-02",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 松江宍道",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "opening_date": "2026-10-02",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 栃木大平町",
+      "prefecture": "栃木県",
+      "city": "栃木市",
+      "opening_date": "2026-10-01",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP ワコーレ北本",
+      "prefecture": "埼玉県",
+      "city": "北本市",
+      "opening_date": "2026-10-01",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP オルフィーカ美田園",
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 由利本荘岩渕下",
+      "prefecture": "秋田県",
+      "city": "由利本荘市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 伊達保原",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 須賀川西山寺",
+      "prefecture": "福島県",
+      "city": "須賀川市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 白河明戸",
+      "prefecture": "福島県",
+      "city": "白河市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 真岡並木",
+      "prefecture": "栃木県",
+      "city": "真岡市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 飯能駅北口",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 深谷西島二丁目",
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 習志野五丁目",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 茂原駅前",
+      "prefecture": "千葉県",
+      "city": "茂原市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 大田中央一丁目",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 上鷺宮三丁目",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 南葛西三丁目",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 三ツ沢下町（女性専用）",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 百合丘四丁目",
+      "prefecture": "神奈川県",
+      "city": "川崎市麻生区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 新潟笹口一丁目",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 長野南千歳",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 碧南千福町",
+      "prefecture": "愛知県",
+      "city": "碧南市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 下鴨高木",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 堺鳳東（女性専用）",
+      "prefecture": "大阪府",
+      "city": "堺市西区",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 高槻辻子三丁目",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 武庫之荘北",
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 姫路飾西",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 和歌山黒田",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 小野田高千帆",
+      "prefecture": "山口県",
+      "city": "山陽小野田市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 大洲インター",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 大川郷原",
+      "prefecture": "福岡県",
+      "city": "大川市",
+      "opening_date": "2026-09-30",
+      "category": "フィットネスジム"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 778,
+    "blob_sha": "d966a42fbb0a5f0c790ad2c225f999ff5240f130",
+    "commit_sha": "1406cc7b8cef8b957800f0437dddacb71ec07bf8",
+    "updatetime": "2026-10-30T08:46:03+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found_after_fetch": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "saved_blob_sha_matches": true
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "ビッグ・エー越谷東大沢二丁目店",
+      "reason": "この実行では運営元の公式発表を確認できず、追加を保留"
+    },
+    {
+      "name": "ちひろ菓子店 岡本",
+      "reason": "公式投稿を直接検証できず、追加を保留"
+    }
+  ]
+}
