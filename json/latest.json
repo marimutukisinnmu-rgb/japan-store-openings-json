@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-29T19:40:32+09:00",
+  "updatetime": "2026-10-29T20:39:02+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -242,6 +242,13 @@
       "category": "期間限定ポップアップ・ファッション"
     },
     {
+      "name": "Ground Y 渋谷PARCO（リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-02",
+      "category": "ファッション（リニューアル）"
+    },
+    {
       "name": "SAKImoto bakery and more 葛西店",
       "prefecture": "東京都",
       "city": "江戸川区",
@@ -310,13 +317,6 @@
       "city": "沖縄市",
       "opening_date": "2026-10-02",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "Ground Y 渋谷PARCO（リニューアル）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-10-02",
-      "category": "ファッション（リニューアル）"
     },
     {
       "name": "Bake A Holic",
@@ -786,6 +786,13 @@
       "city": "江東区",
       "opening_date": "2026-10-09",
       "category": "ファッション・ルームウェア"
+    },
+    {
+      "name": "gelato pique/SNIDEL/Mila Owen（ジャズドリーム長島・リニューアル）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-09",
+      "category": "ファッション（リニューアル）"
     },
     {
       "name": "GEORGE’S イオンモール羽生店",
@@ -1411,6 +1418,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "ハンター（グランベリーパーク・リニューアル）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-16",
+      "category": "シューズ・ファッション雑貨（リニューアル）"
+    },
+    {
       "name": "ローソン 葛飾東堀切二丁目",
       "prefecture": "東京都",
       "city": "葛飾区",
@@ -1444,13 +1458,6 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
-    },
-    {
-      "name": "ハンター（グランベリーパーク・リニューアル）",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-10-16",
-      "category": "シューズ・ファッション雑貨（リニューアル）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -1829,6 +1836,13 @@
       "city": "渋谷区",
       "opening_date": "2026-10-23",
       "category": "バッグ・ラゲッジ"
+    },
+    {
+      "name": "chocoZAP 黒崎店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-10-23",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "chocoZAP 南藤沢",
@@ -2291,6 +2305,13 @@
       "city": "中央区",
       "opening_date": "2026-10-28",
       "category": "期間限定カフェ（ホリデーシーズン）"
+    },
+    {
+      "name": "chocoZAP 折尾四丁目店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-10-28",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "chocoZAP 富山金泉寺",
@@ -3033,6 +3054,13 @@
       "prefecture": "北海道",
       "city": "札幌市白石区",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 飯田橋店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-30",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "chocoZAP 福島松川",
