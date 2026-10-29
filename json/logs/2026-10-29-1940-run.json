@@ -1,0 +1,123 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-29T19:40:32+09:00",
+  "target": {
+    "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+    "path": "json/latest.json",
+    "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "sources": [
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "ハンターのリニューアルオープン日を2026-10-16と確認。ボールアンドチェーン(9/4)、ヤヌーク(9/5)、アダム エ ロペ／サロン アダム エ ロペ アウトレット(9/9)、ケチャップ(9/10)は確認できたが、現行JSONのperiod開始日2026-09-18より前のため追加対象外。ReDは『10月上旬～中旬』のみで正確な日付が確認できず保留。"
+    },
+    {
+      "name": "株式会社ヨウジヤマモト公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001119.000034350.html",
+      "result": "Ground Y 渋谷PARCOのリニューアルオープン日を2026-10-02と確認し、未登録だったため追加。"
+    },
+    {
+      "name": "ローソン公式・新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "result": "公式一覧に掲載された2026-10-30～2026-11-06の店舗を照合。掲載候補は既存登録済み。既存の『ローソン Ｓイオンモール京都五条』は現在の確認対象一覧で確認できなかったため、削除・変更せず未確認として保持。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "表示中の2026-10-29～2026-11-25の新店舗候補を照合し、該当店舗は既存登録済み。"
+    },
+    {
+      "name": "chocoZAP公式・宇佐岩崎店の開店延期告知",
+      "url": "https://chocozap.jp/info/22507",
+      "result": "公式告知では宇佐岩崎店の開店予定は2026-11-03 12:00。新店舗一覧に旧日付が残っているが、明示的な延期告知を優先し、JSONの訂正済み日付を維持。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "2026年11月の新規出店発表を照合。日本国内の対象9店舗は既存登録済み。海外店舗3件は国内対象外。"
+    },
+    {
+      "name": "三井不動産商業マネジメント公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "ジャズドリーム長島の新規・リニューアル店舗を照合。日付が明示された対象は既存登録済み。日付が月単位のみの店舗は推測で追加しない。"
+    },
+    {
+      "name": "かつや公式・最新情報",
+      "url": "https://www.arclandservice.co.jp/katsuya/information/",
+      "result": "かつや 中野北口店（2026-10-21）は既存登録済み。"
+    },
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "ハンター（グランベリーパーク・リニューアル）の2026-10-16を確認し、追加。"
+    }
+  ],
+  "before": {
+    "blob_sha": "2c32c6b0ba4bfd4a286047c6a71c6bd1f49791de",
+    "updatetime": "2026-10-29T18:40:14+09:00",
+    "item_count": 686
+  },
+  "intermediate": {
+    "blob_sha": "8c90bc46f7eecadf824461796c8c70412fbeddb7",
+    "commit_sha": "378b5a64093449bf601a91a516b83fda3fb71f2d",
+    "note": "更新確認時刻を今回の実行時刻へ更新した中間コミット。最終データコミットで追加2件を反映。"
+  },
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "updatetime_changed": true,
+    "added_items": [
+      {
+        "name": "Ground Y 渋谷PARCO（リニューアル）",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-10-02",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "ハンター（グランベリーパーク・リニューアル）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-10-16",
+        "category": "シューズ・ファッション雑貨（リニューアル）"
+      }
+    ],
+    "unconfirmed_or_excluded": [
+      {
+        "name": "ローソン Ｓイオンモール京都五条",
+        "opening_date": "2026-11-05",
+        "reason": "今回確認したローソン公式新店舗一覧に該当記載が見つからない。既存データ保護のため変更・削除せず未確認として保持。"
+      },
+      {
+        "name": "ReD（グランベリーパーク）",
+        "opening_date": null,
+        "reason": "公式施設情報は『10月上旬～中旬』のみ。正確な日付を確認できないため登録保留。"
+      },
+      {
+        "name": "グランベリーパークの期間外候補",
+        "opening_date": null,
+        "reason": "ボールアンドチェーン(2026-09-04)、ヤヌーク(2026-09-05)、アダム エ ロペ／サロン アダム エ ロペ アウトレット(2026-09-09)、ケチャップ(2026-09-10)は公式日付を確認したが、現行periodの開始日2026-09-18より前のため追加していない。"
+      }
+    ]
+  },
+  "after": {
+    "blob_sha": "c1742b7a8dc5e6f378487091c3749a39df26e17c",
+    "commit_sha": "95e2555168107f797d2216fae35219b9707b5b6d",
+    "updatetime": "2026-10-29T19:40:32+09:00",
+    "item_count": 688
+  },
+  "validation": {
+    "json_syntax": "success",
+    "saved_content_refetched": "success",
+    "added_items_present": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "invalid_date_formats": 0,
+    "opening_date_sorted_ascending": true,
+    "existing_data_deletions": 0,
+    "notes": "JSON本体の再取得後に件数・追加2件・重複・必須項目・日付形式・日付順を検証。"
+  }
+}
