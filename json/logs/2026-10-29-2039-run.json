@@ -1,0 +1,115 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-29T20:39:02+09:00",
+  "target": {
+    "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+    "path": "json/latest.json",
+    "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "sources": [
+    {
+      "name": "chocoZAP公式・飯田橋店リニューアル告知",
+      "url": "https://chocozap.jp/info/15948",
+      "result": "2026-10-30 12:00のリニューアルオープンを確認。店名・日付が未登録のため追加。所在地の市区は新宿区の店舗情報で照合。"
+    },
+    {
+      "name": "chocoZAP公式・折尾四丁目店リニューアル告知",
+      "url": "https://chocozap.jp/info/16964",
+      "result": "2026-10-28 12:00のリニューアルオープンを確認。未登録のため追加。所在地は北九州市八幡西区で照合。"
+    },
+    {
+      "name": "chocoZAP公式・黒崎店リニューアル告知",
+      "url": "https://chocozap.jp/info/15947",
+      "result": "2026-10-23 12:00のリニューアルオープンを確認。未登録のため追加。公式店舗一覧で北九州市八幡西区を確認。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島公式・gelato pique/SNIDEL/Mila Owen店舗情報",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/shop/3649080.html",
+      "result": "2026-10-09のリニューアルオープンを確認。未登録のため追加。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "2026-10-29～2026-11-25の新規店一覧を照合。該当する新規店は登録済み。"
+    },
+    {
+      "name": "三井不動産商業マネジメント公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "ジャズドリーム長島の16店舗一覧を確認。日付が明示された未登録のリニューアル店舗を1件追加。日付が月単位のみのTimberlandは推測で追加しない。"
+    },
+    {
+      "name": "chocoZAP公式・宗像自由ヶ丘店リニューアル告知（検索インデックス）",
+      "url": "https://chocozap.jp/info/16803",
+      "result": "検索結果では2026-10-11のリニューアル日を確認できたが、今回公式ページの取得が404となったため、未確認として追加保留。"
+    }
+  ],
+  "before": {
+    "blob_sha": "c1742b7a8dc5e6f378487091c3749a39df26e17c",
+    "updatetime": "2026-10-29T19:40:32+09:00",
+    "item_count": 688
+  },
+  "changes": {
+    "added": 4,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "updatetime_changed": true,
+    "added_items": [
+      {
+        "name": "chocoZAP 飯田橋店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-10-30",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 折尾四丁目店（リニューアル）",
+        "prefecture": "福岡県",
+        "city": "北九州市八幡西区",
+        "opening_date": "2026-10-28",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 黒崎店（リニューアル）",
+        "prefecture": "福岡県",
+        "city": "北九州市八幡西区",
+        "opening_date": "2026-10-23",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "gelato pique/SNIDEL/Mila Owen（ジャズドリーム長島・リニューアル）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-09",
+        "category": "ファッション（リニューアル）"
+      }
+    ],
+    "unconfirmed": [
+      {
+        "name": "chocoZAP 宗像自由ヶ丘店（リニューアル）",
+        "opening_date": "2026-10-11",
+        "reason": "公式告知ページが今回404で取得できず、確認できるまで未登録"
+      }
+    ]
+  },
+  "after": {
+    "item_count": 692,
+    "blob_sha": "ad1d0e24f249b6901e28a7e656d9718334661f82",
+    "commit_sha": "99d4408ac547e27373e71fa1ccd2d7949f2cb698",
+    "updatetime": "2026-10-29T20:39:02+09:00",
+    "verification": {
+      "saved_and_refetched": true,
+      "json_parse": true,
+      "added_items_present": true,
+      "duplicate_name_date_keys": 0,
+      "missing_required_fields_or_bad_date_format": 0,
+      "opening_date_sorted": true
+    }
+  },
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "RRULE:FREQ=HOURLY",
+    "next_run_time": null,
+    "note": "有効状態と毎時スケジュール定義を確認。次回実行時刻は取得できず。"
+  }
+}
