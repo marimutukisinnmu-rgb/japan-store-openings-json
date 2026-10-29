@@ -1,0 +1,121 @@
+{
+  "run_at": "2026-10-30T00:41:37+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "name": "ローソン公式・全国新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "checked": "2026-10-30",
+      "finding": "10月30日〜11月12日の公開リストを既存JSONと照合。確認した候補は登録済み。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked": "2026-10-30",
+      "finding": "10月30日〜11月25日の掲載候補を既存JSONと照合。確認した候補は登録済み。"
+    },
+    {
+      "name": "FIT-EASY寝屋川店の公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001050.000099487.html",
+      "checked": "2026-10-30",
+      "finding": "2026年11月10日グランドオープン、所在地は大阪府寝屋川市高宮栄町10-1。未登録のため追加。"
+    },
+    {
+      "name": "ベネリック／レゴストア公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002256.000022901.html",
+      "checked": "2026-10-30",
+      "finding": "レゴストア横浜ランドマークプラザ店は2026年11月10日リニューアル。未登録のため追加。長島店は既存データに登録済み。"
+    },
+    {
+      "name": "ユニクロ公式・ユニクロ京都の開店発表",
+      "url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2026/10/26102111_store.html",
+      "checked": "2026-10-30",
+      "finding": "グローバル旗艦店「ユニクロ 京都」は2026年11月6日オープン予定、所在地は京都市中京区河原町通三条下ル大黒町58。未登録のため追加。"
+    },
+    {
+      "name": "Repilates公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000130273.html",
+      "checked": "2026-10-30",
+      "finding": "Repilates イオンモールとなみ店は2026年12月4日開店予定、富山県砺波市中神1丁目174番地。未登録のため追加。"
+    },
+    {
+      "name": "POP MART沖縄浦添PARCO CITY店の公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "checked": "2026-10-30",
+      "finding": "2026年11月6日開店予定。既存JSONに登録済み。"
+    },
+    {
+      "name": "アトリエはるか エミオ練馬店の公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000555.000046400.html",
+      "checked": "2026-10-30",
+      "finding": "2026年11月6日開店予定。既存JSONに登録済み。"
+    },
+    {
+      "name": "Morning Park Cafeの公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000191948.html",
+      "checked": "2026-10-30",
+      "finding": "2026年11月6日開店予定。既存JSONに登録済み。"
+    }
+  ],
+  "before": {
+    "item_count": 728,
+    "blob_sha": "30fb719bb7f522ee485aa7d2b609131543fad99d",
+    "updatetime": "2026-10-29T23:42:00+09:00"
+  },
+  "changes": {
+    "added_count": 4,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "added_items": [
+      {
+        "name": "ユニクロ 京都（グローバル旗艦店）",
+        "opening_date": "2026-11-06"
+      },
+      {
+        "name": "FIT-EASY 寝屋川店",
+        "opening_date": "2026-11-10"
+      },
+      {
+        "name": "レゴ®ストア 横浜ランドマークプラザ店（リニューアル）",
+        "opening_date": "2026-11-10"
+      },
+      {
+        "name": "Repilates（リピラティス）イオンモールとなみ店",
+        "opening_date": "2026-12-04"
+      }
+    ],
+    "corrected_items": [],
+    "existing_records_overwritten": 0,
+    "note": "確認済みの公式発表4件を追加。照合済み項目は重複追加なし。"
+  },
+  "after": {
+    "item_count": 732,
+    "updatetime": "2026-10-30T00:41:37+09:00",
+    "latest_json_blob_sha": "01ef7eea06f372b81f0da90517c6b12569dd37a5",
+    "latest_json_commit_sha": "f3169fe4203565744c856b0985e27ae75015bc53",
+    "main_branch_blob_sha": "01ef7eea06f372b81f0da90517c6b12569dd37a5"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "additions_verified": true,
+    "saved_file_fetched_by_commit_sha": true,
+    "main_branch_head_verified": true
+  },
+  "unconfirmed": [
+    {
+      "subject": "Timberland（ジャズドリーム長島）",
+      "detail": "公式発表では2026年12月予定までで、正確な開店日は未公表のため登録保留。"
+    },
+    {
+      "subject": "chocoZAP 宗像自由ヶ丘店",
+      "detail": "公式告知ページの直接取得に失敗し、確実な日付を再確認できなかったため追加・訂正を保留。"
+    }
+  ],
+  "errors": [],
+  "summary": "公式情報で確認した未登録4店舗を追加。mainブランチから再取得し、JSON構文・必須項目・日付・重複・並び順を検証。"
+}
