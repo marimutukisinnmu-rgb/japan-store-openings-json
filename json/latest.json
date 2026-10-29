@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-29T23:42:00+09:00",
+  "updatetime": "2026-10-30T00:41:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3966,6 +3966,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "ユニクロ 京都（グローバル旗艦店）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-06",
+      "category": "衣料品・ファッション（グローバル旗艦店）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -4048,6 +4055,20 @@
       "city": "平塚市",
       "opening_date": "2026-11-10",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "FIT-EASY 寝屋川店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-11-10",
+      "category": "フィットネスクラブ"
+    },
+    {
+      "name": "レゴ®ストア 横浜ランドマークプラザ店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-10",
+      "category": "玩具・ブロック（リニューアル）"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -5070,6 +5091,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-04",
       "category": "体験型公式ショップ・キャラクターグッズ"
+    },
+    {
+      "name": "Repilates（リピラティス）イオンモールとなみ店",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "opening_date": "2026-12-04",
+      "category": "マシンピラティス"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
