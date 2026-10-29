@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T00:41:37+09:00",
+  "updatetime": "2026-10-30T07:46:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -1460,6 +1460,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "3COINS+plus サンリブ宗像店",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-10-16",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -2088,6 +2095,13 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
+    },
+    {
+      "name": "イオンモールナゴヤドーム前ロフト",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "opening_date": "2026-10-23",
+      "category": "生活雑貨・文具・美容雑貨"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -3285,6 +3299,20 @@
       "city": "可児市",
       "opening_date": "2026-10-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "生鮮スーパー たこ一 高槻駅前店",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-10-30",
+      "category": "スーパーマーケット（生鮮食品）"
+    },
+    {
+      "name": "FOOD EDIT（大丸神戸店）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-30",
+      "category": "グローサリー・ギフトショップ"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
