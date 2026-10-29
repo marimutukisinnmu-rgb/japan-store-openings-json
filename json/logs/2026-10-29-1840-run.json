@@ -1,0 +1,250 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-10-29T18:40:14+09:00",
+  "target": {
+    "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+    "path": "json/latest.json",
+    "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "sources": [
+    {
+      "name": "chocoZAP公式・宇佐岩崎店の延期告知",
+      "url": "https://chocozap.jp/info/22507",
+      "result": "宇佐岩崎店の開店日を2026-10-29から2026-11-03へ訂正。公式告知では2026-11-03 12:00開始。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島・運営会社発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "日付が明示された新規店舗11件とリニューアル4件を追加。Timberlandは『2026年12月予定』のみで正確な日付がないため登録を保留。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "国内の2026年11月新規出店9店舗を追加。海外店舗3件は日本国内の対象外として除外。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "最新の公式新店舗一覧を照合。宇佐岩崎の延期は別途公式告知で確認。"
+    }
+  ],
+  "before": {
+    "blob_sha": "d3d0b27563d804fa8d1578e7321d459ffc82bb10",
+    "updatetime": "2026-10-28T22:43:06+09:00",
+    "item_count": 662
+  },
+  "changes": {
+    "added": 24,
+    "corrected": 1,
+    "deleted": 0,
+    "merged": 0,
+    "updatetime_changed": true,
+    "corrected_items": [
+      {
+        "name": "chocoZAP 宇佐岩崎",
+        "from": "2026-10-29",
+        "to": "2026-11-03",
+        "reason": "公式延期告知"
+      }
+    ],
+    "added_items": [
+      {
+        "name": "LAVENHAM（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-09-27",
+        "category": "ファッション・アウトレット"
+      },
+      {
+        "name": "CRONOS（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-04",
+        "category": "スポーツウェア"
+      },
+      {
+        "name": "SY32 by SWEET YEARS（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-09",
+        "category": "スポーツ・アパレル"
+      },
+      {
+        "name": "ジェラートピケ / スナイデル / ミラオーウェン（ジャズドリーム長島・リニューアル）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-09",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "ABC-MART（ジャズドリーム長島・リニューアル）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-10",
+        "category": "シューズ（リニューアル）"
+      },
+      {
+        "name": "URBAN RESEARCH Warehouse（ジャズドリーム長島・リニューアル）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-10",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "Allbirds / THE NORTH FACE（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-15",
+        "category": "シューズ・アウトドア（複合店）"
+      },
+      {
+        "name": "PYRENEX（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-17",
+        "category": "ファッション・アウトドア"
+      },
+      {
+        "name": "Yogibo Store（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-23",
+        "category": "インテリア・雑貨"
+      },
+      {
+        "name": "レゴ®ストア（ジャズドリーム長島・リニューアル）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-29",
+        "category": "グッズ・バラエティ（リニューアル）"
+      },
+      {
+        "name": "MARK'EY'S（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-30",
+        "category": "キッズファッション"
+      },
+      {
+        "name": "シモンズ（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-31",
+        "category": "インテリア・寝具"
+      },
+      {
+        "name": "Acne Studios（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-11-06",
+        "category": "ラグジュアリー・ファッション"
+      },
+      {
+        "name": "Luck Rack イオンモール旭川西店",
+        "prefecture": "北海道",
+        "city": "旭川市",
+        "opening_date": "2026-11-06",
+        "category": "オフプライスストア"
+      },
+      {
+        "name": "Luck Rack 京都ヨドバシ店",
+        "prefecture": "京都府",
+        "city": "京都市下京区",
+        "opening_date": "2026-11-06",
+        "category": "オフプライスストア"
+      },
+      {
+        "name": "セカンドストリート 筑紫野店",
+        "prefecture": "福岡県",
+        "city": "筑紫野市",
+        "opening_date": "2026-11-06",
+        "category": "リユースショップ"
+      },
+      {
+        "name": "セカンドストリート 淵野辺南店",
+        "prefecture": "神奈川県",
+        "city": "相模原市中央区",
+        "opening_date": "2026-11-06",
+        "category": "リユースショップ"
+      },
+      {
+        "name": "セカンドストリート 浅草田原町買取専門店",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-11-13",
+        "category": "リユース・買取専門店"
+      },
+      {
+        "name": "おお蔵 本町駅前店",
+        "prefecture": "大阪府",
+        "city": "大阪市西区",
+        "opening_date": "2026-11-20",
+        "category": "ブランド品・時計・ジュエリー買取販売"
+      },
+      {
+        "name": "カプセル楽局 武蔵新田駅前店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-20",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "MERRELL（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-11-21",
+        "category": "シューズ・アウトドア"
+      },
+      {
+        "name": "カプセル楽局 PREMIUM 経堂店",
+        "prefecture": "東京都",
+        "city": "世田谷区",
+        "opening_date": "2026-11-27",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "セカンドストリート ミスターマックス町田多摩境店",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-11-27",
+        "category": "リユースショップ"
+      },
+      {
+        "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-12-11",
+        "category": "時計・アクセサリー"
+      }
+    ]
+  },
+  "validation_before": {
+    "json_parse": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "valid_date_format": true,
+    "sorted_by_opening_date": true
+  },
+  "after": {
+    "blob_sha": "2c32c6b0ba4bfd4a286047c6a71c6bd1f49791de",
+    "commit_sha": "e138b4ae5328434e1224511ff8ea9ba790dbf044",
+    "updatetime": "2026-10-29T18:40:14+09:00",
+    "item_count": 686
+  },
+  "validation_after": {
+    "json_parse": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "valid_date_format": true,
+    "sorted_by_opening_date": true,
+    "added_records_confirmed": 24,
+    "corrected_record_confirmed": true,
+    "updatetime_matches": true,
+    "sha_from_fetch": true
+  },
+  "unconfirmed": [
+    "ジャズドリーム長島のTimberlandは公式発表が『2026年12月予定』のみで正確な日付が未確定のため登録していない。",
+    "全国すべての新規開店情報を網羅できたかは未確認。"
+  ],
+  "errors": []
+}
