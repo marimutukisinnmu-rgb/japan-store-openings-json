@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-29T21:43:18+09:00",
+  "updatetime": "2026-10-29T22:43:34+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3616,6 +3616,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 長野平林店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-04",
+      "category": "ラーメン"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -4174,6 +4181,41 @@
       "city": "池田市",
       "opening_date": "2026-11-12",
       "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "ローソン 仙台八乙女中央二丁目",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "opening_date": "2026-11-12",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン ＬＴＦ大宮桜木町二丁目",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-12",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン Ｈ君津南子安一丁目",
+      "prefecture": "千葉県",
+      "city": "君津市",
+      "opening_date": "2026-11-12",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 江戸川南篠崎町四丁目",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-11-12",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 福生郵便局前",
+      "prefecture": "東京都",
+      "city": "福生市",
+      "opening_date": "2026-11-12",
+      "category": "コンビニ"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
