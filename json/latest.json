@@ -312,6 +312,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "Ground Y 渋谷PARCO（リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-02",
+      "category": "ファッション（リニューアル）"
+    },
+    {
       "name": "Bake A Holic",
       "prefecture": "神奈川県",
       "city": "平塚市",
@@ -1437,6 +1444,13 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
+    },
+    {
+      "name": "ハンター（グランベリーパーク・リニューアル）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-10-16",
+      "category": "シューズ・ファッション雑貨（リニューアル）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
