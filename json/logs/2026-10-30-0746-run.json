@@ -1,0 +1,91 @@
+{
+  "run_at": "2026-10-30T07:46:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "公式運営元・公式施設・企業発表で開店日と所在地を確認した情報のみ追加",
+  "sources": [
+    {
+      "name": "株式会社パル公式 / PAL CLOSET — 3COINS+plus サンリブ宗像店",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_260928co_002&ak=SHOPNEWS&b=3coins&bg=otona&cpvcd=sex-type%7C000",
+      "supports": "2026-10-16開店、福岡県宗像市くりえいと1-5-1"
+    },
+    {
+      "name": "株式会社ロフト公式発表（PR TIMES）— イオンモールナゴヤドーム前ロフト",
+      "url": "https://prtimes.jp/main/html/rd/p/000001835.000018324.html",
+      "supports": "2026-10-23開店、愛知県名古屋市東区"
+    },
+    {
+      "name": "株式会社バローホールディングス公式発表（PR TIMES）— たこ一高槻駅前店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000191.000119795.html",
+      "supports": "2026-10-30開店、大阪府高槻市高槻町17-4"
+    },
+    {
+      "name": "株式会社大丸松坂屋百貨店の発表 — FOOD EDIT（大丸神戸店）",
+      "url": "https://news.livedoor.com/pr_article/detail/32669623/",
+      "supports": "2026-10-30開店、兵庫県神戸市中央区明石町40・大丸神戸店地下1階"
+    }
+  ],
+  "before": {
+    "item_count": 732,
+    "blob_sha": "01ef7eea06f372b81f0da90517c6b12569dd37a5",
+    "updatetime": "2026-10-30T00:41:37+09:00"
+  },
+  "additions": [
+    {
+      "name": "3COINS+plus サンリブ宗像店",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-10-16",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "イオンモールナゴヤドーム前ロフト",
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "opening_date": "2026-10-23",
+      "category": "生活雑貨・文具・美容雑貨"
+    },
+    {
+      "name": "生鮮スーパー たこ一 高槻駅前店",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-10-30",
+      "category": "スーパーマーケット（生鮮食品）"
+    },
+    {
+      "name": "FOOD EDIT（大丸神戸店）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-30",
+      "category": "グローサリー・ギフトショップ"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 736,
+    "blob_sha": "f748b05aa0320bc04a37ddf6ab16acce43d9d01e",
+    "commit_sha": "8b4ef7a5c4759c82979b586e5646ee9a53c54e5e",
+    "updatetime": "2026-10-30T07:46:09+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found_after_fetch": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "saved_blob_sha_matches": true
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "ビッグ・エー越谷東大沢二丁目店",
+      "reason": "開店候補は見つかったが、この実行では運営元の公式発表を十分に確認できず保留"
+    },
+    {
+      "name": "ちひろ菓子店 岡本",
+      "reason": "プレオープン・グランドオープン情報の二次報道は見つかったが、公式投稿を直接検証できず保留"
+    }
+  ]
+}
