@@ -1,0 +1,134 @@
+{
+  "run_at": "2026-10-31T07:40:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 891,
+    "blob_sha": "fba1378741b79a35a5a9e921d8d8b7cace4dff07"
+  },
+  "after": {
+    "count": 899,
+    "blob_sha": "35f03613c6dbe70094eb3c49adebe51307d8261e",
+    "commit_sha": "52e380d2f956ad4ae18a54a26d89e2557786ff28"
+  },
+  "added_count": 8,
+  "additions": [
+    {
+      "name": "Merrell（あみプレミアム・アウトレット期間限定店）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-10-21",
+      "category": "アウトドア用品（期間限定店）"
+    },
+    {
+      "name": "Citizen（あみプレミアム・アウトレット・リニューアル）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-03",
+      "category": "時計（リニューアル）"
+    },
+    {
+      "name": "八百甚／須崎屋（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-06",
+      "category": "和菓子・カステラ（期間限定催事）"
+    },
+    {
+      "name": "ヨックモック（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-06",
+      "category": "焼き菓子（期間限定催事）"
+    },
+    {
+      "name": "Pierre Marcolini（あみプレミアム・アウトレット期間限定店）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-07",
+      "category": "チョコレート（期間限定店）"
+    },
+    {
+      "name": "栗乃薫（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-17",
+      "category": "モンブラン（期間限定催事）"
+    },
+    {
+      "name": "しんぱち食堂 あみプレミアム・アウトレット店",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "和食・炭火焼魚定食"
+    },
+    {
+      "name": "ルフラン（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "パン（期間限定催事）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "三菱地所・サイモン株式会社",
+      "title": "秋冬のあみアウトレットに新たな魅力が続々登場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日または催事開始日",
+        "施設所在地（茨城県稲敷郡阿見町）"
+      ]
+    },
+    {
+      "publisher": "株式会社魁力屋",
+      "title": "長野県「長野平林店」2026年11月4日オープン",
+      "url": "https://www.kairikiya.co.jp/news/7079",
+      "result": "既存登録を確認"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "title": "新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "今回照合した11月上旬店舗は既存登録を確認"
+    },
+    {
+      "publisher": "株式会社タリーズコーヒージャパン",
+      "title": "2026年プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "新店舗告知を確認。既存登録との照合対象"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "Millet（あみプレミアム・アウトレット）",
+      "reason": "開店時期が12月中旬のみで日付未確定"
+    },
+    {
+      "name": "Celule（あみプレミアム・アウトレット）",
+      "reason": "開店時期が12月下旬のみで日付未確定"
+    },
+    {
+      "name": "OWNDAYS（アスティ静岡）",
+      "reason": "2027年2月上旬予定のみで日付未確定"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "count": 899,
+    "all_required_fields": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "eight_additions_present_once": "passed",
+    "old_entries_preserved_by_prewrite_check": "passed",
+    "saved_file_refetched": "passed"
+  },
+  "task_errors": [],
+  "notes": [
+    "Ami Premium Outlets temporary event stalls were included because the dataset already tracks time-limited pop-ups.",
+    "No date was inferred for entries with month/season-only announcements."
+  ]
+}
