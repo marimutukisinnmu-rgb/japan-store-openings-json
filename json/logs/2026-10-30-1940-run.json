@@ -1,0 +1,168 @@
+{
+  "run_at": "2026-10-30T19:40:08+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": {
+    "before_count": 824,
+    "added": 0,
+    "corrected": 0,
+    "removed_or_merged": 0,
+    "after_count": 824,
+    "before_blob_sha": "3eeee50b5f8b3acb04bbfe66fa8ada205d8e66fa",
+    "after_blob_sha": "d9cc5993f4c581f1c61450df9fb1bda215ed9c34",
+    "commit_sha": "9a743140e3d752366064ae2c95d1d145d30bcbca",
+    "updatetime": "2026-10-30T19:40:08+09:00",
+    "write": "success",
+    "post_write_fetch": "success",
+    "items_unchanged": true
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP 公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "candidates_checked": 13,
+      "matched_existing": 13,
+      "unmatched": 0,
+      "note": "2026-10-31および2026-11-05の候補を抽出照合。"
+    },
+    {
+      "source": "ローソン公式・全国新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "candidates_checked": 20,
+      "matched_existing": 20,
+      "unmatched": 0,
+      "note": "2026-11-01、11-04、11-05、11-06、11-12の候補を抽出照合。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "candidates_checked": 9,
+      "matched_existing": 9,
+      "unmatched": 0,
+      "note": "2026年11月の国内9店舗。海外3店舗は国内JSONの対象外。"
+    },
+    {
+      "source": "三井アウトレットパーク ジャズドリーム長島 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "candidates_checked": 8,
+      "matched_existing": 8,
+      "unmatched": 0,
+      "note": "本文中で店舗名と開店日が個別に明記された8店舗を照合。16店舗全体の一覧画像は全件の文字起こしをしていない。"
+    },
+    {
+      "source": "POP MART JAPAN 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "POP MART LUCUA SOUTH店、2026-11-24。"
+    },
+    {
+      "source": "サンリオハウス公式発表（マッシュホールディングス）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "sanrio house 渋谷PARCO店、2026-11-13。"
+    },
+    {
+      "source": "ダンデライオン・チョコレート公式",
+      "url": "https://dandelionchocolate.jp/blogs/news/kiyosumi-shirakawa-factory-open",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "清澄白河ファクトリー、2026-10-30。"
+    },
+    {
+      "source": "UNI COFFEE ROASTERY 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000084389.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "シタディーンノース新宿東京、2026-10-29。"
+    },
+    {
+      "source": "gelato pique 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "シャミネ松江店、2026-10-30。"
+    },
+    {
+      "source": "FoodStyle 東五反田店 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135992.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "2026-10-29開店。"
+    },
+    {
+      "source": "MarieBelle 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192334.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "マリベル渋谷、2026-10-28。"
+    },
+    {
+      "source": "キル フェ ボン公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "キル フェ ボン新宿、2026-11-28。"
+    },
+    {
+      "source": "串カツ田中公式",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "unmatched": 0,
+      "note": "エキシティヒロシマ店、2026-10-30。"
+    }
+  ],
+  "data_quality": {
+    "json_parse": "success",
+    "item_count": 824,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "opening_date_sort_errors": 0,
+    "exact_name_date_duplicates": 0,
+    "semantic_duplicate_candidates": [
+      [
+        "MarieBelle SHIBUYA",
+        "マリベル渋谷",
+        "2026-10-28"
+      ],
+      [
+        "RANDY‘S DONUTS 東京ソラマチ店",
+        "ランディーズドーナツ 東京スカイツリータウン・ソラマチ店",
+        "2026-10-29"
+      ],
+      [
+        "gelato pique/SNIDEL/Mila Owen（ジャズドリーム長島・リニューアル）",
+        "ジェラートピケ / スナイデル / ミラオーウェン（ジャズドリーム長島・リニューアル）",
+        "2026-10-09"
+      ],
+      [
+        "ITS'DEMO ラスカ平塚店（移転リニューアル）",
+        "イッツデモ ラスカ平塚店（移転リニューアル）",
+        "2026-11-20"
+      ]
+    ],
+    "duplicate_handling": "No deletion or merge performed; preserved records pending canonical identity confirmation."
+  },
+  "limitations": [
+    "ジャズドリーム長島の計16店舗一覧のうち、一覧画像にのみ記載された全項目は今回すべて文字起こし・照合していない。本文で個別に開店日が記載された8店舗を照合した。"
+  ],
+  "errors": [],
+  "automation_state": {
+    "enabled": true,
+    "schedule": "RRULE:FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_status_at_inspection": "in_progress",
+    "schedule_or_enabled_state_changed": false
+  }
+}
