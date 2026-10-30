@@ -1,0 +1,101 @@
+{
+  "run_timestamp": "2026-10-30T23:40:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target_file": "json/latest.json",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "before": {
+    "blob_sha": "4cab441b20b5a3604093cacb3babdc703178f5fa",
+    "item_count": 844,
+    "updatetime": "2026-10-30T22:45:20+09:00"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "item_array_changed": false,
+    "note": "確認できた新店候補は既存登録済み。日付が特定できない候補は追加せず、items配列は保持。"
+  },
+  "after": {
+    "blob_sha": "b24cc197344e3f9eb88d3584424a66d3066d49bd",
+    "commit_sha": "3256e4651512ef783797a9f1dd34617181e3caee",
+    "item_count": 844,
+    "updatetime": "2026-10-30T23:40:18+09:00"
+  },
+  "verification": {
+    "fetched_after_write": true,
+    "json_parse": true,
+    "item_count_unchanged": true,
+    "items_exactly_unchanged": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_count": 0,
+    "required_field_missing_count": 0,
+    "invalid_date_count": 0,
+    "fetched_blob_sha_matches_write_result": true
+  },
+  "sources": [
+    {
+      "name": "chocoZAP 新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "2026-10-30〜2026-11-25の掲載分を照合。確認対象は既存登録と一致。"
+    },
+    {
+      "name": "ローソン 関東エリア新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/kantou.html",
+      "result": "11月上旬の掲載候補を既存JSONと照合。登録済み。"
+    },
+    {
+      "name": "ローソン 九州エリア新店情報",
+      "url": "https://www.lawson.co.jp/newstore/kyushu.html",
+      "result": "11月上旬の掲載候補を既存JSONと照合。登録済み。"
+    },
+    {
+      "name": "ローソン 北海道エリア新店情報",
+      "url": "https://www.lawson.co.jp/newstore/hokkaidou.html",
+      "result": "11月上旬の掲載候補を既存JSONと照合。登録済み。"
+    },
+    {
+      "name": "ローソン 近畿エリア新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/kinki.html",
+      "result": "11月上旬の掲載候補を既存JSONと照合。登録済み。"
+    },
+    {
+      "name": "グランベリーパーク 2026 Autumn 新店一覧",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "PUMA、COHINA、マーガレット・ハウエルは登録済み。ReDは開店日が「10月上旬〜中旬」のため日付を確定できず追加保留。"
+    },
+    {
+      "name": "POP MART JAPAN 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店（2026-11-24）は登録済み。"
+    },
+    {
+      "name": "串カツ田中 公式新店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000027839.html",
+      "result": "串カツ田中 エキシティヒロシマ店（2026-10-30）は登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ 2026年11月新規出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "国内対象店舗は登録済み。海外店舗は国内JSON対象外。"
+    },
+    {
+      "name": "gelato pique 新店舗発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html",
+      "result": "シャミネ松江店（2026-10-30）等の確認対象は登録済み。"
+    }
+  ],
+  "errors": [
+    "今回の照合では、公式ページの一部が本文取得できない場合があり、アクセス可能な公式発表・店舗一覧を優先した。"
+  ],
+  "unconfirmed": [
+    "グランベリーパークのReDは開店日が期間表示のみで、確定日なし。追加保留。"
+  ],
+  "automation_status_observed_at_start": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null
+  }
+}
