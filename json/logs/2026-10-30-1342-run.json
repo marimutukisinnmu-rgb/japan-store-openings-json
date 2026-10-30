@@ -1,0 +1,99 @@
+{
+  "run_at": "2026-10-30T13:42:40+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "運営会社・施設運営会社の公式新店舗一覧または公式発表で、店舗名・開店日・所在地を確認できた情報のみ追加。既存データは推測で上書きせず、日付が曖昧な情報は登録保留。",
+  "sources": [
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "supports": "2026-10-30〜2026-11-25の掲載店舗90候補を既存JSONと照合。すべて登録済み。"
+    },
+    {
+      "name": "ローソン公式・全国新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "supports": "2026-10-30〜2026-11-06の新店舗候補を照合。確認した店舗は登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表（画像内店舗一覧を含む）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "supports": "2026年11月の国内9店舗を照合。すべて登録済み。海外3店舗はJSONのJapan対象外。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "supports": "POP MART LUCUA SOUTH店の2026-11-24開店を確認。既存登録済み。"
+    },
+    {
+      "name": "KENZO PARIS JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000190563.html",
+      "supports": "KENZOポップアップストア六本木ヒルズの2026-10-30開始を照合。既存登録済み。"
+    },
+    {
+      "name": "シモンズ公式発表",
+      "url": "https://www.simmons.co.jp/2026/10/29/sleepshop/",
+      "supports": "シモンズスリープショップ（ジャズドリーム長島）の2026-10-31開店、三重県桑名市の所在地を確認。既存登録済み。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島公式",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/",
+      "supports": "シモンズ（2026-10-31）およびAcne Studios（2026-11-06）の開店情報を照合。いずれも登録済み。"
+    },
+    {
+      "name": "chocoZAP公式・宇佐岩崎店の延期告知",
+      "url": "https://chocozap.jp/info/22507",
+      "supports": "宇佐岩崎店の開店予定を2026-11-03 12:00とする延期告知を再確認。既存JSONの日付と一致。"
+    },
+    {
+      "name": "セブン‐イレブン公式ニュースリリース一覧",
+      "url": "https://www.sej.co.jp/company/news_release/news/2026/",
+      "supports": "2026年10月の公式ニュース一覧を確認。今回新規登録できる具体的な国内店舗開店情報は見つからず。"
+    }
+  ],
+  "before": {
+    "item_count": 815,
+    "blob_sha": "802794129d3d80f7e55d1ad244ea8ccfbd4a1e7f",
+    "updatetime": "2026-10-30T12:40:05+09:00"
+  },
+  "additions": [],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 815,
+    "blob_sha": "2904877014d356523eaa9c5fb398f5c18ba96072",
+    "commit_sha": "938753b48f507985116103924e099d0de1ced99c",
+    "updatetime": "2026-10-30T13:42:40+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "official_candidate_matches": "33/33 manually checked named candidates; 90/90 chocoZAP listings in the checked 2026-10-30 to 2026-11-25 range present",
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "items_unchanged": true,
+    "saved_blob_sha_matches": true,
+    "overall": "passed"
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "ReD（グランベリーパーク）",
+      "reason": "前回確認済みの施設公式表記は「10月上旬～中旬」の範囲表現のみ。今回、正確な日付を確定できる新たな公式発表を確認できず、登録保留を維持。"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "前回確認済みの公式発表は2026年12月予定まで。今回、具体的な開店日を確認できる新たな公式情報を確認できず、登録保留を維持。"
+    }
+  ],
+  "data_quality_notes": [
+    "今回の調査範囲では新規追加・訂正・削除は0件。",
+    "latest.jsonはupdatetimeのみ更新し、815件のitems配列は完全に保持した。",
+    "chocoZAP、ローソン、セカンドリテイリング、POP MART、KENZO、シモンズ、ジャズドリーム長島の確認候補は既存登録済み。",
+    "chocoZAP宇佐岩崎店は2026-10-28付延期告知により2026-11-03 12:00が確認でき、既存日付と一致。"
+  ],
+  "automation_state_at_run_start": {
+    "is_enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo"
+  }
+}
