@@ -92,20 +92,60 @@
       "note": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店、10月30日開店として登録済み。"
     },
     {
-      "source": "WORKMAN公式店舗情報",
-      "url": "https://www.workman.co.jp/store/",
-      "candidates_checked": 6,
-      "matched_existing": 6,
-      "added": 0,
-      "note": "トリアス久山、松阪大黒田、イオンモール旭川西、イオンモール京都五条、イオンモール伊達、まえばし赤城モールの各店を照合。"
-    },
-    {
       "source": "ラーメン魁力屋公式・新店舗情報",
       "url": "https://www.kairikiya.co.jp/news/grandopen",
       "candidates_checked": 3,
       "matched_existing": 3,
       "added": 0,
       "note": "長野平林店、足利店、東広島西条店を照合。"
+    },
+    {
+      "source": "Workman Colors トリアス久山店",
+      "url": "https://www.workman.co.jp/store/workman-colors-%E3%83%88%E3%83%AA%E3%82%A2%E3%82%B9%E4%B9%85%E5%B1%B1%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "WORKMAN Plus 松阪大黒田店",
+      "url": "https://www.workman.co.jp/store/workman-plus-%E6%9D%BE%E9%98%AA%E5%A4%A7%E9%BB%92%E7%94%B0%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "Workman Colors イオンモール旭川西店",
+      "url": "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E6%97%AD%E5%B7%9D%E8%A5%BF%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "Workman Colors イオンモール京都五条店",
+      "url": "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E4%BA%AC%E9%83%BD%E4%BA%94%E6%9D%A1%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "Workman Colors イオンモール伊達店",
+      "url": "https://www.workman.co.jp/store/workman-colors-%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E4%BC%8A%E9%81%94%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "WORKMAN Plus まえばし赤城モール店",
+      "url": "https://www.workman.co.jp/store/workman-plus-%E3%81%BE%E3%81%88%E3%81%B0%E3%81%97%E8%B5%A4%E5%9F%8E%E3%83%A2%E3%83%BC%E3%83%AB%E5%BA%97",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "公式店舗ページで開店日を確認。既存JSONに登録済み。"
     }
   ],
   "data_quality": {
