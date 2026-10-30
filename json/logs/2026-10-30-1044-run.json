@@ -1,0 +1,126 @@
+{
+  "run_at": "2026-10-30T10:44:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "運営会社・施設運営会社の公式新店舗一覧または公式発表で、店舗名・開店日・所在地を確認できた情報のみ追加。既存データは推測で上書きせず、日付が曖昧な情報は登録保留。",
+  "sources": [
+    {
+      "name": "すき家公式・新着情報／新店情報",
+      "url": "https://www.sukiya.jp/news/",
+      "supports": "黒川北店・鹿屋共栄店の2026-10-29 9:00開店、金沢北安江店の2026-10-28開店を確認。金沢北安江店は既存登録済み。"
+    },
+    {
+      "name": "すき家公式店舗情報・黒川北店",
+      "url": "https://maps.sukiya.jp/jp/detail/87.html",
+      "supports": "黒川北店の住所（愛知県名古屋市北区黒川本通5-19-1）。"
+    },
+    {
+      "name": "すき家公式店舗情報・鹿屋共栄店",
+      "url": "https://maps.sukiya.jp/jp/detail/6630.html",
+      "supports": "鹿屋共栄店の住所（鹿児島県鹿屋市共栄町20-14）。"
+    },
+    {
+      "name": "すき家公式店舗情報・金沢北安江店",
+      "url": "https://maps.sukiya.jp/jp/detail/6629.html",
+      "supports": "金沢北安江店の住所・店舗名を再確認。既存レコードと照合。"
+    },
+    {
+      "name": "ラスカ平塚・運営会社公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "supports": "イッツデモの2026-11-20移転リニューアル、リンツの11-06、ローカルインディアの11-18、らーめん石狩の11-03を確認。後3店舗は既存登録済み。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "supports": "2026-10-30から11-25の掲載店舗を照合。確認対象は既存登録済み。"
+    },
+    {
+      "name": "ローソン公式・全国新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "supports": "2026-10-30から11-12の掲載店舗を照合。確認対象は既存登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "supports": "2026年11月の国内9店舗を照合。すべて既存登録済み。海外店舗は対象外。"
+    },
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "supports": "PUMA、COHINA、マーガレット・ハウエル等の開店日を照合。日付明示済みの確認対象は既存登録済み。"
+    },
+    {
+      "name": "ダンデライオン・チョコレート公式",
+      "url": "https://dandelionchocolate-jp.com/blogs/news/kiyosumi-shirakawa-factory-open",
+      "supports": "清澄白河ファクトリーの2026-10-30開店を再確認。既存登録済み。"
+    }
+  ],
+  "before": {
+    "item_count": 793,
+    "blob_sha": "bea11ce27f57e288842e88c40040beb8875c15af",
+    "updatetime": "2026-10-30T09:42:23+09:00"
+  },
+  "additions": [
+    {
+      "name": "すき家 黒川北店",
+      "prefecture": "愛知県",
+      "city": "名古屋市北区",
+      "opening_date": "2026-10-29",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "すき家 鹿屋共栄店",
+      "prefecture": "鹿児島県",
+      "city": "鹿屋市",
+      "opening_date": "2026-10-29",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "イッツデモ ラスカ平塚店（移転リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨（移転リニューアル）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 796,
+    "blob_sha": "1da57d3dbe4ad19879cf6bf1c2222f8495f0eaa1",
+    "commit_sha": "b9e00e010aa7d3072bd10b5909caff8cd7c4adc9",
+    "updatetime": "2026-10-30T10:44:32+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found_after_fetch": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "saved_blob_sha_matches": true,
+    "overall": "passed"
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "ReD（グランベリーパーク）",
+      "reason": "公式施設ページの表記は「10月上旬～中旬」で、正確な開店日を確認できないため登録保留。"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定までで、具体的な開店日が未確認のため登録保留。"
+    }
+  ],
+  "data_quality_notes": [
+    "ローソン・chocoZAP・セカンドリテイリンググループの公式一覧は既存JSONとの照合を行い、重複追加を避けた。",
+    "すき家の金沢北安江店は既存登録済みのため再追加していない。",
+    "ラスカ平塚のリンツ ショコラ ブティック、ローカルインディア、らーめん石狩は既存登録済み。イッツデモのみ未登録だったため追加した。",
+    "更新前の全793レコードを保存後データに含むことを照合した。"
+  ],
+  "automation_state_at_run_start": {
+    "is_enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo"
+  }
+}
