@@ -1,0 +1,129 @@
+{
+  "run_at": "2026-10-30T17:41:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "source_policy": "運営会社・施設運営会社の公式新店舗情報、または発行元が明確な公式プレスリリースで、店舗名・開店日・所在地を確認できた情報のみ追加。既存データは推測で上書きせず、曖昧な日付や対象外の施設は追加しない。",
+  "before": {
+    "blob_sha": "f1e2d0d2c2fb3383556eb825821b623401738e2f",
+    "item_count": 821,
+    "updatetime": "2026-10-30T16:49:18+09:00"
+  },
+  "sources": [
+    {
+      "publisher": "ローソン公式",
+      "title": "新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_facts": "公式一覧の2026-10-13〜2026-11-13掲載分を照合。2026-11-13開店の「梅屋敷」（東京都大田区蒲田2-4-5）と「東郷深池」（愛知県愛知郡東郷町中央土地区画整理事業44街区6・7番の一部）が既存JSONに未登録だったため追加。2026-10-30〜2026-11-12の確認対象は既存登録済み。"
+    },
+    {
+      "publisher": "株式会社クリエイト・レストランツ・ホールディングス／SFPダイニング株式会社",
+      "title": "きづなすし 上野店 2026年11月6日開店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000166.000177867.html",
+      "checked_facts": "2026-11-06開店、東京都台東区上野6丁目8-13 東京堂ビル2Fを確認。既存JSONに未登録だったため追加。"
+    },
+    {
+      "publisher": "串カツ田中公式",
+      "title": "店舗情報・新規オープン告知",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "checked_facts": "膳所店（2026-10-01）、和歌山駅前店（2026-10-23）、エキシティヒロシマ店（2026-10-30）を照合。すべて既存JSONに登録済み。"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked_facts": "2026-11-24開店、大阪府大阪市北区LUCUA SOUTH 13Fを確認。既存JSONの「POP MART（LUCUA SOUTH）」と同一店舗として扱い、重複追加しなかった。"
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "title": "2026年11月新規出店のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "related_image": "https://prcdn.freetls.fastly.net/release_image/141539/267/141539-267-5fb86c404f4c6cc4a3789c14c803a7b4-1051x1137.jpg",
+      "checked_facts": "発表内の画像掲載一覧を確認。国内9店舗はすべて既存JSONに登録済み。海外3店舗はJapan対象外。"
+    },
+    {
+      "publisher": "ラーメン魁力屋公式",
+      "title": "新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked_facts": "足利店（2026-10-23）、東広島西条店（2026-10-19）、長野平林店（2026-11-04）を照合。確認対象は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "きづなすし 上野店の発行元公式発表",
+      "title": "開店日時・所在地",
+      "url": "https://prtimes.jp/main/html/rd/p/000000166.000177867.html",
+      "checked_facts": "店名、開店日、所在地を確認。既存レコードなし。"
+    }
+  ],
+  "additions": [
+    {
+      "name": "きづなすし 上野店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-06",
+      "category": "寿司",
+      "source": "https://prtimes.jp/main/html/rd/p/000000166.000177867.html"
+    },
+    {
+      "name": "ローソン 梅屋敷",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-13",
+      "category": "コンビニ",
+      "source": "https://www.lawson.co.jp/newstore/smt/"
+    },
+    {
+      "name": "ローソン 東郷深池",
+      "prefecture": "愛知県",
+      "city": "愛知郡東郷町",
+      "opening_date": "2026-11-13",
+      "category": "コンビニ",
+      "source": "https://www.lawson.co.jp/newstore/smt/"
+    }
+  ],
+  "changes": {
+    "added": 3,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0
+  },
+  "after": {
+    "blob_sha": "03193a6a228326bacc830e4527f64d0ef4f07650",
+    "item_count": 824,
+    "updatetime": "2026-10-30T17:41:19+09:00",
+    "update_commit_sha": "38e73ae41cdd8db229b58464cee4429aba690f7d",
+    "update_content_sha": "03193a6a228326bacc830e4527f64d0ef4f07650",
+    "saved_readback": "verified"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_items_readback": "3/3 confirmed",
+    "existing_items_preserved": "821/821",
+    "duplicate_name_date_pairs": 0,
+    "missing_required_fields": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "changed_files": [
+      "json/latest.json"
+    ],
+    "overall": "passed"
+  },
+  "data_quality_notes": [
+    "ローソン公式一覧の2026-11-13分2店舗が既存JSONに未登録だったため補完。",
+    "きづなすし 上野店は発行元の公式プレスリリースで開店日・所在地を確認して追加。",
+    "POP MART LUCUA SOUTH店は既存の「POP MART（LUCUA SOUTH）」と同一店舗と判断し重複追加せず。",
+    "歯科クリニックの新規開院情報は小売・商業店舗の対象範囲と異なるため、店舗JSONには追加していない。"
+  ],
+  "limitations": [
+    "確認した公式情報源の範囲に限られ、全国の全事業者・全店舗を網羅したものではない。",
+    "既存データ内の過去の表記違い候補は今回修正せず保持。"
+  ],
+  "automation_state_at_run_start": {
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "default_timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_time": "2026-10-30T07:53:18.154081+00:00",
+    "note": "有効状態と毎時スケジュールは確認できた。管理情報上のnext_run_timeはnullのため、次回予定時刻は確定できない。"
+  }
+}
