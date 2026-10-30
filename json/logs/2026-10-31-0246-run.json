@@ -1,0 +1,88 @@
+{
+  "run_at": "2026-10-31T02:46:49+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "result": {
+    "before_count": 882,
+    "after_count": 883,
+    "added_count": 1,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "before_blob_sha": "f3b260ec0065f0d56c25ba225e02a92bee1bd04b",
+    "after_blob_sha": "86b009ca3118988f69eb0800a6f6ea96e0df71c7",
+    "update_commit_sha": "9561bab44894eea82e43a4b96e82a42ee19d42ef"
+  },
+  "additions": [
+    {
+      "name": "ムラサキパーク天神ストリート店（珈琲紫併設）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "スポーツ用品・屋内スケートパーク・カフェ（複合店舗）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000149.000018635.html",
+      "source_publisher": "株式会社ムラサキスポーツ",
+      "source_published_at": "2026-10-19",
+      "evidence": "The company release states the shop and cafe will open on 2026-10-30 and gives the address in Fukuoka-shi Chuo-ku."
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "candidate_names_checked": 39,
+      "name_matches_in_existing_data": 39,
+      "action": "No change"
+    },
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "candidate_names_checked": 28,
+      "name_matches_in_existing_data": 28,
+      "action": "No change"
+    },
+    {
+      "name": "Blue Sky Laundry November 2026 opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "candidate_stores_checked": 10,
+      "found_in_existing_data": 10,
+      "action": "No change"
+    },
+    {
+      "name": "Second Retailing Group November 2026 opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "announced_total": 12,
+      "note": "The individual-store matrix is embedded as an image in the official release and was not fully machine-readable in this run. No new entries or corrections were made from that matrix."
+    },
+    {
+      "name": "Other recent store announcements",
+      "checked": [
+        "FIT-EASY 寝屋川店",
+        "PRONTO 新小岩店",
+        "Penno Penna 大船ルミネウィング店",
+        "キル フェ ボン新宿",
+        "OSTERIA SALVATORE 阿佐ヶ谷",
+        "POP MART（LUCUA SOUTH）"
+      ],
+      "result": "All six names were already present in latest.json."
+    }
+  ],
+  "validation": {
+    "json_parse_before_write": true,
+    "json_parse_after_write": true,
+    "date_format_errors": 0,
+    "duplicate_name_and_opening_date_pairs": 0,
+    "sorted_by_opening_date": true,
+    "all_previous_882_items_retained": true,
+    "added_record_present_after_refetch": true,
+    "refetched_blob_sha_matches_write_response": true
+  },
+  "errors_and_unverified": [
+    "The Second Retailing official release's detailed store list was image-only in the extracted page text; its individual rows were not used for new writes."
+  ],
+  "task_status_checked": {
+    "is_enabled_at_peek": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null
+  }
+}
