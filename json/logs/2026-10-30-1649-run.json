@@ -1,0 +1,96 @@
+{
+  "run_at": "2026-10-30T16:49:18+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "blob_sha": "43457b008e92503704c8906036198688c9e46a01",
+    "items": 821,
+    "updatetime": "2026-10-30T15:46:21+09:00"
+  },
+  "sources": [
+    {
+      "publisher": "chocoZAP公式",
+      "title": "新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_facts": "公式一覧の2026-10-30〜2026-11-25掲載分を既存JSONと照合。今回確認した掲載店舗はすべて登録済み。10/30・10/31分も確認。"
+    },
+    {
+      "publisher": "ローソン公式",
+      "title": "全国新店情報（北海道・関東・中部・近畿の各地域ページ）",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "related_urls": [
+        "https://www.lawson.co.jp/newstore/hokkaidou.html",
+        "https://mldata.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://mldata.lawson.co.jp/newstore/kinki.html"
+      ],
+      "checked_facts": "検索結果・地域別新店一覧で確認した10/30〜11/12の候補（白楽駅前、小川駅西口、岩内町万代、帯広西7条北二丁目、羽島市役所南、富山八尾大杉、京都山城総合医療センター、伏見久我西出町、神戸学園西町四丁目など）は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "ケーズホールディングス",
+      "title": "ケーズデンキ オープン情報一覧",
+      "url": "https://www.ksdenki.co.jp/store/open/",
+      "checked_facts": "山口店（山口県山口市、2026-10-29オープン）は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "title": "2026年11月新規出店のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked_facts": "画像掲載の12店舗一覧を確認。国内9店舗はすべて既存JSONに登録済み。香港・台湾・タイの3店舗は国内対象外。"
+    },
+    {
+      "publisher": "東急株式会社",
+      "title": "新綱島MICCA 2026年10月28日グランドオープン・入居テナント一覧",
+      "url": "https://prtimes.jp/main/html/rd/p/000001378.000010686.html",
+      "checked_facts": "施設とテナント一覧を照合。既存JSONに新綱島MICCAおよび掲載済みテナントが登録されていることを確認。"
+    },
+    {
+      "publisher": "株式会社DREAM ON",
+      "title": "flour+water 綱島店・輪餅屋 綱島店 2026年10月28日グランドオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000156553.html",
+      "checked_facts": "2店舗の店名、2026-10-28開店、神奈川県横浜市港北区綱島東1-8-29を確認。両方とも既存JSONに登録済み。"
+    },
+    {
+      "publisher": "JR西日本SC開発株式会社",
+      "title": "LUCUA SOUTH 第2期・28ブランド開業",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "checked_facts": "2026-11-24開業の28ブランドおよび12月の個別開業4ブランドを照合。今回確認した対象は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART 沖縄浦添PARCO CITY店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "checked_facts": "2026-11-06開店、沖縄県浦添市の店舗は既存JSONに登録済み。"
+    }
+  ],
+  "additions": [],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0
+  },
+  "metadata_only_update": true,
+  "after": {
+    "blob_sha": "f1e2d0d2c2fb3383556eb825821b623401738e2f",
+    "count": 821,
+    "expected_count": 821,
+    "items_unchanged": true,
+    "duplicate_name_date_pairs": [],
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "sorted": true,
+    "json_parse": "ok",
+    "updatetime": "2026-10-30T16:49:18+09:00",
+    "update_commit_sha": "788787a6fff2068949acbfa6cc37f8d07647c567",
+    "update_content_sha": "f1e2d0d2c2fb3383556eb825821b623401738e2f"
+  },
+  "data_quality_notes": [
+    "ITS'DEMO ラスカ平塚店（移転リニューアル）とイッツデモ ラスカ平塚店（移転リニューアル）は同日・同施設の表記違いによる重複の可能性がある。削除・統合は行わず保留。",
+    "新綱島MICCAのテナント一覧にある鍋島ジャッキー餃子楼は「11月オープン予定」とのみ記載され、正確な開店日を確認できないため登録対象外。"
+  ],
+  "limitations": [
+    "今回の確認は上記の公式・運営元情報源に限られ、全国の全事業者・全店舗を網羅したものではない。"
+  ]
+}
