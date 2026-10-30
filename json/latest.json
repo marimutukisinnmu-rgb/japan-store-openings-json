@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T04:47:00+09:00",
+  "updatetime": "2026-10-31T05:46:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3427,6 +3427,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "レゴ ストア（ジャズドリーム長島・リニューアル）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-29",
+      "category": "玩具・ブロック（リニューアル）"
+    },
+    {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
       "city": "神戸市北区",
@@ -5679,6 +5686,13 @@
       "city": "村上市",
       "opening_date": "2026-11-20",
       "category": "コインランドリー"
+    },
+    {
+      "name": "居酒屋 幸屋（WabiSabi TOKYO・期間限定）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定居酒屋（復興支援）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
