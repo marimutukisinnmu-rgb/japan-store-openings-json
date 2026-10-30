@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T08:46:03+09:00",
+  "updatetime": "2026-10-30T09:42:23+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -67,6 +67,13 @@
       "category": "ファッション・アウトレット（複合店）"
     },
     {
+      "name": "しゃぶ葉 札幌桑園店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-09-26",
+      "category": "しゃぶしゃぶ"
+    },
+    {
       "name": "LAVENHAM（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -86,6 +93,13 @@
       "city": "新潟市中央区",
       "opening_date": "2026-09-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "ペルティカ 鎌倉店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-09-28",
+      "category": "レストラン"
     },
     {
       "name": "すし松 八千代店",
@@ -786,6 +800,13 @@
       "city": "ひたちなか市",
       "opening_date": "2026-10-05",
       "category": "買取専門店"
+    },
+    {
+      "name": "ペルティカ 市川店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-10-05",
+      "category": "レストラン"
     },
     {
       "name": "I’m donut？ 寺町店",
@@ -3609,6 +3630,27 @@
       "category": "グローサリー・ギフトショップ"
     },
     {
+      "name": "ニトリ 法人事業大阪ショールーム",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-30",
+      "category": "法人向けショールーム・リフォーム"
+    },
+    {
+      "name": "FUTAGO JAPAN 関門海峡ミュージアム店",
+      "prefecture": "福岡県",
+      "city": "北九州市門司区",
+      "opening_date": "2026-10-30",
+      "category": "ジュエリー・ブライダルジュエリー"
+    },
+    {
+      "name": "GR caffè（GABRIELE RIVA）",
+      "prefecture": "長野県",
+      "city": "小諸市",
+      "opening_date": "2026-10-30",
+      "category": "カフェ・ショコラ・パティスリー・ジェラート"
+    },
+    {
       "name": "ASICS PICKLEBALL CONNECT",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -3763,6 +3805,27 @@
       "category": "リラクゼーション"
     },
     {
+      "name": "Lino Style 流山街道店",
+      "prefecture": "千葉県",
+      "city": "流山市",
+      "opening_date": "2026-10-31",
+      "category": "整体・ヨガ・ピラティス"
+    },
+    {
+      "name": "トップランク西宮",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "opening_date": "2026-10-31",
+      "category": "自動車販売・整備"
+    },
+    {
+      "name": "最強買取 西宮店",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "opening_date": "2026-10-31",
+      "category": "自動車買取"
+    },
+    {
       "name": "LAVA 札幌琴似店（拡大リニューアル）",
       "prefecture": "北海道",
       "city": "札幌市西区",
@@ -3817,6 +3880,13 @@
       "city": "旭川市",
       "opening_date": "2026-11-01",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "STUDIO IVY 東三国店",
+      "prefecture": "大阪府",
+      "city": "大阪市淀川区",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティス"
     },
     {
       "name": "合 Shinjuku",
@@ -4062,6 +4132,13 @@
       "city": "羽生市",
       "opening_date": "2026-11-05",
       "category": "オムライス（リニューアル）"
+    },
+    {
+      "name": "アンダーアーマー ブランドハウス あべの",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-05",
+      "category": "スポーツ用品・アパレル"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -4435,6 +4512,13 @@
       "category": "期間限定ポップアップ（ファッション）"
     },
     {
+      "name": "PISOLA千葉公園店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-11",
+      "category": "イタリアン"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -4748,6 +4832,13 @@
       "city": "堺市美原区",
       "opening_date": "2026-11-17",
       "category": "音楽・映像ソフト・エンタメグッズ"
+    },
+    {
+      "name": "ドン・キホーテ東根店",
+      "prefecture": "山形県",
+      "city": "東根市",
+      "opening_date": "2026-11-17",
+      "category": "ディスカウントストア"
     },
     {
       "name": "chocoZAP 上越東本町",
@@ -5373,6 +5464,13 @@
       "category": "洋菓子・カフェ"
     },
     {
+      "name": "ドラえもん未来デパート（リニューアル）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-01",
+      "category": "キャラクター公式ショップ（リニューアル）"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -5427,6 +5525,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-10",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "P.Seven茶香水 表参道ブランドコンセプトストア",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-10",
+      "category": "フレグランス・ライフスタイル"
     },
     {
       "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
