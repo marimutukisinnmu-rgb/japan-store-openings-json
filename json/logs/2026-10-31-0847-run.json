@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-10-31T08:47:48+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 899,
+    "blob_sha": "35f03613c6dbe70094eb3c49adebe51307d8261e"
+  },
+  "after": {
+    "count": 903,
+    "blob_sha": "c50f477c09f7b2c87c2d450fe8a8e204bd7362f4",
+    "commit_sha": "a24e18156f05657c82845be922adee4bb9ff21b2"
+  },
+  "added_count": 4,
+  "additions": [
+    {
+      "name": "東横INN大船駅西口",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-10-31",
+      "category": "ホテル"
+    },
+    {
+      "name": "東横INN豊橋駅前大通り",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-06",
+      "category": "ホテル"
+    },
+    {
+      "name": "東横INN JR宇治駅南口",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-12-25",
+      "category": "ホテル"
+    },
+    {
+      "name": "東横INN京都長岡京",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "opening_date": "2027-01-22",
+      "category": "ホテル"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社東横イン",
+      "title": "新店「東横INN大船駅西口」10月31日オープン（2026-10-28）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000117.000009718.html",
+      "verified_fields": [
+        "店舗名",
+        "開業日",
+        "住所（神奈川県鎌倉市台1-1-6）"
+      ]
+    },
+    {
+      "publisher": "株式会社東横イン",
+      "title": "新規オープンホテル一覧・公式ホテル詳細",
+      "url": "https://www.toyoko-inn.com/campaign/open_soon/",
+      "verified_fields": [
+        "東横INN豊橋駅前大通り：2026-11-06、愛知県豊橋市駅前大通3-2-1",
+        "東横INN JR宇治駅南口：2026-12-25、京都府宇治市宇治壱番26-2",
+        "東横INN京都長岡京：2027-01-22、京都府長岡京市開田2-1-3"
+      ]
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "title": "2026年11月新規出店のお知らせ（2026-10-29、一覧画像を含む）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "国内9店舗の開店日・店舗名・所在地を照合。既存JSONに登録済み。"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "title": "ジャズドリーム長島 新規・リニューアル計16店舗（2026-10-29）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "日付確定済みの対象店舗は既存登録を確認。Timberlandは12月予定のみのため保留。"
+    },
+    {
+      "publisher": "SYNRA GROUP",
+      "title": "Eleanor spa&treatment 2026年秋の5店舗",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "5店舗すべて既存登録済み。"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART LUCUA SOUTH店 2026-11-24オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "キルフェボン株式会社",
+      "title": "キル フェ ボン新宿 2026-11-28オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "株式会社サイプレス",
+      "title": "築地食堂 源ちゃん イオンモール伊達店 2026-11-27オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+      "result": "既存登録済み。"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "東横INN長岡駅前",
+      "reason": "公式の新規オープン案内では2027年2月予定までで、具体的な開業日が未確認。"
+    },
+    {
+      "name": "東横INN鶴岡駅",
+      "reason": "公式の新規オープン案内では2027年2月予定までで、具体的な開業日が未確認。"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定のみで、具体的な開店日が未確定。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "count": 903,
+    "required_fields": "passed",
+    "valid_iso_dates": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "four_additions_present_once": "passed",
+    "old_entries_preserved_in_original_order": "passed",
+    "saved_file_refetched": "passed",
+    "saved_blob_sha_matches_write_result": "passed",
+    "period_extended_to": "2027-01-22"
+  },
+  "task_errors": [],
+  "notes": [
+    "既存データにホテルカテゴリが存在するため、公式に開業日と所在地を確認できた東横INN4施設を追加。",
+    "セカンドリテイリングの国内9店舗はすべて既存登録済み。淵野辺南店・カプセル楽局 PREMIUM 経堂店も確認。",
+    "日付が月単位のみの候補は登録せず保留。"
+  ]
+}
