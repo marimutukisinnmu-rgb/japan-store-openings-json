@@ -1,0 +1,136 @@
+{
+  "run_at": "2026-10-30T20:47:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": {
+    "before_count": 824,
+    "added": 3,
+    "corrected": 0,
+    "removed_or_merged": 0,
+    "after_count": 827,
+    "before_blob_sha": "d9cc5993f4c581f1c61450df9fb1bda215ed9c34",
+    "after_blob_sha": "57d118ca1aaa7b5257a5cb31f5b2d495658ffc40",
+    "commit_sha": "0690585836dc56766a7048d05c3f23546c246f02",
+    "updatetime": "2026-10-30T20:47:09+09:00",
+    "write": "success",
+    "post_write_fetch": "success",
+    "existing_records_preserved": true
+  },
+  "additions": [
+    {
+      "name": "かつや 名古屋植田南店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-10-02",
+      "category": "とんかつ・定食",
+      "source": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=1014"
+    },
+    {
+      "name": "N+ 島忠ホームズ新川崎店",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・アパレル",
+      "source": "https://www.nitorihd.co.jp/news/items/f9a844925ac054b5a29250522eb0098c.pdf"
+    },
+    {
+      "name": "ニトリ 大谷田店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-06",
+      "category": "家具・インテリア",
+      "source": "https://shop.nitori-net.jp/nitori/spot/detail?bc=eNqLjgUAARUAuQ%3D%3D&code=0000006655&lang=ja"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "ニトリ公式店舗検索・公式店舗ニュース",
+      "url": "https://www.nitorihd.co.jp/news/2026.html",
+      "candidates_checked": 4,
+      "matched_existing": 3,
+      "added": 1,
+      "note": "ニトリ 大谷田店は11月6日開店。梅田茶屋町店、戸田駅前T-FRONTE店、デコホーム ボーノ相模大野店は登録済み。"
+    },
+    {
+      "source": "ニトリホールディングス公式PDF（N+）",
+      "url": "https://www.nitorihd.co.jp/news/items/f9a844925ac054b5a29250522eb0098c.pdf",
+      "candidates_checked": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "note": "N+ 島忠ホームズ新川崎店、2026年10月9日開店。住所は神奈川県横浜市鶴見区江ケ崎町15-30。"
+    },
+    {
+      "source": "かつや公式・店舗情報",
+      "url": "https://www.arclandservice.co.jp/katsuya/information/",
+      "candidates_checked": 2,
+      "matched_existing": 1,
+      "added": 1,
+      "note": "名古屋植田南店は10月2日開店で新規追加。中野北口店は10月21日開店として既存登録を確認。"
+    },
+    {
+      "source": "ローソン公式・全国新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "candidates_checked": 20,
+      "matched_existing": 20,
+      "added": 0,
+      "note": "11月1日、4日、5日、6日、12日、13日の掲載候補を照合。"
+    },
+    {
+      "source": "SUBWAY公式・2026年ニュース",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "candidates_checked": 3,
+      "matched_existing": 3,
+      "added": 0,
+      "note": "イオンモール大日店、住友不動産秋葉原ファーストビル店、川崎市役所前店を照合。"
+    },
+    {
+      "source": "TULLY'S COFFEE公式発表",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026/10/2026_musashikosugi.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店、10月30日開店として登録済み。"
+    },
+    {
+      "source": "WORKMAN公式店舗情報",
+      "url": "https://www.workman.co.jp/store/",
+      "candidates_checked": 6,
+      "matched_existing": 6,
+      "added": 0,
+      "note": "トリアス久山、松阪大黒田、イオンモール旭川西、イオンモール京都五条、イオンモール伊達、まえばし赤城モールの各店を照合。"
+    },
+    {
+      "source": "ラーメン魁力屋公式・新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "candidates_checked": 3,
+      "matched_existing": 3,
+      "added": 0,
+      "note": "長野平林店、足利店、東広島西条店を照合。"
+    }
+  ],
+  "data_quality": {
+    "json_parse": "success",
+    "item_count": 827,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "opening_date_sort_errors": 0,
+    "exact_name_date_duplicates": 0,
+    "all_added_records_verified_after_fetch": true,
+    "existing_records_preserved": true
+  },
+  "limitations": [
+    "ドン・キホーテ公式ドメインはrobots.txtによるアクセス制限で取得できず、同系列の最新出店情報は未確認。",
+    "ニトリ公式アーカイブ内の2025年10月の店舗発表は対象期間外のため追加対象から除外。"
+  ],
+  "errors": [
+    "ドン・キホーテ公式ドメインへのアクセスがrobots.txtによりブロックされた。"
+  ],
+  "automation_state": {
+    "enabled": true,
+    "schedule": "RRULE:FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_status_at_inspection": "in_progress",
+    "schedule_or_enabled_state_changed": false
+  }
+}
