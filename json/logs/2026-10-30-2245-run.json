@@ -1,0 +1,214 @@
+{
+  "run_at": "2026-10-30T22:45:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": {
+    "before_count": 833,
+    "added": 11,
+    "corrected": 1,
+    "removed_or_merged": 0,
+    "after_count": 844,
+    "before_blob_sha": "6e8e5a55e2d81fa0f886a1738644c8671a895af2",
+    "after_blob_sha": "4cab441b20b5a3604093cacb3babdc703178f5fa",
+    "commit_sha": "9592e9b1e3ad563cdb89cd518513c7b05a6a0de1",
+    "updatetime": "2026-10-30T22:45:20+09:00",
+    "write": "success",
+    "post_write_fetch": "success",
+    "existing_records_preserved": true,
+    "verification": "success"
+  },
+  "additions": [
+    {
+      "name": "WR.Yoyogi Park",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "オールデイダイニング・カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html"
+    },
+    {
+      "name": "ブルースカイランドリー ラ・ムー福崎店",
+      "prefecture": "兵庫県",
+      "city": "神崎郡福崎町",
+      "opening_date": "2026-11-05",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ドラッグストアモリ中之庄店",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "opening_date": "2026-11-06",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー スギ薬局敦賀南店",
+      "prefecture": "福井県",
+      "city": "敦賀市",
+      "opening_date": "2026-11-13",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ダイシン古川店",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "opening_date": "2026-11-13",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ダイナム石川羽咋店",
+      "prefecture": "石川県",
+      "city": "羽咋市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー オートバックス本庄店",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー 原信村上西店",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ドミー渡津店",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ウェスタまるき山口大内店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ブルースカイランドリー ひらせいホームセンター五泉ビッグロール店",
+      "prefecture": "新潟県",
+      "city": "五泉市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    }
+  ],
+  "corrections": [
+    {
+      "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "before_opening_date": "2026-11-05",
+      "after_opening_date": "2026-11-06",
+      "source": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "note": "イオンモール羽生公式告知は2026-11-06を明記。既存の2026-11-05を公式施設情報に基づき訂正。"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "株式会社ジーアイビー／ブルースカイランドリー公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "candidates_checked": 10,
+      "matched_existing": 0,
+      "added": 10,
+      "note": "2026年11月の新規10店舗について、店名・住所・開店日を発表本文で確認。"
+    },
+    {
+      "source": "株式会社SAL公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "candidates_checked": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "note": "WR.Yoyogi Park。2026-11-06開店、東京都渋谷区富ヶ谷1丁目14-13を確認。"
+    },
+    {
+      "source": "イオンモール羽生公式・ポムの樹リニューアル告知",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "corrected": 1,
+      "note": "既存の2026-11-05を、公式告知に明記された2026-11-06へ訂正。"
+    },
+    {
+      "source": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "candidates_checked": 0,
+      "matched_existing": 0,
+      "added": 0,
+      "note": "最新一覧を確認。今回追加候補との照合対象として件数集計は行わず、既存レコードの再確認に利用。"
+    },
+    {
+      "source": "ローソン公式・関東新店情報",
+      "url": "https://www.lawson.co.jp/newstore/kantou.html",
+      "candidates_checked": 12,
+      "matched_existing": 12,
+      "added": 0,
+      "note": "関東掲載12候補を既存JSONと照合。すべて登録済み。"
+    },
+    {
+      "source": "ニトリ公式・店舗ニュース",
+      "url": "https://www.nitori.co.jp/news/shop.html",
+      "candidates_checked": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "note": "国内向けの新店・ブランド店舗候補を照合。今回確認分は登録済み。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "candidates_checked": 9,
+      "matched_existing": 9,
+      "added": 0,
+      "note": "2026年11月の国内9店舗を照合。海外3店舗は国内JSON対象外。"
+    },
+    {
+      "source": "ラスカ平塚公式施設運営会社発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "candidates_checked": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "note": "リンツ、ITS'DEMO、ローカルインディア、らーめん石狩を照合。既存登録済み。"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "reason": "ノジマ公式プレスリリースは2026-11-05、個別店舗ページは2026-11-07と食い違うため追加保留。",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/"
+      ]
+    }
+  ],
+  "data_quality": {
+    "count": 844,
+    "expected": 844,
+    "jsonParse": "success",
+    "requiredFieldsMissing": 0,
+    "invalidDateFormat": 0,
+    "sortedAscending": true,
+    "exactNameDateDuplicates": 0,
+    "allAddedFound": true,
+    "correctedRecordCount": 1,
+    "correctedOpeningDate": "2026-11-06",
+    "blobShaMatches": true
+  },
+  "errors": [],
+  "limitations": [
+    "ノジマ ホームズ新川崎店は公式情報源間で開店日が不一致のため、追加保留。",
+    "ポムの樹 イオンモール羽生店は公式施設告知に基づき既存日付を訂正。"
+  ]
+}
