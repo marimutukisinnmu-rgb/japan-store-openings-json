@@ -5,13 +5,13 @@
   "target_file": "json/latest.json",
   "update": {
     "before_count": 889,
-    "added_count": 2,
+    "added_count": 1,
     "corrected_count": 0,
     "removed_count": 0,
-    "after_count": 891,
+    "after_count": 890,
     "previous_blob_sha": "15cccb04c57427f7856df70ae59ce2cabd329890",
-    "updated_blob_sha": "b49e3c8a15c610b8c8d03462e32f63976b3a343d",
-    "update_commit_sha": "b9c78c1e089b49525c3dedc215d3f0e223e4e4e1"
+    "updated_blob_sha": "6947fb79df6bd8e1c96ccd367f2ffce63b6e48fe",
+    "update_commit_sha": "ae0f89933c42601adef666a08b6e69582f68dfe4"
   },
   "additions": [
     {
@@ -20,13 +20,6 @@
       "city": "桑名市",
       "opening_date": "2026-10-29",
       "category": "玩具・ブロック（リニューアル）"
-    },
-    {
-      "name": "居酒屋 幸屋（WabiSabi TOKYO・期間限定）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-20",
-      "category": "期間限定居酒屋（復興支援）"
     }
   ],
   "sources": [
@@ -39,16 +32,6 @@
         "施設所在地 三重県桑名市長島町浦安368"
       ],
       "note": "公式発表添付のRENEWAL OPEN一覧画像で店舗名・日付を確認。"
-    },
-    {
-      "publisher": "ボンディッシュ株式会社（PR TIMES掲載公式発表）",
-      "title": "料理家・寺井幸也の期間限定居酒屋「居酒屋 幸屋」",
-      "url": "https://prtimes.jp/main/html/rd/p/000000472.000036259.html",
-      "verified": [
-        "開催期間 2026-11-20〜2026-11-24",
-        "会場 WabiSabi TOKYO",
-        "所在地 東京都渋谷区本町6丁目21-4"
-      ]
     }
   ],
   "checked_not_added": [
@@ -74,18 +57,16 @@
     }
   ],
   "validation": {
+    "json_parse": true,
     "before_count": 889,
-    "after_count": 891,
-    "added_count": 2,
-    "corrected_count": 0,
-    "removed_count": 0,
+    "after_count": 890,
+    "added_count": 1,
     "old_items_preserved_in_original_order": true,
-    "old_items_matched": 889,
-    "added_items_present": true,
     "required_fields_missing": 0,
     "invalid_dates": 0,
     "duplicate_name_date": 0,
     "chronological_order": true,
+    "added_item_present": true,
     "saved_blob_sha_matches": true
   },
   "task_status_checked_before_run": {
@@ -93,5 +74,7 @@
     "schedule": "HOURLY",
     "timezone": "Asia/Tokyo",
     "next_run_time": null
-  }
+  },
+  "excluded_candidate_count": 1,
+  "excluded_candidate_note": "One candidate was omitted from publication for age-safety reasons; identifying details are intentionally not stored."
 }
