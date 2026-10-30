@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T21:48:23+09:00",
+  "updatetime": "2026-10-30T22:45:20+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4358,10 +4358,17 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "ブルースカイランドリー ラ・ムー福崎店",
+      "prefecture": "兵庫県",
+      "city": "神崎郡福崎町",
+      "opening_date": "2026-11-05",
+      "category": "コインランドリー"
+    },
+    {
       "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
       "prefecture": "埼玉県",
       "city": "羽生市",
-      "opening_date": "2026-11-05",
+      "opening_date": "2026-11-06",
       "category": "オムライス（リニューアル）"
     },
     {
@@ -4608,6 +4615,20 @@
       "city": "姫路市",
       "opening_date": "2026-11-06",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "WR.Yoyogi Park",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "オールデイダイニング・カフェ"
+    },
+    {
+      "name": "ブルースカイランドリー ドラッグストアモリ中之庄店",
+      "prefecture": "愛媛県",
+      "city": "四国中央市",
+      "opening_date": "2026-11-06",
+      "category": "コインランドリー"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -5023,6 +5044,20 @@
       "category": "寿司"
     },
     {
+      "name": "ブルースカイランドリー スギ薬局敦賀南店",
+      "prefecture": "福井県",
+      "city": "敦賀市",
+      "opening_date": "2026-11-13",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー ダイシン古川店",
+      "prefecture": "宮城県",
+      "city": "大崎市",
+      "opening_date": "2026-11-13",
+      "category": "コインランドリー"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "opening_date": "2026-11-14",
       "prefecture": "千葉県",
@@ -5343,6 +5378,27 @@
       "city": "浜松市中央区",
       "opening_date": "2026-11-20",
       "category": "チーズ菓子・洋菓子"
+    },
+    {
+      "name": "ブルースカイランドリー ダイナム石川羽咋店",
+      "prefecture": "石川県",
+      "city": "羽咋市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー オートバックス本庄店",
+      "prefecture": "埼玉県",
+      "city": "本庄市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー 原信村上西店",
+      "prefecture": "新潟県",
+      "city": "村上市",
+      "opening_date": "2026-11-20",
+      "category": "コインランドリー"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -5721,6 +5777,27 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "天丼専門店"
+    },
+    {
+      "name": "ブルースカイランドリー ドミー渡津店",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー ウェスタまるき山口大内店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー ひらせいホームセンター五泉ビッグロール店",
+      "prefecture": "新潟県",
+      "city": "五泉市",
+      "opening_date": "2026-11-27",
+      "category": "コインランドリー"
     },
     {
       "name": "Guzman y Gomez 西新宿店",
