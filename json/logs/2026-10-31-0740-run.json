@@ -94,12 +94,6 @@
       "title": "新店情報",
       "url": "https://www.lawson.co.jp/newstore/smt/",
       "result": "今回照合した11月上旬店舗は既存登録を確認"
-    },
-    {
-      "publisher": "株式会社タリーズコーヒージャパン",
-      "title": "2026年プレスリリース一覧",
-      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
-      "result": "新店舗告知を確認。既存登録との照合対象"
     }
   ],
   "deferred": [
@@ -128,7 +122,8 @@
   },
   "task_errors": [],
   "notes": [
-    "Ami Premium Outlets temporary event stalls were included because the dataset already tracks time-limited pop-ups.",
-    "No date was inferred for entries with month/season-only announcements."
+    "あみプレミアム・アウトレットの期間限定店舗・催事は、既存データのポップアップ掲載方針に合わせて登録。",
+    "月中・月下旬・上旬のみで日付が確定していない店舗は登録せず保留。",
+    "今回照合したローソンおよび魁力屋の公式新店情報は既存データに登録済み。"
   ]
 }
