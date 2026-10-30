@@ -1,0 +1,144 @@
+{
+  "run_timestamp": "2026-10-31T01:43:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target_file": "json/latest.json",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "before": {
+    "blob_sha": "ce1916a23a2b6c33320246c06f032c221768d9cd",
+    "item_count": 872,
+    "updatetime": "2026-10-31T00:43:31+09:00"
+  },
+  "changes": {
+    "added": 10,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "item_array_changed": true,
+    "note": "ブルースカイランドリー公式の新店舗情報一覧から、2026-09-18〜2026-10-30開店の未登録10店舗を追加。"
+  },
+  "added_items": [
+    [
+      "ブルースカイランドリー 滑川店",
+      "2026-10-30"
+    ],
+    [
+      "ブルースカイランドリー スーパーセンタートライアル丸亀店",
+      "2026-10-22"
+    ],
+    [
+      "ブルースカイランドリー ウオロク加茂店",
+      "2026-10-16"
+    ],
+    [
+      "ブルースカイランドリー フィールエクボスタイル高丘店",
+      "2026-10-16"
+    ],
+    [
+      "ブルースカイランドリー サンデー東根中央店",
+      "2026-10-16"
+    ],
+    [
+      "ブルースカイランドリー ナフコ不二屋坂下店",
+      "2026-10-02"
+    ],
+    [
+      "ブルースカイランドリー ハッピー・ドラッグ十和田西金崎店",
+      "2026-09-30"
+    ],
+    [
+      "ブルースカイランドリー ダイレックス上越北城店",
+      "2026-09-26"
+    ],
+    [
+      "ブルースカイランドリー くすりのレデイ船木店",
+      "2026-09-25"
+    ],
+    [
+      "ブルースカイランドリー マエダストア五所川原南店",
+      "2026-09-18"
+    ]
+  ],
+  "after": {
+    "blob_sha": "f3b260ec0065f0d56c25ba225e02a92bee1bd04b",
+    "commit_sha": "6ad262cefa84cf40c74aeb0e8e42d57b4ee31cb4",
+    "item_count": 882,
+    "updatetime": "2026-10-31T01:43:18+09:00"
+  },
+  "verification": {
+    "fetched_after_write": true,
+    "json_parse": true,
+    "item_count_increased_by_10": true,
+    "all_10_added_items_present": true,
+    "all_previous_items_preserved": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_count": 0,
+    "required_field_missing_count": 0,
+    "invalid_date_count": 0,
+    "fetched_blob_sha_matches_write_result": true
+  },
+  "sources": [
+    {
+      "name": "ブルースカイランドリー公式・滑川店",
+      "url": "https://www.bsl-web.co.jp/5384/",
+      "result": "2026-10-30開店、富山県滑川市魚躬282-3を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・スーパーセンタートライアル丸亀店",
+      "url": "https://www.bsl-web.co.jp/5422/",
+      "result": "2026-10-22開店、香川県丸亀市塩屋町一丁目8番23号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・ウオロク加茂店",
+      "url": "https://www.bsl-web.co.jp/5378/",
+      "result": "2026-10-16開店、新潟県加茂市千刈3丁目1番8号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・フィールエクボスタイル高丘店",
+      "url": "https://www.bsl-web.co.jp/5376/",
+      "result": "2026-10-16開店、静岡県浜松市中央区高丘北二丁目12番29号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・サンデー東根中央店",
+      "url": "https://www.bsl-web.co.jp/5380/",
+      "result": "2026-10-16開店、山形県東根市さくらんぼ駅前3丁目8番2号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・ナフコ不二屋坂下店",
+      "url": "https://www.bsl-web.co.jp/5357/",
+      "result": "2026-10-02開店、愛知県春日井市坂下町3丁目629を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・ハッピー・ドラッグ十和田西金崎店",
+      "url": "https://www.bsl-web.co.jp/5351/",
+      "result": "2026-09-30開店、青森県十和田市西二十三番町60番22号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・ダイレックス上越北城店",
+      "url": "https://www.bsl-web.co.jp/5343/",
+      "result": "2026-09-26開店、新潟県上越市北城町三丁目3番22号を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・くすりのレデイ船木店",
+      "url": "https://www.bsl-web.co.jp/5341/",
+      "result": "2026-09-25開店、愛媛県新居浜市船木甲4576-6を確認。"
+    },
+    {
+      "name": "ブルースカイランドリー公式・マエダストア五所川原南店",
+      "url": "https://www.bsl-web.co.jp/5331/",
+      "result": "2026-09-18開店、青森県五所川原市大字稲実字米崎123-1を確認。"
+    }
+  ],
+  "errors": [],
+  "unconfirmed": [
+    "東京上野矯正歯科は2026-10-31開院の発表を確認したが、診療所であり今回の店舗・商業施設データには含めず、追加していない。",
+    "前回から保留中のノジマ ホームズ新川崎店の日付不一致は本実行では再調査していない。既存データは変更していない。"
+  ],
+  "automation_status_observed": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "note": "実行前の管理情報で有効状態と毎時スケジュールを確認。今回の更新ではスケジュールを変更していない。"
+  }
+}
