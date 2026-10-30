@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T09:42:23+09:00",
+  "updatetime": "2026-10-30T10:44:32+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3140,6 +3140,20 @@
       "category": "米由来食品・カフェ"
     },
     {
+      "name": "すき家 黒川北店",
+      "prefecture": "愛知県",
+      "city": "名古屋市北区",
+      "opening_date": "2026-10-29",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "すき家 鹿屋共栄店",
+      "prefecture": "鹿児島県",
+      "city": "鹿屋市",
+      "opening_date": "2026-10-29",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
       "city": "神戸市北区",
@@ -5070,6 +5084,13 @@
       "city": "浜松市中央区",
       "opening_date": "2026-11-20",
       "category": "チーズ菓子・洋菓子"
+    },
+    {
+      "name": "イッツデモ ラスカ平塚店（移転リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨（移転リニューアル）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
