@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T16:49:18+09:00",
+  "updatetime": "2026-10-30T17:41:19+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4547,6 +4547,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "きづなすし 上野店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-06",
+      "category": "寿司"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -4937,6 +4944,20 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "ローソン 梅屋敷",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-13",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 東郷深池",
+      "prefecture": "愛知県",
+      "city": "愛知郡東郷町",
+      "opening_date": "2026-11-13",
+      "category": "コンビニ"
     },
     {
       "name": "chocoZAP 白井堀込",
