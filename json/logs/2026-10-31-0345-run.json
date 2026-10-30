@@ -1,0 +1,128 @@
+{
+  "run_at": "2026-10-31T03:45:03+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "blob_sha": "86b009ca3118988f69eb0800a6f6ea96e0df71c7",
+    "item_count": 883,
+    "updatetime": "2026-10-31T02:46:49+09:00"
+  },
+  "sources": [
+    {
+      "publisher": "株式会社ベネクス",
+      "title": "neverbetterが11月15日より駒沢にオープン",
+      "published_at": "2026-10-30",
+      "url": "https://prtimes.jp/main/html/rd/p/000000326.000065392.html",
+      "verified_fields": [
+        "店舗名",
+        "2026-11-15",
+        "東京都世田谷区駒沢4丁目13-10"
+      ]
+    },
+    {
+      "publisher": "株式会社天満屋ストア",
+      "title": "天満屋ハピーズ西大寺モール 専門店オープン時期決定のお知らせ",
+      "published_at": "2026-07-08",
+      "url": "https://www.tenmaya-store.co.jp/assets/images/sys/2026/07/NR_260708_1.pdf",
+      "verified_fields": [
+        "施設名",
+        "岡山市東区西大寺南1丁目2番5号",
+        "7月から順次オープンし11月に全専門店が揃う"
+      ]
+    },
+    {
+      "publisher": "一般社団法人 日本ショッピングセンター協会",
+      "title": "2026年オープンSC一覧表",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "verified_fields": [
+        "天満屋ハピーズ西大寺モールのグランドオープン日: 2026-11-12",
+        "注19: 7月より順次オープン、11月12日はグランドオープン日"
+      ]
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "chocoZAP公式新店舗一覧",
+      "checked": 51,
+      "already_registered": 51,
+      "missing": 0
+    },
+    {
+      "source": "ローソン公式新店舗一覧",
+      "checked": 28,
+      "already_registered": 28,
+      "missing": 0
+    },
+    {
+      "source": "セカンドリテイリング公式11月一覧（国内）",
+      "checked": 9,
+      "already_registered": 9,
+      "missing": 0
+    },
+    {
+      "source": "ゆで太郎公式新着・店舗一覧",
+      "checked": 3,
+      "already_registered": 3,
+      "missing": 0
+    },
+    {
+      "source": "ラスカ平塚公式11月発表",
+      "checked": 4,
+      "already_registered": 4,
+      "missing": 0
+    },
+    {
+      "source": "SYNRA GROUP公式Eleanor秋季新店一覧",
+      "checked": 3,
+      "already_registered": 3,
+      "missing": 0
+    },
+    {
+      "source": "猿田彦珈琲・OSTERIA SALVATORE・WR.Yoyogi Park・POP MART・キル フェ ボンの公式発表",
+      "checked": 5,
+      "already_registered": 5,
+      "missing": 0
+    }
+  ],
+  "added": [
+    {
+      "name": "neverbetter",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-15",
+      "category": "ウェルネス・カフェ・リカバリー用品（複合店舗）"
+    },
+    {
+      "name": "天満屋ハピーズ西大寺モール",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-11-12",
+      "category": "ショッピングモール（グランドオープン）"
+    }
+  ],
+  "not_added": [
+    {
+      "name": "ミスタードーナツ（天満屋ハピーズ西大寺モール）",
+      "opening_window": "2026年11月予定",
+      "reason": "運営会社の資料で月まで確認できるが、開店日の具体的な日付が未公表"
+    }
+  ],
+  "errors_and_limits": [
+    "一部の情報源はページ内画像・PDF表の確認が必要だったため、読めた公式資料とSC協会の一覧で照合。",
+    "LADUREE旗艦店は2027年春予定のみで日付未確定のため追加せず。",
+    "MEFULL渋谷道玄坂は施設のテナント順次開業で、個別店舗・具体日が未確定のため追加せず。"
+  ],
+  "after": {
+    "blob_sha": "86766cc18cb438635996e48fa8731b29ebb3292e",
+    "commit_sha": "a9597621f5810aeeb3da3e2d68c2f779a021dec2",
+    "item_count": 885,
+    "updatetime": "2026-10-31T03:45:03+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date": 0,
+    "chronological_order": "valid",
+    "prior_883_items_retained": true,
+    "read_after_write": "success"
+  }
+}
