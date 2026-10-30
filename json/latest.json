@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T05:46:29+09:00",
+  "updatetime": "2026-10-31T06:42:24+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3999,6 +3999,13 @@
       "city": "さいたま市北区",
       "opening_date": "2026-10-30",
       "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "MARKEY'S（ジャズドリーム長島）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-30",
+      "category": "キッズ・ファッション"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
