@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-10-30T15:46:21+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "blob_sha": "2b60f86f1abcd1b55d4e6e6da19cfab88990c31f",
+    "items": 819,
+    "updatetime": "2026-10-30T14:45:32+09:00"
+  },
+  "sources": [
+    {
+      "publisher": "ソプラ銀座株式会社",
+      "title": "2026年秋、首都圏に7店舗を新規オープン予定",
+      "url": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "checked_facts": "本八幡店の開店日2026-10-01、所在地は千葉県市川市南八幡3丁目10-9。"
+    },
+    {
+      "publisher": "串カツ田中公式",
+      "title": "膳所店 2026年10月1日新規オープン",
+      "url": "https://www.kushi-tanaka.com/news/entry/3372",
+      "store_url": "https://restaurant.kushi-tanaka.com/detail/0249/",
+      "checked_facts": "2026-10-01 16:00開店。公式店舗情報で滋賀県大津市馬場2丁目7-8を確認。"
+    },
+    {
+      "publisher": "ローソン公式",
+      "title": "関東エリア新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/kantou.html",
+      "checked_facts": "白楽駅前（2026-10-30）、小川駅西口（2026-11-04）は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "ほっともっと公式",
+      "title": "甲南山手森南町店 2026-10-02新規オープン",
+      "url": "https://www.hottomotto.com/contents/news/20261006_shop.html",
+      "checked_facts": "既存JSONに登録済み。新規追加なし。"
+    },
+    {
+      "publisher": "ラーメン魁力屋公式",
+      "title": "新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked_facts": "長野平林店（2026-11-04）は既存JSONに登録済み。"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked_facts": "2026-11-24開店の情報は既存JSONのPOP MART（LUCUA SOUTH）として登録済み。"
+    }
+  ],
+  "additions": [
+    {
+      "name": "串カツ田中 膳所店",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "opening_date": "2026-10-01",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "ソプラ銀座 本八幡店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-10-01",
+      "category": "トリミングサロン・犬の幼稚園"
+    }
+  ],
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0
+  },
+  "after": {
+    "blob_sha": "43457b008e92503704c8906036198688c9e46a01",
+    "count": 821,
+    "expected_count": 821,
+    "additions_found": true,
+    "additions": [
+      {
+        "name": "串カツ田中 膳所店",
+        "prefecture": "滋賀県",
+        "city": "大津市",
+        "opening_date": "2026-10-01",
+        "category": "串カツ・居酒屋"
+      },
+      {
+        "name": "ソプラ銀座 本八幡店",
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "opening_date": "2026-10-01",
+        "category": "トリミングサロン・犬の幼稚園"
+      }
+    ],
+    "sorted": true,
+    "duplicate_name_count": 0,
+    "missing_required_fields": 0,
+    "json_parse": "ok",
+    "updatetime": "2026-10-30T15:46:21+09:00",
+    "update_commit_sha": "0a033d358733f904522c2d75023ddb34e6d5a5c9",
+    "update_content_sha": "43457b008e92503704c8906036198688c9e46a01"
+  },
+  "limitations": [
+    "今回の調査で確認できた公式情報のみ反映。全国の全事業者・全店舗を網羅したものではない。"
+  ]
+}
