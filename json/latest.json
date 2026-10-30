@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T10:44:32+09:00",
+  "updatetime": "2026-10-30T11:39:18+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -25,6 +25,34 @@
       "category": "とんかつ・定食"
     },
     {
+      "name": "キャンドゥセレクト DCMニコット夕張店",
+      "prefecture": "北海道",
+      "city": "夕張市",
+      "opening_date": "2026-09-18",
+      "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
+      "name": "キャンドゥ エキア越谷店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-09-18",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "Eleanor spa&treatment 中目黒店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-09-19",
+      "category": "美容室・ヘッドスパ"
+    },
+    {
+      "name": "Eleanor spa&treatment 高槻店",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-09-19",
+      "category": "美容室・ヘッドスパ"
+    },
+    {
       "name": "すし松 千川店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -37,6 +65,13 @@
       "city": "四日市市",
       "opening_date": "2026-09-24",
       "category": "コンビニ"
+    },
+    {
+      "name": "キャンドゥ 静内山手店",
+      "prefecture": "北海道",
+      "city": "日高郡新ひだか町",
+      "opening_date": "2026-09-24",
+      "category": "100円ショップ"
     },
     {
       "name": "ゴンチャ イオンモール座間店",
@@ -58,6 +93,13 @@
       "city": "諏訪郡富士見町",
       "opening_date": "2026-09-25",
       "category": "コンビニ"
+    },
+    {
+      "name": "キャンドゥ DCM多賀城東店",
+      "prefecture": "宮城県",
+      "city": "多賀城市",
+      "opening_date": "2026-09-25",
+      "category": "100円ショップ"
     },
     {
       "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
@@ -450,6 +492,27 @@
       "city": "北本市",
       "opening_date": "2026-10-01",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "キャンドゥ 宜野湾新城店",
+      "prefecture": "沖縄県",
+      "city": "宜野湾市",
+      "opening_date": "2026-10-01",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ 上荒川店",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "opening_date": "2026-10-01",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "キャンドゥ イオン新宮店",
+      "prefecture": "和歌山県",
+      "city": "新宮市",
+      "opening_date": "2026-10-01",
+      "category": "100円ショップ"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -1047,6 +1110,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "キャンドゥ DCM明石大久保店",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-10-08",
+      "category": "100円ショップ"
+    },
+    {
       "name": "AMERICAN HOLIC 京王モール店",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -1290,6 +1360,27 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-10-09",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "キャンドゥセレクト DCMニコット清里店",
+      "prefecture": "北海道",
+      "city": "斜里郡清里町",
+      "opening_date": "2026-10-09",
+      "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
+      "name": "キャンドゥセレクト マックスバリュ豊見城店",
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "opening_date": "2026-10-09",
+      "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
+      "name": "キャンドゥ イオンタウン那須塩原店",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "opening_date": "2026-10-09",
+      "category": "100円ショップ"
     },
     {
       "name": "ABC-MART（ジャズドリーム長島・リニューアル）",
@@ -2417,6 +2508,13 @@
       "city": "名古屋市東区",
       "opening_date": "2026-10-23",
       "category": "生活雑貨・文具・美容雑貨"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 足利店",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "opening_date": "2026-10-23",
+      "category": "ラーメン"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -3903,6 +4001,13 @@
       "category": "マシンピラティス"
     },
     {
+      "name": "Eleanor spa&treatment 郡山店",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "opening_date": "2026-11-01",
+      "category": "美容室・ヘッドスパ"
+    },
+    {
       "name": "合 Shinjuku",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -4153,6 +4258,13 @@
       "city": "大阪市阿倍野区",
       "opening_date": "2026-11-05",
       "category": "スポーツ用品・アパレル"
+    },
+    {
+      "name": "Eleanor spa&treatment 池袋3rd店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-05",
+      "category": "美容室・ヘッドスパ"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -4657,6 +4769,13 @@
       "city": "福生市",
       "opening_date": "2026-11-12",
       "category": "コンビニ"
+    },
+    {
+      "name": "キャンドゥ 苅田店",
+      "prefecture": "福岡県",
+      "city": "京都郡苅田町",
+      "opening_date": "2026-11-12",
+      "category": "100円ショップ"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
@@ -5483,6 +5602,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "Eleanor spa&treatment 沖縄北谷店",
+      "prefecture": "沖縄県",
+      "city": "中頭郡北谷町",
+      "opening_date": "2026-11-30",
+      "category": "美容室・ヘッドスパ"
     },
     {
       "name": "ドラえもん未来デパート（リニューアル）",
