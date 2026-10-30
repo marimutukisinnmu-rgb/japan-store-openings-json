@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T03:45:03+09:00",
+  "updatetime": "2026-10-31T04:47:00+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3980,6 +3980,20 @@
       "category": "スポーツ用品・屋内スケートパーク・カフェ（複合店舗）"
     },
     {
+      "name": "ココス 豊田店",
+      "prefecture": "東京都",
+      "city": "日野市",
+      "opening_date": "2026-10-30",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "ココス 大宮赤芝店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市北区",
+      "opening_date": "2026-10-30",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
       "name": "ASICS PICKLEBALL CONNECT",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -4806,6 +4820,13 @@
       "category": "ティーカフェ"
     },
     {
+      "name": "ココス 鳥取田園町店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-06",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -5294,6 +5315,13 @@
       "city": "長崎市",
       "opening_date": "2026-11-16",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "VINTAGE QOO TOKYO AOYAMA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-16",
+      "category": "ヴィンテージブランド品専門店"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
