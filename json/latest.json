@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T00:43:31+09:00",
+  "updatetime": "2026-10-31T01:43:18+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -44,6 +44,13 @@
       "city": "市川市",
       "opening_date": "2026-09-18",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "ブルースカイランドリー マエダストア五所川原南店",
+      "prefecture": "青森県",
+      "city": "五所川原市",
+      "opening_date": "2026-09-18",
+      "category": "コインランドリー"
     },
     {
       "name": "Eleanor spa&treatment 高槻店",
@@ -109,6 +116,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ブルースカイランドリー くすりのレデイ船木店",
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "opening_date": "2026-09-25",
+      "category": "コインランドリー"
+    },
+    {
       "name": "XLARGE / X-girl（御殿場プレミアム・アウトレット）",
       "prefecture": "静岡県",
       "city": "御殿場市",
@@ -121,6 +135,13 @@
       "city": "札幌市中央区",
       "opening_date": "2026-09-26",
       "category": "しゃぶしゃぶ"
+    },
+    {
+      "name": "ブルースカイランドリー ダイレックス上越北城店",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "opening_date": "2026-09-26",
+      "category": "コインランドリー"
     },
     {
       "name": "LAVENHAM（ジャズドリーム長島）",
@@ -352,6 +373,13 @@
       "city": "狭山市",
       "opening_date": "2026-09-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ブルースカイランドリー ハッピー・ドラッグ十和田西金崎店",
+      "prefecture": "青森県",
+      "city": "十和田市",
+      "opening_date": "2026-09-30",
+      "category": "コインランドリー"
     },
     {
       "name": "chocoZAP ワコーレ北本",
@@ -646,6 +674,13 @@
       "city": "沖縄市",
       "opening_date": "2026-10-02",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ブルースカイランドリー ナフコ不二屋坂下店",
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "opening_date": "2026-10-02",
+      "category": "コインランドリー"
     },
     {
       "name": "Bake A Holic",
@@ -1936,6 +1971,27 @@
       "category": "鍋料理"
     },
     {
+      "name": "ブルースカイランドリー ウオロク加茂店",
+      "prefecture": "新潟県",
+      "city": "加茂市",
+      "opening_date": "2026-10-16",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー フィールエクボスタイル高丘店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-16",
+      "category": "コインランドリー"
+    },
+    {
+      "name": "ブルースカイランドリー サンデー東根中央店",
+      "prefecture": "山形県",
+      "city": "東根市",
+      "opening_date": "2026-10-16",
+      "category": "コインランドリー"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -2298,6 +2354,13 @@
       "city": "渋谷区",
       "opening_date": "2026-10-22",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "ブルースカイランドリー スーパーセンタートライアル丸亀店",
+      "prefecture": "香川県",
+      "city": "丸亀市",
+      "opening_date": "2026-10-22",
+      "category": "コインランドリー"
     },
     {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
@@ -3901,6 +3964,13 @@
       "city": "高槻市",
       "opening_date": "2026-10-30",
       "category": "スーパーマーケット（生鮮食品）"
+    },
+    {
+      "name": "ブルースカイランドリー 滑川店",
+      "prefecture": "富山県",
+      "city": "滑川市",
+      "opening_date": "2026-10-30",
+      "category": "コインランドリー"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
