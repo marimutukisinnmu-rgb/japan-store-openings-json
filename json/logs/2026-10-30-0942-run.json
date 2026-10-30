@@ -1,0 +1,215 @@
+{
+  "run_at": "2026-10-30T09:42:23+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "運営元・施設運営会社の公式発表または公式新店舗一覧で、店舗名・開店日・所在地を確認できた情報のみ追加。未確認情報は追加せず既存データを保護。",
+  "sources": [
+    {
+      "name": "すかいらーくグループ公式・新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "supports": "ペルティカ市川店（2026-10-05）、ペルティカ鎌倉店（2026-09-28）、しゃぶ葉札幌桑園店（2026-09-26）の開店日・店舗名・住所"
+    },
+    {
+      "name": "PISOLA公式・千葉公園店OPEN",
+      "url": "https://pisola.jp/news/11629.html",
+      "supports": "PISOLA千葉公園店の2026-11-11開店と千葉市中央区弁天3丁目1の所在地"
+    },
+    {
+      "name": "PPIH公式ニュースリリース",
+      "url": "https://ppih.co.jp/news/",
+      "supports": "ドン・キホーテ東根店の2026-11-17開店、山形県東根市への出店"
+    },
+    {
+      "name": "ドラえもんチャンネル公式",
+      "url": "https://dora-world.com/contents/4406",
+      "supports": "ドラえもん未来デパートの2026-12-01リニューアル、ダイバーシティ東京プラザ2F"
+    },
+    {
+      "name": "ニトリ公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001778.000073913.html",
+      "supports": "法人事業大阪ショールームの2026-10-30開店と大阪市北区茶屋町16番7号"
+    },
+    {
+      "name": "関門海峡ミュージアム運営者発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000134385.html",
+      "supports": "FUTAGO JAPAN関門海峡ミュージアム店の2026-10-30開店と北九州市門司区西海岸1-3-3"
+    },
+    {
+      "name": "株式会社フォンス公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000264.000044858.html",
+      "supports": "GR caffèの2026-10-30開店と長野県小諸市大手1丁目6-8"
+    },
+    {
+      "name": "株式会社KRM公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000138.000121091.html",
+      "supports": "STUDIO IVY東三国店の2026-11-01開店と大阪市淀川区東三国4-2-18"
+    },
+    {
+      "name": "株式会社ドーム公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000517.000003939.html",
+      "supports": "アンダーアーマー ブランドハウス あべのの2026-11-05開店、あべのキューズモール2F"
+    },
+    {
+      "name": "株式会社雨晴国際公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000149962.html",
+      "supports": "P.Seven茶香水 表参道ブランドコンセプトストアの2026-12-10開店と東京都渋谷区神宮前5丁目42-4"
+    },
+    {
+      "name": "株式会社Lino Bloom公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000176813.html",
+      "supports": "Lino Style流山街道店の2026-10-31開店と千葉県流山市南流山6丁目28-8"
+    },
+    {
+      "name": "株式会社トップランク公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000078874.html",
+      "supports": "トップランク西宮・最強買取西宮店の2026-10-31開店と兵庫県西宮市津門大箇町9番3号"
+    }
+  ],
+  "before": {
+    "item_count": 778,
+    "blob_sha": "d966a42fbb0a5f0c790ad2c225f999ff5240f130",
+    "updatetime": "2026-10-30T08:46:03+09:00"
+  },
+  "additions": [
+    {
+      "name": "ペルティカ 市川店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-10-05",
+      "category": "レストラン"
+    },
+    {
+      "name": "ペルティカ 鎌倉店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-09-28",
+      "category": "レストラン"
+    },
+    {
+      "name": "しゃぶ葉 札幌桑園店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-09-26",
+      "category": "しゃぶしゃぶ"
+    },
+    {
+      "name": "PISOLA千葉公園店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-11",
+      "category": "イタリアン"
+    },
+    {
+      "name": "ドン・キホーテ東根店",
+      "prefecture": "山形県",
+      "city": "東根市",
+      "opening_date": "2026-11-17",
+      "category": "ディスカウントストア"
+    },
+    {
+      "name": "ドラえもん未来デパート（リニューアル）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-01",
+      "category": "キャラクター公式ショップ（リニューアル）"
+    },
+    {
+      "name": "ニトリ 法人事業大阪ショールーム",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-30",
+      "category": "法人向けショールーム・リフォーム"
+    },
+    {
+      "name": "FUTAGO JAPAN 関門海峡ミュージアム店",
+      "prefecture": "福岡県",
+      "city": "北九州市門司区",
+      "opening_date": "2026-10-30",
+      "category": "ジュエリー・ブライダルジュエリー"
+    },
+    {
+      "name": "GR caffè（GABRIELE RIVA）",
+      "prefecture": "長野県",
+      "city": "小諸市",
+      "opening_date": "2026-10-30",
+      "category": "カフェ・ショコラ・パティスリー・ジェラート"
+    },
+    {
+      "name": "STUDIO IVY 東三国店",
+      "prefecture": "大阪府",
+      "city": "大阪市淀川区",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティス"
+    },
+    {
+      "name": "アンダーアーマー ブランドハウス あべの",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-05",
+      "category": "スポーツ用品・アパレル"
+    },
+    {
+      "name": "P.Seven茶香水 表参道ブランドコンセプトストア",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-10",
+      "category": "フレグランス・ライフスタイル"
+    },
+    {
+      "name": "Lino Style 流山街道店",
+      "prefecture": "千葉県",
+      "city": "流山市",
+      "opening_date": "2026-10-31",
+      "category": "整体・ヨガ・ピラティス"
+    },
+    {
+      "name": "トップランク西宮",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "opening_date": "2026-10-31",
+      "category": "自動車販売・整備"
+    },
+    {
+      "name": "最強買取 西宮店",
+      "prefecture": "兵庫県",
+      "city": "西宮市",
+      "opening_date": "2026-10-31",
+      "category": "自動車買取"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 793,
+    "blob_sha": "bea11ce27f57e288842e88c40040beb8875c15af",
+    "commit_sha": "61946c4d7f7a5faa54a9e0062f65113480d638b0",
+    "updatetime": "2026-10-30T09:42:23+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found_after_fetch": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "saved_blob_sha_matches": true
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定までで、具体的な開店日が未確認"
+    },
+    {
+      "name": "ビッグ・エー越谷東大沢二丁目店",
+      "reason": "この実行では運営元の公式発表を再確認できず、追加を保留"
+    },
+    {
+      "name": "ちひろ菓子店 岡本",
+      "reason": "この実行では公式投稿を直接検証できず、追加を保留"
+    }
+  ],
+  "data_quality_notes": [
+    "既存JSON内に『マリベル渋谷』と『MarieBelle SHIBUYA』という同一店舗の可能性がある名称違いのレコードを確認。今回の実行では同一性の断定や削除を行わず、既存データを保持。"
+  ]
+}
