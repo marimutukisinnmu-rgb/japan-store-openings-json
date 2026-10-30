@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T19:40:08+09:00",
+  "updatetime": "2026-10-30T20:47:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -625,6 +625,13 @@
       "city": "沖縄市",
       "opening_date": "2026-10-02",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "かつや 名古屋植田南店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-10-02",
+      "category": "とんかつ・定食"
     },
     {
       "name": "Bake A Holic",
@@ -1395,6 +1402,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-10-09",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "N+ 島忠ホームズ新川崎店",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "opening_date": "2026-10-09",
+      "category": "ファッション・アパレル"
     },
     {
       "name": "ABC-MART（ジャズドリーム長島・リニューアル）",
@@ -4552,6 +4566,13 @@
       "city": "台東区",
       "opening_date": "2026-11-06",
       "category": "寿司"
+    },
+    {
+      "name": "ニトリ 大谷田店",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-06",
+      "category": "家具・インテリア"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
