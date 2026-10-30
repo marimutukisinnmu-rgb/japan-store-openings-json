@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T06:42:24+09:00",
+  "updatetime": "2026-10-31T07:40:52+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -2272,6 +2272,13 @@
       "category": "ベーカリー（リニューアル）"
     },
     {
+      "name": "Merrell（あみプレミアム・アウトレット期間限定店）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-10-21",
+      "category": "アウトドア用品（期間限定店）"
+    },
+    {
       "name": "Fallout Collaboration Cafe ～Takahashi's Power Noodles～ in TOWER RECORDS CAFE 表参道店",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -4358,6 +4365,13 @@
       "category": "カフェ"
     },
     {
+      "name": "Citizen（あみプレミアム・アウトレット・リニューアル）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-03",
+      "category": "時計（リニューアル）"
+    },
+    {
       "name": "Y’s 2026-27 A/W POP-UP STORE（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -4841,6 +4855,20 @@
       "category": "ファミリーレストラン（リニューアル）"
     },
     {
+      "name": "八百甚／須崎屋（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-06",
+      "category": "和菓子・カステラ（期間限定催事）"
+    },
+    {
+      "name": "ヨックモック（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-06",
+      "category": "焼き菓子（期間限定催事）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -4860,6 +4888,13 @@
       "city": "大阪市",
       "opening_date": "2026-11-07",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "Pierre Marcolini（あみプレミアム・アウトレット期間限定店）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-07",
+      "category": "チョコレート（期間限定店）"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5408,6 +5443,13 @@
       "category": "ディスカウントストア"
     },
     {
+      "name": "栗乃薫（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-17",
+      "category": "モンブラン（期間限定催事）"
+    },
+    {
       "name": "chocoZAP 上越東本町",
       "opening_date": "2026-11-18",
       "prefecture": "新潟県",
@@ -5693,6 +5735,20 @@
       "city": "村上市",
       "opening_date": "2026-11-20",
       "category": "コインランドリー"
+    },
+    {
+      "name": "しんぱち食堂 あみプレミアム・アウトレット店",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "和食・炭火焼魚定食"
+    },
+    {
+      "name": "ルフラン（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "パン（期間限定催事）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
