@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-10-31T06:42:24+09:00",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 890,
+    "blob_sha": "6947fb79df6bd8e1c96ccd367f2ffce63b6e48fe"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "MARKEY'S（ジャズドリーム長島）",
+        "prefecture": "三重県",
+        "city": "桑名市",
+        "opening_date": "2026-10-30",
+        "category": "キッズ・ファッション",
+        "source": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html"
+      }
+    ],
+    "corrected": [],
+    "removed": []
+  },
+  "after": {
+    "item_count": 891,
+    "updatetime": "2026-10-31T06:42:24+09:00",
+    "blob_sha": "fba1378741b79a35a5a9e921d8d8b7cace4dff07",
+    "commit_sha": "51d4b1f15669486ef51885f2e019571eb1231f42"
+  },
+  "verification": {
+    "read_back": true,
+    "json_parse": true,
+    "added_item_present": true,
+    "previous_items_retained": 890,
+    "previous_order_preserved": true,
+    "duplicate_name_date_pairs": 0,
+    "invalid_dates": 0,
+    "missing_required_fields": 0,
+    "opening_date_order": true
+  },
+  "sources_checked": [
+    {
+      "organization": "三井不動産商業マネジメント株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "findings": "ジャズドリーム長島の新規・リニューアル計16店舗の公式一覧。MARKEY'Sの開店日2026-10-30を確認。"
+    },
+    {
+      "organization": "三井アウトレットパーク ジャズドリーム長島",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/",
+      "findings": "施設所在地は三重県桑名市。公式発表の一覧を照合。Timberlandは2026年12月予定のみで日付未確定のため保留。"
+    },
+    {
+      "organization": "株式会社セカンドリテイリング",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "findings": "2026年11月の国内9店舗はすべて既存JSONに登録済み。海外3店舗は国内対象外。"
+    },
+    {
+      "organization": "株式会社POP MART JAPAN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "findings": "POP MART LUCUA SOUTH店は既存JSONに登録済み。"
+    },
+    {
+      "organization": "株式会社エルティーアール",
+      "url": "https://prtimes.jp/main/html/rd/p/000000333.000086964.html",
+      "findings": "&TEAM CAFEの4会場（新宿・渋谷・大阪・愛知）は既存JSONに登録済み。"
+    },
+    {
+      "organization": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": "今回確認した東郷深池店などの候補は既存JSONに登録済み。"
+    }
+  ],
+  "pending": [
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定までで、日付が特定できないため登録保留。"
+    }
+  ],
+  "errors": [],
+  "automation": {
+    "enabled": true,
+    "cadence": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null
+  }
+}
