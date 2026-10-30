@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-10-30T18:43:05+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "update": {
+    "records_before": 824,
+    "records_after": 824,
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "items_array_changed": false,
+    "updatetime_before": "2026-10-30T17:41:19+09:00",
+    "updatetime_after": "2026-10-30T18:43:05+09:00"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP公式 新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "candidates_checked": 90,
+      "matched_existing": 90,
+      "missing": 0,
+      "coverage": "2026-10-30〜2026-11-25"
+    },
+    {
+      "source": "ローソン公式 新店舗情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "candidates_checked": 22,
+      "matched_existing": 22,
+      "missing": 0,
+      "coverage": "2026-10-30〜2026-11-06"
+    },
+    {
+      "source": "セカンドリテイリング公式 2026年11月新規出店PDF",
+      "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "candidates_checked": 9,
+      "matched_existing": 9,
+      "missing": 0,
+      "coverage": "国内店舗"
+    },
+    {
+      "source": "SUBWAY公式 2026年ニュース一覧",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "candidates_checked": 3,
+      "matched_existing": 3,
+      "missing": 0,
+      "coverage": "2026-10-14〜2026-10-30"
+    },
+    {
+      "source": "すき家公式 新着情報",
+      "url": "https://sukiya.jp/sp/news/",
+      "candidates_checked": 2,
+      "matched_existing": 2,
+      "missing": 0,
+      "coverage": "2026-10-29"
+    },
+    {
+      "source": "串カツ田中公式 お知らせ",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "candidates_checked": 3,
+      "matched_existing": 3,
+      "missing": 0,
+      "coverage": "2026-10-01〜2026-10-30"
+    },
+    {
+      "source": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "missing": 0,
+      "coverage": "2026-11-24"
+    },
+    {
+      "source": "松屋フーズ公式 八代店発表",
+      "url": "https://www.matsuyafoods.co.jp/matsunoya/whatsnew/topics/185939.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "missing": 0,
+      "coverage": "2026-10-15"
+    }
+  ],
+  "source_candidate_total": 131,
+  "source_candidate_matches": 131,
+  "duplicate_name_date_keys": 0,
+  "validation": {
+    "json_parse": true,
+    "item_count_unchanged": true,
+    "items_array_unchanged": true,
+    "opening_date_order": "unchanged; pre-existing file retained",
+    "required_fields": "existing records parsed; no new records added"
+  },
+  "persistence": {
+    "write_commit_sha": "5e29f0140034d6b1e4e637591ca4c407c3b80b9b",
+    "new_blob_sha": "3eeee50b5f8b3acb04bbfe66fa8ada205d8e66fa",
+    "verified_blob_sha": "3eeee50b5f8b3acb04bbfe66fa8ada205d8e66fa",
+    "read_after_write": true,
+    "blob_sha_matches": true
+  },
+  "limitations": [
+    "This run compared selected current official new-store listings and announcements; it does not establish exhaustive coverage of every retailer in Japan."
+  ],
+  "errors": [],
+  "automation_state_at_run_start": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "note": "The automation management record showed enabled=true, but next_run_time was null."
+  }
+}
