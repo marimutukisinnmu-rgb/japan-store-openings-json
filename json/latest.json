@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2027-01-20",
+  "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T07:40:52+09:00",
+  "updatetime": "2026-10-31T08:47:48+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4211,6 +4211,13 @@
       "category": "洋菓子・バターサンド（移転リニューアル）"
     },
     {
+      "name": "東横INN大船駅西口",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-10-31",
+      "category": "ホテル"
+    },
+    {
       "name": "Eleanor spa&treatment 郡山店",
       "prefecture": "福島県",
       "city": "郡山市",
@@ -4867,6 +4874,13 @@
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-06",
       "category": "焼き菓子（期間限定催事）"
+    },
+    {
+      "name": "東横INN豊橋駅前大通り",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-06",
+      "category": "ホテル"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -6290,11 +6304,25 @@
       "category": "ゲーム公式グッズショップ（名称仮称）"
     },
     {
+      "name": "東横INN JR宇治駅南口",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-12-25",
+      "category": "ホテル"
+    },
+    {
       "name": "原神CAFE",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2027-01-20",
       "category": "ゲーム公式カフェ（常設）"
+    },
+    {
+      "name": "東横INN京都長岡京",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "opening_date": "2027-01-22",
+      "category": "ホテル"
     }
   ]
 }
