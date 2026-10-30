@@ -1,0 +1,114 @@
+{
+  "run_at": "2026-10-30T14:45:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "店舗名・開店日・所在地を運営会社等の公式発表で確認できた情報のみ追加。既存データは推測で上書きせず、確認できない情報は保留。",
+  "sources": [
+    {
+      "name": "株式会社ユニシアホールディングス（串カツ田中）公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000027839.html",
+      "supports": "串カツ田中 エキシティヒロシマ店、2026-10-30開店、広島県広島市南区松原町3-1を確認。"
+    },
+    {
+      "name": "株式会社ベガコーポレーション（LOWYA）公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000174.000026707.html",
+      "supports": "LOWYAららぽーと沼津店、2026-10-30開店、静岡県沼津市東椎路字東荒301番地3を確認。"
+    },
+    {
+      "name": "株式会社鎌倉紅谷公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000079182.html",
+      "supports": "鎌倉紅谷 ジェイアール名古屋タカシマヤ店、2026-10-30開店、愛知県名古屋市中村区名駅一丁目1番4号を確認。"
+    },
+    {
+      "name": "株式会社エー・ピーホールディングス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000695.000004635.html",
+      "supports": "炭火焼鳥 塚田農場 浜松モール街店、2026-10-29リブランドオープン、静岡県浜松市中央区千歳町73-2を確認。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "supports": "10月30日〜11月25日の新店舗掲載を既存JSONと照合。確認した対象は登録済み。"
+    },
+    {
+      "name": "ローソン公式・新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "supports": "10月30日〜11月6日の新店舗掲載を既存JSONと照合。確認した対象は登録済み。"
+    },
+    {
+      "name": "Can★Do公式・2026年お知らせ",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "supports": "10月30日〜11月12日の新店・リニューアル告知を照合。確認した対象は登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表・添付PDF",
+      "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "supports": "2026年11月の国内9店舗を照合。全店舗が既存JSONに登録済み。海外3店舗はJapan対象外。"
+    }
+  ],
+  "before": {
+    "item_count": 815,
+    "blob_sha": "2904877014d356523eaa9c5fb398f5c18ba96072",
+    "updatetime": "2026-10-30T13:42:40+09:00"
+  },
+  "additions": [
+    {
+      "name": "串カツ田中 エキシティヒロシマ店",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-10-30",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "LOWYAららぽーと沼津店",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "opening_date": "2026-10-30",
+      "category": "家具・インテリア"
+    },
+    {
+      "name": "鎌倉紅谷 ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-10-30",
+      "category": "和洋菓子"
+    },
+    {
+      "name": "炭火焼鳥 塚田農場 浜松モール街店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-29",
+      "category": "焼鳥・飲食（リブランド）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 819,
+    "blob_sha": "2b60f86f1abcd1b55d4e6e6da19cfab88990c31f",
+    "commit_sha": "15cdc9d9c6540a33c95f4c302ffc1a2ecc138307",
+    "updatetime": "2026-10-30T14:45:32+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_verified": true,
+    "commit_diff_review": "only updatetime and four new records were changed",
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "opening_date_order": true,
+    "saved_file_refetched": "passed"
+  },
+  "unverified": [
+    {
+      "item": "ReD（グランベリーパーク）",
+      "reason": "公式施設情報では「10月上旬〜中旬」までで具体的な開店日を確認できないため保留。"
+    },
+    {
+      "item": "Timberland（ジャズドリーム長島）",
+      "reason": "2026年12月予定までで具体的な開店日を確認できないため保留。"
+    }
+  ],
+  "limitations": [
+    "全国の全事業者を網羅したとは保証できない。今回は取得できた公式情報源と明示された店舗情報を対象に照合した。"
+  ]
+}
