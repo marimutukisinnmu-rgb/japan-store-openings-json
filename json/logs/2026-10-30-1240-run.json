@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-10-30T12:40:05+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "marimutukisinnmu-rgb/japan-store-openings-json/json/latest.json",
+  "source_policy": "運営会社・施設運営会社の公式新店舗一覧または公式発表で、店舗名・開店日・所在地を確認できた情報のみ追加。既存データは推測で上書きせず、日付が曖昧な情報は登録保留。",
+  "sources": [
+    {
+      "name": "ニトリホールディングス公式・店舗ニュースおよび2026年10月12日付PDF",
+      "urls": [
+        "https://www.nitorihd.co.jp/news/shop.html",
+        "https://www.nitorihd.co.jp/news/items/822f698b22b5a1997a1ce0bb234d65cd_1.pdf"
+      ],
+      "supports": "ニトリ 戸田駅前 T-FRONTE 店の2026-10-16開店、埼玉県戸田市新曽662・T-FRONTE 2階を確認。"
+    },
+    {
+      "name": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "supports": "2026-10-30から11月25日までの掲載店舗を既存JSONと照合。確認した候補は登録済み。宇佐岩崎店は公式一般一覧の10月29日表示と、先行して確認されていた延期告知の11月3日表示に食い違いがあるため、既存の11月3日を維持。"
+    },
+    {
+      "name": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "supports": "全国の10月15日から11月6日までの掲載店舗を照合。今回確認した候補は登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "supports": "2026年11月の国内新規出店一覧を照合。今回確認した国内対象店は登録済み。"
+    },
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "supports": "PUMA等の新店を照合。PUMAは既存登録済み。ReDは「10月上旬～中旬」のみで日付不明のため保留。"
+    },
+    {
+      "name": "サンエックス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000956.000018631.html",
+      "supports": "キイロイトリ銭湯の2026-10-30開始の期間限定ストアを照合。既存登録済み。"
+    },
+    {
+      "name": "JR西日本山陰開発公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000165636.html",
+      "supports": "gelato pique シャミネ松江店の2026-10-30開店と所在地を照合。既存登録済み。"
+    },
+    {
+      "name": "株式会社double公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000130092.html",
+      "supports": "STANDARD DONUTS 天神西通り店の2026-10-30開店を照合。既存登録済み。"
+    }
+  ],
+  "before": {
+    "item_count": 814,
+    "blob_sha": "4e428e4c1f33914e6e7a4e26e3edd3c5a4e11d1d",
+    "updatetime": "2026-10-30T11:39:18+09:00"
+  },
+  "additions": [
+    {
+      "name": "ニトリ 戸田駅前 T-FRONTE 店",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "opening_date": "2026-10-16",
+      "category": "家具・インテリア"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "after": {
+    "item_count": 815,
+    "blob_sha": "802794129d3d80f7e55d1ad244ea8ccfbd4a1e7f",
+    "commit_sha": "5d8c1b6da5aa536d7306f07f3f98dcfedcc1840a",
+    "updatetime": "2026-10-30T12:40:05+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found_after_fetch": true,
+    "existing_records_preserved": true,
+    "duplicate_name_date_keys": 0,
+    "required_field_omissions": 0,
+    "invalid_date_strings": 0,
+    "opening_date_order": "passed",
+    "saved_blob_sha_matches": true,
+    "overall": "passed"
+  },
+  "unconfirmed_not_added": [
+    {
+      "name": "ReD（グランベリーパーク）",
+      "reason": "公式施設ページの表記は「10月上旬～中旬」で、正確な開店日を確認できないため登録保留。"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定までで、具体的な開店日が未確認のため登録保留。"
+    },
+    {
+      "name": "chocoZAP 宇佐岩崎",
+      "reason": "chocoZAPの一般新店舗一覧には2026-10-29と表示される一方、先行する延期告知では2026-11-03とされていたため、矛盾を解消できず既存レコードの日付を維持。"
+    }
+  ],
+  "data_quality_notes": [
+    "既存814件を保存後データに含むことを照合した。",
+    "Nitori公式PDFで店名・開店日・住所を確認した1件のみ追加した。",
+    "chocoZAP、ローソン、セカンドリテイリング、グランベリーパーク、San-X、gelato pique、STANDARD DONUTSの確認対象は既存登録済みで、重複追加していない。",
+    "未確定日付の候補は既存データを変更せず、登録を保留した。"
+  ],
+  "automation_state_at_run_start": {
+    "is_enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo"
+  }
+}
