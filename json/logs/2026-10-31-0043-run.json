@@ -1,0 +1,202 @@
+{
+  "run_timestamp": "2026-10-31T00:43:31+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target_file": "json/latest.json",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "before": {
+    "blob_sha": "b24cc197344e3f9eb88d3584424a66d3066d49bd",
+    "item_count": 844,
+    "updatetime": "2026-10-30T23:40:18+09:00"
+  },
+  "changes": {
+    "added": 28,
+    "corrected": 0,
+    "deleted": 0,
+    "merged": 0,
+    "item_array_changed": true,
+    "note": "やよい軒1店舗、ゴンチャ2店舗、PRESS BUTTER SANDの期間限定ポップアップ24店舗および移転リニューアル1店舗を追加。"
+  },
+  "added_items": [
+    [
+      "やよい軒 御徒町春日通り店",
+      "2026-11-02"
+    ],
+    [
+      "ゴンチャ ルミネエスト新宿店",
+      "2026-11-06"
+    ],
+    [
+      "ゴンチャ ホワイティうめだ店",
+      "2026-11-06"
+    ],
+    [
+      "PRESS BUTTER SAND 品川駅 POPUP",
+      "2026-10-06"
+    ],
+    [
+      "PRESS BUTTER SAND ららぽーと柏の葉 POPUP",
+      "2026-10-13"
+    ],
+    [
+      "PRESS BUTTER SAND 大宮自由通路臨時A区画 POPUP",
+      "2026-10-26"
+    ],
+    [
+      "PRESS BUTTER SAND 朝霞台駅 POPUP",
+      "2026-10-27"
+    ],
+    [
+      "PRESS BUTTER SAND そごう大宮 POPUP",
+      "2026-10-28"
+    ],
+    [
+      "PRESS BUTTER SAND 近鉄百貨店　四日市店 POPUP",
+      "2026-10-28"
+    ],
+    [
+      "PRESS BUTTER SAND 京阪百貨店　守口店 POPUP",
+      "2026-10-29"
+    ],
+    [
+      "PRESS BUTTER SAND 三井アウトレットパーク 横浜ベイサイド POPUP",
+      "2026-10-31"
+    ],
+    [
+      "PRESS BUTTER SAND 名古屋栄三越店（移転リニューアル）",
+      "2026-10-31"
+    ],
+    [
+      "PRESS BUTTER SAND 丸井今井札幌本店 POPUP",
+      "2026-11-04"
+    ],
+    [
+      "PRESS BUTTER SAND 東武宇都宮百貨店 POPUP",
+      "2026-11-04"
+    ],
+    [
+      "PRESS BUTTER SAND ららぽーと富士見 POPUP",
+      "2026-11-10"
+    ],
+    [
+      "PRESS BUTTER SAND エキュート赤羽 POPUP",
+      "2026-11-10"
+    ],
+    [
+      "PRESS BUTTER SAND 三井アウトレットパークマリンピア神戸 POPUP",
+      "2026-11-11"
+    ],
+    [
+      "PRESS BUTTER SAND 金沢Rinto POPUP",
+      "2026-11-16"
+    ],
+    [
+      "PRESS BUTTER SAND アミュプラザ長崎 POPUP",
+      "2026-11-16"
+    ],
+    [
+      "PRESS BUTTER SAND 高崎髙島屋 POPUP",
+      "2026-11-18"
+    ],
+    [
+      "PRESS BUTTER SAND 枚方T-SITE POPUP",
+      "2026-11-18"
+    ],
+    [
+      "PRESS BUTTER SAND 山陽百貨店 POPUP",
+      "2026-11-18"
+    ],
+    [
+      "PRESS BUTTER SAND 近鉄百貨店 奈良店 POPUP",
+      "2026-11-18"
+    ],
+    [
+      "PRESS BUTTER SAND エキュート品川 POPUP",
+      "2026-11-24"
+    ],
+    [
+      "PRESS BUTTER SAND パルクアベニュー・カワトク POPUP",
+      "2026-11-25"
+    ],
+    [
+      "PRESS BUTTER SAND 川西阪急 POPUP",
+      "2026-11-25"
+    ],
+    [
+      "PRESS BUTTER SAND ららぽーと福岡 POPUP",
+      "2026-11-25"
+    ],
+    [
+      "PRESS BUTTER SAND ららぽーと名古屋みなとアクルス POPUP",
+      "2026-11-27"
+    ]
+  ],
+  "after": {
+    "blob_sha": "ce1916a23a2b6c33320246c06f032c221768d9cd",
+    "commit_sha": "684c898681dfacf1448f810ce0f0ed9d54161365",
+    "item_count": 872,
+    "updatetime": "2026-10-31T00:43:31+09:00"
+  },
+  "verification": {
+    "fetched_after_write": true,
+    "json_parse": true,
+    "item_count_increased_by_28": true,
+    "previous_items_preserved_in_original_order": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_count": 0,
+    "required_field_missing_count": 0,
+    "invalid_date_count": 0,
+    "fetched_blob_sha_matches_write_result": true
+  },
+  "sources": [
+    {
+      "name": "Gong cha Japan 公式新着情報",
+      "url": "https://www.gongcha.co.jp/author/dotzero/",
+      "result": "2026-10-30掲載の公式情報で、ルミネエスト新宿店とホワイティうめだ店の2026-11-06オープンを確認。"
+    },
+    {
+      "name": "やよい軒 公式出店情報",
+      "url": "https://www.yayoiken.com/contents/news/261030_okachimachi.html",
+      "result": "御徒町春日通り店の2026-11-02 10:00オープンと東京都台東区台東4-29-15を確認。"
+    },
+    {
+      "name": "PRESS BUTTER SAND 公式店舗一覧",
+      "url": "https://buttersand.com/store/list/",
+      "result": "期間限定ポップアップ24件と名古屋栄三越店の2026-10-31移転リニューアルを確認。各開始日・施設名・所在地を照合して追加。既存のグランスタ東京10周年店は同日開催の該当候補として重複追加せず。"
+    },
+    {
+      "name": "オーケー公式 長吉店発表",
+      "url": "https://ok-corporation.jp/news/entry-3321.html",
+      "result": "オーケー長吉店（2026-10-29）は既存JSONに登録済みのため追加なし。"
+    },
+    {
+      "name": "ノジマ公式プレスリリース・新店舗案内・個別店舗ページ",
+      "url": "https://www.nojima.co.jp/news/category/press/732372/",
+      "related_urls": [
+        "https://www.nojima.co.jp/shop/open/",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/"
+      ],
+      "result": "プレスリリース・新店舗案内は2026-11-05、個別店舗ページは2026-11-07と異なるため、ノジマ ホームズ新川崎店は追加保留。"
+    },
+    {
+      "name": "ニトリ公式 N+新店舗発表",
+      "url": "https://www.nitori.co.jp/news/2026.html",
+      "related_urls": [
+        "https://www.nitorihd.co.jp/news/items/f9a844925ac054b5a29250522eb0098c.pdf"
+      ],
+      "result": "N+ 島忠ホームズ新川崎店（2026-10-09）は既存JSONに登録済み。"
+    }
+  ],
+  "errors": [],
+  "unconfirmed": [
+    "ノジマ ホームズ新川崎店は公式情報間で開店日が2026-11-05と2026-11-07に分かれるため追加保留。",
+    "PRESS BUTTER SAND 札幌三越 POPUPは公式一覧内に開始日2025-10-01と2026-10-01の重複表示があり、対象期間の開始日を確定できないため追加保留。"
+  ],
+  "automation_status_observed": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "note": "タスク状態は確認のみ。無効化・削除・スケジュール変更は行っていない。"
+  }
+}
