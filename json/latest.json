@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T02:46:49+09:00",
+  "updatetime": "2026-10-31T03:45:03+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5114,6 +5114,13 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
+      "name": "天満屋ハピーズ西大寺モール",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-11-12",
+      "category": "ショッピングモール（グランドオープン）"
+    },
+    {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
       "opening_date": "2026-11-13",
       "prefecture": "群馬県",
@@ -5266,6 +5273,13 @@
       "city": "高岡市",
       "opening_date": "2026-11-15",
       "category": "期間限定ポップアップ（ガンダム公式ショップ）"
+    },
+    {
+      "name": "neverbetter",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-15",
+      "category": "ウェルネス・カフェ・リカバリー用品（複合店舗）"
     },
     {
       "name": "PRESS BUTTER SAND 金沢Rinto POPUP",
