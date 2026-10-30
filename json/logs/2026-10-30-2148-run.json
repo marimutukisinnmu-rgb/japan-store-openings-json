@@ -1,0 +1,155 @@
+{
+  "run_at": "2026-10-30T21:48:23+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": {
+    "before_count": 827,
+    "added": 6,
+    "corrected": 0,
+    "removed_or_merged": 0,
+    "after_count": 833,
+    "before_blob_sha": "57d118ca1aaa7b5257a5cb31f5b2d495658ffc40",
+    "after_blob_sha": "6e8e5a55e2d81fa0f886a1738644c8671a895af2",
+    "commit_sha": "6518ac534f885ebf1039d645091d75697d2ac4b7",
+    "updatetime": "2026-10-30T21:48:23+09:00",
+    "write": "success",
+    "post_write_fetch": "success",
+    "existing_records_preserved": true
+  },
+  "additions": [
+    {
+      "name": "ノジマ ラブラ2店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-11-12",
+      "category": "家電量販店",
+      "source": "https://www.nojima.co.jp/shop/niigata/lovela2/"
+    },
+    {
+      "name": "ノジマ 新座店",
+      "prefecture": "埼玉県",
+      "city": "新座市",
+      "opening_date": "2026-10-22",
+      "category": "家電量販店",
+      "source": "https://www.nojima.co.jp/shop/saitama/niiza/"
+    },
+    {
+      "name": "ノジマ イオン新松戸店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-02",
+      "category": "家電量販店",
+      "source": "https://www.nojima.co.jp/shop/chiba/aeon_shinmatsudo/"
+    },
+    {
+      "name": "ノジマ 草加セーモンプラザ店",
+      "prefecture": "埼玉県",
+      "city": "草加市",
+      "opening_date": "2026-09-18",
+      "category": "家電量販店",
+      "source": "https://www.nojima.co.jp/shop/saitama/soukaseimonpuraza/"
+    },
+    {
+      "name": "オーディオスクエア池袋東武店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-10-31",
+      "category": "オーディオ・ビジュアル専門店",
+      "source": "https://www.nojima.co.jp/shop/tokyo/asqikebukurotobu/"
+    },
+    {
+      "name": "ノジマ まるひろ上尾SC店",
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "opening_date": "2026-10-30",
+      "category": "家電量販店",
+      "source": "https://www.nojima.co.jp/shop/saitama/maruhiro_ageo_sc/"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "株式会社ノジマ公式・新店舗案内",
+      "url": "https://www.nojima.co.jp/shop/open/",
+      "candidates_checked": 7,
+      "matched_existing": 0,
+      "added": 6,
+      "deferred": 1,
+      "note": "対象期間内の7候補を照合。ラブラ2店(11/12)、新座店(10/22)、イオン新松戸店(10/2)、草加セーモンプラザ店(9/18)、オーディオスクエア池袋東武店(10/31)、まるひろ上尾SC店(10/30)を追加。ホームズ新川崎店は公式新店舗一覧・10/30付プレスリリースで11/5、個別店舗ページで11/7と食い違うため保留。"
+    },
+    {
+      "source": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "candidates_checked": 70,
+      "matched_existing": 70,
+      "added": 0,
+      "note": "2026-10-20から10-31の70候補を照合。全候補の店舗名・所在地・開店日が既存データと一致。ただし宇佐岩崎店は一覧ページの10/29表示と10/28付の個別延期告知が異なるため、個別延期告知の11/3 12:00を優先し、既存日付を維持。"
+    },
+    {
+      "source": "chocoZAP公式・宇佐岩崎店延期告知",
+      "url": "https://chocozap.jp/info/22507",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "2026-10-28付の個別告知で開店予定日を2026-11-03 12:00へ延期したことを確認。既存JSONの日付と一致。"
+    },
+    {
+      "source": "ニトリホールディングス公式・2026年店舗ニュース",
+      "url": "https://www.nitorihd.co.jp/news/2026.html",
+      "candidates_checked": 2,
+      "matched_existing": 2,
+      "added": 0,
+      "note": "ニトリ 大谷田店(11/6)およびニトリ 梅田茶屋町店(10/30)は既存登録済み。"
+    },
+    {
+      "source": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "PUMAグランベリーパーク店(10/30)は既存登録済み。"
+    },
+    {
+      "source": "ダンデライオン・チョコレート公式",
+      "url": "https://dandelionchocolate-jp.com/blogs/news/kiyosumi-shirakawa-factory-open",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "清澄白河ファクトリー(10/30)は既存登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "candidates_checked": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "note": "POP MART LUCUA SOUTH店(11/24)は既存登録済み。"
+    },
+    {
+      "source": "株式会社ノジマ公式・ホームズ新川崎店個別ページ",
+      "url": "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/",
+      "candidates_checked": 1,
+      "matched_existing": 0,
+      "added": 0,
+      "note": "個別店舗ページは11/7オープンと表示。公式新店舗案内および同日付プレスリリースは11/5と表示するため、日付を確定せず追加保留。"
+    }
+  ],
+  "data_quality": {
+    "json_parse": "success",
+    "item_count": 833,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "opening_date_sort_errors": 0,
+    "exact_name_date_duplicates": 0,
+    "all_added_records_verified_after_fetch": true,
+    "existing_records_preserved": true
+  },
+  "limitations": [
+    "ノジマ ホームズ新川崎店は公式情報源間で開店日が11月5日と11月7日に分かれるため、追加を保留。",
+    "ノジマ 練馬高野台駅前店(2026-09-17)、ekubo京成新鎌ケ谷店(2026-09-10)、青葉ガーデン桂台店(2026-09-02)はJSON対象期間開始前のため除外。",
+    "ドン・キホーテ公式ドメインは今回の調査ではrobots.txt制限により確認できず。"
+  ],
+  "errors": [
+    "ノジマ ホームズ新川崎店の開店日が公式ページ間で不一致。既存データは変更せず、新規登録も保留。",
+    "ドン・キホーテ公式サイトへのアクセスはrobots.txt制限で未確認。"
+  ]
+}
