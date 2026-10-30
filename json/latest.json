@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-30T13:42:40+09:00",
+  "updatetime": "2026-10-30T14:45:32+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3259,6 +3259,13 @@
       "category": "牛丼・定食"
     },
     {
+      "name": "炭火焼鳥 塚田農場 浜松モール街店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-10-29",
+      "category": "焼鳥・飲食（リブランド）"
+    },
+    {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
       "city": "神戸市北区",
@@ -3768,6 +3775,27 @@
       "city": "小諸市",
       "opening_date": "2026-10-30",
       "category": "カフェ・ショコラ・パティスリー・ジェラート"
+    },
+    {
+      "name": "串カツ田中 エキシティヒロシマ店",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-10-30",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "LOWYAららぽーと沼津店",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "opening_date": "2026-10-30",
+      "category": "家具・インテリア"
+    },
+    {
+      "name": "鎌倉紅谷 ジェイアール名古屋タカシマヤ店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-10-30",
+      "category": "和洋菓子"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
