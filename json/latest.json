@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-20",
   "scope": "Japan",
-  "updatetime": "2026-10-31T01:43:18+09:00",
+  "updatetime": "2026-10-31T02:46:49+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3971,6 +3971,13 @@
       "city": "滑川市",
       "opening_date": "2026-10-30",
       "category": "コインランドリー"
+    },
+    {
+      "name": "ムラサキパーク天神ストリート店（珈琲紫併設）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "スポーツ用品・屋内スケートパーク・カフェ（複合店舗）"
     },
     {
       "name": "ASICS PICKLEBALL CONNECT",
