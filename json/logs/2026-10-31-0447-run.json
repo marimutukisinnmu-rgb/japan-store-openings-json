@@ -1,0 +1,127 @@
+{
+  "run_at": "2026-10-31T04:47:00+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "update": {
+    "before_count": 885,
+    "added_count": 4,
+    "corrected_count": 0,
+    "removed_count": 0,
+    "after_count": 889,
+    "previous_blob_sha": "86766cc18cb438635996e48fa8731b29ebb3292e",
+    "updated_blob_sha": "15cccb04c57427f7856df70ae59ce2cabd329890",
+    "update_commit_sha": "3215bbab1e730b48b20a283d717f0ee47f346dd6"
+  },
+  "additions": [
+    {
+      "name": "ココス 豊田店",
+      "prefecture": "東京都",
+      "city": "日野市",
+      "opening_date": "2026-10-30",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "ココス 大宮赤芝店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市北区",
+      "opening_date": "2026-10-30",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "ココス 鳥取田園町店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-11-06",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "VINTAGE QOO TOKYO AOYAMA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-16",
+      "category": "ヴィンテージブランド品専門店"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "COCO'S公式",
+      "title": "2026年10月・11月 店舗リニューアル情報",
+      "url": "https://www.cocos-jpn.co.jp/news/2026/store/",
+      "verified": [
+        "ココス 豊田店 2026-10-30",
+        "ココス 大宮赤芝店 2026-10-30",
+        "ココス 鳥取田園町店 2026-11-06"
+      ]
+    },
+    {
+      "publisher": "COCO'S公式店舗ページ",
+      "title": "鳥取田園町店",
+      "url": "https://maps.cocos-jpn.co.jp/jp/detail/2972.html",
+      "verified": [
+        "2026-11-06 reopen",
+        "鳥取県鳥取市"
+      ]
+    },
+    {
+      "publisher": "COCO'S公式店舗ページ",
+      "title": "豊田店",
+      "url": "https://maps.cocos-jpn.co.jp/jp/detail/3008.html",
+      "verified": [
+        "東京都日野市"
+      ]
+    },
+    {
+      "publisher": "COCO'S公式店舗ページ",
+      "title": "大宮赤芝店",
+      "url": "https://maps.cocos-jpn.co.jp/jp/detail/2811.html",
+      "verified": [
+        "埼玉県さいたま市北区"
+      ]
+    },
+    {
+      "publisher": "GTホールディングス株式会社／PR TIMES",
+      "title": "VINTAGE QOO TOKYO AOYAMA 2026年11月16日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+      "verified": [
+        "opening_date 2026-11-16",
+        "東京都渋谷区神宮前5-50-3"
+      ]
+    }
+  ],
+  "not_added_or_held": [
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "reason": "ノジマの2026-10-30公式発表・公式キャンペーンは2026-11-05、公式個別店舗ページは2026-11-07と異なるため、日付確定まで登録保留。",
+      "sources": [
+        "https://www.nojima.co.jp/news/category/press/732372/",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/",
+        "https://www.nojima.co.jp/campaign/chirashi-homes_shinkawasaki/"
+      ]
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "reason": "既存JSONに「POP MART（LUCUA SOUTH）」として2026-11-24で登録済み。表記差のみのため追加せず。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date": 0,
+    "chronological_order": true,
+    "old_items_preserved_exactly": true,
+    "added_items_present": true
+  },
+  "preservation_check": {
+    "old_items_missing": 0,
+    "new_items_missing": 0
+  },
+  "task_status_checked_before_run": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null
+  }
+}
