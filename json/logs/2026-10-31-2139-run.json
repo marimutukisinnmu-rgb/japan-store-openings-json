@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-10-31T21:39:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "scope": "2026-09-18/2027-01-22",
+  "before_count": 963,
+  "after_count": 963,
+  "added": [],
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_candidates": 31,
+      "already_registered": 31,
+      "added": 0
+    },
+    {
+      "source": "Skylark/Shabuyo official new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "listed_candidates": 10,
+      "within_scope": 6,
+      "within_scope_already_registered": 6,
+      "before_scope": 4,
+      "added": 0
+    },
+    {
+      "source": "VENEX official release: neverbetter",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "announced_opening": "2026-11-15",
+      "already_registered": 1,
+      "added": 0
+    },
+    {
+      "source": "POP MART JAPAN official release: LUCUA SOUTH",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "announced_opening": "2026-11-24",
+      "matched_existing_record": "POP MART（LUCUA SOUTH）",
+      "added": 0,
+      "note": "Official name wording differs slightly; same opening date and location, so existing record was preserved."
+    },
+    {
+      "source": "Dandelion Chocolate official release: Kiyosumi-Shirakawa Factory",
+      "url": "https://dandelionchocolate-jp.com/blogs/news/kiyosumi-shirakawa-factory-open",
+      "announced_opening": "2026-10-30",
+      "already_registered": 1,
+      "added": 0
+    },
+    {
+      "source": "Kushi Tanaka official store news",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "checked_candidate": "Excity Hiroshima opening 2026-10-30",
+      "already_registered": 1,
+      "added": 0
+    },
+    {
+      "source": "Tokyo Solamachi official new-shop release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+      "checked_candidates": [
+        "整体×もみほぐし Refresh (2026-10-31)",
+        "ミッフィーほかほかダイニング (2026-10-31)"
+      ],
+      "already_registered": 2,
+      "added": 0
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_opening_date": 0,
+    "chronological_order": "passed",
+    "added_records_verified_after_fetch": 0,
+    "latest_blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333"
+  },
+  "save": {
+    "latest_json_write": "not_needed; no data changes",
+    "latest_blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333",
+    "latest_json_re_fetch": "passed"
+  },
+  "errors": [],
+  "unverified": [
+    "The run checked selected official sources; it does not claim exhaustive nationwide coverage.",
+    "No unverified opening dates were added."
+  ]
+}
