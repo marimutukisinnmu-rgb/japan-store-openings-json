@@ -1,0 +1,82 @@
+{
+  "run_at": "2026-10-31T19:44:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "scope": "2026-09-18/2027-01-22",
+  "before_count": 961,
+  "after_count": 963,
+  "added": [
+    {
+      "name": "しゃぶ葉 みらい長崎ココウォーク店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-09-18",
+      "category": "しゃぶしゃぶ",
+      "source": "https://store-info.skylark.co.jp/syabuyo/list/"
+    },
+    {
+      "name": "しゃぶ葉 新宿西口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-09-19",
+      "category": "しゃぶしゃぶ",
+      "source": "https://store-info.skylark.co.jp/syabuyo/list/"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_candidates": 28,
+      "already_registered": 28,
+      "added": 0
+    },
+    {
+      "source": "Second Retailing group November 2026 release and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "domestic_candidates": 9,
+      "already_registered": 9,
+      "added": 0
+    },
+    {
+      "source": "Grandberry Park 2026 Autumn new-store list",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "checked": "all announced openings; candidate entries already registered including COHINA under katakana spelling",
+      "added": 0
+    },
+    {
+      "source": "Sukiya official news",
+      "url": "https://sukiya.jp/news/",
+      "checked": "recent October store-opening announcements",
+      "already_registered": 6,
+      "added": 0
+    },
+    {
+      "source": "Skylark/Shabuyo official new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "listed_candidates": 10,
+      "previously_registered": 4,
+      "added_within_scope": 2,
+      "excluded_before_scope": 4
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_opening_date": 0,
+    "chronological_order": "passed",
+    "added_records_verified_after_fetch": 2,
+    "latest_blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333"
+  },
+  "save": {
+    "write_commit_sha": "932ed0dfe2de7dda698f1bc99b99161c71cfc8fa",
+    "blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333",
+    "re_fetch": "passed"
+  },
+  "errors": [],
+  "unverified": [
+    "Four Shabuyo entries dated before the dataset period start (2026-09-18) were not added because they are outside the configured period.",
+    "This run checked selected official sources and does not claim exhaustive nationwide coverage."
+  ]
+}
