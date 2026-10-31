@@ -1,0 +1,73 @@
+{
+  "run_at": "2026-10-31T17:42:51+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_for": "29 listings visible from 2026-10-30 through 2026-11-13",
+      "result": "All 29 name/date pairs matched existing JSON entries. No additions."
+    },
+    {
+      "source": "Second Retailing group official November 2026 release PDF via PR TIMES",
+      "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "checked_for": "Domestic store-opening rows in the November 2026 table",
+      "result": "All 9 domestic entries matched existing JSON records with the announced dates. 3 overseas entries excluded from Japan scope."
+    },
+    {
+      "source": "POP MART JAPAN company announcement via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked_for": "POP MART LUCUA SOUTH store opening on 2026-11-24",
+      "result": "Opening date confirmed; existing record POP MART（LUCUA SOUTH） already present."
+    },
+    {
+      "source": "Grandberry Park official Autumn 2026 new-store page",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "checked_for": "COHINA on 2026-11-12 and Margaret Howell A.G.O. on 2026-11-13",
+      "result": "Both official opening-date listings matched existing JSON entries."
+    },
+    {
+      "source": "Skylark group official Shabu-yo new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "checked_for": "Shabu-yo Aeon Mall Fukuoka Ito (2026-10-31), Gifu Active G (2026-11-27), and Ikeda Station Front (2026-11-29)",
+      "result": "All 3 checked records were already present with matching dates."
+    },
+    {
+      "source": "Kairikiya official new-store list",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked_for": "Nagano Hirabayashi store opening on 2026-11-04",
+      "result": "The store and date matched an existing JSON record."
+    }
+  ],
+  "added": [],
+  "change_summary": {
+    "before": 940,
+    "added": 0,
+    "after": 940,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "required_fields": true,
+    "required_fields_missing": 0,
+    "valid_date_format": true,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "duplicate_name_date_keys": 0,
+    "existing_items_preserved": true,
+    "no_data_write_required": true,
+    "latest_blob_sha": "81a4219485373bef1514b3568a1402661e9bbd53"
+  },
+  "data_blob_sha": "81a4219485373bef1514b3568a1402661e9bbd53",
+  "unconfirmed": "This was a focused review of the listed primary sources, not an exhaustive nationwide scan of every operator. No newly verified, unregistered store was identified in this pass; unverified candidates were not added.",
+  "automation_check": {
+    "enabled": true,
+    "schedule": "Hourly",
+    "next_run_time": "not returned by management lookup",
+    "schedule_changed": false,
+    "task_disabled": false,
+    "run_record_status": "in_progress at lookup; scheduler completion not yet recorded"
+  }
+}
