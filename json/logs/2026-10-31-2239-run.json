@@ -72,7 +72,8 @@
     "latest_json": "unchanged",
     "run_log": "created",
     "run_log_path": "json/logs/2026-10-31-2239-run.json",
-    "post_save_retrieval": "pending"
+    "post_save_retrieval": "success",
+    "run_log_blob_sha_before_finalization": "22ff4e55167bab8366b795f46e1bce134279ce1b"
   },
   "errors": [],
   "unverified": [
