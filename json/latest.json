@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T12:47:46+09:00",
+  "updatetime": "2026-10-31T13:43:40+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5429,6 +5429,13 @@
       "category": "ウェルネス・カフェ・リカバリー用品（複合店舗）"
     },
     {
+      "name": "ガスト 新潟駅前店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-11-15",
+      "category": "ファミリーレストラン"
+    },
+    {
       "name": "PRESS BUTTER SAND 金沢Rinto POPUP",
       "prefecture": "石川県",
       "city": "金沢市",
@@ -5525,6 +5532,13 @@
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-17",
       "category": "モンブラン（期間限定催事）"
+    },
+    {
+      "name": "ガスト そよら飯田アップルロード店",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "opening_date": "2026-11-17",
+      "category": "ファミリーレストラン"
     },
     {
       "name": "chocoZAP 上越東本町",
@@ -5849,6 +5863,13 @@
       "category": "パン（期間限定催事）"
     },
     {
+      "name": "ガスト イオンモール福岡店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "opening_date": "2026-11-20",
+      "category": "ファミリーレストラン"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -6157,6 +6178,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "資さんうどん 和泉観音寺店",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-25",
+      "category": "うどん・和食"
+    },
+    {
       "name": "MAISON KAYSER（渋谷スクランブルスクエア POP UP）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -6183,6 +6211,13 @@
       "city": "岡山市北区",
       "opening_date": "2026-11-26",
       "category": "モバイル・デジタルアクセサリー"
+    },
+    {
+      "name": "フロプレステージュ セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "洋菓子・惣菜"
     },
     {
       "name": "ABURI百貫 イオンモール伊達店",
@@ -6297,6 +6332,27 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "しゃぶ葉 岐阜アクティブＧ店",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-11-27",
+      "category": "しゃぶしゃぶ・食べ放題"
+    },
+    {
+      "name": "バーミヤン 大宮駅東口店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "中華レストラン"
+    },
+    {
+      "name": "バーミヤン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "中華レストラン"
+    },
+    {
       "name": "Guzman y Gomez 西新宿店",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -6323,6 +6379,20 @@
       "city": "品川区",
       "opening_date": "2026-11-28",
       "category": "ビストロ・レストラン"
+    },
+    {
+      "name": "しゃぶ葉 池田駅前店",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-29",
+      "category": "しゃぶしゃぶ・食べ放題"
+    },
+    {
+      "name": "バーミヤン 広島アルパーク店",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-29",
+      "category": "中華レストラン"
     },
     {
       "name": "Eleanor spa&treatment 沖縄北谷店",
