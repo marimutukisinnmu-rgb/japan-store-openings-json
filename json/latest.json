@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T16:45:53+09:00",
+  "updatetime": "2026-10-31T18:46:05+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3259,6 +3259,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "L’HISTORIQUE 伊勢丹新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-28",
+      "category": "パティスリー・洋菓子"
+    },
+    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -4246,6 +4253,62 @@
       "category": "キッズパーク・書籍・玩具"
     },
     {
+      "name": "セルフカフェ イオンタウン大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-10-31",
+      "category": "無人カフェ・ワークスペース"
+    },
+    {
+      "name": "Solana Smart INN 神栖",
+      "prefecture": "茨城県",
+      "city": "神栖市",
+      "opening_date": "2026-10-31",
+      "category": "ホテル"
+    },
+    {
+      "name": "SNOOPY茶屋 宮島店",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-10-31",
+      "category": "キャラクターカフェ・雑貨"
+    },
+    {
+      "name": "SNOOPY Chocolat 宮島店",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-10-31",
+      "category": "チョコレート・キャラクター雑貨"
+    },
+    {
+      "name": "WOODSTOCK NEST Sweets & Goodies 宮島店",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-10-31",
+      "category": "スイーツ・キャラクター雑貨"
+    },
+    {
+      "name": "たけだのハンバーグ レストラン",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-10-31",
+      "category": "ハンバーグレストラン"
+    },
+    {
+      "name": "夢みるよもぎ蒸し亀戸店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-10-31",
+      "category": "よもぎ蒸し専門サロン"
+    },
+    {
+      "name": "SHOGUN BURGER 京都寺町京極店",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "opening_date": "2026-10-31",
+      "category": "ハンバーガー専門店"
+    },
+    {
       "name": "Eleanor spa&treatment 郡山店",
       "prefecture": "福島県",
       "city": "郡山市",
@@ -4321,6 +4384,27 @@
       "city": "吉川市",
       "opening_date": "2026-11-01",
       "category": "絵本専門店・カフェ・屋内遊び場"
+    },
+    {
+      "name": "RAWgood HAMBURGUERIA",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "opening_date": "2026-11-01",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "出汁しゃぶおばんざい おかか ハウステンボス店",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "opening_date": "2026-11-01",
+      "category": "和食・出汁しゃぶ"
+    },
+    {
+      "name": "Rintosull アミュプラザみやざき店",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティススタジオ"
     },
     {
       "name": "合 Shinjuku",
@@ -4622,6 +4706,13 @@
       "city": "調布市",
       "opening_date": "2026-11-05",
       "category": "定食・和食"
+    },
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "opening_date": "2026-11-05",
+      "category": "家電量販店"
     },
     {
       "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
@@ -4967,6 +5058,20 @@
       "category": "リユースショップ"
     },
     {
+      "name": "Pandora 神戸センタープラザ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-06",
+      "category": "ジュエリー・アクセサリー"
+    },
+    {
+      "name": "代官山Candy apple／浅草今川焼 月のうさぎ（イオンモール川口前川）",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-11-06",
+      "category": "りんご飴・今川焼（リニューアル）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -5014,6 +5119,13 @@
       "city": "大野城市",
       "opening_date": "2026-11-07",
       "category": "リユースショップ"
+    },
+    {
+      "name": "ワンルーク 北区黒川店",
+      "prefecture": "愛知県",
+      "city": "名古屋市北区",
+      "opening_date": "2026-11-09",
+      "category": "ペットホテル"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5702,6 +5814,13 @@
       "category": "食品スーパー（都市型店舗）"
     },
     {
+      "name": "ちいかわベビーカステラ 京都錦店",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-18",
+      "category": "キャラクター菓子・テイクアウト"
+    },
+    {
       "name": "chocoZAP 一乗寺向畑",
       "opening_date": "2026-11-19",
       "prefecture": "京都府",
@@ -6290,6 +6409,13 @@
       "category": "洋菓子・惣菜"
     },
     {
+      "name": "マクドナルド 吉川栄店",
+      "prefecture": "埼玉県",
+      "city": "吉川市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
       "name": "ABURI百貫 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -6423,6 +6549,13 @@
       "category": "中華レストラン"
     },
     {
+      "name": "マクドナルド 旭ヶ丘店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
       "name": "Guzman y Gomez 西新宿店",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -6449,6 +6582,20 @@
       "city": "品川区",
       "opening_date": "2026-11-28",
       "category": "ビストロ・レストラン"
+    },
+    {
+      "name": "トナリエ久里浜パーク",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ショッピングセンター"
+    },
+    {
+      "name": "LifeFit アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスジム"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
