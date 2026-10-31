@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T07:42:30+09:00",
+  "updatetime": "2026-11-01T08:45:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4834,6 +4834,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "マックスバリュエクスプレス覚王山駅前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-05",
+      "category": "食品スーパー（都市型小型店）"
+    },
+    {
       "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
       "prefecture": "埼玉県",
       "city": "羽生市",
@@ -5219,6 +5226,20 @@
       "category": "生活雑貨・キッチン用品・アパレル"
     },
     {
+      "name": "スーパーマーケット バロー本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "ポニークリーニング バロー本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-06",
+      "category": "クリーニング"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -5443,6 +5464,13 @@
       "category": "厚切りポークステーキ専門店"
     },
     {
+      "name": "フードマーケット マム 小土店",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "opening_date": "2026-11-11",
+      "category": "食品スーパー"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -5595,6 +5623,13 @@
       "city": "大阪市港区",
       "opening_date": "2026-11-12",
       "category": "ラーメン・甘味"
+    },
+    {
+      "name": "マックスバリュエクスプレス新栄1丁目店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-12",
+      "category": "食品スーパー（都市型小型店）"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
@@ -6050,6 +6085,13 @@
       "city": "つくば市",
       "opening_date": "2026-11-19",
       "category": "ラーメン"
+    },
+    {
+      "name": "ノジマ バロー本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-19",
+      "category": "家電量販店"
     },
     {
       "name": "chocoZAP 嘉麻鴨生",
@@ -6659,6 +6701,27 @@
       "city": "久留米市",
       "opening_date": "2026-11-26",
       "category": "ファストフード"
+    },
+    {
+      "name": "スギ薬局 本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-26",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "セリア バロー本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-26",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "JINS バロー本羽田店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-26",
+      "category": "メガネ・アイウェア"
     },
     {
       "name": "ABURI百貫 イオンモール伊達店",
