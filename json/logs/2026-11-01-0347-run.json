@@ -1,0 +1,69 @@
+{
+  "run_at": "2026-11-01T03:47:55+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": {
+    "status": "no_data_change",
+    "before_count": 981,
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 981,
+    "source_json_blob_sha": "2e8d1eea08df5dfb629041ff41b3239080617af8",
+    "updatetime_unchanged": "2026-11-01T00:39:47+09:00"
+  },
+  "sources_checked": [
+    {
+      "name": "東京ソラマチ公式 NEW SHOP情報",
+      "url": "https://pro.tokyo-solamachi.jp/",
+      "findings": [
+        "RANDY'S DONUTS（2026-10-29）は既存JSONに同日・同市区町村の表記違い2レコードあり。新規追加せず、削除・統合も今回行わず。",
+        "整体×もみほぐし Refresh（2026-10-31）とふわりノ休足（2026-11-06）は既存登録済み。"
+      ]
+    },
+    {
+      "name": "ランディーズドーナツ公式店舗情報",
+      "url": "https://randysdonuts.jp/shop",
+      "findings": [
+        "東京スカイツリータウン・ソラマチ店の2026-10-29開店を確認。既存JSONに既に存在。"
+      ]
+    },
+    {
+      "name": "ローソン公式新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": [
+        "確認した11月初旬の開店情報は既存JSONと照合でき、新規登録なし。"
+      ]
+    },
+    {
+      "name": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "findings": [
+        "POP MART LUCUA SOUTH店（2026-11-24）は既存登録済み。"
+      ]
+    },
+    {
+      "name": "東京スカイツリータウン公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+      "findings": [
+        "お肉の専門店スギモトは11月下旬、Eggs 'n Thingsは2026年冬との告知。日付が確定していないため登録保留。"
+      ]
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_exact_name_and_date": 0,
+    "sorted_by_opening_date": true,
+    "fetched_blob_sha": "2e8d1eea08df5dfb629041ff41b3239080617af8"
+  },
+  "caution": [
+    "RANDY'S DONUTSの同一店舗と思われる表記違いが2レコードある。公式情報で同店・同日・同市区町村を確認したが、誤削除を避けて今回のJSONは変更せず、重複疑いとして記録。",
+    "全国すべての事業者の情報を網羅的に確認したわけではない。"
+  ],
+  "errors": [],
+  "unconfirmed": [
+    "東京ソラマチのお肉の専門店スギモト、Eggs 'n Thingsは正確な開店日が未確定。"
+  ]
+}
