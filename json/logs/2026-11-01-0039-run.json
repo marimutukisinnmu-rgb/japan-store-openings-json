@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-01T00:39:47+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "dataset": "json/latest.json",
+  "result": {
+    "before_count": 968,
+    "added_count": 13,
+    "updated_count": 0,
+    "removed_count": 0,
+    "after_count": 981,
+    "updatetime": "2026-11-01T00:39:47+09:00",
+    "blob_sha": "2e8d1eea08df5dfb629041ff41b3239080617af8",
+    "commit_sha": "4362af78ba9e92f1c4ff1c3cf3b08e12c34bcce1"
+  },
+  "additions": [
+    {
+      "name": "Marc Jacobs/Heaven by Marc Jacobs（渋谷PARCO・移設オープン）",
+      "opening_date": "2026-10-01"
+    },
+    {
+      "name": "WIND AND SEA SHIBUYA（渋谷PARCO）",
+      "opening_date": "2026-10-23"
+    },
+    {
+      "name": "VARIEGATOR SHIBUYA（渋谷PARCO）",
+      "opening_date": "2026-10-23"
+    },
+    {
+      "name": "ROOT — GARMENTS and OBJECTS（渋谷PARCO）",
+      "opening_date": "2026-11-06"
+    },
+    {
+      "name": "CDG（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "WILDSIDE YOHJI YAMAMOTO（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "Kankyo Records Kiosk（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "PALACE BASICALLY A KIOSK（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "URBAN TUBE（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "KODAK apparel SHIBUYA（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "Ami Paris（渋谷PARCO・リニューアル）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "YEN TOWN MARKETⓇ TOKYO（渋谷PARCO・リニューアル）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "STONE ISLAND（渋谷PARCO・リニューアル）",
+      "opening_date": "2026-12-04"
+    }
+  ],
+  "sources": [
+    {
+      "name": "渋谷PARCO 2026 NEW & RENEWAL（公式）",
+      "url": "https://shibuya.parco.jp/page/2026new-renewal/",
+      "details": "10/1, 10/23, 11/6, 11/20, 12/4の新店・移設・リニューアルを照合。既存登録済みを除いて13件追加。"
+    },
+    {
+      "name": "渋谷PARCO New & Renewal（公式店舗一覧）",
+      "url": "https://shibuya.parco.jp/new-renewal/",
+      "details": "CDG、WILDSIDE YOHJI YAMAMOTO、Kankyo Records Kiosk、URBAN TUBE、KODAK apparel SHIBUYA、Ami Paris等の開店日と店舗情報を確認。"
+    },
+    {
+      "name": "ROOT公式発表",
+      "url": "https://root-store.com/journal/2026/10/30/1053166",
+      "details": "ROOT — GARMENTS and OBJECTSの渋谷PARCO 5F、2026-11-06リニューアルオープンを確認。"
+    },
+    {
+      "name": "Marc Jacobs公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000610.000002922.html",
+      "details": "渋谷PARCO店の2026-10-01移設オープンを確認。"
+    },
+    {
+      "name": "ローソン公式新店舗一覧",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "details": "11/1〜11/13の28候補を既存JSONと照合。28件すべて登録済み。"
+    },
+    {
+      "name": "セカンドリテイリング公式11月出店発表（添付PDF）",
+      "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "details": "国内9店舗を照合。すべて登録済み。海外3店舗は日本国内データ対象外。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "details": "POP MART LUCUA SOUTH店の11/24開店を照合。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date": 0,
+    "opening_date_sorted": true,
+    "post_write_refetch": true
+  },
+  "unverified": [
+    "全国すべての運営会社を網羅した調査ではない。",
+    "PALACE BASICALLY A KIOSKのカテゴリは公式PARCOの店名・開店日情報に基づく一般的なファッション分類。"
+  ]
+}
