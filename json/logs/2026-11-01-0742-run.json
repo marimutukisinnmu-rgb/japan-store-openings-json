@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-11-01T07:42:30+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "Kawajun / KEYUCA company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000679.000042258.html",
+      "result": "Confirmed KEYUCA イオンモール徳島店 opens 2026-11-06 (Friday), at イオンモール徳島 1F in Tokushima-shi. The headline has a weekday typo, but the body and detailed shop section state Friday and the exact date; added."
+    },
+    {
+      "name": "Aeon Mall Tokushima official announcement",
+      "url": "https://tokushima.aeonmall.jp/news/renewal/32e418d2-626c-49ae-ab24-f038bc6ad4cb",
+      "result": "Independently confirms KEYUCA opening on 2026-11-06 (Friday), first floor; corroborates date and venue."
+    },
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "Reviewed upcoming November entries; matched candidates were already in latest.json, no additional record."
+    },
+    {
+      "name": "Blue Sky Laundry November openings (GIB / PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "Compared the announced 10 November locations against latest.json; all were already present."
+    },
+    {
+      "name": "Second Retailing November opening release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "Checked the release's domestic-store image table; all 9 Japan entries were already present. Overseas entries excluded from Japan scope."
+    },
+    {
+      "name": "Skylark official new-store listings",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "result": "Spot-checked November Gusto/Bamiyan/Shabu-yo/Flo/Sukesan listings surfaced in current results; all checked candidates were already present."
+    },
+    {
+      "name": "SYNRA GROUP official Eleanor opening announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Confirmed November 郡山・池袋3rd・沖縄北谷 entries already exist in latest.json."
+    },
+    {
+      "name": "Kairikiya official new-store announcements",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店 (2026-11-04) already present."
+    },
+    {
+      "name": "Yudetaro official news",
+      "url": "https://yudetaro.jp/news/",
+      "result": "November branches surfaced in the official news list were already present."
+    },
+    {
+      "name": "POP MART Japan official releases",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "result": "沖縄浦添PARCO CITY店 (2026-11-06) already present; LUCUA SOUTH store also checked and already present."
+    }
+  ],
+  "changes": {
+    "before_count": 996,
+    "added": 1,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 997,
+    "items": [
+      {
+        "name": "KEYUCA イオンモール徳島店",
+        "prefecture": "徳島県",
+        "city": "徳島市",
+        "opening_date": "2026-11-06",
+        "category": "生活雑貨・キッチン用品・アパレル"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "be9799b130e7a655d20c9f392c35bc7ccf3d9545",
+    "blob_sha": "b45801b3bd82fa96a1d47e8bf1c9f863ab5d1106",
+    "refetched_blob_sha": "b45801b3bd82fa96a1d47e8bf1c9f863ab5d1106",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "before_count": 996,
+    "after_count": 997,
+    "old_items_preserved": true,
+    "missing_old_items": 0,
+    "new_item_present": true,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This is a selected-source review, not an exhaustive scan of every operator in Japan.",
+    "The KEYUCA PR release headline contains a weekday mismatch (Wednesday); its body and the official Aeon Mall Tokushima page both state 2026-11-06 Friday, so the exact date is supported by two consistent detailed sources.",
+    "Some broad November-only leads (including すき家 高岡大野店, はま寿司稚内店, and クレーン横丁 極 相模原小山店) still do not have a confirmed exact opening date and were not added."
+  ],
+  "unconfirmed": [
+    "すき家 高岡大野店: exact opening day not confirmed; excluded.",
+    "はま寿司稚内店: exact opening day not confirmed; excluded.",
+    "クレーン横丁 極 相模原小山店: official release says late November, exact day to be announced; excluded."
+  ]
+}
