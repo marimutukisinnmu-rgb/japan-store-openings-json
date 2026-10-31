@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T23:48:42+09:00",
+  "updatetime": "2026-11-01T00:39:47+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -576,6 +576,13 @@
       "city": "品川区",
       "opening_date": "2026-10-01",
       "category": "自然食レストラン・カフェ"
+    },
+    {
+      "name": "Marc Jacobs/Heaven by Marc Jacobs（渋谷PARCO・移設オープン）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-01",
+      "category": "ファッション・アパレル・バッグ・アクセサリー（移設オープン）"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -2669,6 +2676,20 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
+    },
+    {
+      "name": "WIND AND SEA SHIBUYA（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "VARIEGATOR SHIBUYA（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション・アパレル（初の常設店）"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -5100,6 +5121,13 @@
       "category": "りんご飴・今川焼（リニューアル）"
     },
     {
+      "name": "ROOT — GARMENTS and OBJECTS（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-06",
+      "category": "セレクトショップ（ファッション・アウトドア用品、リニューアル）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -6094,6 +6122,62 @@
       "category": "リユースショップ"
     },
     {
+      "name": "CDG（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "WILDSIDE YOHJI YAMAMOTO（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル・ライフスタイル"
+    },
+    {
+      "name": "Kankyo Records Kiosk（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "音楽・レコード・書籍・雑貨"
+    },
+    {
+      "name": "PALACE BASICALLY A KIOSK（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "URBAN TUBE（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・カルチャーショップ"
+    },
+    {
+      "name": "KODAK apparel SHIBUYA（渋谷PARCO）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "Ami Paris（渋谷PARCO・リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ラグジュアリーファッション（リニューアル）"
+    },
+    {
+      "name": "YEN TOWN MARKETⓇ TOKYO（渋谷PARCO・リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "カルチャーショップ・ファッション（リニューアル）"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -6729,6 +6813,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-04",
       "category": "体験型公式ショップ・キャラクターグッズ"
+    },
+    {
+      "name": "STONE ISLAND（渋谷PARCO・リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-04",
+      "category": "ファッション・アパレル（リニューアル）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
