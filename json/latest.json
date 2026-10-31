@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T05:45:09+09:00",
+  "updatetime": "2026-11-01T06:48:15+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4463,6 +4463,20 @@
       "category": "中華料理（復活オープン）"
     },
     {
+      "name": "Pass down（パスダウン）",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "opening_date": "2026-11-01",
+      "category": "古着・ヴィンテージファッション"
+    },
+    {
+      "name": "らーめん一作 枚方市駅前店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-01",
+      "category": "ラーメン"
+    },
+    {
       "name": "合 Shinjuku",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -4475,6 +4489,20 @@
       "city": "台東区",
       "opening_date": "2026-11-02",
       "category": "定食・和食"
+    },
+    {
+      "name": "アニメイト福岡ANNEX",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-02",
+      "category": "アニメ・コミック・ゲームグッズ（催事特化型店舗）"
+    },
+    {
+      "name": "らかんスタジオ Finelight前橋店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-02",
+      "category": "写真館・フォトスタジオ"
     },
     {
       "name": "chocoZAP 宇佐岩崎",
@@ -4622,6 +4650,27 @@
       "city": "神戸市兵庫区",
       "opening_date": "2026-11-04",
       "category": "ファストフード"
+    },
+    {
+      "name": "ワールドプラスジム長井店",
+      "prefecture": "山形県",
+      "city": "長井市",
+      "opening_date": "2026-11-04",
+      "category": "24時間フィットネスジム"
+    },
+    {
+      "name": "キング軒 南森町店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-04",
+      "category": "汁なし担担麺専門店"
+    },
+    {
+      "name": "厚切りとんかつ よし平 ふじみ野店",
+      "prefecture": "埼玉県",
+      "city": "ふじみ野市",
+      "opening_date": "2026-11-04",
+      "category": "とんかつ専門店"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -5149,6 +5198,20 @@
       "category": "セレクトショップ（ファッション・アウトドア用品、リニューアル）"
     },
     {
+      "name": "バイク王 岸和田店（移転オープン）",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "opening_date": "2026-11-06",
+      "category": "オートバイ販売・買取（移転オープン）"
+    },
+    {
+      "name": "マックスバリュ新宮店（建替リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "たつの市",
+      "opening_date": "2026-11-06",
+      "category": "スーパーマーケット（建替リニューアル）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -5196,6 +5259,13 @@
       "city": "大野城市",
       "opening_date": "2026-11-07",
       "category": "リユースショップ"
+    },
+    {
+      "name": "すたみな太郎 PREMIUM BUFFET 荒尾店（リニューアル）",
+      "prefecture": "熊本県",
+      "city": "荒尾市",
+      "opening_date": "2026-11-07",
+      "category": "焼肉・寿司・食べ放題（リニューアル）"
     },
     {
       "name": "ワンルーク 北区黒川店",
@@ -5357,6 +5427,13 @@
       "city": "神戸市垂水区",
       "opening_date": "2026-11-11",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "tontonboo 加古川店",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "opening_date": "2026-11-11",
+      "category": "厚切りポークステーキ専門店"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
