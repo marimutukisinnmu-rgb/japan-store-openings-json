@@ -61,6 +61,15 @@
       ],
       "already_registered": 2,
       "added": 0
+    },
+    {
+      "source": "Grandberry Park official 2026 Autumn new-shop list",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "exact_date_candidates": 11,
+      "within_scope_already_registered": 5,
+      "before_scope": 6,
+      "added": 0,
+      "note": "The ReD listing gives only an approximate early-to-mid October window, so it was not assigned a guessed date."
     }
   ],
   "validation": {
