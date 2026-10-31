@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-10-31T22:39:07+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "scope": "2026-09-18/2027-01-22",
+  "before_count": 963,
+  "after_count": 963,
+  "latest_blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333",
+  "added": [],
+  "corrected": [],
+  "removed": [],
+  "source_checks": [
+    {
+      "source": "Second Retailing group November 2026 opening announcement and attached store table",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "domestic_candidates": 9,
+      "matched_existing_records": 9,
+      "added": 0,
+      "details": "The attached table was checked for the nine Japan locations; all nine exact store/date candidates were already present. Overseas locations were excluded from Japan scope."
+    },
+    {
+      "source": "SYNRA GROUP / Eleanor spa&treatment autumn 2026 new-store announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "candidates_checked": 5,
+      "matched_existing_records": 5,
+      "added": 0,
+      "details": "The September 19 pair and the November 1, November 5, and November 30 entries were all already registered."
+    },
+    {
+      "source": "POP MART JAPAN release: LUCUA SOUTH",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "opening_date": "2026-11-24",
+      "matched_existing_record": "POP MART（LUCUA SOUTH）",
+      "added": 0,
+      "details": "Official naming differs slightly from the existing display name; same location/date. Existing record preserved."
+    },
+    {
+      "source": "Toyoko Inn official news: Ofuna Station West Exit",
+      "url": "https://toyoko-inn.co.jp/news/news_261028.html",
+      "opening_date": "2026-10-31",
+      "matched_existing_record": "東横INN大船駅西口",
+      "added": 0
+    },
+    {
+      "source": "Subway Japan official 2026 news: Kawasaki City Hall-mae",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "opening_date": "2026-10-30",
+      "matched_existing_record": "サブウェイ 川崎市役所前店",
+      "added": 0
+    },
+    {
+      "source": "Qu'il fait bon official press release: Shinjuku",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "opening_date": "2026-11-28",
+      "matched_existing_record": "キル フェ ボン新宿",
+      "added": 0
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 963,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_and_opening_date": 0,
+    "chronological_order": "valid",
+    "candidate_matches_verified": 16,
+    "existing_data_preserved": true,
+    "latest_json_written": false,
+    "reason": "No verified, in-scope unregistered candidates found in the checked sources."
+  },
+  "save": {
+    "latest_json": "unchanged",
+    "run_log": "created",
+    "run_log_path": "json/logs/2026-10-31-2239-run.json",
+    "post_save_retrieval": "pending"
+  },
+  "errors": [],
+  "unverified": [
+    "This was a selected-source check, not an exhaustive survey of every Japanese operator.",
+    "Exact opening date not announced for some broader-date announcements; no inferred dates were added."
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "current_run_state": "in_progress",
+    "note": "Automation metadata does not provide a concrete next_run_time or completion timestamp for this run."
+  }
+}
