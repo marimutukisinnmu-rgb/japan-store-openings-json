@@ -1,0 +1,98 @@
+{
+  "run_at": "2026-11-01T01:46:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "dataset": "json/latest.json",
+  "result": {
+    "before_count": 981,
+    "added_count": 0,
+    "updated_count": 0,
+    "removed_count": 0,
+    "after_count": 981,
+    "dataset_updatetime": "2026-11-01T00:39:47+09:00",
+    "blob_sha": "2e8d1eea08df5dfb629041ff41b3239080617af8",
+    "dataset_written": false,
+    "reason": "今回確認した確定日付き候補は既存登録済み。JSON本体は変更せず保護。"
+  },
+  "sources": [
+    {
+      "name": "ローソン公式新店舗一覧",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "details": "2026-11-01〜2026-11-13の28店舗を照合。28件すべて既存登録済み。"
+    },
+    {
+      "name": "キャンドゥ公式2026年お知らせ一覧",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "details": "11/1 Aコープ雄夢店、11/6 DCMニコット羽幌店、11/12苅田店の3件を照合。すべて既存登録済み。"
+    },
+    {
+      "name": "ブルースカイランドリー2026年11月出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "details": "2026年11月の10店舗を照合。10件すべて既存登録済み。"
+    },
+    {
+      "name": "セカンドリテイリング公式2026年11月出店発表（添付店舗表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "details": "日本国内9店舗を照合。9件すべて既存登録済み。海外3店舗は日本国内JSONの対象外。"
+    },
+    {
+      "name": "すかいらーく公式・しゃぶ葉新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "details": "11/27岐阜アクティブＧ店、11/29池田駅前店を含む確定日付き候補を照合。対象2件は既存登録済み。"
+    },
+    {
+      "name": "ゆで太郎公式お知らせ",
+      "url": "https://yudetaro.jp/news/",
+      "details": "11月の利府、環七鹿浜、田川、久御山の4店舗を照合。すべて既存登録済み。"
+    },
+    {
+      "name": "ラスカ平塚公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "details": "11月の新店・リニューアル4件を照合。4件すべて既存登録済み。"
+    },
+    {
+      "name": "ソプラ銀座公式・2026年秋新店舗一覧",
+      "url": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "details": "開店日が確定している4件を照合。すべて既存登録済み。日本橋店は2027年1月予定で日付未確定のため追加せず。"
+    },
+    {
+      "name": "猿田彦珈琲公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000220.000027005.html",
+      "details": "皇居東御苑店の2026-11-03開店を確認。既存登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "details": "LUCUA SOUTH店の2026-11-24開店を確認。既存登録済み。"
+    },
+    {
+      "name": "キル フェ ボン公式・新宿店開店発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "details": "2026-11-28開店を確認。既存登録済み。"
+    },
+    {
+      "name": "東急公式・新綱島MICCAテナント発表",
+      "url": "https://www.tokyu.co.jp/company/news/detail/62046.html",
+      "details": "施設グランドオープン日は2026-10-28と確認。ただし各テナントの個別開店日が確定できないため、店舗ごとの日付を推定して登録せず。"
+    },
+    {
+      "name": "PPIH公式ニュースリリース一覧",
+      "url": "https://ppih.co.jp/news/",
+      "details": "ドン・キホーテ東根店の2026-11-17開店情報を照合。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date": 0,
+    "opening_date_sorted": true,
+    "checked_existing_records_match": true,
+    "post_check_refetch": true
+  },
+  "unverified": [
+    "全国すべての運営会社を網羅した調査ではない。",
+    "ソプラ銀座 日本橋店は2027年1月予定だが、具体的な開店日が未発表のため追加保留。",
+    "新綱島MICCAの個別テナントは、施設の開業日だけでは各店舗の開店日を確定できないため追加保留。"
+  ],
+  "errors": []
+}
