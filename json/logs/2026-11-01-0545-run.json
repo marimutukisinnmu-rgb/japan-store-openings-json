@@ -1,0 +1,112 @@
+{
+  "run_at": "2026-11-01T05:45:09+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "31 currently listed entries (2026-10-16 through 2026-11-13) checked against the JSON; all matched existing records."
+    },
+    {
+      "name": "Blue Sky Laundry official November 2026 release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "10 dated November openings checked; all matched existing records."
+    },
+    {
+      "name": "Second Retailing group official November 2026 release and embedded store table",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "The image table was inspected; all 9 domestic entries matched existing records, including おお蔵 本町駅前店."
+    },
+    {
+      "name": "MOGUえほんランド official Poplar release",
+      "url": "https://www.poplar.co.jp/topics/68930.html",
+      "result": "2026-11-01 opening matched existing record."
+    },
+    {
+      "name": "KALDI official 新さっぽろサンピアザ店 listing",
+      "url": "https://map.kaldi.co.jp/kaldi/detailMap?accmd=&account=kaldi&bid=614&bsort=4&range=Month&rangeval=0",
+      "result": "2026-11-19 opening matched existing record."
+    },
+    {
+      "name": "POP MART JAPAN release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "LUCUA SOUTH opening on 2026-11-24 matched existing record."
+    },
+    {
+      "name": "弥栄（イヤサカ） local coverage based on official Instagram",
+      "url": "https://www.gummaumaimono.info/entry/2026/10/31/172249",
+      "result": "2026-11-01 opening and address in Kashiwa were reported from the official Instagram post; corroborated by local Kashiwa coverage. Added."
+    },
+    {
+      "name": "中華 一番 revival local report and operator project page",
+      "url": "https://kashiwa-tsushin.com/27353.html",
+      "result": "Local report documents the 2026-11-01 revival notice; operator's project page confirms the revival and address. Added as a reopening."
+    },
+    {
+      "name": "喜元門 つくば北条店 local coverage based on official Instagram",
+      "url": "https://www.gummaumaimono.info/entry/2026/10/31/165846",
+      "result": "2026-11-19 planned opening and Tsukuba address reported from the official Instagram; recruitment listings also corroborate the date and location. Added."
+    }
+  ],
+  "changes": {
+    "before_count": 982,
+    "added": 3,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 985,
+    "items": [
+      {
+        "name": "弥栄（イヤサカ）",
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "opening_date": "2026-11-01",
+        "category": "まぜそば専門店"
+      },
+      {
+        "name": "中華 一番（復活オープン）",
+        "prefecture": "千葉県",
+        "city": "柏市",
+        "opening_date": "2026-11-01",
+        "category": "中華料理（復活オープン）"
+      },
+      {
+        "name": "喜元門 つくば北条店",
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "opening_date": "2026-11-19",
+        "category": "ラーメン"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "45e1d3e1151fb3610fe97baadb5ed15847fb39e6",
+    "blob_sha": "44367061d8019918b9123be022c8bc180e3828d7",
+    "refetched_blob_sha": "44367061d8019918b9123be022c8bc180e3828d7",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "old_items_preserved": true,
+    "missing_old": 0,
+    "new_items_present": true,
+    "new_items_missing": 0,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "out_of_order": 0,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This was a selected-source check, not an exhaustive scan of every operator in Japan.",
+    "For 弥栄 and 喜元門 つくば北条店, the official Instagram posts were referenced by local reporting; the Instagram pages themselves were not directly fetched during this run.",
+    "The exact opening date for クレーン横丁 極 相模原小山店 was not disclosed (reported as late November only), so it was not added."
+  ],
+  "unconfirmed": [
+    "クレーン横丁 極 相模原小山店: exact opening date remains unconfirmed; excluded from JSON.",
+    "No other newly identified candidate with a sufficiently confirmed opening date was left unprocessed."
+  ]
+}
