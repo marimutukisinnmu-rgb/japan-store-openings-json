@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-10-31T15:46:37+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "LD&K official company announcement",
+      "url": "https://ldandk.com/blog/2026/10/08/%E7%A6%8F%E5%B2%A1%E3%83%BB%E5%A4%A9%E7%A5%9E%E3%81%AB%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%A9%E3%82%A4%E3%83%96%E3%83%8F%E3%82%A6%E3%82%B9%E3%80%8C%E5%A4%A9%E7%A5%9E%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0/",
+      "checked_for": "天神シャングリラ opening and inaugural performance",
+      "result": "Official release states November 2026 grand opening and a 2026-11-30 kokeraotoshi event; address is 福岡県福岡市中央区今泉2-4-28 IMAIZUMI IN PLACE 5階. Added with opening_date 2026-11-30, using the official inaugural-event date."
+    },
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_for": "Upcoming entries, including 2026-11-04 through 2026-11-13",
+      "result": "23 specifically checked store-name/date candidates matched existing latest.json entries; no duplicate additions needed."
+    },
+    {
+      "source": "Second Retailing group release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked_for": "2026-11 group opening table (image attachment)",
+      "result": "The attached table was visually inspected. All 9 Japan-based opening records match existing latest.json entries. The 3 overseas records are outside the Japan scope."
+    },
+    {
+      "source": "SYNRA Group official announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "checked_for": "Eleanor spa&treatment 郡山店, 池袋3rd店, 沖縄北谷店",
+      "result": "The official 2026-10-28 announcement confirms the planned dates 2026-11-01, 2026-11-05, and 2026-11-30; all 3 are already present with matching dates and cities."
+    },
+    {
+      "source": "POP MART JAPAN official release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked_for": "POP MART LUCUA SOUTH店, scheduled 2026-11-24",
+      "result": "Already present as POP MART（LUCUA SOUTH） with matching date and city."
+    },
+    {
+      "source": "gelato pique official release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000004458.000018505.html",
+      "checked_for": "gelato pique シャミネ松江店, opened 2026-10-30",
+      "result": "Already present with matching date and city."
+    }
+  ],
+  "added": [
+    {
+      "name": "天神シャングリラ",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-30",
+      "category": "ライブハウス",
+      "source": "LD&K official company announcement"
+    }
+  ],
+  "change_summary": {
+    "before": 929,
+    "added": 1,
+    "after": 930,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "required_fields": true,
+    "required_fields_missing": 0,
+    "valid_date_format": true,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "duplicate_name_date_keys": 0,
+    "existing_items_preserved": true,
+    "added_item_present_after_write": true,
+    "latest_blob_sha": "1f552c358b36f5ef36b051f71a2689eb4ed99876"
+  },
+  "data_blob_sha": "1f552c358b36f5ef36b051f71a2689eb4ed99876",
+  "unconfirmed": "トレトレ倉庫 久留米店 is mentioned in local news and job listings as opening in late November, but an exact date was not confirmed from an official source; it was not added. This source pass is not exhaustive across every nationwide operator.",
+  "automation_check": {
+    "enabled": true,
+    "schedule": "Hourly",
+    "next_run_time": "not returned by management lookup",
+    "schedule_changed": false,
+    "task_disabled": false
+  }
+}
