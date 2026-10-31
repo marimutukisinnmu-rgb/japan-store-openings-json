@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T19:44:30+09:00",
+  "updatetime": "2026-10-31T23:48:42+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4575,6 +4575,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "ケンタッキーフライドチキン 湊川店",
+      "prefecture": "兵庫県",
+      "city": "神戸市兵庫区",
+      "opening_date": "2026-11-04",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -4727,6 +4734,13 @@
       "city": "横浜市鶴見区",
       "opening_date": "2026-11-05",
       "category": "家電量販店"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンタウン山科椥辻店",
+      "prefecture": "京都府",
+      "city": "京都市山科区",
+      "opening_date": "2026-11-05",
+      "category": "ファストフード"
     },
     {
       "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
@@ -5723,6 +5737,13 @@
       "category": "ファミリーレストラン"
     },
     {
+      "name": "ケンタッキーフライドチキン イオンモールかほく店",
+      "prefecture": "石川県",
+      "city": "かほく市",
+      "opening_date": "2026-11-17",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP 上越東本町",
       "opening_date": "2026-11-18",
       "prefecture": "新潟県",
@@ -6318,6 +6339,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "ケンタッキーフライドチキン 堺大庭寺店",
+      "prefecture": "大阪府",
+      "city": "堺市南区",
+      "opening_date": "2026-11-24",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP うきは吉井",
       "opening_date": "2026-11-25",
       "prefecture": "福岡県",
@@ -6426,6 +6454,13 @@
       "name": "マクドナルド 吉川栄店",
       "prefecture": "埼玉県",
       "city": "吉川市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンタウン久留米東櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
       "opening_date": "2026-11-26",
       "category": "ファストフード"
     },
