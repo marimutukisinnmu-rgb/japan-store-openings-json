@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T15:46:37+09:00",
+  "updatetime": "2026-10-31T16:45:53+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4022,6 +4022,13 @@
       "category": "キッズ・ファッション"
     },
     {
+      "name": "ホビーオフ 清水岡町店",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-10-30",
+      "category": "リユースショップ"
+    },
+    {
       "name": "ASICS PICKLEBALL CONNECT",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -4603,6 +4610,20 @@
       "category": "コインランドリー"
     },
     {
+      "name": "セリア ベイシア更埴店",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "opening_date": "2026-11-05",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "やよい軒 調布駅北口店",
+      "prefecture": "東京都",
+      "city": "調布市",
+      "opening_date": "2026-11-05",
+      "category": "定食・和食"
+    },
+    {
       "name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
       "prefecture": "埼玉県",
       "city": "羽生市",
@@ -4925,6 +4946,27 @@
       "category": "生活雑貨（期間限定ポップアップ）"
     },
     {
+      "name": "ハードオフ 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "オフハウス 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "ホビーオフ 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -4958,6 +5000,20 @@
       "city": "横浜市西区",
       "opening_date": "2026-11-07",
       "category": "化粧品・スキンケア（百貨店カウンター）"
+    },
+    {
+      "name": "ハードオフ イオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2026-11-07",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "オフハウス イオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2026-11-07",
+      "category": "リユースショップ"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5868,6 +5924,20 @@
       "city": "糟屋郡粕屋町",
       "opening_date": "2026-11-20",
       "category": "ファミリーレストラン"
+    },
+    {
+      "name": "ハードオフ 大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-20",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "ホビーオフ 大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-20",
+      "category": "リユースショップ"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
