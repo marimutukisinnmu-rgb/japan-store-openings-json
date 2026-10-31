@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-01T02:41:41+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "dataset": "json/latest.json",
+  "result": {
+    "before_count": 981,
+    "added_count": 0,
+    "updated_count": 0,
+    "removed_count": 0,
+    "after_count": 981,
+    "dataset_updatetime": "2026-11-01T00:39:47+09:00",
+    "blob_sha": "2e8d1eea08df5dfb629041ff41b3239080617af8",
+    "dataset_written": false,
+    "reason": "今回確認した確定日付き候補は既存登録済み。JSON本体は変更せず保護。"
+  },
+  "sources": [
+    {
+      "name": "ローソン公式新店舗一覧",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "details": "11/1〜11/13掲載分28件を照合。すべて既存登録済み。"
+    },
+    {
+      "name": "すかいらーく公式・しゃぶ葉新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "details": "10/31イオンモール福岡伊都店、11/27岐阜アクティブＧ店、11/29池田駅前店を確認。既存登録済み。"
+    },
+    {
+      "name": "ゆで太郎公式お知らせ",
+      "url": "https://yudetaro.jp/news/",
+      "details": "11月の利府、環七鹿浜、田川、久御山の4店舗を確認。すべて既存登録済み。"
+    },
+    {
+      "name": "ラーメン魁力屋公式・新店舗一覧",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "details": "長野平林店の11/4開店を確認。既存登録済み。"
+    },
+    {
+      "name": "ブルースカイランドリー2026年11月出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "details": "11月新規10店舗の店名・日付を照合。10件すべて既存登録済み。"
+    },
+    {
+      "name": "ソプラ銀座公式・2026年秋新店舗一覧",
+      "url": "https://sopraginza.co.jp/news/new-stores-2026-autumn/",
+      "details": "文京白山店の11/1開店を確認。既存登録済み。日付未確定の日本橋店は追加対象外。"
+    },
+    {
+      "name": "OSTERIA SALVATORE 阿佐ヶ谷公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+      "details": "11/1グランドオープンを確認。既存登録済み。"
+    },
+    {
+      "name": "銀座おのでら公式・立鮨エキュート大宮店発表",
+      "url": "https://onodera-group.com/news/7933/",
+      "details": "11/13グランドオープン予定を確認。既存登録済み。"
+    },
+    {
+      "name": "VENEX公式・neverbetter発表",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "details": "11/15オープンを確認。既存登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "details": "LUCUA SOUTH店の11/24グランドオープンを確認。既存登録済み。"
+    },
+    {
+      "name": "サブウェイ公式・川崎市役所前店発表",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "details": "10/30オープンを確認。既存登録済み。"
+    },
+    {
+      "name": "串カツ田中公式お知らせ",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "details": "エキシティヒロシマ店の10/30オープンを確認。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date": 0,
+    "opening_date_sorted": true,
+    "checked_existing_records_match": true,
+    "post_check_refetch": true
+  },
+  "unverified": [
+    "全国すべての運営会社を網羅した調査ではない。",
+    "具体的な開店日が未確定の候補は推測登録せず保留。"
+  ],
+  "errors": []
+}
