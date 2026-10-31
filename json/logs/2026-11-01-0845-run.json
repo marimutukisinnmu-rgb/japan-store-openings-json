@@ -1,0 +1,148 @@
+{
+  "run_at": "2026-11-01T08:45:29+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "MaxValu Tokai official opening notice (PDF)",
+      "url": "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/10/e34e76250e7ef1a32a759451af86a0a4-1.pdf",
+      "result": "Official notice confirms MaxValu Express Kakuozan Station-front store opens 2026-11-05 and Shinsakae 1-chome store opens 2026-11-12; both absent from baseline and added."
+    },
+    {
+      "name": "Food Market Mam official news",
+      "url": "https://foodmarket-mom.com/news_topics/",
+      "result": "Official news confirms Food Market Mam Koto store opens in Yaizu on 2026-11-11; absent from baseline and added."
+    },
+    {
+      "name": "Valor official store page and announcement",
+      "url": "https://stores.valor.jp/detail/317/",
+      "result": "Official Valor store page confirms Supermarket Valor Honhaneda store opens 2026-11-06 at Ota-ku Honhaneda 1-23-25; absent from baseline and added."
+    },
+    {
+      "name": "Ryutsu News retail trade report for Valor Honhaneda tenants",
+      "url": "https://www.ryutsuu.biz/store/s103078.html",
+      "result": "Trade report lists Pony Cleaning opening 2026-11-06, Nojima 2026-11-19, and Sugi Pharmacy, Seria, JINS on 2026-11-26 within Valor Honhaneda; these five tenant records were absent and added. Dates are from the trade report, not separately verified on each tenant's own official announcement in this run."
+    },
+    {
+      "name": "Second Retailing official November opening release (PR TIMES image table)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "Checked the domestic entries. OKURA 本町駅前店 (2026-11-20) was already in latest.json; other checked domestic entries matched existing records. No duplicate additions."
+    },
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "Reviewed the November 4-13 openings; checked candidates were already registered."
+    },
+    {
+      "name": "Yudetaro official news",
+      "url": "https://yudetaro.jp/news/",
+      "result": "November 4, 6, 25, and 27 locations checked against latest.json; all already registered."
+    },
+    {
+      "name": "Grandberry Park official Autumn 2026 new/renewal page",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "COHINA (2026-11-12) and Margaret Howell A.G.O. (2026-11-13) already registered. ReD only has a broad October opening window, so no exact date was inferred."
+    }
+  ],
+  "changes": {
+    "before_count": 997,
+    "added": 9,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1006,
+    "items": [
+      {
+        "name": "マックスバリュエクスプレス覚王山駅前店",
+        "prefecture": "愛知県",
+        "city": "名古屋市千種区",
+        "opening_date": "2026-11-05",
+        "category": "食品スーパー（都市型小型店）"
+      },
+      {
+        "name": "スーパーマーケット バロー本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-06",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "ポニークリーニング バロー本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-06",
+        "category": "クリーニング"
+      },
+      {
+        "name": "フードマーケット マム 小土店",
+        "prefecture": "静岡県",
+        "city": "焼津市",
+        "opening_date": "2026-11-11",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "マックスバリュエクスプレス新栄1丁目店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-11-12",
+        "category": "食品スーパー（都市型小型店）"
+      },
+      {
+        "name": "ノジマ バロー本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-19",
+        "category": "家電量販店"
+      },
+      {
+        "name": "スギ薬局 本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-26",
+        "category": "ドラッグストア"
+      },
+      {
+        "name": "セリア バロー本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-26",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "JINS バロー本羽田店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-26",
+        "category": "メガネ・アイウェア"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "fe81ac8e9d2ec5f8b5a2b9805c9a005f63444d7b",
+    "blob_sha": "a388bb44d5a966ad5f3673324e94f23b62b8ba70",
+    "refetched_blob_sha": "a388bb44d5a966ad5f3673324e94f23b62b8ba70",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "before_count": 997,
+    "after_count": 1006,
+    "old_items_preserved": true,
+    "missing_old_items": 0,
+    "new_items_present": true,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This is a selected-source review, not an exhaustive scan of every operator in Japan.",
+    "The five Valor Honhaneda tenant opening dates are supported by a reputable retail trade report; individual tenant official announcements were not separately found in this run.",
+    "Month-only or broad-window announcements were not converted to exact dates."
+  ],
+  "unconfirmed": [
+    "Grandberry Park ReD: listed only as October early-to-mid period; exact opening day not confirmed, excluded."
+  ]
+}
