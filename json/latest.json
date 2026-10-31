@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T04:48:10+09:00",
+  "updatetime": "2026-11-01T05:45:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4449,6 +4449,20 @@
       "category": "おでん居酒屋（リニューアル）"
     },
     {
+      "name": "弥栄（イヤサカ）",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-11-01",
+      "category": "まぜそば専門店"
+    },
+    {
+      "name": "中華 一番（復活オープン）",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-11-01",
+      "category": "中華料理（復活オープン）"
+    },
+    {
       "name": "合 Shinjuku",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -5945,6 +5959,13 @@
       "city": "札幌市厚別区",
       "opening_date": "2026-11-19",
       "category": "輸入食品・コーヒー"
+    },
+    {
+      "name": "喜元門 つくば北条店",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "opening_date": "2026-11-19",
+      "category": "ラーメン"
     },
     {
       "name": "chocoZAP 嘉麻鴨生",
