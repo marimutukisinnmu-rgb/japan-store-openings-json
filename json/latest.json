@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T00:39:47+09:00",
+  "updatetime": "2026-11-01T04:48:10+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4440,6 +4440,13 @@
       "city": "宮崎市",
       "opening_date": "2026-11-01",
       "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "おでん屋たけし 池袋西口店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-01",
+      "category": "おでん居酒屋（リニューアル）"
     },
     {
       "name": "合 Shinjuku",
