@@ -1,0 +1,311 @@
+{
+  "run_at": "2026-10-31T18:46:05+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "SelfCafe operator press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001181.000045400.html",
+      "result": "Confirmed 2026-10-31 opening and Ogaki location."
+    },
+    {
+      "source": "Solana Resort official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000113704.html",
+      "result": "Confirmed 2026-10-31 opening and Kamisu location."
+    },
+    {
+      "source": "Terakoya official SNOOPY Village press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000187.000035374.html",
+      "result": "Confirmed three Miyajima shops opening 2026-10-31; each entered separately."
+    },
+    {
+      "source": "Maneki Foods official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000039.000066514.html",
+      "result": "Confirmed Takeda no Hamburger Restaurant opening 2026-10-31 in Himeji."
+    },
+    {
+      "source": "Transit Holdings official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000513.000040062.html",
+      "result": "Confirmed L’HISTORIQUE Isetan Shinjuku opening 2026-10-28."
+    },
+    {
+      "source": "Autumn Hills official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000192368.html",
+      "result": "Confirmed Yomogi Mushi Kameido opening 2026-10-31."
+    },
+    {
+      "source": "Ganesha official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000151.000087376.html",
+      "result": "Confirmed SHOGUN BURGER Kyoto Teramachi Kyogoku opening 2026-10-31."
+    },
+    {
+      "source": "RAWgood official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000191844.html",
+      "result": "Confirmed Ishigaki burger shop opening 2026-11-01."
+    },
+    {
+      "source": "GYRO HOLDINGS official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001070.000005340.html",
+      "result": "Confirmed Okaka Huis Ten Bosch opening 2026-11-01."
+    },
+    {
+      "source": "LAVA International official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000164.000036736.html",
+      "result": "Confirmed Rintosull Amu Plaza Miyazaki opening 2026-11-01."
+    },
+    {
+      "source": "Nojima official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "result": "Confirmed Nojima Homes Shin-Kawasaki opening 2026-11-05; location is Yokohama Tsurumi-ku."
+    },
+    {
+      "source": "PANDORA Jewelry Japan official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000097.000066920.html",
+      "result": "Confirmed Pandora Kobe Center Plaza opening 2026-11-06."
+    },
+    {
+      "source": "Aeon Mall Kawaguchi Maekawa official notice",
+      "url": "https://kawaguchimaekawa.aeonmall.jp/news/renewal/9aa1a702-6cfe-4b78-b29e-63175c8ea83c",
+      "result": "Confirmed 2026-11-06 renewal of Daikanyama Candy apple with Asakusa Imagawa-yaki Tsuki no Usagi."
+    },
+    {
+      "source": "Japan Pet Hotel Association official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000142773.html",
+      "result": "Confirmed Wanluke Kita-ku Kurokawa opening 2026-11-09."
+    },
+    {
+      "source": "Terakoya official Chiikawa Baby Castella press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000186.000035374.html",
+      "result": "Confirmed Kyoto Nishiki shop opening 2026-11-18."
+    },
+    {
+      "source": "McDonald’s official crew recruitment page",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/11789",
+      "result": "Confirmed Yoshikawa Sakae store opening 2026-11-26 and Yoshikawa location."
+    },
+    {
+      "source": "McDonald’s official crew recruitment page",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/r01658",
+      "result": "Confirmed Asahigaoka store opening 2026-11-27 and Sapporo Chuo-ku location."
+    },
+    {
+      "source": "Escon official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000118.000090191.html",
+      "result": "Confirmed tonarie Kurihama Park opening 2026-11-28 in Yokosuka."
+    },
+    {
+      "source": "MambaLike official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000176132.html",
+      "result": "Confirmed LifeFit Al Plaza Uji East opening 2026-11-28."
+    }
+  ],
+  "matched_existing": [
+    {
+      "name": "P.Seven茶香水 表参道ブランドコンセプトストア",
+      "opening_date": "2026-12-10",
+      "result": "Already present with matching date; existing category retained."
+    },
+    {
+      "name": "ラ・プレリー（横浜髙島屋1階）",
+      "opening_date": "2026-11-07",
+      "result": "Already present with matching date; no duplicate added."
+    },
+    {
+      "name": "ゴンチャ ルミネエスト新宿店",
+      "opening_date": "2026-11-06",
+      "result": "Already present with matching date; no duplicate added."
+    },
+    {
+      "name": "THE CITY BAKERY ジェイアール名古屋タカシマヤ店",
+      "opening_date": "2026-11-12",
+      "result": "Already present with matching date; no duplicate added."
+    },
+    {
+      "name": "セカンドストリート 淵野辺南店",
+      "opening_date": "2026-11-06",
+      "result": "Existing record appears to correspond to the official Second Retailing Fuchinobe entry by date/location; no duplicate or rename applied while source-name variant remains unresolved."
+    }
+  ],
+  "added": [
+    {
+      "name": "L’HISTORIQUE 伊勢丹新宿店",
+      "opening_date": "2026-10-28",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "category": "パティスリー・洋菓子"
+    },
+    {
+      "name": "セルフカフェ イオンタウン大垣店",
+      "opening_date": "2026-10-31",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "category": "無人カフェ・ワークスペース"
+    },
+    {
+      "name": "Solana Smart INN 神栖",
+      "opening_date": "2026-10-31",
+      "prefecture": "茨城県",
+      "city": "神栖市",
+      "category": "ホテル"
+    },
+    {
+      "name": "SNOOPY茶屋 宮島店",
+      "opening_date": "2026-10-31",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "category": "キャラクターカフェ・雑貨"
+    },
+    {
+      "name": "SNOOPY Chocolat 宮島店",
+      "opening_date": "2026-10-31",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "category": "チョコレート・キャラクター雑貨"
+    },
+    {
+      "name": "WOODSTOCK NEST Sweets & Goodies 宮島店",
+      "opening_date": "2026-10-31",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "category": "スイーツ・キャラクター雑貨"
+    },
+    {
+      "name": "たけだのハンバーグ レストラン",
+      "opening_date": "2026-10-31",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "category": "ハンバーグレストラン"
+    },
+    {
+      "name": "夢みるよもぎ蒸し亀戸店",
+      "opening_date": "2026-10-31",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "category": "よもぎ蒸し専門サロン"
+    },
+    {
+      "name": "SHOGUN BURGER 京都寺町京極店",
+      "opening_date": "2026-10-31",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "category": "ハンバーガー専門店"
+    },
+    {
+      "name": "RAWgood HAMBURGUERIA",
+      "opening_date": "2026-11-01",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "出汁しゃぶおばんざい おかか ハウステンボス店",
+      "opening_date": "2026-11-01",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "category": "和食・出汁しゃぶ"
+    },
+    {
+      "name": "Rintosull アミュプラザみやざき店",
+      "opening_date": "2026-11-01",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "opening_date": "2026-11-05",
+      "prefecture": "神奈川県",
+      "city": "横浜市鶴見区",
+      "category": "家電量販店"
+    },
+    {
+      "name": "Pandora 神戸センタープラザ店",
+      "opening_date": "2026-11-06",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "category": "ジュエリー・アクセサリー"
+    },
+    {
+      "name": "代官山Candy apple／浅草今川焼 月のうさぎ（イオンモール川口前川）",
+      "opening_date": "2026-11-06",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "category": "りんご飴・今川焼（リニューアル）"
+    },
+    {
+      "name": "ワンルーク 北区黒川店",
+      "opening_date": "2026-11-09",
+      "prefecture": "愛知県",
+      "city": "名古屋市北区",
+      "category": "ペットホテル"
+    },
+    {
+      "name": "ちいかわベビーカステラ 京都錦店",
+      "opening_date": "2026-11-18",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "category": "キャラクター菓子・テイクアウト"
+    },
+    {
+      "name": "マクドナルド 吉川栄店",
+      "opening_date": "2026-11-26",
+      "prefecture": "埼玉県",
+      "city": "吉川市",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 旭ヶ丘店",
+      "opening_date": "2026-11-27",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "category": "ファストフード"
+    },
+    {
+      "name": "トナリエ久里浜パーク",
+      "opening_date": "2026-11-28",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "category": "ショッピングセンター"
+    },
+    {
+      "name": "LifeFit アル・プラザ宇治東店",
+      "opening_date": "2026-11-28",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "category": "フィットネスジム"
+    }
+  ],
+  "change_summary": {
+    "before": 940,
+    "added": 21,
+    "after": 961,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "count_before": 940,
+    "added": 21,
+    "count_after": 961,
+    "new_items_found": 21,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date_keys": 0,
+    "chronological_order": true,
+    "existing_items_preserved": true,
+    "blob_sha_matches_write": true,
+    "blob_sha": "82e998a12a535f80e692b982b551a4b5b719b57a",
+    "commit_sha": "caff846adb52715822851ca6a586cb9dbdc36f48"
+  },
+  "data_blob_sha": "82e998a12a535f80e692b982b551a4b5b719b57a",
+  "unconfirmed": "This was a focused scan of current official announcements, not an exhaustive review of every operator nationwide. A Fuchinobe candidate was not duplicated or renamed because the existing 2026-11-06 'セカンドストリート 淵野辺南店' record appears to match by date/location, while a source-name variant remains unresolved. Unverified opening dates were not inferred.",
+  "automation_check": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20260828T064357\nRRULE:FREQ=HOURLY\nEND:VEVENT",
+    "next_run_time": "not returned",
+    "schedule_changed": false,
+    "task_disabled": false,
+    "last_run_status": "in_progress",
+    "last_run_completed_at": null
+  }
+}
