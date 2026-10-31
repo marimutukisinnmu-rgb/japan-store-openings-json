@@ -100,9 +100,24 @@
         "https://www.lawson.co.jp/newstore/smt/"
       ],
       "result": "候補を照合。今回確認した対象は既存登録済み。"
+    },
+    {
+      "publisher": "株式会社ノジマ",
+      "title": "ホームズ新川崎店の開店日について公式情報に不一致",
+      "urls": [
+        "https://www.nojima.co.jp/news/category/press/732372/",
+        "https://www.nojima.co.jp/campaign/chirashi-homes_shinkawasaki/",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/"
+      ],
+      "result": "公式プレスリリースとキャンペーンページは2026-11-05、個別店舗ページは2026-11-07。公式ページ間の不一致が残るため追加保留。"
     }
   ],
-  "deferred": [],
+  "deferred": [
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "reason": "公式プレスリリース・キャンペーンページは2026-11-05、公式個別店舗ページは2026-11-07と不一致。日付が確定するまで追加保留。"
+    }
+  ],
   "validation": {
     "json_parse": "passed",
     "count": 908,
@@ -119,6 +134,7 @@
   "notes": [
     "NewDays盛岡フェザンクラッセとビッグ・エー3店舗を追加。既存904件は内容・順序を保持。",
     "公式発表で日付が確定している候補のみ反映。未確認の日付から推測登録していない。",
-    "定期タスクの管理情報では有効状態を確認。次回実行時刻は取得できず、最新の実行レコードはin_progress・完了時刻なし。"
+    "定期タスクの管理情報では有効状態を確認。次回実行時刻は取得できず、最新の実行レコードはin_progress・完了時刻なし。",
+    "ノジマ ホームズ新川崎店は今回も公式ページ間で開店日が一致せず、latest.jsonへは追加していない。"
   ]
 }
