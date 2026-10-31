@@ -1,0 +1,52 @@
+{
+  "run_at": "2026-10-31T14:40:04+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_for": "Upcoming openings listed for 2026-11-01 through 2026-11-13",
+      "result": "28 official entries compared against latest.json; all 28 already present with matching opening dates and names"
+    },
+    {
+      "source": "PRONTO Corporation official release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000348.000018877.html",
+      "checked_for": "PRONTO 新小岩店, scheduled 2026-11-24",
+      "result": "Already present in latest.json with matching date and city"
+    },
+    {
+      "source": "POP MART JAPAN official release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked_for": "POP MART LUCUA SOUTH店, scheduled 2026-11-24",
+      "result": "Already present under the existing name POP MART（LUCUA SOUTH） with matching date and city; no duplicate added"
+    },
+    {
+      "source": "Second Retailing group release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked_for": "2026-11 group store openings",
+      "result": "Release overview reviewed; detailed store table is image-based and was not independently parsed during this run, so it was not used to make changes"
+    }
+  ],
+  "added": [],
+  "change_summary": {
+    "before": 929,
+    "added": 0,
+    "after": 929,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "required_fields": true,
+    "required_fields_missing": 0,
+    "valid_date_format": true,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "duplicate_name_date_keys": 0,
+    "latest_blob_sha": "81df46ab9a7609ae12b2151af47d4010fbf433ac",
+    "no_json_write_needed": true
+  },
+  "data_blob_sha": "81df46ab9a7609ae12b2151af47d4010fbf433ac",
+  "unconfirmed": "No additional item was added from this source pass. This review is not an exhaustive check of every nationwide operator or every future opening; the Second Retailing release's image-based detail table was not parsed in this run."
+}
