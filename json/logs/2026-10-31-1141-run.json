@@ -1,0 +1,124 @@
+{
+  "run_at": "2026-10-31T11:41:37+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 904,
+    "blob_sha": "aaf00363fa9974770db64807a9d44ab1d8095f17"
+  },
+  "after": {
+    "count": 908,
+    "blob_sha": "3acb7fbec7f0ec272bf464b9aacb7961b943d1d4",
+    "commit_sha": "95252428ccd430539b4041cd8ddb1d968e1272dc"
+  },
+  "added_count": 4,
+  "additions": [
+    {
+      "name": "NewDays盛岡フェザンクラッセ",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "opening_date": "2026-10-28",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ビッグ・エー越谷東大沢二丁目店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-10-31",
+      "category": "ディスカウントストア"
+    },
+    {
+      "name": "ビッグ・エー狭山中央店",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-11-21",
+      "category": "ディスカウントストア"
+    },
+    {
+      "name": "ビッグ・エー清瀬駅北口店",
+      "prefecture": "東京都",
+      "city": "清瀬市",
+      "opening_date": "2026-11-28",
+      "category": "ディスカウントストア"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社JR東日本クロスステーション／盛岡駅ビル フェザン",
+      "title": "NewDays盛岡フェザンクラッセ 2026年10月28日新規オープン",
+      "urls": [
+        "https://retail.jr-cross.co.jp/newdays/campaign/nd_moriokafesanclasse.html",
+        "https://fesan-jp.com/news/2026/10/26/3290.html",
+        "https://fesan-jp.com/shop/shop315.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-10-28）",
+        "所在地（岩手県盛岡市、盛岡駅ビル フェザンクラッセ2F）"
+      ]
+    },
+    {
+      "publisher": "株式会社ビッグ・エー",
+      "title": "公式新店情報：越谷東大沢二丁目店・狭山中央店・清瀬駅北口店",
+      "urls": [
+        "https://www.biga.co.jp/newshop/",
+        "https://www.biga.co.jp/newopen/2026%E5%B9%B410%E6%9C%8831%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%BC%E8%B6%8A%E8%B0%B7%E6%9D%B1%E5%A4%A7%E6%B2%A2%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/",
+        "https://www.biga.co.jp/newopen/2026%E5%B9%B411%E6%9C%8821%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%BC%E7%8B%AD%E5%B1%B1%E4%B8%AD%E5%A4%AE%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/",
+        "https://www.biga.co.jp/newopen/2026%E5%B9%B411%E6%9C%8828%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%BC%E6%B8%85%E7%80%AC%E9%A7%85%E5%8C%97%E5%8F%A3%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/",
+        "https://biga-saiyo.net/jobfind-pc/job/All/9306"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-10-31、2026-11-21、2026-11-28）",
+        "所在地（埼玉県越谷市、埼玉県狭山市、東京都清瀬市）"
+      ]
+    },
+    {
+      "publisher": "株式会社ジーアイビー",
+      "title": "ブルースカイランドリー 2026年11月全国10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "10店舗を照合。すべて既存登録済み。"
+    },
+    {
+      "publisher": "株式会社串カツ田中ホールディングス",
+      "title": "串カツ田中 エキシティヒロシマ店 2026年10月30日新規オープン",
+      "url": "https://www.kushi-tanaka.com/news/",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "株式会社ケーズホールディングス",
+      "title": "ケーズデンキ 山口店 2026年10月29日オープン",
+      "url": "https://www.ksdenki.co.jp/store/open/",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "title": "公式新店舗情報",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/"
+      ],
+      "result": "候補を照合。今回確認した対象は既存登録済み。"
+    }
+  ],
+  "deferred": [],
+  "validation": {
+    "json_parse": "passed",
+    "count": 908,
+    "required_fields": "passed",
+    "valid_iso_dates": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "addition_present_once": "passed",
+    "old_entries_preserved_in_original_order": "passed",
+    "saved_file_refetched": "passed",
+    "saved_blob_sha_matches_write_result": "passed"
+  },
+  "task_errors": [],
+  "notes": [
+    "NewDays盛岡フェザンクラッセとビッグ・エー3店舗を追加。既存904件は内容・順序を保持。",
+    "公式発表で日付が確定している候補のみ反映。未確認の日付から推測登録していない。",
+    "定期タスクの管理情報では有効状態を確認。次回実行時刻は取得できず、最新の実行レコードはin_progress・完了時刻なし。"
+  ]
+}
