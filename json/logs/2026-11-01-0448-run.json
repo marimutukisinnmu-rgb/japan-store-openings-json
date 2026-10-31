@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-01T04:48:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "28 listed entries checked; matched existing records"
+    },
+    {
+      "name": "CanDo official news",
+      "url": "https://www.cando-web.co.jp/news/",
+      "result": "recent November openings checked; matched existing records"
+    },
+    {
+      "name": "Blue Sky Laundry official November release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "10 November openings checked; matched existing records"
+    },
+    {
+      "name": "Second Retailing group official November release and image table",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "9 domestic openings checked; all already present including Fuchinobe Minami"
+    },
+    {
+      "name": "Hotland group / Odenya Takeshi renewal announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000795.000031747.html",
+      "result": "Ikebukuro West store renewal dated 2026-11-01; added"
+    }
+  ],
+  "changes": {
+    "before_count": 981,
+    "added": 1,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 982,
+    "items": [
+      {
+        "name": "おでん屋たけし 池袋西口店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-01",
+        "category": "おでん居酒屋（リニューアル）"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "096adbaa956d62b10348ecfb5611633962a07dbc",
+    "blob_sha": "dcd673835f6f23dfa4fcb9f7397933dcf1a4dee3",
+    "refetched_blob_sha": "dcd673835f6f23dfa4fcb9f7397933dcf1a4dee3",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "old_items_preserved": true,
+    "missing_old": 0,
+    "new_item_present": true,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "out_of_order": 0,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This was a selected-source check, not an exhaustive scan of every operator in Japan.",
+    "The Second Retailing store table is embedded as an image; it was inspected visually."
+  ],
+  "unconfirmed": [
+    "No other newly identified candidate with a confirmed exact opening date was added."
+  ]
+}
