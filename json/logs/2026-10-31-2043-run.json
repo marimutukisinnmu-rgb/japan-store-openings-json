@@ -1,0 +1,64 @@
+{
+  "run_at": "2026-10-31T20:43:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "scope": "2026-09-18/2027-01-22",
+  "before_count": 963,
+  "after_count": 963,
+  "added": [],
+  "corrected": [],
+  "removed": [],
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_openings": 31,
+      "already_registered": 31,
+      "added": 0,
+      "details": "Official entries from 2026-10-16 through 2026-11-13 were compared against the current JSON."
+    },
+    {
+      "source": "Second Retailing group November 2026 release and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "domestic_candidates": 9,
+      "already_registered": 9,
+      "added": 0,
+      "details": "Domestic store entries in the attached table were matched; overseas locations excluded from Japan scope."
+    },
+    {
+      "source": "Skylark/Gusto official new-store list",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "in_scope_candidates": 3,
+      "already_registered": 3,
+      "added": 0,
+      "details": "The 2026-11-15, 2026-11-17, and 2026-11-20 entries were already present."
+    },
+    {
+      "source": "Aeon Mall Hanyu official store update",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "candidate": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+      "opening_date": "2026-11-06",
+      "result": "already_registered",
+      "added": 0
+    }
+  ],
+  "validation": {
+    "current_latest_blob_sha": "14b9172a72aa260fe83584a34b35de9dee7e6333",
+    "data_file_changed": false,
+    "full_json_reparse": "not rerun because no data write was needed",
+    "targeted_record_comparison": "passed",
+    "duplicate_check": "no new records introduced",
+    "chronological_order": "preserved by leaving latest.json unchanged"
+  },
+  "save": {
+    "latest_json_write": "not needed",
+    "latest_json_re_fetch": "current file SHA confirmed through GitHub fetch",
+    "run_log_write": "pending",
+    "run_log_re_fetch": "pending"
+  },
+  "errors": [],
+  "unverified": [
+    "This run checked selected official sources, not every Japanese operator nationwide.",
+    "No new additions were found in the sources checked."
+  ]
+}
