@@ -47,6 +47,11 @@
       "name": "喜元門 つくば北条店 local coverage based on official Instagram",
       "url": "https://www.gummaumaimono.info/entry/2026/10/31/165846",
       "result": "2026-11-19 planned opening and Tsukuba address reported from the official Instagram; recruitment listings also corroborate the date and location. Added."
+    },
+    {
+      "name": "Crane Yokocho Goku Sagamihara Oyama report",
+      "url": "https://media.raxus.inc/news/crane-yokocho-sagamihara-opening/",
+      "result": "Only late November was stated; exact opening day remains unconfirmed, so excluded from JSON."
     }
   ],
   "changes": {
