@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-10-31T13:43:40+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Skylark Group official new-store list",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "checked_for": "2026-11 openings; official listings for Gusto, Bamiyan, Shabu-yo, FLO Prestige, Sukesan Udon",
+      "result": "10 entries absent from existing JSON verified"
+    },
+    {
+      "source": "Skylark Shabu-yo official new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "checked_for": "Shabu-yo Ikeda Ekimae and Gifu Active G",
+      "result": "Opening dates and locations verified"
+    }
+  ],
+  "added": [
+    {
+      "name": "しゃぶ葉 池田駅前店",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-29",
+      "category": "しゃぶしゃぶ・食べ放題"
+    },
+    {
+      "name": "しゃぶ葉 岐阜アクティブＧ店",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-11-27",
+      "category": "しゃぶしゃぶ・食べ放題"
+    },
+    {
+      "name": "バーミヤン 広島アルパーク店",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-29",
+      "category": "中華レストラン"
+    },
+    {
+      "name": "バーミヤン 大宮駅東口店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "中華レストラン"
+    },
+    {
+      "name": "バーミヤン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "中華レストラン"
+    },
+    {
+      "name": "フロプレステージュ セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "洋菓子・惣菜"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-25",
+      "category": "うどん・和食"
+    },
+    {
+      "name": "ガスト イオンモール福岡店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "opening_date": "2026-11-20",
+      "category": "ファミリーレストラン"
+    },
+    {
+      "name": "ガスト そよら飯田アップルロード店",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "opening_date": "2026-11-17",
+      "category": "ファミリーレストラン"
+    },
+    {
+      "name": "ガスト 新潟駅前店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-11-15",
+      "category": "ファミリーレストラン"
+    }
+  ],
+  "change_summary": {
+    "before": 919,
+    "added": 10,
+    "after": 929,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "added_entries_present": true,
+    "previous_items_preserved_in_order": true,
+    "chronological_order": true,
+    "duplicate_name_date_keys": true,
+    "required_fields_and_dates": true,
+    "post_fetch_blob_sha": "81df46ab9a7609ae12b2151af47d4010fbf433ac"
+  },
+  "data_commit_sha": "3b6f8ee77d993b132ce19ec92388cb10340ab016",
+  "previous_blob_sha": "0f8d66b5a27bd179a8c7bfa58934ed6a37c2994a",
+  "new_blob_sha": "81df46ab9a7609ae12b2151af47d4010fbf433ac",
+  "unconfirmed": "No uncertain dates were inferred in this run. This source pass covers the official Skylark Group new-store listing, not every retailer in Japan."
+}
