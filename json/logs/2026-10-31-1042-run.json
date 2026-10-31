@@ -1,0 +1,94 @@
+{
+  "run_at": "2026-10-31T10:42:07+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 904,
+    "blob_sha": "aaf00363fa9974770db64807a9d44ab1d8095f17",
+    "updatetime": "2026-10-31T09:42:47+09:00"
+  },
+  "after": {
+    "count": 904,
+    "blob_sha": "aaf00363fa9974770db64807a9d44ab1d8095f17",
+    "latest_json_changed": false
+  },
+  "added_count": 0,
+  "additions": [],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社ローソン",
+      "title": "公式新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "2026-11-01〜11-13掲載の28候補を照合。全28件が既存登録済み。"
+    },
+    {
+      "publisher": "株式会社ジーアイビー",
+      "title": "ブルースカイランドリー 2026年11月全国10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "公式発表の10店舗を照合。全10件が既存登録済み。"
+    },
+    {
+      "publisher": "グランベリーパーク",
+      "title": "2026 Autumn 新店・リニューアル一覧",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "PUMA（10/30）、COHINA（11/12）、マーガレット・ハウエル エー.ジー.オー.（11/13）を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "株式会社SAL",
+      "title": "WR.Yoyogi Park 2026年11月6日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "result": "店舗名・開業日・所在地を確認。既存登録済み。"
+    },
+    {
+      "publisher": "SFPダイニング株式会社／株式会社クリエイト・レストランツ・ホールディングス",
+      "title": "きづなすし 上野店 2026年11月6日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000166.000177867.html",
+      "result": "店舗名・開店日・所在地を確認。既存登録済み。"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART LUCUA SOUTH店 2026年11月24日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "最新発表を確認。既存登録済み。"
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "title": "2026年11月新規出店のお知らせ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "11月出店発表を確認。既存登録状況の再点検対象として記録。"
+    },
+    {
+      "publisher": "株式会社ノジマ",
+      "title": "ホームズ新川崎店の開店日",
+      "urls": [
+        "https://www.nojima.lol/news/category/press/732372/",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/"
+      ],
+      "result": "10/30付公式プレスリリースは2026-11-05、公式個別店舗ページは2026-11-07。公式情報間の不一致が続くため追加保留。"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "reason": "公式プレスリリース（11/5）と公式個別店舗ページ（11/7）の日付が一致しない。確認できるまで登録しない。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "count": 904,
+    "required_fields": "passed",
+    "valid_iso_dates": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "latest_json_changed": false,
+    "existing_data_preserved": "passed"
+  },
+  "task_errors": [],
+  "notes": [
+    "今回の照合で確認できた候補はすべて既存登録済み。latest.jsonは更新せず、既存データを保護。",
+    "latest.jsonを再取得し、blob SHA aaf00363fa9974770db64807a9d44ab1d8095f17、904件、必須項目欠落0、不正日付0、重複名＋開店日0、日付順を確認。",
+    "自動化管理情報ではタスク有効状態はtrue、毎時スケジュール定義は保持。next_run_timeはnull、最新実行記録はin_progress表示のためスケジューラーの完了状態は未確認。"
+  ]
+}
