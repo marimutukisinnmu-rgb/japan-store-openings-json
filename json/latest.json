@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T11:41:37+09:00",
+  "updatetime": "2026-10-31T12:47:46+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4232,6 +4232,13 @@
       "category": "ディスカウントストア"
     },
     {
+      "name": "Muchu Planet ユニクロパーク 横浜ベイサイド",
+      "prefecture": "神奈川県",
+      "city": "横浜市金沢区",
+      "opening_date": "2026-10-31",
+      "category": "キッズパーク・書籍・玩具"
+    },
+    {
       "name": "Eleanor spa&treatment 郡山店",
       "prefecture": "福島県",
       "city": "郡山市",
@@ -4300,6 +4307,13 @@
       "city": "旭川市",
       "opening_date": "2026-11-01",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "MOGUえほんランド",
+      "prefecture": "埼玉県",
+      "city": "吉川市",
+      "opening_date": "2026-11-01",
+      "category": "絵本専門店・カフェ・屋内遊び場"
     },
     {
       "name": "合 Shinjuku",
@@ -4897,6 +4911,20 @@
       "category": "ホテル"
     },
     {
+      "name": "ジャンカラ 大街道店（リニューアル）",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "opening_date": "2026-11-06",
+      "category": "カラオケ（リニューアル）"
+    },
+    {
+      "name": "Flying Tiger Copenhagen POP UP STORE まるひろ川越店",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨（期間限定ポップアップ）"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -4923,6 +4951,13 @@
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-07",
       "category": "チョコレート（期間限定店）"
+    },
+    {
+      "name": "ラ・プレリー（横浜髙島屋1階）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-07",
+      "category": "化粧品・スキンケア（百貨店カウンター）"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5224,6 +5259,13 @@
       "city": "岡山市東区",
       "opening_date": "2026-11-12",
       "category": "ショッピングモール（グランドオープン）"
+    },
+    {
+      "name": "スガキヤ 大阪ベイタワー店",
+      "prefecture": "大阪府",
+      "city": "大阪市港区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン・甘味"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
@@ -5583,6 +5625,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "Beisia Foods Park 幕張店",
+      "prefecture": "千葉県",
+      "city": "千葉市花見川区",
+      "opening_date": "2026-11-18",
+      "category": "食品スーパー（都市型店舗）"
+    },
+    {
       "name": "chocoZAP 一乗寺向畑",
       "opening_date": "2026-11-19",
       "prefecture": "京都府",
@@ -5623,6 +5672,20 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-19",
       "category": "キャラクターグッズ・雑貨"
+    },
+    {
+      "name": "ラベイユ ランドマークプラザ",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-19",
+      "category": "はちみつ専門店・食品"
+    },
+    {
+      "name": "カルディコーヒーファーム 新さっぽろサンピアザ店",
+      "prefecture": "北海道",
+      "city": "札幌市厚別区",
+      "opening_date": "2026-11-19",
+      "category": "輸入食品・コーヒー"
     },
     {
       "name": "chocoZAP 嘉麻鴨生",
@@ -6115,6 +6178,13 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
+      "name": "Anker Store 岡山一番街",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-26",
+      "category": "モバイル・デジタルアクセサリー"
+    },
+    {
       "name": "ABURI百貫 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -6246,6 +6316,13 @@
       "city": "清瀬市",
       "opening_date": "2026-11-28",
       "category": "ディスカウントストア"
+    },
+    {
+      "name": "Bistro IKEDAYAMA",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-28",
+      "category": "ビストロ・レストラン"
     },
     {
       "name": "Eleanor spa&treatment 沖縄北谷店",
