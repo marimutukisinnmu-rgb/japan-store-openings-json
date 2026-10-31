@@ -1,0 +1,187 @@
+{
+  "run_at": "2026-11-01T06:48:15+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "Pass down（パスダウン）local report with shop cooperation and official SNS reference",
+      "url": "https://fullpokko.com/open-close/passdown-open-qqm/",
+      "result": "2026-11-01 opening and Yamagata-shi location confirmed; added."
+    },
+    {
+      "name": "らーめん一作 枚方市駅前店 local coverage citing official Instagram and site notice",
+      "url": "https://www.hira2.jp/open-close/issaku-20261005.html",
+      "result": "2026-11-01 opening at Woven Annex 1F in Hirakata confirmed; added."
+    },
+    {
+      "name": "Animate official Fukuoka ANNEX announcement",
+      "url": "https://www.animate.co.jp/news/50007/",
+      "result": "2026-11-02 opening and Fukuoka PARCO address confirmed; added."
+    },
+    {
+      "name": "Laquan Studio official store list and company release",
+      "url": "https://laquan.com/shop_info/index.html",
+      "result": "Finelight Maebashi listed for 2026-11-02; corroborated by company release https://prtimes.jp/main/html/rd/p/000000102.000087871.html; added."
+    },
+    {
+      "name": "World Plus Gym official opening notice and company release",
+      "url": "https://www.worldplus-gym.com/news/20260730_1.html",
+      "result": "Nagai branch opening on 2026-11-04 confirmed; corroborated by https://prtimes.jp/main/html/rd/p/000000109.000110917.html; added."
+    },
+    {
+      "name": "Kingken company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000019.000151908.html",
+      "result": "Kingken Minamimorimachi opening on 2026-11-04 in Osaka-shi Kita-ku confirmed; added."
+    },
+    {
+      "name": "Hotland / Yoshihira official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000796.000031747.html",
+      "result": "Yoshihira Fujimino opening on 2026-11-04 and location confirmed; added."
+    },
+    {
+      "name": "Bike King & Company official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000129.000103319.html",
+      "result": "Bike King Kishiwada relocation/opening on 2026-11-06 and Kishiwada location confirmed; added."
+    },
+    {
+      "name": "Fuji official release and store page",
+      "url": "https://www.the-fuji.com/company/docs/20261028_release.pdf",
+      "result": "MaxValu Shingu rebuild/reopening on 2026-11-06 in Tatsuno confirmed; store page https://www.the-fuji.com/mv/store/shop/hyogo/mv_shingu.php corroborates; added."
+    },
+    {
+      "name": "Stamina Taro official announcement",
+      "url": "https://staminataro.jp/2026/10/30/araoinfo1107/",
+      "result": "Arao branch relaunch as PREMIUM BUFFET on 2026-11-07 and Arao-shi location confirmed; added."
+    },
+    {
+      "name": "TON TON BOO Kakogawa local coverage citing official website and Instagram",
+      "url": "https://kakogawa-note.com/gourmet/20261016-ton-ton-boo/",
+      "result": "2026-11-11 opening and Kakogawa-shi location confirmed from official site notice referenced by local reporting; added."
+    },
+    {
+      "name": "Other current opening leads",
+      "url": "https://www.ryutsuu.biz/store/s102975.html",
+      "result": "MaxValu Shingu was independently corroborated by retail trade coverage; date matched the official Fuji release."
+    }
+  ],
+  "changes": {
+    "before_count": 985,
+    "added": 11,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 996,
+    "items": [
+      {
+        "name": "Pass down（パスダウン）",
+        "prefecture": "山形県",
+        "city": "山形市",
+        "opening_date": "2026-11-01",
+        "category": "古着・ヴィンテージファッション"
+      },
+      {
+        "name": "らーめん一作 枚方市駅前店",
+        "prefecture": "大阪府",
+        "city": "枚方市",
+        "opening_date": "2026-11-01",
+        "category": "ラーメン"
+      },
+      {
+        "name": "アニメイト福岡ANNEX",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-11-02",
+        "category": "アニメ・コミック・ゲームグッズ（催事特化型店舗）"
+      },
+      {
+        "name": "らかんスタジオ Finelight前橋店",
+        "prefecture": "群馬県",
+        "city": "前橋市",
+        "opening_date": "2026-11-02",
+        "category": "写真館・フォトスタジオ"
+      },
+      {
+        "name": "ワールドプラスジム長井店",
+        "prefecture": "山形県",
+        "city": "長井市",
+        "opening_date": "2026-11-04",
+        "category": "24時間フィットネスジム"
+      },
+      {
+        "name": "キング軒 南森町店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-04",
+        "category": "汁なし担担麺専門店"
+      },
+      {
+        "name": "厚切りとんかつ よし平 ふじみ野店",
+        "prefecture": "埼玉県",
+        "city": "ふじみ野市",
+        "opening_date": "2026-11-04",
+        "category": "とんかつ専門店"
+      },
+      {
+        "name": "バイク王 岸和田店（移転オープン）",
+        "prefecture": "大阪府",
+        "city": "岸和田市",
+        "opening_date": "2026-11-06",
+        "category": "オートバイ販売・買取（移転オープン）"
+      },
+      {
+        "name": "マックスバリュ新宮店（建替リニューアル）",
+        "prefecture": "兵庫県",
+        "city": "たつの市",
+        "opening_date": "2026-11-06",
+        "category": "スーパーマーケット（建替リニューアル）"
+      },
+      {
+        "name": "すたみな太郎 PREMIUM BUFFET 荒尾店（リニューアル）",
+        "prefecture": "熊本県",
+        "city": "荒尾市",
+        "opening_date": "2026-11-07",
+        "category": "焼肉・寿司・食べ放題（リニューアル）"
+      },
+      {
+        "name": "tontonboo 加古川店",
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "opening_date": "2026-11-11",
+        "category": "厚切りポークステーキ専門店"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "7d4ca91c6a1bfa85594807fef7cc71538c477679",
+    "blob_sha": "d61e8139bf115c258d05a7a1e432436488c5d933",
+    "refetched_blob_sha": "d61e8139bf115c258d05a7a1e432436488c5d933",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "old_items_preserved": true,
+    "missing_old": 0,
+    "new_items_present": true,
+    "new_items_missing": 0,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "out_of_order": 0,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This was a selected-source check, not an exhaustive scan of every operator in Japan.",
+    "For Pass down and らーめん一作, local reporting referenced official social posts; those social pages were not directly fetched in this run.",
+    "KEYUCA at Aeon Mall Tokushima was not added because the surfaced release states 2026-11-06 with a weekday mismatch (Wednesday, although that date is Friday); date requires clarification.",
+    "すき家 高岡大野店 and はま寿司稚内店 were only reported for November or mid-November without a confirmed exact opening day, so they were not added.",
+    "クレーン横丁 極 相模原小山店 remains reported only as late November without an exact date, so it was not added."
+  ],
+  "unconfirmed": [
+    "KEYUCA イオンモール徳島: opening date/weekday mismatch requires verification; excluded.",
+    "すき家 高岡大野店: exact day not confirmed; excluded.",
+    "はま寿司稚内店: exact day not confirmed; excluded.",
+    "クレーン横丁 極 相模原小山店: exact day not confirmed; excluded."
+  ]
+}
