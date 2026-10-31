@@ -1,0 +1,132 @@
+{
+  "run_at": "2026-10-31T09:42:47+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 903,
+    "blob_sha": "c50f477c09f7b2c87c2d450fe8a8e204bd7362f4"
+  },
+  "after": {
+    "count": 904,
+    "blob_sha": "aaf00363fa9974770db64807a9d44ab1d8095f17",
+    "commit_sha": "501fcef68a0f5efe0f0e6a358d6d22d56cac6be6"
+  },
+  "added_count": 1,
+  "additions": [
+    {
+      "name": "WAKAN箱根強羅 by ラフォーレ",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡箱根町",
+      "opening_date": "2026-11-10",
+      "category": "ホテル"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "森トラスト・ホテルズ＆リゾーツ株式会社／ラフォーレホテルズ＆リゾーツ",
+      "title": "WAKAN箱根強羅 by ラフォーレ 2026年11月10日新規開業",
+      "urls": [
+        "https://www.laforet.co.jp/lf-wakan-hakone/",
+        "https://prtimes.jp/main/html/rd/p/000001870.000006521.html"
+      ],
+      "verified_fields": [
+        "施設名",
+        "開業日（2026-11-10）",
+        "所在地（神奈川県足柄下郡箱根町強羅1300-119）"
+      ]
+    },
+    {
+      "publisher": "株式会社ノジマ",
+      "title": "ホームズ新川崎店の開店日について公式情報に不一致",
+      "urls": [
+        "https://www.nojima.co.jp/news/category/press/732372/",
+        "https://www.nojima.co.jp/shop/open/",
+        "https://www.nojima.co.jp/campaign/chirashi-homes_shinkawasaki/",
+        "https://www.nojima.co.jp/shop/kanagawa/houmuzusinkawasaki/"
+      ],
+      "result": "プレスリリース・新店舗一覧・キャンペーンページは2026-11-05、個別店舗ページは2026-11-07。公式情報間の不一致が残るため追加保留。"
+    },
+    {
+      "publisher": "株式会社ジーアイビー",
+      "title": "ブルースカイランドリー 2026年11月全国10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "10店舗を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "RIZAP株式会社",
+      "title": "chocoZAP公式新店舗一覧",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "2026-10-31から11月下旬までの掲載店舗を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "title": "ローソン公式全国・地域別新店情報",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/",
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/kinki.html"
+      ],
+      "result": "11月上旬から中旬の候補を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "title": "ジャズドリーム長島 新規・リニューアル計16店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "16店舗を照合。日付確定済みは既存登録済み。Timberlandは2026年12月予定のみで日付未確定。"
+    },
+    {
+      "publisher": "株式会社JR横浜湘南シティクリエイト",
+      "title": "ラスカ平塚 2026年11月 NEW＆RENEWAL SHOP",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "result": "4店舗を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "株式会社アレフ",
+      "title": "ゴンチャ 東京ソラマチ店 2026年10月29日オープン",
+      "url": "https://www.aleph-inc.co.jp/news/news_4374/",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "Dandelion Chocolate Japan株式会社",
+      "title": "ダンデライオン・チョコレート 清澄白河ファクトリー 2026年10月30日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000081.000033144.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "publisher": "ユナイテッド・スーパーマーケット・ホールディングス株式会社",
+      "title": "フードスタイル東五反田店 2026年10月29日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135992.html",
+      "result": "既存登録済み。"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "reason": "ノジマ公式のプレスリリース・新店舗一覧・キャンペーンページは11月5日、個別店舗ページは11月7日と不一致。日付確定まで追加保留。"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式発表は2026年12月予定のみで具体的な開店日が未確定。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "count": 904,
+    "required_fields": "passed",
+    "valid_iso_dates": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "addition_present_once": "passed",
+    "old_entries_preserved_in_original_order": "passed",
+    "saved_file_refetched": "passed",
+    "saved_blob_sha_matches_write_result": "passed"
+  },
+  "task_errors": [],
+  "notes": [
+    "既存903件を削除・変更せず、WAKAN箱根強羅 by ラフォーレを1件追加。",
+    "chocoZAP、ローソン、ブルースカイランドリー、ジャズドリーム長島、ラスカ平塚の確認済み候補は既存登録済み。",
+    "既存データに「レゴ®ストア」と「レゴ ストア」の表記違いで同日・同施設の候補が2件ある。今回は既存データ保護を優先し、統合・削除は未実施。"
+  ]
+}
