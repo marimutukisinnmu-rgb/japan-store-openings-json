@@ -1,0 +1,148 @@
+{
+  "run_at": "2026-10-31T16:45:53+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Beisia official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000499.000069349.html",
+      "checked_for": "Seria tenant at Beisia Koshoku, Chikuma, Nagano",
+      "result": "Beisia's official release confirms Seria opens 2026-11-05 and gives the Beisia Koshoku address in Chikuma City. Added Seria ベイシア更埴店."
+    },
+    {
+      "source": "Yayoiken official store page",
+      "url": "https://store.yayoiken.com/b/yayoiken/info/02301/",
+      "checked_for": "Yayoiken Chofu Station North Exit store",
+      "result": "Official store page confirms grand opening 2026-11-05 and address in Chofu, Tokyo. Added."
+    },
+    {
+      "source": "Hard Off official new-store list and individual store pages",
+      "url": "https://www.hardoff.co.jp/shop/",
+      "checked_for": "Hard Off group openings in Otogane, Chitose, Ogaki, and Shimizu Okamachi",
+      "result": "Official list and store pages confirm opening dates and locations. Added Hard Off and Off House at Aeon Otogane (2026-11-07); Hard Off, Off House, Hobby Off Chitose (2026-11-06); Hard Off and Hobby Off Ogaki (2026-11-20); Hobby Off Shimizu Okamachi (grand opening 2026-10-30)."
+    },
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_for": "28 named stores scheduled 2026-11-01 through 2026-11-13",
+      "result": "All 28 candidates matched existing JSON records with the same opening dates; no additions."
+    },
+    {
+      "source": "Second Retailing group official release PDF via PR TIMES",
+      "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "checked_for": "Domestic November 2026 store-opening table",
+      "result": "All 9 domestic records matched existing JSON entries. 3 overseas entries excluded from Japan scope."
+    }
+  ],
+  "added": [
+    {
+      "name": "ホビーオフ 清水岡町店",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-10-30",
+      "category": "リユースショップ",
+      "source": "Hard Off official new-store list and individual store page"
+    },
+    {
+      "name": "セリア ベイシア更埴店",
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "opening_date": "2026-11-05",
+      "category": "100円ショップ",
+      "source": "Beisia official press release"
+    },
+    {
+      "name": "やよい軒 調布駅北口店",
+      "prefecture": "東京都",
+      "city": "調布市",
+      "opening_date": "2026-11-05",
+      "category": "定食・和食",
+      "source": "Yayoiken official store page"
+    },
+    {
+      "name": "ハードオフ 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "オフハウス 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "ホビーオフ 千歳店",
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "opening_date": "2026-11-06",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "ハードオフ イオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2026-11-07",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "オフハウス イオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2026-11-07",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "ハードオフ 大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-20",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    },
+    {
+      "name": "ホビーオフ 大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-20",
+      "category": "リユースショップ",
+      "source": "Hard Off official store page"
+    }
+  ],
+  "change_summary": {
+    "before": 930,
+    "added": 10,
+    "after": 940,
+    "corrections": 0,
+    "deletions": 0
+  },
+  "verification": {
+    "json_parse": true,
+    "required_fields": true,
+    "required_fields_missing": 0,
+    "valid_date_format": true,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "duplicate_name_date_keys": 0,
+    "existing_items_preserved": true,
+    "all_added_items_present_after_write": true,
+    "latest_blob_sha": "81a4219485373bef1514b3568a1402661e9bbd53"
+  },
+  "data_blob_sha": "81a4219485373bef1514b3568a1402661e9bbd53",
+  "unconfirmed": "JINS 島忠新川崎店 and JINS サンリブ下松店 appear in job listings/local reports with tentative opening timing, but no company-owned primary announcement confirming the exact dates was verified in this pass. They were not added. The nationwide source review is not exhaustive across all operators.",
+  "automation_check": {
+    "enabled": true,
+    "schedule": "Hourly",
+    "next_run_time": "not returned by management lookup",
+    "schedule_changed": false,
+    "task_disabled": false,
+    "run_record_status": "in_progress at lookup; current run's scheduler completion not yet recorded"
+  }
+}
