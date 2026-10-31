@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T08:47:48+09:00",
+  "updatetime": "2026-10-31T09:42:47+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5000,6 +5000,13 @@
       "city": "北区",
       "opening_date": "2026-11-10",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "WAKAN箱根強羅 by ラフォーレ",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡箱根町",
+      "opening_date": "2026-11-10",
+      "category": "ホテル"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
