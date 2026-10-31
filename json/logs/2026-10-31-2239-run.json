@@ -63,10 +63,11 @@
     "invalid_dates": 0,
     "duplicate_name_and_opening_date": 0,
     "chronological_order": "valid",
-    "candidate_matches_verified": 16,
+    "candidate_matches_verified": 18,
     "existing_data_preserved": true,
     "latest_json_written": false,
-    "reason": "No verified, in-scope unregistered candidates found in the checked sources."
+    "reason": "No verified, in-scope unregistered candidates found in the checked sources.",
+    "note": "Total source-listed candidates matched: 9 Second Retailing domestic stores + 5 Eleanor spa&treatment stores + POP MART + Toyoko Inn + Subway + Qu'il fait bon."
   },
   "save": {
     "latest_json": "unchanged",
