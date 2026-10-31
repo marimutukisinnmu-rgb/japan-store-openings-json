@@ -1,0 +1,148 @@
+{
+  "run_at": "2026-10-31T23:48:42+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "scope": "2026-09-18/2027-01-22",
+  "before_count": 963,
+  "after_count": 968,
+  "latest_blob_sha": "41443649256a6584d4841cd946272e2af790abe4",
+  "added": [
+    {
+      "name": "ケンタッキーフライドチキン 湊川店",
+      "prefecture": "兵庫県",
+      "city": "神戸市兵庫区",
+      "opening_date": "2026-11-04",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンタウン山科椥辻店",
+      "prefecture": "京都府",
+      "city": "京都市山科区",
+      "opening_date": "2026-11-05",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンモールかほく店",
+      "prefecture": "石川県",
+      "city": "かほく市",
+      "opening_date": "2026-11-17",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 堺大庭寺店",
+      "prefecture": "大阪府",
+      "city": "堺市南区",
+      "opening_date": "2026-11-24",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンタウン久留米東櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "source_checks": [
+    {
+      "source": "KFC Japan official November 2026 new-store update (2026-10-30)",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "candidates_checked": 5,
+      "newly_added": 5,
+      "details": "The official release lists five Japan stores with exact opening dates and addresses. Each was absent from the prior JSON and was added using the confirmed prefecture/city."
+    },
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+      "candidates_checked": 29,
+      "matched_existing_records": 29,
+      "added": 0,
+      "details": "All 29 listed candidates (including the 2026-10-30 and 2026-11-01 through 2026-11-13 entries) matched existing records by store/date."
+    },
+    {
+      "source": "Blue Sky Laundry / GIB official November 2026 store-opening release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "candidates_checked": 10,
+      "matched_existing_records": 10,
+      "added": 0,
+      "details": "All ten listed stores and dates were already present in the JSON."
+    },
+    {
+      "source": "COCO'S official 2026 store information",
+      "url": "https://www.cocos-jpn.co.jp/news/2026/store/",
+      "candidates_checked": 3,
+      "matched_existing_records": 3,
+      "added": 0,
+      "details": "The October 30 Toyoda and Omiya Akashiba renewals and November 6 Tottori Tanocho renewal were already registered."
+    },
+    {
+      "source": "SYNRA GROUP official Eleanor spa&treatment autumn 2026 announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "candidates_checked": 5,
+      "matched_existing_records": 5,
+      "added": 0,
+      "details": "All five store/date/location records matched the JSON."
+    },
+    {
+      "source": "POP MART JAPAN official LUCUA SOUTH announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "candidates_checked": 1,
+      "matched_existing_records": 1,
+      "added": 0,
+      "details": "POP MART LUCUA SOUTH, opening 2026-11-24, matched the existing record."
+    },
+    {
+      "source": "Skylark official Syabuyo new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "candidates_checked": 3,
+      "matched_existing_records": 3,
+      "added": 0,
+      "details": "The October 31 Fukuoka Ito store and November 27/29 stores were already present."
+    },
+    {
+      "source": "Second Retailing Group November 2026 release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "candidates_checked": null,
+      "matched_existing_records": null,
+      "added": 0,
+      "details": "The release's store table is an embedded image that could not be fetched in this run. No records were added or changed from this table; its individual candidates remain unverified in this run."
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 968,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_and_opening_date": 0,
+    "chronological_order": "valid",
+    "source_candidates_checked": 56,
+    "existing_matches_verified": 51,
+    "newly_added_records_verified": 5,
+    "existing_data_preserved": true,
+    "latest_json_written": true,
+    "post_save_retrieval": "success"
+  },
+  "save": {
+    "latest_json": "updated",
+    "latest_json_commit_sha": "a08ae059b3e0bdcb9ca39a3566dcc90f4eb937bf",
+    "latest_json_blob_sha": "41443649256a6584d4841cd946272e2af790abe4",
+    "run_log": "created",
+    "run_log_path": "json/logs/2026-10-31-2348-run.json"
+  },
+  "errors": [],
+  "unverified": [
+    "The Second Retailing Group release's embedded store-table image could not be fetched; no table-based candidates were changed.",
+    "This is a selected-source check, not an exhaustive survey of every Japanese operator."
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "default_timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "note": "The automation is enabled. The management record did not provide a concrete next_run_time or completion timestamp at inspection."
+  }
+}
