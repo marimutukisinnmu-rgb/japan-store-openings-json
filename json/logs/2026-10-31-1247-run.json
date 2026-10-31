@@ -1,0 +1,261 @@
+{
+  "run_at": "2026-10-31T12:47:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 908,
+    "blob_sha": "3acb7fbec7f0ec272bf464b9aacb7961b943d1d4"
+  },
+  "after": {
+    "count": 919,
+    "blob_sha": "0f8d66b5a27bd179a8c7bfa58934ed6a37c2994a",
+    "commit_sha": "75d7fdff2b5891760744306ce81ac0d158ce3267"
+  },
+  "added_count": 11,
+  "additions": [
+    {
+      "name": "Muchu Planet ユニクロパーク 横浜ベイサイド",
+      "prefecture": "神奈川県",
+      "city": "横浜市金沢区",
+      "opening_date": "2026-10-31",
+      "category": "キッズパーク・書籍・玩具"
+    },
+    {
+      "name": "MOGUえほんランド",
+      "prefecture": "埼玉県",
+      "city": "吉川市",
+      "opening_date": "2026-11-01",
+      "category": "絵本専門店・カフェ・屋内遊び場"
+    },
+    {
+      "name": "ラ・プレリー（横浜髙島屋1階）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-07",
+      "category": "化粧品・スキンケア（百貨店カウンター）"
+    },
+    {
+      "name": "スガキヤ 大阪ベイタワー店",
+      "prefecture": "大阪府",
+      "city": "大阪市港区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン・甘味"
+    },
+    {
+      "name": "Beisia Foods Park 幕張店",
+      "prefecture": "千葉県",
+      "city": "千葉市花見川区",
+      "opening_date": "2026-11-18",
+      "category": "食品スーパー（都市型店舗）"
+    },
+    {
+      "name": "ラベイユ ランドマークプラザ",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-19",
+      "category": "はちみつ専門店・食品"
+    },
+    {
+      "name": "カルディコーヒーファーム 新さっぽろサンピアザ店",
+      "prefecture": "北海道",
+      "city": "札幌市厚別区",
+      "opening_date": "2026-11-19",
+      "category": "輸入食品・コーヒー"
+    },
+    {
+      "name": "Anker Store 岡山一番街",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-26",
+      "category": "モバイル・デジタルアクセサリー"
+    },
+    {
+      "name": "Bistro IKEDAYAMA",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-28",
+      "category": "ビストロ・レストラン"
+    },
+    {
+      "name": "ジャンカラ 大街道店（リニューアル）",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "opening_date": "2026-11-06",
+      "category": "カラオケ（リニューアル）"
+    },
+    {
+      "name": "Flying Tiger Copenhagen POP UP STORE まるひろ川越店",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨（期間限定ポップアップ）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社トーハン",
+      "title": "Muchu Planet ユニクロパーク 横浜ベイサイド 2026年10月31日グランドオープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000139.000026460.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-10-31）",
+        "所在地（神奈川県横浜市金沢区）"
+      ]
+    },
+    {
+      "publisher": "株式会社大垣書店／株式会社ポプラ社",
+      "title": "MOGUえほんランド 2026年11月1日グランドオープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000001326.000031579.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-01）",
+        "所在地（埼玉県吉川市）"
+      ]
+    },
+    {
+      "publisher": "ラ・プレリージャパン株式会社",
+      "title": "ラ・プレリー 横浜髙島屋 2026年11月7日新店オープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000040.000156423.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-07）",
+        "所在地（神奈川県横浜市西区、横浜髙島屋1階）"
+      ]
+    },
+    {
+      "publisher": "スガキコシステムズ株式会社",
+      "title": "スガキヤ 大阪ベイタワー店 2026年11月12日オープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000062.000097460.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-12）",
+        "所在地（大阪府大阪市港区）"
+      ]
+    },
+    {
+      "publisher": "株式会社ベイシア",
+      "title": "Beisia Foods Park 幕張店 2026年11月18日グランドオープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000501.000069349.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "グランドオープン日（2026-11-18）",
+        "所在地（千葉県千葉市花見川区）"
+      ]
+    },
+    {
+      "publisher": "L'ABEILLE株式会社",
+      "title": "ラベイユ ランドマークプラザ 2026年11月19日オープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000058.000115243.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-19）",
+        "所在地（神奈川県横浜市西区）"
+      ]
+    },
+    {
+      "publisher": "カルディコーヒーファーム",
+      "title": "新さっぽろサンピアザ店 2026年11月19日オープン（公式店舗情報）",
+      "urls": [
+        "https://map.kaldi.co.jp/kaldi/detailMap?accmd=&account=kaldi&bid=614&bsort=4&range=Month&rangeval=0"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-19）",
+        "所在地（北海道札幌市厚別区）"
+      ]
+    },
+    {
+      "publisher": "アンカー・ジャパン株式会社／アンカー・ストア株式会社",
+      "title": "Anker Store 岡山一番街 2026年11月26日オープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000683.000016775.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-26）",
+        "所在地（岡山県岡山市、岡山駅元町・岡山一番街）"
+      ]
+    },
+    {
+      "publisher": "株式会社クリエイト・レストランツ・ホールディングス",
+      "title": "Bistro IKEDAYAMA 2026年11月28日オープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000164.000177867.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開店日（2026-11-28）",
+        "所在地（東京都品川区東五反田）"
+      ]
+    },
+    {
+      "publisher": "株式会社TOAI",
+      "title": "ジャンカラ 大街道店 2026年11月6日リニューアルオープン",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000441.000017032.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "リニューアル日（2026-11-06）",
+        "所在地（愛媛県松山市）"
+      ]
+    },
+    {
+      "publisher": "Zebra Japan株式会社",
+      "title": "Flying Tiger Copenhagen POP UP STORE まるひろ川越店 2026年11月6日開始",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000256.000119592.html"
+      ],
+      "verified_fields": [
+        "店舗名",
+        "開催開始日（2026-11-06）",
+        "所在地（埼玉県川越市）",
+        "開催期間（2026-11-06～2027-10-31）"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "name": "KEYUCA イオンモール徳島店",
+      "reason": "公式発表の見出しに「11月6日（水）」とあるが、2026年11月6日は金曜日。日付・曜日の不一致を解消できず、今回は追加保留。",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000679.000042258.html"
+    },
+    {
+      "name": "SHOWA NISHIKAWA イオンモール秋田店（旧まくらぼ）",
+      "reason": "同一の公式発表内でリニューアル日が2026-10-30と2026-10-23の両方に記載されているため、日付の不一致が解消するまで保留。",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000439.000031377.html"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "count": 919,
+    "required_fields": "passed",
+    "valid_iso_dates": "passed",
+    "duplicate_name_date": "none",
+    "sorted_by_opening_date": "passed",
+    "additions_present_once": "passed",
+    "old_entries_preserved_in_original_order": "passed",
+    "saved_file_refetched": "passed",
+    "saved_blob_sha_matches_write_result": "passed"
+  },
+  "task_errors": [],
+  "notes": [
+    "公式発表または公式店舗情報で開店日・所在地を確認できた11件を追加。",
+    "既存908件は値と相対順序を保持。日付順に新規項目を挿入。",
+    "確定日を確認できない候補は推測で登録せず、保留として記録。"
+  ]
+}
