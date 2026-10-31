@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T18:46:05+09:00",
+  "updatetime": "2026-10-31T19:44:30+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -53,6 +53,13 @@
       "category": "コインランドリー"
     },
     {
+      "name": "しゃぶ葉 みらい長崎ココウォーク店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-09-18",
+      "category": "しゃぶしゃぶ"
+    },
+    {
       "name": "Eleanor spa&treatment 高槻店",
       "prefecture": "大阪府",
       "city": "高槻市",
@@ -65,6 +72,13 @@
       "city": "目黒区",
       "opening_date": "2026-09-19",
       "category": "美容室・ヘッドスパ"
+    },
+    {
+      "name": "しゃぶ葉 新宿西口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-09-19",
+      "category": "しゃぶしゃぶ"
     },
     {
       "name": "キャンドゥ 静内山手店",
