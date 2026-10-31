@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T06:48:15+09:00",
+  "updatetime": "2026-11-01T07:42:30+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5210,6 +5210,13 @@
       "city": "たつの市",
       "opening_date": "2026-11-06",
       "category": "スーパーマーケット（建替リニューアル）"
+    },
+    {
+      "name": "KEYUCA イオンモール徳島店",
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨・キッチン用品・アパレル"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
