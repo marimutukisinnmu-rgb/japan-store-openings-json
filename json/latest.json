@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-10-31T09:42:47+09:00",
+  "updatetime": "2026-10-31T11:41:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3252,6 +3252,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "NewDays盛岡フェザンクラッセ",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "opening_date": "2026-10-28",
+      "category": "コンビニ"
+    },
+    {
       "name": "chocoZAP 岡山中川町",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -4216,6 +4223,13 @@
       "city": "鎌倉市",
       "opening_date": "2026-10-31",
       "category": "ホテル"
+    },
+    {
+      "name": "ビッグ・エー越谷東大沢二丁目店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-10-31",
+      "category": "ディスカウントストア"
     },
     {
       "name": "Eleanor spa&treatment 郡山店",
@@ -5786,6 +5800,13 @@
       "category": "シューズ・アウトドア"
     },
     {
+      "name": "ビッグ・エー狭山中央店",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-11-21",
+      "category": "ディスカウントストア"
+    },
+    {
       "name": "chocoZAP 東大和清水六丁目",
       "opening_date": "2026-11-24",
       "prefecture": "東京都",
@@ -6218,6 +6239,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "ビッグ・エー清瀬駅北口店",
+      "prefecture": "東京都",
+      "city": "清瀬市",
+      "opening_date": "2026-11-28",
+      "category": "ディスカウントストア"
     },
     {
       "name": "Eleanor spa&treatment 沖縄北谷店",
