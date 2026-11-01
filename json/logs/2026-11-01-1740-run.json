@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-11-01T17:40:06+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000166.000075275.html",
+    "https://prtimes.jp/main/html/rd/p/000000471.000080252.html",
+    "https://prtimes.jp/main/html/rd/p/000000145.000035350.html",
+    "https://prtimes.jp/main/html/rd/p/000000047.000033002.html",
+    "https://prtimes.jp/main/html/rd/p/000000010.000128798.html",
+    "https://prtimes.jp/main/html/rd/p/000000034.000130273.html",
+    "https://prtimes.jp/main/html/rd/p/000000191.000043533.html",
+    "https://prtimes.jp/main/html/rd/p/000000102.000143963.html",
+    "https://prtimes.jp/main/html/rd/p/000000102.000087871.html",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://prtimes.jp/main/html/rd/p/000000247.000014414.html"
+  ],
+  "summary": {
+    "before_count": 1030,
+    "added_count": 7,
+    "corrected_count": 0,
+    "duplicate_entry_removed": 0,
+    "after_count": 1037,
+    "changes": [
+      {
+        "action": "add",
+        "name": "FiT24 春日井店",
+        "opening_date": "2026-11-01",
+        "prefecture": "愛知県",
+        "city": "春日井市",
+        "category": "フィットネスジム",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "高価買取おたからや 岸和田店",
+        "opening_date": "2026-11-02",
+        "prefecture": "大阪府",
+        "city": "岸和田市",
+        "category": "買取専門店",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "GARAGE CURRENT 国産名車",
+        "opening_date": "2026-11-02",
+        "prefecture": "神奈川県",
+        "city": "横浜市青葉区",
+        "category": "国産旧車・名車専門店（自動車販売）",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "みつぼしや ドーチカ店",
+        "opening_date": "2026-11-05",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "category": "定食・和食",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "スプラッシュンゴー太田東店",
+        "opening_date": "2026-12-04",
+        "prefecture": "群馬県",
+        "city": "太田市",
+        "category": "洗車サービス・カーケア",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "Repilates（リピラティス）イオン浜松西店",
+        "opening_date": "2026-12-04",
+        "prefecture": "静岡県",
+        "city": "浜松市中央区",
+        "category": "マシンピラティススタジオ",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      },
+      {
+        "action": "add",
+        "name": "BUB RESORT Minakami（プレオープン）",
+        "opening_date": "2026-12-24",
+        "prefecture": "群馬県",
+        "city": "利根郡みなかみ町",
+        "category": "体験型リゾート・宿泊施設（プレオープン）",
+        "rationale": "運営会社の公式発表で店舗名・開店日・都道府県/市区町村を確認。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "passed",
+    "previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "new_entries_present_after_refetch": true,
+    "refetched_blob_sha_matches_write": true,
+    "latest_blob_sha": "f9b3010413dd967907bcb0297a3d8f630f685f91"
+  },
+  "verified_existing": [
+    "らかんスタジオ Finelight前橋店（2026-11-02）は公式発表と照合済み・登録済み。",
+    "高価買取おたからや ミスターマックス宇佐店（2026-11-02）は運営会社発表と照合済み・登録済み。",
+    "キング軒 南森町店（2026-11-04）は運営会社発表と照合済み・登録済み。",
+    "MOGUえほんランド（2026-11-01）は登録済み。",
+    "HMVららぽーと堺（2026-11-17）、Beisia Foods Park 幕張店（2026-11-18）、猿田彦珈琲 皇居東御苑店（2026-11-03）は公式発表と照合済み・登録済み。"
+  ],
+  "uncertain_not_added": [
+    "買取専科 マックスバリュ瓢箪山店：公式発表は「2026年11月下旬頃」とし、具体的な開店日が未確定のため追加せず。"
+  ],
+  "errors": [],
+  "notes": [
+    "更新前にlatest.jsonを取得し、店舗名・開店日で候補を照合した。",
+    "確認できた7件のみを追加し、既存レコードは変更せず、開店日順を維持した。",
+    "調査は選定した公式発表・公式店舗情報を対象とし、全国の全運営会社を網羅したものではない。"
+  ]
+}
