@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T01:57:03+09:00",
+  "updatetime": "2026-11-02T01:57:44+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6699,13 +6699,6 @@
       "category": "アンダーウェア・ファッション（アウトレット）",
       "source": "https://mitsui-shopping-park.com/mop/okazaki/news/index.html",
       "verification": "三井アウトレットパーク公式オープン・リニューアル一覧に11月20日NEW OPENと掲載。"
-    },
-    {
-      "name": "OKURA 本町駅前店",
-      "prefecture": "大阪府",
-      "city": "大阪市西区",
-      "opening_date": "2026-11-20",
-      "category": "高級時計・ブランド品・ジュエリー買取販売"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
