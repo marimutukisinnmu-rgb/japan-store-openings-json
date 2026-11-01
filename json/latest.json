@@ -2790,6 +2790,13 @@
       "category": "100円ショップ"
     },
     {
+      "name": "鶏笑 住吉墨江店",
+      "prefecture": "大阪府",
+      "city": "大阪市住吉区",
+      "opening_date": "2026-10-25",
+      "category": "からあげ専門店"
+    },
+    {
       "name": "ECOFIT24 岡崎西店",
       "prefecture": "愛知県",
       "city": "岡崎市",
@@ -5420,6 +5427,13 @@
       "city": "大阪市",
       "opening_date": "2026-11-07",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "鶏笑 出雲神立店",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "opening_date": "2026-11-07",
+      "category": "からあげ専門店"
     },
     {
       "name": "テンポス福岡飯塚店",
