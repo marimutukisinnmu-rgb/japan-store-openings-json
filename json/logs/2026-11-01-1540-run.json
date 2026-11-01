@@ -1,0 +1,57 @@
+{
+  "run_at": "2026-11-01T15:40:03+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://www.cando-web.co.jp/news/2026/",
+    "https://www.biga.co.jp/newshop/",
+    "https://www.aeonmall.com/news/index/16845/",
+    "https://www.aeonmall.com/wp/wp-content/uploads/2026/09/557b390c5ed4c813cef2071aa89ecfbe.pdf",
+    "https://gacha-zukan.com/shop/nara/dream-capsule-2677/"
+  ],
+  "summary": {
+    "before_count": 1030,
+    "added_count": 0,
+    "corrected_count": 1,
+    "duplicate_entry_removed": 1,
+    "after_count": 1029,
+    "changes": [
+      {
+        "action": "remove_duplicate",
+        "removed_name": "創作オムライス ポムの樹（イオンモール羽生店・リニューアル）",
+        "retained_name": "創作オムライス ポムの樹（イオンモール羽生・リニューアル）",
+        "opening_date": "2026-11-06",
+        "prefecture": "埼玉県",
+        "city": "羽生市",
+        "rationale": "イオンモール羽生公式告知は、ポムズファームから創作オムライス ポムの樹への単一のリニューアルとして2026-11-06を掲載。両レコードは同一店舗・同一日・同一市区町村を示すため、名称差分の重複を1件除去。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "passed",
+    "all_nonduplicate_previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "retained_pom_no_ki_records_for_2026_11_06": 1,
+    "refetched_blob_sha_matches_write": true,
+    "latest_blob_sha": "bdcc871c4638337c4296e21b8a8afb9de8e2ed37"
+  },
+  "verified_existing": [
+    "ローソン公式新店情報の11月4日〜13日の候補は既存登録済み。",
+    "セカンドリテイリング公式2026年11月発表の国内9店舗は既存登録済み。",
+    "キャンドゥ公式の11月1日・6日・12日候補は既存登録済み。",
+    "ビッグ・エー公式の狭山中央店（2026-11-21）と清瀬駅北口店（2026-11-28）は既存登録済み。"
+  ],
+  "uncertain_not_added": [
+    "ドリームカプセル イオンモール橿原（2026-11-13）：二次情報では日付を確認できたが、今回の確認範囲で運営会社または施設の公式発表による個別開店日の確認ができず、追加しなかった。",
+    "#C-pla イオンモール伊達店：イオンモール伊達の公式テナント一覧に掲載されていることは確認。施設のグランドオープンは2026-11-27だが、個別店舗の開店日が明示されていないため、施設開業日から推定せず追加しなかった。"
+  ],
+  "errors": [],
+  "notes": [
+    "最新JSONは更新前に取得し、重複候補2件と公式告知を照合した。",
+    "latest.jsonの変更は上記の重複1件除去のみ。新規追加・日付変更・他店舗の削除はなし。",
+    "調査は選定した公式情報源および補助的な地域情報源の確認であり、全国すべての運営会社を網羅したものではない。"
+  ]
+}
