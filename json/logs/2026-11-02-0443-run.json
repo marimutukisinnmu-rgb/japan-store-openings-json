@@ -1,0 +1,113 @@
+{
+  "run_at": "2026-11-02T04:43:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "星天qlay公式 新店告知（Seria）",
+      "url": "https://www.hoshiten-qlay.com/news/2982/",
+      "checked": "2026-11-02",
+      "result": "セリアがBゾーン2Fに2026-11-13オープンと確認。施設公式アクセス・住所情報から神奈川県横浜市保土ケ谷区として登録。"
+    },
+    {
+      "source": "名探偵コナンダイナー公式インフォメーション",
+      "url": "https://conan-diner.com/information/",
+      "checked": "2026-11-02",
+      "result": "プレオープン期間2026-11-19〜11-25、グランドオープン日2026-11-26、東京都渋谷区渋谷3-21-3 渋谷ストリーム4Fを確認。JSONにはグランドオープン日で登録。"
+    },
+    {
+      "source": "ノースポート・モール公式 新店告知",
+      "url": "https://northport.jp/information/detail/78",
+      "checked": "2026-11-02",
+      "result": "ジャックインザドーナツが2026-12-10（予定）に3Fフードコートへオープンと確認。"
+    },
+    {
+      "source": "ノースポート・モール公式アクセス情報",
+      "url": "https://northport.jp/access/",
+      "checked": "2026-11-02",
+      "result": "施設所在地を神奈川県横浜市都筑区中川中央1-25-1と確認。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "確認した11月新店候補は既存登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式・ガスト新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "checked": "2026-11-02",
+      "result": "11月15日・17日・20日の確認候補は既存登録済み。"
+    },
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "checked": "2026-11-02",
+      "result": "Eleanor spa&treatmentの11月候補は既存登録済み。"
+    },
+    {
+      "source": "近江ちゃんぽん亭公式サイト",
+      "url": "https://chanpontei.com/",
+      "checked": "2026-11-02",
+      "result": "アル・プラザ宇治東店、イオンモール松本店は2026年11月予定とだけ公表。具体的な開店日は未公表のため追加対象外。"
+    }
+  ],
+  "changes": {
+    "before_count": 1136,
+    "added_count": 3,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1139,
+    "added_entries": [
+      {
+        "name": "セリア 星天qlay店",
+        "prefecture": "神奈川県",
+        "city": "横浜市保土ケ谷区",
+        "opening_date": "2026-11-13",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "名探偵コナンダイナー",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-26",
+        "category": "常設コラボ飲食店（11/19プレオープン）"
+      },
+      {
+        "name": "ジャックインザドーナツ（ノースポート・モール）",
+        "prefecture": "神奈川県",
+        "city": "横浜市都筑区",
+        "opening_date": "2026-12-10",
+        "category": "ドーナツ専門店"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "existing_records_preserved": true,
+    "newly_added_records_verified": true,
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+  },
+  "save": {
+    "latest_json_commit_sha": "66e8e5145961edd5b4585fccdf36c2dd629d3bc0",
+    "latest_json_blob_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "近江ちゃんぽん亭 アル・プラザ宇治東店、イオンモール松本店：公式発表は2026年11月予定までで、具体的な日付は未公表。推測登録せず保留。",
+    "コメダ珈琲店 神戸垂水店：12月開店の情報は見つかったが、運営会社公式による具体的な開店日を確認できず未登録。",
+    "ロビン・フッド 北新宿店（仮）：二次情報に日付記載があるものの、運営会社公式の確定発表を確認できず未登録。",
+    "今回の調査は選定した公式情報源を中心に行ったもので、全国すべての事業者を網羅した調査ではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
