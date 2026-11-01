@@ -1,0 +1,47 @@
+{
+  "run_at": "2026-11-01T20:48:15+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+    "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+    "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://prtimes.jp/main/html/rd/p/000000411.000001117.html",
+    "https://prtimes.jp/main/html/rd/p/000000017.000130092.html"
+  ],
+  "summary": {
+    "before_count": 1037,
+    "added_count": 0,
+    "corrected_count": 0,
+    "duplicate_entry_removed": 0,
+    "after_count": 1037,
+    "changes": []
+  },
+  "validation": {
+    "json_parse": "passed",
+    "previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "latest_json_unchanged": true,
+    "latest_blob_sha": "f9b3010413dd967907bcb0297a3d8f630f685f91",
+    "refetched_blob_sha_matches_previous": true
+  },
+  "verified_existing": [
+    "Lawson公式新店舗情報ページの2026-11-01〜2026-11-13掲載28候補を店舗名・開店日で照合し、全件が既存登録済み。",
+    "Second Retailing公式発表添付PDFに掲載された国内9候補を店舗名・開店日で照合し、全件が既存登録済み。海外店舗はJapan scope外。",
+    "三井アウトレットパーク ジャズドリーム長島の公式発表でAcne Studios（2026-11-06）、LAVENHAM（2026-09-27）、CASIO WATCH OUTLET（2026-12-11）を照合し、全件が既存登録済み。",
+    "POP MART LUCUA SOUTH店（2026-11-24）は既存登録済み。",
+    "キイロイトリ銭湯（期間限定、2026-10-30）およびSTANDARD DONUTS 天神西通り店（2026-10-30）は既存登録済み。"
+  ],
+  "uncertain_not_added": [],
+  "errors": [],
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、JSON解析、必須フィールド、開店日順、完全一致重複を検証した。",
+    "今回照合した公式情報源で開店日が確定し、未登録と確認できる追加・訂正対象はなかった。",
+    "latest.jsonは書き換えず、既存データを保持した。調査結果のみ実行ログに保存する。",
+    "調査は選定した公式情報源を対象とし、全国すべての事業者の情報を網羅したものではない。"
+  ]
+}
