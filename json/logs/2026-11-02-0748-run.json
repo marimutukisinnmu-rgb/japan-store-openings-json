@@ -1,0 +1,101 @@
+{
+  "run_at": "2026-11-02T07:48:07+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "ブルースカイランドリー公式発表（2026年11月新規10店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "2026-11-02",
+      "result": "公式一覧の10店舗を店舗名・開店日で照合。10件すべてlatest.jsonに登録済み。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表・添付一覧（2026年11月新規出店12店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked": "2026-11-02",
+      "result": "添付表の国内対象9店舗を照合。Luck Rack イオンモール旭川西店、Luck Rack 京都ヨドバシ店、おお蔵 本町駅前店を含む9件すべて登録済み。海外3店舗は国内対象外。"
+    },
+    {
+      "source": "グランベリーパーク公式・2026 Autumn NEW SHOP OPEN",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "checked": "2026-11-02",
+      "result": "コヒナ（2026-11-12）とマーガレット・ハウエル エー.ジー.オー.（2026-11-13）を照合。2件とも登録済み。"
+    },
+    {
+      "source": "三井アウトレットパーク ジャズドリーム長島公式発表（秋冬新店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "checked": "2026-11-02",
+      "result": "開店日が明記されたAcne Studios（2026-11-06）、MERRELL（2026-11-21）、CASIO WATCH OUTLET（2026-12-11）を照合。3件すべて登録済み。Timberlandは2026年12月予定のみで日付未確定のため日付データとして追加対象外。"
+    },
+    {
+      "source": "猿田彦珈琲公式発表（皇居東御苑店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-03開店予定を照合。登録済み。"
+    },
+    {
+      "source": "ノジマ公式発表（ホームズ新川崎店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-05開店予定を照合。登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表（LUCUA SOUTH店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-24グランドオープンを照合。登録済み。"
+    },
+    {
+      "source": "キルフェボン公式発表（キル フェ ボン新宿）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-28開店予定を照合。登録済み。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "公式ページの11月4日〜13日の新店候補を確認。直近の候補は既存登録と一致し、未登録の確定候補は今回の確認範囲で見つからなかった。"
+    }
+  ],
+  "changes": {
+    "before_count": 1139,
+    "added_count": 0,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1139,
+    "added_entries": []
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "checked_source_candidates": 24,
+    "matched_name_and_date": 24,
+    "unmatched_source_candidates": 0,
+    "existing_records_preserved": true,
+    "newly_added_records_verified": "not_applicable_no_additions",
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+  },
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_commit_sha": null,
+    "latest_json_blob_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "ジャズドリーム長島のTimberlandは公式情報で2026年12月予定まで確認できたが、具体的な開店日は未公表のため追加していない。",
+    "ケンタッキー与野東口店の開店日不一致は前回確認済みの未解決事項。今回は再調査していないため、引き続き未確認として扱う。",
+    "今回の調査は選定した公式情報源と候補を対象とし、全国すべての事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
