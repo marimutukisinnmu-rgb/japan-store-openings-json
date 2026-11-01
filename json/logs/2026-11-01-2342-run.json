@@ -88,5 +88,15 @@
     "next_run_time": null,
     "recorded_run_status": "in_progress",
     "note": "管理情報上は有効。次回実行時刻および完了記録は確認できず。スケジュール変更なし。"
-  }
+  },
+  "data_quality_notes": [
+    {
+      "issue": "RANDY'S DONUTS 東京ソラマチの表記違いによる重複候補",
+      "records": [
+        "RANDY‘S DONUTS 東京ソラマチ店 / 2026-10-29",
+        "ランディーズドーナツ 東京スカイツリータウン・ソラマチ店 / 2026-10-29"
+      ],
+      "action": "今回の更新では削除・統合せず保持。店舗同一性を確定する追加確認が必要。"
+    }
+  ]
 }
