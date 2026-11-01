@@ -1,0 +1,46 @@
+{
+  "run_at": "2026-11-01T14:47:14+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://www.lawson.co.jp/newstore/kantou.html",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://store-info.skylark.co.jp/syabuyo/list/",
+    "https://store-info.skylark.co.jp/bamiyan/list/",
+    "https://synra.co.jp/news-005/",
+    "https://www.kairikiya.co.jp/news/grandopen"
+  ],
+  "summary": {
+    "before_count": 1030,
+    "added_count": 0,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "after_count": 1030,
+    "additions": []
+  },
+  "validation": {
+    "json_parse": "passed",
+    "all_previous_items_preserved": true,
+    "additions_present": true,
+    "required_fields_missing": 0,
+    "duplicate_name_and_date_pairs": 0,
+    "opening_date_order": true,
+    "latest_blob_sha_unchanged": "814a545ee84513824b78aefbeaf12c56f4b914e7"
+  },
+  "verified_existing": [
+    "ローソン公式新店情報で確認した2026-11-01〜2026-11-13の掲載候補はすべて既存登録済み。追加なし。",
+    "セカンドリテイリング公式2026年11月出店発表の国内店舗はすべて既存登録済み。海外店舗はJapan scope外。",
+    "しゃぶ葉 池田駅前店（2026-11-29）・岐阜アクティブＧ店（2026-11-27）は既存登録済み。",
+    "バーミヤン 広島アルパーク店（2026-11-29）・大宮駅東口店とイオンモール伊達店（2026-11-27）は既存登録済み。",
+    "Eleanor spa&treatment 郡山店（2026-11-01）・池袋3rd店（2026-11-05）・沖縄北谷店（2026-11-30）は既存登録済み。",
+    "京都北白川 ラーメン魁力屋 長野平林店（2026-11-04）も既存登録済み。"
+  ],
+  "uncertain_not_added": [
+    "今回確認した候補に、公式発表で開店日が確定し、かつ未登録と確認できた店舗はなかった。"
+  ],
+  "errors": [],
+  "notes": [
+    "新規・訂正対象がなかったため json/latest.json は書き換えず、既存データを保護した。",
+    "調査は選定した公式情報源の確認であり、全国の全事業者を網羅したものではない。"
+  ]
+}
