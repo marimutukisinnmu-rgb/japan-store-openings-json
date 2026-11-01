@@ -1,0 +1,122 @@
+{
+  "run_at": "2026-11-01T09:47:54+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "FJ Next Holdings / FJ Resort Management official PR TIMES release — Gion resumption and Ito Station event stall",
+      "url": "https://prtimes.jp/main/html/rd/p/000000032.000176728.html/",
+      "result": "Confirms Gion main shop resumes operation after business succession on 2026-10-29 at Ito-shi Hiron o 1-2-15, and a separate limited-time event stall at JR Ito Station starts 2026-11-01 and runs through 2026-12-31. Both locations were absent from baseline and added separately."
+    },
+    {
+      "name": "Marine Polis official PR TIMES release — Haresushi Ota",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000187684.html",
+      "result": "Confirms new Haresushi Ota store opens 2026-11-01 at Ota-shi Ota-cho Ota i-56-1; absent from baseline and added."
+    },
+    {
+      "name": "E-Furan official PR TIMES release — Otakaraya MisterMax Usa",
+      "url": "https://prtimes.jp/main/html/rd/p/000000470.000080252.html",
+      "result": "Confirms opening 2026-11-02 at Usa-shi Hokkyoji 500, MisterMax Usa premises, 1F; absent from baseline and added."
+    },
+    {
+      "name": "Hitototo / Crepe to official PR TIMES release — Crepe and Espresso Tokinokane",
+      "url": "https://prtimes.jp/main/html/rd/p/000000131.000035358.html",
+      "result": "Confirms opening 2026-11-02 at Kawagoe-shi Suehirocho 2-1-23; absent from baseline and added."
+    },
+    {
+      "name": "Kona's Coffee official store page — Tokorozawa",
+      "url": "https://stores.konas-coffee.com/110967",
+      "result": "Official page confirms closure for renovation from 2026-11-02 through 2026-12-06 and reopening 2026-12-07 at Tokorozawa-shi Kitano 1-2-61; absent from baseline and added as a renewal."
+    },
+    {
+      "name": "Recent opening candidate review",
+      "url": "https://yashion.jp/news/46304",
+      "result": "MOGUえほんランド (2026-11-01) was already present in latest.json; no duplicate added."
+    },
+    {
+      "name": "Recent opening candidate review — KALDI Shin-Sapporo Sunpiazza",
+      "url": "https://ebetsunopporo.com/?p=57553",
+      "result": "KALDI Coffee Farm Shin-Sapporo Sunpiazza store (2026-11-19) was already present in latest.json; no duplicate added."
+    }
+  ],
+  "changes": {
+    "before_count": 1006,
+    "added": 6,
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1012,
+    "items": [
+      {
+        "name": "祇園本店（事業承継・営業再開）",
+        "prefecture": "静岡県",
+        "city": "伊東市",
+        "opening_date": "2026-10-29",
+        "category": "いなり寿し（事業承継・営業再開）"
+      },
+      {
+        "name": "晴れ寿し 大田店",
+        "prefecture": "島根県",
+        "city": "大田市",
+        "opening_date": "2026-11-01",
+        "category": "回転寿司"
+      },
+      {
+        "name": "祇園 JR伊東駅店（期間限定催事）",
+        "prefecture": "静岡県",
+        "city": "伊東市",
+        "opening_date": "2026-11-01",
+        "category": "いなり寿し（期間限定催事）"
+      },
+      {
+        "name": "高価買取おたからや ミスターマックス宇佐店",
+        "prefecture": "大分県",
+        "city": "宇佐市",
+        "opening_date": "2026-11-02",
+        "category": "買取専門店"
+      },
+      {
+        "name": "クレープとエスプレッソと時の鐘",
+        "prefecture": "埼玉県",
+        "city": "川越市",
+        "opening_date": "2026-11-02",
+        "category": "クレープ専門店・カフェ"
+      },
+      {
+        "name": "コナズ珈琲 所沢店（リニューアル）",
+        "prefecture": "埼玉県",
+        "city": "所沢市",
+        "opening_date": "2026-12-07",
+        "category": "ハワイアンカフェ（リニューアル）"
+      }
+    ]
+  },
+  "save": {
+    "write": "success",
+    "commit_sha": "c095a06c95a9ef6ada055e95b69f7c2a4647f4e7",
+    "blob_sha": "f9fcf200cda5ac2101ce31fce4e46ef01194ae27",
+    "refetched_blob_sha": "f9fcf200cda5ac2101ce31fce4e46ef01194ae27",
+    "sha_match": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "before_count": 1006,
+    "after_count": 1012,
+    "old_items_preserved": true,
+    "missing_old_items": 0,
+    "new_items_present": true,
+    "required_field_errors": 0,
+    "invalid_dates": 0,
+    "exact_name_date_duplicates": 0,
+    "date_order_ok": true,
+    "save_sha_matches": true
+  },
+  "errors": [],
+  "limitations": [
+    "This is a selected-source review, not an exhaustive scan of every operator in Japan.",
+    "The Gion main shop is an operation resumption following business succession; the JR Ito Station sales point is a distinct temporary event location.",
+    "Month-only or conflicting opening windows were not converted to exact dates."
+  ],
+  "unconfirmed": [
+    "鮮魚市場・海鮮食堂 若竹丸 鳥栖店: one local article reported late November 2026, while a later job listing cited mid-January 2027; no exact date was verified, so it was not added."
+  ]
+}
