@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T17:40:06+09:00",
+  "updatetime": "2026-11-01T21:40:41+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5534,6 +5534,13 @@
       "category": "玩具・ブロック（リニューアル）"
     },
     {
+      "name": "鶏笑 南浦和店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市南区",
+      "opening_date": "2026-11-10",
+      "category": "からあげ専門店"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
@@ -7191,6 +7198,13 @@
       "city": "浜松市中央区",
       "opening_date": "2026-12-04",
       "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "かっぱ寿司 富山下赤江店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-12-04",
+      "category": "回転寿司"
     },
     {
       "name": "コナズ珈琲 所沢店（リニューアル）",
