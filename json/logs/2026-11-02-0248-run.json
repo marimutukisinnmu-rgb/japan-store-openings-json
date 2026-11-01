@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-02T02:48:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json": {
+    "path": "json/latest.json",
+    "sha": "6004426aa17af0a64e5cd3a8b5ba26b28d5a325e",
+    "commit_sha": "a494bed7f8e4758aa083347b14fe90e30c664eb6",
+    "updatetime": "2026-11-02T02:48:51+09:00",
+    "period": "2026-09-18/2027-01-22",
+    "item_count": 1066,
+    "modified": true,
+    "validation": {
+      "json_parse": "passed",
+      "required_field_missing": 0,
+      "duplicate_name_and_opening_date": 0,
+      "sorted_by_opening_date": true,
+      "new_record_present": true,
+      "existing_records_preserved": true,
+      "post_write_fetch_sha_matches": true
+    }
+  },
+  "source_checks": [
+    {
+      "source": "PISOLA official news",
+      "url": "https://pisola.jp/news/11956.html",
+      "checked": "PISOLA東越谷店; opening date 2026-11-18; address in Koshigaya, Saitama",
+      "result": "Official announcement confirmed the opening date and location. Exact name/date was absent from the pre-update JSON; added one record."
+    },
+    {
+      "source": "Lawson official new store listings",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Selected listed November openings, including the November 4-13 candidates",
+      "result": "Selected candidate records checked against the existing JSON were already present; no duplicate additions."
+    },
+    {
+      "source": "Skylark official store listings",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "checked": "Shabu-yo Ikeda Ekimae (2026-11-29) and Gifu Active G (2026-11-27)",
+      "result": "Both exact records were present in the existing JSON."
+    },
+    {
+      "source": "Skylark official store listings",
+      "url": "https://store-info.skylark.co.jp/bamiyan/list/",
+      "checked": "Bamiyan Hiroshima Alpark (2026-11-29) and Omiya Station East Exit (2026-11-27)",
+      "result": "Both exact records were present in the existing JSON."
+    },
+    {
+      "source": "Additional fresh web search",
+      "checked": "Selected recent official/operator announcements for November and December 2026 openings",
+      "result": "PISOLA東越谷店 was the only confirmed, previously absent candidate identified in this run; this was not an exhaustive nationwide review."
+    }
+  ],
+  "changes": {
+    "added": 1,
+    "records": [
+      {
+        "name": "PISOLA東越谷店",
+        "prefecture": "埼玉県",
+        "city": "越谷市",
+        "opening_date": "2026-11-18",
+        "category": "イタリアン"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "unverified": [
+    "The source review covered selected official/operator sources, not every Japanese operator or all announcements nationwide.",
+    "Automation management showed next_run_time as null and the latest run record as in_progress at check time; scheduler completion and next-run timing could not be verified."
+  ],
+  "automation_state_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "run_status_at_check": "in_progress"
+  }
+}
