@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T15:40:03+09:00",
+  "updatetime": "2026-11-01T16:42:00+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7184,6 +7184,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-23",
       "category": "ゲーム公式グッズショップ（名称仮称）"
+    },
+    {
+      "name": "マクドナルド 八幡南山店",
+      "prefecture": "京都府",
+      "city": "八幡市",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
     },
     {
       "name": "東横INN JR宇治駅南口",
