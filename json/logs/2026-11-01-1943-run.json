@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-11-01T19:43:48+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+    "https://venex-j.co.jp/news/detail/1030.html",
+    "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+    "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+    "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+    "https://www.aeonmall.com/facility/detail/1205/"
+  ],
+  "summary": {
+    "before_count": 1037,
+    "added_count": 0,
+    "corrected_count": 0,
+    "duplicate_entry_removed": 0,
+    "after_count": 1037,
+    "changes": []
+  },
+  "validation": {
+    "json_parse": "passed",
+    "previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "latest_json_unchanged": true,
+    "latest_blob_sha": "f9b3010413dd967907bcb0297a3d8f630f685f91",
+    "refetched_blob_sha_matches_previous": true
+  },
+  "verified_existing": [
+    "Lawson公式新店舗情報ページの2026-11-01〜2026-11-13掲載分28候補をJSONと店舗名・開店日で照合。未登録候補は0件。",
+    "Blue Sky Laundryの2026年11月公式発表10店舗を照合。全10店舗が既存登録済み。",
+    "VENEX公式発表のneverbetter（2026-11-15、東京都世田谷区）は既存登録済み。",
+    "ラスカ平塚の公式運営会社発表によるLindt、ITS'DEMO、Local India、らーめん石狩の4候補は既存登録済み。",
+    "ノジマ ホームズ新川崎店（2026-11-05）、タグ・ホイヤー 東京 銀座（2026-11-07）、きづなすし 上野店（2026-11-06）、イオンモールKYOTOロフト（2026-11-27）、築地食堂 源ちゃん イオンモール伊達店（2026-11-27）は既存登録済み。"
+  ],
+  "uncertain_not_added": [],
+  "errors": [],
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、JSON解析と既存件数・必須フィールド・日付順・完全一致重複を検証した。",
+    "選定した最新の公式発表と公式新店一覧を照合したが、開店日が確定し未登録と確認できる追加・訂正対象は見つからなかった。",
+    "latest.jsonは書き換えず、既存データを保持した。調査結果だけを実行ログに保存する。",
+    "調査は選定した公式情報源を対象とし、全国すべての事業者の情報を網羅したものではない。"
+  ]
+}
