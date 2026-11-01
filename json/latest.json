@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T03:47:17+09:00",
+  "updatetime": "2026-11-02T04:43:06+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5996,6 +5996,13 @@
       "category": "リユース・買取専門店"
     },
     {
+      "name": "セリア 星天qlay店",
+      "prefecture": "神奈川県",
+      "city": "横浜市保土ケ谷区",
+      "opening_date": "2026-11-13",
+      "category": "100円ショップ"
+    },
+    {
       "name": "タイヤ流通センターアップガレージ釧路店",
       "prefecture": "北海道",
       "city": "釧路市",
@@ -7088,6 +7095,13 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
+      "name": "名探偵コナンダイナー",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "常設コラボ飲食店（11/19プレオープン）"
+    },
+    {
       "name": "ABURI百貫 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -7905,6 +7919,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-10",
       "category": "フレグランス・ライフスタイル"
+    },
+    {
+      "name": "ジャックインザドーナツ（ノースポート・モール）",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-12-10",
+      "category": "ドーナツ専門店"
     },
     {
       "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
