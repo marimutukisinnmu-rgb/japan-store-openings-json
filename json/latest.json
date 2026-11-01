@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T11:40:37+09:00",
+  "updatetime": "2026-11-01T12:43:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4078,6 +4078,20 @@
       "category": "スーパーマーケット（生鮮食品）"
     },
     {
+      "name": "TOP TOY 神戸マルイ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-30",
+      "category": "キャラクター・デザイナーズトイ"
+    },
+    {
+      "name": "YOGURT WORLD 神戸マルイ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-30",
+      "category": "ヨーグルトアイス専門店"
+    },
+    {
       "name": "ASICS PICKLEBALL CONNECT",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -4351,6 +4365,13 @@
       "category": "よもぎ蒸し専門サロン"
     },
     {
+      "name": "ガチャガチャの森 神戸元町店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-10-31",
+      "category": "カプセルトイ専門店"
+    },
+    {
       "name": "Eleanor spa&treatment 郡山店",
       "prefecture": "福島県",
       "city": "郡山市",
@@ -4503,6 +4524,13 @@
       "city": "草加市",
       "opening_date": "2026-11-01",
       "category": "買取専門店"
+    },
+    {
+      "name": "NAPOLIGANG（ナポリギャング）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-01",
+      "category": "ナポリピッツァ専門店"
     },
     {
       "name": "アニメイト福岡ANNEX",
@@ -4720,6 +4748,20 @@
       "city": "ふじみ野市",
       "opening_date": "2026-11-04",
       "category": "とんかつ専門店"
+    },
+    {
+      "name": "山手菓子 ヘペレ（Heper）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-04",
+      "category": "洋菓子店・パティスリー"
+    },
+    {
+      "name": "TEA DIARY Produced by 伊藤園（大丸神戸店）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-04",
+      "category": "日本茶・紅茶・ティーバッグ専門店"
     },
     {
       "name": "chocoZAP 中須一丁目",
