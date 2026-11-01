@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-11-01T18:44:36+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+    "https://prtimes.jp/main/html/rd/p/000000015.000112208.html",
+    "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+    "https://www.lucua.jp/shopguide/id2042.html",
+    "https://www.froma.com/viewjob/0d08f40851c61032/",
+    "https://kobebrighten.com/ja/openings/area/tarumi/"
+  ],
+  "summary": {
+    "before_count": 1037,
+    "added_count": 0,
+    "corrected_count": 0,
+    "duplicate_entry_removed": 0,
+    "after_count": 1037,
+    "changes": []
+  },
+  "validation": {
+    "json_parse": "passed",
+    "previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "latest_json_unchanged": true,
+    "latest_blob_sha": "f9b3010413dd967907bcb0297a3d8f630f685f91",
+    "refetched_blob_sha_matches_previous": true
+  },
+  "verified_existing": [
+    "ローソン公式新店情報ページに掲載された2026-11-01〜2026-11-13の新店は、JSON内の該当候補と照合済み。公式ページ掲載分はすべて登録済み。",
+    "セカンドリテイリングの2026年11月国内出店候補（Luck Rack、セカンドストリート、OKURA、およびカプセル楽局）は、該当する国内候補が登録済み。",
+    "POP MART LUCUA SOUTH店（2026-11-24）、キル フェ ボン新宿（2026-11-28）、Japan Blue Jeans SHIBUYA PARCO（2026-11-20）、ポムの樹 イオンモール羽生リニューアル（2026-11-06）は登録済み。"
+  ],
+  "uncertain_not_added": [
+    "ケンタッキーフライドチキン 与野東口店：求人情報には2026-11-24の開店表記があるが、今回の調査では運営会社の公式発表を確認できず、未登録のまま保留。",
+    "コメダ珈琲店 神戸垂水店：地域情報源に開店日の掲載はあるが、公式情報による確定日を確認できず、未登録のまま保留。"
+  ],
+  "errors": [],
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、公式情報源の候補と照合した。",
+    "新規追加・訂正・削除対象が確認できなかったため、latest.jsonは書き換えず既存データを保持した。",
+    "完全一致の店舗名＋開店日重複は0件。表記揺れによる同一店舗候補は推測で削除せず、今回の変更対象外とした。",
+    "調査は選定した公式情報源および補助的な地域情報源を対象とし、全国の全運営会社を網羅したものではない。"
+  ]
+}
