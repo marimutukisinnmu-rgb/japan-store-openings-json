@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T01:58:31+09:00",
+  "updatetime": "2026-11-02T02:48:51+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -2678,6 +2678,13 @@
       "category": "串カツ・居酒屋"
     },
     {
+      "name": "松屋 川口駅前店（営業再開）",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-10-23",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
       "name": "豚山 柏店",
       "prefecture": "千葉県",
       "city": "柏市",
@@ -2690,13 +2697,6 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
-    },
-    {
-      "name": "松屋 川口駅前店（営業再開）",
-      "prefecture": "埼玉県",
-      "city": "川口市",
-      "opening_date": "2026-10-23",
-      "category": "牛丼・定食（営業再開）"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -4393,6 +4393,13 @@
       "category": "美容室・ヘッドスパ"
     },
     {
+      "name": "FiT24 春日井店",
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "LAVA 札幌琴似店（拡大リニューアル）",
       "prefecture": "北海道",
       "city": "札幌市西区",
@@ -4547,11 +4554,25 @@
       "category": "まぜそば専門店"
     },
     {
-      "name": "FiT24 春日井店",
-      "prefecture": "愛知県",
-      "city": "春日井市",
-      "opening_date": "2026-11-01",
-      "category": "フィットネスジム"
+      "name": "GARAGE CURRENT 国産名車",
+      "prefecture": "神奈川県",
+      "city": "横浜市青葉区",
+      "opening_date": "2026-11-02",
+      "category": "国産旧車・名車専門店（自動車販売）"
+    },
+    {
+      "name": "ITTO個別指導学院 宮内校（リニューアル）",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-11-02",
+      "category": "個別指導塾（リニューアル）"
+    },
+    {
+      "name": "ITTO個別指導学院 広島城山校（リニューアル）",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "opening_date": "2026-11-02",
+      "category": "個別指導塾（リニューアル）"
     },
     {
       "name": "アニメイト福岡ANNEX",
@@ -4566,6 +4587,13 @@
       "city": "川越市",
       "opening_date": "2026-11-02",
       "category": "クレープ専門店・カフェ"
+    },
+    {
+      "name": "ジュエルカフェ 草津栗東店",
+      "prefecture": "滋賀県",
+      "city": "栗東市",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店"
     },
     {
       "name": "やよい軒 御徒町春日通り店",
@@ -4589,32 +4617,11 @@
       "category": "買取専門店"
     },
     {
-      "name": "合 Shinjuku",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-02",
-      "category": "和食店"
-    },
-    {
-      "name": "買取専科 リヴィン田無店",
-      "prefecture": "東京都",
-      "city": "西東京市",
-      "opening_date": "2026-11-02",
-      "category": "買取専門店"
-    },
-    {
       "name": "高価買取おたからや 岸和田店",
       "prefecture": "大阪府",
       "city": "岸和田市",
       "opening_date": "2026-11-02",
       "category": "買取専門店"
-    },
-    {
-      "name": "GARAGE CURRENT 国産名車",
-      "prefecture": "神奈川県",
-      "city": "横浜市青葉区",
-      "opening_date": "2026-11-02",
-      "category": "国産旧車・名車専門店（自動車販売）"
     },
     {
       "name": "高価買取おたからや 直方本店",
@@ -4624,11 +4631,11 @@
       "category": "買取専門店"
     },
     {
-      "name": "ジュエルカフェ 草津栗東店",
-      "prefecture": "滋賀県",
-      "city": "栗東市",
+      "name": "合 Shinjuku",
+      "prefecture": "東京都",
+      "city": "新宿区",
       "opening_date": "2026-11-02",
-      "category": "買取専門店"
+      "category": "和食店"
     },
     {
       "name": "松屋 千葉店（営業再開）",
@@ -4638,18 +4645,11 @@
       "category": "牛丼・定食（営業再開）"
     },
     {
-      "name": "ITTO個別指導学院 広島城山校（リニューアル）",
-      "prefecture": "広島県",
-      "city": "広島市佐伯区",
+      "name": "買取専科 リヴィン田無店",
+      "prefecture": "東京都",
+      "city": "西東京市",
       "opening_date": "2026-11-02",
-      "category": "個別指導塾（リニューアル）"
-    },
-    {
-      "name": "ITTO個別指導学院 宮内校（リニューアル）",
-      "prefecture": "広島県",
-      "city": "廿日市市",
-      "opening_date": "2026-11-02",
-      "category": "個別指導塾（リニューアル）"
+      "category": "買取専門店"
     },
     {
       "name": "chocoZAP 宇佐岩崎",
@@ -4664,6 +4664,13 @@
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-03",
       "category": "時計（リニューアル）"
+    },
+    {
+      "name": "ITTO個別指導学院 原町校（リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-11-03",
+      "category": "個別指導塾（リニューアル）"
     },
     {
       "name": "ノーブル（POP UP SHOP）",
@@ -4729,11 +4736,11 @@
       "category": "カフェ"
     },
     {
-      "name": "ITTO個別指導学院 原町校（リニューアル）",
-      "prefecture": "埼玉県",
-      "city": "川口市",
-      "opening_date": "2026-11-03",
-      "category": "個別指導塾（リニューアル）"
+      "name": "MARcourt DESIGNEYE（多摩南大沢）",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-04",
+      "category": "ファッション（アウトレット）"
     },
     {
       "name": "PRESS BUTTER SAND 丸井今井札幌本店 POPUP",
@@ -4748,6 +4755,13 @@
       "city": "宇都宮市",
       "opening_date": "2026-11-04",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "RootS & BAKERY（ルーツアンドベーカリー）",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-11-04",
+      "category": "ベーカリー"
     },
     {
       "name": "TEA DIARY Produced by 伊藤園（大丸神戸店）",
@@ -4841,20 +4855,6 @@
       "category": "洋菓子店・パティスリー"
     },
     {
-      "name": "RootS & BAKERY（ルーツアンドベーカリー）",
-      "prefecture": "北海道",
-      "city": "札幌市西区",
-      "opening_date": "2026-11-04",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "MARcourt DESIGNEYE（多摩南大沢）",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-11-04",
-      "category": "ファッション（アウトレット）"
-    },
-    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -4939,6 +4939,13 @@
       "category": "食品スーパー（都市型小型店）"
     },
     {
+      "name": "みつぼしや ドーチカ店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-05",
+      "category": "定食・和食"
+    },
+    {
       "name": "やよい軒 調布駅北口店",
       "prefecture": "東京都",
       "city": "調布市",
@@ -5021,13 +5028,6 @@
       "city": "大川市",
       "opening_date": "2026-11-05",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "みつぼしや ドーチカ店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-05",
-      "category": "定食・和食"
     },
     {
       "name": "松屋 北赤羽店（営業再開）",
@@ -5415,6 +5415,13 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "松屋 武蔵新城店（営業再開）",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "opening_date": "2026-11-06",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
       "name": "創作オムライス ポムの樹（イオンモール羽生・リニューアル）",
       "prefecture": "埼玉県",
       "city": "羽生市",
@@ -5443,11 +5450,11 @@
       "category": "和菓子・カステラ（期間限定催事）"
     },
     {
-      "name": "松屋 武蔵新城店（営業再開）",
-      "prefecture": "神奈川県",
-      "city": "川崎市",
-      "opening_date": "2026-11-06",
-      "category": "牛丼・定食（営業再開）"
+      "name": "ASMO academy 霧島国分校",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-07",
+      "category": "個別指導塾（新規開校）"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -5499,13 +5506,6 @@
       "category": "化粧品・スキンケア（百貨店カウンター）"
     },
     {
-      "name": "松屋 大正駅前店",
-      "prefecture": "大阪府",
-      "city": "大阪市",
-      "opening_date": "2026-11-07",
-      "category": "牛丼・定食"
-    },
-    {
       "name": "鶏笑 出雲神立店",
       "prefecture": "島根県",
       "city": "出雲市",
@@ -5513,11 +5513,18 @@
       "category": "からあげ専門店"
     },
     {
-      "name": "ASMO academy 霧島国分校",
-      "prefecture": "鹿児島県",
-      "city": "霧島市",
+      "name": "松屋 大正駅前店",
+      "prefecture": "大阪府",
+      "city": "大阪市",
       "opening_date": "2026-11-07",
-      "category": "個別指導塾（新規開校）"
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-09",
+      "category": "ファッション（アウトレット）"
     },
     {
       "name": "テンポス福岡飯塚店",
@@ -5539,13 +5546,6 @@
       "city": "豊中市",
       "opening_date": "2026-11-09",
       "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
-      "prefecture": "愛知県",
-      "city": "岡崎市",
-      "opening_date": "2026-11-09",
-      "category": "ファッション（アウトレット）"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5674,6 +5674,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "MAMMUT STORE OUTLET（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-11",
+      "category": "アウトドア用品（アウトレット）"
+    },
+    {
       "name": "PEACEMINUSONE X ZO&FRIENDS POP-UP（LINE FRIENDS SQUARE SHIBUYA）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -5737,13 +5744,6 @@
       "category": "買取専門店"
     },
     {
-      "name": "MAMMUT STORE OUTLET（MITSUI OUTLET PARK 岡崎）",
-      "prefecture": "愛知県",
-      "city": "岡崎市",
-      "opening_date": "2026-11-11",
-      "category": "アウトドア用品（アウトレット）"
-    },
-    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -5784,6 +5784,13 @@
       "city": "八王子市",
       "opening_date": "2026-11-12",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "COHINA グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "レディース・ファッション雑貨"
     },
     {
       "name": "PAUL ジェイアール名古屋タカシマヤ店",
@@ -5891,6 +5898,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "松屋 山形馬見ケ崎店（松のや併設）",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "opening_date": "2026-11-12",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
       "name": "天満屋ハピーズ西大寺モール",
       "prefecture": "岡山県",
       "city": "岡山市東区",
@@ -5903,20 +5917,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
-    },
-    {
-      "name": "COHINA グランベリーパーク店",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2026-11-12",
-      "category": "レディース・ファッション雑貨"
-    },
-    {
-      "name": "松屋 山形馬見ケ崎店（松のや併設）",
-      "prefecture": "山形県",
-      "city": "山形市",
-      "opening_date": "2026-11-12",
-      "category": "牛丼・定食（松のや併設）"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
@@ -6038,6 +6038,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "松屋 溝の口南口店（営業再開）",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "opening_date": "2026-11-13",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
       "name": "仙臺たんや利久 エキュート大宮店",
       "prefecture": "埼玉県",
       "city": "さいたま市大宮区",
@@ -6057,13 +6064,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
-    },
-    {
-      "name": "松屋 溝の口南口店（営業再開）",
-      "prefecture": "神奈川県",
-      "city": "川崎市",
-      "opening_date": "2026-11-13",
-      "category": "牛丼・定食（営業再開）"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -6094,6 +6094,13 @@
       "category": "ファミリーレストラン"
     },
     {
+      "name": "ITTO個別指導学院 江曽島校（移転開校）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-16",
+      "category": "個別指導塾（移転開校）"
+    },
+    {
       "name": "PRESS BUTTER SAND アミュプラザ長崎 POPUP",
       "prefecture": "長崎県",
       "city": "長崎市",
@@ -6113,13 +6120,6 @@
       "city": "渋谷区",
       "opening_date": "2026-11-16",
       "category": "ヴィンテージブランド品専門店"
-    },
-    {
-      "name": "ITTO個別指導学院 江曽島校（移転開校）",
-      "prefecture": "栃木県",
-      "city": "宇都宮市",
-      "opening_date": "2026-11-16",
-      "category": "個別指導塾（移転開校）"
     },
     {
       "name": "松屋 下北沢店（営業再開）",
@@ -6239,6 +6239,13 @@
       "city": "福岡市早良区",
       "opening_date": "2026-11-18",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "PISOLA東越谷店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-11-18",
+      "category": "イタリアン"
     },
     {
       "name": "PLUSTAアスティ静岡",
@@ -6435,6 +6442,13 @@
       "city": "豊島区",
       "opening_date": "2026-11-20",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "HIPSHOP（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-20",
+      "category": "アンダーウェア・ファッション（アウトレット）"
     },
     {
       "name": "ITS'DEMO ラスカ平塚店（移転リニューアル）",
@@ -6652,13 +6666,6 @@
       "city": "野洲市",
       "opening_date": "2026-11-20",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "HIPSHOP（MITSUI OUTLET PARK 岡崎）",
-      "prefecture": "愛知県",
-      "city": "岡崎市",
-      "opening_date": "2026-11-20",
-      "category": "アンダーウェア・ファッション（アウトレット）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -7291,11 +7298,11 @@
       "category": "ライブハウス"
     },
     {
-      "name": "ドラえもん未来デパート（リニューアル）",
-      "prefecture": "東京都",
-      "city": "江東区",
+      "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
+      "prefecture": "埼玉県",
+      "city": "入間市",
       "opening_date": "2026-12-01",
-      "category": "キャラクター公式ショップ（リニューアル）"
+      "category": "ファッション（アウトレット）"
     },
     {
       "name": "ITTO個別指導学院 倉敷福田校",
@@ -7305,11 +7312,11 @@
       "category": "個別指導塾（新規開校）"
     },
     {
-      "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
-      "prefecture": "埼玉県",
-      "city": "入間市",
+      "name": "ドラえもん未来デパート（リニューアル）",
+      "prefecture": "東京都",
+      "city": "江東区",
       "opening_date": "2026-12-01",
-      "category": "ファッション（アウトレット）"
+      "category": "キャラクター公式ショップ（リニューアル）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -7340,6 +7347,13 @@
       "category": "マシンピラティス"
     },
     {
+      "name": "Repilates（リピラティス）イオン浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-12-04",
+      "category": "マシンピラティススタジオ"
+    },
+    {
       "name": "SieMatic｜Rimadesio 青山ショールーム",
       "prefecture": "東京都",
       "city": "港区",
@@ -7368,25 +7382,18 @@
       "category": "体験型公式ショップ・キャラクターグッズ"
     },
     {
-      "name": "スプラッシュンゴー太田東店",
-      "prefecture": "群馬県",
-      "city": "太田市",
-      "opening_date": "2026-12-04",
-      "category": "洗車サービス・カーケア"
-    },
-    {
-      "name": "Repilates（リピラティス）イオン浜松西店",
-      "prefecture": "静岡県",
-      "city": "浜松市中央区",
-      "opening_date": "2026-12-04",
-      "category": "マシンピラティススタジオ"
-    },
-    {
       "name": "かっぱ寿司 富山下赤江店",
       "prefecture": "富山県",
       "city": "富山市",
       "opening_date": "2026-12-04",
       "category": "回転寿司"
+    },
+    {
+      "name": "スプラッシュンゴー太田東店",
+      "prefecture": "群馬県",
+      "city": "太田市",
+      "opening_date": "2026-12-04",
+      "category": "洗車サービス・カーケア"
     },
     {
       "name": "コナズ珈琲 所沢店（リニューアル）",
