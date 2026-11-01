@@ -1,0 +1,90 @@
+{
+  "run_at": "2026-11-02T08:48:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "2026-11-01〜2026-11-13の28候補を店舗名・開店日で照合。28件すべて登録済み。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表（2026年11月新規10店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "2026-11-02",
+      "result": "公式一覧の10店舗を照合。10件すべて登録済み。オートバックス本庄店は全角・半角空白の表記差のみ。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表・添付PDF（2026年11月12店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "attachment_url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "checked": "2026-11-02",
+      "result": "国内対象9店舗を照合。9件すべて登録済み。海外3店舗は日本国内の対象外。"
+    },
+    {
+      "source": "ラスカ平塚運営会社公式発表（11月NEW・RENEWAL 4店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "checked": "2026-11-02",
+      "result": "リンツ、イッツデモ、ローカルインディア、らーめん石狩の4件を照合。4件すべて登録済み。"
+    },
+    {
+      "source": "日本KFC公式・2026年11月新店情報（更新版）",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "checked": "2026-11-02",
+      "result": "公式発表の5店舗を照合。5件すべて登録済み。"
+    },
+    {
+      "source": "追加の公式店舗情報（猿田彦珈琲、ノジマ、POP MART JAPAN、キルフェボン、カルディコーヒーファーム）",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000212.000027005.html",
+        "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+        "https://map.kaldi.co.jp/kaldi/detailMap?accmd=&account=kaldi&bid=614&bsort=4&range=Month&rangeval=0"
+      ],
+      "checked": "2026-11-02",
+      "result": "2026-11-03、11-05、11-19、11-24、11-28の5候補を照合。5件すべて登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1139,
+    "added_count": 0,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1139,
+    "added_entries": []
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "checked_source_candidates": 61,
+    "matched_name_and_date": 61,
+    "unmatched_source_candidates": 0,
+    "existing_records_preserved": true,
+    "newly_added_records_verified": "not_applicable_no_additions",
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+  },
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_commit_sha": null,
+    "latest_json_blob_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "ジャズドリーム長島のTimberlandは2026年12月予定まで確認できるが、具体的な開店日は未公表のため日付を登録していない。",
+    "ケンタッキー与野東口店の開店日不一致は前回確認済みの未解決事項。今回は再調査していないため未確認として維持。",
+    "今回の調査は選定した公式情報源と候補を対象とし、全国すべての事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
