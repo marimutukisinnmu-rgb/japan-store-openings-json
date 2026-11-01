@@ -1,0 +1,80 @@
+{
+  "run_at": "2026-11-01T22:40:25+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "result": "no_data_change",
+  "before": {
+    "item_count": 1041,
+    "updatetime": "2026-11-01T21:40:41+09:00",
+    "blob_sha": "ee981e1dbeb4b6557111b5d2d0016081a6a1a342"
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "27 entries dated 2026-11-04 through 2026-11-13",
+      "result": "All 27 matched existing records; no additions."
+    },
+    {
+      "source": "POP MART JAPAN official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "item": "POP MART LUCUA SOUTH店",
+      "opening_date": "2026-11-24",
+      "result": "Already registered."
+    },
+    {
+      "source": "Second Retailing group official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "Relevant domestic store candidates were already registered; no unmatched confirmed item."
+    },
+    {
+      "source": "Kairikiya official new-store listing",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "item": "京都北白川 ラーメン魁力屋 長野平林店",
+      "opening_date": "2026-11-04",
+      "result": "Already registered."
+    },
+    {
+      "source": "Big-A official new-store listing",
+      "url": "https://www.biga.co.jp/newshop/",
+      "result": "ビッグ・エー狭山中央店 (2026-11-21) and ビッグ・エー清瀬駅北口店 (2026-11-28) already registered."
+    },
+    {
+      "source": "Nojima official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "item": "ノジマ ホームズ新川崎店",
+      "opening_date": "2026-11-05",
+      "result": "Already registered."
+    },
+    {
+      "source": "WR.Yoyogi Park company announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "item": "WR.Yoyogi Park",
+      "opening_date": "2026-11-06",
+      "result": "Already registered."
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 0
+  },
+  "after": {
+    "item_count": 1041,
+    "updatetime": "2026-11-01T21:40:41+09:00",
+    "blob_sha": "ee981e1dbeb4b6557111b5d2d0016081a6a1a342",
+    "latest_json_unchanged": true
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_field_issues": 0,
+    "duplicate_name_opening_date": 0,
+    "date_order_sorted": true,
+    "date_range": "2026-09-18/2027-01-22"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "This source sweep is selective, not an exhaustive review of every Japanese operator.",
+    "The automation metadata shows enabled=true and an hourly schedule, but next_run_time is null during this in-progress run; the next exact execution time could not be confirmed."
+  ]
+}
