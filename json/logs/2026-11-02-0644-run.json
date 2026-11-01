@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-02T06:44:02+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "ローソン公式新店情報（2026年11月4日〜13日）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "開店日が掲載された27候補をlatest.jsonと店舗名・開店日で照合。27件すべて登録済み。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表（2026年11月新規10店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "2026-11-02",
+      "result": "公式発表の10店舗を店舗名・開店日で照合。10件すべて登録済み。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表（2026年11月新規出店一覧・添付表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked": "2026-11-02",
+      "result": "国内対象9店舗を添付一覧で確認し、店舗名・開店日で照合。9件すべて登録済み。海外店舗3件は日本国内データの対象外。"
+    },
+    {
+      "source": "日本KFC公式・2026年11月新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "checked": "2026-11-02",
+      "result": "公式発表の5店舗（湊川、イオンタウン山科椥辻、イオンモールかほく、堺大庭寺、イオンタウン久留米東櫛原）を照合。5件すべて登録済みで、開店日も一致。"
+    },
+    {
+      "source": "SYNRA GROUP公式・Eleanor spa&treatment秋の新店情報",
+      "url": "https://synra.co.jp/news-005/",
+      "checked": "2026-11-02",
+      "result": "11月の郡山店、池袋3rd店、沖縄北谷店を照合。3件すべて登録済みで、開店日も一致。"
+    },
+    {
+      "source": "GUNDAM Official・THE GUNDAM BASE SHIBUYA",
+      "url": "https://gundam-official.com/news/emxedubrxufeygcn97m1v2n1",
+      "checked": "2026-11-02",
+      "result": "2026-11-20オープンの店舗を照合。登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表・LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-24グランドオープンを照合。登録済み。"
+    },
+    {
+      "source": "銀座おのでら公式・立鮨 エキュート大宮店",
+      "url": "https://onodera-group.com/news/7933/",
+      "checked": "2026-11-02",
+      "result": "2026-11-13グランドオープン予定を照合。登録済み。"
+    },
+    {
+      "source": "サイプレス・ホールディングス公式発表・築地食堂 源ちゃん イオンモール伊達店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+      "checked": "2026-11-02",
+      "result": "2026-11-27オープンを照合。登録済み。"
+    },
+    {
+      "source": "ケンタッキー与野東口店の地域情報・求人情報およびKFC公式新店一覧",
+      "url": "https://yurunago.or.jp/spot/spot-30078/",
+      "checked": "2026-11-02",
+      "result": "地域情報は2026-11-25、求人情報には2026-11-24の記載。KFC公式11月新店情報の掲載5店舗には与野東口店が含まれず、運営会社公式の確定日を今回確認できなかったため登録保留。"
+    }
+  ],
+  "changes": {
+    "before_count": 1139,
+    "added_count": 0,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1139,
+    "added_entries": []
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "checked_source_candidates": 58,
+    "matched_name_and_date": 58,
+    "unmatched_source_candidates": 0,
+    "existing_records_preserved": true,
+    "newly_added_records_verified": "not_applicable_no_additions",
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+  },
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_commit_sha": null,
+    "latest_json_blob_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "ケンタッキー与野東口店：地域情報と求人情報で2026-11-25／2026-11-24の相違があり、KFC公式の確定日を確認できず。今回も追加せず保留。",
+    "今回の調査は選定した公式情報源と候補を対象とし、全国すべての事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
