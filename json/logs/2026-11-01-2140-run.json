@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-01T21:40:41+09:00",
+  "target": "json/latest.json",
+  "result": {
+    "before_count": 1037,
+    "added": 2,
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1039,
+    "entries": [
+      {
+        "name": "鶏笑 南浦和店",
+        "prefecture": "埼玉県",
+        "city": "さいたま市南区",
+        "opening_date": "2026-11-10",
+        "category": "からあげ専門店"
+      },
+      {
+        "name": "かっぱ寿司 富山下赤江店",
+        "prefecture": "富山県",
+        "city": "富山市",
+        "opening_date": "2026-12-04",
+        "category": "回転寿司"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "鶏笑公式ニュース",
+      "url": "https://nis-torisho.com/news/10362/",
+      "finding": "11月10日開店、さいたま市南区南浦和2-28-13を確認"
+    },
+    {
+      "name": "カッパ・クリエイト公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000001244.000018731.html",
+      "finding": "2026年12月4日グランドオープン、富山市下赤江町2-3-12を確認"
+    },
+    {
+      "name": "日本マクドナルド公式採用ページ",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y11789",
+      "finding": "マクドナルド吉川栄店・11月26日を確認。既存登録済みのため追加なし"
+    },
+    {
+      "name": "カインズ公式発表",
+      "url": "https://www.cainz.co.jp/?p=16150",
+      "finding": "カインズ八潮店は2026年秋予定まで。正確な日付は公式発表で未確認のため追加せず"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_name_opening_date": 0,
+    "opening_date_sorted": true,
+    "post_save_refetch": "success",
+    "post_save_blob_sha": "acbc7386236038d3ebb8c6b567636326580911b9"
+  },
+  "save": {
+    "json_commit_sha": "8aebc8c26909de5540cf0fc23b11501c9d1a3fa0",
+    "json_blob_sha": "acbc7386236038d3ebb8c6b567636326580911b9",
+    "json_write": "success",
+    "json_refetch": "success"
+  },
+  "errors": [],
+  "unconfirmed": [
+    {
+      "name": "カインズ 八潮店",
+      "reason": "公式発表では2026年秋まで。日付を示す新しい地域報道は確認したが、公式確定日がなく登録を保留"
+    }
+  ]
+}
