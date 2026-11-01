@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T16:42:00+09:00",
+  "updatetime": "2026-11-01T17:40:06+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4533,6 +4533,13 @@
       "category": "まぜそば専門店"
     },
     {
+      "name": "FiT24 春日井店",
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "アニメイト福岡ANNEX",
       "prefecture": "福岡県",
       "city": "福岡市中央区",
@@ -4580,6 +4587,20 @@
       "city": "西東京市",
       "opening_date": "2026-11-02",
       "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや 岸和田店",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店"
+    },
+    {
+      "name": "GARAGE CURRENT 国産名車",
+      "prefecture": "神奈川県",
+      "city": "横浜市青葉区",
+      "opening_date": "2026-11-02",
+      "category": "国産旧車・名車専門店（自動車販売）"
     },
     {
       "name": "chocoZAP 宇佐岩崎",
@@ -4930,6 +4951,13 @@
       "city": "大川市",
       "opening_date": "2026-11-05",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "みつぼしや ドーチカ店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-05",
+      "category": "定食・和食"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -7151,6 +7179,20 @@
       "category": "体験型公式ショップ・キャラクターグッズ"
     },
     {
+      "name": "スプラッシュンゴー太田東店",
+      "prefecture": "群馬県",
+      "city": "太田市",
+      "opening_date": "2026-12-04",
+      "category": "洗車サービス・カーケア"
+    },
+    {
+      "name": "Repilates（リピラティス）イオン浜松西店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-12-04",
+      "category": "マシンピラティススタジオ"
+    },
+    {
       "name": "コナズ珈琲 所沢店（リニューアル）",
       "prefecture": "埼玉県",
       "city": "所沢市",
@@ -7191,6 +7233,13 @@
       "city": "八幡市",
       "opening_date": "2026-12-23",
       "category": "ファストフード"
+    },
+    {
+      "name": "BUB RESORT Minakami（プレオープン）",
+      "prefecture": "群馬県",
+      "city": "利根郡みなかみ町",
+      "opening_date": "2026-12-24",
+      "category": "体験型リゾート・宿泊施設（プレオープン）"
     },
     {
       "name": "東横INN JR宇治駅南口",
