@@ -3,11 +3,25 @@
   "target": "json/latest.json",
   "result": {
     "before_count": 1037,
-    "added": 2,
+    "added": 4,
     "corrected": 0,
     "removed": 0,
-    "after_count": 1039,
+    "after_count": 1041,
     "entries": [
+      {
+        "name": "鶏笑 住吉墨江店",
+        "prefecture": "大阪府",
+        "city": "大阪市住吉区",
+        "opening_date": "2026-10-25",
+        "category": "からあげ専門店"
+      },
+      {
+        "name": "鶏笑 出雲神立店",
+        "prefecture": "島根県",
+        "city": "出雲市",
+        "opening_date": "2026-11-07",
+        "category": "からあげ専門店"
+      },
       {
         "name": "鶏笑 南浦和店",
         "prefecture": "埼玉県",
@@ -26,24 +40,34 @@
   },
   "sources": [
     {
-      "name": "鶏笑公式ニュース",
+      "name": "鶏笑公式ニュース：住吉墨江店",
+      "url": "https://nis-torisho.com/news/10196/",
+      "finding": "2026年10月25日開店、住所は大阪市住吉区墨江2丁目5-57"
+    },
+    {
+      "name": "鶏笑公式ニュース：出雲神立店",
+      "url": "https://nis-torisho.com/news/10305/",
+      "finding": "2026年11月7日開店、住所は島根県出雲市中野美保北3丁目4-13"
+    },
+    {
+      "name": "鶏笑公式ニュース：南浦和店",
       "url": "https://nis-torisho.com/news/10362/",
-      "finding": "11月10日開店、さいたま市南区南浦和2-28-13を確認"
+      "finding": "2026年11月10日開店、住所はさいたま市南区南浦和2-28-13"
     },
     {
       "name": "カッパ・クリエイト公式プレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000001244.000018731.html",
-      "finding": "2026年12月4日グランドオープン、富山市下赤江町2-3-12を確認"
+      "finding": "2026年12月4日グランドオープン、富山市下赤江町2-3-12"
     },
     {
       "name": "日本マクドナルド公式採用ページ",
       "url": "https://crewrecruiting.mcdonalds.co.jp/map/y11789",
-      "finding": "マクドナルド吉川栄店・11月26日を確認。既存登録済みのため追加なし"
+      "finding": "マクドナルド吉川栄店・2026年11月26日を照合。既存登録済みのため追加なし"
     },
     {
       "name": "カインズ公式発表",
       "url": "https://www.cainz.co.jp/?p=16150",
-      "finding": "カインズ八潮店は2026年秋予定まで。正確な日付は公式発表で未確認のため追加せず"
+      "finding": "カインズ八潮店は2026年秋予定まで。公式発表に確定日がなく、追加保留"
     }
   ],
   "validation": {
@@ -52,11 +76,11 @@
     "duplicate_name_opening_date": 0,
     "opening_date_sorted": true,
     "post_save_refetch": "success",
-    "post_save_blob_sha": "acbc7386236038d3ebb8c6b567636326580911b9"
+    "post_save_blob_sha": "ee981e1dbeb4b6557111b5d2d0016081a6a1a342"
   },
   "save": {
-    "json_commit_sha": "8aebc8c26909de5540cf0fc23b11501c9d1a3fa0",
-    "json_blob_sha": "acbc7386236038d3ebb8c6b567636326580911b9",
+    "json_commit_sha": "11593b8ca456c35a9ea2b59f22e0dfa319c18470",
+    "json_blob_sha": "ee981e1dbeb4b6557111b5d2d0016081a6a1a342",
     "json_write": "success",
     "json_refetch": "success"
   },
@@ -64,7 +88,7 @@
   "unconfirmed": [
     {
       "name": "カインズ 八潮店",
-      "reason": "公式発表では2026年秋まで。日付を示す新しい地域報道は確認したが、公式確定日がなく登録を保留"
+      "reason": "地域記事では2026年12月2日開店と報じられている一方、カインズ公式発表は『2026年秋』までで日付を確定していない。公式確定日がないため登録保留"
     }
   ]
 }
