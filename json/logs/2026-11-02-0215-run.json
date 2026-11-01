@@ -1,0 +1,61 @@
+{
+  "run_at": "2026-11-02T02:15:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json": {
+    "path": "json/latest.json",
+    "sha": "a65839e6763b6ed011848ec91f71573fac59b8b1",
+    "updatetime": "2026-11-02T01:58:31+09:00",
+    "period": "2026-09-18/2027-01-22",
+    "item_count": 1065,
+    "modified": false,
+    "validation": {
+      "json_parse": "passed",
+      "required_field_missing": 0,
+      "duplicate_name_and_opening_date": 0,
+      "sorted_by_opening_date": true
+    }
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new store listings",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Recent official listings for November 6 and onward, including Yokohama Asama-cho, Toyama Yatsuo Osugi, Kobe Gakuen Nishi 4-chome, Tokushima Minami-Suematsu, and Kikuyo Hanatate",
+      "result": "All checked candidates found in json/latest.json"
+    },
+    {
+      "source": "Blue Sky Laundry operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "All 10 announced November 2026 openings",
+      "result": "All 10 records found in json/latest.json"
+    },
+    {
+      "source": "Second Retailing Group announcement and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked": "9 domestic openings; 3 overseas openings excluded from Japan scope",
+      "result": "All 9 domestic records found in json/latest.json"
+    },
+    {
+      "source": "Additional fresh web search",
+      "checked": "Recent official/operator announcements for November openings",
+      "result": "No additional candidate with confirmed opening date and confirmed absence from the existing JSON was identified"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "unverified": [
+    "This was a selected-source check, not an exhaustive review of every Japanese operator or every opening announcement."
+  ],
+  "automation_state_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "run_status_at_check": "in_progress"
+  }
+}
