@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-01T23:42:16+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_scope": "選定した公式企業・商業施設情報源を確認。全国すべての運営会社を網羅した調査ではない。",
+  "source_checks": [
+    {
+      "source": "グランベリーパーク公式 2026 Autumn NEW SHOP OPEN",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "COHINAの11月12日NEW OPENを確認。既存JSONに該当レコードがなかったため追加。ほか、今回照合したPUMA・マーガレット・ハウエルは登録済み。"
+    },
+    {
+      "source": "ローソン公式 新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "ページに掲載された11月1日〜13日の確認対象28店舗を照合。すべて既存登録済み。"
+    },
+    {
+      "source": "三井アウトレットパーク ジャズドリーム長島（運営会社発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "Acne Studios、MERRELL、CASIO WATCH OUTLET等、日付が確認できる照合対象は登録済み。Timberlandは12月予定のみで日付未確定のため追加せず。"
+    },
+    {
+      "source": "あみプレミアム・アウトレット（運営会社発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html",
+      "result": "Pierre Marcolini、しんぱち食堂等は登録済み。Milletは12月中旬、Celuleは12月下旬の記載のみで、日付を推測せず追加せず。"
+    },
+    {
+      "source": "仙台PARCO 2026年秋冬 NEW＆RENEWAL（運営会社発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004039.000003639.html",
+      "result": "Zoffは登録済み。2026年12月・2027年1月の月単位表記のみの候補は、具体的な日付を推測せず追加せず。"
+    },
+    {
+      "source": "東京ソラマチ公式ショップオープン情報",
+      "url": "https://pro.tokyo-solamachi.jp/",
+      "result": "ふわりノ休足、整体×もみほぐし Refresh、ゴンチャは登録済み。RANDY'S DONUTS関連レコードも既存JSON内に確認。"
+    },
+    {
+      "source": "ラデュレ公式発表",
+      "url": "https://www.laduree.jp/view/news/20261009181804",
+      "result": "表参道のフラッグシップは2027年春予定。具体的な開店日未公表のため追加せず。"
+    }
+  ],
+  "changes": {
+    "before_count": 1041,
+    "added_count": 1,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "after_count": 1042,
+    "added_item": {
+      "name": "COHINA グランベリーパーク店",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-12",
+      "category": "レディース・ファッション雑貨"
+    }
+  },
+  "verification": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_exact_name_and_date": 0,
+    "opening_date_sorted": true,
+    "new_item_present_after_fetch": true,
+    "github_blob_sha_matches": true
+  },
+  "github": {
+    "file": "json/latest.json",
+    "previous_blob_sha": "ee981e1dbeb4b6557111b5d2d0016081a6a1a342",
+    "commit_sha": "13d6b6b1a2f8e3112734cb3abf221cfc916ad335",
+    "updated_blob_sha": "4938be33ba9993b496c28f12769f52628eb16d20",
+    "post_write_fetch": "success"
+  },
+  "errors": [
+    {
+      "source": "東京ソラマチ公式ページの検索内テキスト抽出",
+      "issue": "ページ内検索がタイムアウト",
+      "impact": "既存JSONとの照合は可能だったため処理を継続。該当候補の追加はなし。"
+    }
+  ],
+  "unconfirmed": [
+    "Timberland（ジャズドリーム長島）：2026年12月予定のみ",
+    "Millet（あみプレミアム・アウトレット）：2026年12月中旬予定のみ",
+    "Celule（あみプレミアム・アウトレット）：2026年12月下旬予定のみ",
+    "仙台PARCOの一部候補：2026年12月または2027年1月の月単位表記のみ",
+    "ラデュレ フラッグシップ東京：2027年春予定、具体的な開店日未公表"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "recorded_run_status": "in_progress",
+    "note": "管理情報上は有効。次回実行時刻および完了記録は確認できず。スケジュール変更なし。"
+  }
+}
