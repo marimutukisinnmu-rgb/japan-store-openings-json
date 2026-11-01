@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-11-02T05:47:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "検索で確認した11月4日〜6日の新店候補はlatest.jsonに登録済み。重複追加なし。"
+    },
+    {
+      "source": "イオンモール羽生公式・ポムの樹リニューアル告知",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "checked": "2026-11-02",
+      "result": "創作オムライス ポムの樹（イオンモール羽生・リニューアル）の2026-11-06リニューアル日を確認。既存登録済み。"
+    },
+    {
+      "source": "キルフェボン公式ニュース",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked": "2026-11-02",
+      "result": "キル フェ ボン新宿の2026-11-28開店と所在地を確認。既存登録済み。"
+    },
+    {
+      "source": "ゆるなご・ケンタッキー与野東口店の開店情報",
+      "url": "https://yurunago.or.jp/spot/spot-30078/",
+      "checked": "2026-11-02",
+      "result": "2026-11-25開店予定と所在地の記載を確認。ただし他の求人掲載には2026-11-24表記があり、運営会社公式の確定日を今回確認できなかったため登録保留。"
+    },
+    {
+      "source": "さいたま浦和大宮グルメなび・ケンタッキー与野東口店",
+      "url": "https://saitama-omiya-urawa.blog.jp/1084508567",
+      "checked": "2026-11-02",
+      "result": "2026-11-25とする地域情報を確認。求人情報の2026-11-24表記と不一致のため登録保留。"
+    },
+    {
+      "source": "FromA Navi・ケンタッキー与野東口店求人",
+      "url": "https://www.froma.com/viewjob/0d08f40851c61032/",
+      "checked": "2026-11-02",
+      "result": "求人ページに2026-11-24 OPENと記載。地域情報の2026-11-25と日付が異なるため登録保留。"
+    },
+    {
+      "source": "札幌地域の開店情報・札幌苑、WAGYU SUKIYAKI 龍、函館旬花",
+      "url": "https://sapporo-list.info/open/november-open/",
+      "checked": "2026-11-02",
+      "result": "候補を抽出したが、今回の確認では運営者・施設の一次情報で開店日を確定できないものは未登録のまま保留。"
+    }
+  ],
+  "changes": {
+    "before_count": 1139,
+    "added_count": 0,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1139,
+    "added_entries": []
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "existing_records_preserved": true,
+    "newly_added_records_verified": "not_applicable_no_additions",
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+  },
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_commit_sha": null,
+    "latest_json_blob_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "ケンタッキー与野東口店：地域情報は2026-11-25、求人情報は2026-11-24と日付が不一致。運営会社公式の確定日を確認できなかったため追加せず。",
+    "炭火焼肉・ホルモン札幌苑、WAGYU SUKIYAKI 龍 北3条西店、回転寿司 函館旬花 札幌店：二次情報・求人情報の候補は見つかったが、今回の確認範囲では運営者等の一次情報で確定できず保留。",
+    "今回の調査は選定した情報源を対象とし、全国すべての事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
