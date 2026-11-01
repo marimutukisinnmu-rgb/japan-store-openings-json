@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T00:43:36+09:00",
+  "updatetime": "2026-11-02T01:54:07+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -2692,6 +2692,15 @@
       "category": "保険代理店"
     },
     {
+      "name": "松屋 川口駅前店（営業再開）",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-10-23",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に10月23日営業再開と記載。"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -4610,6 +4619,51 @@
       "category": "国産旧車・名車専門店（自動車販売）"
     },
     {
+      "name": "高価買取おたからや 直方本店",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店",
+      "source": "https://www.otakaraya.mom/brand/shop/nogata/",
+      "verification": "公式店舗ページに11月2日オープン予定と所在地を掲載。"
+    },
+    {
+      "name": "ジュエルカフェ 草津栗東店",
+      "prefecture": "滋賀県",
+      "city": "栗東市",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店",
+      "source": "https://jewel-cafe.jp/shop/kansai/shiga/kusatsu-ritto/",
+      "verification": "公式店舗案内に11月2日オープン予定と所在地を掲載。"
+    },
+    {
+      "name": "松屋 千葉店（営業再開）",
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "opening_date": "2026-11-02",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月2日15時営業再開と記載。"
+    },
+    {
+      "name": "ITTO個別指導学院 広島城山校（リニューアル）",
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "opening_date": "2026-11-02",
+      "category": "個別指導塾（リニューアル）",
+      "source": "https://www.itto.jp/schools/lp/area/hiroshima_hiroshima.php",
+      "verification": "公式校舎案内に11月2日リニューアルOPENと掲載。"
+    },
+    {
+      "name": "ITTO個別指導学院 宮内校（リニューアル）",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-11-02",
+      "category": "個別指導塾（リニューアル）",
+      "source": "https://www.itto.jp/schools/chugoku_shikoku/hiroshima/miyauchi.html",
+      "verification": "公式校舎案内に11月2日リニューアルOPENと所在地を掲載。"
+    },
+    {
       "name": "chocoZAP 宇佐岩崎",
       "opening_date": "2026-11-03",
       "prefecture": "大分県",
@@ -4685,6 +4739,15 @@
       "city": "千代田区",
       "opening_date": "2026-11-03",
       "category": "カフェ"
+    },
+    {
+      "name": "ITTO個別指導学院 原町校（リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-11-03",
+      "category": "個別指導塾（リニューアル）",
+      "source": "https://www.itto.jp/schools/lp/area/saitama_kawaguchi.php",
+      "verification": "公式校舎案内に11月3日リニューアルOPENと掲載。"
     },
     {
       "name": "PRESS BUTTER SAND 丸井今井札幌本店 POPUP",
@@ -4797,6 +4860,15 @@
       "city": "札幌市西区",
       "opening_date": "2026-11-04",
       "category": "ベーカリー"
+    },
+    {
+      "name": "MARcourt DESIGNEYE（多摩南大沢）",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-04",
+      "category": "ファッション（アウトレット）",
+      "source": "https://mitsui-shopping-park.com/mop/tama/openclose/3664273.html",
+      "verification": "三井アウトレットパーク公式告知に11月4日オープンと掲載。"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -4972,6 +5044,15 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-05",
       "category": "定食・和食"
+    },
+    {
+      "name": "松屋 北赤羽店（営業再開）",
+      "prefecture": "東京都",
+      "city": "北区",
+      "opening_date": "2026-11-05",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月5日営業再開予定と記載。"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -5380,6 +5461,15 @@
       "category": "和菓子・カステラ（期間限定催事）"
     },
     {
+      "name": "松屋 武蔵新城店（営業再開）",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "opening_date": "2026-11-06",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月6日営業再開と記載。"
+    },
+    {
       "name": "chocoZAP みずほ台二丁目",
       "prefecture": "埼玉県",
       "city": "富士見市",
@@ -5443,6 +5533,15 @@
       "category": "からあげ専門店"
     },
     {
+      "name": "ASMO academy 霧島国分校",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-07",
+      "category": "個別指導塾（新規開校）",
+      "source": "https://www.itto.jp/company/schools/lp/area/kagoshima_kirishima.html",
+      "verification": "運営会社公式校舎案内に11月7日新規OPENと住所を掲載。"
+    },
+    {
       "name": "テンポス福岡飯塚店",
       "prefecture": "福岡県",
       "city": "飯塚市",
@@ -5455,6 +5554,24 @@
       "city": "名古屋市北区",
       "opening_date": "2026-11-09",
       "category": "ペットホテル"
+    },
+    {
+      "name": "松屋 庄内店（営業再開）",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "opening_date": "2026-11-09",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月9日営業再開と記載。"
+    },
+    {
+      "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-09",
+      "category": "ファッション（アウトレット）",
+      "source": "https://mitsui-shopping-park.com/mop/okazaki/openclose/3661415.html",
+      "verification": "三井アウトレットパーク公式告知に11月9日オープンと掲載。"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -5562,6 +5679,15 @@
       "category": "からあげ専門店"
     },
     {
+      "name": "松のや 小阪店（営業再開）",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "opening_date": "2026-11-10",
+      "category": "とんかつ（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月10日営業再開と記載。"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
@@ -5637,6 +5763,15 @@
       "city": "京都市下京区",
       "opening_date": "2026-11-11",
       "category": "買取専門店"
+    },
+    {
+      "name": "MAMMUT STORE OUTLET（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-11",
+      "category": "アウトドア用品（アウトレット）",
+      "source": "https://mitsui-shopping-park.com/mop/okazaki/",
+      "verification": "三井アウトレットパーク公式施設ページに11月11日NEW OPENと掲載。"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -5807,6 +5942,15 @@
       "category": "レディース・ファッション雑貨"
     },
     {
+      "name": "松屋 山形馬見ケ崎店（松のや併設）",
+      "prefecture": "山形県",
+      "city": "山形市",
+      "opening_date": "2026-11-12",
+      "category": "牛丼・定食（松のや併設）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "松屋公式新店一覧に11月12日10時オープンと掲載。"
+    },
+    {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
       "opening_date": "2026-11-13",
       "prefecture": "群馬県",
@@ -5947,6 +6091,15 @@
       "category": "寿司"
     },
     {
+      "name": "松屋 溝の口南口店（営業再開）",
+      "prefecture": "神奈川県",
+      "city": "川崎市",
+      "opening_date": "2026-11-13",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月13日営業再開と記載。"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "opening_date": "2026-11-14",
       "prefecture": "千葉県",
@@ -5994,6 +6147,24 @@
       "city": "渋谷区",
       "opening_date": "2026-11-16",
       "category": "ヴィンテージブランド品専門店"
+    },
+    {
+      "name": "ITTO個別指導学院 江曽島校（移転開校）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-16",
+      "category": "個別指導塾（移転開校）",
+      "source": "https://www.itto.jp/company/",
+      "verification": "運営会社公式開校情報に11月16日移転開校と掲載。"
+    },
+    {
+      "name": "松屋 下北沢店（営業再開）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-16",
+      "category": "牛丼・定食（営業再開）",
+      "source": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "verification": "公式新店・一時閉店一覧に11月16日営業再開と記載。"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -6519,6 +6690,15 @@
       "city": "野洲市",
       "opening_date": "2026-11-20",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "HIPSHOP（MITSUI OUTLET PARK 岡崎）",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-20",
+      "category": "アンダーウェア・ファッション（アウトレット）",
+      "source": "https://mitsui-shopping-park.com/mop/okazaki/news/index.html",
+      "verification": "三井アウトレットパーク公式オープン・リニューアル一覧に11月20日NEW OPENと掲載。"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -7156,6 +7336,24 @@
       "city": "江東区",
       "opening_date": "2026-12-01",
       "category": "キャラクター公式ショップ（リニューアル）"
+    },
+    {
+      "name": "ITTO個別指導学院 倉敷福田校",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-12-01",
+      "category": "個別指導塾（新規開校）",
+      "source": "https://www.itto.jp/company/",
+      "verification": "運営会社公式開校情報に12月1日新規開校と掲載。"
+    },
+    {
+      "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "opening_date": "2026-12-01",
+      "category": "ファッション（アウトレット）",
+      "source": "https://mitsui-shopping-park.com/mop/iruma/",
+      "verification": "三井アウトレットパーク公式施設ページに12月1日オープンと掲載。"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
