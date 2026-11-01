@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-11-02T00:43:36+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "target": "json/latest.json",
+  "before_count": 1042,
+  "after_count": 1043,
+  "added": [
+    {
+      "name": "RootS & BAKERY（ルーツアンドベーカリー）",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-11-04",
+      "category": "ベーカリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000206.000019420.html",
+      "verification": "Operator-group release states exact opening date and address."
+    }
+  ],
+  "no_change_checks": [
+    {
+      "source": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "Official listed Lawson openings for Nov 4-13 were matched to existing JSON records."
+    },
+    {
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "All 10 November Blue Sky Laundry stores and exact dates were already present."
+    },
+    {
+      "source": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "Second Retailing November release reviewed; candidates were previously recorded in existing data."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "おでんトさかな しのや～SHINOYA～すすきの店",
+      "reason": "Found secondary/local listing for Nov 2, but available primary-source evidence did not establish a definitive exact opening date; no record added."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "opening_date_order": "passed",
+    "exact_name_and_date_duplicates": 0,
+    "post_write_fetch": "passed",
+    "post_write_blob_sha": "52f90e6a6e937e71ac7a9d1789e553cf83691f61"
+  },
+  "latest_json_commit": "e178a08cedee069022627cfd1173d2661bdf68d1",
+  "latest_json_blob_sha": "52f90e6a6e937e71ac7a9d1789e553cf83691f61",
+  "errors": [],
+  "limitations": "Selected official/primary sources and targeted web searches were reviewed; this was not an exhaustive survey of every Japanese operator."
+}
