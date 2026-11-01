@@ -1,0 +1,54 @@
+{
+  "run_at": "2026-11-01T10:47:14+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://matsuyafoods.jp/sp/shopsearch/shop_new_close.html",
+    "https://www.biga.co.jp/newshop/"
+  ],
+  "summary": {
+    "before_count": 1012,
+    "added_count": 3,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "after_count": 1015,
+    "additions": [
+      {
+        "name": "松屋 野洲店（松のや併設）",
+        "prefecture": "滋賀県",
+        "city": "野洲市",
+        "opening_date": "2026-11-20",
+        "category": "牛丼・定食（松のや併設）"
+      },
+      {
+        "name": "松屋 倉敷大島店（松のや併設）",
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "opening_date": "2026-11-20",
+        "category": "牛丼・定食（松のや併設）"
+      },
+      {
+        "name": "松屋 住之江新北島店（松のや併設）",
+        "prefecture": "大阪府",
+        "city": "大阪市住之江区",
+        "opening_date": "2026-11-21",
+        "category": "牛丼・定食（松のや併設）"
+      }
+    ],
+    "existing_big_a_sayama_chuo_already_registered": true
+  },
+  "validation": {
+    "json_parse": "passed",
+    "all_previous_items_preserved": true,
+    "additions_present": true,
+    "required_fields_missing": 0,
+    "duplicate_name_and_date_pairs": 0,
+    "opening_date_order": true,
+    "saved_blob_sha": "7083c098401fc6e78a4e4894972448a5ddacbb90"
+  },
+  "uncertain_not_added": [
+    "すき家 高岡大野店：月予定のみで日付未確定",
+    "鮮魚市場・海鮮食堂 若竹丸 鳥栖店：掲載情報間で2026年11月下旬と2027年1月中旬が不一致"
+  ],
+  "errors": [],
+  "commit_sha": "197fbc26577f46ab371df4b9572e5c30f02cfbb2"
+}
