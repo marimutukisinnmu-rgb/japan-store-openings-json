@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-01T08:45:29+09:00",
+  "updatetime": "2026-11-01T09:47:54+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3490,6 +3490,13 @@
       "category": "玩具・ブロック（リニューアル）"
     },
     {
+      "name": "祇園本店（事業承継・営業再開）",
+      "prefecture": "静岡県",
+      "city": "伊東市",
+      "opening_date": "2026-10-29",
+      "category": "いなり寿し（事業承継・営業再開）"
+    },
+    {
       "name": "Agnès b.（神戸三田プレミアム・アウトレット）",
       "prefecture": "兵庫県",
       "city": "神戸市北区",
@@ -4477,6 +4484,20 @@
       "category": "ラーメン"
     },
     {
+      "name": "晴れ寿し 大田店",
+      "prefecture": "島根県",
+      "city": "大田市",
+      "opening_date": "2026-11-01",
+      "category": "回転寿司"
+    },
+    {
+      "name": "祇園 JR伊東駅店（期間限定催事）",
+      "prefecture": "静岡県",
+      "city": "伊東市",
+      "opening_date": "2026-11-01",
+      "category": "いなり寿し（期間限定催事）"
+    },
+    {
       "name": "合 Shinjuku",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -4503,6 +4524,20 @@
       "city": "前橋市",
       "opening_date": "2026-11-02",
       "category": "写真館・フォトスタジオ"
+    },
+    {
+      "name": "高価買取おたからや ミスターマックス宇佐店",
+      "prefecture": "大分県",
+      "city": "宇佐市",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店"
+    },
+    {
+      "name": "クレープとエスプレッソと時の鐘",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "opening_date": "2026-11-02",
+      "category": "クレープ専門店・カフェ"
     },
     {
       "name": "chocoZAP 宇佐岩崎",
@@ -6995,6 +7030,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-04",
       "category": "ファッション・アパレル（リニューアル）"
+    },
+    {
+      "name": "コナズ珈琲 所沢店（リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "opening_date": "2026-12-07",
+      "category": "ハワイアンカフェ（リニューアル）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
