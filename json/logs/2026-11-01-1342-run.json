@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-01T13:42:18+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://www.lucua.jp/special/south-open/",
+    "https://www.lucua.jp/shopguide/id2040.html",
+    "https://bside-label.com/archives/86973",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+    "https://www.pomunoki.com/news/new/",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+    "https://www.kairikiya.co.jp/news/grandopen",
+    "https://store-info.skylark.co.jp/bamiyan/list/",
+    "https://store-info.skylark.co.jp/syabuyo/list/",
+    "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+    "https://venex-j.co.jp/news/detail/1030.html",
+    "https://onodera-group.com/news/7933/"
+  ],
+  "summary": {
+    "before_count": 1026,
+    "added_count": 4,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "after_count": 1030,
+    "additions": [
+      {
+        "name": "創作オムライス ポムの樹（イオンモール羽生・リニューアル）",
+        "prefecture": "埼玉県",
+        "city": "羽生市",
+        "opening_date": "2026-11-06",
+        "category": "オムライス（リニューアル・ブランド変更）"
+      },
+      {
+        "name": "SUKI PLACE（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクター雑貨・イベントスペース"
+      },
+      {
+        "name": "B-SIDE LABEL（LUCUA SOUTH）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "ステッカー・雑貨"
+      },
+      {
+        "name": "POP MART LUCUA SOUTH店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-24",
+        "category": "キャラクター・デザイナーズトイ"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "passed",
+    "all_previous_items_preserved": true,
+    "additions_present": true,
+    "required_fields_missing": 0,
+    "duplicate_name_and_date_pairs": 0,
+    "opening_date_order": true,
+    "saved_blob_sha": "814a545ee84513824b78aefbeaf12c56f4b914e7",
+    "latest_commit_sha": "de1c1452c5645daa46ccd64ea99612264dd5bd89"
+  },
+  "verified_existing": [
+    "ローソン公式新店一覧の確認対象（2026-11-01〜2026-11-13）は既存登録済み。追加なし。",
+    "ブルースカイランドリー2026年11月の10店舗は既存登録済み。追加なし。",
+    "ラーメン魁力屋 長野平林店（2026-11-04）は既存登録済み。",
+    "バーミヤン 大宮駅東口店・イオンモール伊達店、しゃぶ葉 岐阜アクティブＧ店・池田駅前店は既存登録済み。",
+    "キル フェ ボン新宿、neverbetter、立鮨 銀座おのでら エキュート大宮は既存登録済み。",
+    "LUCUA SOUTHの公式11月24日開業店舗一覧で、今回追加した3店舗以外の確認対象は既存登録済み。"
+  ],
+  "uncertain_not_added": [
+    "LUCUA SOUTH公式一覧で個別の日付が明示されていない一部店舗は、日付を推測せず今回の追加対象外とした。"
+  ],
+  "errors": [],
+  "date_notes": [
+    "ポムの樹 イオンモール羽生店は、ポムズファームから創作オムライス ポムの樹へのブランド変更を伴うリニューアルとして登録。公式モール告知の2026-11-06を採用。",
+    "POP MART LUCUA SOUTH店、SUKI PLACE、B-SIDE LABELは公式施設・ブランド発表で2026-11-24を確認。"
+  ]
+}
