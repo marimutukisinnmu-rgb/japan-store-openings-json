@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-11-01T16:42:00+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://crewrecruiting.mcdonalds.co.jp/map/a26606",
+    "https://www.tontonboo.com/news-20261111.html",
+    "https://prtimes.jp/main/html/rd/p/000000640.000027839.html",
+    "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+    "https://prtimes.jp/main/html/rd/p/000000062.000097460.html",
+    "https://prtimes.jp/main/html/rd/p/000000186.000035374.html",
+    "https://map.kaldi.co.jp/kaldi/detailMap?accmd=&account=kaldi&bid=614&bsort=4&range=Month&rangeval=0",
+    "https://prtimes.jp/main/html/rd/p/000000040.000156423.html",
+    "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+    "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://kurumefan.com/toretore-souko-kurumeten"
+  ],
+  "summary": {
+    "before_count": 1029,
+    "added_count": 1,
+    "corrected_count": 0,
+    "duplicate_entry_removed": 0,
+    "after_count": 1030,
+    "changes": [
+      {
+        "action": "add",
+        "name": "マクドナルド 八幡南山店",
+        "opening_date": "2026-12-23",
+        "prefecture": "京都府",
+        "city": "八幡市",
+        "category": "ファストフード",
+        "rationale": "日本マクドナルド公式クルー採用ページに、2026-12-23グランドオープン予定、店舗名および住所（京都府八幡市八幡南山76）が掲載。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "passed",
+    "previous_items_preserved": true,
+    "exact_duplicate_name_and_date_pairs": 0,
+    "required_fields_missing": 0,
+    "opening_date_order": true,
+    "new_entry_present_after_refetch": true,
+    "refetched_blob_sha_matches_write": true,
+    "latest_blob_sha": "58b0ef3ef2b4530b352989e6c76b5a27ccf0480d"
+  },
+  "verified_existing": [
+    "PISOLA千葉公園店（2026-11-11）は公式運営会社発表と照合済み・登録済み。",
+    "sanrio house 渋谷PARCO店（2026-11-13）は運営会社発表と照合済み・登録済み。",
+    "スガキヤ 大阪ベイタワー店（2026-11-12）は運営会社発表と照合済み・登録済み。",
+    "ちいかわベビーカステラ 京都錦店（2026-11-18）は株式会社寺子屋の発表と照合済み・登録済み。",
+    "カルディコーヒーファーム 新さっぽろサンピアザ店（2026-11-19）は公式店舗情報と照合済み・登録済み。",
+    "ラ・プレリー（横浜髙島屋1階）（2026-11-07）は運営会社発表と照合済み・登録済み。",
+    "tontonboo 加古川店（2026-11-11）は公式告知と照合済み・登録済み。",
+    "ローソン、ブルースカイランドリー、セカンドリテイリングの選定した11月候補は既存登録済み。"
+  ],
+  "uncertain_not_added": [
+    "トレトレ倉庫 久留米店：地域情報源は「2026年11月末オープン予定」と掲載しているが、日付が特定されていないため、opening_dateを推測せず追加しなかった。"
+  ],
+  "errors": [],
+  "notes": [
+    "更新前にlatest.jsonを取得し、候補を名称・開店日で照合した。",
+    "今回の新規追加はマクドナルド 八幡南山店の1件のみ。既存登録済み候補は再追加していない。",
+    "調査は選定した公式発表・公式店舗情報・地域情報源の確認であり、全国の全運営会社を網羅したものではない。"
+  ]
+}
