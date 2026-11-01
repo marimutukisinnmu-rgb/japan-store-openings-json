@@ -1,0 +1,553 @@
+{
+  "run_at": "2026-11-02T03:47:17+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "株式会社アトレ・アトレ中野公式ショップ一覧",
+      "checked": "2026-11-02",
+      "result": "施設開業日を2026-12-09と確認し、店舗一覧を照合。春2027開業と記載された3テナントは日付未確定のため追加対象外。"
+    },
+    {
+      "source": "株式会社ハンズ公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000720.000070824.html",
+      "result": "ハンズ アトレ中野店の2026-12-09開業、東京都中野区の出店先を確認。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "確認した11月新店候補は既存登録済み。"
+    },
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Eleanor spa&treatmentの11月候補を照合。確認した店舗は既存登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1066,
+    "added_count": 70,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1136,
+    "opening_date": "2026-12-09",
+    "added_entries": [
+      {
+        "name": "３COINS＋plus（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "生活雑貨"
+      },
+      {
+        "name": "BIRTHDAY BAR（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ギフト・生活雑貨"
+      },
+      {
+        "name": "Francfranc（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "インテリア・生活雑貨"
+      },
+      {
+        "name": "H&F BELX（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "紅茶・ノンカフェインティー"
+      },
+      {
+        "name": "Hibiya-Kadan Style（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "生花・フラワーショップ"
+      },
+      {
+        "name": "HIS（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "旅行代理店"
+      },
+      {
+        "name": "KUA`AINA’s Smashed Burger（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ハンバーガー・カフェ"
+      },
+      {
+        "name": "MidiUmi（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "NewDays中野西改札外（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "コンビニ"
+      },
+      {
+        "name": "PAOPAO（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "中華惣菜"
+      },
+      {
+        "name": "RF1/神戸コロッケ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "惣菜・コロッケ"
+      },
+      {
+        "name": "THE STANDARD BAKERS（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ベーカリー"
+      },
+      {
+        "name": "WithGreen（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "サラダ専門店"
+      },
+      {
+        "name": "Zoff（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "メガネ・アイウェア"
+      },
+      {
+        "name": "アトリエはるか（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "美容サービス"
+      },
+      {
+        "name": "アトレ中野",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "駅ビル・商業施設"
+      },
+      {
+        "name": "アフタヌーンティー・ティールーム（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "カフェ・紅茶"
+      },
+      {
+        "name": "イアパピヨネ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション雑貨"
+      },
+      {
+        "name": "ウサギオンラインストア（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル・雑貨"
+      },
+      {
+        "name": "おこわ米八（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "おこわ・惣菜"
+      },
+      {
+        "name": "おぼんdeごはん（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "定食・和食"
+      },
+      {
+        "name": "おむすび権米衛（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "おむすび"
+      },
+      {
+        "name": "オリエンタルトラフィック（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "靴"
+      },
+      {
+        "name": "カルディコーヒーファーム（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "コーヒー・輸入食品"
+      },
+      {
+        "name": "カンナムキンパ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "韓国惣菜"
+      },
+      {
+        "name": "クリスピー・クリーム・ドーナツ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ドーナツ"
+      },
+      {
+        "name": "グローバルワーク（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "コクミンドラッグ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ドラッグストア"
+      },
+      {
+        "name": "コスメキッチン（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ナチュラルコスメ"
+      },
+      {
+        "name": "コラージュガリャルダガランテ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "コレクターズ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "服飾雑貨"
+      },
+      {
+        "name": "コンタクトのアイシティ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "コンタクトレンズ"
+      },
+      {
+        "name": "サックスバー（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "バッグ・雑貨"
+      },
+      {
+        "name": "シーキューブ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "洋菓子"
+      },
+      {
+        "name": "ショップイン（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "コスメ・化粧品"
+      },
+      {
+        "name": "スープストックトーキョー（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "スープ専門店"
+      },
+      {
+        "name": "スターバックスコーヒー（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "カフェ"
+      },
+      {
+        "name": "スミス（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "文具・雑貨"
+      },
+      {
+        "name": "スリーフォータイム（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション雑貨"
+      },
+      {
+        "name": "チャンロイ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "タイ料理・惣菜"
+      },
+      {
+        "name": "テチチ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "とんかつ まい泉（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "とんかつ・惣菜"
+      },
+      {
+        "name": "ハウス オブ ローゼ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "化粧品・スキンケア"
+      },
+      {
+        "name": "ハニーズ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "ハンズ アトレ中野店",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "生活雑貨・DIY用品"
+      },
+      {
+        "name": "ビューティー＆ユース ユナイテッドアローズ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "フォーシーズンズアート ハートダンス（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "アクセサリー・雑貨"
+      },
+      {
+        "name": "フルーツクチュールタカノ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "フルーツ・洋菓子"
+      },
+      {
+        "name": "フルーツピークス（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "フルーツタルト・洋菓子"
+      },
+      {
+        "name": "ベルン（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "洋菓子"
+      },
+      {
+        "name": "ほけんの窓口（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "保険相談"
+      },
+      {
+        "name": "ミスターミニット（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "靴修理・合鍵"
+      },
+      {
+        "name": "ユナイテッドアローズ グリーンレーベル リラクシング（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "ラフィネ（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "リラクゼーション"
+      },
+      {
+        "name": "ランメイシャスイーツファクトリー（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "洋菓子・卵スイーツ"
+      },
+      {
+        "name": "レプシィム（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "ロペピクニック（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "ファッション・アパレル"
+      },
+      {
+        "name": "京鼎樓（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "中華料理"
+      },
+      {
+        "name": "靴下屋（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "靴下・ファッション雑貨"
+      },
+      {
+        "name": "鶏三和（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "鶏惣菜・親子丼"
+      },
+      {
+        "name": "昇龍園（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "中華惣菜"
+      },
+      {
+        "name": "森の朝 cue（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "コスメ・美容"
+      },
+      {
+        "name": "成城石井（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "中野ルミタス眼科 白内障と近視のクリニック（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "眼科"
+      },
+      {
+        "name": "天ぷら 天寅（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "天ぷら"
+      },
+      {
+        "name": "富澤商店（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "製菓材料"
+      },
+      {
+        "name": "鮪々 Sibisibi マグロマート（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "マグロ丼・飲食"
+      },
+      {
+        "name": "有隣堂（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "書店・雑貨"
+      },
+      {
+        "name": "和菓子 結（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "和菓子"
+      },
+      {
+        "name": "和食屋の惣菜えん（アトレ中野）",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "惣菜・和食"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "existing_records_preserved": true,
+    "newly_added_records_verified": true,
+    "latest_json_refetch_sha": "8f5328187501944a32363d8750cc3c4f071c77b1"
+  },
+  "save": {
+    "latest_json_commit_sha": "4af2d9d53ef2480e52fc2709923a71bcbafd767d",
+    "latest_json_blob_sha": "8f5328187501944a32363d8750cc3c4f071c77b1",
+    "re_fetched": true
+  },
+  "unconfirmed": [
+    "アトレ中野の春2027開業予定と記載された3テナントは、具体的な開店日が未公表のため未登録。",
+    "別候補1件は二次情報間で日付に相違があり、運営会社の確定情報を確認できず未登録。",
+    "今回の確認は選定した公式情報源に基づき、全国の全事業者を網羅した調査ではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
