@@ -1,0 +1,68 @@
+{
+  "run_at": "2026-11-01T11:40:37+09:00",
+  "target": "json/latest.json",
+  "source_urls": [
+    "https://prtimes.jp/main/html/rd/p/000000102.000143963.html",
+    "https://prtimes.jp/main/html/rd/p/000000531.000159118.html",
+    "https://prtimes.jp/main/html/rd/p/000000318.000030130.html"
+  ],
+  "summary": {
+    "before_count": 1015,
+    "added_count": 5,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "after_count": 1020,
+    "additions": [
+      {
+        "name": "買取専科 草加マルイ店",
+        "prefecture": "埼玉県",
+        "city": "草加市",
+        "opening_date": "2026-11-01",
+        "category": "買取専門店"
+      },
+      {
+        "name": "買取専科 リヴィン田無店",
+        "prefecture": "東京都",
+        "city": "西東京市",
+        "opening_date": "2026-11-02",
+        "category": "買取専門店"
+      },
+      {
+        "name": "ガシャポンバンダイオフィシャルショップ 駿河屋 那覇沖映通り店",
+        "prefecture": "沖縄県",
+        "city": "那覇市",
+        "opening_date": "2026-11-06",
+        "category": "カプセルトイ専門店（公式ショップ）"
+      },
+      {
+        "name": "テンポス福岡飯塚店",
+        "prefecture": "福岡県",
+        "city": "飯塚市",
+        "opening_date": "2026-11-09",
+        "category": "厨房機器・飲食店用品専門店"
+      },
+      {
+        "name": "買取専科 四条大宮駅前店",
+        "prefecture": "京都府",
+        "city": "京都市下京区",
+        "opening_date": "2026-11-11",
+        "category": "買取専門店"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "passed",
+    "all_previous_items_preserved": true,
+    "additions_present": true,
+    "required_fields_missing": 0,
+    "duplicate_name_and_date_pairs": 0,
+    "opening_date_order": true,
+    "saved_blob_sha": "285ff404c4e79f49cf142b70369a2ab7893e097e"
+  },
+  "uncertain_not_added": [
+    "買取専科 マックスバリュ瓢箪山店：2026年11月下旬頃とのみ発表され、日付未確定",
+    "UOBase（兵庫県園田）：2026年11月オープン予定とのみ確認でき、日付未確定"
+  ],
+  "errors": [],
+  "commit_sha": "c727aafbbc265aefa86605320db50c4c2b642f4e"
+}
