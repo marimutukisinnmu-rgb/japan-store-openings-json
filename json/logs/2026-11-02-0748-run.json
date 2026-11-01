@@ -71,12 +71,30 @@
     "invalid_date_format": 0,
     "duplicate_name_and_date": 0,
     "opening_date_order": "valid",
-    "checked_source_candidates": 24,
-    "matched_name_and_date": 24,
+    "checked_source_candidates": 28,
+    "matched_name_and_date": 28,
     "unmatched_source_candidates": 0,
     "existing_records_preserved": true,
     "newly_added_records_verified": "not_applicable_no_additions",
-    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa"
+    "latest_json_refetch_sha": "02daeae56cb5ba03622505456eb5113f3ea953fa",
+    "additional_exact_matches": [
+      {
+        "name": "猿田彦珈琲 皇居東御苑店",
+        "opening_date": "2026-11-03"
+      },
+      {
+        "name": "ノジマ ホームズ新川崎店",
+        "opening_date": "2026-11-05"
+      },
+      {
+        "name": "POP MART LUCUA SOUTH店",
+        "opening_date": "2026-11-24"
+      },
+      {
+        "name": "キル フェ ボン新宿",
+        "opening_date": "2026-11-28"
+      }
+    ]
   },
   "save": {
     "latest_json_changed": false,
