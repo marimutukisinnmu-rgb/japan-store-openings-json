@@ -1,0 +1,202 @@
+{
+  "run_at": "2026-11-02T10:44:13+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "before": {
+    "items": 1142,
+    "updatetime": "2026-11-02T09:41:06+09:00",
+    "blob_sha": "63d00db1162d384556d206f3f496a43a72909f60"
+  },
+  "changes": {
+    "added": 16,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "スターバックス ティー ＆ カフェ（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ティー特化型カフェ"
+    },
+    {
+      "name": "CHOPPED SALAD DAY（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "チョップドサラダ専門店"
+    },
+    {
+      "name": "麵屋 猪一（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ラーメン"
+    },
+    {
+      "name": "THE CITY BAKERY BISTRO RUBIN 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ベーカリービストロ"
+    },
+    {
+      "name": "THE CITY BAKERY 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "osteria humming bird（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "イタリアン"
+    },
+    {
+      "name": "近江うし焼肉 にくTATSU（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "焼肉"
+    },
+    {
+      "name": "SHIBIRE NOODLES 蝋燭屋（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ラーメン"
+    },
+    {
+      "name": "博多天ぷら たかお（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "天ぷら"
+    },
+    {
+      "name": "回転寿司 根室花まる（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司"
+    },
+    {
+      "name": "Bistro JILL 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ビストロ"
+    },
+    {
+      "name": "銀座 晴のちカツ 新宿店（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "とんかつ"
+    },
+    {
+      "name": "新宿 鳥肌（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "焼き鳥"
+    },
+    {
+      "name": "老辺厨房（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "中華料理"
+    },
+    {
+      "name": "JASMINE THAI（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "タイ料理"
+    },
+    {
+      "name": "ファミリーマート（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "コンビニ"
+    }
+  ],
+  "after": {
+    "items": 1158,
+    "updatetime": "2026-11-02T10:44:13+09:00",
+    "commit_sha": "701fab5a7ec531f0a6d62d442ab76d88d01aba2f",
+    "blob_sha": "e9f2ce19c936cf0c203026104a45dda2fc71dc99"
+  },
+  "sources": [
+    {
+      "title": "明治安田「明治安田新宿ビル」商業エリア開業のお知らせ（2026-10-22 PDF）",
+      "url": "https://www.meijiyasuda.co.jp/profile/news/release/2026/pdf/20261022_02.pdf",
+      "use": "新宿区、2026-11-28、テナント名一覧"
+    },
+    {
+      "title": "ローソン公式 新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "use": "2026-11-01〜13の28件を照合、全件既存"
+    },
+    {
+      "title": "セカンドリテイリング 2026年11月新規出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "use": "国内9件を照合、既存"
+    },
+    {
+      "title": "SYNRA GROUP Eleanor spa&treatment 2026年秋新店",
+      "url": "https://synra.co.jp/news-005/",
+      "use": "11月の3件を照合、既存"
+    },
+    {
+      "title": "ビッグ・エー公式 新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "use": "11月の2件を照合、既存"
+    },
+    {
+      "title": "富澤商店公式 アミュプラザ小倉店",
+      "url": "https://tomiz.com/store/information/182",
+      "use": "11月13日候補を照合、既存"
+    },
+    {
+      "title": "ホットランド公式PR よし平ふじみ野店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000796.000031747.html",
+      "use": "11月4日候補を照合、既存"
+    },
+    {
+      "title": "資さんうどん公式PR 和泉観音寺店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000427.000037031.html",
+      "use": "11月25日候補を照合、既存"
+    },
+    {
+      "title": "POP MART JAPAN新店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "use": "11月24日候補を照合、既存レコードに表記差あり"
+    }
+  ],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date_pairs": 0,
+    "chronological_order": true,
+    "original_records_retained": true,
+    "added_records_present": true,
+    "saved_blob_sha_matches": true
+  },
+  "review_flags": [
+    "明治安田の公式PDFは総数見出し（21店舗）と店舗一覧の見かけ上の件数に不一致があり、集計数は未解決。個別に掲載された新規テナントの名称・共通開業日は確認できる。",
+    "酒類中心の2店舗情報は年齢安全上の理由で今回の追加対象から除外（名称は記録しない）。",
+    "POP MART LUCUA SOUTH店について、同一日・同一地域に表記違いの既存レコードが2件あり、今回は削除・統合せず要確認として保持。"
+  ],
+  "error": null,
+  "unconfirmed": [
+    "明治安田新宿ビルの公式PDFにおける総数表記とテナント一覧数の不一致の解消",
+    "既存POP MART LUCUA SOUTHの表記違い2レコードの統合要否"
+  ]
+}
