@@ -1,0 +1,110 @@
+{
+  "run_at": "2026-11-03T05:47:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "counts": {
+    "before": 1201,
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "after": 1201
+  },
+  "source_checks": [
+    {
+      "source": "ローソン公式 新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/",
+      "records_checked": 27,
+      "result": "2026-11-04〜2026-11-13の公式掲載27店舗を照合。今回確認した候補は既存JSONに一致し、未登録候補は見つからなかった。"
+    },
+    {
+      "source": "Can★Do公式 2026年お知らせ",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "records": [
+        "キャンドゥセレクト Aコープ雄夢店（2026-11-01）",
+        "キャンドゥセレクト DCMニコット羽幌店（2026-11-06）",
+        "キャンドゥ 苅田店（2026-11-12）"
+      ],
+      "result": "公式発表3件すべて既存JSONに一致。"
+    },
+    {
+      "source": "くら寿司公式ニュース",
+      "url": "https://www.kurasushi.co.jp/news/",
+      "records": [
+        "くら寿司 BiVi仙台駅東口店（2026-11-06）"
+      ],
+      "result": "公式告知と既存JSONが一致。"
+    },
+    {
+      "source": "餃子の王将公式店舗情報",
+      "url": "https://map.ohsho.co.jp/b/ohsho/info/4063/",
+      "records": [
+        "餃子の王将 都島本通店（2026-11-06）"
+      ],
+      "result": "公式店舗情報に記載の開店日・所在地と既存JSONが一致。"
+    },
+    {
+      "source": "JR西日本SC開発／LUCUA SOUTH公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "records_checked": 28,
+      "result": "11月24日開業の28ブランド一覧を既存JSONと照合。各ブランドに対応する記録を確認。名称の表記差・別名候補は既存状態を保持し、統合・削除は行わなかった。12月2日・12月4日・12月23日の発表分も既存記録に一致。"
+    },
+    {
+      "source": "イオンモール伊達公式テナント一覧PDF",
+      "url": "https://www.aeonmall.com/wp/wp-content/uploads/2026/09/557b390c5ed4c813cef2071aa89ecfbe.pdf",
+      "records_checked": 176,
+      "result": "公式テナント一覧と施設の2026-11-27開業を確認。個々のテナントの開店日が店舗別に明示されていないため、施設日を各店舗へ推定適用せず、未登録テナントの一括追加は保留。既存レコードは保持。"
+    },
+    {
+      "source": "西武池袋本店公式リニューアル案内",
+      "url": "https://www.sogo-seibu.jp/ikebukuro/renewal",
+      "result": "7階の2026-11-06、8階の2026-12-09の段階的リニューアルを確認。個別店舗名・店舗別開店日が本ページで確認できないため、個別店レコードの追加は行わなかった。"
+    }
+  ],
+  "held_unconfirmed": [
+    {
+      "name": "ミスタードーナツ 荻窪西口ショップ",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "reported_opening_date": "2026-11-06",
+      "source_urls": [
+        "https://suginami.goguynet.jp/2026/09/15/misterdonut-ogikubo/"
+      ],
+      "reason": "二次情報で日付候補を確認したが、今回の調査では運営元・施設の一次情報を確認できず。推測登録しない。"
+    },
+    {
+      "name": "ミスタードーナツ 岡山津高ショップ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "reported_opening_date": "2026-11-06",
+      "source_urls": [
+        "https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/08/25/every-okanakatsudaka/"
+      ],
+      "reason": "施設SNSを引用した二次情報で日付候補を確認したが、今回の調査では運営元・施設の一次情報を確認できず。推測登録しない。"
+    },
+    {
+      "name": "PUPPET SUNSUN STORE 渋谷店",
+      "existing_opening_date": "2026-11-20",
+      "reason": "公式発表は2026年11月予定までで、今回も個別日付を一次情報で確認できず。既存日付を変更せず、確認待ちとして扱う。"
+    }
+  ],
+  "verification": {
+    "latest_json_changed": false,
+    "current_file_fetch": "success",
+    "json_parse": "success",
+    "count": 1201,
+    "missing_required_fields": 0,
+    "invalid_date_records": 0,
+    "chronological_order": "ascending",
+    "exact_duplicate_name_date_pairs": 0,
+    "checked_record_matches": "success",
+    "latest_json_updatetime": "2026-11-03T03:44:02+09:00",
+    "latest_json_blob_sha": "7ba25afb0567398d89f392347db70131c1512872"
+  },
+  "errors": [],
+  "task_state": {
+    "is_enabled": true,
+    "schedule_status": "unchanged",
+    "next_run_time": null,
+    "note": "管理情報上は有効。次回実行時刻は取得できず。今回の実行中状態と完了記録の反映状況は引き続き確認が必要。"
+  }
+}
