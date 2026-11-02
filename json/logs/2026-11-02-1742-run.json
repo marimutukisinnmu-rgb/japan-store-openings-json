@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-11-02T17:42:58+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1162,
+    "updatetime": "2026-11-02T12:47:55+09:00",
+    "blob_sha": "902865b319ef0243758aca98b8826166245b4124"
+  },
+  "changes": {
+    "additions": 1,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": true,
+    "added_items": [
+      {
+        "name": "七宝麻辣湯 神戸元町店",
+        "prefecture": "兵庫県",
+        "city": "神戸市中央区",
+        "opening_date": "2026-11-24",
+        "category": "麻辣湯専門店",
+        "source_urls": [
+          "https://kobehigashinada.goguynet.jp/2026/10/12/chipao/",
+          "https://kobe-journal.com/archives/6342327535.html"
+        ],
+        "source_note": "Local reporting describes the storefront notice/signboard with the exact opening date and address; not an operator-hosted announcement."
+      }
+    ]
+  },
+  "checked_sources": [
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Selected Nov 4–13 locations matched existing JSON records."
+    },
+    {
+      "source": "CanDo official 2026 news",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": "Nov 6 DCM Nicot Habor and other selected openings were already present."
+    },
+    {
+      "source": "Grandberry Park official Autumn 2026 shop list",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "checked": "COHINA (Nov 12) and Margaret Howell A.G.O. (Nov 13) were already present."
+    },
+    {
+      "source": "POP MART JAPAN announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "POP MART LUCUA SOUTH (Nov 24) was already present."
+    },
+    {
+      "source": "Aeon Mall Hanyu official notice",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "checked": "Pomme no Ki renewal (Nov 6) was already present."
+    },
+    {
+      "source": "GogaiNET Kobe local report",
+      "url": "https://kobehigashinada.goguynet.jp/2026/10/12/chipao/",
+      "checked": "On-site opening notice states Nov 24 and address in Kobe Chuo Ward."
+    },
+    {
+      "source": "Kobe Journal local report",
+      "url": "https://kobe-journal.com/archives/6342327535.html",
+      "checked": "Independent local report corroborates Nov 24 opening and address."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 1163,
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicates": 0,
+    "normalized_name_date_duplicate_groups": [
+      {
+        "key": "レゴストアジャズドリーム長島リニューアル|2026-10-29",
+        "count": 2,
+        "names": [
+          "レゴ ストア（ジャズドリーム長島・リニューアル）",
+          "レゴ®ストア（ジャズドリーム長島・リニューアル）"
+        ]
+      }
+    ],
+    "added_item_present": true
+  },
+  "verification": {
+    "commit_sha": "bea688813c35175fb076d643bb47dc9c7b0d482c",
+    "blob_sha": "aa3a5cc508a0d9906f8e962f66a9b668110e6378",
+    "read_after_write": "passed"
+  },
+  "unresolved": [
+    "This run checks selected current sources, not every operator nationwide.",
+    "For 七宝麻辣湯 神戸元町店, an operator-hosted announcement was not located; the exact date/address are supported by two local reports based on the storefront notice."
+  ],
+  "errors": [],
+  "automation_check": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "notes": "Next run time was not returned; schedule was not changed."
+  }
+}
