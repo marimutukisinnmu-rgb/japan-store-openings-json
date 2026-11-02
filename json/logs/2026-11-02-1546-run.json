@@ -1,0 +1,88 @@
+{
+  "run_at": "2026-11-02T15:46:13+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "unchanged",
+  "before": {
+    "item_count": 1162,
+    "updatetime": "2026-11-02T12:47:55+09:00",
+    "blob_sha": "902865b319ef0243758aca98b8826166245b4124"
+  },
+  "changes": {
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": false,
+    "added_items": []
+  },
+  "checked_sources": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Compared 28 listed candidates from 2026-11-01 through 2026-11-13 by store name and opening date; all 28 were present."
+    },
+    {
+      "source": "Blue Sky Laundry official November 2026 opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "Compared all 10 announced November openings by store name and opening date; all 10 were present."
+    },
+    {
+      "source": "Big-A official new-store list",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked": "Compared Kiyose Ekikita, Sayama Chuo, and Koshigaya Higashi-Osawa 2-chome; all 3 were present with matching dates."
+    },
+    {
+      "source": "VENEX official release for neverbetter",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "checked": "The 2026-11-15 Komazawa opening was present in Tokyo, Setagaya Ward."
+    },
+    {
+      "source": "POP MART JAPAN announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "The 2026-11-24 POP MART LUCUA SOUTH store was present."
+    },
+    {
+      "source": "Nojima official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "checked": "The 2026-11-05 Nojima Homes Shinkawasaki store was present."
+    },
+    {
+      "source": "Kairikiya official new-store list",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked": "The Nagano Hirabayashi store announced for 2026-11-04 was present."
+    },
+    {
+      "source": "Mitsui Outlet Park Jazz Dream Nagashima announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "checked": "The text-listed Acne Studios opening on 2026-11-06 and CASIO WATCH OUTLET opening on 2026-12-11 were present."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 1162,
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicate_groups": 0,
+    "normalized_name_date_duplicate_groups": [
+      {
+        "normalized_name": "レゴストア（ジャズドリーム長島・リニューアル）",
+        "opening_date": "2026-10-29",
+        "count": 2,
+        "note": "Existing records differ by the registered mark and category; retained without deletion or merge."
+      }
+    ],
+    "all_checked_candidates_present": true
+  },
+  "verification": {
+    "blob_sha": "902865b319ef0243758aca98b8826166245b4124",
+    "latest_json_read_after_check": "passed",
+    "latest_json_written": false,
+    "note": "No confirmed unregistered candidate was found in the selected sources, so latest.json was left unchanged."
+  },
+  "unresolved": [
+    "The selected official sources do not establish exhaustive coverage of every business nationwide.",
+    "The normalized LEGO Store duplicate group remains unresolved; no record was removed or merged."
+  ],
+  "errors": []
+}
