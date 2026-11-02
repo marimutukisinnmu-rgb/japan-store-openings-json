@@ -8,7 +8,7 @@
     "blob_sha": "63d00db1162d384556d206f3f496a43a72909f60"
   },
   "changes": {
-    "added": 16,
+    "added": 17,
     "corrected": 0,
     "deleted": 0
   },
@@ -124,13 +124,20 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "コンビニ"
+    },
+    {
+      "name": "スターバックス（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "カフェ"
     }
   ],
   "after": {
-    "items": 1158,
+    "items": 1159,
     "updatetime": "2026-11-02T10:44:13+09:00",
-    "commit_sha": "701fab5a7ec531f0a6d62d442ab76d88d01aba2f",
-    "blob_sha": "e9f2ce19c936cf0c203026104a45dda2fc71dc99"
+    "commit_sha": "e2932c4eb7b47fe16eef03686134c5d9097cea46",
+    "blob_sha": "60f29ce35b8e509cf84a819876a9d7426e26e27d"
   },
   "sources": [
     {
@@ -198,5 +205,6 @@
   "unconfirmed": [
     "明治安田新宿ビルの公式PDFにおける総数表記とテナント一覧数の不一致の解消",
     "既存POP MART LUCUA SOUTHの表記違い2レコードの統合要否"
-  ]
+  ],
+  "reconciliation_note": "初回の候補照合で「スターバックス」通常店が「スターバックス ティー ＆ カフェ」と部分一致扱いされたため、別店舗として確認して追加。"
 }
