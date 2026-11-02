@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-11-02T09:41:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "source": "ニューエラジャパン合同会社の公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000550.000015945.html",
+      "checked": "2026-11-02",
+      "result": "ニューエラ大阪梅田サウスの2026-11-12開店日と大阪市北区の所在地を確認。未登録のため追加。"
+    },
+    {
+      "source": "無印良品 久喜吉羽の公式店舗おたより",
+      "url": "https://www.muji.com/jp/ja/shop/046598/articles/info/1699698",
+      "checked": "2026-11-02",
+      "result": "無印良品久喜吉羽の2026-11-20開店日と埼玉県久喜市を確認。未登録のため追加。"
+    },
+    {
+      "source": "アイビーカンパニー株式会社の公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001088.000005743.html",
+      "checked": "2026-11-02",
+      "result": "シェイク シャック 西新宿店の2026-11-28開店日と東京都新宿区を確認。未登録のため追加。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-02",
+      "result": "確認対象の11月4日〜13日開店候補を照合。該当候補は既存登録と一致し、新規追加なし。"
+    },
+    {
+      "source": "ビッグ・エー公式新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked": "2026-11-02",
+      "result": "ビッグ・エー狭山中央店（11月21日）とビッグ・エー清瀬駅北口店（11月28日）は登録済み。"
+    },
+    {
+      "source": "Repilates公式発表（PR TIMES）",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000034.000130273.html",
+        "https://prtimes.jp/main/html/rd/p/000000033.000130273.html"
+      ],
+      "checked": "2026-11-02",
+      "result": "イオン浜松西店・イオンモールとなみ店（両店12月4日）を照合。登録済み。"
+    },
+    {
+      "source": "株式会社バイク王＆カンパニー公式発表",
+      "url": "https://www.8190.co.jp/news/2026/20261028-2859.html",
+      "checked": "2026-11-02",
+      "result": "バイク王 岸和田店（移転オープン、11月6日）を照合。登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1139,
+    "added_count": 3,
+    "updated_count": 0,
+    "deleted_count": 0,
+    "after_count": 1142,
+    "added_entries": [
+      {
+        "name": "ニューエラ大阪梅田サウス",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-12",
+        "category": "帽子・アパレル・雑貨"
+      },
+      {
+        "name": "無印良品久喜吉羽",
+        "prefecture": "埼玉県",
+        "city": "久喜市",
+        "opening_date": "2026-11-20",
+        "category": "生活雑貨・食品・衣服"
+      },
+      {
+        "name": "シェイク シャック 西新宿店",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-28",
+        "category": "ハンバーガーレストラン"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_and_date": 0,
+    "opening_date_order": "valid",
+    "existing_records_preserved": true,
+    "added_entries_found_after_refetch": [
+      1,
+      1,
+      1
+    ],
+    "latest_json_refetch_sha": "63d00db1162d384556d206f3f496a43a72909f60"
+  },
+  "save": {
+    "latest_json_changed": true,
+    "latest_json_commit_sha": "1e8125d40019d3483642cd9332c1a0cad0990d83",
+    "latest_json_blob_sha": "63d00db1162d384556d206f3f496a43a72909f60",
+    "refetched": true
+  },
+  "unconfirmed": [
+    "クレーン横丁 極 相模原小山店は2026年11月下旬予定との発表だが、具体的な開店日を確認できず日付登録を保留。",
+    "高岡ロフトおよびアルプラタウン高岡は2026年11月下旬予定の情報までで、具体的な開店日を確認できず日付登録を保留。",
+    "今回の調査は選定した公式発表・店舗公式情報を対象とし、全国すべての事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
