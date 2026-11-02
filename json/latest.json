@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T12:47:55+09:00",
+  "updatetime": "2026-11-02T17:42:58+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5205,6 +5205,13 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "くら寿司 BiVi仙台駅東口店",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "opening_date": "2026-11-06",
+      "category": "回転寿司"
+    },
+    {
       "name": "ココス 鳥取田園町店",
       "prefecture": "鳥取県",
       "city": "鳥取市",
@@ -5450,13 +5457,6 @@
       "category": "和菓子・カステラ（期間限定催事）"
     },
     {
-      "name": "くら寿司 BiVi仙台駅東口店",
-      "prefecture": "宮城県",
-      "city": "仙台市宮城野区",
-      "opening_date": "2026-11-06",
-      "category": "回転寿司"
-    },
-    {
       "name": "餃子の王将 都島本通店",
       "prefecture": "大阪府",
       "city": "大阪市都島区",
@@ -5653,6 +5653,13 @@
       "category": "ホテル"
     },
     {
+      "name": "ほっともっと 金沢小坂町店",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-10",
+      "category": "持ち帰り弁当"
+    },
+    {
       "name": "レゴ®ストア 横浜ランドマークプラザ店（リニューアル）",
       "prefecture": "神奈川県",
       "city": "横浜市西区",
@@ -5672,13 +5679,6 @@
       "city": "東大阪市",
       "opening_date": "2026-11-10",
       "category": "とんかつ（営業再開）"
-    },
-    {
-      "name": "ほっともっと 金沢小坂町店",
-      "prefecture": "石川県",
-      "city": "金沢市",
-      "opening_date": "2026-11-10",
-      "category": "持ち帰り弁当"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -5856,6 +5856,13 @@
       "category": "ラーメン・甘味"
     },
     {
+      "name": "ニューエラ大阪梅田サウス",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-12",
+      "category": "帽子・アパレル・雑貨"
+    },
+    {
       "name": "ノジマ ラブラ2店",
       "prefecture": "新潟県",
       "city": "新潟市中央区",
@@ -5938,13 +5945,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
-    },
-    {
-      "name": "ニューエラ大阪梅田サウス",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-12",
-      "category": "帽子・アパレル・雑貨"
     },
     {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
@@ -6976,6 +6976,13 @@
       "category": "玩具・ブロック"
     },
     {
+      "name": "七宝麻辣湯 神戸元町店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-24",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "刀剣乱舞万屋本舗 大阪梅田店（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -7284,53 +7291,11 @@
       "category": "ビストロ・レストラン"
     },
     {
-      "name": "Guzman y Gomez 西新宿店",
+      "name": "Bistro JILL 新宿（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "メキシカン・ファストカジュアル"
-    },
-    {
-      "name": "LifeFit アル・プラザ宇治東店",
-      "prefecture": "京都府",
-      "city": "宇治市",
-      "opening_date": "2026-11-28",
-      "category": "フィットネスジム"
-    },
-    {
-      "name": "キル フェ ボン新宿",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-28",
-      "category": "洋菓子・カフェ"
-    },
-    {
-      "name": "トナリエ久里浜パーク",
-      "prefecture": "神奈川県",
-      "city": "横須賀市",
-      "opening_date": "2026-11-28",
-      "category": "ショッピングセンター"
-    },
-    {
-      "name": "ビッグ・エー清瀬駅北口店",
-      "prefecture": "東京都",
-      "city": "清瀬市",
-      "opening_date": "2026-11-28",
-      "category": "ディスカウントストア"
-    },
-    {
-      "name": "シェイク シャック 西新宿店",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-28",
-      "category": "ハンバーガーレストラン"
-    },
-    {
-      "name": "スターバックス ティー ＆ カフェ（明治安田新宿ビル）",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-28",
-      "category": "ティー特化型カフェ"
+      "category": "ビストロ"
     },
     {
       "name": "CHOPPED SALAD DAY（明治安田新宿ビル）",
@@ -7340,7 +7305,35 @@
       "category": "チョップドサラダ専門店"
     },
     {
-      "name": "麵屋 猪一（明治安田新宿ビル）",
+      "name": "Guzman y Gomez 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "メキシカン・ファストカジュアル"
+    },
+    {
+      "name": "JASMINE THAI（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "タイ料理"
+    },
+    {
+      "name": "LifeFit アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "osteria humming bird（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "イタリアン"
+    },
+    {
+      "name": "SHIBIRE NOODLES 蝋燭屋（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
@@ -7361,32 +7354,53 @@
       "category": "ベーカリー"
     },
     {
-      "name": "osteria humming bird（明治安田新宿ビル）",
+      "name": "キル フェ ボン新宿",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "イタリアン"
+      "category": "洋菓子・カフェ"
     },
     {
-      "name": "近江うし焼肉 にくTATSU（明治安田新宿ビル）",
+      "name": "シェイク シャック 西新宿店",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "焼肉"
+      "category": "ハンバーガーレストラン"
     },
     {
-      "name": "SHIBIRE NOODLES 蝋燭屋（明治安田新宿ビル）",
+      "name": "スターバックス ティー ＆ カフェ（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "ラーメン"
+      "category": "ティー特化型カフェ"
     },
     {
-      "name": "博多天ぷら たかお（明治安田新宿ビル）",
+      "name": "スターバックス（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "天ぷら"
+      "category": "カフェ"
+    },
+    {
+      "name": "トナリエ久里浜パーク",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ショッピングセンター"
+    },
+    {
+      "name": "ビッグ・エー清瀬駅北口店",
+      "prefecture": "東京都",
+      "city": "清瀬市",
+      "opening_date": "2026-11-28",
+      "category": "ディスカウントストア"
+    },
+    {
+      "name": "ファミリーマート（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "コンビニ"
     },
     {
       "name": "回転寿司 根室花まる（明治安田新宿ビル）",
@@ -7396,11 +7410,11 @@
       "category": "回転寿司"
     },
     {
-      "name": "Bistro JILL 新宿（明治安田新宿ビル）",
+      "name": "近江うし焼肉 にくTATSU（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "ビストロ"
+      "category": "焼肉"
     },
     {
       "name": "銀座 晴のちカツ 新宿店（明治安田新宿ビル）",
@@ -7417,6 +7431,13 @@
       "category": "焼き鳥"
     },
     {
+      "name": "博多天ぷら たかお（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "天ぷら"
+    },
+    {
       "name": "老辺厨房（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -7424,25 +7445,11 @@
       "category": "中華料理"
     },
     {
-      "name": "JASMINE THAI（明治安田新宿ビル）",
+      "name": "麵屋 猪一（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
       "opening_date": "2026-11-28",
-      "category": "タイ料理"
-    },
-    {
-      "name": "ファミリーマート（明治安田新宿ビル）",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-28",
-      "category": "コンビニ"
-    },
-    {
-      "name": "スターバックス（明治安田新宿ビル）",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-28",
-      "category": "カフェ"
+      "category": "ラーメン"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
