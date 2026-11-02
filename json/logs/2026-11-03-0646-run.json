@@ -107,7 +107,7 @@
   },
   "save": {
     "latest_json": "unchanged; verified by fetched blob SHA",
-    "run_log": "pending"
+    "run_log": "saved and verified by re-fetch and JSON parse"
   },
   "automation_state": {
     "enabled_in_management_metadata": true,
