@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T20:47:00+09:00",
+  "updatetime": "2026-11-02T22:49:02+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4659,6 +4659,27 @@
       "category": "買取専門店"
     },
     {
+      "name": "アパホテルステイ〈小松グランド〉",
+      "prefecture": "石川県",
+      "city": "小松市",
+      "opening_date": "2026-11-02",
+      "category": "ホテル（リブランド）"
+    },
+    {
+      "name": "エニタイムフィットネス桃谷店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市天王寺区",
+      "opening_date": "2026-11-02",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "獄麺 大阪駅前第3ビル店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-02",
+      "category": "ラーメン"
+    },
+    {
       "name": "chocoZAP 宇佐岩崎",
       "prefecture": "大分県",
       "city": "宇佐市",
@@ -5469,6 +5490,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "GIGI MARUNOUCHI",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-06",
+      "category": "ジュエリー・アクセサリー"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -6421,6 +6449,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
+    },
+    {
+      "name": "産直市場よってってクロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-11-18",
+      "category": "農水産物直売所"
     },
     {
       "name": "chocoZAP 一乗寺向畑",
