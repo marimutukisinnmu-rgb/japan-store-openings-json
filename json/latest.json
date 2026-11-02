@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T18:46:11+09:00",
+  "updatetime": "2026-11-02T20:47:00+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4267,6 +4267,13 @@
       "category": "ホテル"
     },
     {
+      "name": "WithGreen 枚方T-SITE店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-10-31",
+      "category": "サラダボウル専門店"
+    },
+    {
       "name": "WOODSTOCK NEST Sweets & Goodies 宮島店",
       "prefecture": "広島県",
       "city": "廿日市市",
@@ -6057,6 +6064,41 @@
       "city": "大崎市",
       "opening_date": "2026-11-13",
       "category": "コインランドリー"
+    },
+    {
+      "name": "ポケモンカードストア in イオンモール堺鉄砲町",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+    },
+    {
+      "name": "ポケモンカードストア in イオンモール和歌山",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+    },
+    {
+      "name": "ポケモンカードストア in ららぽーと愛知東郷",
+      "prefecture": "愛知県",
+      "city": "愛知郡東郷町",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+    },
+    {
+      "name": "ポケモンカードストア in ららぽーと富士見",
+      "prefecture": "埼玉県",
+      "city": "富士見市",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+    },
+    {
+      "name": "ポケモンカードストア in 静岡パルコ",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ポケモンカードゲーム）"
     },
     {
       "name": "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
