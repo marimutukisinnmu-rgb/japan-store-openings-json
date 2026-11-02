@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-02T23:53:34+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_no_dataset_change",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1175,
+    "after_count": 1175,
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "added_items": [],
+    "blob_sha": "5e4802d7c6bda8036053667f40f22e7a4ce5fabe",
+    "updatetime": "2026-11-02T22:49:02+09:00",
+    "write_performed": false,
+    "reason": "今回照合した候補はすべて既存登録と一致。日付を確定できない情報は保留し、latest.jsonは書き換えず既存データを保護。"
+  },
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "11月4日〜13日の候補27店舗",
+      "result": "27候補すべて既存JSONに登録済み。重複追加なし。"
+    },
+    {
+      "name": "Second Retailing Group official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "scope": "2026年11月新規出店12店のうち国内9店",
+      "result": "国内9候補すべて既存JSONに登録済み。海外3店はJapan scope外。"
+    },
+    {
+      "name": "Ami Premium Outlets operator release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html",
+      "scope": "Citizen、Pierre Marcolini、しんぱち食堂および12月出店候補",
+      "result": "11月の3候補は既存登録済み。Millet/Celuleは月内時期のみで具体的日付未確定のため登録保留。"
+    },
+    {
+      "name": "Mash Holdings official release (sanrio house)",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "scope": "sanrio house 渋谷PARCO店, 2026-11-13",
+      "result": "既存レコードと一致。"
+    },
+    {
+      "name": "Qu'il fait bon official release",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "scope": "キル フェ ボン新宿, 2026-11-28",
+      "result": "既存レコードと一致。"
+    },
+    {
+      "name": "POP MART JAPAN official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "scope": "POP MART LUCUA SOUTH店, 2026-11-24",
+      "result": "既存レコードと一致。"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1175,
+    "source_candidates_checked": 42,
+    "source_candidates_added": 0,
+    "selected_existing_candidates_matched": 42,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "normalized_name_date_duplicate_groups": 0,
+    "latest_json_blob_sha_unchanged": true
+  },
+  "errors": [],
+  "unverified": [
+    "調査は選定した公式情報源の範囲に限り、全国すべての事業者を網羅するものではない。",
+    "Ami Premium OutletsのMilletは12月中旬、Celuleは12月下旬の案内のみで、正確な開店日は未確認。推測日を設定せず登録保留。"
+  ],
+  "automation_state": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "note": "管理情報では有効状態。次回実行時刻は取得できず。"
+  }
+}
