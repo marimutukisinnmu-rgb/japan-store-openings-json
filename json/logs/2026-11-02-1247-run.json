@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-02T12:47:55+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1159,
+    "updatetime": "2026-11-02T10:44:13+09:00",
+    "blob_sha": "60f29ce35b8e509cf84a819876a9d7426e26e27d"
+  },
+  "changes": {
+    "additions": 3,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": true,
+    "added_items": [
+      {
+        "name": "くら寿司 BiVi仙台駅東口店",
+        "prefecture": "宮城県",
+        "city": "仙台市宮城野区",
+        "opening_date": "2026-11-06",
+        "category": "回転寿司",
+        "source": "https://shop.kurasushi.co.jp/detail/666"
+      },
+      {
+        "name": "餃子の王将 都島本通店",
+        "prefecture": "大阪府",
+        "city": "大阪市都島区",
+        "opening_date": "2026-11-06",
+        "category": "中華料理",
+        "source": "https://map.ohsho.co.jp/b/ohsho/info/4063/"
+      },
+      {
+        "name": "ほっともっと 金沢小坂町店",
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "opening_date": "2026-11-10",
+        "category": "持ち帰り弁当",
+        "source": "https://store.hottomotto.com/b/hottomotto/info/66304/"
+      }
+    ]
+  },
+  "checked_sources": [
+    {
+      "source": "Kura Sushi official store detail",
+      "url": "https://shop.kurasushi.co.jp/detail/666",
+      "checked": "Official page states opening date November 6 and provides Miyagi Prefecture, Sendai City Miyagino Ward, and address."
+    },
+    {
+      "source": "Gyoza no Ohsho official store detail",
+      "url": "https://map.ohsho.co.jp/b/ohsho/info/4063/",
+      "checked": "Official page states November 6, 2026 at 11:00 and provides Osaka City Miyakojima Ward and address."
+    },
+    {
+      "source": "Hotto Motto official store page",
+      "url": "https://store.hottomotto.com/b/hottomotto/info/66304/",
+      "checked": "Official page states grand opening November 10 and provides Kanazawa City, Ishikawa Prefecture, and address."
+    },
+    {
+      "source": "Lawson official new-store listings",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Selected November 4-13 candidates compared; these candidates were already represented in the JSON."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 1162,
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicates": 0,
+    "normalized_name_date_duplicate_groups": [
+      {
+        "key": "レゴストアジャズドリーム長島リニューアル|2026-10-29",
+        "count": 2
+      }
+    ],
+    "all_three_additions_present": true
+  },
+  "verification": {
+    "commit_sha": "80aa2b559d81488e9e362e9588881176a64acbb7",
+    "blob_sha": "902865b319ef0243758aca98b8826166245b4124",
+    "commit_specific_read_after_write": "passed",
+    "main_branch_head": "confirmed at the same commit",
+    "note": "The first default-branch content read returned the prior cached version; a commit-specific read and main-branch metadata check confirmed the new content."
+  },
+  "unresolved": [
+    "This run checks selected current official sources, not every operator nationwide.",
+    "Some secondary-source leads lacked an operator-confirmed exact opening date and were not added."
+  ],
+  "errors": []
+}
