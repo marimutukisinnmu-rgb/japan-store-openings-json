@@ -1,0 +1,105 @@
+{
+  "run_at": "2026-11-02T21:41:47+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_no_dataset_update",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1170,
+    "after_count": 1170,
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "blob_sha": "1f9d3b143984854af2fc83e8a65b2dda4dada626",
+    "updatetime": "2026-11-02T20:47:00+09:00",
+    "write_performed": false,
+    "reason": "全42件の対象候補が既存JSONに登録済み。データ本体は変更せず保護。"
+  },
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "2026-11-04 through 2026-11-13; 16 selected openings",
+      "result": "all 16 candidates matched existing records"
+    },
+    {
+      "name": "Second Retailing group November 2026 release and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "attachment_url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+      "scope": "9 domestic openings from the 12-store release; overseas openings excluded",
+      "result": "all 9 domestic candidates matched existing records"
+    },
+    {
+      "name": "Skylark official Shabu-yo new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "scope": "3 dated October/November 2026 entries",
+      "result": "all 3 matched existing records"
+    },
+    {
+      "name": "Big-A official new-store list",
+      "url": "https://www.biga.co.jp/newshop/",
+      "scope": "3 listed October/November 2026 stores",
+      "result": "all 3 matched existing records"
+    },
+    {
+      "name": "Grandberry Park official autumn new-shop page",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "scope": "6 exact-dated entries from 2026-09-18 onward",
+      "result": "all 6 matched existing records"
+    },
+    {
+      "name": "POP MART JAPAN release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "scope": "POP MART LUCUA SOUTH店, 2026-11-24",
+      "result": "matched existing record"
+    },
+    {
+      "name": "Kiddyland / San-X Kiiroitori limited shop release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000411.000001117.html",
+      "scope": "キイロイトリ銭湯, 2026-10-30",
+      "result": "matched existing record"
+    },
+    {
+      "name": "MASH Holdings Sanrio House release",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "scope": "sanrio house 渋谷PARCO店, 2026-11-13",
+      "result": "matched existing record"
+    },
+    {
+      "name": "Wystable OSTERIA SALVATORE release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000012023.html",
+      "scope": "OSTERIA SALVATORE 阿佐ヶ谷, 2026-11-01",
+      "result": "matched existing record"
+    },
+    {
+      "name": "Kushi Tanaka / Unisia official opening release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000642.000027839.html",
+      "scope": "串カツ田中 エキシティヒロシマ店, 2026-10-30",
+      "result": "matched existing record"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1170,
+    "source_candidates_checked": 42,
+    "source_candidates_found_in_dataset": 42,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "normalized_name_date_duplicate_groups": 0,
+    "latest_json_blob_sha_unchanged": true
+  },
+  "errors": [],
+  "unverified": [
+    "調査は選定した公式情報源の範囲に限り、全国全事業者を網羅するものではない。",
+    "Grandberry ParkのReDは公式ページで『10月上旬～中旬』とだけ案内され、具体的な日付を確認できないため、推測で登録していない。"
+  ],
+  "automation_state": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "last_run_recorded_status_at_check": "in_progress",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "note": "管理情報では有効。次回実行時刻は未取得。in_progressの記録だけでは完了・稼働継続を断定しない。"
+  }
+}
