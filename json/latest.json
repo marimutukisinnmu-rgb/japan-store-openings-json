@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T09:41:06+09:00",
+  "updatetime": "2026-11-02T10:44:13+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7303,6 +7303,118 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ハンバーガーレストラン"
+    },
+    {
+      "name": "スターバックス ティー ＆ カフェ（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ティー特化型カフェ"
+    },
+    {
+      "name": "CHOPPED SALAD DAY（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "チョップドサラダ専門店"
+    },
+    {
+      "name": "麵屋 猪一（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ラーメン"
+    },
+    {
+      "name": "THE CITY BAKERY BISTRO RUBIN 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ベーカリービストロ"
+    },
+    {
+      "name": "THE CITY BAKERY 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "osteria humming bird（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "イタリアン"
+    },
+    {
+      "name": "近江うし焼肉 にくTATSU（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "焼肉"
+    },
+    {
+      "name": "SHIBIRE NOODLES 蝋燭屋（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ラーメン"
+    },
+    {
+      "name": "博多天ぷら たかお（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "天ぷら"
+    },
+    {
+      "name": "回転寿司 根室花まる（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司"
+    },
+    {
+      "name": "Bistro JILL 新宿（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ビストロ"
+    },
+    {
+      "name": "銀座 晴のちカツ 新宿店（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "とんかつ"
+    },
+    {
+      "name": "新宿 鳥肌（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "焼き鳥"
+    },
+    {
+      "name": "老辺厨房（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "中華料理"
+    },
+    {
+      "name": "JASMINE THAI（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "タイ料理"
+    },
+    {
+      "name": "ファミリーマート（明治安田新宿ビル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "コンビニ"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
