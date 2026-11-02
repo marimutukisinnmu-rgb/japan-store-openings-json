@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-11-02T19:40:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_no_dataset_change",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1164,
+    "after_count": 1164,
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "blob_sha": "d997522ca8ee7b10ae2fdf16377540927669a387",
+    "updatetime": "2026-11-02T18:46:11+09:00",
+    "write_performed": false,
+    "reason": "選定した最新の信頼できる情報源の候補はすべて既存データに一致。未確認情報を追加せず、latest.jsonを変更しない。"
+  },
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "2026-11-04 to 2026-11-06 entries reviewed",
+      "result": "checked entries matched existing JSON"
+    },
+    {
+      "name": "Blue Sky Laundry official company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "scope": "10 announced November 2026 openings",
+      "result": "all 10 matched existing JSON"
+    },
+    {
+      "name": "POP MART JAPAN official release — Okinawa Urasoe PARCO CITY",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "scope": "2026-11-06",
+      "result": "matched existing JSON"
+    },
+    {
+      "name": "GT Holdings official release — VINTAGE QOO TOKYO AOYAMA",
+      "url": "https://gt-hd.co.jp/news/release/940/",
+      "scope": "2026-11-16",
+      "result": "matched existing JSON"
+    },
+    {
+      "name": "TAG Heuer Japan official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "scope": "TAG Heuer Tokyo Ginza, 2026-11-07",
+      "result": "matched existing JSON"
+    },
+    {
+      "name": "POP MART JAPAN official release — LUCUA SOUTH",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "scope": "2026-11-24",
+      "result": "matched existing JSON"
+    },
+    {
+      "name": "Quil Fait Bon official-company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "scope": "Quil Fait Bon Shinjuku, 2026-11-28",
+      "result": "matched existing JSON"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1164,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "exact_name_date_duplicate_groups": 0
+  },
+  "errors": [],
+  "unverified": "調査は選定した情報源の範囲に限る。全国全事業者を網羅したものではない。"
+}
