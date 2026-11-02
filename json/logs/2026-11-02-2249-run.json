@@ -1,0 +1,137 @@
+{
+  "run_at": "2026-11-02T22:49:02+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_dataset_updated",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1170,
+    "after_count": 1175,
+    "additions": 5,
+    "corrections": 0,
+    "deletions": 0,
+    "added_items": [
+      {
+        "name": "アパホテルステイ〈小松グランド〉",
+        "prefecture": "石川県",
+        "city": "小松市",
+        "opening_date": "2026-11-02",
+        "category": "ホテル（リブランド）"
+      },
+      {
+        "name": "エニタイムフィットネス桃谷店（リニューアル）",
+        "prefecture": "大阪府",
+        "city": "大阪市天王寺区",
+        "opening_date": "2026-11-02",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "獄麺 大阪駅前第3ビル店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-02",
+        "category": "ラーメン"
+      },
+      {
+        "name": "GIGI MARUNOUCHI",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-06",
+        "category": "ジュエリー・アクセサリー"
+      },
+      {
+        "name": "産直市場よってってクロスモール近江八幡店",
+        "prefecture": "滋賀県",
+        "city": "近江八幡市",
+        "opening_date": "2026-11-18",
+        "category": "農水産物直売所"
+      }
+    ],
+    "blob_sha": "5e4802d7c6bda8036053667f40f22e7a4ce5fabe",
+    "updatetime": "2026-11-02T22:49:02+09:00",
+    "write_performed": true,
+    "commit_sha": "93feb5e36f6d60bb201fba5f6a05d8199ab80dde",
+    "reason": "一次発表で開店日と所在地を確認できた5件を追加。既存レコードは削除・推測訂正せず保持。"
+  },
+  "sources_checked": [
+    {
+      "name": "APA Hotel official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000893.000018265.html",
+      "scope": "アパホテルステイ〈小松グランド〉, 2026-11-02 rebrand opening",
+      "result": "exact date and location confirmed; added"
+    },
+    {
+      "name": "Fast Fitness Japan official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000422.000134689.html",
+      "scope": "エニタイムフィットネス桃谷店, 2026-11-02 renewal opening",
+      "result": "exact date and location confirmed; added"
+    },
+    {
+      "name": "BIRCH official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000089740.html",
+      "scope": "獄麺 大阪駅前第3ビル店, 2026-11-02 opening",
+      "result": "exact date and location confirmed; added"
+    },
+    {
+      "name": "white office official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000172774.html",
+      "scope": "GIGI MARUNOUCHI, 2026-11-06 opening",
+      "result": "exact date and location confirmed; added"
+    },
+    {
+      "name": "Plus official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000152796.html",
+      "scope": "産直市場よってってクロスモール近江八幡店, 2026-11-18 opening",
+      "result": "exact date and location confirmed; added"
+    },
+    {
+      "name": "Laquan Studio official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000087871.html",
+      "scope": "Finelight Maebashi, 2026-11-02",
+      "result": "matched existing record"
+    },
+    {
+      "name": "Japan Blue Jeans official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000112208.html",
+      "scope": "SHIBUYA PARCO, 2026-11-20",
+      "result": "matched existing record"
+    },
+    {
+      "name": "GT Holdings official release",
+      "url": "https://gt-hd.co.jp/news/release/940/",
+      "scope": "AOYAMA, 2026-11-16",
+      "result": "matched existing record"
+    },
+    {
+      "name": "Benelic official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000002266.000022901.html",
+      "scope": "LUCUA SOUTH, 2026-11-24",
+      "result": "matched existing record"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1175,
+    "source_candidates_checked": 9,
+    "source_candidates_added": 5,
+    "selected_existing_candidates_matched": 4,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "normalized_name_date_duplicate_groups": 0,
+    "latest_json_blob_sha_matches_write_result": true,
+    "all_new_records_found_after_refetch": true
+  },
+  "errors": [],
+  "unverified": [
+    "調査は今回選定した一次発表の範囲に限り、全国全事業者を網羅するものではない。",
+    "開店日を確定できない候補は推測で追加していない。"
+  ],
+  "automation_state": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "note": "管理情報で有効状態を確認。次回実行時刻は未取得。"
+  }
+}
