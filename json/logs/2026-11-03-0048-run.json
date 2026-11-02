@@ -1,0 +1,80 @@
+{
+  "run_at": "2026-11-03T00:48:48+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_no_dataset_change",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1175,
+    "after_count": 1175,
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "blob_sha": "5e4802d7c6bda8036053667f40f22e7a4ce5fabe",
+    "updatetime": "2026-11-02T22:49:02+09:00",
+    "write_performed": false,
+    "reason": "公式情報源から選定した開店候補23件を既存データと照合し、全件一致。未確認情報を推測で追加せず、latest.jsonは変更しなかった。"
+  },
+  "sources_checked": [
+    {
+      "name": "Lawson official new store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "2026-11-04 to 2026-11-06 selected 16 new stores",
+      "result": "all 16 exact name/date records matched existing data"
+    },
+    {
+      "name": "SYNRA Group official announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "scope": "Eleanor spa&treatment Koriyama, Ikebukuro 3rd, Okinawa Chatan",
+      "result": "all 3 exact name/date records matched existing data"
+    },
+    {
+      "name": "Yohji Yamamoto official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001142.000034350.html",
+      "scope": "WILDSIDE YOHJI YAMAMOTO Shibuya PARCO, 2026-11-20",
+      "result": "matched existing data"
+    },
+    {
+      "name": "Vans Japan official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000120.000131577.html",
+      "scope": "Vans Store Shibuya PARCO, 2026-11-20",
+      "result": "matched existing data"
+    },
+    {
+      "name": "POP MART JAPAN official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "scope": "POP MART LUCUA SOUTH, 2026-11-24",
+      "result": "matched existing data"
+    },
+    {
+      "name": "Quil Fait Bon official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "scope": "Quil Fait Bon Shinjuku, 2026-11-28",
+      "result": "matched existing data"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1175,
+    "selected_source_candidates_checked": 23,
+    "exact_name_date_matches": 23,
+    "unmatched_candidates": 0,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "exact_name_date_duplicate_groups": 0,
+    "latest_json_blob_sha_unchanged": true,
+    "latest_json_refetched": true
+  },
+  "errors": [],
+  "unverified": [
+    "調査は今回選定した公式情報源と候補の範囲に限り、全国全事業者を網羅したものではない。",
+    "正規化時に会場名の括弧部分を除くと同日候補の衝突が6組生じるが、いずれも異なる会場・所在地の店舗で、完全一致重複ではないため変更していない。",
+    "未確認の開店日を推測で登録していない。"
+  ],
+  "automation_state": {
+    "is_enabled_before_run": true,
+    "is_enabled_after_run": false,
+    "schedule_changed": false,
+    "note": "実行終了時のタスク管理処理により無効化。ユーザーの停止指示ではない。"
+  }
+}
