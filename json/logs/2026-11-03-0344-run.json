@@ -1,0 +1,208 @@
+{
+  "run_at": "2026-11-03T03:44:02+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "counts": {
+    "before": 1189,
+    "added": 12,
+    "corrected": 0,
+    "removed": 0,
+    "after": 1201
+  },
+  "source_checks": [
+    {
+      "source": "株式会社ユニシアホールディングス / 串カツ田中",
+      "url": "https://prtimes.jp/main/html/rd/p/000000643.000027839.html",
+      "records": [
+        "串カツ田中 阪急淡路店"
+      ]
+    },
+    {
+      "source": "株式会社ワッツ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000421.000084599.html",
+      "records": [
+        "ワッツウィズ 越生セイムス店"
+      ]
+    },
+    {
+      "source": "株式会社つぐつぐ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000076932.html",
+      "records": [
+        "金継ぎつぐつぐ京都店"
+      ]
+    },
+    {
+      "source": "住友不動産商業マネジメント株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000515.000062100.html",
+      "records": [
+        "香港飲茶 龍記（有明ガーデン）"
+      ]
+    },
+    {
+      "source": "アッシュ・ペー・フランス株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000147.000034526.html",
+      "records": [
+        "H.P.FRANCE BIJOUX 丸の内店（リニューアル）"
+      ]
+    },
+    {
+      "source": "株式会社ドーム",
+      "url": "https://prtimes.jp/main/html/rd/p/000000517.000003939.html",
+      "records": [
+        "アンダーアーマーブランドハウス あべの（あべのキューズモール）"
+      ]
+    },
+    {
+      "source": "株式会社ちょいおでん",
+      "url": "https://prtimes.jp/main/html/rd/p/000000020.000121045.html",
+      "records": [
+        "ちょいおでん 仙台駅前店"
+      ]
+    },
+    {
+      "source": "APAMAN株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000460.000049635.html",
+      "records": [
+        "アパマンショップ福井北店（社宅専門店）"
+      ]
+    },
+    {
+      "source": "株式会社セスタンテ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000106982.html",
+      "records": [
+        "ホアキン・ベラオ 伊勢丹新宿店"
+      ]
+    },
+    {
+      "source": "hololive公式サイト",
+      "url": "https://hololive.hololivepro.com/events/popup-2610/",
+      "records": [
+        "hololive production official pop up shop in NAGOYA（名古屋PARCO）"
+      ]
+    },
+    {
+      "source": "阪急阪神不動産株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000628.000033147.html",
+      "records": [
+        "北新地セレブリテ（タイムアウトマーケット大阪）",
+        "堂島 KITAGAWA（タイムアウトマーケット大阪）"
+      ]
+    }
+  ],
+  "added_items": [
+    {
+      "name": "串カツ田中 阪急淡路店",
+      "prefecture": "大阪府",
+      "city": "大阪市東淀川区",
+      "opening_date": "2026-11-04",
+      "category": "串カツ・飲食店"
+    },
+    {
+      "name": "アンダーアーマーブランドハウス あべの（あべのキューズモール）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-05",
+      "category": "スポーツウェア・用品"
+    },
+    {
+      "name": "ちょいおでん 仙台駅前店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-05",
+      "category": "おでん・飲食店"
+    },
+    {
+      "name": "hololive production official pop up shop in NAGOYA（名古屋PARCO）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-06",
+      "category": "キャラクターグッズ（期間限定POPUP）"
+    },
+    {
+      "name": "H.P.FRANCE BIJOUX 丸の内店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-10",
+      "category": "ジュエリー・セレクトショップ（リニューアル）"
+    },
+    {
+      "name": "北新地セレブリテ（タイムアウトマーケット大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-10",
+      "category": "パティスリー"
+    },
+    {
+      "name": "ホアキン・ベラオ 伊勢丹新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-11",
+      "category": "ジュエリー・アクセサリー"
+    },
+    {
+      "name": "香港飲茶 龍記（有明ガーデン）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-11-16",
+      "category": "中華料理・香港点心"
+    },
+    {
+      "name": "堂島 KITAGAWA（タイムアウトマーケット大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-16",
+      "category": "抹茶スイーツ・和菓子"
+    },
+    {
+      "name": "ワッツウィズ 越生セイムス店",
+      "prefecture": "埼玉県",
+      "city": "入間郡越生町",
+      "opening_date": "2026-11-01",
+      "category": "100円ショップ（ドラッグセイムス店内）"
+    },
+    {
+      "name": "金継ぎつぐつぐ京都店",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "opening_date": "2026-11-01",
+      "category": "金継ぎ専門店・工芸体験・販売"
+    },
+    {
+      "name": "アパマンショップ福井北店（社宅専門店）",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-11-01",
+      "category": "不動産仲介・社宅専門店"
+    }
+  ],
+  "held_unconfirmed": [
+    {
+      "name": "STREET CHURROS（有明ガーデン）",
+      "reason": "公式発表は「11月下旬」のみで具体的な日付を確認できず、日付必須のJSON登録を保留。"
+    },
+    {
+      "name": "買取専科 マックスバリュ瓢箪山店",
+      "reason": "公式発表は「11月下旬頃」のみで具体的な日付を確認できず、日付必須のJSON登録を保留。"
+    },
+    {
+      "name": "L-MARK町田",
+      "reason": "公式発表は2026年11月オープン予定までで、具体的な日付を確認できず登録を保留。"
+    }
+  ],
+  "verification": {
+    "post_write_fetch": "success",
+    "json_parse": "success",
+    "count": 1201,
+    "all_required_fields_present": 0,
+    "invalid_date_format": 0,
+    "duplicate_name_date_pairs": 0,
+    "chronological_order": "ascending",
+    "latest_json_blob_sha": "7ba25afb0567398d89f392347db70131c1512872"
+  },
+  "errors": [],
+  "task_state": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null
+  }
+}
