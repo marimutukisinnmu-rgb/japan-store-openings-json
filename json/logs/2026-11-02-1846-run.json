@@ -1,0 +1,93 @@
+{
+  "run_at": "2026-11-02T18:46:11+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1163,
+    "updatetime": "2026-11-02T17:42:58+09:00",
+    "blob_sha": "aa3a5cc508a0d9906f8e962f66a9b668110e6378"
+  },
+  "changes": {
+    "additions": 1,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": true,
+    "added_items": [
+      {
+        "name": "サーティワンアイスクリーム 心斎橋BIG STEP店",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-11-07",
+        "category": "アイスクリームショップ",
+        "source_urls": [
+          "https://mail.big-step.co.jp/index.php/shop/detail/66"
+        ],
+        "source_note": "Official Shinsaibashi BIG STEP shop page states the Nov 7, 2026 grand opening; location address is in Osaka Chuo Ward."
+      }
+    ]
+  },
+  "checked_sources": [
+    {
+      "source": "Shinsaibashi BIG STEP official shop page",
+      "url": "https://mail.big-step.co.jp/index.php/shop/detail/66",
+      "checked": "31 Ice Cream opening date Nov 7, 2026 and Osaka Chuo Ward address confirmed; candidate was not in latest.json."
+    },
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Selected upcoming Nov 4–13 stores checked against existing entries; no unregistered exact-date candidate identified in this pass."
+    },
+    {
+      "source": "SYNRA GROUP official announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "checked": "Eleanor spa&treatment Nov candidates are already listed."
+    },
+    {
+      "source": "POP MART JAPAN announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "POP MART LUCUA SOUTH Nov 24 entry is already listed."
+    },
+    {
+      "source": "Second Retailing November opening summary",
+      "url": "https://www.ryutsuu.biz/store/s102945.html",
+      "checked": "Selected domestic candidates checked; listed November openings were already present. Overseas locations excluded."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 1164,
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicates": 0,
+    "normalized_name_date_duplicate_groups": [
+      {
+        "key": "レゴストアジャズドリーム長島リニューアル|2026-10-29",
+        "count": 2,
+        "names": [
+          "レゴ ストア（ジャズドリーム長島・リニューアル）",
+          "レゴ®ストア（ジャズドリーム長島・リニューアル）"
+        ]
+      }
+    ],
+    "added_item_present": true
+  },
+  "verification": {
+    "commit_sha": "ce80b237c3fd2ee5d77cf66297de88809182a4d3",
+    "blob_sha": "d997522ca8ee7b10ae2fdf16377540927669a387",
+    "read_after_write": "passed"
+  },
+  "unresolved": [
+    "This run checks selected sources, not every operator nationwide.",
+    "Some candidate listings found in secondary sources did not provide an exact date from an operator/official venue source; they were not added."
+  ],
+  "errors": [],
+  "automation_check": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "notes": "Automation is enabled. The dashboard did not return a next run time; schedule was not changed."
+  }
+}
