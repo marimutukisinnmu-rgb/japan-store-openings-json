@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T04:43:06+09:00",
+  "updatetime": "2026-11-02T09:41:06+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5919,6 +5919,13 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
+      "name": "ニューエラ大阪梅田サウス",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-12",
+      "category": "帽子・アパレル・雑貨"
+    },
+    {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
       "prefecture": "群馬県",
       "city": "藤岡市",
@@ -6675,6 +6682,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "無印良品久喜吉羽",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・食品・衣服"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7282,6 +7296,13 @@
       "city": "清瀬市",
       "opening_date": "2026-11-28",
       "category": "ディスカウントストア"
+    },
+    {
+      "name": "シェイク シャック 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ハンバーガーレストラン"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
