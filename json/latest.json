@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-02T10:44:13+09:00",
+  "updatetime": "2026-11-02T12:47:55+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5450,6 +5450,20 @@
       "category": "和菓子・カステラ（期間限定催事）"
     },
     {
+      "name": "くら寿司 BiVi仙台駅東口店",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "opening_date": "2026-11-06",
+      "category": "回転寿司"
+    },
+    {
+      "name": "餃子の王将 都島本通店",
+      "prefecture": "大阪府",
+      "city": "大阪市都島区",
+      "opening_date": "2026-11-06",
+      "category": "中華料理"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5658,6 +5672,13 @@
       "city": "東大阪市",
       "opening_date": "2026-11-10",
       "category": "とんかつ（営業再開）"
+    },
+    {
+      "name": "ほっともっと 金沢小坂町店",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-10",
+      "category": "持ち帰り弁当"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
