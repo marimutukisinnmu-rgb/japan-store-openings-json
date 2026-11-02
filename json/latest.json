@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T03:44:02+09:00",
+  "updatetime": "2026-11-03T07:39:36+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4699,6 +4699,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-02",
       "category": "ラーメン"
+    },
+    {
+      "name": "阿蘇リトリート HONO by 温故知新",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡南阿蘇村",
+      "opening_date": "2026-11-02",
+      "category": "ホテル・リゾート"
     },
     {
       "name": "chocoZAP 宇佐岩崎",
