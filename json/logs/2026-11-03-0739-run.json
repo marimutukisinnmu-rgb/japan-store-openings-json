@@ -1,0 +1,101 @@
+{
+  "run_at": "2026-11-03T07:39:36+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1201,
+    "updatetime": "2026-11-03T03:44:02+09:00",
+    "blob_sha": "7ba25afb0567398d89f392347db70131c1512872",
+    "period": "2026-09-18/2027-01-22"
+  },
+  "changes": {
+    "added": 1,
+    "corrected": 0,
+    "removed": 0,
+    "latest_json_modified": true,
+    "reason": "A company-authored announcement confirmed the opening date and municipality for Aso Retreat HONO, which was not in the existing data. Other reviewed date-confirmed candidates matched existing entries; no uncertain dates were inferred."
+  },
+  "source_checks": [
+    {
+      "source": "Onko Chishin company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000255.000118716.html",
+      "records": [
+        "阿蘇リトリート HONO by 温故知新"
+      ],
+      "result": "Company release confirms opening on 2026-11-02 and location in Kumamoto Prefecture, Minamiaso Village. New record added."
+    },
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "Displayed November 4-13 store openings",
+      "result": "Checked candidates matched existing JSON records."
+    },
+    {
+      "source": "Big-A official new-store listing",
+      "url": "https://www.biga.co.jp/newshop/",
+      "records": [
+        "ビッグ・エー狭山中央店（2026-11-21）",
+        "ビッグ・エー清瀬駅北口店（2026-11-28）"
+      ],
+      "result": "Both records already present."
+    },
+    {
+      "source": "GIB / Blue Sky Laundry company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "scope": "Ten announced November 2026 stores",
+      "result": "All ten reviewed records matched existing JSON; no date changes made."
+    },
+    {
+      "source": "Second Retailing Group company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "scope": "November 2026 opening table; Japan locations",
+      "result": "Nine Japan records checked against the current JSON and matched. Overseas entries excluded from the Japan dataset."
+    },
+    {
+      "source": "Tamagawa Takashimaya S.C. official opening list",
+      "url": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+      "records": [
+        "ノーブル（POP UP SHOP）（2026-11-03）"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Mori Trust Hotels & Resorts / WAKAN Hakone Gora release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001870.000006521.html",
+      "records": [
+        "WAKAN箱根強羅 by ラフォーレ（2026-11-10）"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Japan Blue company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000112208.html",
+      "records": [
+        "Japan Blue Jeans SHIBUYA PARCO（2026-11-20）"
+      ],
+      "result": "Existing record matched."
+    }
+  ],
+  "added_items": [
+    {
+      "name": "阿蘇リトリート HONO by 温故知新",
+      "prefecture": "熊本県",
+      "city": "阿蘇郡南阿蘇村",
+      "opening_date": "2026-11-02",
+      "category": "ホテル・リゾート"
+    }
+  ],
+  "verification": {
+    "saved_json_refetched": true,
+    "json_parse": "success",
+    "item_count": 1202,
+    "added_record_count": 1,
+    "target_record_count": 1,
+    "date_order": "valid",
+    "exact_name_date_duplicates": 0,
+    "saved_blob_sha": "96cfba250dde4f368c64c5e9a8a0a4c7f00ff319"
+  },
+  "errors": [],
+  "unconfirmed": "No other exact opening date was inferred or inserted in this pass."
+}
