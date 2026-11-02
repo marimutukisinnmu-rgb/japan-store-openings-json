@@ -1,0 +1,99 @@
+{
+  "run_at": "2026-11-03T02:43:08+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before_count": 1189,
+  "after_count": 1189,
+  "added_count": 0,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "added": [],
+  "checked": [
+    {
+      "name": "Lawson official new-store list",
+      "checked_candidates": 28,
+      "matched_existing_records": 28,
+      "unmatched": 0,
+      "source_url": "https://www.lawson.co.jp/newstore/smt/"
+    },
+    {
+      "name": "Kyoto Kitashirakawa Ramen Kairikiya Nagano Hirabayashi",
+      "matched_existing_record": true,
+      "opening_date": "2026-11-04",
+      "source_url": "https://www.kairikiya.co.jp/news/grandopen"
+    },
+    {
+      "name": "Mitsui Outlet Park Jazz Dream Nagashima selected new/renewal stores",
+      "matched_existing_records": true,
+      "examples": [
+        "Acne Studios（ジャズドリーム長島）",
+        "MERRELL（ジャズドリーム長島）",
+        "CASIO WATCH OUTLET（ジャズドリーム長島）"
+      ],
+      "source_url": "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/"
+    },
+    {
+      "name": "PISOLA東越谷店",
+      "matched_existing_record": true,
+      "opening_date": "2026-11-18",
+      "source_url": "https://pisola.jp/news/11956.html"
+    },
+    {
+      "name": "NewDays盛岡フェザンクラッセ",
+      "matched_existing_record": true,
+      "opening_date": "2026-10-28",
+      "source_url": "https://retail.jr-cross.co.jp/newdays/campaign/nd_moriokafesanclasse.html"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA 武蔵小杉東急スクエア店",
+      "matched_existing_record": true,
+      "opening_date": "2026-10-30",
+      "source_url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "matched_existing_record": true,
+      "opening_date": "2026-11-24",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "matched_existing_record": true,
+      "opening_date": "2026-11-28",
+      "source_url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+    },
+    {
+      "name": "しゃぶ葉 岐阜アクティブＧ店 / 池田駅前店",
+      "matched_existing_records": true,
+      "source_url": "https://store-info.skylark.co.jp/syabuyo/list/"
+    },
+    {
+      "name": "neverbetter",
+      "matched_existing_record": true,
+      "opening_date": "2026-11-15",
+      "source_url": "https://venex-j.co.jp/news/detail/1030.html"
+    }
+  ],
+  "skipped_exact_duplicates": [],
+  "unconfirmed": [
+    {
+      "name": "PUPPET SUNSUN STORE 渋谷店 / 梅田店",
+      "reason": "The current dataset contains exact dates 2026-11-20 and 2026-11-24. The official operator's currently accessible announcement confirms November and store locations but does not explicitly state the exact dates in the checked page; secondary reporting gives the exact dates. No edit was made, and the existing entries were retained pending a primary-source date confirmation.",
+      "source_url": "https://shop.chocolate-inc.com/pages/puppet-sunsun-store"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_count": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_count": 0,
+    "latest_json_blob_sha_matches_fetch": true,
+    "latest_json_unchanged": true
+  },
+  "latest_json_commit_sha": "b941294c727c5d52aa5158ca0008f7db454787ae",
+  "latest_json_blob_sha": "f67dba17c854c6de39a862575966f5e9012b30a3",
+  "latest_json_write_performed": false,
+  "run_log_save_verified": false,
+  "errors": []
+}
