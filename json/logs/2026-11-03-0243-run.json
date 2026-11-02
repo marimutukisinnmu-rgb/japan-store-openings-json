@@ -94,6 +94,6 @@
   "latest_json_commit_sha": "b941294c727c5d52aa5158ca0008f7db454787ae",
   "latest_json_blob_sha": "f67dba17c854c6de39a862575966f5e9012b30a3",
   "latest_json_write_performed": false,
-  "run_log_save_verified": false,
+  "run_log_save_verified": true,
   "errors": []
 }
