@@ -1,0 +1,97 @@
+{
+  "run_at": "2026-11-02T13:47:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before": {
+    "item_count": 1162,
+    "updatetime": "2026-11-02T12:47:55+09:00",
+    "blob_sha": "902865b319ef0243758aca98b8826166245b4124"
+  },
+  "changes": {
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": false,
+    "reason": "All verified upcoming candidates from the selected official sources were already present with matching opening dates."
+  },
+  "checked_sources": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Compared 27 listed openings dated November 4–13, 2026; all 27 matched existing name/date records."
+    },
+    {
+      "source": "Second Retailing official press release and attached store schedule",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked": "Compared the 9 domestic November 2026 openings across Second Street, Luck Rack, OKURA and Capsule Rakkyoku; all 9 matched existing name/date records. Overseas stores excluded."
+    },
+    {
+      "source": "Skylark official Shabu-yo new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "checked": "Shabu-yo Ikeda Ekimae (November 29) and Gifu Active G (November 27) were both already registered."
+    },
+    {
+      "source": "Skylark official Bamiyan new-store list",
+      "url": "https://store-info.skylark.co.jp/bamiyan/list/",
+      "checked": "Bamiyan Hiroshima Alpark (November 29), Omiya Ekihigashiguchi (November 27), and Aeon Mall Date (November 27) were all already registered."
+    },
+    {
+      "source": "PISOLA official announcement",
+      "url": "https://pisola.jp/news/11956.html",
+      "checked": "PISOLA Higashi-Koshigaya (November 18) was already registered."
+    },
+    {
+      "source": "Big-A official new-store list",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked": "Big-A Sayama Chuo (November 21), Kiyose Station North Exit (November 28), and the October 31 opening listed on the page were already represented."
+    },
+    {
+      "source": "Kairikiya official new-store list",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked": "Kairikiya Nagano Hirabayashi (November 4) was already registered."
+    },
+    {
+      "source": "POP MART JAPAN official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "POP MART LUCUA SOUTH (November 24) is represented in the JSON; two existing name variants remain unmerged pending review."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 1162,
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicates": 0,
+    "normalized_duplicate_groups": [
+      {
+        "key": "レゴストアジャズドリーム長島リニューアル|2026-10-29",
+        "names": [
+          "レゴ ストア（ジャズドリーム長島・リニューアル）",
+          "レゴ®ストア（ジャズドリーム長島・リニューアル）"
+        ]
+      }
+    ],
+    "potential_duplicate_groups": [
+      {
+        "key": "POP MART LUCUA SOUTH|2026-11-24",
+        "names": [
+          "POP MART LUCUA SOUTH店",
+          "POP MART（LUCUA SOUTH）"
+        ],
+        "status": "preserved; not merged automatically"
+      }
+    ]
+  },
+  "verification": {
+    "latest_json_written": false,
+    "fetched_blob_sha": "902865b319ef0243758aca98b8826166245b4124",
+    "result": "Existing JSON remained unchanged."
+  },
+  "unresolved": [
+    "This run checks selected official sources, not every operator nationwide.",
+    "The existing LEGO Nagashima normalized duplicate and POP MART LUCUA SOUTH possible duplicate variants were preserved without automatic deletion or merging."
+  ],
+  "errors": []
+}
