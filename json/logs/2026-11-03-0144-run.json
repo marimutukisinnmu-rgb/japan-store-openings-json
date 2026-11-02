@@ -1,0 +1,157 @@
+{
+  "run_at": "2026-11-03T01:44:57+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before_count": 1175,
+  "after_count": 1189,
+  "added_count": 14,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "added": [
+    {
+      "name": "YOAJUNG（ヨアジョン）千葉幕張店",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-11-06",
+      "category": "フローズンヨーグルト専門店"
+    },
+    {
+      "name": "DAISO フェアモール福井店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "Standard Products フェアモール福井店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨"
+    },
+    {
+      "name": "Standard Products パリオCITY店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "生活雑貨"
+    },
+    {
+      "name": "眼鏡市場 アミュプラザ鹿児島店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-13",
+      "category": "眼鏡・サングラス・補聴器"
+    },
+    {
+      "name": "3COINS+plus（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-13",
+      "category": "生活雑貨・インテリア雑貨（移転リニューアル）"
+    },
+    {
+      "name": "KOMEHYO買取センター（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-05",
+      "category": "ブランド品買取（リニューアル）"
+    },
+    {
+      "name": "きものやまと（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-05",
+      "category": "呉服・和装（リニューアル）"
+    },
+    {
+      "name": "アトリエはるか（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-06",
+      "category": "ヘアメイク・ネイル（リニューアル）"
+    },
+    {
+      "name": "ピーチ・ジョン（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-06",
+      "category": "ランジェリー（リニューアル）"
+    },
+    {
+      "name": "Francfranc（アミュプラザ鹿児島）",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-13",
+      "category": "インテリア・生活雑貨（リニューアル）"
+    },
+    {
+      "name": "薫玉堂 祇園店",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "opening_date": "2026-11-14",
+      "category": "お香・線香・フレグランス"
+    },
+    {
+      "name": "ぜにや 祇園店",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "opening_date": "2026-11-14",
+      "category": "京念珠・数珠・アクセサリー（リニューアル）"
+    },
+    {
+      "name": "SHOWER OF HEART - かがやくひかりのプレゼント - POPUP STORE（京都髙島屋）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定ポップアップ（キャラクターコラボ・展示）"
+    }
+  ],
+  "skipped_exact_duplicates": [],
+  "sources": [
+    {
+      "name": "YOAJUNG operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000118492.html"
+    },
+    {
+      "name": "DAISO / Standard Products official release",
+      "url": "https://www.daiso-sangyo.co.jp/wp-content/uploads/2026/10/91a2c9db82b04e044da3cb485324bbe4.pdf"
+    },
+    {
+      "name": "Standard Products official release",
+      "url": "https://standardproducts.jp/blogs/news/%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9-%E7%A6%8F%E4%BA%95%E3%81%B8%E5%88%9D%E5%87%BA%E5%BA%97%E3%81%A747%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E5%87%BA%E5%BA%97%E3%82%92%E9%81%94%E6%88%90-%E5%85%A8%E5%9B%BD%E9%81%94%E6%88%90%E8%A8%98%E5%BF%B5%E3%81%A8%E3%81%97%E3%81%A6%E5%85%A8%E5%BA%97%E3%81%A7%E8%B6%8A%E5%89%8D%E5%92%8C%E7%B4%99%E3%82%92%E3%82%A2%E3%83%83%E3%83%97%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%81%97%E3%81%9F%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%A1%E3%83%A2%E5%B8%B3%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%88%E3%82%92%E9%96%8B%E5%82%AC"
+    },
+    {
+      "name": "JR Kagoshima City official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000191341.html"
+    },
+    {
+      "name": "Kungyokudo / Zeniya operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000192241.html"
+    },
+    {
+      "name": "Takashimaya official popup announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000001609.000069859.html"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "PUPPET SUNSUN STORE（渋谷・梅田）",
+      "reason": "公式発表では2026年11月予定とされ、個別の開店日を明記した公式発表を確認できなかったため、日付を推測せず保留。",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000572.000024007.html"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_count": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_count": 0,
+    "all_added_records_present_after_fetch": true,
+    "blob_sha_matches_update": true
+  },
+  "latest_json_commit_sha": "b941294c727c5d52aa5158ca0008f7db454787ae",
+  "latest_json_blob_sha": "f67dba17c854c6de39a862575966f5e9012b30a3",
+  "save_verified": true,
+  "errors": []
+}
