@@ -1,0 +1,119 @@
+{
+  "run_at": "2026-11-03T06:46:22+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1201,
+    "updatetime": "2026-11-03T03:44:02+09:00",
+    "blob_sha": "7ba25afb0567398d89f392347db70131c1512872",
+    "period": "2026-09-18/2027-01-22"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "latest_json_modified": false,
+    "reason": "Checked selected recent official operator, facility, and company announcements; all date-confirmed candidates examined matched existing records. Unconfirmed exact dates were not added."
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store page",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "Displayed November 4-13 store announcements",
+      "result": "28 candidate entries checked against existing JSON; all matched."
+    },
+    {
+      "source": "Blue Sky Laundry / GIB company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "scope": "November 2026 announced stores",
+      "result": "10 entries checked; all matched."
+    },
+    {
+      "source": "Second Retailing Group company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "scope": "November 2026 store table; Japan locations only",
+      "result": "9 Japan entries checked; all matched. Overseas entries excluded from Japan dataset."
+    },
+    {
+      "source": "JR Yokohama Shonan City Create / Lusca Hiratsuka release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "scope": "Lindt, ITS'DEMO, Local India, Ramen Ishikari",
+      "result": "All 4 date-confirmed store records present."
+    },
+    {
+      "source": "Loft official store-opening information",
+      "url": "https://www.loft.co.jp/category/store_info/",
+      "scope": "Aeon Mall KYOTO Loft, November 27",
+      "result": "Existing record matched."
+    },
+    {
+      "source": "POP MART Japan releases",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+      ],
+      "scope": "Okinawa Urasoe PARCO CITY and LUCUA SOUTH",
+      "result": "Both existing records matched."
+    },
+    {
+      "source": "Es-con company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000118.000090191.html",
+      "scope": "Tonarie Kurihama Park facility and tenant information",
+      "result": "Facility record already present. Individual tenant opening dates were not independently specified in the release, so no tenant records were inferred from the facility date."
+    },
+    {
+      "source": "Additional official company announcements",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+        "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+        "https://prtimes.jp/main/html/rd/p/000000729.000034304.html",
+        "https://onodera-group.com/news/7933/"
+      ],
+      "scope": "WR.Yoyogi Park, Nojima Homes Shin-Kawasaki, HMV LaLaport Sakai, Tachi-sushi Ginza Onodera Ecute Omiya",
+      "result": "All date-confirmed candidates matched existing records."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "candidate": "Sukiya Takaoka Ohno",
+      "issue": "The official Sukiya sources found list the store but did not confirm an exact opening date; a local report gave a date that was not corroborated by the official source.",
+      "action": "Not added."
+    },
+    {
+      "candidate": "Wakatakemaru Tosu",
+      "issue": "No official opening-date confirmation found; secondary reports show inconsistent timing.",
+      "action": "Not added."
+    },
+    {
+      "candidate": "Taco Bell Kichijoji",
+      "issue": "No exact opening date confirmed in an official source during this run.",
+      "action": "Not added."
+    },
+    {
+      "candidate": "Tonarie Kurihama Park individual tenants",
+      "issue": "The facility's opening date is confirmed, but the checked primary release does not individually state each tenant's opening date.",
+      "action": "No inferred tenant dates."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_format_or_value": 0,
+    "chronological_order": "passed",
+    "exact_duplicate_groups": 0,
+    "item_count_after": 1201,
+    "latest_blob_sha_after": "7ba25afb0567398d89f392347db70131c1512872"
+  },
+  "save": {
+    "latest_json": "unchanged; verified by fetched blob SHA",
+    "run_log": "pending"
+  },
+  "automation_state": {
+    "enabled_in_management_metadata": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "note": "Next run time and completion record not confirmed in metadata."
+  }
+}
