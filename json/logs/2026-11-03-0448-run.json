@@ -1,0 +1,90 @@
+{
+  "run_at": "2026-11-03T04:48:13+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "counts": {
+    "before": 1201,
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "after": 1201
+  },
+  "source_checks": [
+    {
+      "source": "ローソン公式 新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "records_checked": 27,
+      "result": "2026-11-04〜2026-11-13の公式掲載27店舗を照合。すべて既存JSONに一致。"
+    },
+    {
+      "source": "SYNRA GROUP公式",
+      "url": "https://synra.co.jp/news-005/",
+      "records": [
+        "Eleanor spa&treatment 郡山店",
+        "Eleanor spa&treatment 池袋3rd店",
+        "Eleanor spa&treatment 沖縄北谷店"
+      ],
+      "result": "公式掲載の開店予定日と既存レコードが一致。"
+    },
+    {
+      "source": "GTホールディングス公式",
+      "url": "https://gt-hd.co.jp/news/release/940/",
+      "records": [
+        "VINTAGE QOO TOKYO AOYAMA"
+      ],
+      "result": "2026-11-16の既存レコードと一致。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "records": [
+        "POP MART LUCUA SOUTH店"
+      ],
+      "result": "2026-11-24の既存レコードと一致。"
+    },
+    {
+      "source": "グランベリーパーク公式",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "records": [
+        "COHINA グランベリーパーク店",
+        "コヒナ グランベリーパーク店",
+        "マーガレット・ハウエル エー.ジー.オー. グランベリーパーク店",
+        "PUMA グランベリーパーク店"
+      ],
+      "result": "掲載日と既存JSONの候補を照合。既存記録を変更せず保持。"
+    }
+  ],
+  "held_unconfirmed": [
+    {
+      "name": "STREET CHURROS 有明ガーデン店",
+      "reason": "施設運営元の公式発表は「2026年11月下旬」のみ。日付必須のJSON登録は保留。"
+    },
+    {
+      "name": "PUPPET SUNSUN STORE 渋谷店",
+      "reason": "公式発表は「2026年11月予定（詳細は後日発表）」まで。既存の2026-11-20は変更せず、公式日付確認待ちとして扱う。"
+    },
+    {
+      "name": "PUPPET SUNSUN STORE 梅田店",
+      "reason": "公式発表は「2026年11月予定（詳細は後日発表）」まで。既存の2026-11-24は変更せず、公式日付確認待ちとして扱う。"
+    }
+  ],
+  "verification": {
+    "post_write_fetch": "not_applicable_latest_json_unchanged",
+    "fetched_current_file": "success",
+    "json_parse": "success",
+    "count": 1201,
+    "missing_required_records": 0,
+    "invalid_date_records": 0,
+    "duplicate_name_date_pairs": 0,
+    "chronological_order": "ascending",
+    "latest_json_updatetime": "2026-11-03T03:44:02+09:00",
+    "latest_json_blob_sha": "7ba25afb0567398d89f392347db70131c1512872"
+  },
+  "errors": [],
+  "task_state": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "note": "有効状態は確認。次回実行時刻は取得できず。"
+  }
+}
