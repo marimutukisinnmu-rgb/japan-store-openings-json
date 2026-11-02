@@ -1,0 +1,110 @@
+{
+  "run_at": "2026-11-03T08:40:28+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1202,
+    "updatetime": "2026-11-03T07:39:36+09:00",
+    "blob_sha": "96cfba250dde4f368c64c5e9a8a0a4c7f00ff319",
+    "period": "2026-09-18/2027-01-22"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "latest_json_modified": false,
+    "reason": "Freshly reviewed date-confirmed opening candidates were already present in the current JSON. No precise opening date was inferred for month-only or late-month announcements."
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "Current displayed openings for 2026-11-04 through 2026-11-13 (27 entries)",
+      "result": "All 27 displayed entries were found in the JSON with matching dates and locations."
+    },
+    {
+      "source": "GIGI company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000172774.html",
+      "records": [
+        "GIGI MARUNOUCHI (2026-11-06)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Benelic company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000002266.000022901.html",
+      "records": [
+        "JUMP SHOP（LUCUA SOUTH）(2026-11-24)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "AEON Mall Hanyu official notice",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "records": [
+        "創作オムライス ポムの樹（イオンモール羽生・リニューアル）(2026-11-06)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Kairikiya official new-store listing",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "records": [
+        "京都北白川 ラーメン魁力屋 長野平林店 (2026-11-04)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "La Prairie company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000156423.html",
+      "records": [
+        "ラ・プレリー（横浜髙島屋1階）(2026-11-07)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Poplar company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000001326.000031579.html",
+      "records": [
+        "MOGUえほんランド (2026-11-01)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "VENEX company release",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "records": [
+        "neverbetter (2026-11-15)"
+      ],
+      "result": "Existing record matched."
+    }
+  ],
+  "added_items": [],
+  "verification": {
+    "latest_json_refetched": true,
+    "json_parse": "success",
+    "item_count": 1202,
+    "missing_required_fields": 0,
+    "invalid_date_formats": 0,
+    "date_order": "valid",
+    "exact_name_date_duplicates": 0,
+    "saved_blob_sha": "96cfba250dde4f368c64c5e9a8a0a4c7f00ff319",
+    "latest_json_modified": false
+  },
+  "errors": [],
+  "unconfirmed": [
+    {
+      "candidate": "L-MARK町田",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000152391.html",
+      "announced_period": "2026年11月（予定・詳細確認中）",
+      "reason": "No exact opening date; not inserted."
+    },
+    {
+      "candidate": "クレーン横丁 極 相模原小山店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001372.000060567.html",
+      "announced_period": "2026年11月下旬（オープン日は後日発表）",
+      "reason": "No exact opening date; not inserted."
+    }
+  ]
+}
