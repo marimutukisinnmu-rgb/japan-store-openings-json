@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-11-02T20:47:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_with_dataset_update",
+  "dataset": {
+    "path": "json/latest.json",
+    "before_count": 1164,
+    "after_count": 1170,
+    "additions": 6,
+    "corrections": 0,
+    "deletions": 0,
+    "blob_sha": "1f9d3b143984854af2fc83e8a65b2dda4dada626",
+    "updatetime": "2026-11-02T20:47:00+09:00",
+    "write_performed": true,
+    "commit_sha": "a23db482bd877477f6ff2ba7a5955da58e448f8f",
+    "added_items": [
+      {
+        "name": "WithGreen 枚方T-SITE店",
+        "prefecture": "大阪府",
+        "city": "枚方市",
+        "opening_date": "2026-10-31",
+        "category": "サラダボウル専門店"
+      },
+      {
+        "name": "ポケモンカードストア in ららぽーと愛知東郷",
+        "prefecture": "愛知県",
+        "city": "愛知郡東郷町",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+      },
+      {
+        "name": "ポケモンカードストア in 静岡パルコ",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+      },
+      {
+        "name": "ポケモンカードストア in ららぽーと富士見",
+        "prefecture": "埼玉県",
+        "city": "富士見市",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+      },
+      {
+        "name": "ポケモンカードストア in イオンモール堺鉄砲町",
+        "prefecture": "大阪府",
+        "city": "堺市堺区",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+      },
+      {
+        "name": "ポケモンカードストア in イオンモール和歌山",
+        "prefecture": "和歌山県",
+        "city": "和歌山市",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ポップアップ（ポケモンカードゲーム）"
+      }
+    ]
+  },
+  "sources_checked": [
+    {
+      "name": "WithGreen company release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000018848.html",
+      "scope": "WithGreen 枚方T-SITE店, 2026-10-31",
+      "result": "opening date, name, and location confirmed; absent from previous JSON"
+    },
+    {
+      "name": "Pokémon Card Game official event/store page",
+      "url": "https://www.pokemon-card.com/info/004753.html",
+      "scope": "Five temporary Pokémon Card Store locations from 2026-11-13",
+      "result": "all five dates and venue locations confirmed; absent from previous JSON"
+    },
+    {
+      "name": "PARCO official release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000004144.000003639.html",
+      "scope": "Pokémon Card Store at Shizuoka PARCO, 2026-11-13",
+      "result": "cross-checked Shizuoka venue"
+    },
+    {
+      "name": "Second Retailing group release (PR TIMES)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "scope": "Domestic November 2026 openings in the published 12-store list",
+      "result": "verified candidates against existing JSON; おお蔵 本町駅前店 was already present"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "item_count": 1170,
+    "new_items_present": 6,
+    "missing_required_fields": 0,
+    "invalid_date_count": 0,
+    "chronological_order": true,
+    "exact_name_date_duplicate_groups": 0,
+    "post_write_fetch": "success",
+    "post_write_blob_sha_match": true
+  },
+  "errors": [],
+  "unverified": "調査は確認した公式情報源の範囲に限る。全国すべての事業者を網羅した調査ではない。"
+}
