@@ -95,5 +95,10 @@
   "latest_json_blob_sha": "f67dba17c854c6de39a862575966f5e9012b30a3",
   "latest_json_write_performed": false,
   "run_log_save_verified": true,
-  "errors": []
+  "errors": [
+    {
+      "type": "non_blocking_source_asset_fetch",
+      "detail": "A direct file-download attempt for the Jazz Dream Nagashima official shop-list image failed; the official web page and image were still accessible through the web viewer, so the run continued without changing latest.json."
+    }
+  ]
 }
