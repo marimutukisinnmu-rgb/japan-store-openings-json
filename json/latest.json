@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T01:44:57+09:00",
+  "updatetime": "2026-11-03T03:44:02+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4561,6 +4561,27 @@
       "category": "まぜそば専門店"
     },
     {
+      "name": "ワッツウィズ 越生セイムス店",
+      "prefecture": "埼玉県",
+      "city": "入間郡越生町",
+      "opening_date": "2026-11-01",
+      "category": "100円ショップ（ドラッグセイムス店内）"
+    },
+    {
+      "name": "金継ぎつぐつぐ京都店",
+      "prefecture": "京都府",
+      "city": "京都市東山区",
+      "opening_date": "2026-11-01",
+      "category": "金継ぎ専門店・工芸体験・販売"
+    },
+    {
+      "name": "アパマンショップ福井北店（社宅専門店）",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-11-01",
+      "category": "不動産仲介・社宅専門店"
+    },
+    {
       "name": "GARAGE CURRENT 国産名車",
       "prefecture": "神奈川県",
       "city": "横浜市青葉区",
@@ -4890,6 +4911,13 @@
       "category": "洋菓子店・パティスリー"
     },
     {
+      "name": "串カツ田中 阪急淡路店",
+      "prefecture": "大阪府",
+      "city": "大阪市東淀川区",
+      "opening_date": "2026-11-04",
+      "category": "串カツ・飲食店"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -5084,6 +5112,20 @@
       "city": "鹿児島市",
       "opening_date": "2026-11-05",
       "category": "呉服・和装（リニューアル）"
+    },
+    {
+      "name": "アンダーアーマーブランドハウス あべの（あべのキューズモール）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-05",
+      "category": "スポーツウェア・用品"
+    },
+    {
+      "name": "ちょいおでん 仙台駅前店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-05",
+      "category": "おでん・飲食店"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -5555,6 +5597,13 @@
       "category": "ランジェリー（リニューアル）"
     },
     {
+      "name": "hololive production official pop up shop in NAGOYA（名古屋PARCO）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-06",
+      "category": "キャラクターグッズ（期間限定POPUP）"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5779,6 +5828,20 @@
       "category": "とんかつ（営業再開）"
     },
     {
+      "name": "H.P.FRANCE BIJOUX 丸の内店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-10",
+      "category": "ジュエリー・セレクトショップ（リニューアル）"
+    },
+    {
+      "name": "北新地セレブリテ（タイムアウトマーケット大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-10",
+      "category": "パティスリー"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
@@ -5861,6 +5924,13 @@
       "city": "京都市下京区",
       "opening_date": "2026-11-11",
       "category": "買取専門店"
+    },
+    {
+      "name": "ホアキン・ベラオ 伊勢丹新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-11",
+      "category": "ジュエリー・アクセサリー"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6330,6 +6400,20 @@
       "city": "世田谷区",
       "opening_date": "2026-11-16",
       "category": "牛丼・定食（営業再開）"
+    },
+    {
+      "name": "香港飲茶 龍記（有明ガーデン）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-11-16",
+      "category": "中華料理・香港点心"
+    },
+    {
+      "name": "堂島 KITAGAWA（タイムアウトマーケット大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-16",
+      "category": "抹茶スイーツ・和菓子"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
