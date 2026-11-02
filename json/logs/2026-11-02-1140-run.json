@@ -1,0 +1,69 @@
+{
+  "run_at": "2026-11-02T11:40:40+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before": {
+    "item_count": 1159,
+    "updatetime": "2026-11-02T10:44:13+09:00",
+    "blob_sha": "60f29ce35b8e509cf84a819876a9d7426e26e27d"
+  },
+  "changes": {
+    "additions": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "latest_json_written": false
+  },
+  "checked_sources": [
+    {
+      "source": "Lawson official new-store listings",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "Selected November 4-13 candidates; corresponding records were present in the current JSON."
+    },
+    {
+      "source": "SYNRA GROUP official announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "published": "2026-10-28",
+      "checked": "Eleanor spa&treatment Koriyama (2026-11-01), Ikebukuro 3rd (2026-11-05), and Okinawa Chatan (2026-11-30) all matched existing records."
+    },
+    {
+      "source": "Tamagawa Takashimaya S.C. official new-shop page",
+      "url": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+      "checked": "Noble POP UP SHOP (2026-11-03) matched an existing record."
+    },
+    {
+      "source": "Shibuya Scramble Square operator release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000187.000046405.html",
+      "published": "2026-10-20",
+      "checked": "The listed October 28 openings and TENTIAL on December 4 matched existing records."
+    },
+    {
+      "source": "Mitsui Fudosan Commercial Management / Jazz Dream Nagashima release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "published": "2026-10-29",
+      "checked": "Date-confirmed opening/renewal candidates checked against the JSON; records were present. Timberland was stated only as December 2026, with no exact date, so it was not added."
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_values": 0,
+    "opening_date_order": "ascending",
+    "exact_name_date_duplicates": 0,
+    "normalized_name_date_duplicate_groups": [
+      [
+        "レゴ ストア（ジャズドリーム長島・リニューアル）",
+        "レゴ®ストア（ジャズドリーム長島・リニューアル）"
+      ]
+    ]
+  },
+  "unresolved": [
+    "The LEGO Store entries above appear to represent the same Nagashima renewal and date but differ in spelling/category. Preserved both records pending explicit correction decision."
+  ],
+  "errors": [],
+  "automation_status": {
+    "enabled": true,
+    "schedule_changed": false,
+    "next_run_time": "not returned by management data"
+  }
+}
