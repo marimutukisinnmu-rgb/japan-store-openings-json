@@ -8,7 +8,7 @@
     "blob_sha": "6b51d7d312d5dc05283660dd8b9958208e001ff7"
   },
   "changes": {
-    "added": 2,
+    "added": 5,
     "updated": 0,
     "deleted": 0
   },
@@ -21,18 +21,44 @@
       "category": "音楽ソフト・韓国雑貨・生活雑貨（リニューアル）"
     },
     {
+      "name": "つなぐ屋 北小岩店",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-11-02",
+      "category": "買取専門店"
+    },
+    {
       "name": "入間モデル店（アイダ設計・リニューアル）",
       "prefecture": "埼玉県",
       "city": "入間市",
       "opening_date": "2026-11-03",
       "category": "住宅展示場・モデルハウス（リニューアル）"
+    },
+    {
+      "name": "モーリーファンタジー 島忠ホームズ寝屋川店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-11-19",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "のびっこジャンボ 島忠ホームズ寝屋川店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-11-19",
+      "category": "屋内型プレイグラウンド"
     }
   ],
   "source_checks": [
     {
       "source": "CRAVIA株式会社公式発表（PR TIMES配信）",
       "url": "https://prtimes.jp/main/html/rd/p/000000257.000037149.html",
-      "result": "GYOKKODO / ARTBOX ららぽーと湘南平塚店について、2026-10-30開店済み、神奈川県平塚市天沼10番1号を確認。既存JSONに該当レコードなし。新規追加。"
+      "result": "GYOKKODO / ARTBOX ららぽーと湘南平塚店が2026-10-30に開店したこと、神奈川県平塚市天沼10番1号を確認。既存JSONに該当レコードなし。新規追加。"
+    },
+    {
+      "source": "株式会社カイトル公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000072.000174104.html",
+      "result": "つなぐ屋 北小岩店の2026-11-02開店と東京都江戸川区北小岩6丁目16-1を確認。既存JSONに該当レコードなし。新規追加。"
     },
     {
       "source": "アイダ設計公式発表（PR TIMES配信）",
@@ -40,24 +66,29 @@
       "result": "入間モデル店の2026-11-03リニューアルオープンと埼玉県入間市の所在地を確認。既存JSONに該当レコードなし。リニューアルとして新規追加。"
     },
     {
+      "source": "株式会社イオンファンタジー公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001366.000060567.html",
+      "result": "モーリーファンタジー 島忠ホームズ寝屋川店とのびっこジャンボ 島忠ホームズ寝屋川店が2026-11-19に同時開店すること、および大阪府寝屋川市日新町3-15 島忠ホームズ寝屋川店2階を確認。両店とも既存JSONに未登録のため追加。"
+    },
+    {
       "source": "Can★Do公式新店情報",
       "url": "https://www.cando-web.co.jp/news/2026/",
       "result": "11月の新店告知候補を確認。苅田店（2026-11-12）およびDCMニコット羽幌店（2026-11-06）は既存JSONに登録済み。"
     },
     {
-      "source": "住友不動産商業マネジメント公式発表（PR TIMES配信）",
-      "url": "https://prtimes.jp/main/html/rd/p/000000515.000062100.html",
-      "result": "香港飲茶 龍記（有明ガーデン）の2026-11-16開店を確認、既存JSONに登録済み。STREET CHURROS 有明ガーデン店は『2026年11月下旬』とのみ記載され、具体日未確定のため日付形式を推測せず保留。"
-    },
-    {
       "source": "株式会社テンポスホールディングス公式発表（PR TIMES配信）",
       "url": "https://prtimes.jp/main/html/rd/p/000000318.000030130.html",
       "result": "テンポス福岡飯塚店の2026-11-09開店と福岡県飯塚市を確認、既存JSONに登録済み。"
+    },
+    {
+      "source": "住友不動産商業マネジメント公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000515.000062100.html",
+      "result": "香港飲茶 龍記（有明ガーデン）の2026-11-16開店を確認、既存JSONに登録済み。STREET CHURROS 有明ガーデン店は『2026年11月下旬』とのみ記載され、具体日未確定のため日付を推測せず保留。"
     }
   ],
   "after": {
-    "item_count": 1229,
-    "blob_sha": "622cc23fb134188f893b15e1141a3a888a5bb636"
+    "item_count": 1232,
+    "blob_sha": "297fc13497bb68f5569bf72aaa5257f18325b46b"
   },
   "verification": {
     "json_parse": true,
@@ -71,7 +102,7 @@
   },
   "errors": [],
   "unverified": [
-    "STREET CHURROS 有明ガーデン店は公式発表で『2026年11月下旬』まで確認できるが、日付が特定できないため追加保留。",
+    "STREET CHURROS 有明ガーデン店は公式発表で『2026年11月下旬』まで確認できるが、具体的な日付が未発表のため登録保留。",
     "今回の調査は選定した公式情報源に限定され、全国すべての事業者の告知を網羅したものではない。"
   ]
 }
