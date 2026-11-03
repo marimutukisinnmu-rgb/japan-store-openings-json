@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T23:46:09+09:00",
+  "updatetime": "2026-11-04T00:40:44+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4643,6 +4643,13 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-02",
       "category": "アニメ・コミック・ゲームグッズ（催事特化型店舗）"
+    },
+    {
+      "name": "アパホテル〈高崎駅東口〉",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2026-11-02",
+      "category": "ホテル（新規開業）"
     },
     {
       "name": "アパホテルステイ〈小松グランド〉",
