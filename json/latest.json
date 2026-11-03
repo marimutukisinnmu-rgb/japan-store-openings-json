@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T05:39:38+09:00",
+  "updatetime": "2026-11-04T06:41:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5000,6 +5000,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-04",
       "category": "洋菓子店・パティスリー"
+    },
+    {
+      "name": "喃風 姫路手柄店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-04",
+      "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
       "name": "chocoZAP 中須一丁目",
