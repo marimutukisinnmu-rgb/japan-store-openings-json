@@ -1,0 +1,53 @@
+{
+  "run_at": "2026-11-03T12:43:59+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1222,
+    "blob_sha": "13f65fd003cddff2deda47f4e82a685c08f084ad"
+  },
+  "changes": {
+    "added": 0,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [],
+  "source_checks": [
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "検索で確認できた11月6日・12日の新店候補を照合。対象候補はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "POP MART公式発表（沖縄浦添PARCO CITY店・LUCUA SOUTH店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "result": "2026-11-06および2026-11-24の店舗が既存JSONに登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式 しゃぶ葉新店情報",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "result": "しゃぶ葉 岐阜アクティブＧ店（2026-11-27）および池田駅前店（2026-11-29）は既存JSONに登録済み。"
+    },
+    {
+      "source": "ラーメン魁力屋公式 新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店（2026-11-04）は既存JSONに登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1222,
+    "blob_sha": "13f65fd003cddff2deda47f4e82a685c08f084ad"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "latest_refetch": true,
+    "latest_unchanged": true
+  },
+  "errors": [],
+  "unverified": [
+    "調査は選定した公式情報源と検索で得られた候補に限定。全国の全事業者・全告知を網羅したものではない。"
+  ]
+}
