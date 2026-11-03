@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-11-04T00:40:44+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "アパグループ公式ニュースリリース：アパホテル〈高崎駅東口〉",
+      "url": "https://www.apa.co.jp/slide_new/196554",
+      "result": "2026-11-02開業を確認。既存JSONに同店舗・同日レコードがなく、新規追加。所在地はアパホテル公式施設ページで照合。"
+    },
+    {
+      "source": "アパホテル公式施設ページ：高崎駅東口",
+      "url": "https://www.apahotel.com/hotel/syutoken/gunma/takasakieki-higashiguchi/",
+      "result": "群馬県高崎市東町48番地6を確認。都道府県・市区町村をJSONに反映。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "確認した2026-11-04〜11-06の新店候補は既存JSONに登録済み。"
+    },
+    {
+      "source": "ラーメン魁力屋公式新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店（2026-11-04）は既存JSONに登録済み。"
+    },
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Eleanor spa&treatment 郡山店（2026-11-01）、池袋3rd店（2026-11-05）、沖縄北谷店（2026-11-30）は既存JSONに登録済み。"
+    },
+    {
+      "source": "ブルースカイランドリー運営会社発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "発表された2026年11月の10店舗を照合。確認した候補は既存JSONに登録済み。"
+    },
+    {
+      "source": "イオンモール羽生公式リニューアル情報",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "result": "創作オムライス ポムの樹（2026-11-06リニューアル）は既存JSONに登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店（2026-11-24）は既存JSONに登録済み。"
+    }
+  ],
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_count": 1254,
+    "after_count": 1255,
+    "additions": [
+      {
+        "name": "アパホテル〈高崎駅東口〉",
+        "prefecture": "群馬県",
+        "city": "高崎市",
+        "opening_date": "2026-11-02",
+        "category": "ホテル（新規開業）"
+      }
+    ],
+    "corrections": 0,
+    "deletions": 0,
+    "updatetime": "2026-11-04T00:40:44+09:00",
+    "previous_blob_sha": "9ae49a43ce73710e0221c59aee996ef5cf05bc6e",
+    "new_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "commit_sha": "ff0cfe8f2580af06bb8b79626f5ad59930571e3e"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "parsed_json": true,
+    "count_increased_by_one": true,
+    "added_record_found_once": true,
+    "required_fields_present": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "refetched_blob_sha_matches_update_response": true
+  },
+  "errors": [],
+  "unverified": []
+}
