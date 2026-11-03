@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-03T15:45:42+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1225,
+    "blob_sha": "c414c6369043a27cd16d23cbc35deb74c70ddf55"
+  },
+  "changes": {
+    "added": 1,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "BONAVENTURA 丸ビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "レザーグッズ・ファッション雑貨"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "BONAVENTURA株式会社 公式プレスリリース（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000303.000024686.html",
+      "result": "2026-11-03付の会社発表で、BONAVENTURA 丸ビル店が2026-11-03に丸ビル2階（東京都千代田区丸の内2-4-1）に開店と確認。更新前JSONに同名・同日レコードなし。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表（株式会社ジーアイビー）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "2026年11月の新規出店一覧を照合。対象店舗はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店の2026-11-24開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社B.N発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000118492.html",
+      "result": "YOAJUNG 千葉幕張店の2026-11-06開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社MARU公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000196.000046377.html",
+      "result": "月のうさぎのイオンモール川口前川店、2026-11-06開店を確認。既存JSONには代官山Candy appleとの複合/リニューアル表記で登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1226,
+    "blob_sha": "200fa5a79ebad527754ff55297639a37ee9796f0"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "required_fields_and_date_format_valid": true,
+    "old_records_preserved": true,
+    "new_item_found_exactly_once": true,
+    "latest_refetch": true,
+    "write_verified": true,
+    "duplicate_name_date_keys": []
+  },
+  "errors": [],
+  "unverified": [
+    "今回の調査は選定した公式発表・検索候補に限定され、全国の全事業者の告知を網羅したものではない。",
+    "開店日が明示されない情報は推測登録していない。"
+  ]
+}
