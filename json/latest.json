@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T20:47:16+09:00",
+  "updatetime": "2026-11-03T22:40:38+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4603,6 +4603,20 @@
       "category": "まぜそば専門店"
     },
     {
+      "name": "スペラボ 名古屋ドーム前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
+      "name": "Rintosull 帝塚山店",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
       "name": "GARAGE CURRENT 国産名車",
       "prefecture": "神奈川県",
       "city": "横浜市青葉区",
@@ -5191,6 +5205,13 @@
       "category": "牛丼・定食（営業再開）"
     },
     {
+      "name": "ReD 枚方モール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-05",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
       "name": "Acne Studios（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -5723,6 +5744,13 @@
       "category": "中華料理"
     },
     {
+      "name": "ReD イオンモール倉敷店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-11-06",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6057,6 +6085,20 @@
       "city": "京都市下京区",
       "opening_date": "2026-11-11",
       "category": "買取専門店"
+    },
+    {
+      "name": "老祥記（本店リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-11",
+      "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "ゲラン 阪急うめだ本店（HANKYU BEAUTY MAISON）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "フレグランス・スキンケア・トリートメント"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6554,6 +6596,20 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
+    },
+    {
+      "name": "3POKEOSAKA re:Dine大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-16",
+      "category": "ポキボウル専門店"
+    },
+    {
+      "name": "ECOFIT24 植田一本松店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-11-16",
+      "category": "24時間フィットネスジム"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -7137,6 +7193,13 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "ReD 丸ビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7163,6 +7226,13 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-21",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "NOTIME 大分店",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "opening_date": "2026-11-21",
+      "category": "無人古着店"
     },
     {
       "name": "B-SIDE LABEL（LUCUA SOUTH）",
