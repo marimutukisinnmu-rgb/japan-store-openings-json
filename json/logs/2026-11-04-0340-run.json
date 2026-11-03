@@ -1,0 +1,88 @@
+{
+  "run_at": "2026-11-04T03:40:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "candidates_checked": 1,
+      "result": "Eleanor spa&treatment 池袋3rd店（2026-11-05）を確認。既存JSONに同名・同日で登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+      ],
+      "candidates_checked": 2,
+      "result": "POP MART 沖縄浦添PARCO CITY店（2026-11-06）、POP MART LUCUA SOUTH店（2026-11-24）を確認。両件とも既存JSONに登録済み。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "candidates_checked": 13,
+      "result": "公式掲載の11月6日・12日・13日の確認対象13店舗を照合。全件、既存JSONに同名・同日で登録済み。"
+    },
+    {
+      "source": "銀座おのでら公式発表",
+      "url": "https://onodera-group.com/news/7933/",
+      "candidates_checked": 1,
+      "result": "立鮨 銀座おのでら エキュート大宮店（2026-11-13）を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "ビッグ・エー公式新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "candidates_checked": 2,
+      "result": "ビッグ・エー狭山中央店（2026-11-21）、ビッグ・エー清瀬駅北口店（2026-11-28）を確認。両件とも既存JSONに登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式店舗情報",
+      "urls": [
+        "https://store-info.skylark.co.jp/syabuyo/list/",
+        "https://store-info.skylark.co.jp/gusto/list/"
+      ],
+      "candidates_checked": 5,
+      "result": "しゃぶ葉2店舗（11月27日・29日）およびガスト3店舗（11月15日・17日・20日）を照合。全件、既存JSONに登録済み。"
+    },
+    {
+      "source": "キル フェ ボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "candidates_checked": 1,
+      "result": "キル フェ ボン新宿（2026-11-28）を確認。既存JSONに登録済み。"
+    }
+  ],
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_count": 1255,
+    "after_count": 1255,
+    "additions": [],
+    "corrections": 0,
+    "deletions": 0,
+    "updatetime": "2026-11-04T00:40:44+09:00",
+    "previous_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "new_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "commit_sha": null
+  },
+  "verification": {
+    "refetched": true,
+    "parsed_json": true,
+    "count": 1255,
+    "required_fields_missing": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "checked_source_candidates": 25,
+    "source_candidates_matched_existing_records": true,
+    "latest_json_unchanged": true
+  },
+  "automation_status": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "schedule_changed": false
+  },
+  "errors": [],
+  "unverified": [
+    "調査は選定した公式情報源と確認対象に限られ、全国すべての事業者の新店情報を網羅したものではない。",
+    "管理情報から次回実行時刻は取得できなかった。"
+  ]
+}
