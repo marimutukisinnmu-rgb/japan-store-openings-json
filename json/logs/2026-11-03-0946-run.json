@@ -1,0 +1,151 @@
+{
+  "run_at": "2026-11-03T09:46:43+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1202,
+    "updatetime": "2026-11-03T07:39:36+09:00",
+    "blob_sha": "96cfba250dde4f368c64c5e9a8a0a4c7f00ff319",
+    "period": "2026-09-18/2027-01-22"
+  },
+  "changes": {
+    "added": 3,
+    "corrected": 0,
+    "removed": 0,
+    "latest_json_modified": true,
+    "reason": "Three date-confirmed official opening announcements were absent from the existing JSON and were added. Existing records were preserved; month-only announcements were not inferred."
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "scope": "Displayed official entries dated 2026-11-04 through 2026-11-13",
+      "result": "27/27 listed candidates matched existing records by name/date/location. One additional existing record (ローソン Ｓイオンモール京都五条, 2026-11-05) was not present in the current displayed list; retained because absence from the listing alone does not establish an error."
+    },
+    {
+      "source": "Can★Do official store notices",
+      "url": "https://www.cando-web.co.jp/news/store/",
+      "records": [
+        "キャンドゥセレクト Aコープ雄夢店 (2026-11-01)",
+        "キャンドゥセレクト DCMニコット羽幌店 (2026-11-06)",
+        "キャンドゥ 苅田店 (2026-11-12)"
+      ],
+      "result": "All three matched existing records."
+    },
+    {
+      "source": "Eleanor spa&treatment operator release",
+      "url": "https://synra.co.jp/news-005/",
+      "records": [
+        "郡山店 (2026-11-01)",
+        "池袋3rd店 (2026-11-05)",
+        "沖縄北谷店 (2026-11-30)"
+      ],
+      "result": "All date-confirmed records matched existing entries."
+    },
+    {
+      "source": "株式会社イオンファンタジー release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001371.000060567.html",
+      "records": [
+        "クレーン横丁 極 津河芸店 (2026-11-06)"
+      ],
+      "result": "Official exact opening date and Tsu, Mie location confirmed; absent from JSON and added."
+    },
+    {
+      "source": "株式会社イオンファンタジー release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001377.000060567.html",
+      "records": [
+        "クレーン横丁 極 石狩緑苑台店 (2026-11-18)"
+      ],
+      "result": "Official exact opening date and Ishikari, Hokkaido location confirmed; absent from JSON and added."
+    },
+    {
+      "source": "株式会社イオンファンタジー release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001365.000060567.html",
+      "records": [
+        "のびっこ（そよらひたち野うしく） (2026-11-18)"
+      ],
+      "result": "Official exact opening date and Ushiku, Ibaraki location confirmed; absent from JSON and added."
+    },
+    {
+      "source": "株式会社イオン release",
+      "url": "https://prtimes.jp/main/html/rd/p/000006151.000007505.html",
+      "records": [
+        "そよらひたち野うしく (2026-11-18)"
+      ],
+      "result": "Facility opening date confirmed; existing facility record matched. No inferred dates were applied to other tenants."
+    },
+    {
+      "source": "POP MART JAPAN release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "records": [
+        "POP MART LUCUA SOUTH店 (2026-11-24)"
+      ],
+      "result": "Existing record matched."
+    },
+    {
+      "source": "Qu'il fait bon company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "records": [
+        "キル フェ ボン新宿 (2026-11-28)"
+      ],
+      "result": "Existing record matched."
+    }
+  ],
+  "added_items": [
+    {
+      "name": "クレーン横丁 極 津河芸店",
+      "prefecture": "三重県",
+      "city": "津市",
+      "opening_date": "2026-11-06",
+      "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
+      "name": "クレーン横丁 極 石狩緑苑台店",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "opening_date": "2026-11-18",
+      "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
+      "name": "のびっこ（そよらひたち野うしく）",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "屋内型プレイグラウンド"
+    }
+  ],
+  "verification": {
+    "latest_json_refetched": true,
+    "json_parse": "success",
+    "item_count": 1205,
+    "missing_required_fields": 0,
+    "invalid_date_formats": 0,
+    "date_order": "valid",
+    "exact_name_date_duplicates": 0,
+    "additions_found_after_save": true,
+    "saved_blob_sha": "845732392884b273f188621ba47fb7652dde189e",
+    "latest_json_modified": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    {
+      "candidate": "クレーン横丁 極 相模原小山店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001372.000060567.html",
+      "announced_period": "2026年11月下旬（オープン日は後日発表）",
+      "reason": "No exact opening date; not inserted."
+    },
+    {
+      "candidate": "クレーン横丁 極 石和店",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000001370.000060567.html",
+      "announced_period": "2026年12月上旬",
+      "reason": "No exact opening date; not inserted."
+    },
+    {
+      "candidate": "L-MARK町田",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000010.000152391.html",
+      "announced_period": "2026年11月予定・詳細確認中",
+      "reason": "No exact opening date confirmed in this pass; not inserted."
+    }
+  ]
+}
