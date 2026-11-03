@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T10:43:30+09:00",
+  "updatetime": "2026-11-03T11:44:12+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7681,6 +7681,13 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "100円ショップ"
+    },
+    {
+      "name": "パルク ドゥ ベーグ プチ（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "ベーカリー"
     },
     {
       "name": "Bistro IKEDAYAMA",
