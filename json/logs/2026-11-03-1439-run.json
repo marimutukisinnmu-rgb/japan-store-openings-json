@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-11-03T14:39:27+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1224,
+    "blob_sha": "8d46a8faafa65682b1deb360cad61f86af6deca1"
+  },
+  "changes": {
+    "added": 1,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "L-MARK 町田",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-06",
+      "category": "メンズ専門美容室"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "L-MARK公式店舗一覧",
+      "url": "https://l-mark-hair.info/salon/",
+      "result": "公式の新店舗情報欄でL-MARK 町田（東京）の2026-11-06 Open表示を確認。前回の月内予定から具体日付が確認できた。"
+    },
+    {
+      "source": "L-MARK 町田公式店舗ページ",
+      "url": "https://l-mark-hair.info/salon/l-mark-%E7%94%BA%E7%94%B0/",
+      "result": "東京都町田市中町1丁目16-12 エレメンツ町田ビル3Fの所在地を確認。更新前JSONに同名・同日レコードがなく追加。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "閲覧できた11月上旬の掲載候補を照合。確認できた店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "カルディコーヒーファーム公式店舗情報",
+      "url": "https://map.kaldi.co.jp/kaldi/detailMap?accmd=&account=kaldi&bid=614&bsort=4&range=Month&rangeval=0",
+      "result": "新さっぽろサンピアザ店の2026-11-19開店を公式掲載で確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "ラーメン魁力屋公式新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店の2026-11-04開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式新店情報（しゃぶ葉）",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "result": "11月の掲載店舗を照合。確認した店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社イオンファンタジー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001372.000060567.html",
+      "result": "クレーン横丁 極 相模原小山店は2026年11月下旬予定だが、公式発表に具体的な開店日はなく、登録保留。"
+    }
+  ],
+  "after": {
+    "item_count": 1225,
+    "blob_sha": "c414c6369043a27cd16d23cbc35deb74c70ddf55"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "required_fields_and_date_format_valid": true,
+    "old_records_preserved": true,
+    "new_item_found_exactly_once": true,
+    "latest_refetch": true,
+    "write_verified": true
+  },
+  "errors": [],
+  "unverified": [
+    "クレーン横丁 極 相模原小山店は11月下旬予定のみで、具体的な開店日は未発表のため未登録。",
+    "調査は選定した公式情報源と検索で見つかった候補に限定。全国の全事業者・全告知を網羅したものではない。"
+  ]
+}
