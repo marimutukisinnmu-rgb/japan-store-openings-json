@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T13:47:35+09:00",
+  "updatetime": "2026-11-03T14:39:27+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5630,6 +5630,13 @@
       "city": "台東区",
       "opening_date": "2026-11-06",
       "category": "木軸ペン専門店・文具"
+    },
+    {
+      "name": "L-MARK 町田",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-06",
+      "category": "メンズ専門美容室"
     },
     {
       "name": "ASMO academy 霧島国分校",
