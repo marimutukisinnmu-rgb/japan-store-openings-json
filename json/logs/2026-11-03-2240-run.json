@@ -1,0 +1,167 @@
+{
+  "run_at": "2026-11-03T22:40:38+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "before_count": 1243,
+  "added": [
+    {
+      "name": "老祥記（本店リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-11",
+      "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "3POKEOSAKA re:Dine大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-16",
+      "category": "ポキボウル専門店"
+    },
+    {
+      "name": "ECOFIT24 植田一本松店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-11-16",
+      "category": "24時間フィットネスジム"
+    },
+    {
+      "name": "ゲラン 阪急うめだ本店（HANKYU BEAUTY MAISON）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "フレグランス・スキンケア・トリートメント"
+    },
+    {
+      "name": "ReD 丸ビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
+      "name": "ReD 枚方モール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-05",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
+      "name": "ReD イオンモール倉敷店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-11-06",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
+      "name": "スペラボ 名古屋ドーム前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
+      "name": "Rintosull 帝塚山店",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "NOTIME 大分店",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "opening_date": "2026-11-21",
+      "category": "無人古着店"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "after_count": 1253,
+  "sources": [
+    {
+      "name": "老祥記公式発表（本店リニューアル、2026-11-11）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000088216.html"
+    },
+    {
+      "name": "株式会社favy発表（3POKEOSAKA re:Dine大阪店、2026-11-16）",
+      "url": "https://www.value-press.com/pressrelease/383530"
+    },
+    {
+      "name": "ECOFIT24公式発表（植田一本松店、2026-11-16）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000136.000095989.html"
+    },
+    {
+      "name": "ゲラン公式発表（阪急うめだ本店、2026-11-11）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000018096.html"
+    },
+    {
+      "name": "MTG公式発表（ReD 丸ビル・枚方モール・イオンモール倉敷、11月）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001121.000029736.html"
+    },
+    {
+      "name": "UKCorporation公式発表（スペラボ名古屋ドーム前店、2026-11-01）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000873.000062166.html"
+    },
+    {
+      "name": "LAVA International公式発表（Rintosull帝塚山店、2026-11-01）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000036736.html"
+    },
+    {
+      "name": "AVEND公式発表（NOTIME大分店、2026-11-21）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000095644.html"
+    },
+    {
+      "name": "ブルースカイランドリー公式11月10店舗発表（候補10件すべて既存登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "ベネリック公式発表（JUMP SHOP大阪ルクア サウス店、既存登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002266.000022901.html"
+    },
+    {
+      "name": "Juice公式発表（ちいかわパークストア LUCUA SOUTH、既存登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000145.000074811.html"
+    },
+    {
+      "name": "ポプラ社公式発表（MOGUえほんランド、既存登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001326.000031579.html"
+    },
+    {
+      "name": "いーふらん公式発表（高価買取おたからや直方本店、既存登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000472.000080252.html"
+    }
+  ],
+  "verification": {
+    "count": 1253,
+    "expectedCount": 1253,
+    "jsonParsed": true,
+    "datesSorted": true,
+    "requiredFields": true,
+    "exactDuplicateKeys": 0,
+    "shaMatches": true,
+    "blobSha": "5821f85c6d4d5daf86990522a6401c86298f52fa",
+    "updatetime": "2026-11-03T22:40:38+09:00",
+    "addedRecordCounts": {
+      "each": 1,
+      "total": 10
+    }
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者を網羅した調査ではない。",
+    "TON TON BOO（加古川市）と道助商店 janjan 3番通店（江別市）は、今回確認した情報が地域報道・公式SNS告知の引用に基づくため、直接の公式発表を独立確認できず登録保留。"
+  ],
+  "notes": [
+    "既存1,243件を保持し、公式・事業者発表で開店日と所在地を確認できた10件のみ追加。",
+    "更新後にlatest.jsonを再取得し、JSON解析、日付順、重複キー、追加レコード各1件を検証。",
+    "推測による訂正・削除は行っていない。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "next_run_time": null,
+    "latest_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
