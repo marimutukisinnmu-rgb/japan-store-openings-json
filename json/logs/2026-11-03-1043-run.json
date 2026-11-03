@@ -1,0 +1,205 @@
+{
+  "run_at": "2026-11-03T10:43:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1205,
+    "blob_sha": "845732392884b273f188621ba47fb7652dde189e"
+  },
+  "changes": {
+    "added": 16,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "チーズガーデン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "チーズ菓子・カフェ",
+      "source_ref": "turn775264search6",
+      "source_url": "https://cheesegarden.jp/blogs/pick-up/date-aeonmall_261127"
+    },
+    {
+      "name": "月島もんじゃ こてつ イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "もんじゃ焼き",
+      "source_ref": "turn157875view1",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000109"
+    },
+    {
+      "name": "ディッパーダン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "クレープ・タピオカ専門店",
+      "source_ref": "turn157875view0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000108"
+    },
+    {
+      "name": "牛角焼肉食堂 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "焼肉食堂・フードコート",
+      "source_ref": "turn746476search3",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000110"
+    },
+    {
+      "name": "ラーメン魁力屋 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ラーメン",
+      "source_ref": "turn746476search6",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000047"
+    },
+    {
+      "name": "スマートクール イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スマートフォン修理・受付",
+      "source_ref": "turn483037view0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list?es=07"
+    },
+    {
+      "name": "GO NUTTS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・アパレル",
+      "source_ref": "turn746476search8",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000004"
+    },
+    {
+      "name": "おしゃれ工房 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "洋服のお直し",
+      "source_ref": "turn347879search8",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000107"
+    },
+    {
+      "name": "イオンフィナンシャルサービス イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "金融サービス・相談窓口",
+      "source_ref": "turn487397search3",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    },
+    {
+      "name": "a.v.v イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・アパレル",
+      "source_ref": "turn487397search3",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    },
+    {
+      "name": "Zoff イオンモール伊達店（仮称）",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "メガネ・アイウェア",
+      "source_ref": "turn347879search4",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000012"
+    },
+    {
+      "name": "SANYO Style STORE PLUS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・セレクトショップ",
+      "source_ref": "turn638974search4",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    },
+    {
+      "name": "好日山荘 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "登山・アウトドア用品",
+      "source_ref": "turn859763search0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000113"
+    },
+    {
+      "name": "サーティワンアイスクリーム イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "アイスクリーム",
+      "source_ref": "turn165815view0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    },
+    {
+      "name": "ユザワヤ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "手芸用品",
+      "source_ref": "turn165815view0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    },
+    {
+      "name": "Can★Do(キャンドゥ) イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "100円ショップ",
+      "source_ref": "turn165815view0",
+      "source_url": "https://date-saiyo.aeonmall.com/job/-/info/list"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "ローソン公式 新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "2026-11-04〜2026-11-13の27件を照合し、すべて既存JSONに一致。2026-11-01の掲載分も既存登録を確認。",
+      "source_ref": "turn133858view0"
+    },
+    {
+      "source": "イオンモール伊達 採用公式サイト（店舗別募集情報）",
+      "url": "https://date-saiyo.aeonmall.com/job/-/info/list",
+      "result": "各店舗の募集ページに明記された2026-11-27開店日を確認し、既存未登録の16店舗を追加。施設の開業日から個別店舗の日付を推定していない。"
+    },
+    {
+      "source": "チーズガーデン公式発表",
+      "url": "https://cheesegarden.jp/blogs/pick-up/date-aeonmall_261127",
+      "result": "2026-11-27開店を直接確認。",
+      "source_ref": "turn775264search6"
+    }
+  ],
+  "not_added_or_unconfirmed": [
+    "イオンモール伊達の他の出店候補は、募集ページが『2026年下期』『11月』のみ、またはオープニング募集のみで日付を特定できないため、推定登録せず保留。",
+    "イオンモール伊達の総合インフォメーションカウンターは2026-11-27の記載を確認したが、店舗テナントではなく施設内案内窓口として今回の店舗リスト対象から除外。"
+  ],
+  "verification": {
+    "post_write_refetch": true,
+    "json_parse": true,
+    "after_item_count": 1221,
+    "after_blob_sha": "f9cdb1e8281b6c03eb3ad8e9a2cc589e4f5c0c71",
+    "all_16_added_items_present": true,
+    "date_sorted": true,
+    "missing_required_fields": 0,
+    "duplicate_name_date_pairs": 0
+  },
+  "github": {
+    "commit_sha": "469da9d3aa86c92384f82c4fba29835d56877507",
+    "save_error": null
+  },
+  "errors": [],
+  "automation_state_check": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
