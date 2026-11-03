@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T22:40:38+09:00",
+  "updatetime": "2026-11-03T23:46:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4470,6 +4470,13 @@
       "category": "マシンピラティススタジオ"
     },
     {
+      "name": "Rintosull 帝塚山店",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "opening_date": "2026-11-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
       "name": "STUDIO IVY 東三国店",
       "prefecture": "大阪府",
       "city": "大阪市淀川区",
@@ -4503,6 +4510,13 @@
       "city": "紋別郡雄武町",
       "opening_date": "2026-11-01",
       "category": "100円ショップ"
+    },
+    {
+      "name": "スペラボ 名古屋ドーム前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-01",
+      "category": "トランクルーム・レンタル収納"
     },
     {
       "name": "スマイルホテルプレミアム鳥取",
@@ -4601,20 +4615,6 @@
       "city": "柏市",
       "opening_date": "2026-11-01",
       "category": "まぜそば専門店"
-    },
-    {
-      "name": "スペラボ 名古屋ドーム前店",
-      "prefecture": "愛知県",
-      "city": "名古屋市千種区",
-      "opening_date": "2026-11-01",
-      "category": "トランクルーム・レンタル収納"
-    },
-    {
-      "name": "Rintosull 帝塚山店",
-      "prefecture": "大阪府",
-      "city": "大阪市住之江区",
-      "opening_date": "2026-11-01",
-      "category": "マシンピラティススタジオ"
     },
     {
       "name": "GARAGE CURRENT 国産名車",
@@ -5023,6 +5023,13 @@
       "category": "文具・雑貨"
     },
     {
+      "name": "ReD 枚方モール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-05",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
       "name": "WORKMAN Plus まえばし赤城モール店",
       "prefecture": "群馬県",
       "city": "前橋市",
@@ -5091,6 +5098,13 @@
       "city": "横浜市鶴見区",
       "opening_date": "2026-11-05",
       "category": "家電量販店"
+    },
+    {
+      "name": "はま寿司 岡山西市店",
+      "prefecture": "岡山県",
+      "city": "岡山市南区",
+      "opening_date": "2026-11-05",
+      "category": "回転寿司"
     },
     {
       "name": "ブルースカイランドリー ラ・ムー福崎店",
@@ -5203,13 +5217,6 @@
       "city": "北区",
       "opening_date": "2026-11-05",
       "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "ReD 枚方モール店",
-      "prefecture": "大阪府",
-      "city": "枚方市",
-      "opening_date": "2026-11-05",
-      "category": "リカバリーウェア・アパレル"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -5343,6 +5350,13 @@
       "city": "岡山市北区",
       "opening_date": "2026-11-06",
       "category": "スクイーズ専門店・ホビーショップ"
+    },
+    {
+      "name": "ReD イオンモール倉敷店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-11-06",
+      "category": "リカバリーウェア・アパレル"
     },
     {
       "name": "ROOT — GARMENTS and OBJECTS（渋谷PARCO）",
@@ -5744,13 +5758,6 @@
       "category": "中華料理"
     },
     {
-      "name": "ReD イオンモール倉敷店",
-      "prefecture": "岡山県",
-      "city": "倉敷市",
-      "opening_date": "2026-11-06",
-      "category": "リカバリーウェア・アパレル"
-    },
-    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6066,6 +6073,13 @@
       "category": "期間限定ポップアップ（ファッション）"
     },
     {
+      "name": "ゲラン 阪急うめだ本店（HANKYU BEAUTY MAISON）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "フレグランス・スキンケア・トリートメント"
+    },
+    {
       "name": "フードマーケット マム 小土店",
       "prefecture": "静岡県",
       "city": "焼津市",
@@ -6092,13 +6106,6 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
-    },
-    {
-      "name": "ゲラン 阪急うめだ本店（HANKYU BEAUTY MAISON）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-11",
-      "category": "フレグランス・スキンケア・トリートメント"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6549,6 +6556,20 @@
       "category": "ファミリーレストラン"
     },
     {
+      "name": "3POKEOSAKA re:Dine大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-16",
+      "category": "ポキボウル専門店"
+    },
+    {
+      "name": "ECOFIT24 植田一本松店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-11-16",
+      "category": "24時間フィットネスジム"
+    },
+    {
       "name": "ITTO個別指導学院 江曽島校（移転開校）",
       "prefecture": "栃木県",
       "city": "宇都宮市",
@@ -6596,20 +6617,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
-    },
-    {
-      "name": "3POKEOSAKA re:Dine大阪店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-16",
-      "category": "ポキボウル専門店"
-    },
-    {
-      "name": "ECOFIT24 植田一本松店",
-      "prefecture": "愛知県",
-      "city": "名古屋市天白区",
-      "opening_date": "2026-11-16",
-      "category": "24時間フィットネスジム"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -7018,6 +7025,13 @@
       "category": "キャラクターグッズ・雑貨（常設店）"
     },
     {
+      "name": "ReD 丸ビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
       "name": "THE GUNDAM BASE SHIBUYA",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7193,13 +7207,6 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
-      "name": "ReD 丸ビル店",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-20",
-      "category": "リカバリーウェア・アパレル"
-    },
-    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7214,6 +7221,13 @@
       "category": "シューズ・アウトドア"
     },
     {
+      "name": "NOTIME 大分店",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "opening_date": "2026-11-21",
+      "category": "無人古着店"
+    },
+    {
       "name": "ビッグ・エー狭山中央店",
       "prefecture": "埼玉県",
       "city": "狭山市",
@@ -7226,13 +7240,6 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-21",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "NOTIME 大分店",
-      "prefecture": "大分県",
-      "city": "大分市",
-      "opening_date": "2026-11-21",
-      "category": "無人古着店"
     },
     {
       "name": "B-SIDE LABEL（LUCUA SOUTH）",
