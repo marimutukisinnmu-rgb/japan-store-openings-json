@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T00:40:44+09:00",
+  "updatetime": "2026-11-04T04:43:06+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6512,6 +6512,20 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "ファミリーマート 野幌駅前店",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "opening_date": "2026-11-13",
+      "category": "コンビニ（リニューアル）"
+    },
+    {
+      "name": "ガチャガチャの森 FOOD&TIME ISETAN OFUNA店",
+      "prefecture": "神奈川県",
+      "city": "横浜市栄区",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "chocoZAP 白井堀込",
