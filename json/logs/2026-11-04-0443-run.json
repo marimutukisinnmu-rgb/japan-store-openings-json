@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-04T04:43:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "株式会社ルルアークのプレスリリース（ValuePress）：ガチャガチャの森 FOOD&TIME ISETAN OFUNA店",
+      "url": "https://www.value-press.com/pressrelease/383642",
+      "result": "2026-11-13オープン、神奈川県横浜市栄区笠間2丁目2-1 FOOD&TIME ISETAN OFUNA 2Fを確認。既存JSONに同名・同日レコードがなく追加。"
+    },
+    {
+      "source": "えべつイン（現地掲示のお知らせを確認した地域情報記事）および野幌駅前店の求人情報",
+      "url": "https://ebetsu.in/modules/d3pipes2/",
+      "corroborating_url": "https://toranet.jp/viewjob/46c5b311ad3c1642/",
+      "result": "ファミリーマート野幌駅前店の2026-11-13リニューアル予定、所在地北海道江別市野幌町35-16を確認。記事は店頭掲示、求人情報も同日を案内。既存JSONに同名・同日レコードがなく追加。公式企業発表そのものではないため、情報源の性質をログに明記。"
+    },
+    {
+      "source": "ココリア多摩センター公式ニュースおよび地域報道",
+      "url": "https://cocolia-tamacenter.com/news/",
+      "corroborating_url": "https://tamapon.com/2026/11/03/kaihoumaru-tama/",
+      "result": "海宝丸は施設公式では『11月上旬』までの記載。地域報道は11月6日予定とするが、公式の具体日確認ができないため今回のJSONには追加せず、未確認として保留。"
+    },
+    {
+      "source": "スシロー新さっぽろデュオ店の開店候補（地域報道・公式求人情報の引用）",
+      "url": "https://ebetsunopporo.com/?p=57601",
+      "result": "2026年12月下旬予定との情報を確認。具体的な開店日が未確定のため追加せず、未確認として保留。"
+    }
+  ],
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_count": 1255,
+    "after_count": 1257,
+    "additions": [
+      {
+        "name": "ファミリーマート 野幌駅前店",
+        "prefecture": "北海道",
+        "city": "江別市",
+        "opening_date": "2026-11-13",
+        "category": "コンビニ（リニューアル）"
+      },
+      {
+        "name": "ガチャガチャの森 FOOD&TIME ISETAN OFUNA店",
+        "prefecture": "神奈川県",
+        "city": "横浜市栄区",
+        "opening_date": "2026-11-13",
+        "category": "カプセルトイ専門店"
+      }
+    ],
+    "corrections": 0,
+    "deletions": 0,
+    "updatetime": "2026-11-04T04:43:06+09:00",
+    "previous_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "new_blob_sha": "1a17d21eebe51a772d5cfe868e5cd371986fcc15",
+    "commit_sha": "d981c3af2607f2ddc32bd204c2e5c914de4c338e"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "parsed_json": true,
+    "count_increased_by_two": true,
+    "each_added_record_found_once": true,
+    "required_fields_present": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "refetched_blob_sha_matches_update_response": true
+  },
+  "errors": [],
+  "unverified": [
+    "海宝丸 ココリア多摩センター店：施設公式は11月上旬とだけ記載。11月6日は地域報道由来で、公式の具体日を独立確認できず保留。",
+    "スシロー 新さっぽろデュオ店：12月下旬予定だが具体日未確定のため保留。"
+  ]
+}
