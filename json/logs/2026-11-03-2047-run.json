@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-03T20:47:16+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "before_count": 1241,
+  "added": [
+    {
+      "name": "ミスタードーナツ 荻窪西口ショップ",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ・飲食店"
+    },
+    {
+      "name": "ミスタードーナツ 岡山津高ショップ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ・飲食店"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "after_count": 1243,
+  "sources": [
+    {
+      "name": "ミスタードーナツ公式店舗検索（荻窪西口ショップ。11月上旬予定）",
+      "url": "https://md.mapion.co.jp/b/misterdonut/info/2178/"
+    },
+    {
+      "name": "号外NET 杉並区（11月6日予定・所在地。求人情報を根拠に報道）",
+      "url": "https://suginami.goguynet.jp/2026/09/15/misterdonut-ogikubo/"
+    },
+    {
+      "name": "号外NET 岡山市（施設公式Instagram告知を紹介）",
+      "url": "https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/08/25/every-okanakatsudaka/"
+    },
+    {
+      "name": "おにさんぽ（施設公式Instagram告知と出店日を照合）",
+      "url": "https://onisanpo.com/open/107316/"
+    }
+  ],
+  "verification": {
+    "count": 1243,
+    "expectedCount": 1243,
+    "jsonParsed": true,
+    "datesSorted": true,
+    "requiredFields": true,
+    "additions": [
+      {
+        "name": "ミスタードーナツ 荻窪西口ショップ",
+        "date": "2026-11-06",
+        "count": 1
+      },
+      {
+        "name": "ミスタードーナツ 岡山津高ショップ",
+        "date": "2026-11-06",
+        "count": 1
+      }
+    ],
+    "shaMatches": true,
+    "blobSha": "65b848f549692fd3fb5f04cbd0f01f2a2db9a74e",
+    "commitSha": "0c4b41e41321575939b96b5cf8be23405a7571f5",
+    "updatetime": "2026-11-03T20:47:16+09:00"
+  },
+  "errors": [],
+  "unverified": [
+    "荻窪西口ショップの公式店舗検索は「11月上旬予定」とし、日付を11月6日とする情報は地域報道（求人情報を根拠）で確認。公式ページに日付の明記はないため、予定日の変更可能性は残る。"
+  ]
+}
