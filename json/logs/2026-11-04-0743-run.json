@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-04T07:43:50+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_change",
+  "source_check": {
+    "primary": [
+      {
+        "name": "ローソン公式 新店舗情報（近畿・関東・中部）",
+        "url": "https://www.lawson.co.jp/newstore/smt/kinki.html",
+        "finding": "公式ページに掲載された11月4日〜13日の店舗候補を照合。確認対象の店舗は既存JSONに登録済み。"
+      },
+      {
+        "name": "ゆで太郎システム公式 新着情報",
+        "url": "https://yudetaro.jp/news/",
+        "finding": "利府店（11月4日）、環七鹿浜店（11月6日）、田川店（11月25日）、久御山店（11月27日）の候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "すかいらーくグループ公式 バーミヤン新店情報",
+        "url": "https://store-info.skylark.co.jp/bamiyan/list/",
+        "finding": "大宮駅東口店・イオンモール伊達店（11月27日）、広島アルパーク店（11月29日）は既存JSONに登録済み。"
+      },
+      {
+        "name": "ビッグ・エー公式 新店情報",
+        "url": "https://www.biga.co.jp/newshop/",
+        "finding": "狭山中央店（11月21日）、清瀬駅北口店（11月28日）は既存JSONに登録済み。"
+      }
+    ],
+    "corroboration": [
+      {
+        "name": "猿田彦珈琲公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000220.000027005.html",
+        "finding": "皇居東御苑店（11月3日開店）は既存JSONに登録済み。"
+      },
+      {
+        "name": "ヤマチユナイテッド公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000206.000019420.html",
+        "finding": "RootS & BAKERY（11月4日開店）は既存JSONに登録済み。"
+      },
+      {
+        "name": "サイプレス・ホールディングス公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+        "finding": "築地食堂 源ちゃん イオンモール伊達店（11月27日）は既存JSONに登録済み。"
+      }
+    ]
+  },
+  "before": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "items": []
+  },
+  "after": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "json_parse": "success",
+    "chronological_order": true,
+    "required_fields_missing": 0,
+    "duplicate_keys": 0,
+    "added_records_found": 0,
+    "blob_sha_unchanged": true,
+    "errors": []
+  },
+  "unconfirmed": [
+    "今回照合した選定情報源の範囲外にある全国の事業者・発表は網羅できていない。"
+  ],
+  "automation_status": {
+    "checked": "peek",
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "next_run_time": null,
+    "latest_run_recorded_status": "in_progress",
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  }
+}
