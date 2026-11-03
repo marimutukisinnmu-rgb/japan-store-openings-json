@@ -1,0 +1,140 @@
+{
+  "run_at": "2026-11-03T19:43:20+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "before_count": 1234,
+  "added": [
+    {
+      "name": "ワールドプラスジム坂戸店",
+      "prefecture": "埼玉県",
+      "city": "坂戸市",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル・名称変更）"
+    },
+    {
+      "name": "エニタイムフィットネス広尾高校前店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "らかんスタジオ Finelight 前橋店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-02",
+      "category": "フォトスタジオ"
+    },
+    {
+      "name": "京菓子處 鼓月 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-04",
+      "category": "和菓子・京菓子"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ期間限定ショップ（エミフルMASAKI）",
+      "prefecture": "愛媛県",
+      "city": "伊予郡松前町",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ（期間限定ショップ）"
+    },
+    {
+      "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-07",
+      "category": "韓国料理（期間限定POPUP）"
+    },
+    {
+      "name": "冷麺toカルビ（京都・木屋町）",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "opening_date": "2026-12-21",
+      "category": "韓国料理店（日本初出店）"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "after_count": 1241,
+  "sources": [
+    {
+      "name": "株式会社ワールドプラス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000110917.html"
+    },
+    {
+      "name": "株式会社Fast Fitness Japan公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000420.000134689.html"
+    },
+    {
+      "name": "株式会社らかんスタジオ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000102.000087871.html"
+    },
+    {
+      "name": "株式会社鼓月公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000245.000008274.html"
+    },
+    {
+      "name": "エミフルMASAKI公式イベント情報",
+      "url": "https://www.emifull.jp/event_news/event/2026/11/030072.html"
+    },
+    {
+      "name": "合同会社ロチャ公式発表（冷麺toカルビ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000193023.html"
+    }
+  ],
+  "verification": {
+    "count": 1241,
+    "expectedCount": 1241,
+    "jsonParsed": true,
+    "datesSorted": true,
+    "requiredFields": true,
+    "additions": [
+      {
+        "name": "ワールドプラスジム坂戸店",
+        "date": "2026-11-01",
+        "count": 1
+      },
+      {
+        "name": "エニタイムフィットネス広尾高校前店",
+        "date": "2026-11-01",
+        "count": 1
+      },
+      {
+        "name": "らかんスタジオ Finelight 前橋店",
+        "date": "2026-11-02",
+        "count": 1
+      },
+      {
+        "name": "京菓子處 鼓月 神戸阪急店",
+        "date": "2026-11-04",
+        "count": 1
+      },
+      {
+        "name": "クリスピー・クリーム・ドーナツ期間限定ショップ（エミフルMASAKI）",
+        "date": "2026-11-06",
+        "count": 1
+      },
+      {
+        "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
+        "date": "2026-11-07",
+        "count": 1
+      },
+      {
+        "name": "冷麺toカルビ（京都・木屋町）",
+        "date": "2026-12-21",
+        "count": 1
+      }
+    ],
+    "shaMatches": true,
+    "blobSha": "e2deca01ac5a72ccc2afe25cb30316fb5c456faf",
+    "commitSha": "10f34db52cc510d06a3d7ad84404f5ca7d4bdfb6",
+    "updatetime": "2026-11-03T19:43:20+09:00"
+  },
+  "errors": [],
+  "unverified": [
+    "買取専科 マックスバリュ瓢箪山店：公式発表は「11月下旬頃」で具体日未確定のため登録保留。",
+    "富貴包子楼 ゆめタウン大牟田催事：二次情報で日程を確認したが、公式イベントページで独立確認できず登録保留。",
+    "とんかつ栄ちゃん移転：11月下旬予定のみで具体日未確認のため登録保留。"
+  ]
+}
