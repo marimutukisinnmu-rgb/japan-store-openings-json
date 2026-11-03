@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-03T21:44:58+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "before_count": 1243,
+  "added": [],
+  "corrected": [],
+  "deleted": [],
+  "after_count": 1243,
+  "sources": [
+    {
+      "name": "ローソン公式 新店情報（2026年11月1日〜13日掲載分。確認した28店舗はすべて既存JSONに一致）",
+      "url": "https://www.lawson.co.jp/newstore/smt/"
+    },
+    {
+      "name": "Can★Do公式 2026年お知らせ（11月1日・6日・12日候補を照合。登録済み）",
+      "url": "https://www.cando-web.co.jp/news/2026/"
+    },
+    {
+      "name": "SYNRA GROUP公式 Eleanor spa&treatment 秋の新店発表（郡山・池袋3rd・沖縄北谷。登録済み）",
+      "url": "https://synra.co.jp/news-005/"
+    },
+    {
+      "name": "ゆで太郎システム公式 新着情報（もつ次郎併設4店舗。登録済み）",
+      "url": "https://yudetaro.jp/news/"
+    },
+    {
+      "name": "グランベリーパーク公式 2026 Autumn新店情報（COHINA・マーガレット・ハウエル A.G.O.など。登録済み）",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    },
+    {
+      "name": "VENEX公式 neverbetter開店発表（2026年11月15日。登録済み）",
+      "url": "https://venex-j.co.jp/news/detail/1030.html"
+    },
+    {
+      "name": "キルフェボン公式 キル フェ ボン新宿開店発表（2026年11月28日。登録済み）",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（LUCUA SOUTH店、2026年11月24日。登録済み）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    }
+  ],
+  "verification": {
+    "count": 1243,
+    "expectedCount": 1243,
+    "jsonParsed": true,
+    "datesSorted": true,
+    "requiredFields": true,
+    "exactDuplicateKeys": 0,
+    "shaMatches": true,
+    "blobSha": "65b848f549692fd3fb5f04cbd0f01f2a2db9a74e",
+    "updatetime": "2026-11-03T20:47:16+09:00",
+    "candidateChecks": [
+      {
+        "source": "Lawson official",
+        "checked": 28,
+        "missing": 0
+      },
+      {
+        "source": "Can★Do official",
+        "checked": 3,
+        "missing": 0
+      },
+      {
+        "source": "SYNRA GROUP official",
+        "checked": 3,
+        "missing": 0
+      },
+      {
+        "source": "Yudetaro official",
+        "checked": 4,
+        "missing": 0
+      },
+      {
+        "source": "Grandberry Park official",
+        "checked": 2,
+        "missing": 0
+      },
+      {
+        "source": "VENEX official",
+        "checked": 1,
+        "missing": 0
+      },
+      {
+        "source": "Quil Fait Bon official",
+        "checked": 1,
+        "missing": 0
+      },
+      {
+        "source": "POP MART JAPAN official",
+        "checked": 1,
+        "missing": 0
+      }
+    ]
+  },
+  "errors": [],
+  "unverified": [
+    "照合は今回確認した公開公式情報源に限る。全国すべての事業者・全店舗を網羅したものではない。",
+    "最新JSONのupdatetimeはデータ変更がなかったため更新していない。"
+  ],
+  "notes": [
+    "公式情報で確認した候補はすべて既存JSONに登録済み。推測による追加・訂正・削除は行っていない。",
+    "no-change run: latest.json was intentionally not rewritten."
+  ]
+}
