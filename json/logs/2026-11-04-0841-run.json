@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-11-04T08:41:39+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_change",
+  "source_check": {
+    "primary": [
+      {
+        "name": "ブルースカイランドリー 2026年11月新規出店発表（運営会社）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+        "finding": "11月の10店舗を既存JSONと照合。全10店舗が登録済み。"
+      },
+      {
+        "name": "セカンドリテイリング 11月新規出店一覧（流通ニュース）",
+        "url": "https://www.ryutsuu.biz/store/s102945.html",
+        "finding": "国内9店舗を既存JSONと照合し、全9店舗が登録済み。海外3店舗は国内対象外。"
+      },
+      {
+        "name": "WR.Yoyogi Park 開店発表（運営会社SAL）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+        "finding": "2026-11-06開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "ノジマ ホームズ新川崎店 開店発表（ノジマ）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+        "finding": "2026-11-05開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "VINTAGE QOO TOKYO AOYAMA 開店発表（GTホールディングス／PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+        "finding": "2026-11-16開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "Japan Blue Jeans SHIBUYA PARCO 開店発表（株式会社ジャパンブルー）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000015.000112208.html",
+        "finding": "2026-11-20開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "Guzman y Gomez 西新宿店 開店発表（運営会社）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000498.000040062.html",
+        "finding": "2026-11-28開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "POP MART LUCUA SOUTH店 開店発表（POP MART JAPAN）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "finding": "2026-11-24開店候補は既存JSONに登録済み。"
+      },
+      {
+        "name": "キル フェ ボン新宿 開店発表（キルフェボン株式会社）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+        "finding": "2026-11-28開店候補は既存JSONに登録済み。"
+      }
+    ],
+    "corroboration": [
+      {
+        "name": "ラーメン魁力屋 公式新店舗情報",
+        "url": "https://www.kairikiya.co.jp/news/grandopen",
+        "finding": "長野平林店（2026-11-04）は既存JSONに登録済み。"
+      }
+    ]
+  },
+  "before": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "items": []
+  },
+  "after": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "json_parse": "success",
+    "chronological_order": true,
+    "required_fields_missing": 0,
+    "duplicate_keys": 0,
+    "all_keys_unique": true,
+    "added_records_found": 0,
+    "blob_sha_unchanged": true,
+    "errors": []
+  },
+  "unconfirmed": [
+    "選定した情報源と候補の範囲に限る調査であり、全国すべての事業者の発表を網羅していない。"
+  ],
+  "automation_status": {
+    "checked": "peek",
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "next_run_time": null,
+    "latest_run_recorded_status": "in_progress",
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  }
+}
