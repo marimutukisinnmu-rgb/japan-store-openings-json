@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-11-03T13:47:35+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1222,
+    "blob_sha": "13f65fd003cddff2deda47f4e82a685c08f084ad"
+  },
+  "changes": {
+    "added": 2,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "ハンズ あべのキューズモール店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨・DIY用品（リニューアル）"
+    },
+    {
+      "name": "島田小割製材所（2k540）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-06",
+      "category": "木軸ペン専門店・文具"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "株式会社ハンズ公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000758.000070824.html",
+      "result": "ハンズ あべのキューズモール店の2026-11-06リニューアルと大阪市阿倍野区の所在地を確認。更新前JSONに同名・同日レコードがなく追加。"
+    },
+    {
+      "source": "2k540 AKI-OKA ARTISAN（ジェイアール東日本都市開発）公式案内",
+      "url": "https://www.jrtk.jp/2k540/info/detail_00549/",
+      "result": "島田小割製材所の2026-11-06開店、東京都台東区上野5-9-23（2k540 J-1区画）を確認。更新前JSONに同名・同日レコードがなく追加。"
+    },
+    {
+      "source": "島田小割製材所 公式サイト",
+      "url": "https://shimada-kowari.co.jp/",
+      "result": "事業者側の告知でも2026-11-06の新店舗開店を照合。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "閲覧できた11月上旬の掲載候補を既存JSONと照合。追加対象は確認されず。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "2026年11月の10店舗を照合。確認した店舗はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式新店情報",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "result": "掲載されている11月の新店候補を照合。確認した店舗はすべて既存JSONに登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1224,
+    "blob_sha": "8d46a8faafa65682b1deb360cad61f86af6deca1"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "new_items_found_exactly_once": true,
+    "latest_refetch": true,
+    "write_verified": true
+  },
+  "errors": [],
+  "unverified": [
+    "今回の確認は選定した公式情報源と検索で見つかった候補に限定。全国の全事業者・全告知を網羅したものではない。"
+  ]
+}
