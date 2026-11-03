@@ -1,0 +1,57 @@
+{
+  "run_at": "2026-11-04T01:46:05+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "確認した11月4日〜6日開店候補を既存JSONと照合。該当候補はすべて登録済み。"
+    },
+    {
+      "source": "ゆで太郎システム公式新着情報",
+      "url": "https://yudetaro.jp/news/",
+      "result": "利府店（もつ次郎併設、2026-11-04）、環七鹿浜店（2026-11-06）、田川店（2026-11-25）、久御山店（2026-11-27）を確認。全件既存JSONに登録済み。"
+    },
+    {
+      "source": "ノジマ公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "result": "ノジマ ホームズ新川崎店（2026-11-05）を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "セカンドリテイリンググループ公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "2026年11月国内出店候補を照合。確認した9店舗はすべて既存JSONに登録済み。海外出店は全国国内データの対象外として追加せず。"
+    },
+    {
+      "source": "ラーメン魁力屋公式新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店（2026-11-04）を確認。既存JSONに登録済み。"
+    }
+  ],
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_count": 1255,
+    "after_count": 1255,
+    "additions": [],
+    "corrections": 0,
+    "deletions": 0,
+    "updatetime": "2026-11-04T00:40:44+09:00",
+    "previous_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "new_blob_sha": "1fb9f288996806146eafc6e033a8ed85a750d3a2",
+    "commit_sha": null
+  },
+  "verification": {
+    "current_file_refetched": true,
+    "parsed_json": true,
+    "count_unchanged": true,
+    "required_fields_present": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "source_candidates_matched_existing_records": true,
+    "latest_json_unchanged": true
+  },
+  "errors": [],
+  "unverified": [
+    "今回の調査は選定した公式情報源に限られ、全国すべての事業者の新店情報を網羅したものではない。"
+  ]
+}
