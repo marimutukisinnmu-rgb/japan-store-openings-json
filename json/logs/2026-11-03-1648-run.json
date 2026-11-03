@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-03T16:48:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1226,
+    "blob_sha": "200fa5a79ebad527754ff55297639a37ee9796f0"
+  },
+  "changes": {
+    "added": 1,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "Sansanピックルボールコート池袋（3F増設）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-15",
+      "category": "スポーツ施設（ピックルボールコート増設）"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Sansan株式会社の公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000900.000049627.html",
+      "result": "Sansanピックルボールコート池袋の3階フロア増設について、2026-11-15営業開始予定と所在地（東京都豊島区東池袋4-27-10 サンソウゴ池袋ビル3F）を確認。既存JSONに当該3F増設レコードなし。元施設は2026-07-10開業済みのため、新規施設ではなく増設として記録。"
+    },
+    {
+      "source": "株式会社セカンドリテイリング公式発表（PR TIMES配信・店舗一覧画像）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "2026年11月の新規出店12店舗の一覧を確認。国内掲載分は全件既存JSONに登録済み。海外店舗は全国JSONの対象外。"
+    },
+    {
+      "source": "GTホールディングス／株式会社エイト公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+      "result": "VINTAGE QOO TOKYO AOYAMAの2026-11-16開店と東京都渋谷区神宮前5-50-3の所在地を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Eleanor spa&treatment 沖縄北谷店の2026-11-30開店予定と沖縄県中頭郡北谷町の所在地を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "掲載中の11月上旬〜中旬の新店候補を照合。今回確認した店舗は既存JSONに登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1227,
+    "blob_sha": "6b51d7d312d5dc05283660dd8b9958208e001ff7"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "required_fields_and_date_format_valid": true,
+    "old_records_preserved": true,
+    "new_item_found_exactly_once": true,
+    "latest_refetch": true,
+    "write_verified": true,
+    "duplicate_name_date_keys": []
+  },
+  "errors": [],
+  "unverified": [
+    "Sansanピックルボールコート池袋3Fの営業開始日は公式発表上「予定」であり、後日変更される可能性がある。",
+    "今回の調査は選定した公式情報源に限定され、全国すべての事業者の告知を網羅したものではない。"
+  ]
+}
