@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-03T23:46:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "はま寿司公式店舗情報：岡山西市店",
+      "url": "https://maps.hama-sushi.co.jp/jp/detail/6634.html",
+      "result": "2026-11-05 OPEN・所在地 岡山県岡山市南区西市305-5 を確認。既存未登録のため追加。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "掲載中の2026年11月4日〜13日の候補を既存JSONと照合。確認した候補は登録済み。"
+    },
+    {
+      "source": "ラーメン魁力屋公式新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店（2026-11-04）は登録済み。"
+    },
+    {
+      "source": "すかいらーく公式店舗検索・しゃぶ葉",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "result": "池田駅前店（2026-11-29）、岐阜アクティブＧ店（2026-11-27）は登録済み。"
+    },
+    {
+      "source": "すかいらーく公式店舗検索・ガスト",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "result": "新潟駅前店（2026-11-15）、そよら飯田アップルロード店（2026-11-17）、イオンモール福岡店（2026-11-20）は登録済み。"
+    },
+    {
+      "source": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Eleanor spa&treatment 池袋3rd店（2026-11-05）、沖縄北谷店（2026-11-30）は登録済み。"
+    },
+    {
+      "source": "VENEX公式発表",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "result": "neverbetter（2026-11-15）は登録済み。"
+    },
+    {
+      "source": "キルフェボン公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "キル フェ ボン新宿（2026-11-28）は登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店（2026-11-24）は登録済み。"
+    }
+  ],
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_count": 1253,
+    "after_count": 1254,
+    "additions": [
+      {
+        "name": "はま寿司 岡山西市店",
+        "prefecture": "岡山県",
+        "city": "岡山市南区",
+        "opening_date": "2026-11-05",
+        "category": "回転寿司"
+      }
+    ],
+    "corrections": 0,
+    "deletions": 0,
+    "updatetime": "2026-11-03T23:46:09+09:00",
+    "previous_blob_sha": "5821f85c6d4d5daf86990522a6401c86298f52fa",
+    "new_blob_sha": "9ae49a43ce73710e0221c59aee996ef5cf05bc6e",
+    "commit_sha": "08bae6d9ab2d5b138c5071955f9ca69548595397"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "parsed_json": true,
+    "count_increased_by_one": true,
+    "added_record_found_once": true,
+    "required_fields_present": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "refetched_blob_sha_matches_update_response": true
+  },
+  "errors": [],
+  "unverified": []
+}
