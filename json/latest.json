@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T14:39:27+09:00",
+  "updatetime": "2026-11-03T15:45:42+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4797,6 +4797,13 @@
       "city": "京都市下京区",
       "opening_date": "2026-11-03",
       "category": "期間限定ポップアップ（キャラクターコラボ・展示）"
+    },
+    {
+      "name": "BONAVENTURA 丸ビル店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "レザーグッズ・ファッション雑貨"
     },
     {
       "name": "MARcourt DESIGNEYE（多摩南大沢）",
