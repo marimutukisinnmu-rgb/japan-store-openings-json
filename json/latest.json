@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T11:44:12+09:00",
+  "updatetime": "2026-11-03T13:47:35+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5616,6 +5616,20 @@
       "city": "津市",
       "opening_date": "2026-11-06",
       "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
+      "name": "ハンズ あべのキューズモール店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨・DIY用品（リニューアル）"
+    },
+    {
+      "name": "島田小割製材所（2k540）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-06",
+      "category": "木軸ペン専門店・文具"
     },
     {
       "name": "ASMO academy 霧島国分校",
