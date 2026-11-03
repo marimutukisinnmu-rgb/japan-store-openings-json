@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T17:39:53+09:00",
+  "updatetime": "2026-11-03T18:44:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6386,6 +6386,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・アパレル・ジュエリー・生活雑貨"
     },
     {
       "name": "chocoZAP 白井堀込",
