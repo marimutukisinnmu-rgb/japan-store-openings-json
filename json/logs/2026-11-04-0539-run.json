@@ -1,0 +1,156 @@
+{
+  "run_at": "2026-11-04T05:39:38+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_check": {
+    "primary": [
+      {
+        "name": "au PAY magazine (KDDI) — セリア11月オープン対象8店舗",
+        "published": "2026-11-02",
+        "url": "https://media.aupay.wallet.auone.jp/articles/5329",
+        "finding": "11月5日・10日・17日・19日・24日・26日・27日・27日の8候補と開店日を掲載。2件は既存登録済み、6件は未登録。"
+      },
+      {
+        "name": "ブルースカイランドリー11月10店舗の運営会社発表",
+        "published": "2026-10-30",
+        "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+        "finding": "11月5日から27日の10店舗を既存JSONと照合し、全件登録済みを確認。"
+      },
+      {
+        "name": "ローソン公式新店舗情報",
+        "url": "https://www.lawson.co.jp/newstore/smt/kinki.html",
+        "finding": "近畿の11月4日から6日候補を照合。登録済み。"
+      },
+      {
+        "name": "ローソン公式新店舗情報（関東）",
+        "url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+        "finding": "関東の11月4日・5日候補を照合。登録済み。"
+      },
+      {
+        "name": "ゆで太郎システム公式新着情報",
+        "url": "https://yudetaro.jp/news/",
+        "finding": "11月4日・6日・25日・27日の候補を照合。登録済み。"
+      },
+      {
+        "name": "POP MART JAPAN公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "finding": "POP MART LUCUA SOUTH店（11月24日）を照合。登録済み。"
+      }
+    ],
+    "corroboration": [
+      {
+        "name": "TRIAL公式・日向店",
+        "url": "https://www.trial-net.co.jp/shops/483/",
+        "finding": "日向市の所在地を確認。Seria公式求人は11月上旬予定、正確な11月10日はKDDIの8店舗一覧に基づく。"
+      },
+      {
+        "name": "マルナカ玉津店・地域報道と求人情報",
+        "url": "https://harimap.com/seria-marunaka-tamatsu-opening-20261117/",
+        "finding": "神戸市西区小山の所在地と11月17日予定を確認。"
+      },
+      {
+        "name": "MEGAドン・キホーテUNY一宮大和店・地域報道",
+        "url": "https://ichinomiya.goguynet.jp/2026/11/02/donkiseria/",
+        "finding": "一宮市の店内掲示に11月19日OPENとある旨を確認。"
+      },
+      {
+        "name": "Seria サンリブ下松店・求人情報",
+        "url": "https://townwork.net/viewjob/jobid_8500c2c605eec783/",
+        "finding": "下松市の住所と11月24日OPEN表示を確認。"
+      },
+      {
+        "name": "Seria イオンモール東員店・求人情報",
+        "url": "https://seria-job.net/jobfind-pc/job/All/27669",
+        "finding": "11月27日OPEN表示を確認。移転リニューアルとして分類。"
+      },
+      {
+        "name": "Seria 島忠ホームズ港北高田店・求人情報",
+        "url": "https://townwork.net/viewjob/jobid_eccaf3b1ca807b34/",
+        "finding": "横浜市港北区の住所と11月27日OPEN表示を確認。"
+      }
+    ]
+  },
+  "before": {
+    "count": 1257,
+    "updatetime": "2026-11-04T04:43:06+09:00",
+    "blob_sha": "1a17d21eebe51a772d5cfe868e5cd371986fcc15"
+  },
+  "changes": {
+    "added": 6,
+    "corrected": 0,
+    "deleted": 0,
+    "items": [
+      {
+        "name": "セリア メガセンタートライアル日向店",
+        "prefecture": "宮崎県",
+        "city": "日向市",
+        "opening_date": "2026-11-10",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "セリア マルナカ玉津店",
+        "prefecture": "兵庫県",
+        "city": "神戸市西区",
+        "opening_date": "2026-11-17",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "セリア MEGAドン・キホーテUNY一宮大和店",
+        "prefecture": "愛知県",
+        "city": "一宮市",
+        "opening_date": "2026-11-19",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "セリア サンリブ下松店",
+        "prefecture": "山口県",
+        "city": "下松市",
+        "opening_date": "2026-11-24",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "セリア イオンモール東員店",
+        "prefecture": "三重県",
+        "city": "員弁郡東員町",
+        "opening_date": "2026-11-27",
+        "category": "100円ショップ（移転リニューアル）"
+      },
+      {
+        "name": "セリア 島忠ホームズ港北高田店",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-11-27",
+        "category": "100円ショップ"
+      }
+    ],
+    "already_registered_from_8_candidate_list": 2
+  },
+  "after": {
+    "count": 1263,
+    "updatetime": "2026-11-04T05:39:38+09:00",
+    "blob_sha": "8c99fd4c863ca557fa9704c691d83e509f118d82"
+  },
+  "verification": {
+    "saved_file_refetched": true,
+    "json_parse": "success",
+    "chronological_order": true,
+    "required_fields_missing": 0,
+    "duplicate_keys": 0,
+    "added_records_found": 6,
+    "errors": []
+  },
+  "unconfirmed": [
+    {
+      "candidate": "セリア メガセンタートライアル日向店",
+      "note": "KDDIの8店舗一覧は11月10日を掲載。セリア求人側の公開表示は『11月上旬』までで、同社の独立した公式ページに日付10日を示す案内は今回未確認。日付はKDDI掲載に基づく。"
+    }
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": "unavailable",
+    "observed_run_status": "in_progress",
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  }
+}
