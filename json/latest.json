@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T07:39:36+09:00",
+  "updatetime": "2026-11-03T09:46:43+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5611,6 +5611,13 @@
       "category": "キャラクターグッズ（期間限定POPUP）"
     },
     {
+      "name": "クレーン横丁 極 津河芸店",
+      "prefecture": "三重県",
+      "city": "津市",
+      "opening_date": "2026-11-06",
+      "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6638,6 +6645,20 @@
       "city": "近江八幡市",
       "opening_date": "2026-11-18",
       "category": "農水産物直売所"
+    },
+    {
+      "name": "クレーン横丁 極 石狩緑苑台店",
+      "prefecture": "北海道",
+      "city": "石狩市",
+      "opening_date": "2026-11-18",
+      "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
+      "name": "のびっこ（そよらひたち野うしく）",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "屋内型プレイグラウンド"
     },
     {
       "name": "chocoZAP 一乗寺向畑",
