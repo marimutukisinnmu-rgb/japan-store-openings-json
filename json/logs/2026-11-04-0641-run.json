@@ -1,0 +1,63 @@
+{
+  "run_at": "2026-11-04T06:41:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_check": {
+    "primary": [
+      {
+        "name": "どろ焼・お好み焼 喃風 公式お知らせ",
+        "published": "2026-11-01",
+        "url": "https://nanpuu.co.jp/news/2885/",
+        "finding": "公式発表で、姫路市延末・カラオケSKY横の喃風姫路手柄店について、当初11月1日予定から工事都合で延期し、11月4日（水）オープンと明記。"
+      }
+    ],
+    "corroboration": [
+      {
+        "name": "姫路の種（現地情報）",
+        "url": "https://budou-chan.jp/nanpuu-tegara-open/",
+        "finding": "所在地が姫路市延末・カラオケSKY付近であることを現地写真付きで紹介。掲載時点の予定日が公式発表前の11月1日だったため、日付は公式の延期告知を優先。"
+      }
+    ]
+  },
+  "before": {
+    "count": 1263,
+    "updatetime": "2026-11-04T05:39:38+09:00",
+    "blob_sha": "8c99fd4c863ca557fa9704c691d83e509f118d82"
+  },
+  "changes": {
+    "added": 1,
+    "corrected": 0,
+    "deleted": 0,
+    "items": [
+      {
+        "name": "喃風 姫路手柄店",
+        "prefecture": "兵庫県",
+        "city": "姫路市",
+        "opening_date": "2026-11-04",
+        "category": "お好み焼き・どろ焼（鉄板焼）"
+      }
+    ]
+  },
+  "after": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "update_commit_sha": "4b7733d590c7e882b7779441813b10c35f961f63",
+  "verification": {
+    "saved_file_refetched": true,
+    "json_parse": "success",
+    "chronological_order": true,
+    "required_fields_missing": 0,
+    "duplicate_keys": 0,
+    "added_records_found": 1,
+    "blob_sha_matches_update_result": true,
+    "errors": []
+  },
+  "unconfirmed": [],
+  "automation_status": {
+    "checked": "not_available_in_this_run",
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  }
+}
