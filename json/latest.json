@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T18:44:37+09:00",
+  "updatetime": "2026-11-03T19:43:20+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4589,6 +4589,20 @@
       "category": "まぜそば専門店"
     },
     {
+      "name": "ワールドプラスジム坂戸店",
+      "prefecture": "埼玉県",
+      "city": "坂戸市",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル・名称変更）"
+    },
+    {
+      "name": "エニタイムフィットネス広尾高校前店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "GARAGE CURRENT 国産名車",
       "prefecture": "神奈川県",
       "city": "横浜市青葉区",
@@ -4720,6 +4734,13 @@
       "city": "西東京市",
       "opening_date": "2026-11-02",
       "category": "買取専門店"
+    },
+    {
+      "name": "らかんスタジオ Finelight 前橋店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-02",
+      "category": "フォトスタジオ"
     },
     {
       "name": "BONAVENTURA 丸ビル店",
@@ -4951,6 +4972,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-04",
       "category": "洋菓子店・パティスリー"
+    },
+    {
+      "name": "京菓子處 鼓月 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-04",
+      "category": "和菓子・京菓子"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -5674,6 +5702,13 @@
       "category": "スクイーズ専門店・ホビーショップ"
     },
     {
+      "name": "クリスピー・クリーム・ドーナツ期間限定ショップ（エミフルMASAKI）",
+      "prefecture": "愛媛県",
+      "city": "伊予郡松前町",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ（期間限定ショップ）"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5749,6 +5784,13 @@
       "city": "大阪市",
       "opening_date": "2026-11-07",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-07",
+      "category": "韓国料理（期間限定POPUP）"
     },
     {
       "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
@@ -8598,6 +8640,13 @@
       "city": "桑名市",
       "opening_date": "2026-12-11",
       "category": "時計・アクセサリー"
+    },
+    {
+      "name": "冷麺toカルビ（京都・木屋町）",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "opening_date": "2026-12-21",
+      "category": "韓国料理店（日本初出店）"
     },
     {
       "name": "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）",
