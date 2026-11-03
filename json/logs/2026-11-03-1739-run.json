@@ -1,0 +1,77 @@
+{
+  "run_at": "2026-11-03T17:39:53+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1227,
+    "blob_sha": "6b51d7d312d5dc05283660dd8b9958208e001ff7"
+  },
+  "changes": {
+    "added": 2,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "GYOKKODO / ARTBOX ららぽーと湘南平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-10-30",
+      "category": "音楽ソフト・韓国雑貨・生活雑貨（リニューアル）"
+    },
+    {
+      "name": "入間モデル店（アイダ設計・リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "opening_date": "2026-11-03",
+      "category": "住宅展示場・モデルハウス（リニューアル）"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "CRAVIA株式会社公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000257.000037149.html",
+      "result": "GYOKKODO / ARTBOX ららぽーと湘南平塚店について、2026-10-30開店済み、神奈川県平塚市天沼10番1号を確認。既存JSONに該当レコードなし。新規追加。"
+    },
+    {
+      "source": "アイダ設計公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000010879.html",
+      "result": "入間モデル店の2026-11-03リニューアルオープンと埼玉県入間市の所在地を確認。既存JSONに該当レコードなし。リニューアルとして新規追加。"
+    },
+    {
+      "source": "Can★Do公式新店情報",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "result": "11月の新店告知候補を確認。苅田店（2026-11-12）およびDCMニコット羽幌店（2026-11-06）は既存JSONに登録済み。"
+    },
+    {
+      "source": "住友不動産商業マネジメント公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000515.000062100.html",
+      "result": "香港飲茶 龍記（有明ガーデン）の2026-11-16開店を確認、既存JSONに登録済み。STREET CHURROS 有明ガーデン店は『2026年11月下旬』とのみ記載され、具体日未確定のため日付形式を推測せず保留。"
+    },
+    {
+      "source": "株式会社テンポスホールディングス公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000318.000030130.html",
+      "result": "テンポス福岡飯塚店の2026-11-09開店と福岡県飯塚市を確認、既存JSONに登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1229,
+    "blob_sha": "622cc23fb134188f893b15e1141a3a888a5bb636"
+  },
+  "verification": {
+    "json_parse": true,
+    "opening_date_sorted": true,
+    "required_fields_and_date_format_valid": true,
+    "old_records_preserved": true,
+    "new_items_found_exactly_once": true,
+    "latest_refetch": true,
+    "write_verified": true,
+    "duplicate_name_date_keys": []
+  },
+  "errors": [],
+  "unverified": [
+    "STREET CHURROS 有明ガーデン店は公式発表で『2026年11月下旬』まで確認できるが、日付が特定できないため追加保留。",
+    "今回の調査は選定した公式情報源に限定され、全国すべての事業者の告知を網羅したものではない。"
+  ]
+}
