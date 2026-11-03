@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T15:45:42+09:00",
+  "updatetime": "2026-11-03T16:48:26+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6407,6 +6407,13 @@
       "city": "新潟市中央区",
       "opening_date": "2026-11-15",
       "category": "ファミリーレストラン"
+    },
+    {
+      "name": "Sansanピックルボールコート池袋（3F増設）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-15",
+      "category": "スポーツ施設（ピックルボールコート増設）"
     },
     {
       "name": "ITTO個別指導学院 江曽島校（移転開校）",
