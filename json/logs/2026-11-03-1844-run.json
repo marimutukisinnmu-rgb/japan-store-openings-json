@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-11-03T18:44:37+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1232,
+    "blob_sha": "297fc13497bb68f5569bf72aaa5257f18325b46b"
+  },
+  "changes": {
+    "added": 1,
+    "corrected": 0,
+    "removed": 0,
+    "records": [
+      {
+        "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-11-13",
+        "category": "ファッション・アパレル・ジュエリー・生活雑貨"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "publisher": "株式会社リトルリーグ（公式発表・PR TIMES掲載）",
+      "title": "Ron Herman TAKASHIMAYA GATE TOWER MALL Grand Open 11.13 (FRI)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000140499.html",
+      "published_at": "2026-09-30",
+      "opening_date": "2026-11-13",
+      "address": "愛知県名古屋市中村区名駅1-1-3 タカシマヤ ゲートタワーモール1階",
+      "status": "confirmed"
+    }
+  ],
+  "other_checked_candidates": [
+    {
+      "name": "ラベイユ ランドマークプラザ",
+      "opening_date": "2026-11-19",
+      "status": "already_registered"
+    },
+    {
+      "name": "ちいかわベビーカステラ 京都錦店",
+      "opening_date": "2026-11-18",
+      "status": "already_registered"
+    },
+    {
+      "name": "PISOLA千葉公園店",
+      "opening_date": "2026-11-11",
+      "status": "already_registered"
+    },
+    {
+      "name": "HMVららぽーと堺",
+      "opening_date": "2026-11-17",
+      "status": "already_registered"
+    },
+    {
+      "name": "産直市場よってってクロスモール近江八幡店",
+      "opening_date": "2026-11-18",
+      "status": "already_registered"
+    }
+  ],
+  "after": {
+    "item_count": 1233,
+    "updatetime": "2026-11-03T18:44:37+09:00",
+    "blob_sha": "274a15171e050d8ec886711b1895fb6a4fc85dae"
+  },
+  "verification": {
+    "refetched_after_write": true,
+    "blob_sha_matches": true,
+    "json_parse": true,
+    "date_sorted": true,
+    "missing_required_fields": 0,
+    "exact_duplicate_keys": 0,
+    "added_record_count": 1
+  },
+  "errors": [],
+  "unverified": []
+}
