@@ -1,0 +1,61 @@
+{
+  "run_at": "2026-11-03T11:44:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1221,
+    "blob_sha": "f9cdb1e8281b6c03eb3ad8e9a2cc589e4f5c0c71"
+  },
+  "changes": {
+    "added": 1,
+    "updated": 0,
+    "deleted": 0
+  },
+  "added_items": [
+    {
+      "name": "パルク ドゥ ベーグ プチ（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "ベーカリー",
+      "source_ref": "turn112988search1",
+      "source_url": "https://web2020.cocooncity.jp/shopchange"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "コクーンシティ公式 オープン＆リニューアル情報",
+      "url": "https://web2020.cocooncity.jp/shopchange",
+      "result": "パルク ドゥ ベーグ プチの2026-11-27 OPENを確認。既存JSONに未登録。"
+    },
+    {
+      "source": "コクーンシティ公式アクセス情報",
+      "url": "https://web2020.cocooncity.jp/access",
+      "result": "所在地が埼玉県さいたま市大宮区であることを確認。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "照合対象の11月新店は既存JSONに登録済み。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "11月新店リストを照合。確認した候補は既存JSONに登録済み。"
+    }
+  ],
+  "after": {
+    "item_count": 1222,
+    "blob_sha": "13f65fd003cddff2deda47f4e82a685c08f084ad"
+  },
+  "verification": {
+    "json_parse": true,
+    "added_record_count": 1,
+    "opening_date_sorted": true,
+    "post_save_refetch": true,
+    "blob_sha_matches_update_response": true
+  },
+  "errors": [],
+  "unverified": []
+}
