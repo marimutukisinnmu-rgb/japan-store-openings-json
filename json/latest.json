@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-03T19:43:20+09:00",
+  "updatetime": "2026-11-03T20:47:16+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4484,6 +4484,13 @@
       "category": "不動産仲介・社宅専門店"
     },
     {
+      "name": "エニタイムフィットネス広尾高校前店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "おでん屋たけし 池袋西口店（リニューアル）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -4524,6 +4531,13 @@
       "city": "霧島市",
       "opening_date": "2026-11-01",
       "category": "コンビニ"
+    },
+    {
+      "name": "ワールドプラスジム坂戸店",
+      "prefecture": "埼玉県",
+      "city": "坂戸市",
+      "opening_date": "2026-11-01",
+      "category": "フィットネスジム（リニューアル・名称変更）"
     },
     {
       "name": "ワッツウィズ 越生セイムス店",
@@ -4587,20 +4601,6 @@
       "city": "柏市",
       "opening_date": "2026-11-01",
       "category": "まぜそば専門店"
-    },
-    {
-      "name": "ワールドプラスジム坂戸店",
-      "prefecture": "埼玉県",
-      "city": "坂戸市",
-      "opening_date": "2026-11-01",
-      "category": "フィットネスジム（リニューアル・名称変更）"
-    },
-    {
-      "name": "エニタイムフィットネス広尾高校前店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-01",
-      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "GARAGE CURRENT 国産名車",
@@ -4673,6 +4673,13 @@
       "category": "定食・和食"
     },
     {
+      "name": "らかんスタジオ Finelight 前橋店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-02",
+      "category": "フォトスタジオ"
+    },
+    {
       "name": "らかんスタジオ Finelight前橋店",
       "prefecture": "群馬県",
       "city": "前橋市",
@@ -4734,13 +4741,6 @@
       "city": "西東京市",
       "opening_date": "2026-11-02",
       "category": "買取専門店"
-    },
-    {
-      "name": "らかんスタジオ Finelight 前橋店",
-      "prefecture": "群馬県",
-      "city": "前橋市",
-      "opening_date": "2026-11-02",
-      "category": "フォトスタジオ"
     },
     {
       "name": "BONAVENTURA 丸ビル店",
@@ -4946,6 +4946,13 @@
       "category": "24時間フィットネスジム"
     },
     {
+      "name": "京菓子處 鼓月 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-04",
+      "category": "和菓子・京菓子"
+    },
+    {
       "name": "京都北白川 ラーメン魁力屋 長野平林店",
       "prefecture": "長野県",
       "city": "長野市",
@@ -4972,13 +4979,6 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-04",
       "category": "洋菓子店・パティスリー"
-    },
-    {
-      "name": "京菓子處 鼓月 神戸阪急店",
-      "prefecture": "兵庫県",
-      "city": "神戸市中央区",
-      "opening_date": "2026-11-04",
-      "category": "和菓子・京菓子"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -5317,6 +5317,13 @@
       "category": "アートトイ・キャラクターグッズ"
     },
     {
+      "name": "PUNIKKO by TOKOTOYZ イオンモール岡山店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-06",
+      "category": "スクイーズ専門店・ホビーショップ"
+    },
+    {
       "name": "ROOT — GARMENTS and OBJECTS（渋谷PARCO）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -5413,6 +5420,13 @@
       "city": "仙台市宮城野区",
       "opening_date": "2026-11-06",
       "category": "回転寿司"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ期間限定ショップ（エミフルMASAKI）",
+      "prefecture": "愛媛県",
+      "city": "伊予郡松前町",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ（期間限定ショップ）"
     },
     {
       "name": "クレーン横丁 極 津河芸店",
@@ -5546,6 +5560,20 @@
       "city": "たつの市",
       "opening_date": "2026-11-06",
       "category": "スーパーマーケット（建替リニューアル）"
+    },
+    {
+      "name": "ミスタードーナツ 岡山津高ショップ",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ・飲食店"
+    },
+    {
+      "name": "ミスタードーナツ 荻窪西口ショップ",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ・飲食店"
     },
     {
       "name": "ヤマダデンキ広島本店",
@@ -5693,20 +5721,6 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
-    },
-    {
-      "name": "PUNIKKO by TOKOTOYZ イオンモール岡山店",
-      "prefecture": "岡山県",
-      "city": "岡山市北区",
-      "opening_date": "2026-11-06",
-      "category": "スクイーズ専門店・ホビーショップ"
-    },
-    {
-      "name": "クリスピー・クリーム・ドーナツ期間限定ショップ（エミフルMASAKI）",
-      "prefecture": "愛媛県",
-      "city": "伊予郡松前町",
-      "opening_date": "2026-11-06",
-      "category": "ドーナツ（期間限定ショップ）"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -6402,6 +6416,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・アパレル・ジュエリー・生活雑貨"
+    },
+    {
       "name": "眼鏡市場 アミュプラザ鹿児島店",
       "prefecture": "鹿児島県",
       "city": "鹿児島市",
@@ -6435,13 +6456,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
-    },
-    {
-      "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
-      "prefecture": "愛知県",
-      "city": "名古屋市中村区",
-      "opening_date": "2026-11-13",
-      "category": "ファッション・アパレル・ジュエリー・生活雑貨"
     },
     {
       "name": "chocoZAP 白井堀込",
