@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T17:45:25+09:00",
+  "updatetime": "2026-11-04T21:41:26+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4923,6 +4923,13 @@
       "city": "神戸市兵庫区",
       "opening_date": "2026-11-04",
       "category": "ファストフード"
+    },
+    {
+      "name": "ドトール珈琲店 渋谷道玄坂店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-04",
+      "category": "カフェ"
     },
     {
       "name": "ゆで太郎 利府店（もつ次郎併設）",
