@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-11-05T07:42:44+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1309,
+  "added_count": 4,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "after_count": 1313,
+  "additions": [
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（東京）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア",
+      "venue": "第9SYビル 1F"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-18",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア",
+      "venue": "名古屋PARCO 南館10F イベントスペース"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（福岡）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2027-01-29",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア",
+      "venue": "福岡ソラリアプラザ 1F ゼファ"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2027-02-11",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア",
+      "venue": "シログチビル 1-2F"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ENHYPEN Official Site / Weverse announcement (2026-11-04)",
+      "url": "https://enhypen-jp.weverse.io/news/dd0bec9156a4",
+      "supports": "Four city popup periods and venues."
+    },
+    {
+      "title": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": "Checked listed November 5–6 openings; entries encountered were already in latest.json."
+    },
+    {
+      "title": "Lawson official regional pages",
+      "url": "https://www.lawson.co.jp/newstore/kantou.html",
+      "supports": "Checked current regional store list; matching November openings already registered."
+    },
+    {
+      "title": "YouTube Blog official announcement",
+      "url": "https://blog.youtube/intl/ja-jp/news-and-events/youtube-fanfest-japan-2026-pop-up/",
+      "supports": "A temporary fan event was reviewed; not treated as a store opening and not added."
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "opening_date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "each_added_record_present_once": true,
+    "post_write_fetch": "passed",
+    "post_write_blob_sha": "d53b5f4fe860f374f01a12f1a1070796d92f1726",
+    "latest_commit_sha": "e716d9275c1732ff964d9c21f903e1ed067ae538",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-05T07:42:44+09:00"
+  },
+  "errors": [],
+  "unverified_or_excluded": [
+    "The official ENHYPEN announcement specifies the popup venues and opening dates; city-level prefecture/city fields were normalized from the listed venue addresses.",
+    "YouTube Fanfest Japan 2026 Pop-Up is an experiential event rather than a retail pop-up store, so it was not entered in the store-opening JSON."
+  ],
+  "automation_state": "Not independently inspected during this run."
+}
