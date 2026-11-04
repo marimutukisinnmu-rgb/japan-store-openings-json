@@ -1,0 +1,94 @@
+{
+  "run_at": "2026-11-04T14:48:05+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "dde408f35859eeb872e15fab70aac8aadf682f60",
+  "source_commit_sha": "6e13daea971a1cccdc00806746a5ed64030bddab",
+  "final_blob_sha": "4ec1f81fb5186166c8aec33fd56b08a43e2c5858",
+  "item_count_before": 1279,
+  "item_count_after": 1283,
+  "added": [
+    {
+      "name": "roan（京都御苑エリア）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-14",
+      "category": "抹茶カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000006.000192544.html"
+    },
+    {
+      "name": "ビストロ ア ビエント（SHIBUYA PANORAMA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "フレンチビストロ（リニューアル）",
+      "source": "https://www.s-markcity.co.jp/news/11%E6%9C%8830%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B8%8B%E8%B0%B7%E3%81%AE%E4%B8%8A%E7%A9%BA100%EF%BD%8D%E3%80%8Eshib/"
+    },
+    {
+      "name": "鮨割烹 しゅんさい（SHIBUYA PANORAMA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "鮨割烹（リニューアル）",
+      "source": "https://www.s-markcity.co.jp/news/11%E6%9C%8830%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B8%8B%E8%B0%B7%E3%81%AE%E4%B8%8A%E7%A9%BA100%EF%BD%8D%E3%80%8Eshib/"
+    },
+    {
+      "name": "EN HOTEL Tokyo Kamata",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-12-01",
+      "category": "ホテル（リブランド）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000016835.html"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "roan（京都御苑エリア）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000192544.html",
+      "checked": "JOYSTABLEの発表で2026-11-14開店と京都市中京区常真横町190の所在地を確認。"
+    },
+    {
+      "name": "SHIBUYA PANORAMA内の2レストラン",
+      "url": "https://www.s-markcity.co.jp/news/11%E6%9C%8830%E6%97%A5%EF%BC%88%E6%9C%88%EF%BC%89%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%80%80%E6%B8%8B%E8%B0%B7%E3%81%AE%E4%B8%8A%E7%A9%BA100%EF%BD%8D%E3%80%8Eshib/",
+      "checked": "SHIBUYA MARK CITYの施設公式発表で2026-11-30のグランドオープンと2店の名称を確認。渋谷エクセルホテル東急公式アクセス情報で所在地（東京都渋谷区道玄坂1-12-2）を照合。"
+    },
+    {
+      "name": "EN HOTEL Tokyo Kamata",
+      "url": "https://prtimes.jp/main/html/rd/p/000000039.000016835.html",
+      "checked": "運営会社エンホテルズ＆リゾーツの発表で2026-12-01開業、東京都大田区蒲田三丁目15-12を確認。アパグループ公式発表とも照合。"
+    },
+    {
+      "name": "ローソン 2026年11月新店一覧",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "11月4日〜13日の確認対象店舗を照合。対象候補は既存JSONに登録済み。"
+    },
+    {
+      "name": "グランベリーパーク 2026年秋の新店一覧",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "checked": "COHINA（11月12日）とマーガレット・ハウエル エー.ジー.オー.（11月13日）は登録済み。日付が『10月上旬〜中旬』と幅を持つReDは具体日未確定のため今回追加せず。"
+    },
+    {
+      "name": "アパグループ 2026年11月開業発表",
+      "url": "https://www.apa.co.jp/news",
+      "checked": "アパホテル〈高崎駅東口〉およびアパホテルステイ〈小松グランド〉は登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "post_write_fetch": true,
+    "post_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unverified": "今回確認した公式発表・施設情報と検索候補に限定した照合で、全国すべての事業者を網羅した調査ではない。星野リゾート トマムのアイスヴィレッジは2026-12-20からの季節営業日を公式発表で確認したが、毎冬営業する既存の観光施設であり、新規店舗・施設の開店とは区別して今回のJSONには追加しなかった。ReD グランベリーパーク店は公式施設案内が『10月上旬〜中旬』の範囲表記で具体日未確定のため追加していない。"
+}
