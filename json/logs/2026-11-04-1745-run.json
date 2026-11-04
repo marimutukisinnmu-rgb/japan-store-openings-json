@@ -1,0 +1,52 @@
+{
+  "run_at": "2026-11-04T17:45:25+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "0fa324226b654b35ac65a7fad32164d5f2d35225",
+  "source_commit_sha": "31c0a0832e8fecf7f2ef0149c7c41f4b1aa7ba9e",
+  "final_blob_sha": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "item_count_before": 1284,
+  "item_count_after": 1285,
+  "added": [
+    {
+      "name": "すき家 高岡大野店",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-11",
+      "category": "牛丼・定食（移転新築）",
+      "source": "https://sukiya.jp/news/"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "すき家 高岡大野店",
+      "url": "https://sukiya.jp/news/",
+      "checked": "すき家公式の新店情報一覧に2026-11-04付で、2026-11-11（水）朝9時オープンと掲載。"
+    },
+    {
+      "name": "すき家 高岡大野店（所在地・移転確認）",
+      "url": "https://takaoka.goguynet.jp/2026/11/04/sukiya-ekinan-ohno/",
+      "checked": "2026-11-04付の地域報道で富山県高岡市大野113番地1、旧高岡駅南店からの移転予定を確認。JSONには県・市まで反映。"
+    },
+    {
+      "name": "ローソン新店舗情報（全国・中部・近畿）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "公式新店舗一覧の11月5日〜13日分の確認候補を現行JSONと照合。確認した候補は既存登録済みで、重複追加なし。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [
+      1
+    ],
+    "post_write_fetch": true,
+    "post_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unverified": "今回の検索は選定した公式情報源と候補に限られ、全国すべての事業者を網羅した調査ではない。すき家の開店日は公式新店情報で確認し、所在地・移転情報は地域報道で照合。"
+}
