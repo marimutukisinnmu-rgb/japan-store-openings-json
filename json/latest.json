@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T06:41:09+09:00",
+  "updatetime": "2026-11-04T09:46:12+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7557,6 +7557,20 @@
       "category": "キャラクターグッズ（期間限定ショップ）"
     },
     {
+      "name": "マクドナルド 京王クラウン街笹塚店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-24",
+      "category": "ファストフード"
+    },
+    {
+      "name": "萬馬軒 蒲田東口店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-24",
+      "category": "ラーメン"
+    },
+    {
       "name": "chocoZAP うきは吉井",
       "prefecture": "福岡県",
       "city": "うきは市",
@@ -7625,6 +7639,13 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "マクドナルド 国立谷保店",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
     },
     {
       "name": "Anker Store 岡山一番街",
@@ -7702,6 +7723,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "常設コラボ飲食店（11/19プレオープン）"
+    },
+    {
+      "name": "カルディコーヒーファーム セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "コーヒー・輸入食品"
     },
     {
       "name": "a.v.v イオンモール伊達店",
