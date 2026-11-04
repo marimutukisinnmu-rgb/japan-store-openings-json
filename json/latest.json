@@ -1,7 +1,7 @@
 {
-  "period": "2026-09-18/2027-01-22",
+  "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T06:47:50+09:00",
+  "updatetime": "2026-11-05T07:42:44+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7480,6 +7480,13 @@
       "category": "スポーツ用品・フットウェア・アパレル（直営店）"
     },
     {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（東京）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -9118,6 +9125,13 @@
       "category": "映画館（リニューアル）"
     },
     {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-18",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア"
+    },
+    {
       "name": "冷麺toカルビ（京都・木屋町）",
       "prefecture": "京都府",
       "city": "京都市",
@@ -9165,6 +9179,20 @@
       "city": "長岡京市",
       "opening_date": "2027-01-22",
       "category": "ホテル"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（福岡）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2027-01-29",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2027-02-11",
+      "category": "期間限定公式グッズ販売・展示ポップアップストア"
     }
   ]
 }
