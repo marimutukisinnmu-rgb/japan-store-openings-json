@@ -1,0 +1,143 @@
+{
+  "run_at": "2026-11-05T00:47:40+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "株式会社いとをかし公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194074.html",
+      "verified_facts": {
+        "name": "王道乃印 飛道家",
+        "opening_date": "2026-11-06",
+        "address": "東京都港区六本木4-8-12 MIYASHITAビル1F",
+        "prefecture": "東京都",
+        "city": "港区",
+        "category": "ラーメン（家系）"
+      }
+    },
+    {
+      "source": "オイシーズ株式会社公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000048178.html",
+      "verified_facts": {
+        "name": "つじ田 東新宿店",
+        "opening_date": "2026-11-15",
+        "address": "東京都新宿区大久保1-3-22 ヴァンヴェール新宿 101号室",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "category": "つけ麺・ラーメン"
+      }
+    },
+    {
+      "source": "株式会社ハピネット・株式会社第一興商発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002939.000031422.html",
+      "verified_facts": {
+        "name": "gashacocoビッグエコー天王寺あべの駅前",
+        "opening_date": "2026-11-11",
+        "address": "大阪府大阪市阿倍野区阿倍野筋1丁目3-18",
+        "prefecture": "大阪府",
+        "city": "大阪市阿倍野区",
+        "category": "カプセルトイ専門店"
+      }
+    },
+    {
+      "source": "まいばすけっと株式会社公式発表",
+      "url": "https://www.mybasket.co.jp/news/detail/20261030163635.html",
+      "verified_facts": {
+        "opening_date": "2026-11-06",
+        "stores": [
+          {
+            "name": "まいばすけっと加賀学園通り店",
+            "address": "東京都板橋区加賀1-16-17",
+            "prefecture": "東京都",
+            "city": "板橋区",
+            "category": "食品スーパー"
+          },
+          {
+            "name": "まいばすけっと東久留米駅東店",
+            "address": "東京都東久留米市新川町1-4-20",
+            "prefecture": "東京都",
+            "city": "東久留米市",
+            "category": "食品スーパー"
+          }
+        ]
+      }
+    },
+    {
+      "source": "追加候補の照合（公式情報・信頼できる情報源）",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "verified_facts": {
+        "matched_existing_records": [
+          "ガスト 新潟駅前店（2026-11-15）",
+          "Morning Park Cafe（2026-11-06）",
+          "roan（京都御苑エリア）（2026-11-14）",
+          "串カツ田中 阪急淡路店（2026-11-04）"
+        ],
+        "unmatched_records_added_from_this_group": 0
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1290,
+    "added": [
+      {
+        "name": "王道乃印 飛道家",
+        "prefecture": "東京都",
+        "city": "港区",
+        "opening_date": "2026-11-06",
+        "category": "ラーメン（家系）"
+      },
+      {
+        "name": "まいばすけっと加賀学園通り店",
+        "prefecture": "東京都",
+        "city": "板橋区",
+        "opening_date": "2026-11-06",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "まいばすけっと東久留米駅東店",
+        "prefecture": "東京都",
+        "city": "東久留米市",
+        "opening_date": "2026-11-06",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "gashacocoビッグエコー天王寺あべの駅前",
+        "prefecture": "大阪府",
+        "city": "大阪市阿倍野区",
+        "opening_date": "2026-11-11",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "つじ田 東新宿店",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-15",
+        "category": "つけ麺・ラーメン"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1295
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "commit_sha": "4b24c0aca837d3f3a13f86ad88e298954362f510",
+    "blob_sha": "b830b147366b43acac899084067db75468bf4d1d",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 5,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の確認は検索で見つかった公式発表・公式店舗情報および一部候補に限定。全国網羅の確認は未実施。未確認情報の推測登録はしていない。"
+    }
+  ],
+  "task_status_note": "実行開始時の管理情報でタスクは有効・毎時スケジュールを確認。次回実行時刻はnull。今回、スケジュール・有効状態は変更していない。"
+}
