@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-05T00:47:40+09:00",
+  "updatetime": "2026-11-05T01:43:18+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5835,6 +5835,13 @@
       "category": "食品スーパー"
     },
     {
+      "name": "DOOR TO GOLF アドバンスセルフつくば梅園店",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "opening_date": "2026-11-06",
+      "category": "インドアゴルフ施設"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5924,6 +5931,13 @@
       "city": "港区",
       "opening_date": "2026-11-07",
       "category": "韓国料理（期間限定POPUP）"
+    },
+    {
+      "name": "zen place pilates 新横浜",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-11-08",
+      "category": "ピラティス専門スタジオ"
     },
     {
       "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
@@ -6218,6 +6232,13 @@
       "city": "大阪市阿倍野区",
       "opening_date": "2026-11-11",
       "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "R Baker 半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2026-11-11",
+      "category": "ベーカリーカフェ"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6631,6 +6652,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "CRASH GATE 千葉ニュータウン店",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "opening_date": "2026-11-13",
+      "category": "家具・インテリアショップ"
     },
     {
       "name": "chocoZAP 白井堀込",
