@@ -1,0 +1,67 @@
+{
+  "run_at": "2026-11-04T19:40:00+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "source_commit_sha": "31c0a0832e8fecf7f2ef0149c7c41f4b1aa7ba9e",
+  "final_blob_sha": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "item_count_before": 1285,
+  "item_count_after": 1285,
+  "added": [],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "ローソン公式 新店舗情報（全国・関東）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "公式掲載の11月5日・6日・12日・13日オープン計23候補を現行JSONと照合。全23件が登録済み。"
+    },
+    {
+      "name": "H.P.FRANCE BIJOUX公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000147.000034526.html",
+      "checked": "11月10日丸の内店リニューアルを照合。登録済み。"
+    },
+    {
+      "name": "WithGreen公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "checked": "11月26日WithGreen光が丘IMA店を照合。登録済み。"
+    },
+    {
+      "name": "キル フェ ボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked": "11月28日キル フェ ボン新宿を照合。登録済み。"
+    },
+    {
+      "name": "ビッグ・エー公式新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked": "11月21日狭山中央店、11月28日清瀬駅北口店を照合。両方登録済み。"
+    },
+    {
+      "name": "銀座おのでら公式発表",
+      "url": "https://onodera-group.com/news/7933/",
+      "checked": "11月13日立鮨 銀座おのでら エキュート大宮店を照合。登録済み。"
+    },
+    {
+      "name": "VENEX公式発表",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "checked": "11月15日駒沢の新コンセプトストアneverbetterを照合。登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "11月24日POP MART LUCUA SOUTH店を照合。登録済み。"
+    }
+  ],
+  "validation": {
+    "source_fetch": true,
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "latest_json_write": "not_needed_no_changes",
+    "post_write_fetch": null,
+    "post_write_blob_sha_matches": null
+  },
+  "errors": [],
+  "unverified": "照合した公式情報源の候補はすべて既存JSONに登録済みで、未登録の追加対象は見つからなかった。調査は選定した公式情報源・候補に限られ、全国全事業者を網羅したものではない。"
+}
