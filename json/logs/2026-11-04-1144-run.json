@@ -1,0 +1,50 @@
+{
+  "run_at": "2026-11-04T11:44:53+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "183aad58382f60f354c4faddd75d112d88eacd70",
+  "source_commit_sha": null,
+  "final_blob_sha": "183aad58382f60f354c4faddd75d112d88eacd70",
+  "item_count_before": 1272,
+  "item_count_after": 1272,
+  "added": [],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "ブルースカイランドリー 2026年11月の新規出店10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "公式発表の10店舗・開店日・住所を照合。全10店舗がlatest.jsonに登録済み。"
+    },
+    {
+      "name": "セカンドリテイリンググループ 2026年11月新規出店12店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "checked": "公式発表の国内9店舗を照合。全9店舗が登録済み（淵野辺南店も2026-11-06で登録確認）。海外3店舗は国内JSONの対象外。"
+    },
+    {
+      "name": "イオンモールKYOTOロフト",
+      "url": "https://prtimes.jp/main/html/rd/p/000001824.000018324.html",
+      "checked": "2026-11-27、京都市南区の開店情報を照合。登録済み。"
+    },
+    {
+      "name": "タグ・ホイヤー 東京 銀座",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "checked": "2026-11-07、東京都中央区銀座3-5-5の開店情報を照合。登録済み。"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "2026-11-24のグランドオープン情報を照合。登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "unchanged_blob_sha": true,
+    "post_check_fetch": true
+  },
+  "errors": [],
+  "unverified": "調査は選定した公式発表・候補に限定し、全国すべての事業者を網羅した調査ではない。"
+}
