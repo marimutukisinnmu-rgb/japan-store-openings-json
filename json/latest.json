@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T10:51:05+09:00",
+  "updatetime": "2026-11-04T12:43:15+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5009,6 +5009,13 @@
       "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
+      "name": "和牛焼肉あみやき亭 上桂店",
+      "prefecture": "京都府",
+      "city": "京都市西京区",
+      "opening_date": "2026-11-04",
+      "category": "焼肉"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -5793,6 +5800,13 @@
       "category": "保険相談・保険ショップ"
     },
     {
+      "name": "鰻の神楽 明石店（移転リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-11-06",
+      "category": "うな重専門店（移転リニューアル）"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6155,6 +6169,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "スケッチャーズアウトレット足利店",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "opening_date": "2026-11-11",
+      "category": "シューズ・アウトレット"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -7282,6 +7303,34 @@
       "city": "久喜市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
+    },
+    {
+      "name": "カルディコーヒーファーム（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "コーヒー・輸入食品"
+    },
+    {
+      "name": "成城石井（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "3COINS+plus（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "アエナ（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・オフプライスストア"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
