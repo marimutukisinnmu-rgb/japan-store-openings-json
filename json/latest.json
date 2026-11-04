@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-05T05:42:22+09:00",
+  "updatetime": "2026-11-05T06:47:50+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -8493,6 +8493,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-02",
       "category": "フィギュア・コレクターズトイ公式店"
+    },
+    {
+      "name": "八郎そば 伊勢原店",
+      "prefecture": "神奈川県",
+      "city": "伊勢原市",
+      "opening_date": "2026-12-02",
+      "category": "そば・和食"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
