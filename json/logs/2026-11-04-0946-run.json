@@ -1,0 +1,129 @@
+{
+  "run_at": "2026-11-04T09:46:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_check": {
+    "primary": [
+      {
+        "name": "カルディコーヒーファーム セレオ八王子店（公式店舗情報）",
+        "url": "https://map.kaldi.co.jp/kaldi/detailMap?accmd=0&account=kaldi&adr=13201&bid=618&pgret=2",
+        "finding": "2026-11-26オープン、東京都八王子市旭町1-1 セレオ八王子北館1Fを確認。既存JSONに同名レコードなし。"
+      },
+      {
+        "name": "マクドナルド 国立谷保店（日本マクドナルド公式採用店舗情報）",
+        "url": "https://crewrecruiting.mcdonalds.co.jp/map/a70528",
+        "finding": "2026-11-25グランドオープン、東京都国立市富士見台1丁目12-8を確認。既存JSONに同名レコードなし。"
+      },
+      {
+        "name": "マクドナルド 京王クラウン街笹塚店（日本マクドナルド公式採用店舗情報）",
+        "url": "https://crewrecruiting.mcdonalds.co.jp/map/a70530",
+        "finding": "2026-11-24グランドオープン、東京都渋谷区笹塚1丁目55-16を確認。既存JSONに同名レコードなし。"
+      },
+      {
+        "name": "萬馬軒 蒲田東口店（萬馬軒公式店舗案内）",
+        "url": "https://manbaken.jp/shop/",
+        "finding": "公式店舗案内に11月24日OPEN、東京都大田区蒲田5-11-7 PRESI蒲田駅前ビル1Fを確認。既存JSONに同名レコードなし。"
+      }
+    ],
+    "corroboration": [
+      {
+        "name": "フロプレステージュ セレオ八王子店（すかいらーく公式店舗情報）",
+        "url": "https://store-info.skylark.co.jp/map/379769/",
+        "finding": "2026-11-26リニューアル予定。既存JSONに登録済みのため追加なし。"
+      },
+      {
+        "name": "ローソン公式新店舗情報",
+        "url": "https://www.lawson.co.jp/newstore/smt/",
+        "finding": "11月5日・6日・12日・13日の検索候補を既存JSONと照合。確認した候補は登録済み。"
+      },
+      {
+        "name": "ブルースカイランドリー2026年11月出店一覧（運営会社発表）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+        "finding": "11月の10店舗を照合。既存JSONに登録済み。"
+      },
+      {
+        "name": "セカンドリテイリンググループ2026年11月出店一覧（公式発表資料）",
+        "url": "https://prtimes.jp/a/?c=141539&f=d141539-267-2a2f420b2f1ad3d2c8c7b17f95bc9455.pdf&r=267",
+        "finding": "国内対象の店舗を照合。確認した候補は登録済み。海外店舗は日本国内JSONの対象外。"
+      },
+      {
+        "name": "POP MART LUCUA SOUTH店（POP MART JAPAN発表）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "finding": "2026-11-24開店候補は登録済み。"
+      },
+      {
+        "name": "セリア11月新店8店舗一覧（au PAYマガジン）",
+        "url": "https://media.aupay.wallet.auone.jp/articles/5329",
+        "finding": "既存JSONとの照合を行い、追加候補は確認されなかった。"
+      }
+    ]
+  },
+  "before": {
+    "count": 1264,
+    "updatetime": "2026-11-04T06:41:09+09:00",
+    "blob_sha": "637dd4f026877115ecb9f2cbbc763a4ebffd037f"
+  },
+  "changes": {
+    "added": 4,
+    "corrected": 0,
+    "deleted": 0,
+    "items": [
+      {
+        "name": "マクドナルド 京王クラウン街笹塚店",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-24",
+        "category": "ファストフード"
+      },
+      {
+        "name": "萬馬軒 蒲田東口店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-24",
+        "category": "ラーメン"
+      },
+      {
+        "name": "マクドナルド 国立谷保店",
+        "prefecture": "東京都",
+        "city": "国立市",
+        "opening_date": "2026-11-25",
+        "category": "ファストフード"
+      },
+      {
+        "name": "カルディコーヒーファーム セレオ八王子店",
+        "prefecture": "東京都",
+        "city": "八王子市",
+        "opening_date": "2026-11-26",
+        "category": "コーヒー・輸入食品"
+      }
+    ]
+  },
+  "after": {
+    "count": 1268,
+    "updatetime": "2026-11-04T09:46:12+09:00",
+    "blob_sha": "8750890d47985b73a038cd0c5ea7b39214a192c4"
+  },
+  "update_commit_sha": "ef053b77fd9ab23d8693b28a43379b0ffad40d95",
+  "verification": {
+    "saved_file_refetched": true,
+    "json_parse": "success",
+    "chronological_order": true,
+    "required_fields_missing": 0,
+    "duplicate_keys": 0,
+    "added_records_found": 4,
+    "blob_sha_matches_update_result": true,
+    "errors": []
+  },
+  "unconfirmed": [
+    "今回の調査は選定した公式情報源と確認候補に限られ、全国すべての事業者の新店発表を網羅したものではない。未確認の情報は登録していない。"
+  ],
+  "automation_status": {
+    "checked": true,
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "next_run_time": null,
+    "latest_run_recorded_status": "in_progress",
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  }
+}
