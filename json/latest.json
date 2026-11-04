@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T14:48:05+09:00",
+  "updatetime": "2026-11-04T16:48:21+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7814,6 +7814,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "常設コラボ飲食店（11/19プレオープン）"
+    },
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-26",
+      "category": "サラダボウル専門店"
     },
     {
       "name": "a.v.v イオンモール伊達店",
