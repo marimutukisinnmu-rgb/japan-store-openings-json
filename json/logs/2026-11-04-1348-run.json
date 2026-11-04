@@ -1,0 +1,70 @@
+{
+  "run_at": "2026-11-04T13:48:54+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "dde408f35859eeb872e15fab70aac8aadf682f60",
+  "source_commit_sha": "a72702d818a9551f75d008fa7e3674e1789b4f6c",
+  "final_blob_sha": "dde408f35859eeb872e15fab70aac8aadf682f60",
+  "item_count_before": 1279,
+  "item_count_after": 1279,
+  "added": [],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "TEA DIARY Produced by 伊藤園（大丸神戸店）",
+      "url": "https://www.itoen.co.jp/news/article/95065/",
+      "checked": "伊藤園の公式発表で2026-11-04開店、兵庫県神戸市中央区明石町40・大丸神戸店地下1階を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "Penno Penna 大船ルミネウィング店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+      "checked": "運営会社・有隣堂の発表で2026-11-05開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "ノジマ ホームズ新川崎店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "checked": "ノジマの公式発表で2026-11-05開店、神奈川県横浜市鶴見区江ヶ崎町15-30を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "WR.Yoyogi Park",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "checked": "運営会社SALの発表で2026-11-06開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "POP MART JAPANの発表で2026-11-24開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "ブルースカイランドリー 2026年11月出店一覧",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "運営会社の11月10店舗発表を照合。対象候補は既存JSONに登録済み。"
+    },
+    {
+      "name": "セカンドリテイリング 2026年11月新規出店一覧",
+      "url": "https://www.ryutsuu.biz/store/s102945.html",
+      "checked": "11月の国内新規店舗候補を照合。今回確認した対象店舗は既存JSONに登録済み。海外店舗は日本国内JSONの対象外。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島 秋冬新規・リニューアル店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "checked": "施設運営会社の発表と添付資料でAcne Studios（2026-11-06）、MERRELL（2026-11-21）等を照合。確認対象は既存JSONに登録済み。"
+    },
+    {
+      "name": "ポムの樹 イオンモール羽生店（リニューアル）",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "checked": "イオンモール羽生公式案内で2026-11-06リニューアルを確認。既存JSONに登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [],
+    "post_write_fetch": true
+  },
+  "errors": [],
+  "unverified": "今回確認した公式発表・施設情報と検索候補に限定した照合であり、全国すべての事業者を網羅した調査ではない。新規候補の具体日・所在地について追加で確証を得られた未登録レコードはなかった。latest.jsonは変更せず、既存データを保護した。"
+}
