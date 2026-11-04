@@ -1,0 +1,87 @@
+{
+  "run_at": "2026-11-04T18:47:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "source_commit_sha": "31c0a0832e8fecf7f2ef0149c7c41f4b1aa7ba9e",
+  "final_blob_sha": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "item_count_before": 1285,
+  "item_count_after": 1285,
+  "added": [],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "ローソン公式 新店舗情報（関東・中部）",
+      "url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "checked": "11月5日〜13日の確認候補を現行JSONと照合。掲載候補は登録済み。全国全エリアの完全確認ではない。"
+    },
+    {
+      "name": "キャンドゥ公式 新店情報",
+      "url": "https://www.cando-web.co.jp/news/store/",
+      "checked": "11月1日・6日・12日などの新店候補を照合。確認候補は登録済み。"
+    },
+    {
+      "name": "ブルースカイランドリー運営会社発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": "2026年11月の10店舗一覧を照合。全10店舗が現行JSONに登録済み。"
+    },
+    {
+      "name": "ビッグ・エー公式 新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked": "11月21日・28日予定の2店舗を照合。両方登録済み。"
+    },
+    {
+      "name": "ニトリ公式 店舗ニュース",
+      "url": "https://www.nitori.co.jp/news/shop.html",
+      "checked": "11月6日ニトリ大谷田店などを照合。候補は登録済み。"
+    },
+    {
+      "name": "ユニクロ公式 店舗プレスリリース",
+      "url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/store/",
+      "checked": "11月6日ユニクロ京都を照合。登録済み。"
+    },
+    {
+      "name": "ゴンチャ公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "checked": "11月6日ホワイティうめだ店・ルミネエスト新宿店を照合。両方登録済み。"
+    },
+    {
+      "name": "PISOLA公式新着情報",
+      "url": "https://pisola.jp/news/11956.html",
+      "checked": "11月18日PISOLA東越谷店を照合。登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "checked": "11月6日沖縄浦添PARCO CITY店を照合。登録済み。"
+    },
+    {
+      "name": "マッシュホールディングス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html/",
+      "checked": "11月13日sanrio house渋谷PARCO店を照合。登録済み。"
+    },
+    {
+      "name": "キルフェボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked": "11月28日キル フェ ボン新宿を照合。登録済み。"
+    },
+    {
+      "name": "SYNRA GROUP公式発表",
+      "url": "https://synra.co.jp/news-005/",
+      "checked": "Eleanor spa&treatmentの秋季新店候補を照合。候補は登録済み。"
+    }
+  ],
+  "validation": {
+    "source_fetch": true,
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "latest_json_write": "not_needed_no_changes",
+    "post_write_fetch": null,
+    "post_write_blob_sha_matches": null
+  },
+  "errors": [],
+  "unverified": "検索は選定した公式情報源・候補に限られ、全国すべての事業者を網羅した調査ではない。今回の照合候補から新規追加・訂正を確定できる未登録店舗は見つからなかった。"
+}
