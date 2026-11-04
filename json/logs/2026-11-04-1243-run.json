@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-04T12:43:15+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "183aad58382f60f354c4faddd75d112d88eacd70",
+  "source_commit_sha": "a72702d818a9551f75d008fa7e3674e1789b4f6c",
+  "final_blob_sha": "dde408f35859eeb872e15fab70aac8aadf682f60",
+  "item_count_before": 1272,
+  "item_count_after": 1279,
+  "added": [
+    {
+      "name": "スケッチャーズアウトレット足利店",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "opening_date": "2026-11-11",
+      "category": "シューズ・アウトレット"
+    },
+    {
+      "name": "和牛焼肉あみやき亭 上桂店",
+      "prefecture": "京都府",
+      "city": "京都市西京区",
+      "opening_date": "2026-11-04",
+      "category": "焼肉"
+    },
+    {
+      "name": "鰻の神楽 明石店（移転リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-11-06",
+      "category": "うな重専門店（移転リニューアル）"
+    },
+    {
+      "name": "カルディコーヒーファーム（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "コーヒー・輸入食品"
+    },
+    {
+      "name": "成城石井（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "3COINS+plus（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "アエナ（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・オフプライスストア"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "スケッチャーズアウトレット足利店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000074058.html",
+      "checked": "SKECHERS JAPAN発表：2026-11-11 opening date and address 栃木県足利市田中町95-1."
+    },
+    {
+      "name": "和牛焼肉あみやき亭 上桂店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000396.000130952.html",
+      "checked": "あみやき亭公式リリース：2026-11-04 17:00 opening and address 京都府京都市西京区桂徳大寺町156."
+    },
+    {
+      "name": "鰻の神楽 明石店（移転リニューアル）",
+      "url": "https://www.unagi-kagura.com/store",
+      "checked": "運営公式店舗一覧：11月6日移転リニューアル予定、住所 兵庫県明石市林3丁目14-13。2026年の日付は地域記事でも照合。"
+    },
+    {
+      "name": "カルディコーヒーファーム（IKEDIA）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193285.html",
+      "checked": "IKEDIA運営会社発表：4店舗の新規オープン日 2026-11-20、所在地 大阪府池田市栄町1-1 サンシティ池田内."
+    },
+    {
+      "name": "成城石井（IKEDIA）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193285.html",
+      "checked": "IKEDIA運営会社発表：4店舗の新規オープン日 2026-11-20、所在地 大阪府池田市栄町1-1 サンシティ池田内."
+    },
+    {
+      "name": "3COINS+plus（IKEDIA）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193285.html",
+      "checked": "IKEDIA運営会社発表：4店舗の新規オープン日 2026-11-20、所在地 大阪府池田市栄町1-1 サンシティ池田内."
+    },
+    {
+      "name": "アエナ（IKEDIA）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193285.html",
+      "checked": "IKEDIA運営会社発表：4店舗の新規オープン日 2026-11-20、所在地 大阪府池田市栄町1-1 サンシティ池田内."
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "post_write_fetch": true
+  },
+  "errors": [],
+  "unverified": "調査は今回確認した公式発表・公式店舗情報と候補に限定し、全国全事業者の網羅調査ではない。すき家 高岡大野店、ばり嗎 八王子平岡町店は地域情報を確認したが、今回、開店日の直接的な公式確認を完了できず登録保留。"
+}
