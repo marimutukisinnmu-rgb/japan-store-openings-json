@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T09:46:12+09:00",
+  "updatetime": "2026-11-04T10:47:20+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5233,6 +5233,13 @@
       "category": "牛丼・定食（営業再開）"
     },
     {
+      "name": "Kodak Apparel（イオンモールKYOTO）",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-11-05",
+      "category": "ファッション・アパレル・雑貨"
+    },
+    {
       "name": "Acne Studios（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -5770,6 +5777,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "安堵屋 三峰店",
+      "prefecture": "埼玉県",
+      "city": "秩父市",
+      "opening_date": "2026-11-06",
+      "category": "飲食店・郷土料理"
     },
     {
       "name": "ASMO academy 霧島国分校",
