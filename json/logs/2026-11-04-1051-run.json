@@ -1,0 +1,53 @@
+{
+  "run_at": "2026-11-04T10:51:05+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "437e3a7b3f3e4b142f8e97919098494021ae9a83",
+  "source_commit_sha": "7be1b46657525b7a680f984219054ffb20320605",
+  "final_blob_sha": "183aad58382f60f354c4faddd75d112d88eacd70",
+  "item_count_before": 1270,
+  "item_count_after": 1272,
+  "added": [
+    {
+      "name": "保険クリニック イオンモール直方店",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "opening_date": "2026-11-06",
+      "category": "保険相談・保険ショップ"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-11-07",
+      "category": "ラーメン（リニューアル）"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "保険クリニック イオンモール直方店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001076.000001256.html",
+      "checked": "2026-11-06 opening date and address: 福岡県直方市湯野原2丁目1-1 イオンモール直方1F"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000063.000185678.html",
+      "checked": "2026-11-07 renewal-opening announcement and address: 大阪府高槻市春日町15-16"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [
+      1,
+      1
+    ],
+    "post_write_fetch": true
+  },
+  "errors": [],
+  "unverified": "調査は今回確認した公式発表・候補に限定。全国全事業者の網羅調査ではない。"
+}
