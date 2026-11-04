@@ -1,0 +1,144 @@
+{
+  "run_at": "2026-11-05T04:48:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "タグ・ホイヤー公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "verified_facts": {
+        "name": "タグ・ホイヤー 東京 銀座",
+        "opening_date": "2026-11-07",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "category": "高級時計・ウォッチブティック",
+        "matched_existing_record": true
+      }
+    },
+    {
+      "source": "Can★Do公式 新店お知らせ",
+      "url": "https://www.cando-web.co.jp/news/store/",
+      "verified_facts": {
+        "name": "キャンドゥ 苅田店",
+        "opening_date": "2026-11-12",
+        "prefecture": "福岡県",
+        "city": "京都郡苅田町",
+        "category": "100円ショップ",
+        "matched_existing_record": true
+      }
+    },
+    {
+      "source": "すき家公式 新着情報",
+      "url": "https://sukiya.jp/news/",
+      "verified_facts": {
+        "name": "すき家 高岡大野店",
+        "opening_date": "2026-11-11",
+        "prefecture": "富山県",
+        "city": "高岡市",
+        "matched_existing_record": true
+      }
+    },
+    {
+      "source": "すかいらーくグループ公式 ガスト新店情報",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "verified_facts": [
+        {
+          "name": "ガスト そよら飯田アップルロード店",
+          "opening_date": "2026-11-17",
+          "prefecture": "長野県",
+          "city": "飯田市",
+          "matched_existing_record": true
+        },
+        {
+          "name": "ガスト イオンモール福岡店",
+          "opening_date": "2026-11-20",
+          "prefecture": "福岡県",
+          "city": "糟屋郡粕屋町",
+          "matched_existing_record": true
+        }
+      ]
+    },
+    {
+      "source": "株式会社セカンドリテイリング公式発表（PR TIMES配信・添付一覧）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "verified_facts": [
+        {
+          "name": "カプセル楽局 武蔵新田駅前店",
+          "opening_date": "2026-11-20",
+          "prefecture": "東京都",
+          "city": "大田区",
+          "category": "カプセルトイ専門店",
+          "matched_existing_record": true
+        },
+        {
+          "name": "おお蔵 本町駅前店",
+          "opening_date": "2026-11-20",
+          "prefecture": "大阪府",
+          "city": "大阪市西区",
+          "category": "ブランド品・時計・ジュエリー買取販売",
+          "matched_existing_record": true
+        },
+        {
+          "name": "カプセル楽局 PREMIUM 経堂店",
+          "opening_date": "2026-11-27",
+          "prefecture": "東京都",
+          "city": "世田谷区",
+          "matched_existing_record": true
+        },
+        {
+          "name": "セカンドストリート ミスターマックス町田多摩境店",
+          "opening_date": "2026-11-27",
+          "prefecture": "東京都",
+          "city": "町田市",
+          "matched_existing_record": true
+        }
+      ]
+    },
+    {
+      "source": "ラーメン魁力屋公式 新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "verified_facts": {
+        "name": "京都北白川 ラーメン魁力屋 長野平林店",
+        "opening_date": "2026-11-04",
+        "prefecture": "長野県",
+        "city": "長野市",
+        "category": "ラーメン",
+        "matched_existing_record": true
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1306,
+    "added": [],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1306
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "20fa4466a6391cfeefbdd1a980758db567400d8e",
+    "commit_sha": null,
+    "blob_sha": "20fa4466a6391cfeefbdd1a980758db567400d8e",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 0,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true,
+    "content_changed": false
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "ドリームカプセル イオンモール橿原（奈良県橿原市、2026-11-13予定との掲載）",
+      "reason": "第三者のガチャ専門店情報サイトで日付・所在地の記載を確認したが、今回の検索では運営会社または施設の一次情報を確認できなかったため、JSONへ追加せず保留。"
+    },
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の調査は選定した公式情報源と候補に限定。全国網羅の確認は未実施。"
+    }
+  ],
+  "task_status_note": "Automation peekで対象タスクは有効、毎時実行のスケジュールを確認。next_run_timeは取得できず、記録上の直近runはin_progressのまま。スケジュール変更・停止は行っていない。"
+}
