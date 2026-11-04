@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T23:45:51+09:00",
+  "updatetime": "2026-11-05T00:47:40+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5814,6 +5814,27 @@
       "category": "中華料理"
     },
     {
+      "name": "王道乃印 飛道家",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "ラーメン（家系）"
+    },
+    {
+      "name": "まいばすけっと加賀学園通り店",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと東久留米駅東店",
+      "prefecture": "東京都",
+      "city": "東久留米市",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6190,6 +6211,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "gashacocoビッグエコー天王寺あべの駅前",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-11",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6659,6 +6687,13 @@
       "city": "新潟市中央区",
       "opening_date": "2026-11-15",
       "category": "ファミリーレストラン"
+    },
+    {
+      "name": "つじ田 東新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-15",
+      "category": "つけ麺・ラーメン"
     },
     {
       "name": "3POKEOSAKA re:Dine大阪店",
