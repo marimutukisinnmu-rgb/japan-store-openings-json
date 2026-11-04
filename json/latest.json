@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T07:42:44+09:00",
+  "updatetime": "2026-11-05T08:45:03+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5254,6 +5254,13 @@
       "category": "牛丼・定食（営業再開）"
     },
     {
+      "name": "ふるいち八潮中央店",
+      "prefecture": "埼玉県",
+      "city": "八潮市",
+      "opening_date": "2026-11-05",
+      "category": "中古ゲーム・書籍・トレーディングカード・ホビー"
+    },
+    {
       "name": "Acne Studios（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -5840,6 +5847,20 @@
       "city": "つくば市",
       "opening_date": "2026-11-06",
       "category": "インドアゴルフ施設"
+    },
+    {
+      "name": "KEEN OUTLET GOTEMBA",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-11-06",
+      "category": "アウトドア・フットウェア・アウトレット"
+    },
+    {
+      "name": "スニダントレカ秋葉原店別館",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-06",
+      "category": "トレーディングカード専門店"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -8591,6 +8612,55 @@
       "city": "太田市",
       "opening_date": "2026-12-04",
       "category": "洗車サービス・カーケア"
+    },
+    {
+      "name": "しろたんふんわりストア 鎌倉小町通り店",
+      "prefecture": "神奈川県",
+      "city": "鎌倉市",
+      "opening_date": "2026-12-04",
+      "category": "キャラクターグッズ・ぬいぐるみ"
+    },
+    {
+      "name": "Merci life organics（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "オーガニックベーカリー"
+    },
+    {
+      "name": "サザコーヒー（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "スペシャルティコーヒー・カフェ"
+    },
+    {
+      "name": "JACK IN THE DONUTS（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "ドーナツ専門店"
+    },
+    {
+      "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "そばいち（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "駅そば"
+    },
+    {
+      "name": "NewDays（中野駅西改札内）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-06",
+      "category": "コンビニ"
     },
     {
       "name": "コナズ珈琲 所沢店（リニューアル）",
