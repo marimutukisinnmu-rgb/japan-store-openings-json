@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T10:47:20+09:00",
+  "updatetime": "2026-11-04T10:51:05+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5786,6 +5786,13 @@
       "category": "飲食店・郷土料理"
     },
     {
+      "name": "保険クリニック イオンモール直方店",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "opening_date": "2026-11-06",
+      "category": "保険相談・保険ショップ"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5868,6 +5875,13 @@
       "city": "港区",
       "opening_date": "2026-11-07",
       "category": "韓国料理（期間限定POPUP）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-11-07",
+      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
