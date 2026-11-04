@@ -1,0 +1,73 @@
+{
+  "run_at": "2026-11-05T06:47:50+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "すかいらーくグループ公式 新店情報一覧",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "corroborating_url": "https://arbaito.skylark.co.jp/csaiyo/f1dr/pc_job/show/131030/687343",
+      "verified_facts": {
+        "name": "八郎そば 伊勢原店",
+        "opening_date": "2026-12-02",
+        "prefecture": "神奈川県",
+        "city": "伊勢原市",
+        "address": "神奈川県伊勢原市白根496",
+        "category": "そば・和食",
+        "note": "公式新店一覧と運営会社の求人ページで開店日・所在地を照合。更新前JSONに同名・同日レコードなし。"
+      }
+    },
+    {
+      "source": "株式会社ビッグ・エー公式 新店情報一覧",
+      "url": "https://www.biga.co.jp/newshop/",
+      "verified_facts": "ビッグ・エー清瀬駅北口店（2026-11-28）とビッグ・エー狭山中央店（2026-11-21）を照合。いずれも既存JSONに登録済み。"
+    },
+    {
+      "source": "VENEX公式ニュースリリース",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "verified_facts": "neverbetter（2026-11-15、東京都世田谷区・駒沢）を照合。既存JSONに登録済み。"
+    },
+    {
+      "source": "すかいらーくグループ公式 新店情報一覧",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "verified_facts": "しゃぶ葉 池田駅前店、しゃぶ葉 岐阜アクティブＧ店、バーミヤン 大宮駅東口店、バーミヤン イオンモール伊達店、バーミヤン 広島アルパーク店、フロプレステージュ セレオ八王子店、資さんうどん 和泉観音寺店を照合。すべて既存JSONに登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1308,
+    "added": [
+      {
+        "name": "八郎そば 伊勢原店",
+        "prefecture": "神奈川県",
+        "city": "伊勢原市",
+        "opening_date": "2026-12-02",
+        "category": "そば・和食"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1309
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "0b4a98fcd17e19eae97416020040b26250136679",
+    "commit_sha": "7911b9ed85e1115e3fb68730f62d28227e890e41",
+    "blob_sha": "6cface73b880e9964da9ea42e0ce1d166c69600c",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 1,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の照合は選定した公式情報源・候補に限定。全国網羅の確認は未実施。"
+    }
+  ],
+  "task_status_note": "この実行後、タスク管理情報を再確認。管理上の状態は無効（is_enabled=false）、次回実行時刻なし。スケジュール設定自体は保持されているが、現在は定期実行が無効。"
+}
