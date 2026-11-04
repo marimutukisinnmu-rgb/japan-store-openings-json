@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-05T01:43:18+09:00",
+  "updatetime": "2026-11-05T02:43:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7121,6 +7121,13 @@
       "city": "つくば市",
       "opening_date": "2026-11-19",
       "category": "ラーメン"
+    },
+    {
+      "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-19",
+      "category": "アイスクリーム専門店"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
