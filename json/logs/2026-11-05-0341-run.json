@@ -1,0 +1,149 @@
+{
+  "run_at": "2026-11-05T03:41:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "GREEN×EXPO協会 公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000181.000097656.html",
+      "verified_facts": {
+        "name": "EXPO 2027 オフィシャルポップアップストア ラフォーレ原宿店",
+        "opening_date": "2026-11-07",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "category": "公式ライセンス商品・期間限定ポップアップストア"
+      }
+    },
+    {
+      "source": "ルイスポールセンジャパン株式会社 公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000034.000061855.html",
+      "verified_facts": {
+        "name": "ルイスポールセン 名古屋ストア",
+        "opening_date": "2026-11-11",
+        "prefecture": "愛知県",
+        "city": "名古屋市",
+        "category": "照明・インテリア専門店"
+      }
+    },
+    {
+      "source": "株式会社甲羅 公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000181.000126693.html",
+      "verified_facts": {
+        "name": "赤から池尻大橋店",
+        "opening_date": "2026-11-11",
+        "prefecture": "東京都",
+        "city": "世田谷区",
+        "category": "鍋料理・飲食店",
+        "address": "東京都世田谷区池尻3-4-3 スペーシア池尻大橋1F"
+      }
+    },
+    {
+      "source": "株式会社エンドレス 公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000915.000061261.html",
+      "verified_facts": {
+        "name": "LUNA EARTH アミュプラザ小倉店",
+        "opening_date": "2026-11-13",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "category": "アクセサリー・ファッション雑貨",
+        "address": "福岡県北九州市小倉北区浅野1-1-1"
+      }
+    },
+    {
+      "source": "株式会社赤ちゃん本舗 発表（共同通信PRワイヤー）",
+      "url": "https://kyodonewsprwire.jp/release/202611049282",
+      "verified_facts": {
+        "name": "アカチャンホンポ ベルモール店（リニューアル）",
+        "opening_date": "2026-11-13",
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "category": "マタニティ・ベビー・キッズ用品（リニューアル）",
+        "address": "栃木県宇都宮市陽東6-2-1 ベルモール2F"
+      }
+    },
+    {
+      "source": "アメアスポーツジャパン株式会社 公式発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000112205.html",
+      "verified_facts": {
+        "name": "サロモンストア仙台パルコ店",
+        "opening_date": "2026-11-20",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "category": "スポーツ用品・フットウェア・アパレル（直営店）",
+        "address": "宮城県仙台市青葉区中央1-2-3 PARCO1 2F"
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1300,
+    "added": [
+      {
+        "name": "EXPO 2027 オフィシャルポップアップストア ラフォーレ原宿店",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-07",
+        "category": "公式ライセンス商品・期間限定ポップアップストア"
+      },
+      {
+        "name": "ルイスポールセン 名古屋ストア",
+        "prefecture": "愛知県",
+        "city": "名古屋市",
+        "opening_date": "2026-11-11",
+        "category": "照明・インテリア専門店"
+      },
+      {
+        "name": "赤から池尻大橋店",
+        "prefecture": "東京都",
+        "city": "世田谷区",
+        "opening_date": "2026-11-11",
+        "category": "鍋料理・飲食店"
+      },
+      {
+        "name": "LUNA EARTH アミュプラザ小倉店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-13",
+        "category": "アクセサリー・ファッション雑貨"
+      },
+      {
+        "name": "アカチャンホンポ ベルモール店（リニューアル）",
+        "prefecture": "栃木県",
+        "city": "宇都宮市",
+        "opening_date": "2026-11-13",
+        "category": "マタニティ・ベビー・キッズ用品（リニューアル）"
+      },
+      {
+        "name": "サロモンストア仙台パルコ店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-11-20",
+        "category": "スポーツ用品・フットウェア・アパレル（直営店）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1306
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "5874766756b5a14a3e79cb03a1ce9822ed5426f1",
+    "commit_sha": "db2e3abcf6c207ab76ccb193bebc6737ad9e9343",
+    "blob_sha": "20fa4466a6391cfeefbdd1a980758db567400d8e",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 6,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の調査は確認できた公式発表・選定候補に限定。全国網羅の確認は未実施。"
+    }
+  ],
+  "task_status_note": "定期タスクの有効状態・スケジュールはこの実行では管理ツールから独立確認していない。タスク設定の変更・停止は行っていない。"
+}
