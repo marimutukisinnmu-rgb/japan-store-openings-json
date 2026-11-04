@@ -1,0 +1,113 @@
+{
+  "run_at": "2026-11-05T01:43:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "株式会社イースリー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000124342.html",
+      "verified_facts": {
+        "name": "DOOR TO GOLF アドバンスセルフつくば梅園店",
+        "opening_date": "2026-11-06",
+        "address": "茨城県つくば市梅園2-25-12",
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "category": "インドアゴルフ施設"
+      }
+    },
+    {
+      "source": "zen place公式お知らせ",
+      "url": "https://www.zenplace.co.jp/information/zen-place-pilates-shinyokohama-opening-2026-11-08",
+      "verified_facts": {
+        "name": "zen place pilates 新横浜",
+        "opening_date": "2026-11-08",
+        "address": "神奈川県横浜市港北区新横浜2丁目5-10 楓第2ビル7F",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "category": "ピラティス専門スタジオ"
+      }
+    },
+    {
+      "source": "株式会社アールベイカー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001096.000010329.html",
+      "verified_facts": {
+        "name": "R Baker 半田店",
+        "opening_date": "2026-11-11",
+        "address": "愛知県半田市亀崎大洞町三丁目28-2",
+        "prefecture": "愛知県",
+        "city": "半田市",
+        "category": "ベーカリーカフェ"
+      }
+    },
+    {
+      "source": "CRASH GATE公式店舗告知",
+      "url": "https://crashgate.jp/blogs/articles/newopenchiba20261019",
+      "verified_facts": {
+        "name": "CRASH GATE 千葉ニュータウン店",
+        "opening_date": "2026-11-13",
+        "address": "千葉県印西市中央北3丁目2 イオンモール千葉ニュータウン モール棟2F",
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "category": "家具・インテリアショップ"
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1295,
+    "added": [
+      {
+        "name": "DOOR TO GOLF アドバンスセルフつくば梅園店",
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "opening_date": "2026-11-06",
+        "category": "インドアゴルフ施設"
+      },
+      {
+        "name": "zen place pilates 新横浜",
+        "prefecture": "神奈川県",
+        "city": "横浜市港北区",
+        "opening_date": "2026-11-08",
+        "category": "ピラティス専門スタジオ"
+      },
+      {
+        "name": "R Baker 半田店",
+        "prefecture": "愛知県",
+        "city": "半田市",
+        "opening_date": "2026-11-11",
+        "category": "ベーカリーカフェ"
+      },
+      {
+        "name": "CRASH GATE 千葉ニュータウン店",
+        "prefecture": "千葉県",
+        "city": "印西市",
+        "opening_date": "2026-11-13",
+        "category": "家具・インテリアショップ"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1299
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "b830b147366b43acac899084067db75468bf4d1d",
+    "commit_sha": "5949a8b02afa8f3be7b1b94e262f2943111eec93",
+    "blob_sha": "17e05b459a55a3097ce6269c61238f946a2a0d68",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 4,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の確認は選定した公式発表・公式店舗情報と一部候補に限定。全国網羅の確認は未実施。未確認情報の推測登録はしていない。"
+    }
+  ],
+  "task_status_note": "実行時の管理情報でタスクは有効・毎時スケジュールを確認。次回実行時刻は取得できず、前回管理記録はin_progressのまま。今回、スケジュール・有効状態は変更していない。"
+}
