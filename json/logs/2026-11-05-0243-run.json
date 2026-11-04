@@ -1,0 +1,72 @@
+{
+  "run_at": "2026-11-05T02:43:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "筑後いこい（2026年11月4日掲載、開店予定・住所の報道確認）",
+      "url": "https://chikugo-ikoi.com/br31-aeonkurume-open/",
+      "verified_facts": {
+        "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
+        "opening_date": "2026-11-19",
+        "address": "福岡県久留米市東櫛原町1110",
+        "prefecture": "福岡県",
+        "city": "久留米市",
+        "category": "アイスクリーム専門店"
+      }
+    },
+    {
+      "source": "タウンワーク掲載のオープニング求人（掲載情報、開店予定・住所の照合）",
+      "url": "https://townwork.net/viewjob/jobid_acbb759301081df1/",
+      "verified_facts": {
+        "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
+        "opening_date": "2026-11-19",
+        "address": "福岡県久留米市東櫛原町1110",
+        "prefecture": "福岡県",
+        "city": "久留米市",
+        "category": "アイスクリーム専門店"
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1299,
+    "added": [
+      {
+        "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
+        "prefecture": "福岡県",
+        "city": "久留米市",
+        "opening_date": "2026-11-19",
+        "category": "アイスクリーム専門店"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1300
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "17e05b459a55a3097ce6269c61238f946a2a0d68",
+    "commit_sha": "74b4b691077c9eb6610db3fc62237f34ef63db12",
+    "blob_sha": "5874766756b5a14a3e79cb03a1ce9822ed5426f1",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 1,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の確認は選定した情報源・候補に限定。全国網羅の確認は未実施。"
+    },
+    {
+      "item": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
+      "reason": "ブランド運営会社の独立した公式開店告知は今回確認できず。開店日・所在地は地元媒体の記事と求人掲載の2情報で一致を確認。"
+    }
+  ],
+  "task_status_note": "管理情報の確認ではタスクは有効・毎時スケジュール。次回実行時刻は取得できず、記録上の直近runはin_progressのまま。今回スケジュール・有効状態は変更していない。"
+}
