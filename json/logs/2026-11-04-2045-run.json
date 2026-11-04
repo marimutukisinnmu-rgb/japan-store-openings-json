@@ -1,0 +1,49 @@
+{
+  "run_at": "2026-11-04T20:45:17+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "source_commit_sha": null,
+  "final_blob_sha": "6bfc998c42735acbb6fa6c69b447969d50345ecd",
+  "item_count_before": 1285,
+  "item_count_after": 1285,
+  "added": [],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "ローソン公式 新店舗情報（関東）",
+      "url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "checked": "2026年11月5日・6日・12日・13日の新店候補を既存JSONと照合。確認した候補は登録済み。"
+    },
+    {
+      "name": "すき家公式 新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "checked": "2026年11月11日オープンの高岡大野店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": "2026年11月24日POP MART LUCUA SOUTH店を照合。既存JSONに登録済み。"
+    }
+  ],
+  "validation": {
+    "source_fetch": true,
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "latest_json_write": "not_needed_no_changes",
+    "post_write_fetch": null,
+    "post_write_blob_sha_matches": null
+  },
+  "automation_status": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "schedule_changed": false,
+    "next_run_time": null,
+    "note": "管理情報上は有効。次回実行時刻は取得できず。"
+  },
+  "errors": [],
+  "unverified": "照合した公式情報源の候補は既存JSONに登録済みで、未登録の追加対象は見つからなかった。調査は選定した公式情報源・候補に限られ、全国全事業者を網羅したものではない。"
+}
