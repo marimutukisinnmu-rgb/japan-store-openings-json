@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-04T22:40:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "無印良品公式店舗ページ",
+      "url": "https://www.muji.com/jp/ja/shop/detail/046561",
+      "verified_facts": {
+        "name": "無印良品 高岡早川",
+        "opening_date": "2026-11-20",
+        "address": "富山県高岡市早川550-1",
+        "category": "生活雑貨・食品・衣服"
+      }
+    },
+    {
+      "source": "日本マクドナルド公式クルー採用店舗情報",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/26602",
+      "verified_facts": {
+        "name": "マクドナルド 伏見桃山店",
+        "opening_date": "2026-11-30",
+        "address": "京都府京都市伏見区銀座町1-361",
+        "category": "ファストフード（営業再開）"
+      }
+    },
+    {
+      "source": "サンディ公式店舗ページ",
+      "url": "https://www.sundi.co.jp/shop/details-iseda.html",
+      "verified_facts": {
+        "name": "サンディ 伊勢田店",
+        "opening_date": "2026-12-03",
+        "address": "京都府宇治市開町2番地2",
+        "category": "食品ディスカウントスーパー"
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1286,
+    "added": [
+      {
+        "name": "無印良品 高岡早川",
+        "prefecture": "富山県",
+        "city": "高岡市",
+        "opening_date": "2026-11-20",
+        "category": "生活雑貨・食品・衣服"
+      },
+      {
+        "name": "マクドナルド 伏見桃山店",
+        "prefecture": "京都府",
+        "city": "京都市伏見区",
+        "opening_date": "2026-11-30",
+        "category": "ファストフード（営業再開）"
+      },
+      {
+        "name": "サンディ 伊勢田店",
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "opening_date": "2026-12-03",
+        "category": "食品ディスカウントスーパー"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1289
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "commit_sha": "f1163ddde3679018de8a1f8b98e11b630c10d24d",
+    "blob_sha": "62ed5af76b220c09a2916d8a929e9428860466c4",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 3,
+    "post_fetch": "success"
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "アルプラフーズマーケット高岡／高岡ロフト（富山県高岡市早川550番地1）",
+      "reason": "公式発表では2026年11月下旬頃とされ、確定した日付が確認できないため、日付必須のlatest.jsonには登録保留。"
+    }
+  ],
+  "task_status_note": "管理情報では有効・毎時スケジュールを確認。次回実行時刻はnull。今回、スケジュール・有効状態は変更していない。"
+}
