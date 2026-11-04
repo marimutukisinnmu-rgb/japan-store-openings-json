@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T12:43:15+09:00",
+  "updatetime": "2026-11-04T14:48:05+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5002,18 +5002,18 @@
       "category": "洋菓子店・パティスリー"
     },
     {
-      "name": "喃風 姫路手柄店",
-      "prefecture": "兵庫県",
-      "city": "姫路市",
-      "opening_date": "2026-11-04",
-      "category": "お好み焼き・どろ焼（鉄板焼）"
-    },
-    {
       "name": "和牛焼肉あみやき亭 上桂店",
       "prefecture": "京都府",
       "city": "京都市西京区",
       "opening_date": "2026-11-04",
       "category": "焼肉"
+    },
+    {
+      "name": "喃風 姫路手柄店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-11-04",
+      "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
       "name": "chocoZAP 中須一丁目",
@@ -5028,6 +5028,13 @@
       "city": "豊島区",
       "opening_date": "2026-11-05",
       "category": "美容室・ヘッドスパ"
+    },
+    {
+      "name": "Kodak Apparel（イオンモールKYOTO）",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-11-05",
+      "category": "ファッション・アパレル・雑貨"
     },
     {
       "name": "KOMEHYO買取センター（アミュプラザ鹿児島）",
@@ -5238,13 +5245,6 @@
       "city": "北区",
       "opening_date": "2026-11-05",
       "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "Kodak Apparel（イオンモールKYOTO）",
-      "prefecture": "京都府",
-      "city": "京都市南区",
-      "opening_date": "2026-11-05",
-      "category": "ファッション・アパレル・雑貨"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -5723,11 +5723,25 @@
       "category": "コンビニ"
     },
     {
+      "name": "安堵屋 三峰店",
+      "prefecture": "埼玉県",
+      "city": "秩父市",
+      "opening_date": "2026-11-06",
+      "category": "飲食店・郷土料理"
+    },
+    {
       "name": "芋屋金次郎 アミュプラザ鹿児島店",
       "prefecture": "鹿児島県",
       "city": "鹿児島市",
       "opening_date": "2026-11-06",
       "category": "和菓子・芋菓子"
+    },
+    {
+      "name": "鰻の神楽 明石店（移転リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "opening_date": "2026-11-06",
+      "category": "うな重専門店（移転リニューアル）"
     },
     {
       "name": "月島もんじゃ たまとや 姫路",
@@ -5779,20 +5793,6 @@
       "category": "和菓子・カステラ（期間限定催事）"
     },
     {
-      "name": "餃子の王将 都島本通店",
-      "prefecture": "大阪府",
-      "city": "大阪市都島区",
-      "opening_date": "2026-11-06",
-      "category": "中華料理"
-    },
-    {
-      "name": "安堵屋 三峰店",
-      "prefecture": "埼玉県",
-      "city": "秩父市",
-      "opening_date": "2026-11-06",
-      "category": "飲食店・郷土料理"
-    },
-    {
       "name": "保険クリニック イオンモール直方店",
       "prefecture": "福岡県",
       "city": "直方市",
@@ -5800,11 +5800,11 @@
       "category": "保険相談・保険ショップ"
     },
     {
-      "name": "鰻の神楽 明石店（移転リニューアル）",
-      "prefecture": "兵庫県",
-      "city": "明石市",
+      "name": "餃子の王将 都島本通店",
+      "prefecture": "大阪府",
+      "city": "大阪市都島区",
       "opening_date": "2026-11-06",
-      "category": "うな重専門店（移転リニューアル）"
+      "category": "中華料理"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -5870,6 +5870,13 @@
       "category": "化粧品・スキンケア（百貨店カウンター）"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
+      "prefecture": "大阪府",
+      "city": "高槻市",
+      "opening_date": "2026-11-07",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "鶏笑 出雲神立店",
       "prefecture": "島根県",
       "city": "出雲市",
@@ -5889,13 +5896,6 @@
       "city": "港区",
       "opening_date": "2026-11-07",
       "category": "韓国料理（期間限定POPUP）"
-    },
-    {
-      "name": "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
-      "prefecture": "大阪府",
-      "city": "高槻市",
-      "opening_date": "2026-11-07",
-      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
@@ -6143,6 +6143,13 @@
       "category": "フレグランス・スキンケア・トリートメント"
     },
     {
+      "name": "スケッチャーズアウトレット足利店",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "opening_date": "2026-11-11",
+      "category": "シューズ・アウトレット"
+    },
+    {
       "name": "フードマーケット マム 小土店",
       "prefecture": "静岡県",
       "city": "焼津市",
@@ -6169,13 +6176,6 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
-    },
-    {
-      "name": "スケッチャーズアウトレット足利店",
-      "prefecture": "栃木県",
-      "city": "足利市",
-      "opening_date": "2026-11-11",
-      "category": "シューズ・アウトレット"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6596,6 +6596,13 @@
       "city": "白井市",
       "opening_date": "2026-11-14",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "roan（京都御苑エリア）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-14",
+      "category": "抹茶カフェ"
     },
     {
       "name": "ぜにや 祇園店",
@@ -7032,6 +7039,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "3COINS+plus（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
       "name": "Ami Paris（渋谷PARCO・リニューアル）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7172,6 +7186,13 @@
       "category": "カルチャーショップ・ファッション（リニューアル）"
     },
     {
+      "name": "アエナ（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・オフプライスストア"
+    },
+    {
       "name": "アップガレージライダース浜松西店",
       "prefecture": "静岡県",
       "city": "浜松市中央区",
@@ -7212,6 +7233,13 @@
       "city": "大田区",
       "opening_date": "2026-11-20",
       "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "カルディコーヒーファーム（IKEDIA）",
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "opening_date": "2026-11-20",
+      "category": "コーヒー・輸入食品"
     },
     {
       "name": "しんぱち食堂 あみプレミアム・アウトレット店",
@@ -7298,20 +7326,6 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
-      "name": "無印良品久喜吉羽",
-      "prefecture": "埼玉県",
-      "city": "久喜市",
-      "opening_date": "2026-11-20",
-      "category": "生活雑貨・食品・衣服"
-    },
-    {
-      "name": "カルディコーヒーファーム（IKEDIA）",
-      "prefecture": "大阪府",
-      "city": "池田市",
-      "opening_date": "2026-11-20",
-      "category": "コーヒー・輸入食品"
-    },
-    {
       "name": "成城石井（IKEDIA）",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -7319,18 +7333,11 @@
       "category": "食品スーパー"
     },
     {
-      "name": "3COINS+plus（IKEDIA）",
-      "prefecture": "大阪府",
-      "city": "池田市",
+      "name": "無印良品久喜吉羽",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
       "opening_date": "2026-11-20",
-      "category": "生活雑貨・インテリア雑貨"
-    },
-    {
-      "name": "アエナ（IKEDIA）",
-      "prefecture": "大阪府",
-      "city": "池田市",
-      "opening_date": "2026-11-20",
-      "category": "化粧品・オフプライスストア"
+      "category": "生活雑貨・食品・衣服"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -7606,6 +7613,13 @@
       "category": "ゲームライセンス商品・雑貨"
     },
     {
+      "name": "マクドナルド 京王クラウン街笹塚店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-24",
+      "category": "ファストフード"
+    },
+    {
       "name": "レゴ ストア（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -7632,13 +7646,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-24",
       "category": "キャラクターグッズ（期間限定ショップ）"
-    },
-    {
-      "name": "マクドナルド 京王クラウン街笹塚店",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-24",
-      "category": "ファストフード"
     },
     {
       "name": "萬馬軒 蒲田東口店",
@@ -7690,6 +7697,13 @@
       "category": "期間限定ポップアップ（ファッション）"
     },
     {
+      "name": "マクドナルド 国立谷保店",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
+    },
+    {
       "name": "ゆで太郎 田川店（もつ次郎併設）",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -7718,13 +7732,6 @@
       "category": "とんかつ・定食"
     },
     {
-      "name": "マクドナルド 国立谷保店",
-      "prefecture": "東京都",
-      "city": "国立市",
-      "opening_date": "2026-11-25",
-      "category": "ファストフード"
-    },
-    {
       "name": "Anker Store 岡山一番街",
       "prefecture": "岡山県",
       "city": "岡山市北区",
@@ -7751,6 +7758,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "期間限定ポップアップ（洋菓子）"
+    },
+    {
+      "name": "カルディコーヒーファーム セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "コーヒー・輸入食品"
     },
     {
       "name": "ケンタッキーフライドチキン イオンタウン久留米東櫛原店",
@@ -7800,13 +7814,6 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "常設コラボ飲食店（11/19プレオープン）"
-    },
-    {
-      "name": "カルディコーヒーファーム セレオ八王子店",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-11-26",
-      "category": "コーヒー・輸入食品"
     },
     {
       "name": "a.v.v イオンモール伊達店",
@@ -8271,6 +8278,13 @@
       "category": "美容室・ヘッドスパ"
     },
     {
+      "name": "ビストロ ア ビエント（SHIBUYA PANORAMA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "フレンチビストロ（リニューアル）"
+    },
+    {
       "name": "天神シャングリラ",
       "prefecture": "福岡県",
       "city": "福岡市中央区",
@@ -8278,11 +8292,25 @@
       "category": "ライブハウス"
     },
     {
+      "name": "鮨割烹 しゅんさい（SHIBUYA PANORAMA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "鮨割烹（リニューアル）"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
       "opening_date": "2026-12-01",
       "category": "ファッション（アウトレット）"
+    },
+    {
+      "name": "EN HOTEL Tokyo Kamata",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-12-01",
+      "category": "ホテル（リブランド）"
     },
     {
       "name": "ITTO個別指導学院 倉敷福田校",
