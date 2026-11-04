@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T21:41:26+09:00",
+  "updatetime": "2026-11-04T22:40:55+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7354,6 +7354,13 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "無印良品 高岡早川",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・食品・衣服"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8320,6 +8327,13 @@
       "category": "鮨割烹（リニューアル）"
     },
     {
+      "name": "マクドナルド 伏見桃山店",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "opening_date": "2026-11-30",
+      "category": "ファストフード（営業再開）"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -8367,6 +8381,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-03",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "サンディ 伊勢田店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-12-03",
+      "category": "食品ディスカウントスーパー"
     },
     {
       "name": "Repilates（リピラティス）イオンモールとなみ店",
