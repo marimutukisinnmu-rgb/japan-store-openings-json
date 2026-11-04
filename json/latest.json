@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-04T16:48:21+09:00",
+  "updatetime": "2026-11-04T17:45:25+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6143,6 +6143,13 @@
       "category": "フレグランス・スキンケア・トリートメント"
     },
     {
+      "name": "すき家 高岡大野店",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-11",
+      "category": "牛丼・定食（移転新築）"
+    },
+    {
       "name": "スケッチャーズアウトレット足利店",
       "prefecture": "栃木県",
       "city": "足利市",
@@ -7753,6 +7760,13 @@
       "category": "期間限定ポップアップ（ベーカリー・洋菓子）"
     },
     {
+      "name": "WithGreen 光が丘IMA店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-26",
+      "category": "サラダボウル専門店"
+    },
+    {
       "name": "オクシタニアル（渋谷スクランブルスクエア POP UP）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7814,13 +7828,6 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "常設コラボ飲食店（11/19プレオープン）"
-    },
-    {
-      "name": "WithGreen 光が丘IMA店",
-      "prefecture": "東京都",
-      "city": "練馬区",
-      "opening_date": "2026-11-26",
-      "category": "サラダボウル専門店"
     },
     {
       "name": "a.v.v イオンモール伊達店",
