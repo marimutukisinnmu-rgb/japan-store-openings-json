@@ -1,0 +1,120 @@
+{
+  "run_at": "2026-11-05T05:42:22+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "ローソン公式 新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "verified_facts": "公式ページの2026-11-06、2026-11-12、2026-11-13オープン店舗を照合。確認した14候補はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社ジーアイビー発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "verified_facts": "ブルースカイランドリー2026年11月出店10店舗（11/5、11/6、11/13、11/20、11/27）を照合。全10店舗が既存JSONに登録済み。"
+    },
+    {
+      "source": "SKECHERS JAPAN G.K.発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000074.000074058.html",
+      "verified_facts": {
+        "name": "スケッチャーズアウトレット足利店",
+        "opening_date": "2026-11-11",
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "status": "既存登録済み"
+      }
+    },
+    {
+      "source": "道助商店公式Instagramの告知を引用する地域情報記事",
+      "url": "https://ebetsunopporo.com/?p=57127",
+      "corroborating_url": "https://ebetsu.in/modules/d3pipes2/",
+      "verified_facts": {
+        "name": "道助商店 janjan 3番通店",
+        "opening_date": "2026-11-22",
+        "prefecture": "北海道",
+        "city": "江別市",
+        "address": "北海道江別市野幌屯田町46-9",
+        "category": "定食屋",
+        "note": "記事は公式Instagramの開店日告知を出典として記載。Instagram本体は取得制限で直接閲覧できず、複数の地域情報ソースで内容を照合。"
+      }
+    },
+    {
+      "source": "株式会社ローソンエンタテインメント発表（PR TIMES配信）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000748.000034304.html",
+      "verified_facts": {
+        "name": "ローソン・ユナイテッドシネマ キャナルシティ13",
+        "opening_date": "2026-12-18",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "address": "福岡県福岡市博多区住吉1丁目2 キャナルシティ博多4階",
+        "category": "映画館（リニューアル）"
+      }
+    },
+    {
+      "source": "追加候補の公式発表・施設発表照合",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000001.000194074.html",
+        "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+        "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc"
+      ],
+      "verified_facts": "王道乃印 飛道家、WR.Yoyogi Park、カフェ・ラデュレ新丸ビル店、WithGreen光が丘IMA店、POP MART沖縄浦添PARCO CITY店、POP MART LUCUA SOUTH店、創作オムライス ポムの樹（イオンモール羽生・リニューアル）はすべて既存JSONに登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1306,
+    "added": [
+      {
+        "name": "道助商店 janjan 3番通店",
+        "prefecture": "北海道",
+        "city": "江別市",
+        "opening_date": "2026-11-22",
+        "category": "定食屋"
+      },
+      {
+        "name": "ローソン・ユナイテッドシネマ キャナルシティ13",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-12-18",
+        "category": "映画館（リニューアル）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1308
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "20fa4466a6391cfeefbdd1a980758db567400d8e",
+    "commit_sha": "ff33c1c29a384bd0fabb15aa479c581e86363881",
+    "blob_sha": "0b4a98fcd17e19eae97416020040b26250136679",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 2,
+    "post_fetch": "success",
+    "existing_records_preserved": true,
+    "existing_record_relative_order_preserved": true,
+    "blob_sha_matches_after_fetch": true
+  },
+  "errors": [
+    {
+      "source": "道助商店公式Instagram",
+      "reason": "Web取得がスロットリングにより失敗。公式投稿を直接閲覧できず。公式Instagramの告知を引用する複数の地域情報ソースを照合したうえで追加。"
+    }
+  ],
+  "unverified": [
+    {
+      "item": "スシロー 新さっぽろデュオ店",
+      "reason": "公式求人を引用する記事で2026年12月下旬予定・所在地は確認できるが、日付は特定されていないため登録保留。"
+    },
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の調査は公式発表・選定候補に限定。全国網羅の確認は未実施。"
+    }
+  ],
+  "task_status_note": "管理情報でタスクの有効状態を確認。今回、定期設定の変更・停止は行っていない。"
+}
