@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-05T03:41:20+09:00",
+  "updatetime": "2026-11-05T05:42:22+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7515,6 +7515,13 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "道助商店 janjan 3番通店",
+      "prefecture": "北海道",
+      "city": "江別市",
+      "opening_date": "2026-11-22",
+      "category": "定食屋"
+    },
+    {
       "name": "B-SIDE LABEL（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -9095,6 +9102,13 @@
       "city": "桑名市",
       "opening_date": "2026-12-11",
       "category": "時計・アクセサリー"
+    },
+    {
+      "name": "ローソン・ユナイテッドシネマ キャナルシティ13",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-12-18",
+      "category": "映画館（リニューアル）"
     },
     {
       "name": "冷麺toカルビ（京都・木屋町）",
