@@ -1,0 +1,67 @@
+{
+  "run_at": "2026-11-04T23:45:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "株式会社LADUREE JAPON公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "verified_facts": {
+        "name": "カフェ・ラデュレ 新丸ビル店",
+        "opening_date": "2026-11-16",
+        "address": "東京都千代田区丸の内1-5-1 新丸の内ビルディング B1階",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "category": "カフェ・パティスリー（新コンセプト）"
+      }
+    },
+    {
+      "source": "ローソン公式新店舗情報（全国・地域別ページ）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "verified_facts": {
+        "checked_opening_dates": [
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06"
+        ],
+        "matched_records": 20,
+        "unmatched_records": 0
+      }
+    }
+  ],
+  "changes": {
+    "before_count": 1289,
+    "added": [
+      {
+        "name": "カフェ・ラデュレ 新丸ビル店",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-16",
+        "category": "カフェ・パティスリー（新コンセプト）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1290
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "commit_sha": "15d8a5f7f126d14eb3e0fe000fed694b72423a01",
+    "blob_sha": "715ec4bc8efb2f837a4446b3bee4b797b35ddcb5",
+    "json_parse": "success",
+    "required_fields": "valid",
+    "date_order": "valid",
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 1,
+    "post_fetch": "success",
+    "existing_record_order_preserved": true,
+    "official_lawson_records_matched": 20
+  },
+  "errors": [],
+  "unverified": [
+    {
+      "item": "全国すべての業種・事業者の新店情報",
+      "reason": "今回の確認範囲は検索で確認できた公式発表とローソン公式新店情報に限定。全国網羅の確認は未実施。未確認情報の推測登録はしていない。"
+    }
+  ],
+  "task_status_note": "管理情報では有効・毎時スケジュールを確認。次回実行時刻はnull。今回、スケジュール・有効状態は変更していない。"
+}
