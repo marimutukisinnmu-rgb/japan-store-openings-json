@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-01-22",
   "scope": "Japan",
-  "updatetime": "2026-11-05T02:43:29+09:00",
+  "updatetime": "2026-11-05T03:41:20+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5933,6 +5933,13 @@
       "category": "韓国料理（期間限定POPUP）"
     },
     {
+      "name": "EXPO 2027 オフィシャルポップアップストア ラフォーレ原宿店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-07",
+      "category": "公式ライセンス商品・期間限定ポップアップストア"
+    },
+    {
       "name": "zen place pilates 新横浜",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -6239,6 +6246,20 @@
       "city": "半田市",
       "opening_date": "2026-11-11",
       "category": "ベーカリーカフェ"
+    },
+    {
+      "name": "ルイスポールセン 名古屋ストア",
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "opening_date": "2026-11-11",
+      "category": "照明・インテリア専門店"
+    },
+    {
+      "name": "赤から池尻大橋店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-11",
+      "category": "鍋料理・飲食店"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6659,6 +6680,20 @@
       "city": "印西市",
       "opening_date": "2026-11-13",
       "category": "家具・インテリアショップ"
+    },
+    {
+      "name": "LUNA EARTH アミュプラザ小倉店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-13",
+      "category": "アクセサリー・ファッション雑貨"
+    },
+    {
+      "name": "アカチャンホンポ ベルモール店（リニューアル）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-13",
+      "category": "マタニティ・ベビー・キッズ用品（リニューアル）"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -7436,6 +7471,13 @@
       "city": "高岡市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
+    },
+    {
+      "name": "サロモンストア仙台パルコ店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-20",
+      "category": "スポーツ用品・フットウェア・アパレル（直営店）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
