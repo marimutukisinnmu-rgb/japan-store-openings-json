@@ -1,0 +1,52 @@
+{
+  "run_at": "2026-11-04T16:48:21+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "4ec1f81fb5186166c8aec33fd56b08a43e2c5858",
+  "source_commit_sha": "742604d23d5e8dba59ca25ee76a1f791ee601fcf",
+  "final_blob_sha": "0fa324226b654b35ac65a7fad32164d5f2d35225",
+  "item_count_before": 1283,
+  "item_count_after": 1284,
+  "added": [
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-26",
+      "category": "サラダボウル専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "checked": "WithGreenの2026-11-04付公式プレスリリースで、2026-11-26開店、東京都練馬区光が丘5-1-1 光が丘IMA 1F、サラダボウル専門店であることを確認。"
+    },
+    {
+      "name": "すき家 高岡大野店",
+      "url": "https://sukiya.jp/news/",
+      "checked": "すき家公式新店情報に2026-11-11朝9時オープンの掲載を確認。今回のデータ反映候補ではあるが、現行JSONに同名店が見つからず、住所の公式一次資料との確認が未完了のため登録保留。"
+    },
+    {
+      "name": "魁力屋 長野平林店",
+      "url": "https://www.kairikiya.co.jp/news/7080",
+      "checked": "運営会社の公式発表で2026-11-04グランドオープンを確認。現行JSONに既存レコードがあり、重複追加せず。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_counts": [
+      1
+    ],
+    "post_write_fetch": true,
+    "post_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unverified": "今回の検索・確認は候補と選定した情報源に限定され、全国すべての事業者を網羅した調査ではない。すき家 高岡大野店は公式ニュース掲載を確認したが、現行JSONへの反映に必要な住所の一次確認を今回完了できなかったため保留。"
+}
