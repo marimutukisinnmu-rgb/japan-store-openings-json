@@ -1,0 +1,68 @@
+{
+  "run_at": "2026-11-05T12:45:53+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "items": 1322,
+    "blob_sha": "07df8cf65f6fdfc80c7fc66b9675505ce7f2813f",
+    "updatetime": "2026-11-05T11:46:03+09:00"
+  },
+  "sources": [
+    {
+      "title": "株式会社セカンドリテイリング — 2026年11月新規出店12店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "use": "発表内の国内9店舗を既存JSONと照合。淵野辺南店を含め、国内候補はすべて既存登録済み。海外3店舗は全国日本店舗JSONの対象外。"
+    },
+    {
+      "title": "サイプレス・ホールディングス — 築地食堂 源ちゃん イオンモール伊達店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+      "use": "11月27日開店の源ちゃん、および同時出店するABURI百貫・銀座惣菜店・とんかつとう庵・天丼専門店ゑるびすを照合。すべて既存登録済み。"
+    },
+    {
+      "title": "THE GUNDAM BASE公式 — THE GUNDAM BASE SHIBUYA",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "use": "11月20日開店・渋谷PARCO 5Fを確認。既存登録済み。"
+    },
+    {
+      "title": "キルフェボン公式 — キル フェ ボン新宿",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "use": "11月28日開店・新宿区西新宿の所在地を確認。既存登録済み。"
+    },
+    {
+      "title": "株式会社ジーアイビー — ブルースカイランドリー2026年11月10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "use": "11月の10店舗一覧を照合。すべて既存登録済み。"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "rationale": "今回確認した公式発表・運営会社発表の候補はすべて既存JSONに登録済み。latest.jsonの内容は変更せず、既存データを保護した。"
+  },
+  "after": {
+    "items": 1322,
+    "updatetime": "2026-11-05T11:46:03+09:00",
+    "blob_sha": "07df8cf65f6fdfc80c7fc66b9675505ce7f2813f"
+  },
+  "validation": {
+    "json_parse": "success",
+    "readback": "success",
+    "blob_sha_unchanged": true,
+    "opening_dates_sorted": true,
+    "exact_duplicate_keys": 0,
+    "selected_candidate_presence": "all matched exactly once",
+    "latest_json_written": false
+  },
+  "unverified": [
+    "調査は選定した公式・運営元情報と候補に限定され、全国の全事業者を網羅したものではない。"
+  ],
+  "errors": [],
+  "automation_check": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
