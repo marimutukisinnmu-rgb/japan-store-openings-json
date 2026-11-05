@@ -1,0 +1,130 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-05T17:48:09+09:00",
+  "checked_sources": [
+    {
+      "name": "株式会社シード公式プレスリリース（SALAM OMIYAGE 浅草店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000130255.html",
+      "findings": "2026-11-06開業、東京・浅草の店舗であることを確認。既存JSONに同名・同日登録なし。"
+    },
+    {
+      "name": "株式会社エフリード公式プレスリリース（圧釜うどん もちり 栄店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000067.000100887.html",
+      "findings": "2026-11-10開店、名古屋市中区栄三丁目の店舗情報を確認。既存JSONに同名・同日登録なし。"
+    },
+    {
+      "name": "株式会社壽屋公式プレスリリース（コトブキヤ ダイバーシティ東京 プラザ店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000131.000104990.html",
+      "findings": "2026-11-13開店、東京都江東区・ダイバーシティ東京 プラザ5階の期間限定店を確認。既存JSONに同名・同日登録なし。"
+    },
+    {
+      "name": "株式会社アンドエスティHD公式プレスリリース（LEPSIM 3店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000003347.000001304.html",
+      "findings": "ららぽーと海老名店（2026-11-13）、イオンモール伊達店（2026-11-27）、イオンモール広島府中店（2026-11-27）の開店日・所在地を確認。3件とも既存JSONに同名・同日登録なし。"
+    },
+    {
+      "name": "favy配信プレスリリース（Taverna di Famiglia / reDine広島）",
+      "url": "https://www.value-press.com/pressrelease/383578",
+      "findings": "2026-11-16開店、広島市中区基町クレド・パセーラ6階の所在地を確認。既存JSONに同名・同日登録なし。"
+    },
+    {
+      "name": "ユニクロ公式発表（ユニクロ 京都）",
+      "url": "https://www.uniqlo.com/jp/ja/contents/corp/press-release/2026/10/26102111_store.html",
+      "findings": "2026-11-06開店候補を照合。既存JSONには「ユニクロ 京都（グローバル旗艦店）」として登録済み。重複追加なし。"
+    },
+    {
+      "name": "株式会社東横イン公式プレスリリース（東横INN豊橋駅前大通り）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000121.000009718.html",
+      "findings": "2026-11-06開店候補を照合。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社アップガレージグループ公式プレスリリース（浜松西店3業態）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000229.000058006.html",
+      "findings": "2026-11-20開店候補のアップガレージ浜松西店、アップガレージライダース浜松西店、タイヤ流通センターアップガレージ浜松西店はすべて既存登録済み。"
+    },
+    {
+      "name": "阪急阪神不動産公式プレスリリース（タイムアウトマーケット大阪）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000628.000033147.html",
+      "findings": "北新地セレブリテ（2026-11-10）および堂島 KITAGAWA（2026-11-16）は既存登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1329,
+    "added": [
+      {
+        "name": "SALAM OMIYAGE 浅草店",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-11-06",
+        "category": "訪日旅行者向け土産専門店"
+      },
+      {
+        "name": "圧釜うどん もちり 栄店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-11-10",
+        "category": "うどん専門店"
+      },
+      {
+        "name": "コトブキヤ ダイバーシティ東京 プラザ店",
+        "prefecture": "東京都",
+        "city": "江東区",
+        "opening_date": "2026-11-13",
+        "category": "ホビー・フィギュア・プラモデル（期間限定店）"
+      },
+      {
+        "name": "LEPSIM ららぽーと海老名店",
+        "prefecture": "神奈川県",
+        "city": "海老名市",
+        "opening_date": "2026-11-13",
+        "category": "ファッション"
+      },
+      {
+        "name": "Taverna di Famiglia（reDine 広島）",
+        "prefecture": "広島県",
+        "city": "広島市中区",
+        "opening_date": "2026-11-16",
+        "category": "創作イタリアン"
+      },
+      {
+        "name": "LEPSIM イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27",
+        "category": "ファッション"
+      },
+      {
+        "name": "LEPSIM イオンモール広島府中店",
+        "prefecture": "広島県",
+        "city": "安芸郡府中町",
+        "opening_date": "2026-11-27",
+        "category": "ファッション"
+      }
+    ],
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1336,
+    "updatetime": "2026-11-05T17:48:09+09:00"
+  },
+  "validation": {
+    "json_reparse": true,
+    "chronological_order": true,
+    "duplicate_name_prefecture_date_keys": 0,
+    "each_added_record_occurs_once": true,
+    "all_preexisting_records_preserved": true,
+    "post_write_refetch": true,
+    "latest_json_blob_sha": "fb7ca555242d184b17e19b5f478ee4b26d743807",
+    "latest_json_commit_sha": "bbfa725b6719af434fdf5379eaa52e7815699424"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者を網羅した調査ではなく、今回確認した公式・運営元情報と検索候補の範囲に限られる。未発見の開店情報が残る可能性がある。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
