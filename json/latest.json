@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T02:47:53+09:00",
+  "updatetime": "2026-11-06T03:45:48+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4309,6 +4309,13 @@
       "category": "100円ショップ"
     },
     {
+      "name": "ケンタッキーフライドチキン 南花田店",
+      "prefecture": "大阪府",
+      "city": "堺市北区",
+      "opening_date": "2026-10-31",
+      "category": "ファストフード"
+    },
+    {
       "name": "シモンズ（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -4398,13 +4405,6 @@
       "city": "江東区",
       "opening_date": "2026-10-31",
       "category": "よもぎ蒸し専門サロン"
-    },
-    {
-      "name": "ケンタッキーフライドチキン 南花田店",
-      "prefecture": "大阪府",
-      "city": "堺市北区",
-      "opening_date": "2026-10-31",
-      "category": "ファストフード"
     },
     {
       "name": "Eleanor spa&treatment 郡山店",
@@ -5513,6 +5513,13 @@
       "category": "カプセルトイ専門店（公式ショップ）"
     },
     {
+      "name": "カスミ元吉田店",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー（店舗転換）"
+    },
+    {
       "name": "きづなすし 上野店",
       "prefecture": "東京都",
       "city": "台東区",
@@ -5975,6 +5982,13 @@
       "category": "牛丼・定食"
     },
     {
+      "name": "日光茶屋たばねのし",
+      "prefecture": "栃木県",
+      "city": "日光市",
+      "opening_date": "2026-11-07",
+      "category": "和クレープ専門店（常設店舗）"
+    },
+    {
       "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
       "prefecture": "東京都",
       "city": "港区",
@@ -5987,6 +6001,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-11-08",
       "category": "ピラティス専門スタジオ"
+    },
+    {
+      "name": "リッチモンドホテルプレミア浅草",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-08",
+      "category": "ホテル（全館リニューアル）"
     },
     {
       "name": "DAKS/LEONARD（MITSUI OUTLET PARK 岡崎）",
@@ -6507,6 +6528,13 @@
       "category": "生活雑貨・インテリア雑貨（移転リニューアル）"
     },
     {
+      "name": "BLUE POND（松坂屋名古屋店 POP UP）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（キャラメルミルクスイーツ）"
+    },
+    {
       "name": "chocoZAP ドン・キホーテUNY藤岡",
       "prefecture": "群馬県",
       "city": "藤岡市",
@@ -6610,6 +6638,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "中華・チャーハン（リニューアル）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 名古屋則武新町店",
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "opening_date": "2026-11-13",
+      "category": "ファストフード"
     },
     {
       "name": "ごちとん エキュート大宮店",
@@ -6745,6 +6780,13 @@
       "category": "眼鏡・サングラス・補聴器"
     },
     {
+      "name": "三田製麺所 藤沢石川店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-11-13",
+      "category": "つけ麺専門店"
+    },
+    {
       "name": "松屋 溝の口南口店（営業再開）",
       "prefecture": "神奈川県",
       "city": "川崎市",
@@ -6771,20 +6813,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
-    },
-    {
-      "name": "ケンタッキーフライドチキン 名古屋則武新町店",
-      "prefecture": "愛知県",
-      "city": "名古屋市西区",
-      "opening_date": "2026-11-13",
-      "category": "ファストフード"
-    },
-    {
-      "name": "BLUE POND（松坂屋名古屋店 POP UP）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-11-13",
-      "category": "期間限定ポップアップ（キャラメルミルクスイーツ）"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -7179,6 +7207,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-19",
+      "category": "体験型期間限定カフェイベント（事前予約制）"
+    },
+    {
       "name": "chocoZAP 一乗寺向畑",
       "prefecture": "京都府",
       "city": "京都市左京区",
@@ -7226,6 +7261,13 @@
       "city": "京都市下京区",
       "opening_date": "2026-11-19",
       "category": "ファッション・キャラクターグッズ・カフェ"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 大小路店",
+      "prefecture": "鹿児島県",
+      "city": "薩摩川内市",
+      "opening_date": "2026-11-19",
+      "category": "ファストフード"
     },
     {
       "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
@@ -7310,20 +7352,6 @@
       "city": "つくば市",
       "opening_date": "2026-11-19",
       "category": "ラーメン"
-    },
-    {
-      "name": "ケンタッキーフライドチキン 大小路店",
-      "prefecture": "鹿児島県",
-      "city": "薩摩川内市",
-      "opening_date": "2026-11-19",
-      "category": "ファストフード"
-    },
-    {
-      "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-19",
-      "category": "体験型期間限定カフェイベント（事前予約制）"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
@@ -7536,6 +7564,13 @@
       "category": "コーヒー・輸入食品"
     },
     {
+      "name": "ケンタッキーフライドチキン 土佐バイパス店",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "opening_date": "2026-11-20",
+      "category": "ファストフード"
+    },
+    {
       "name": "サロモンストア仙台パルコ店",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -7648,13 +7683,6 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
-      "name": "ケンタッキーフライドチキン 土佐バイパス店",
-      "prefecture": "高知県",
-      "city": "高知市",
-      "opening_date": "2026-11-20",
-      "category": "ファストフード"
-    },
-    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7683,6 +7711,13 @@
       "category": "キャンディ専門店"
     },
     {
+      "name": "ケンタッキーフライドチキン 尾張旭店",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "opening_date": "2026-11-21",
+      "category": "ファストフード"
+    },
+    {
       "name": "ビッグ・エー狭山中央店",
       "prefecture": "埼玉県",
       "city": "狭山市",
@@ -7695,13 +7730,6 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-21",
       "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "ケンタッキーフライドチキン 尾張旭店",
-      "prefecture": "愛知県",
-      "city": "尾張旭市",
-      "opening_date": "2026-11-21",
-      "category": "ファストフード"
     },
     {
       "name": "道助商店 janjan 3番通店",
@@ -8362,6 +8390,13 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "ケンタッキーフライドチキン イズミヤ長岡店",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
       "name": "サーティワンアイスクリーム イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -8537,13 +8572,6 @@
       "category": "天丼専門店"
     },
     {
-      "name": "ケンタッキーフライドチキン イズミヤ長岡店",
-      "prefecture": "京都府",
-      "city": "長岡京市",
-      "opening_date": "2026-11-27",
-      "category": "ファストフード"
-    },
-    {
       "name": "Bistro IKEDAYAMA",
       "prefecture": "東京都",
       "city": "品川区",
@@ -8619,6 +8647,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "洋菓子・カフェ"
+    },
+    {
+      "name": "ケンタッキーフライドチキン アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "ファストフード"
     },
     {
       "name": "シェイク シャック 西新宿店",
@@ -8712,13 +8747,6 @@
       "category": "ラーメン"
     },
     {
-      "name": "ケンタッキーフライドチキン アル・プラザ宇治東店",
-      "prefecture": "京都府",
-      "city": "宇治市",
-      "opening_date": "2026-11-28",
-      "category": "ファストフード"
-    },
-    {
       "name": "しゃぶ葉 池田駅前店",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -8789,18 +8817,18 @@
       "category": "個別指導塾（新規開校）"
     },
     {
-      "name": "ドラえもん未来デパート（リニューアル）",
-      "prefecture": "東京都",
-      "city": "江東区",
-      "opening_date": "2026-12-01",
-      "category": "キャラクター公式ショップ（リニューアル）"
-    },
-    {
       "name": "ケンタッキーフライドチキン イオンモール広島府中店",
       "prefecture": "広島県",
       "city": "安芸郡府中町",
       "opening_date": "2026-12-01",
       "category": "ファストフード"
+    },
+    {
+      "name": "ドラえもん未来デパート（リニューアル）",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-01",
+      "category": "キャラクター公式ショップ（リニューアル）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -8894,6 +8922,13 @@
       "category": "回転寿司"
     },
     {
+      "name": "ケンタッキーフライドチキン アピタ福井大和田店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "ファストフード"
+    },
+    {
       "name": "しろたんふんわりストア 鎌倉小町通り店",
       "prefecture": "神奈川県",
       "city": "鎌倉市",
@@ -8906,13 +8941,6 @@
       "city": "太田市",
       "opening_date": "2026-12-04",
       "category": "洗車サービス・カーケア"
-    },
-    {
-      "name": "ケンタッキーフライドチキン アピタ福井大和田店",
-      "prefecture": "福井県",
-      "city": "福井市",
-      "opening_date": "2026-12-04",
-      "category": "ファストフード"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
@@ -9496,18 +9524,18 @@
       "category": "映画館（リニューアル）"
     },
     {
-      "name": "冷麺toカルビ（京都・木屋町）",
-      "prefecture": "京都府",
-      "city": "京都市",
-      "opening_date": "2026-12-21",
-      "category": "韓国料理店（日本初出店）"
-    },
-    {
       "name": "ケンタッキーフライドチキン 阪急淡路駅前店",
       "prefecture": "大阪府",
       "city": "大阪市東淀川区",
       "opening_date": "2026-12-21",
       "category": "ファストフード"
+    },
+    {
+      "name": "冷麺toカルビ（京都・木屋町）",
+      "prefecture": "京都府",
+      "city": "京都市",
+      "opening_date": "2026-12-21",
+      "category": "韓国料理店（日本初出店）"
     },
     {
       "name": "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）",
