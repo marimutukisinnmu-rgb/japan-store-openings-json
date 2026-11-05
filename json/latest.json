@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T18:42:20+09:00",
+  "updatetime": "2026-11-05T19:41:07+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6484,6 +6484,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-12",
+      "category": "映画公式グッズショップ（期間限定）"
     },
     {
       "name": "3COINS+plus（アミュプラザ鹿児島）",
