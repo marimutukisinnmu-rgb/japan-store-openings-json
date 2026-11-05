@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-05T11:46:03+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "items": 1325,
+    "blob_sha": "944e1b14c22c1c57c0051124061743ec55e72d75",
+    "updatetime": "2026-11-05T10:42:35+09:00"
+  },
+  "sources": [
+    {
+      "title": "JR西日本SC開発株式会社 — LUCUA SOUTH 2026年11月開業店舗一覧（全28店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "use": "施設運営元の公式リリース。2026-11-24の28店舗リストと12月の開業日程を照合。"
+    },
+    {
+      "title": "POP MART JAPAN — POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "use": "POP MARTの11月24日グランドオープンをブランド運営元発表で照合。既存登録済み。"
+    },
+    {
+      "title": "ローソン公式 新店情報（関東）",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/kantou.html",
+      "use": "11月5日〜13日の候補を照合。確認候補は既存登録済み。"
+    },
+    {
+      "title": "すかいらーくグループ公式 新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "use": "11月・12月の候補を照合。確認候補は既存登録済み。"
+    },
+    {
+      "title": "すき家公式 新着情報",
+      "url": "https://sukiya.jp/news/",
+      "use": "高岡大野店（11月11日）を照合。既存登録済み。"
+    },
+    {
+      "title": "LADUREE JAPON — カフェ・ラデュレ新丸ビル店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "use": "11月16日開店を照合。既存登録済み。"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 3,
+    "removed_entries": [
+      {
+        "name": "B-SIDE LABEL（LUCUA SOUTH）",
+        "opening_date": "2026-11-24",
+        "reason": "official list has the same location under the canonical label ビーサイドレーベル"
+      },
+      {
+        "name": "POP MART（LUCUA SOUTH）",
+        "opening_date": "2026-11-24",
+        "reason": "duplicate of POP MART LUCUA SOUTH店; one physical store in the official list"
+      },
+      {
+        "name": "SUKI PLACE（LUCUA SOUTH）",
+        "opening_date": "2026-11-24",
+        "reason": "same event space as official name スキ♡プレイス"
+      }
+    ],
+    "rationale": "The official facility operator's November 2026 list contains 28 store locations. The JSON contained 31 Osaka/Kita-ku records for 2026-11-24, including these three verified alternate-name duplicates. Canonical records were preserved."
+  },
+  "after": {
+    "items": 1322,
+    "updatetime": "2026-11-05T11:46:03+09:00",
+    "blob_sha": "07df8cf65f6fdfc80c7fc66b9675505ce7f2813f"
+  },
+  "validation": {
+    "json_parse": "success",
+    "readback": "success",
+    "readback_blob_sha_matches_write": true,
+    "lucua_south_2026_11_24_records": 28,
+    "exact_duplicate_keys": 0,
+    "existing_other_records_preserved": true
+  },
+  "unverified": [
+    "LUCUA SOUTH's namco entry is described as opening in early December without an exact date; it was not added.",
+    "Research covered selected official sources and candidate stores, not every business nationwide."
+  ],
+  "errors": []
+}
