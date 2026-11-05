@@ -1,0 +1,73 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-05T18:42:20+09:00",
+  "checked_sources": [
+    {
+      "name": "株式会社ファッズ公式プレスリリース（新時代 植田飯田街道店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000281.000070373.html",
+      "findings": "2026-11-05リニューアルオープン、愛知県名古屋市天白区植田3丁目1515の店舗情報を確認。更新前JSONに同名・同日レコードなし。"
+    },
+    {
+      "name": "ローソン公式 中部エリア新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/chubu.html",
+      "findings": "11月6日以降の掲載候補を照合。確認した候補は既存JSONに登録済み。"
+    },
+    {
+      "name": "すき家公式新着情報",
+      "url": "https://sukiya.jp/news/",
+      "findings": "高岡大野店（2026-11-11）を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社ジーアイビー公式配信（ブルースカイランドリー11月10店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "findings": "11月開店10店舗すべてを既存JSONと照合し、同名レコードが各1件存在することを確認。"
+    },
+    {
+      "name": "株式会社PAPABUBBLE公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "findings": "PAPABUBBLE イクスピアリ店（2026-11-21）を照合。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社セカンドリテイリング公式プレスリリース（2026年11月新規出店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "findings": "画像掲載の国内出店候補9件を既存JSONと照合し、すべて既存登録済み。香港・台湾・タイの海外店舗は対象外。"
+    }
+  ],
+  "changes": {
+    "before_count": 1336,
+    "added": [
+      {
+        "name": "新時代 植田飯田街道店",
+        "prefecture": "愛知県",
+        "city": "名古屋市天白区",
+        "opening_date": "2026-11-05",
+        "category": "居酒屋（リニューアル）"
+      }
+    ],
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1337,
+    "updatetime": "2026-11-05T18:42:20+09:00"
+  },
+  "validation": {
+    "json_reparse": true,
+    "chronological_order": true,
+    "duplicate_name_prefecture_date_keys": 0,
+    "each_added_record_occurs_once": true,
+    "all_preexisting_records_preserved": true,
+    "post_write_refetch": true,
+    "latest_json_blob_sha": "81a9343f0f8d7f92bb4c6939dafd698e801ac25c",
+    "latest_json_commit_sha": "942a3155a1db5af5ffdb35b8ba2176c252fa2fbe"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者を網羅した調査ではなく、今回確認した公式・運営元情報と検索候補の範囲に限られる。未発見の開店情報が残る可能性がある。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "status_note": "定期実行中のランタイム情報では有効。次回実行時刻は独立して取得できていない。"
+  }
+}
