@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-11-06T06:45:57+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1379,
+  "after_count": 1381,
+  "added": [
+    {
+      "name": "アイスヴィレッジ（星野リゾート トマム）",
+      "prefecture": "北海道",
+      "city": "占冠村",
+      "opening_date": "2026-12-20",
+      "category": "期間限定観光施設（冬季営業）"
+    },
+    {
+      "name": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定キャラクター雑貨ポップアップストア"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "星野リゾート公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002213.000033064.html",
+      "confirmed": "アイスヴィレッジの2026-12-20開始、2027-03-10までの冬季営業、星野リゾート トマム内、所在地は北海道勇払郡占冠村字中トマム。"
+    },
+    {
+      "name": "グランデュオ立川公式サイト",
+      "url": "https://www.granduo.jp/tachikawa/",
+      "confirmed": "マインドウェイブ キャラクターショップのPOP UP、2026-11-18〜2026-11-29、2Fイベントスペース。",
+      "limitation": "公式サイトの検索結果表示で開催情報を確認。本文ページの直接取得はタイムアウトしたため、その制限を記録。"
+    },
+    {
+      "name": "株式会社セカンドリテイリング公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "confirmed": "2026年11月の国内新規出店一覧を照合。国内候補は既存JSONに登録済みで、重複追加なし。"
+    },
+    {
+      "name": "星野リゾート公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002213.000033064.html",
+      "confirmed": "アイスヴィレッジの開催開始日・開催期間・場所。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "chronological": true,
+    "added_records_each_once": [
+      {
+        "key": "アイスヴィレッジ（星野リゾート トマム）|北海道|占冠村|2026-12-20",
+        "count": 1
+      },
+      {
+        "key": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）|東京都|立川市|2026-11-18",
+        "count": 1
+      }
+    ],
+    "existing_records_preserved": true,
+    "saved_blob_sha_matches_update": true
+  },
+  "save": {
+    "latest_json_commit_sha": "a98c06d9cd8bfb92206ba728cd2fb0fef23d4cd6",
+    "latest_json_blob_sha": "a51dfc704a42cfb1ac6ee0f2c53a5a4382d843b9"
+  },
+  "unverified": [
+    "全国すべての事業者を網羅した調査ではない。",
+    "グランデュオ立川の詳細ページは直接取得がタイムアウト。開催情報は公式サイトの検索結果表示で確認した。",
+    "グランデュオ立川の番地住所は今回の掲載情報から確認できなかったため、JSONの市区町村欄は立川市とした。"
+  ]
+}
