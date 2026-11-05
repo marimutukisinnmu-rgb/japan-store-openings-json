@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T07:42:48+09:00",
+  "updatetime": "2026-11-06T08:40:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -9685,6 +9685,13 @@
       "category": "ホテル"
     },
     {
+      "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2027-01-06",
+      "category": "期間限定コラボカフェ（2027-01-06〜2027-03-07）"
+    },
+    {
       "name": "原神CAFE",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -9704,6 +9711,13 @@
       "city": "福岡市中央区",
       "opening_date": "2027-01-29",
       "category": "期間限定公式グッズ販売・展示ポップアップストア"
+    },
+    {
+      "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 大阪店）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2027-02-10",
+      "category": "期間限定コラボカフェ（2027-02-10〜2027-04-11）"
     },
     {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（大阪）",
