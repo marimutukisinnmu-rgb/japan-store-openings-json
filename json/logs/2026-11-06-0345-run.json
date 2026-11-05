@@ -4,8 +4,8 @@
   "target": "json/latest.json",
   "outcome": "updated",
   "before_count": 1366,
-  "added_count": 4,
-  "after_count": 1370,
+  "added_count": 5,
+  "after_count": 1371,
   "changes": {
     "added": [
       {
@@ -23,6 +23,10 @@
       {
         "name": "三田製麺所 藤沢石川店",
         "opening_date": "2026-11-13"
+      },
+      {
+        "name": "ケンタッキーフライドチキン 与野東口店",
+        "opening_date": "2026-11-24"
       }
     ],
     "corrected": 0,
@@ -64,6 +68,15 @@
         "opening date 2026-11-13",
         "Fujisawa, Kanagawa address"
       ]
+    },
+    {
+      "publisher": "KFC Japan official recruiting site",
+      "url": "https://job-kfc.net/jobfind-pc/job/All/245121",
+      "verified_fields": [
+        "store name",
+        "opening date 2026-11-24",
+        "Urawa-ku, Saitama address"
+      ]
     }
   ],
   "verification": {
@@ -73,7 +86,7 @@
     "duplicate_keys": 0,
     "added_records_each_once": true,
     "post_write_fetch": true,
-    "blob_sha": "0d310e3ae4685d49206d13c44410012c420a904e"
+    "blob_sha": "dab393f32a4ddce617c39aa594250eb4208fe507"
   },
   "errors": [],
   "limitations": [
