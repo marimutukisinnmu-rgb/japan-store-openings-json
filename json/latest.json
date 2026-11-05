@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T06:45:57+09:00",
+  "updatetime": "2026-11-06T07:42:48+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -3014,6 +3014,13 @@
       "category": "ベーカリー・ビストロ"
     },
     {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 安曇野店）",
+      "prefecture": "長野県",
+      "city": "安曇野市",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
       "name": "plus KAMERIYA GINZA SIX POP UP SHOP",
       "prefecture": "東京都",
       "city": "中央区",
@@ -3887,6 +3894,13 @@
       "city": "桑名市",
       "opening_date": "2026-10-30",
       "category": "キッズ・ファッション"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 札幌店）",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
     },
     {
       "name": "PUMA グランベリーパーク店",
@@ -5058,6 +5072,13 @@
       "category": "ブランド品買取（リニューアル）"
     },
     {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 仙台茂庭店）",
+      "prefecture": "宮城県",
+      "city": "仙台市太白区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
       "name": "Penno Penna 大船ルミネウィング店",
       "prefecture": "神奈川県",
       "city": "鎌倉市",
@@ -5618,6 +5639,13 @@
       "category": "リユースショップ"
     },
     {
+      "name": "デリシアまめじま店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
+    },
+    {
       "name": "ニトリ 大谷田店",
       "prefecture": "東京都",
       "city": "足立区",
@@ -5889,13 +5917,6 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
-    },
-    {
-      "name": "デリシアまめじま店",
-      "prefecture": "長野県",
-      "city": "長野市",
-      "opening_date": "2026-11-06",
-      "category": "食品スーパー"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -6232,6 +6253,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-11",
       "category": "期間限定キャラクターグッズ・ポップアップ"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
     },
     {
       "name": "PISOLA千葉公園店",
@@ -7186,6 +7214,13 @@
       "category": "屋内型プレイグラウンド"
     },
     {
+      "name": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定キャラクター雑貨ポップアップストア"
+    },
+    {
       "name": "ローカルインディア ラスカ平塚店",
       "prefecture": "神奈川県",
       "city": "平塚市",
@@ -7214,13 +7249,6 @@
       "category": "洋菓子"
     },
     {
-      "name": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）",
-      "prefecture": "東京都",
-      "city": "立川市",
-      "opening_date": "2026-11-18",
-      "category": "期間限定キャラクター雑貨ポップアップストア"
-    },
-    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7247,6 +7275,13 @@
       "city": "常総市",
       "opening_date": "2026-11-19",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー ルクアイーレ店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
     },
     {
       "name": "YOLU MELLOW NIGHT Cafe（MOSKA by GingerGarden）",
@@ -8642,6 +8677,13 @@
       "category": "イタリアン"
     },
     {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 福岡店）",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-28",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
       "name": "SHIBIRE NOODLES 蝋燭屋（明治安田新宿ビル）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -8887,6 +8929,13 @@
       "category": "食品ディスカウントスーパー"
     },
     {
+      "name": "QB PREMIUM エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "理髪店"
+    },
+    {
       "name": "Repilates（リピラティス）イオンモールとなみ店",
       "prefecture": "富山県",
       "city": "砺波市",
@@ -8936,6 +8985,13 @@
       "category": "体験型公式ショップ・キャラクターグッズ"
     },
     {
+      "name": "エトモ菊名",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "駅直結型商業施設"
+    },
+    {
       "name": "かっぱ寿司 富山下赤江店",
       "prefecture": "富山県",
       "city": "富山市",
@@ -8964,32 +9020,11 @@
       "category": "洗車サービス・カーケア"
     },
     {
-      "name": "エトモ菊名",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-12-04",
-      "category": "駅直結型商業施設"
-    },
-    {
-      "name": "東急ストア菊名店（エトモ菊名・リニューアル再開）",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-12-04",
-      "category": "食品スーパー（リニューアル再開）"
-    },
-    {
       "name": "タリーズコーヒー エトモ菊名店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
       "opening_date": "2026-12-04",
       "category": "スペシャルティコーヒーショップ"
-    },
-    {
-      "name": "ミスターワッフル エトモ菊名店",
-      "prefecture": "神奈川県",
-      "city": "横浜市港北区",
-      "opening_date": "2026-12-04",
-      "category": "ベルギーリエージュワッフル専門店"
     },
     {
       "name": "ビアードパパ エトモ菊名店",
@@ -8999,6 +9034,13 @@
       "category": "シュークリーム専門店"
     },
     {
+      "name": "ミスターワッフル エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "ベルギーリエージュワッフル専門店"
+    },
+    {
       "name": "青山フラワーマーケット エトモ菊名店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -9006,11 +9048,11 @@
       "category": "フラワーショップ"
     },
     {
-      "name": "QB PREMIUM エトモ菊名店",
+      "name": "東急ストア菊名店（エトモ菊名・リニューアル再開）",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
       "opening_date": "2026-12-04",
-      "category": "理髪店"
+      "category": "食品スーパー（リニューアル再開）"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
