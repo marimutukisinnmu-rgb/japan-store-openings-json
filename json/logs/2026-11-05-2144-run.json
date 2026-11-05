@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-11-05T21:44:00+09:00",
+  "scope": "Japan",
+  "target": "json/latest.json",
+  "sources_checked": [
+    {
+      "name": "Lawson official new-store listings",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/",
+        "https://www.lawson.co.jp/newstore/smt/kinki.html",
+        "https://www.lawson.co.jp/newstore/smt/chubu.html",
+        "https://www.lawson.co.jp/newstore/smt/kantou.html",
+        "https://www.lawson.co.jp/newstore/smt/touhoku.html"
+      ],
+      "result": "Reviewed upcoming November entries; checked the listed Nov 6 Lawson candidates against latest.json. All were already present once."
+    },
+    {
+      "name": "PAPABUBBLE official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "Nov 21 IKSPIARI store was confirmed and already registered once."
+    },
+    {
+      "name": "WR.Yoyogi Park operator press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "result": "Nov 6 opening was confirmed and already registered once."
+    },
+    {
+      "name": "Tag Heuer press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "result": "Nov 7 Ginza store was confirmed and already registered once."
+    },
+    {
+      "name": "Skylark official new-store list",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "result": "Checked Nov 25-29 listed openings; sampled candidates were already registered once."
+    },
+    {
+      "name": "Eleanor spa&treatment operator announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "Okinawa Chatan store date was checked against the existing entry; already registered once."
+    },
+    {
+      "name": "VENEX official announcement",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "result": "Nov 15 neverbetter opening was confirmed and already registered once."
+    }
+  ],
+  "change_summary": {
+    "before_count": 1338,
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1338,
+    "latest_json_written": false,
+    "reason": "No confirmed unregistered or correction-worthy record was found in this run."
+  },
+  "verification": {
+    "fetched_from_main": true,
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "date_order_violations": 0,
+    "duplicate_composite_keys": 0,
+    "checked_candidate_records_each_found_once": true,
+    "latest_blob_sha": "2018a50095cd4e066de7bc94ebf6f45e3af5d35d"
+  },
+  "errors": [],
+  "limitations": [
+    "This was a targeted review of selected official/operator sources, not an exhaustive census of every business nationwide.",
+    "No unsupported or undated candidate was added."
+  ]
+}
