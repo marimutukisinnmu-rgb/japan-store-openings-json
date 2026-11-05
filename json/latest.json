@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T09:43:12+09:00",
+  "updatetime": "2026-11-05T10:42:35+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7093,6 +7093,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
+    },
+    {
+      "name": "キャラメリオン 阪神梅田本店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-18",
+      "category": "洋菓子店（新ブランド・常設店）"
     },
     {
       "name": "chocoZAP 一乗寺向畑",
