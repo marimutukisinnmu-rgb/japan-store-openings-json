@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T16:46:01+09:00",
+  "updatetime": "2026-11-05T17:48:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5863,6 +5863,13 @@
       "category": "トレーディングカード専門店"
     },
     {
+      "name": "SALAM OMIYAGE 浅草店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-06",
+      "category": "訪日旅行者向け土産専門店"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6134,6 +6141,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-10",
       "category": "パティスリー"
+    },
+    {
+      "name": "圧釜うどん もちり 栄店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-10",
+      "category": "うどん専門店"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -6724,6 +6738,20 @@
       "category": "ラーメン"
     },
     {
+      "name": "コトブキヤ ダイバーシティ東京 プラザ店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-11-13",
+      "category": "ホビー・フィギュア・プラモデル（期間限定店）"
+    },
+    {
+      "name": "LEPSIM ららぽーと海老名店",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "opening_date": "2026-11-13",
+      "category": "ファッション"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -6855,6 +6883,13 @@
       "city": "千代田区",
       "opening_date": "2026-11-16",
       "category": "カフェ・パティスリー（新コンセプト）"
+    },
+    {
+      "name": "Taverna di Famiglia（reDine 広島）",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-16",
+      "category": "創作イタリアン"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -8311,6 +8346,20 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "天丼専門店"
+    },
+    {
+      "name": "LEPSIM イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション"
+    },
+    {
+      "name": "LEPSIM イオンモール広島府中店",
+      "prefecture": "広島県",
+      "city": "安芸郡府中町",
+      "opening_date": "2026-11-27",
+      "category": "ファッション"
     },
     {
       "name": "Bistro IKEDAYAMA",
