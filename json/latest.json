@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T17:48:09+09:00",
+  "updatetime": "2026-11-05T18:42:20+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5259,6 +5259,13 @@
       "city": "八潮市",
       "opening_date": "2026-11-05",
       "category": "中古ゲーム・書籍・トレーディングカード・ホビー"
+    },
+    {
+      "name": "新時代 植田飯田街道店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-11-05",
+      "category": "居酒屋（リニューアル）"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
