@@ -1,0 +1,69 @@
+{
+  "run_at": "2026-11-05T13:39:18+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "items": 1322,
+    "blob_sha": "07df8cf65f6fdfc80c7fc66b9675505ce7f2813f",
+    "updatetime": "2026-11-05T11:46:03+09:00"
+  },
+  "sources": [
+    {
+      "title": "株式会社ノジマ — ホームズ新川崎店オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000163436.html",
+      "use": "2026-11-05開店・横浜市鶴見区の候補を照合。既存JSONに同名・同日で1件登録済み。"
+    },
+    {
+      "title": "株式会社ジーアイビー — ブルースカイランドリー2026年11月新規出店10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "use": "公開された11月出店候補を照合。今回照合した店舗は既存JSONに登録済み。"
+    },
+    {
+      "title": "株式会社POP MART JAPAN — POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "use": "2026-11-24開店候補を照合。既存JSONに同名・同日で1件登録済み。"
+    },
+    {
+      "title": "株式会社LADUREE JAPON — カフェ・ラデュレ新丸ビル店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "use": "2026-11-16開店候補を照合。既存JSONに同名・同日で1件登録済み。"
+    },
+    {
+      "title": "三井不動産商業マネジメント — ジャズドリーム長島新規・リニューアル店舗発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "use": "Acne Studios（11/6）、MERRELL（11/21）、CASIO WATCH OUTLET（12/11）を照合。いずれも既存JSONに同名・同日で1件登録済み。"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "removed": 0,
+    "rationale": "今回確認した開店候補はすべて既存JSONに同名・同日で登録済み。既存データを保護し、latest.jsonは変更しなかった。"
+  },
+  "after": {
+    "items": 1322,
+    "updatetime": "2026-11-05T11:46:03+09:00",
+    "blob_sha": "07df8cf65f6fdfc80c7fc66b9675505ce7f2813f"
+  },
+  "validation": {
+    "json_parse": "success",
+    "readback": "success",
+    "blob_sha_unchanged": true,
+    "opening_dates_sorted": true,
+    "exact_duplicate_keys": 0,
+    "required_fields_missing": 0,
+    "selected_candidate_presence": "all matched exactly once",
+    "latest_json_written": false
+  },
+  "unverified": [
+    "ジャズドリーム長島のTimberlandは公式発表で2026年12月予定まで確認できたが、具体的な日付が未公表のため、日付を推測せず未登録。"
+  ],
+  "errors": [],
+  "automation_check": {
+    "is_enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
