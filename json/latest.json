@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T11:46:03+09:00",
+  "updatetime": "2026-11-05T15:45:14+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7102,6 +7102,13 @@
       "category": "洋菓子店（新ブランド・常設店）"
     },
     {
+      "name": "キャンドゥ そよらひたち野うしく店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "100円ショップ"
+    },
+    {
       "name": "chocoZAP 一乗寺向畑",
       "prefecture": "京都府",
       "city": "京都市左京区",
@@ -7198,6 +7205,13 @@
       "city": "久留米市",
       "opening_date": "2026-11-19",
       "category": "アイスクリーム専門店"
+    },
+    {
+      "name": "キャンドゥ 名瀬店",
+      "prefecture": "鹿児島県",
+      "city": "奄美市",
+      "opening_date": "2026-11-19",
+      "category": "100円ショップ"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
@@ -7555,6 +7569,13 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-21",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "opening_date": "2026-11-21",
+      "category": "キャンディ専門店"
     },
     {
       "name": "道助商店 janjan 3番通店",
