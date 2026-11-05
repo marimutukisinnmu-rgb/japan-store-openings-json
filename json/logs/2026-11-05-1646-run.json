@@ -1,0 +1,99 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-05T16:46:01+09:00",
+  "checked_sources": [
+    {
+      "name": "ローソン公式 全国新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/?ca=rec_glo_205",
+      "findings": "2026-11-19開店予定の北綾瀬駅南、魚津末広町、東貝塚駅前、倉敷鶴形一丁目を確認。各店舗名・都道府県・住所・開店日を確認。"
+    },
+    {
+      "name": "すき家公式新着情報",
+      "url": "https://sukiya.jp/news/",
+      "findings": "高岡大野店（2026-11-11）は既存JSONに登録済み。"
+    },
+    {
+      "name": "すかいらーくグループ公式新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "findings": "確認対象の11月新店候補は既存JSONに登録済み。"
+    },
+    {
+      "name": "ラーメン魁力屋公式新店舗情報",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "findings": "長野平林店（2026-11-04）は既存JSONに登録済み。"
+    },
+    {
+      "name": "THE GUNDAM BASE公式発表",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "findings": "THE GUNDAM BASE SHIBUYA（2026-11-20）は既存JSONに登録済み。"
+    },
+    {
+      "name": "キル フェ ボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "findings": "キル フェ ボン新宿（2026-11-28）は既存JSONに登録済み。"
+    },
+    {
+      "name": "銀座おのでら公式発表",
+      "url": "https://onodera-group.com/news/7933/",
+      "findings": "立鮨 銀座おのでら エキュート大宮（2026-11-13）は既存JSONに登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1325,
+    "added": [
+      {
+        "name": "ローソン 北綾瀬駅南",
+        "prefecture": "東京都",
+        "city": "足立区",
+        "opening_date": "2026-11-19",
+        "category": "コンビニエンスストア"
+      },
+      {
+        "name": "ローソン 魚津末広町",
+        "prefecture": "富山県",
+        "city": "魚津市",
+        "opening_date": "2026-11-19",
+        "category": "コンビニエンスストア"
+      },
+      {
+        "name": "ローソン 東貝塚駅前",
+        "prefecture": "大阪府",
+        "city": "貝塚市",
+        "opening_date": "2026-11-19",
+        "category": "コンビニエンスストア"
+      },
+      {
+        "name": "ローソン 倉敷鶴形一丁目",
+        "prefecture": "岡山県",
+        "city": "倉敷市",
+        "opening_date": "2026-11-19",
+        "category": "コンビニエンスストア"
+      }
+    ],
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1329,
+    "updatetime": "2026-11-05T16:46:01+09:00"
+  },
+  "validation": {
+    "json_reparse": true,
+    "chronological_order": true,
+    "duplicate_name_prefecture_date_keys": 0,
+    "each_added_record_occurs_once": true,
+    "all_preexisting_records_preserved": true,
+    "post_write_refetch": true,
+    "latest_json_blob_sha": "dafb80e0ef88ac29c94f38baea0177f8e23620bd",
+    "latest_json_commit_sha": "84f444a77eb4e760ff35f7132ddbb2b107534850"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "調査対象は選定した公式情報源に限定され、全国すべての事業者の網羅調査ではない。追加4店舗の店名・住所・開店日は公式ローソン新店情報で確認済み。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
