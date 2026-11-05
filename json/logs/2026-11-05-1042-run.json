@@ -1,0 +1,63 @@
+{
+  "run_at": "2026-11-05T10:42:35+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "モロゾフ株式会社 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000753.000020853.html",
+      "finding": "キャラメリオン 阪神梅田本店が2026-11-18にオープンすること、所在地が大阪市北区梅田1-13-13 阪神梅田本店地下1階であることを確認。"
+    },
+    {
+      "source": "株式会社阪急阪神百貨店 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000003485.000014431.html",
+      "finding": "同店の2026-11-18全国初出店と阪神梅田本店地下1階洋菓子売場を独立した運営元発表で照合。"
+    },
+    {
+      "source": "ケンタッキーフライドチキン公式店舗検索",
+      "url": "https://search.kfc.co.jp/points/5125",
+      "finding": "ケンタッキーフライドチキン 湊川店（2026-11-04）は既存JSONに登録済み。公式店舗検索で住所を確認し、重複追加しない。"
+    },
+    {
+      "source": "LADUREE JAPON 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "finding": "カフェ・ラデュレ 新丸ビル店（2026-11-16）は既存JSONに登録済み。重複追加しない。"
+    }
+  ],
+  "changes": {
+    "before_count": 1324,
+    "added": [
+      {
+        "name": "キャラメリオン 阪神梅田本店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-18",
+        "category": "洋菓子店（新ブランド・常設店）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1325
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_order_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 1,
+    "post_write_fetch": true,
+    "blob_sha": "944e1b14c22c1c57c0051124061743ec55e72d75",
+    "commit_sha": "dacf2e367c94742f9c45f3f1a26cee574b860c43"
+  },
+  "task_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "latest_run_status": "in_progress",
+    "schedule_changed": false
+  },
+  "errors": [],
+  "limitations": [
+    "今回の検索・照合は選定した情報源と候補に限定され、全国すべての事業者を網羅した調査ではない。",
+    "確認できた追加候補は1件。未確認情報は推測登録していない。"
+  ]
+}
