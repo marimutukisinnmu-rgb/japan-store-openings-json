@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T05:45:37+09:00",
+  "updatetime": "2026-11-06T06:45:57+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7214,6 +7214,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定キャラクター雑貨ポップアップストア"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -9585,6 +9592,13 @@
       "city": "福岡市博多区",
       "opening_date": "2026-12-18",
       "category": "映画館（リニューアル）"
+    },
+    {
+      "name": "アイスヴィレッジ（星野リゾート トマム）",
+      "prefecture": "北海道",
+      "city": "占冠村",
+      "opening_date": "2026-12-20",
+      "category": "期間限定観光施設（冬季営業）"
     },
     {
       "name": "ケンタッキーフライドチキン 阪急淡路駅前店",
