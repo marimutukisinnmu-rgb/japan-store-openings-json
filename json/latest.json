@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T03:45:48+09:00",
+  "updatetime": "2026-11-06T04:46:26+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5889,6 +5889,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "デリシアまめじま店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
     },
     {
       "name": "ASMO academy 霧島国分校",
