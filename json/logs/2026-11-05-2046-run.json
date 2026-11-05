@@ -1,0 +1,89 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-05T20:46:53+09:00",
+  "checked_sources": [
+    {
+      "name": "Lawson nationwide official new-store list",
+      "url": "https://mldata.lawson.co.jp/newstore/smt/index.html",
+      "findings": "Listed candidates for 2026-11-01, 11-04, 11-05, 11-06, 11-12 and 11-13 were all matched by name and opening date in latest.json."
+    },
+    {
+      "name": "KFC official November new-store announcement",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "findings": "All five listed November openings were already registered with matching dates."
+    },
+    {
+      "name": "Blue Sky Laundry operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "findings": "The announced November 10-store batch was checked; matched existing entries, no additions."
+    },
+    {
+      "name": "Atelier Haruka operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000555.000046400.html",
+      "findings": "Atelier Haruka Emio Nerima, 2026-11-06, already registered."
+    },
+    {
+      "name": "PISOLA company news",
+      "url": "https://tq.washinmura.jp/ai/pisola-jp-2/ja/news/",
+      "findings": "PISOLA Chiba Park, 2026-11-11, already registered."
+    },
+    {
+      "name": "VENEX official announcement",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "findings": "neverbetter, 2026-11-15, already registered."
+    },
+    {
+      "name": "PAPABUBBLE operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "findings": "PAPABUBBLE IKSPIARI, 2026-11-21, already registered."
+    },
+    {
+      "name": "Benelic official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "findings": "Harry Potter Mahou Dokoro Marunouchi pop-up, 2026-11-12, already registered."
+    },
+    {
+      "name": "LADUREE JAPON official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "findings": "Cafe Laduree Shin-Marunouchi, 2026-11-16, already registered."
+    },
+    {
+      "name": "KFC store release review",
+      "url": "https://japan.kfc.co.jp/news_release",
+      "findings": "Current official release list checked; all relevant announced openings in the current November list were already present."
+    }
+  ],
+  "changes": {
+    "before_count": 1338,
+    "added": [],
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1338,
+    "updatetime": "2026-11-05T19:41:07+09:00",
+    "latest_json_unchanged": true
+  },
+  "validation": {
+    "json_reparse": true,
+    "chronological_order": true,
+    "duplicate_name_prefecture_date_keys": 0,
+    "missing_required_field_records": 0,
+    "all_preexisting_records_preserved": true,
+    "post_write_refetch": false,
+    "latest_json_blob_sha": "2018a50095cd4e066de7bc94ebf6f45e3af5d35d",
+    "latest_json_commit_sha": "d24cc83683e2d0232dd91ab9a2d25d7214fa1eff",
+    "verified_blob_sha_matches_previous_run": true,
+    "overall_success": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "調査は選定した公式・運営元の情報源と掲載候補に限定され、全国すべての事業者を網羅していない。",
+    "二次情報で見かけた一部候補は、今回公式の開店日確認ができず、推測で登録していない。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "status_note": "peekで有効状態と毎時スケジュールを確認。次回実行時刻は取得できず。"
+  }
+}
