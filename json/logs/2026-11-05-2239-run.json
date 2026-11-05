@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-11-05T22:39:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "title": "セレオ八王子北館1階食品フロア東側 11月26日リニューアルオープン（運営会社発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000212.000005566.html",
+      "published": "2026-11-05",
+      "use": "施設フロアのリニューアル日と新規出店に関する最新発表を確認"
+    },
+    {
+      "title": "セレオ八王子北館1階 出店ショップ一覧（公式PDF）",
+      "url": "https://www.jrccd.co.jp/storage/pdf/news/tnp1261003171002.pdf",
+      "published": "2026-10-05",
+      "use": "新規店名と業種を確認"
+    },
+    {
+      "title": "セレオ八王子北館1階フロアリニューアルオープン（施設公式）",
+      "url": "https://www.jrccd.co.jp/celeo/news/hachioji/23873/",
+      "published": "2026-10-05",
+      "use": "11月26日のフロアリニューアル日を確認"
+    }
+  ],
+  "before": {
+    "count": 1338,
+    "blob_sha": "2018a50095cd4e066de7bc94ebf6f45e3af5d35d",
+    "updatetime": "2026-11-05T19:41:07+09:00"
+  },
+  "changes": {
+    "added": [
+      "323KASEI（セレオ八王子）",
+      "おこわ米八（セレオ八王子）",
+      "カンナムキンパ（セレオ八王子）",
+      "Meat & Vegetables I.T.O.（セレオ八王子）",
+      "日本料理 なだ万（セレオ八王子）",
+      "おむすび専科（セレオ八王子）",
+      "ルピシア（セレオ八王子）",
+      "ビアードパパ（セレオ八王子）",
+      "高尾山 天狗焼（セレオ八王子）",
+      "アトリエ コパン（セレオ八王子）",
+      "パティスリー ラ・クレア（セレオ八王子）",
+      "多々楽達屋（セレオ八王子）",
+      "苺のワルツ（セレオ八王子）",
+      "りんごとバター。（セレオ八王子）",
+      "祇をん ににぎ（セレオ八王子）"
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "count_after": 1353
+  },
+  "validation": {
+    "json_parse": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "all_15_added_items_present_once": true,
+    "saved_file_refetched": true
+  },
+  "unconfirmed": [
+    "「よりみちうかい」は運営元発表で『この冬』とされ、具体的な開店日を確認できないため登録保留。",
+    "最新発表では新規出店19店舗とされるが、今回確認できた公式ショップ一覧に店名が掲載されていない追加候補は推測登録しない。"
+  ],
+  "errors": [],
+  "latest_json_commit": "19dacbc56e1d1b6bf86335640ae7c34456b6464e",
+  "latest_json_blob_sha": "90b0416ea8a1b71cea9b02ef84c358b48ba5595a"
+}
