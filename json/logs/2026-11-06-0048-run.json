@@ -1,0 +1,86 @@
+{
+  "run_at": "2026-11-06T00:48:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "title": "ローソン公式 全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/?ca=stn_glo_205",
+      "published": null,
+      "use": "公式一覧の2026-11-04〜2026-11-06掲載店舗を既存JSONと照合。今回確認した店名・日付はすべて登録済み。"
+    },
+    {
+      "title": "株式会社ジーアイビー「ブルースカイランドリー」2026年11月新規出店10店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "published": "2026-10-30",
+      "use": "11月の10店舗・開店日・住所を照合。10店舗すべて既存JSONに各1件登録済み。"
+    },
+    {
+      "title": "PAPABUBBLE イクスピアリ店オープン発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "published": "2026-11-05",
+      "use": "2026-11-21開店の店舗情報を照合。既存登録済み。"
+    },
+    {
+      "title": "カフェ・ラデュレ 新丸ビル店オープン発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "published": "2026-11-04",
+      "use": "2026-11-16開店・所在地を照合。既存登録済み。"
+    },
+    {
+      "title": "POP MART LUCUA SOUTH店オープン発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "published": "2026-10-30",
+      "use": "2026-11-24開店の店舗情報を照合。既存登録済み。"
+    },
+    {
+      "title": "VENEX公式 neverbetter開店発表",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "published": "2026-10-30",
+      "use": "2026-11-15開店の店舗情報を照合。既存登録済み。"
+    },
+    {
+      "title": "タグ・ホイヤー 東京 銀座オープン発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "published": "2026-08-28",
+      "use": "2026-11-07開店の店舗情報を照合。既存登録済み。"
+    },
+    {
+      "title": "THE GUNDAM BASE SHIBUYA公式お知らせ",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "published": null,
+      "use": "2026-11-20開店の店舗情報を照合。既存登録済み。"
+    },
+    {
+      "title": "すき家公式新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "published": "2026-11-04",
+      "use": "2026-11-11高岡大野店の開店情報を照合。既存登録済み。"
+    }
+  ],
+  "before": {
+    "count": 1363,
+    "blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496",
+    "updatetime": "2026-11-05T23:43:38+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": 0,
+    "deleted": 0,
+    "count_after": 1363
+  },
+  "validation": {
+    "json_parse": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "missing_required_fields": 0,
+    "latest_file_refetched": true,
+    "unchanged_blob_sha": true
+  },
+  "unconfirmed": [
+    "今回照合した情報源では新規未登録の確定候補なし。調査は選定した公式情報源の範囲であり、全国全事業者の網羅確認ではない。",
+    "前回からの保留事項：KFC 与野東口店の開店日が公式採用情報と二次情報で一致しない件、および日付が「初旬・下旬」等のみのKFC候補は、今回再検証していないため引き続き保留。"
+  ],
+  "errors": [],
+  "latest_json_commit": "b59e8fe9c431949e48c2359623d2b72505c8bb9d",
+  "latest_json_blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496"
+}
