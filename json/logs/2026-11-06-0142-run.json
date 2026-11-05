@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-06T01:42:50+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "no_data_change",
+  "before": {
+    "item_count": 1363,
+    "updatetime": "2026-11-05T23:43:38+09:00",
+    "blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496"
+  },
+  "after": {
+    "item_count": 1363,
+    "updatetime": "2026-11-05T23:43:38+09:00",
+    "blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496",
+    "modified": false
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "chronological_order": "passed",
+    "duplicate_exact_keys": 0,
+    "re_fetched_target": "passed"
+  },
+  "sources_checked": [
+    {
+      "source": "Lawson official new-store information",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": "Officially listed Nov 6, Nov 12 and Nov 13 openings compared with existing records; checked candidates were already registered."
+    },
+    {
+      "source": "CanDo official 2026 news",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "findings": "Nov 6 DCM Nicott Haboru, Nov 12 Kanda and Nov 18 Soyora Hitachino-Ushiku entries were already registered."
+    },
+    {
+      "source": "Skylark official new-store listing",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "findings": "Checked listed November openings; matching candidate entries were already registered."
+    },
+    {
+      "source": "Sukiya official news",
+      "url": "https://www.sukiya.jp/news/",
+      "findings": "Takaoka Ono store, Nov 11, was already registered."
+    },
+    {
+      "source": "Big-A official new-store listing",
+      "url": "https://www.biga.co.jp/newshop/",
+      "findings": "Sayama Chuo, Nov 21, and Kiyose Ekikita, Nov 28, were already registered."
+    },
+    {
+      "source": "Yudetaro official news",
+      "url": "https://yudetaro.jp/news/",
+      "findings": "Nov 6, Nov 25 and Nov 27 store candidates were already registered."
+    },
+    {
+      "source": "PAPABUBBLE official release published Nov 5, 2026",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "findings": "Confirmed PAPABUBBLE Ikspiari store opening Nov 21; existing JSON already contains it."
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "KFC Yono East Exit",
+      "issue": "Secondary sources show Nov 24 and Nov 25; no official source resolving the date was confirmed in this run.",
+      "action": "Not added or overwritten; remains pending."
+    }
+  ],
+  "limitations": "This was a targeted review of selected official sources and candidates, not an exhaustive nationwide scan.",
+  "automation_state": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "checked_via_management": true,
+    "schedule_changed": false
+  },
+  "errors": []
+}
