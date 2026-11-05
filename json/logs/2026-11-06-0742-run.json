@@ -1,0 +1,136 @@
+{
+  "run_at": "2026-11-06T07:42:48+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1381,
+  "after_count": 1387,
+  "added": [
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 安曇野店）",
+      "prefecture": "長野県",
+      "city": "安曇野市",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 札幌店）",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 仙台茂庭店）",
+      "prefecture": "宮城県",
+      "city": "仙台市太白区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー ルクアイーレ店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 福岡店）",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-28",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "株式会社エイアンドエフ公式発表『PENDLETON POP UP JOURNEY 2026』",
+      "url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026",
+      "confirmed": "2026-10-28〜11-30 安曇野店、2026-10-30〜11-30 札幌店、2026-11-05〜11-30 仙台茂庭店、2026-11-11〜2027-01-24 渋谷スクランブルスクエア店、2026-11-19〜12-09 ルクアイーレ店、2026-11-28〜12-27 福岡店でPENDLETONの期間限定ポップアップを開催。2026-10-08〜11-03の昭島店開催分は実行時点で終了しているため追加対象外。"
+    },
+    {
+      "name": "A&Fカントリー 安曇野店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/azumino",
+      "confirmed": "所在地は長野県安曇野市豊科南穂高1115。"
+    },
+    {
+      "name": "A&Fカントリー 札幌店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/sapporo",
+      "confirmed": "所在地は北海道札幌市中央区北2条東4丁目。"
+    },
+    {
+      "name": "A&Fカントリー 仙台茂庭店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/sendaimoniwa",
+      "confirmed": "所在地は宮城県仙台市太白区茂庭1-5-8。"
+    },
+    {
+      "name": "A&Fカントリー渋谷スクランブルスクエア店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/shibuya_scramble_square",
+      "confirmed": "所在地は東京都渋谷区渋谷2-24-12。"
+    },
+    {
+      "name": "A&Fカントリー ルクアイーレ店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/LUCUA1100",
+      "confirmed": "所在地は大阪府大阪市北区梅田3丁目1番地3号。"
+    },
+    {
+      "name": "A&Fカントリー 福岡店 公式店舗情報",
+      "url": "https://aandf.co.jp/stores/afcountry/fukuoka",
+      "confirmed": "所在地は福岡県福岡市博多区千代1丁目2-1。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "chronological": true,
+    "added_records_each_once": [
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 安曇野店）",
+        "count": 1
+      },
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 札幌店）",
+        "count": 1
+      },
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 仙台茂庭店）",
+        "count": 1
+      },
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー渋谷スクランブルスクエア店）",
+        "count": 1
+      },
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー ルクアイーレ店）",
+        "count": 1
+      },
+      {
+        "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 福岡店）",
+        "count": 1
+      }
+    ],
+    "existing_records_preserved": true,
+    "saved_blob_sha_matches_update": true
+  },
+  "save": {
+    "latest_json_commit_sha": "841e07c9b0c457cd10f5c643477ff51c505550a6",
+    "latest_json_blob_sha": "72076ef7270490318c78fe74fc78f6e0e7ea527a"
+  },
+  "unverified": [
+    "全国すべての事業者・催事を網羅した調査ではない。",
+    "A&F公式イベント告知ページは検索結果から日程を確認できたが、本文ページの直接取得は取得制限（DisabledError）で失敗。日程は公式ドメインの検索結果表示、開催地は各A&F公式店舗ページで照合した。",
+    "各ポップアップの終了日をlatest.jsonのスキーマには格納できないため、開催開始日をopening_dateとして登録し、期間限定イベントであることをcategoryに明記した。"
+  ]
+}
