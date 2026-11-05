@@ -1,0 +1,134 @@
+{
+  "run_at": "2026-11-06T05:45:37+09:00",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1372,
+  "after_count": 1379,
+  "added": [
+    {
+      "name": "エトモ菊名",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "駅直結型商業施設"
+    },
+    {
+      "name": "東急ストア菊名店（エトモ菊名・リニューアル再開）",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "食品スーパー（リニューアル再開）"
+    },
+    {
+      "name": "タリーズコーヒー エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "スペシャルティコーヒーショップ"
+    },
+    {
+      "name": "ミスターワッフル エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "ベルギーリエージュワッフル専門店"
+    },
+    {
+      "name": "ビアードパパ エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "シュークリーム専門店"
+    },
+    {
+      "name": "青山フラワーマーケット エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "フラワーショップ"
+    },
+    {
+      "name": "QB PREMIUM エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "理髪店"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "株式会社東急モールズデベロップメント公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000045951.html",
+      "verified": [
+        "2026-12-04 facility opening",
+        "Etomo Kikuna address: 神奈川県横浜市港北区菊名7-1-1",
+        "six opening/reopening tenants: Tokyu Store, Tully's Coffee, Mister Waffle, Beard Papa, Aoyama Flower Market, QB PREMIUM",
+        "three existing tenants continue: Shibusoba, LAWSON+toks, Mitsubishi UFJ Bank ATM"
+      ]
+    },
+    {
+      "name": "東急株式会社公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001406.000010686.html",
+      "verified": [
+        "Etomo Kikuna is Tokyu's 14th Etomo facility",
+        "Tokyu Store reopens after temporary closure"
+      ]
+    }
+  ],
+  "already_registered": [
+    {
+      "name": "ブルースカイランドリー 2026年11月新規出店10店舗",
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "確認対象10店舗はすべて既存登録済み"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "2026-11-21の既存レコードを確認"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "2026-11-24の既存レコードを確認"
+    },
+    {
+      "name": "カフェ・ラデュレ 新丸ビル店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "result": "2026-11-16の既存レコードを確認"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "source": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "2026-11-28の既存レコードを確認"
+    }
+  ],
+  "excluded_continuing_tenants": [
+    {
+      "name": "しぶそば 菊名店",
+      "reason": "公式発表で営業継続と明記。新規開店として追加せず"
+    },
+    {
+      "name": "LAWSON＋toks",
+      "reason": "公式発表で営業継続と明記。新規開店として追加せず"
+    },
+    {
+      "name": "三菱UFJ銀行ATMコーナー 東急菊名駅",
+      "reason": "公式発表で営業継続と明記。新規開店として追加せず"
+    }
+  ],
+  "held_candidates": [],
+  "verification": {
+    "count": 1379,
+    "updatetime": "2026-11-06T05:45:37+09:00",
+    "blobSha": "311eee26d0fc98d164744731fd1a5baefea40fc8",
+    "shaMatchesWrite": true,
+    "commitSha": "8d60241deb05c55149a56defc756c1b6cce43078",
+    "addedCount": 7,
+    "sorted": true,
+    "requiredFieldsPresent": true,
+    "uniqueKeys": true,
+    "oldItemsPreserved": true
+  }
+}
