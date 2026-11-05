@@ -1,0 +1,58 @@
+{
+  "run_at": "2026-11-06T04:46:26+09:00",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1371,
+  "after_count": 1372,
+  "added": [
+    {
+      "name": "デリシアまめじま店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-06",
+      "category": "食品スーパー"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "アルピコホールディングス公式発表",
+      "url": "https://holdings.alpico.co.jp/topics/20261008_1",
+      "verified": [
+        "2026-11-06 opening date",
+        "Delicia Mamejima store opening"
+      ]
+    },
+    {
+      "name": "株式会社デリシア公式開店リリースPDF",
+      "url": "https://www.delicia-web.co.jp/wp-content/uploads/2026/10/%E3%81%BE%E3%82%81%E3%81%98%E3%81%BE%E5%BA%97%E9%96%8B%E5%BA%97%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E6%A1%88.pdf",
+      "verified": [
+        "2026-11-06 09:00 opening",
+        "長野県長野市大字大豆島5711-1"
+      ]
+    }
+  ],
+  "held_candidates": [
+    {
+      "name": "クレーン横丁 極 相模原小山店",
+      "reason": "公式発表は2026年11月下旬までで、日付は後日発表。日付を推測せず未登録。"
+    },
+    {
+      "name": "資さんうどん 熱田一番店",
+      "reason": "公式発表は2027年1月下旬予定までで、日付は未確定。日付を推測せず未登録。"
+    }
+  ],
+  "verification": {
+    "count": 1372,
+    "updatetime": "2026-11-06T04:46:26+09:00",
+    "blobSha": "f24db604378ba1be999351f58b5594ff4ebb9003",
+    "shaMatchesWrite": true,
+    "commitSha": "03a5bb1be1b93b3a3af3ea26789b1a9d9aae78a6",
+    "addedCount": 1,
+    "sorted": true,
+    "requiredFieldsPresent": true,
+    "uniqueKeys": true,
+    "oldItemsPreserved": true
+  }
+}
