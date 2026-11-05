@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T15:45:14+09:00",
+  "updatetime": "2026-11-05T16:46:01+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7212,6 +7212,34 @@
       "city": "奄美市",
       "opening_date": "2026-11-19",
       "category": "100円ショップ"
+    },
+    {
+      "name": "ローソン 北綾瀬駅南",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-19",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 魚津末広町",
+      "prefecture": "富山県",
+      "city": "魚津市",
+      "opening_date": "2026-11-19",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 東貝塚駅前",
+      "prefecture": "大阪府",
+      "city": "貝塚市",
+      "opening_date": "2026-11-19",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 倉敷鶴形一丁目",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-11-19",
+      "category": "コンビニエンスストア"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
