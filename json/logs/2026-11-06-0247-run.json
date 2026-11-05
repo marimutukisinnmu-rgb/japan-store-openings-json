@@ -1,0 +1,119 @@
+{
+  "run_at": "2026-11-06T02:47:53+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1363,
+    "updatetime": "2026-11-05T23:43:38+09:00",
+    "blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496"
+  },
+  "after": {
+    "item_count": 1366,
+    "updatetime": "2026-11-06T02:47:53+09:00",
+    "blob_sha": "d3f02a1115137fbf1865141c7319660207f44e92",
+    "modified": true
+  },
+  "changes": {
+    "added": 3,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "added": [
+    {
+      "name": "BLUE POND（松坂屋名古屋店 POP UP）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（キャラメルミルクスイーツ）"
+    },
+    {
+      "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-19",
+      "category": "体験型期間限定カフェイベント（事前予約制）"
+    },
+    {
+      "name": "PASOUL BLACK FRIDAY FESTA 2026",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-23",
+      "category": "期間限定ポップアップ（ゲーミングPC展示・相談・販売）"
+    }
+  ],
+  "skipped_existing": [],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "chronological_order": "passed",
+    "duplicate_exact_keys": 0,
+    "added_records_each_exactly_once": [
+      {
+        "name": "BLUE POND（松坂屋名古屋店 POP UP）",
+        "count": 1
+      },
+      {
+        "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
+        "count": 1
+      },
+      {
+        "name": "PASOUL BLACK FRIDAY FESTA 2026",
+        "count": 1
+      }
+    ],
+    "re_fetched_target": "passed",
+    "blob_sha_matches_write": true
+  },
+  "sources_checked": [
+    {
+      "source": "Ajinomoto AGF official release for CAFÉ LATORY ROOM",
+      "url": "https://agf.ajinomoto.co.jp/news/2026-11-05-2310.html",
+      "findings": "Confirmed the 2026-11-19 to 2026-11-22 event at HOTEL EMANON, Shibuya-ku; added the first day as opening_date."
+    },
+    {
+      "source": "Grapestone official release for BLUE POND",
+      "url": "https://prtimes.jp/main/html/rd/p/000002178.000025606.html",
+      "findings": "Confirmed the Nov 13-24 pop-up at Matsuzakaya Nagoya Main Building B1F; Nov 13 has special-invitation-only building access. Added the announced first date and flagged access caveat."
+    },
+    {
+      "source": "PASOUL BLACK FRIDAY FESTA 2026 announcement via Onion Newspaper, identified as PASOUL's marketing support",
+      "url": "https://prtimes.jp/main/html/rd/p/000000359.000053539.html",
+      "findings": "Confirmed Nov 23-29 temporary event, venue and retail/demo scope from the release. The linked PASOUL event landing page could not be independently opened in this run; retained this source limitation."
+    },
+    {
+      "source": "Lawson official new-store information",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": "Rechecked currently listed November 6 and subsequent candidates against existing records; checked candidates were already registered."
+    },
+    {
+      "source": "Sukiya official news",
+      "url": "https://www.sukiya.jp/news/",
+      "findings": "Rechecked Takaoka Ono store (Nov 11); already registered."
+    },
+    {
+      "source": "PAPABUBBLE official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "findings": "Rechecked Ikspiari store (Nov 21); already registered."
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "KFC 与野東口店",
+      "issue": "Secondary sources show Nov 24 and Nov 25; no resolving official date was confirmed in this run.",
+      "action": "Not added or overwritten; remains pending."
+    },
+    {
+      "name": "PASOUL BLACK FRIDAY FESTA 2026",
+      "issue": "Official event landing page could not be opened independently; date, venue and event description were confirmed in the authorized marketing-support press release.",
+      "action": "Added from the release with source limitation recorded."
+    }
+  ],
+  "limitations": "Targeted review of selected official/operator announcements and candidates, not an exhaustive nationwide scan. The Nov 13 BLUE POND venue has special-invitation-only access that day.",
+  "errors": [],
+  "github_write": {
+    "commit_sha": "6b013ee268c5c7daa3338d8438a7c8b77cc1da4d",
+    "content_sha": "d3f02a1115137fbf1865141c7319660207f44e92"
+  }
+}
