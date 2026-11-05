@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T22:39:32+09:00",
+  "updatetime": "2026-11-05T23:43:38+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4400,6 +4400,13 @@
       "category": "よもぎ蒸し専門サロン"
     },
     {
+      "name": "ケンタッキーフライドチキン 南花田店",
+      "prefecture": "大阪府",
+      "city": "堺市北区",
+      "opening_date": "2026-10-31",
+      "category": "ファストフード"
+    },
+    {
       "name": "Eleanor spa&treatment 郡山店",
       "prefecture": "福島県",
       "city": "郡山市",
@@ -6766,6 +6773,13 @@
       "category": "寿司"
     },
     {
+      "name": "ケンタッキーフライドチキン 名古屋則武新町店",
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "opening_date": "2026-11-13",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -7291,6 +7305,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "ケンタッキーフライドチキン 大小路店",
+      "prefecture": "鹿児島県",
+      "city": "薩摩川内市",
+      "opening_date": "2026-11-19",
+      "category": "ファストフード"
+    },
+    {
       "name": "3COINS+plus（IKEDIA）",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -7613,6 +7634,13 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "ケンタッキーフライドチキン 土佐バイパス店",
+      "prefecture": "高知県",
+      "city": "高知市",
+      "opening_date": "2026-11-20",
+      "category": "ファストフード"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7653,6 +7681,13 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-21",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 尾張旭店",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "opening_date": "2026-11-21",
+      "category": "ファストフード"
     },
     {
       "name": "道助商店 janjan 3番通店",
@@ -8481,6 +8516,13 @@
       "category": "天丼専門店"
     },
     {
+      "name": "ケンタッキーフライドチキン イズミヤ長岡店",
+      "prefecture": "京都府",
+      "city": "長岡京市",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
       "name": "Bistro IKEDAYAMA",
       "prefecture": "東京都",
       "city": "品川区",
@@ -8649,6 +8691,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "ケンタッキーフライドチキン アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "ファストフード"
+    },
+    {
       "name": "しゃぶ葉 池田駅前店",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -8724,6 +8773,13 @@
       "city": "江東区",
       "opening_date": "2026-12-01",
       "category": "キャラクター公式ショップ（リニューアル）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンモール広島府中店",
+      "prefecture": "広島県",
+      "city": "安芸郡府中町",
+      "opening_date": "2026-12-01",
+      "category": "ファストフード"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -8829,6 +8885,13 @@
       "city": "太田市",
       "opening_date": "2026-12-04",
       "category": "洗車サービス・カーケア"
+    },
+    {
+      "name": "ケンタッキーフライドチキン アピタ福井大和田店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "ファストフード"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
@@ -9417,6 +9480,13 @@
       "city": "京都市",
       "opening_date": "2026-12-21",
       "category": "韓国料理店（日本初出店）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 阪急淡路駅前店",
+      "prefecture": "大阪府",
+      "city": "大阪市東淀川区",
+      "opening_date": "2026-12-21",
+      "category": "ファストフード"
     },
     {
       "name": "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）",
