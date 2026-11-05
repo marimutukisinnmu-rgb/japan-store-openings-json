@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-11-05T23:43:38+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "sources": [
+    {
+      "title": "KFC公式採用サイト・オープニングスタッフ募集店舗一覧",
+      "url": "https://job-kfc.net/jobfind-pc/",
+      "published": "2026-11-05",
+      "use": "店舗名・都道府県・開店日を確認。日付が月初/下旬のみの候補は追加対象外。"
+    },
+    {
+      "title": "KFC 名古屋則武新町店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_bcb0658d412fddf6/",
+      "published": "2026-10-27",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC アル・プラザ宇治東店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_412b2ec17d3e4fa9/",
+      "published": "2026-10-27",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC 土佐バイパス店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_6c5b14056e5a5d49/",
+      "published": "2026-11-04",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC イオンモール広島府中店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_a866bb8dccf2172c/",
+      "published": "2026-10-27",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC アピタ福井大和田店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_db20a83aa5dc4f2e/",
+      "published": "2026-10-27",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC 阪急淡路駅前店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_46d49571c05f147d/",
+      "published": "2026-10-20",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC イズミヤ長岡店 採用情報",
+      "url": "https://townwork.net/viewjob/jobid_ad09f3400a7c4375/",
+      "published": "2026-10-27",
+      "use": "店舗所在地の市区を補足確認。"
+    },
+    {
+      "title": "KFC 南花田店の開店情報",
+      "url": "https://sakai-times.com/20261031-4/",
+      "published": "2026-10-31",
+      "use": "10月31日開店と堺市北区の所在地を補足確認。"
+    },
+    {
+      "title": "KFC 大小路店の開店情報",
+      "url": "https://kagoshima-sunday.com/kfc-satsumasendai-oshokoji-open/",
+      "published": "2026-10-07",
+      "use": "薩摩川内市の所在地と開店日を補足確認。"
+    }
+  ],
+  "before": {
+    "count": 1353,
+    "blob_sha": "90b0416ea8a1b71cea9b02ef84c358b48ba5595a",
+    "updatetime": "2026-11-05T22:39:32+09:00"
+  },
+  "changes": {
+    "added": [
+      "ケンタッキーフライドチキン 南花田店",
+      "ケンタッキーフライドチキン 名古屋則武新町店",
+      "ケンタッキーフライドチキン 大小路店",
+      "ケンタッキーフライドチキン 土佐バイパス店",
+      "ケンタッキーフライドチキン 尾張旭店",
+      "ケンタッキーフライドチキン イズミヤ長岡店",
+      "ケンタッキーフライドチキン アル・プラザ宇治東店",
+      "ケンタッキーフライドチキン イオンモール広島府中店",
+      "ケンタッキーフライドチキン アピタ福井大和田店",
+      "ケンタッキーフライドチキン 阪急淡路駅前店"
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "count_after": 1363
+  },
+  "validation": {
+    "json_parse": true,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "all_10_added_items_present_once": true,
+    "saved_file_refetched": true
+  },
+  "unconfirmed": [
+    "「ケンタッキーフライドチキン 与野東口店」はKFC公式採用サイトでは2026-11-24 OPENだが、複数の二次情報では11-25とされ日付が食い違うため登録保留。",
+    "KFC公式採用一覧で「12月初旬」「12月下旬」「12月末」「12月上旬」とだけ記載された候補は日付を推測せず登録保留。"
+  ],
+  "errors": [],
+  "latest_json_commit": "b59e8fe9c431949e48c2359623d2b72505c8bb9d",
+  "latest_json_blob_sha": "6e48111f2dbe561db7513e6ca3f3dfbb04d00496"
+}
