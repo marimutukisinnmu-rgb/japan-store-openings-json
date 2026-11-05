@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T08:45:03+09:00",
+  "updatetime": "2026-11-05T09:43:12+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6715,6 +6715,13 @@
       "city": "宇都宮市",
       "opening_date": "2026-11-13",
       "category": "マタニティ・ベビー・キッズ用品（リニューアル）"
+    },
+    {
+      "name": "ばり嗎 八王子平岡町店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-13",
+      "category": "ラーメン"
     },
     {
       "name": "chocoZAP 白井堀込",
