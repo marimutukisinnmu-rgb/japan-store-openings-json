@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-11-06T08:40:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1387,
+  "after_count": 1389,
+  "added": [
+    {
+      "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2027-01-06",
+      "category": "期間限定コラボカフェ（2027-01-06〜2027-03-07）"
+    },
+    {
+      "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 大阪店）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2027-02-10",
+      "category": "期間限定コラボカフェ（2027-02-10〜2027-04-11）"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "株式会社スクウェア・エニックス公式発表『Jewel Tale Cafe開催決定』",
+      "url": "https://prtimes.jp/main/html/rd/p/000000448.000128734.html",
+      "confirmed": "東京会場は2027-01-06〜2027-03-07、motto cafe 池袋店。大阪会場は2027-02-10〜2027-04-11、motto cafe 大阪店。"
+    },
+    {
+      "name": "motto cafe 池袋店 公式案内",
+      "url": "https://dekiai.motto-cafe.com/tokyo/",
+      "confirmed": "motto cafe 池袋店の所在地は東京都豊島区東池袋1-3-2 前島ビル。"
+    },
+    {
+      "name": "motto cafe 大阪店 公式移転案内",
+      "url": "https://motto-cafe.com/news/%E3%80%90%E9%87%8D%E8%A6%81%E3%80%91motto-cafe%E5%BF%83%E6%96%8E%E6%A9%8B%E5%BA%97%E3%80%80%E7%A7%BB%E8%BB%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%94%E6%A1%88%E5%86%85/",
+      "confirmed": "motto cafe 大阪店の所在地は大阪市中央区心斎橋筋1-5-7 グルメコレクションセーナビル2F。"
+    },
+    {
+      "name": "各社公式新店情報（照合のみ）",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "confirmed": "すかいらーく、ゆで太郎、すき家、魁力屋、リンガーハット、POP MART、プロント、WithGreen等の今回確認した候補は、既存JSONに登録済み。重複追加なし。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "chronological": true,
+    "added_records_each_once": [
+      {
+        "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 池袋店）",
+        "count": 1
+      },
+      {
+        "name": "家から逃げ出したい私が、うっかり憧れの大魔法使い様を買ってしまったら Jewel Tale Cafe（motto cafe 大阪店）",
+        "count": 1
+      }
+    ],
+    "existing_records_preserved": true,
+    "saved_blob_sha_matches_update": true
+  },
+  "save": {
+    "latest_json_commit_sha": "cb22e61379fb9c186638464d9129bc9110f7607a",
+    "latest_json_blob_sha": "5d387ff4cf57b966bb71ea3a97a223c43710acc7",
+    "fetched_blob_sha": "5d387ff4cf57b966bb71ea3a97a223c43710acc7"
+  },
+  "unverified": [
+    "全国すべての事業者を網羅した調査ではない。",
+    "Jewel Tale Cafeの大阪会場はmotto cafe公式店舗住所で大阪市中央区と確認。開催期間・会場名はスクウェア・エニックス公式発表で確認。",
+    "リラックマ×おふろcafé『おふろあがりのごゆるりタイム 2027』は既存12施設で行う館内コラボイベントで、新規店舗・ポップアップ店舗の開店ではないため今回の店舗開店レコードには追加していない。"
+  ]
+}
