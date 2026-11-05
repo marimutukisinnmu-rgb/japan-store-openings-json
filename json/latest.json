@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T04:46:26+09:00",
+  "updatetime": "2026-11-06T05:45:37+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -8955,6 +8955,55 @@
       "city": "太田市",
       "opening_date": "2026-12-04",
       "category": "洗車サービス・カーケア"
+    },
+    {
+      "name": "エトモ菊名",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "駅直結型商業施設"
+    },
+    {
+      "name": "東急ストア菊名店（エトモ菊名・リニューアル再開）",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "食品スーパー（リニューアル再開）"
+    },
+    {
+      "name": "タリーズコーヒー エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "スペシャルティコーヒーショップ"
+    },
+    {
+      "name": "ミスターワッフル エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "ベルギーリエージュワッフル専門店"
+    },
+    {
+      "name": "ビアードパパ エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "シュークリーム専門店"
+    },
+    {
+      "name": "青山フラワーマーケット エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "フラワーショップ"
+    },
+    {
+      "name": "QB PREMIUM エトモ菊名店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港北区",
+      "opening_date": "2026-12-04",
+      "category": "理髪店"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
