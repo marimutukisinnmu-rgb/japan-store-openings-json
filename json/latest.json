@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T10:42:35+09:00",
+  "updatetime": "2026-11-05T11:46:03+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7564,13 +7564,6 @@
       "category": "定食屋"
     },
     {
-      "name": "B-SIDE LABEL（LUCUA SOUTH）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-24",
-      "category": "ステッカー・雑貨"
-    },
-    {
       "name": "chocoZAP 東大和清水六丁目",
       "prefecture": "東京都",
       "city": "東大和市",
@@ -7620,13 +7613,6 @@
       "category": "キャラクター・デザイナーズトイ"
     },
     {
-      "name": "POP MART（LUCUA SOUTH）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-24",
-      "category": "アートトイ・フィギュア"
-    },
-    {
       "name": "PRESS BUTTER SAND エキュート品川 POPUP",
       "prefecture": "東京都",
       "city": "港区",
@@ -7660,13 +7646,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-24",
       "category": "アパレル・雑貨"
-    },
-    {
-      "name": "SUKI PLACE（LUCUA SOUTH）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-24",
-      "category": "キャラクター雑貨・イベントスペース"
     },
     {
       "name": "ULTRAMAN STORE OSAKA ルクア サウス店",
