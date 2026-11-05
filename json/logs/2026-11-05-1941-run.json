@@ -1,0 +1,60 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-05T19:41:07+09:00",
+  "checked_sources": [
+    {
+      "name": "ベネリック株式会社公式プレスリリース（ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "findings": "2026-11-12から新丸ビル（東京都千代田区）に期間限定出店することを確認。既存JSONに同名・同日・同所在地レコードなし。"
+    },
+    {
+      "name": "ローソン公式新店舗情報（関東・近畿）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "findings": "11月12日・13日の確認候補を既存JSONと照合。該当候補は登録済み。"
+    },
+    {
+      "name": "株式会社ジーアイビー公式配信（ブルースカイランドリー2026年11月10店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "findings": "11月の10店舗を照合し、すべて既存JSONに登録済み。"
+    }
+  ],
+  "changes": {
+    "before_count": 1337,
+    "added": [
+      {
+        "name": "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-12",
+        "category": "映画公式グッズショップ（期間限定）"
+      }
+    ],
+    "corrected": 0,
+    "removed": 0,
+    "after_count": 1338,
+    "updatetime": "2026-11-05T19:41:07+09:00"
+  },
+  "validation": {
+    "json_reparse": true,
+    "chronological_order": true,
+    "duplicate_name_prefecture_date_keys": 0,
+    "each_added_record_occurs_once": true,
+    "all_preexisting_records_preserved": true,
+    "post_write_refetch": true,
+    "latest_json_blob_sha": "2018a50095cd4e066de7bc94ebf6f45e3af5d35d",
+    "latest_json_commit_sha": "d24cc83683e2d0232dd91ab9a2d25d7214fa1eff",
+    "verified_blob_sha_matches_write": true,
+    "overall_success": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "今回の検索・公式発表照合は選定した情報源に限定され、全国すべての事業者を網羅していない。未発見の開店情報が残る可能性がある。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "status_note": "peekで有効状態・毎時スケジュールを確認。次回実行時刻は取得できず。"
+  }
+}
