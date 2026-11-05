@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-05T23:43:38+09:00",
+  "updatetime": "2026-11-06T02:47:53+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6780,6 +6780,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "BLUE POND（松坂屋名古屋店 POP UP）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（キャラメルミルクスイーツ）"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -7312,6 +7319,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-19",
+      "category": "体験型期間限定カフェイベント（事前予約制）"
+    },
+    {
       "name": "3COINS+plus（IKEDIA）",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -7695,6 +7709,13 @@
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "PASOUL BLACK FRIDAY FESTA 2026",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-23",
+      "category": "期間限定ポップアップ（ゲーミングPC展示・相談・販売）"
     },
     {
       "name": "chocoZAP 東大和清水六丁目",
