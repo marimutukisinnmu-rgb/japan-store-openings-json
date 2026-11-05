@@ -1,0 +1,82 @@
+{
+  "run_at": "2026-11-06T03:45:48+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "outcome": "updated",
+  "before_count": 1366,
+  "added_count": 4,
+  "after_count": 1370,
+  "changes": {
+    "added": [
+      {
+        "name": "カスミ元吉田店",
+        "opening_date": "2026-11-06"
+      },
+      {
+        "name": "日光茶屋たばねのし",
+        "opening_date": "2026-11-07"
+      },
+      {
+        "name": "リッチモンドホテルプレミア浅草",
+        "opening_date": "2026-11-08"
+      },
+      {
+        "name": "三田製麺所 藤沢石川店",
+        "opening_date": "2026-11-13"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "sources": [
+    {
+      "publisher": "United Super Markets Holdings / Kasumi",
+      "url": "https://prtimes.jp/main/html/rd/p/000000175.000135992.html",
+      "verified_fields": [
+        "store name",
+        "opening date 2026-11-06",
+        "Mito, Ibaraki address"
+      ]
+    },
+    {
+      "publisher": "有限会社上州屋",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000187263.html",
+      "verified_fields": [
+        "store name",
+        "grand opening date 2026-11-07",
+        "Nikko, Tochigi address"
+      ]
+    },
+    {
+      "publisher": "Royal Holdings",
+      "url": "https://prtimes.jp/main/html/rd/p/000000595.000071323.html",
+      "verified_fields": [
+        "hotel name",
+        "full renovation reopening date 2026-11-08",
+        "Taito, Tokyo address"
+      ]
+    },
+    {
+      "publisher": "SAKIGAKE Holdings / MP Kitchen",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000185678.html",
+      "verified_fields": [
+        "store name",
+        "opening date 2026-11-13",
+        "Fujisawa, Kanagawa address"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0,
+    "added_records_each_once": true,
+    "post_write_fetch": true,
+    "blob_sha": "0d310e3ae4685d49206d13c44410012c420a904e"
+  },
+  "errors": [],
+  "limitations": [
+    "Research was limited to selected official/operator announcements; it is not an exhaustive nationwide scan."
+  ]
+}
