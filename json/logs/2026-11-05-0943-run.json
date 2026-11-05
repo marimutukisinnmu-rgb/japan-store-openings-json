@@ -1,0 +1,69 @@
+{
+  "run_at": "2026-11-05T09:43:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_checks": [
+    {
+      "source": "八王子ジャーニー（記事は公式Instagram告知を引用）",
+      "url": "https://8dabe.com/2026/10/28/bariuma-hachioji/",
+      "finding": "ばり嗎 八王子平岡町店の2026-11-13開店予定と東京都八王子市平岡町21-1を報告。公式Instagram告知を根拠として明記。"
+    },
+    {
+      "source": "八王子通信",
+      "url": "https://hachioji.info/bariumahiraokachoopen/",
+      "finding": "同店の所在地を照合。先行記事では開店時期を11月中旬としている。"
+    },
+    {
+      "source": "グランベリーパーク公式 2026 Autumn 新店案内",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "finding": "COHINA（2026-11-12）およびマーガレット・ハウエル A.G.O.（2026-11-13）は既存JSON登録済み。"
+    },
+    {
+      "source": "三井不動産商業マネジメントのジャズドリーム長島発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "finding": "MERRELL（2026-11-21）とCASIO WATCH OUTLET（2026-12-11）は既存登録済み。Timberlandは12月予定のみで日付未確定。"
+    },
+    {
+      "source": "ガタチラ",
+      "url": "https://gatachira.com/local/open-close/10226748/",
+      "finding": "SWEETS & DELI ホロホロ 内野駅前店は12月中旬予定と報道。具体的な開店日は確認できず、未登録。"
+    }
+  ],
+  "changes": {
+    "before_count": 1323,
+    "added": [
+      {
+        "name": "ばり嗎 八王子平岡町店",
+        "prefecture": "東京都",
+        "city": "八王子市",
+        "opening_date": "2026-11-13",
+        "category": "ラーメン"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after_count": 1324
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_order_sorted": true,
+    "duplicate_name_date_keys": 0,
+    "added_record_count": 1,
+    "post_write_fetch": true,
+    "blob_sha": "f155f1a921683bbc8372acef6c5ab48ccda88ee9",
+    "commit_sha": "061a203e52a763d602291e5d220efb0c337e583a"
+  },
+  "task_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "latest_run_status": "in_progress",
+    "schedule_changed": false
+  },
+  "errors": [],
+  "limitations": [
+    "ばり嗎の正確な日付は、公式Instagram告知を引用する地域メディアで確認。Instagram本体は今回直接取得していない。",
+    "日付が未確定の候補は推測登録していない。",
+    "検索対象は選定した情報源に限られ、全国全店舗の網羅調査ではない。"
+  ]
+}
