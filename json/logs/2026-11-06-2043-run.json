@@ -1,0 +1,123 @@
+{
+  "run_at": "2026-11-06T20:43:09+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1413,
+  "added_count": 5,
+  "after_count": 1418,
+  "added_items": [
+    {
+      "name": "BALMUDA Holiday Store（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "家電・ライフスタイル（期間限定ポップアップストア：2026-11-06〜2026-11-29）"
+    },
+    {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（UNIVERSAL MUSIC STORE HARAJUKU）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-04",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-11-04〜2026-11-15）"
+    },
+    {
+      "name": "Paradox Live 7th Anniversary POP-UP STORE『DOPE WORLD -DECISION OF UPRISING-』（東京アニメセンター in DNP PLAZA SHIBUYA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "アニメ・キャラクター公式グッズ／企画展（期間限定POP-UP STORE：2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（なんばマルイ）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-28",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-11-28〜2026-12-13）"
+    },
+    {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（名古屋PARCO）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-03",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-12-03〜2026-12-13）"
+    }
+  ],
+  "checked_but_already_registered": [
+    "PEACEMINUSONE X ZO&FRIENDS POP-UP（LINE FRIENDS SQUARE SHIBUYA）",
+    "PEACEMINUSONE X ZO&FRIENDS POP-UP（阪急うめだ本店）",
+    "ビッグ・エー狭山中央店",
+    "ビッグ・エー清瀬駅北口店",
+    "カフェ・ラデュレ 新丸ビル店",
+    "PAPABUBBLE イクスピアリ店",
+    "POP MART LUCUA SOUTH店",
+    "キル フェ ボン新宿",
+    "Japan Blue Jeans SHIBUYA PARCO",
+    "築地食堂 源ちゃん イオンモール伊達店",
+    "グランベリーパークのCOHINA、マーガレット・ハウエル エー.ジー.オー.、PUMA"
+  ],
+  "sources": [
+    {
+      "publisher": "BALMUDA株式会社",
+      "title": "期間限定ポップアップストア「BALMUDA Holiday Store」",
+      "url": "https://www.balmuda.com/jp/news/3835",
+      "supporting_detail": "2026-11-06〜2026-11-29、東京ミッドタウン ガレリアB1。"
+    },
+    {
+      "publisher": "東京ミッドタウン",
+      "title": "施設概要",
+      "url": "https://www.tokyo-midtown.com/jp/about/facilities/",
+      "supporting_detail": "所在地は東京都港区赤坂9-7-1。"
+    },
+    {
+      "publisher": "ONE N' ONLY 公式サイト",
+      "title": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE 全国3都市で開催決定！",
+      "url": "https://one-n-only.jp/contents/1118995",
+      "supporting_detail": "東京：11/4〜11/15、渋谷区神宮前1-20-6。大阪：11/28〜12/13、大阪市中央区難波3-8-9。愛知：12/3〜12/13、名古屋市中区栄3-29-1。"
+    },
+    {
+      "publisher": "東京アニメセンター in DNP PLAZA SHIBUYA",
+      "title": "Paradox Live 7th Anniversary POP-UP STORE",
+      "url": "https://tokyoanimecenter.jp/event/paradoxlive_pop/",
+      "supporting_detail": "渋谷会場で2026-11-13〜2026-11-23に開催。"
+    },
+    {
+      "publisher": "東京アニメセンター in DNP PLAZA SHIBUYA",
+      "title": "アクセス",
+      "url": "https://tokyoanimecenter.jp/access/",
+      "supporting_detail": "会場所在地は東京都渋谷区神南1-21-3 渋谷MODI 2F。"
+    }
+  ],
+  "validation": {
+    "beforeCount": 1413,
+    "afterCount": 1418,
+    "expectedCount": 1418,
+    "insertedCounts": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "allInsertedExactlyOnce": true,
+    "allPreviousItemsPreserved": true,
+    "sortedByDate": true,
+    "requiredFieldsPresent": true,
+    "duplicateCompositeKeys": 0,
+    "newBlobSha": "a109e096a5c3d98f672010436fd52d058aca5dca",
+    "commitSha": "43e84934cc7df1ece2692bd542f671077942beaf",
+    "displayUrl": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者・地域を網羅した調査ではない。",
+    "一時催事のうち、既存店舗内での販売会（LOEFF AW26 COLLECTION POP-UP STORE等）は新規店舗・独立したPOP-UP会場ではないため対象外とした。"
+  ],
+  "notes": [
+    "既存レコードの訂正・削除は行っていない。",
+    "既存1,413件をすべて保持し、公式情報で開催期間と会場を確認できた5件を追加した。",
+    "PEACEMINUSONE X ZO&FRIENDSの東京・大阪会場は既存登録済みのため重複追加していない。",
+    "ビッグ・エー狭山中央店は既存JSONに登録済みであることを再確認した。"
+  ]
+}
