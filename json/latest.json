@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T23:39:33+09:00",
+  "updatetime": "2026-11-07T00:42:01+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5966,6 +5966,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "カルティエ 心斎橋ブティック",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-06",
+      "category": "高級ジュエリー・時計・レザーグッズ・アクセサリー・フレグランス"
     },
     {
       "name": "ASMO academy 霧島国分校",
