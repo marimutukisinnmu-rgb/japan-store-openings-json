@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-06T15:42:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update": {
+    "fetched_sha": "a62531064551ffe6e5c0de3a353b75c5132d3ff8",
+    "count": 1409,
+    "updatetime": "2026-11-06T14:40:51+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "required_field_missing_count": 0,
+    "invalid_date_count": 0,
+    "date_sorted": true,
+    "normalized_duplicate_groups": 2,
+    "normalized_duplicate_samples": [
+      {
+        "records": [
+          {
+            "name": "らかんスタジオ Finelight 前橋店",
+            "prefecture": "群馬県",
+            "city": "前橋市",
+            "opening_date": "2026-11-02",
+            "category": "フォトスタジオ"
+          },
+          {
+            "name": "らかんスタジオ Finelight前橋店",
+            "prefecture": "群馬県",
+            "city": "前橋市",
+            "opening_date": "2026-11-02",
+            "category": "写真館・フォトスタジオ"
+          }
+        ],
+        "disposition": "same-store duplicate candidate; retained without edit"
+      },
+      {
+        "records": [
+          {
+            "name": "ビッグ・エー 清瀬駅北口店",
+            "prefecture": "東京都",
+            "city": "清瀬市",
+            "opening_date": "2026-11-28",
+            "category": "ディスカウントスーパー"
+          },
+          {
+            "name": "ビッグ・エー清瀬駅北口店",
+            "prefecture": "東京都",
+            "city": "清瀬市",
+            "opening_date": "2026-11-28",
+            "category": "ディスカウントストア"
+          }
+        ],
+        "disposition": "same-store duplicate candidate; retained without edit"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "公式ページに掲載された33店舗を照合。33/33がlatest.jsonに存在。新規追加なし。"
+    },
+    {
+      "name": "ブルースカイランドリー（株式会社ジーアイビー）公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "2026年11月の新規出店10店舗を照合。10/10がlatest.jsonに存在。"
+    },
+    {
+      "name": "すき家公式・新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "result": "2026-11-11開店予定の高岡大野店を照合。登録済み。"
+    },
+    {
+      "name": "ビッグ・エー公式・新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "result": "狭山中央店（2026-11-21）と清瀬駅北口店（2026-11-28）を照合。両方登録済み。清瀬駅北口店は表記・カテゴリ違いの重複候補あり。"
+    },
+    {
+      "name": "ラーメン魁力屋公式・新店舗一覧",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "result": "長野平林店（2026-11-04）を照合。登録済み。"
+    },
+    {
+      "name": "THE GUNDAM BASE公式",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "result": "THE GUNDAM BASE SHIBUYA（2026-11-20、渋谷PARCO 5F）を照合。登録済み。"
+    },
+    {
+      "name": "PAPABUBBLE公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLE イクスピアリ店（2026-11-21）を照合。登録済み。"
+    },
+    {
+      "name": "キル フェ ボン公式",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "キル フェ ボン新宿（2026-11-28）を照合。登録済み。"
+    },
+    {
+      "name": "東急株式会社公式・新綱島MICCA発表およびPDF別紙",
+      "url": "https://www.tokyu.co.jp/company/news/detail/62046.html",
+      "appendix_url": "https://www.tokyu.co.jp/company/news/pdf/20260925-micca-t.pdf",
+      "result": "施設の2026-10-28開業、21テナントを確認。施設本体と6テナントは登録済み。残る15テナントは個別開業日が資料に明記されていないため推測登録せず保留。綱島ジャッキー餃子楼は「11月オープン予定」までで日付未確定。"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "latest_json_written": false
+  },
+  "post_check": {
+    "fetched_sha": "a62531064551ffe6e5c0de3a353b75c5132d3ff8",
+    "blob_sha_matches": true,
+    "count": 1409,
+    "updatetime": "2026-11-06T14:40:51+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "json_parse": "success",
+    "required_field_missing_count": 0,
+    "invalid_date_count": 0,
+    "date_sorted": true,
+    "normalized_duplicate_groups": 2,
+    "all_checked_official_candidates_present_or_held": true,
+    "latest_json_changed": false
+  },
+  "unresolved": [
+    "全国すべての事業者を網羅した調査ではない。",
+    "正規化した店舗名・都道府県・市区町村・開業日の組み合わせで重複候補が2組ある。どちらもカテゴリ差があり、誤削除を避けるため未修正。",
+    "新綱島MICCAの21テナントのうち15件は個別開業日が確認できず、開業日を施設開業日から推定しなかった。"
+  ],
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "recorded_last_run_status": "in_progress",
+    "note": "今回の実行が進行中のためin_progress表示。次回実行時刻は取得できず。タスク設定は変更していない。"
+  }
+}
