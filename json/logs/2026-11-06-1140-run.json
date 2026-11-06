@@ -1,0 +1,135 @@
+{
+  "run_at": "2026-11-06T11:43:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before_count": 1396,
+  "after_count": 1396,
+  "added": [],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "SYNRA GROUP公式『Eleanor spa&treatment、2026年秋に5店舗を新規オープン』",
+      "url": "https://synra.co.jp/news-005/",
+      "confirmed": "中目黒・高槻・郡山・池袋3rd・沖縄北谷の5店舗、各開店日と市区町村を確認。5件すべて既存登録済み。"
+    },
+    {
+      "name": "銀座おのでら公式『立鮨 銀座おのでら エキュート大宮店』",
+      "url": "https://onodera-group.com/news/7933/",
+      "confirmed": "2026-11-13開業、埼玉県さいたま市大宮区錦町630 エキュート大宮中央改札（南）内。既存登録済み。"
+    },
+    {
+      "name": "株式会社ジーアイビー発表『ブルースカイランドリー 2026年11月 全国10店舗』",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "confirmed": "11月開業10店舗の店舗名・日付・住所を照合。10件すべて既存登録済み。"
+    },
+    {
+      "name": "株式会社セカンドリテイリング発表『2026年11月新規出店』",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "confirmed": "発表画像の国内9店舗を照合。淵野辺南店を含む9件すべて既存登録済み。海外3店舗は日本対象外。"
+    },
+    {
+      "name": "ベネリック株式会社発表『ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI』",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "confirmed": "2026-11-12〜2026-12-25、新丸ビル3Fアトリウム。既存登録済み。"
+    },
+    {
+      "name": "株式会社有隣堂発表『Penno Penna 大船ルミネウィング店』",
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+      "confirmed": "2026-11-05開店、神奈川県鎌倉市大船1-4-1。既存登録済み。"
+    },
+    {
+      "name": "株式会社マッシュホールディングス発表『sanrio house 渋谷PARCO店』",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "confirmed": "2026-11-13開店、東京都渋谷区宇田川町15-1 渋谷PARCO 5F。既存登録済み。"
+    },
+    {
+      "name": "すき家公式新店情報",
+      "url": "https://sukiya.jp/news/",
+      "confirmed": "高岡大野店は2026-11-11 9:00開店、富山県高岡市大野113番地1。既存登録済み。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島公式・新店紹介",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/",
+      "confirmed": "Acne Studios（11/6）、MERRELL（11/21）、CASIO WATCH OUTLET（12/11）を含む対象店舗を照合。確認した候補は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "item_count": 1396,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "chronological": true,
+    "existing_records_preserved": true,
+    "source_candidate_checks": [
+      {
+        "source": "SYNRA GROUP公式・Eleanor spa&treatment 2026年秋5店舗",
+        "candidates": 5,
+        "registered": 5,
+        "missing": []
+      },
+      {
+        "source": "銀座おのでら公式・立鮨 銀座おのでら エキュート大宮店",
+        "candidates": 1,
+        "registered": 1,
+        "missing": []
+      },
+      {
+        "source": "株式会社ジーアイビー発表・ブルースカイランドリー11月10店舗",
+        "candidates": 10,
+        "registered": 10,
+        "missing": []
+      },
+      {
+        "source": "セカンドリテイリング公式発表・11月国内9店舗",
+        "candidates": 9,
+        "registered": 9,
+        "missing": []
+      },
+      {
+        "source": "ベネリック発表・ハリー・ポッター マホウドコロ丸の内POP-UP",
+        "candidates": 1,
+        "registered": 1,
+        "missing": []
+      },
+      {
+        "source": "有隣堂発表・Penno Penna 大船ルミネウィング店",
+        "candidates": 1,
+        "registered": 1,
+        "missing": []
+      },
+      {
+        "source": "マッシュホールディングス発表・sanrio house 渋谷PARCO店",
+        "candidates": 1,
+        "registered": 1,
+        "missing": []
+      },
+      {
+        "source": "すき家公式新店情報・高岡大野店",
+        "candidates": 1,
+        "registered": 1,
+        "missing": []
+      },
+      {
+        "source": "三井アウトレットパーク ジャズドリーム長島公式・新規出店",
+        "candidates": 3,
+        "registered": 3,
+        "missing": []
+      }
+    ]
+  },
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_blob_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba",
+    "latest_json_updatetime": "2026-11-06T10:45:59+09:00",
+    "log_file": "json/logs/2026-11-06-1140-run.json"
+  },
+  "unverified": [
+    "全国すべての事業者・地域を網羅した調査ではない。",
+    "イオンモール羽生のポムの樹は、同一公式ページの検索結果表示が2026-11-06、直接取得した本文が2026-11-05で不一致。既存JSONの2026-11-06は変更せず保留。"
+  ],
+  "errors": []
+}
