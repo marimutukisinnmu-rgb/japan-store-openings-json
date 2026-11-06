@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-11-06T13:45:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update": {
+    "fetched_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba",
+    "count": 1396,
+    "updatetime": "2026-11-06T10:45:59+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "required_field_missing_count": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0,
+    "candidate": {
+      "name": "ローソン ひばりが丘北",
+      "prefecture": "東京都",
+      "city": "西東京市",
+      "opening_date": "2026-11-20",
+      "category": "コンビニ",
+      "already_present": false
+    }
+  },
+  "sources": [
+    {
+      "name": "ローソン公式・関東エリア新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "result": "2026-11-20オープンの「ひばりが丘北」、住所「東京都西東京市ひばりが丘北3-7-10」を確認。latest.jsonに未登録だったため追加。"
+    },
+    {
+      "name": "ローソン公式・全国および各地域の新店情報",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/",
+        "https://www.lawson.co.jp/newstore/hokkaidou.html",
+        "https://www.lawson.co.jp/newstore/touhoku.html",
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html",
+        "https://www.lawson.co.jp/newstore/chugokushikoku.html",
+        "https://www.lawson.co.jp/newstore/kyushu.html"
+      ],
+      "result": "地域別の掲載を照合。ほかの確認候補は既存登録済み。全国一覧と地域別ページの掲載範囲に差があるため、今回の未登録判定は地域別関東ページの記載を優先。"
+    },
+    {
+      "name": "すかいらーくグループ公式・新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "result": "確認した11月のガスト、しゃぶ葉、バーミヤン、フロプレステージュ、資さんうどんの候補はlatest.jsonに登録済み。"
+    },
+    {
+      "name": "Can★Do公式・2026年お知らせ",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "result": "11月の新店候補を照合。確認した候補はlatest.jsonに登録済み。"
+    },
+    {
+      "name": "ビッグ・エー公式・新店情報",
+      "url": "https://www.biga.co.jp/newshop/",
+      "result": "狭山中央店（2026-11-21）、清瀬駅北口店（2026-11-28）など確認した候補はlatest.jsonに登録済み。"
+    },
+    {
+      "name": "ブルースカイランドリー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "2026年11月の新規出店候補を照合。確認した候補はlatest.jsonに登録済み。"
+    },
+    {
+      "name": "すき家公式ニュース",
+      "url": "https://www.sukiya.jp/news/",
+      "result": "高岡大野店（2026-11-11 09:00）は既存登録済み。"
+    },
+    {
+      "name": "アトリエはるか公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000555.000046400.html",
+      "result": "アトリエはるか エミオ練馬店（2026-11-06 10:00）は既存登録済み。"
+    }
+  ],
+  "changes": {
+    "added": 1,
+    "corrected": 0,
+    "deleted": 0,
+    "added_items": [
+      {
+        "name": "ローソン ひばりが丘北",
+        "prefecture": "東京都",
+        "city": "西東京市",
+        "opening_date": "2026-11-20",
+        "category": "コンビニ"
+      }
+    ]
+  },
+  "post_update": {
+    "latest_json_written": true,
+    "commit_sha": "7e7a49892c413e7ff0a38159cb53bdd0a0363458",
+    "blob_sha": "85c8461cd7a28554028dadd9113cd369255c4d83",
+    "fetched_sha": "85c8461cd7a28554028dadd9113cd369255c4d83",
+    "blob_sha_matches": true,
+    "count": 1397,
+    "updatetime": "2026-11-06T13:45:55+09:00",
+    "json_parse": "success",
+    "required_field_missing_count": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0,
+    "added_item_count": 1,
+    "all_previous_records_preserved": true
+  },
+  "unresolved": [
+    "全国すべての事業者を網羅した調査ではない。今回の調査は公式サイトで確認できた対象に限定。"
+  ],
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "recorded_last_run_status": "in_progress",
+    "note": "peek時点の最新runは実行中表示。完了状態への反映は未確認。"
+  }
+}
