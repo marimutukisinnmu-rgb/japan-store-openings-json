@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T08:40:29+09:00",
+  "updatetime": "2026-11-06T10:45:59+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -8138,6 +8138,13 @@
       "category": "とんかつ・定食"
     },
     {
+      "name": "松屋 サテライト安城店（営業再開）",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-11-25",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -8628,6 +8635,13 @@
       "category": "天丼専門店"
     },
     {
+      "name": "松屋 神楽坂店（営業再開）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-27",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
       "name": "Bistro IKEDAYAMA",
       "prefecture": "東京都",
       "city": "品川区",
@@ -8808,6 +8822,41 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "生鮮市場TOP（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "サンドラッグ（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "FIT-EASY（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスクラブ"
+    },
+    {
+      "name": "QBハウス（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ヘアカット専門店"
+    },
+    {
+      "name": "おたからや（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "買取専門店"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
