@@ -1,0 +1,125 @@
+{
+  "run_at": "2026-11-06T10:45:59+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1389,
+  "after_count": 1396,
+  "added": [
+    {
+      "name": "生鮮市場TOP（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "サンドラッグ（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "FIT-EASY（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスクラブ"
+    },
+    {
+      "name": "QBハウス（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ヘアカット専門店"
+    },
+    {
+      "name": "おたからや（トナリエ久里浜パーク）",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "買取専門店"
+    },
+    {
+      "name": "松屋 サテライト安城店（営業再開）",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-11-25",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
+      "name": "松屋 神楽坂店（営業再開）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-27",
+      "category": "牛丼・定食（営業再開）"
+    }
+  ],
+  "corrected": [],
+  "deleted": [],
+  "sources": [
+    {
+      "name": "株式会社エスコン公式発表（PR TIMES）『トナリエ久里浜パーク』",
+      "url": "https://prtimes.jp/main/html/rd/p/000000118.000090191.html",
+      "confirmed": "施設所在地は神奈川県横須賀市神明町58-7。複合棟は2026-11-28開業、オープン時5店舗。出店店舗は生鮮市場TOP、サンドラッグ、FIT-EASY、QBハウス、おたからや。施設本体のレコードは既存登録済みのため追加していない。"
+    },
+    {
+      "name": "松屋フーズ公式『新店・一時閉店一覧』",
+      "url": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "confirmed": "松屋 サテライト安城店は2026-11-25 15:00、松屋 神楽坂店は2026-11-27 15:00にオープン予定と公式一覧の検索取得結果で確認。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "chronological": true,
+    "added_records_each_once": [
+      {
+        "name": "生鮮市場TOP（トナリエ久里浜パーク）",
+        "count": 1
+      },
+      {
+        "name": "サンドラッグ（トナリエ久里浜パーク）",
+        "count": 1
+      },
+      {
+        "name": "FIT-EASY（トナリエ久里浜パーク）",
+        "count": 1
+      },
+      {
+        "name": "QBハウス（トナリエ久里浜パーク）",
+        "count": 1
+      },
+      {
+        "name": "おたからや（トナリエ久里浜パーク）",
+        "count": 1
+      },
+      {
+        "name": "松屋 サテライト安城店（営業再開）",
+        "count": 1
+      },
+      {
+        "name": "松屋 神楽坂店（営業再開）",
+        "count": 1
+      }
+    ],
+    "existing_records_preserved": true,
+    "saved_blob_sha_matches_update": true
+  },
+  "save": {
+    "latest_json_commit_sha": "9952c803ce9cf78859aa18f164a5f0522a5bda5c",
+    "latest_json_blob_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba",
+    "fetched_blob_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba"
+  },
+  "unverified": [
+    "全国すべての事業者を網羅した調査ではない。",
+    "松屋フーズ公式一覧は検索結果の公式ページ内容から再開日を確認したが、ページ本体の直接取得は503 Service Unavailableで失敗。"
+  ],
+  "errors": [
+    "松屋フーズ公式一覧の直接取得：503 Service Unavailable。公式検索結果に表示された店舗名・所在地（市区）・再開予定日時を利用。"
+  ]
+}
