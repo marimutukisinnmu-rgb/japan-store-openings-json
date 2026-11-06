@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T16:46:02+09:00",
+  "updatetime": "2026-11-06T20:43:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5065,6 +5065,13 @@
       "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（UNIVERSAL MUSIC STORE HARAJUKU）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-04",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-11-04〜2026-11-15）"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -5945,6 +5952,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "BALMUDA Holiday Store（東京ミッドタウン）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "家電・ライフスタイル（期間限定ポップアップストア：2026-11-06〜2026-11-29）"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -6897,6 +6911,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "Paradox Live 7th Anniversary POP-UP STORE『DOPE WORLD -DECISION OF UPRISING-』（東京アニメセンター in DNP PLAZA SHIBUYA）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "アニメ・キャラクター公式グッズ／企画展（期間限定POP-UP STORE：2026-11-13〜2026-11-23）"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -8971,6 +8992,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（なんばマルイ）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-28",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-11-28〜2026-12-13）"
+    },
+    {
       "name": "しゃぶ葉 池田駅前店",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -9095,6 +9123,13 @@
       "city": "宇治市",
       "opening_date": "2026-12-03",
       "category": "食品ディスカウントスーパー"
+    },
+    {
+      "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（名古屋PARCO）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-03",
+      "category": "アーティスト公式グッズ・展示（期間限定POP-UP STORE：2026-12-03〜2026-12-13）"
     },
     {
       "name": "QB PREMIUM エトモ菊名店",
