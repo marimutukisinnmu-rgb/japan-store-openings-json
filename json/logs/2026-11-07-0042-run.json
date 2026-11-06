@@ -1,0 +1,105 @@
+{
+  "run_at": "2026-11-07T00:42:01+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "summary": "Cartierの公式発表で2026年11月6日開業の「カルティエ 心斎橋ブティック」を確認。既存JSONに未登録だったため1件追加。ほかに照合した新店候補は既存登録済み、または開業日の確定ができず保留。",
+  "latest_json": {
+    "path": "json/latest.json",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-07T00:42:01+09:00",
+    "item_count_before": 1420,
+    "item_count_after": 1421,
+    "blob_sha_before": "221c060e4aa5a2ffb87f08e33ab754554440f849",
+    "blob_sha_after": "c896b85e0b10bbefb4ace2d613337c1675a31e88",
+    "commit_sha": "6c4ea1df556bda527089fea4e123570f5e93b71a",
+    "changed": true
+  },
+  "changes": [
+    {
+      "action": "add",
+      "name": "カルティエ 心斎橋ブティック",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-06",
+      "category": "高級ジュエリー・時計・レザーグッズ・アクセサリー・フレグランス",
+      "reason": "Cartierの公式発表で2026年11月6日開業、住所（大阪府大阪市中央区南船場3-12-14）を確認。既存JSONに同一店舗の登録がなかったため。"
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "Cartier／リシュモン ジャパン公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000323.000016275.html",
+      "published_at": "2026-11-05T21:24:00+09:00",
+      "result": "カルティエ 心斎橋ブティックの2026年11月6日開業、住所（大阪府大阪市中央区南船場3-12-14）を確認。"
+    },
+    {
+      "name": "株式会社WithGreen公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "published_at": "2026-11-04T10:00:00+09:00",
+      "result": "WithGreen 光が丘IMA店の2026年11月26日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "タグ・ホイヤー公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000514.000002796.html",
+      "published_at": "2026-08-28T14:05:00+09:00",
+      "result": "タグ・ホイヤー 東京 銀座の2026年11月7日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社SAL公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "published_at": "2026-10-30T16:30:00+09:00",
+      "result": "WR.Yoyogi Parkの2026年11月6日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社ジーアイビー／ブルースカイランドリー公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "published_at": "2026-10-30T14:39:00+09:00",
+      "result": "2026年11月の全国10店舗の開業日・所在地を照合。確認対象は既存JSONに登録済み。"
+    },
+    {
+      "name": "JR西日本SC開発公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "published_at": "2026-09-30T14:00:00+09:00",
+      "result": "LUCUA SOUTHの11月24日開業28ブランドと12月開業4ブランドを照合。日付確定済みの店舗は既存JSONに登録済み。「ナムコ」は12月上旬予定のみのため日付確定待ち。"
+    },
+    {
+      "name": "株式会社LADUREE JAPON公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "published_at": "2026-11-04T14:00:00+09:00",
+      "result": "カフェ・ラデュレ 新丸ビル店の2026年11月16日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社有隣堂公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000167.000135515.html",
+      "published_at": "2026-10-23T13:00:00+09:00",
+      "result": "Penno Penna 大船ルミネウィング店の2026年11月5日開業を確認。既存JSONに登録済み。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "item_count": 1421,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "new_entry_count": 1,
+    "new_entry_matches": 1,
+    "old_records_preserved": true,
+    "read_after_write": "success",
+    "read_after_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "LUCUA SOUTHの「ナムコ」は2026年12月上旬予定との発表のみで、具体的な開業日が未確定のため登録保留。",
+    "全国の全事業者・全店舗を網羅した調査ではない。"
+  ],
+  "automation_state": {
+    "checked_at": "2026-11-07T00:42:01+09:00",
+    "is_enabled_at_check": true,
+    "schedule": "FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_check": null,
+    "last_run_recorded_status_at_check": "in_progress",
+    "note": "実行開始時点の管理情報では有効。次回実行時刻は取得できず、直近実行記録はin_progress。"
+  }
+}
