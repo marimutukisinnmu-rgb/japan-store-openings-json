@@ -1,0 +1,108 @@
+{
+  "run_at": "2026-11-06T16:46:02+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1409,
+  "added_count": 4,
+  "after_count": 1413,
+  "added_items": [
+    {
+      "name": "らあめん花月嵐Express 松戸西口店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-29",
+      "category": "ラーメン店"
+    },
+    {
+      "name": "芳香麻辣湯 松戸六実店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-22",
+      "category": "麻辣湯専門店"
+    },
+    {
+      "name": "らあめん花月嵐Express 新宿西口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-01",
+      "category": "ラーメン店"
+    },
+    {
+      "name": "鮨いつみ 道行",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-05",
+      "category": "寿司店"
+    }
+  ],
+  "checked_but_already_registered": [
+    "neverbetter（ネバーベター）",
+    "ローソン公式全国新店情報の今回照合29店舗",
+    "KFC公式2026年11月新店5店舗"
+  ],
+  "sources": [
+    {
+      "publisher": "グロービート・ジャパン株式会社",
+      "title": "らあめん花月嵐Express 松戸西口店",
+      "url": "https://globeat.jp/new-open/%E3%82%89%E3%81%82%E3%82%81%E3%82%93%E8%8A%B1%E6%9C%88%E5%B5%90express%E3%80%80%E6%9D%BE%E6%88%B8%E8%A5%BF%E5%8F%A3%E5%BA%97/",
+      "supporting_detail": "2026-10-29開店、千葉県松戸市本町19-13"
+    },
+    {
+      "publisher": "グロービート・ジャパン株式会社",
+      "title": "芳香麻辣湯 松戸六実店（公式NEW OPEN一覧）",
+      "url": "https://globeat.jp/",
+      "supporting_detail": "公式トップページに2026-10-22新店オープンとして掲載。所在地は松戸六実店の名称と地域情報で照合。詳細ページは429で取得できず。"
+    },
+    {
+      "publisher": "松戸市地域情報（補助確認）",
+      "title": "芳香麻辣湯 松戸六実店",
+      "url": "https://wl29.net/2026/10/21/matsudom100598335/",
+      "supporting_detail": "千葉県松戸市六実1-15-10、2026-10-22開店予定を確認"
+    },
+    {
+      "publisher": "グロービート・ジャパン株式会社",
+      "title": "らあめん花月嵐Express 新宿西口店",
+      "url": "https://globeat.jp/new-open/%E3%82%89%E3%81%82%E3%82%81%E3%82%93%E8%8A%B1%E6%9C%88%E5%B5%90express%E3%80%80%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3%E5%BA%97/",
+      "supporting_detail": "2026-10-01開店、東京都新宿区西新宿1-15-8"
+    },
+    {
+      "publisher": "鮨くりや川（PR TIMES掲載）",
+      "title": "鮨いつみ 道行 11月5日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000193089.html",
+      "supporting_detail": "2026-11-05開店、東京都港区南青山5-9-8 五番館ビル2階"
+    }
+  ],
+  "validation": {
+    "beforeCount": 1409,
+    "afterCount": 1413,
+    "expectedCount": 1413,
+    "insertedCounts": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "allInsertedExactlyOnce": true,
+    "sortedByDate": true,
+    "requiredFieldsPresent": true,
+    "dateFormatValid": true,
+    "newBlobSha": "88d97d7949478a9325874357f59fd9bc09584c88",
+    "commitSha": "ab69af7e899815b755e41c2766aac8c51ba7fcbf",
+    "displayUrl": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json"
+  },
+  "errors": [
+    "グロービート・ジャパンの芳香麻辣湯 松戸六実店詳細ページは429 Too Many Requestsで直接取得できず。公式トップの新店一覧と地域情報で補完。"
+  ],
+  "unconfirmed": [
+    "全国すべての事業者・地域を網羅した調査ではない。",
+    "グロービート・ジャパンの護国寺店はFC引継ぎによる再スタートで、物理的な新規開店・リニューアルか判断できないため追加対象外。"
+  ],
+  "notes": [
+    "neverbetterは既存JSONに登録済みのため重複追加しなかった。",
+    "ローソン公式全国一覧で確認した29店舗はすべて既存JSONに登録済み。",
+    "KFC公式2026年11月新店5店舗もすべて既存JSONに登録済み。",
+    "既存レコードの訂正・削除は行っていない。"
+  ]
+}
