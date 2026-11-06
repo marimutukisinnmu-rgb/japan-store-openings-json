@@ -1,0 +1,98 @@
+{
+  "run_at": "2026-11-06T23:39:33+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "summary": "株式会社スープストックトーキョーの2026年11月6日付公式発表で、渋谷ストリーム内に2026年12月1日開業予定の新業態「秋野テーブル」を確認。既存JSONに未登録だったため1件追加。ほかの新店候補は既存登録を確認。",
+  "latest_json": {
+    "path": "json/latest.json",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-06T23:39:33+09:00",
+    "item_count_before": 1419,
+    "item_count_after": 1420,
+    "blob_sha_before": "cd3c8d8090260ef6acb696cee58476bf0a69aaa2",
+    "blob_sha_after": "221c060e4aa5a2ffb87f08e33ab754554440f849",
+    "commit_sha": "36d8af799fc820000dda743f684078fa03cf2eeb",
+    "changed": true
+  },
+  "changes": [
+    {
+      "action": "add",
+      "name": "秋野テーブル",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-01",
+      "category": "レストラン（新業態）",
+      "reason": "2026年11月6日付の運営会社公式発表で店舗名・開業日・所在地を確認し、既存JSONに同一店舗がなかったため。"
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "株式会社スープストックトーキョー公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "published_at": "2026-11-06T12:00:00+09:00",
+      "result": "秋野テーブルの2026年12月1日開業、東京都渋谷区渋谷3-21-3 渋谷ストリーム内を確認。"
+    },
+    {
+      "name": "シブヤ経済新聞",
+      "url": "https://www.shibukei.com/index.php/headline/20263/",
+      "published_at": "2026-11-06",
+      "result": "渋谷ストリーム2階で12月1日開業予定と補助確認。"
+    },
+    {
+      "name": "株式会社いとをかし公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194074.html",
+      "result": "王道乃印 飛道家の11月6日開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "ベネリック公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "result": "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHIの11月12日開始を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "セカンドリテイリング新店発表",
+      "url": "https://www.ryutsuu.biz/store/s102945.html",
+      "result": "2026年11月の国内新店候補を既存JSONと照合。確認できた国内候補は登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000062707.html",
+      "result": "POP MART 沖縄浦添PARCO CITY店の11月6日開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "PAPABUBBLE公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLE イクスピアリ店の11月21日開店を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "LADUREE JAPON公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "result": "カフェ・ラデュレ 新丸ビル店の11月16日開店を確認。既存JSONに登録済み。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "item_count": 1420,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "new_entry_count": 1,
+    "new_entry_matches": 1,
+    "read_after_write": "success",
+    "read_after_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者・全店舗を網羅した調査ではない。",
+    "今回確認した候補以外の新店情報は未確認。"
+  ],
+  "automation_state": {
+    "checked_at": "2026-11-06T23:39:33+09:00",
+    "is_enabled_at_check": true,
+    "schedule": "FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status_at_check": "in_progress",
+    "note": "最新の実行記録はin_progressで、完了時刻は未確認。"
+  }
+}
