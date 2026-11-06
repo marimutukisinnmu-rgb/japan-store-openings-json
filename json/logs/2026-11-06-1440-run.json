@@ -1,0 +1,204 @@
+{
+  "run_at": "2026-11-06T14:40:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update": {
+    "fetched_sha": "85c8461cd7a28554028dadd9113cd369255c4d83",
+    "count": 1397,
+    "updatetime": "2026-11-06T13:45:55+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "required_field_missing_count": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0
+  },
+  "sources": [
+    {
+      "name": "サンシャインシティ公式・オープン／リニューアル情報",
+      "url": "https://sunshinecity.jp/renewal.html",
+      "result": "2026-11-20の新規4店舗（LAKOLE、ホテラバ、ルルティ、WEGO TOKYO）とリニューアル3店舗（チュチュアンナ、Francfranc、archives）を確認。各店舗の公式施設ページでもフロア・業態・日付を照合。"
+    },
+    {
+      "name": "サンシャインシティ公式・LAKOLE",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-39131.html",
+      "result": "ALTA B1、2026-11-20新規オープン。"
+    },
+    {
+      "name": "サンシャインシティ公式・ホテラバ",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-39130.html",
+      "result": "ALTA B1、2026-11-20新規オープン。"
+    },
+    {
+      "name": "サンシャインシティ公式・ルルティ",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-39129.html",
+      "result": "ALTA B1、2026-11-20新規オープン。"
+    },
+    {
+      "name": "サンシャインシティ公式・WEGO TOKYO",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-39113.html",
+      "result": "ALTA B1、2026-11-20新規オープン。"
+    },
+    {
+      "name": "サンシャインシティ公式・チュチュアンナ",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-18342.html",
+      "result": "ALTA B1、2026-11-20リニューアルオープン。休業期間と再開日を確認。"
+    },
+    {
+      "name": "サンシャインシティ公式・Francfranc",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-636.html",
+      "result": "アルパ1F、2026-11-20リニューアルオープン。休業期間と再開日を確認。"
+    },
+    {
+      "name": "サンシャインシティ公式・archives",
+      "url": "https://sunshinecity.jp/shop/shop_list/entry-533.html",
+      "result": "ALTA B1、2026-11-20リニューアルオープン。休業期間と再開日を確認。"
+    },
+    {
+      "name": "chocoZAP公式・足立西保木間店",
+      "url": "https://chocozap.jp/studios/15976",
+      "result": "2026-11-30 12:00オープン予定、東京都足立区西保木間2-13-22。"
+    },
+    {
+      "name": "ビッグ・エー公式・新店情報一覧",
+      "url": "https://www.biga.co.jp/newshop/",
+      "result": "ビッグ・エー清瀬駅北口店の2026-11-28オープン予定を確認。"
+    },
+    {
+      "name": "ハローストレージ公式・新宿御苑2",
+      "url": "https://www.hello-storage.com/tokyo/shinjukuku/detail/9724/",
+      "result": "2026-11-13オープン予定、東京都新宿区新宿5丁目2-1。天候・工期で遅れる可能性の注記あり。"
+    },
+    {
+      "name": "ルミネ町田公式・ニュー／クローズショップ",
+      "url": "https://www.lumine.ne.jp/machida/newshop/",
+      "result": "LOWRYS FARM、5F、2026-11-12オープンを確認。"
+    },
+    {
+      "name": "ねぎしフードサービス公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000132940.html",
+      "result": "ねぎし タカシマヤ タイムズスクエア店の2026-11-13リニューアルと所在地（東京都渋谷区千駄ヶ谷5-24-2）を確認。"
+    }
+  ],
+  "changes": {
+    "added": 12,
+    "corrected": 0,
+    "deleted": 0,
+    "added_items": [
+      {
+        "name": "LAKOLE（サンシャインシティ ALTA）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "ファッション・生活雑貨"
+      },
+      {
+        "name": "ホテラバ（サンシャインシティ ALTA）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "カラコン・コスメ"
+      },
+      {
+        "name": "ルルティ（サンシャインシティ ALTA）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "フォーマルウェア"
+      },
+      {
+        "name": "WEGO TOKYO（サンシャインシティ ALTA）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "ファッション"
+      },
+      {
+        "name": "チュチュアンナ（サンシャインシティ ALTA・リニューアル）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "ファッション雑貨（リニューアル）"
+      },
+      {
+        "name": "Francfranc（サンシャインシティ アルパ・リニューアル）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "インテリア・生活雑貨（リニューアル）"
+      },
+      {
+        "name": "archives（サンシャインシティ ALTA・リニューアル）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-20",
+        "category": "レディースファッション（リニューアル）"
+      },
+      {
+        "name": "LOWRYS FARM ルミネ町田店",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-11-12",
+        "category": "レディースファッション"
+      },
+      {
+        "name": "ねぎし タカシマヤ タイムズスクエア店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-13",
+        "category": "牛たん・定食（リニューアル）"
+      },
+      {
+        "name": "ハローストレージ新宿御苑2",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-13",
+        "category": "トランクルーム"
+      },
+      {
+        "name": "ビッグ・エー 清瀬駅北口店",
+        "prefecture": "東京都",
+        "city": "清瀬市",
+        "opening_date": "2026-11-28",
+        "category": "ディスカウントスーパー"
+      },
+      {
+        "name": "chocoZAP 足立西保木間",
+        "prefecture": "東京都",
+        "city": "足立区",
+        "opening_date": "2026-11-30",
+        "category": "フィットネスジム"
+      }
+    ]
+  },
+  "post_update": {
+    "latest_json_written": true,
+    "commit_sha": "b957254b545a8ebc6e5a43d884177eec971067ce",
+    "blob_sha": "a62531064551ffe6e5c0de3a353b75c5132d3ff8",
+    "fetched_sha": "a62531064551ffe6e5c0de3a353b75c5132d3ff8",
+    "blob_sha_matches": true,
+    "count": 1409,
+    "updatetime": "2026-11-06T14:40:51+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "json_parse": "success",
+    "required_field_missing_count": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0,
+    "added_item_count": 12,
+    "all_previous_records_preserved": true,
+    "validation_passed": true
+  },
+  "unresolved": [
+    "全国すべての事業者を網羅した調査ではない。今回の候補調査は東京都内の公式施設・事業者情報も対象とした。",
+    "や台ずし 東村山駅前町、スシロー 梅島駅前店、carrefour Noa ひばりが丘店などは二次情報で候補を発見したが、今回の調査では開店日を確定できる一次情報を十分に確認できなかったため未登録。",
+    "ハローストレージ新宿御苑2は公式ページに天候・工期による遅延可能性の注記あり。"
+  ],
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "recorded_last_run_status": "in_progress",
+    "note": "peek時点の最新runはin_progress表示。これは実行ワーカーの現在の稼働を保証しない。スケジュール変更・停止は行っていない。"
+  }
+}
