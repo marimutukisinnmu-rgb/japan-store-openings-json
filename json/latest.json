@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T14:40:51+09:00",
+  "updatetime": "2026-11-06T16:46:02+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -492,6 +492,13 @@
       "city": "墨田区",
       "opening_date": "2026-10-01",
       "category": "チーズ・乳製品（期間限定ショップ）"
+    },
+    {
+      "name": "らあめん花月嵐Express 新宿西口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-10-01",
+      "category": "ラーメン店"
     },
     {
       "name": "ローソン Ｓ日亜化学工業ＴＳ３棟",
@@ -2391,6 +2398,13 @@
       "category": "期間限定コラボカフェ（キャラクター）"
     },
     {
+      "name": "芳香麻辣湯 松戸六実店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-22",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "ABC-MART GRAND STAGEららぽーと新三郷店",
       "prefecture": "埼玉県",
       "city": "三郷市",
@@ -3474,6 +3488,13 @@
       "city": "品川区",
       "opening_date": "2026-10-29",
       "category": "スーパーマーケット（リニューアル）"
+    },
+    {
+      "name": "らあめん花月嵐Express 松戸西口店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-10-29",
+      "category": "ラーメン店"
     },
     {
       "name": "ランディーズドーナツ 東京スカイツリータウン・ソラマチ店",
@@ -5294,6 +5315,13 @@
       "city": "名古屋市天白区",
       "opening_date": "2026-11-05",
       "category": "居酒屋（リニューアル）"
+    },
+    {
+      "name": "鮨いつみ 道行",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-05",
+      "category": "寿司店"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
