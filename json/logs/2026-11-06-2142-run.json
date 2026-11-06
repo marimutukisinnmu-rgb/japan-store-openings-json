@@ -1,0 +1,74 @@
+{
+  "run_at": "2026-11-06T21:42:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_change",
+  "summary": "公式情報源を照合したが、新規追加・訂正・削除が確実な候補はなかった。latest.jsonは変更せず、既存データを保護した。",
+  "latest_json": {
+    "path": "json/latest.json",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-06T20:43:09+09:00",
+    "item_count": 1418,
+    "blob_sha_before": "a109e096a5c3d98f672010436fd52d058aca5dca",
+    "blob_sha_after": "a109e096a5c3d98f672010436fd52d058aca5dca",
+    "changed": false
+  },
+  "sources_checked": [
+    {
+      "name": "ローソン公式・関東新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/kantou.html",
+      "result": "ページで確認できた小川駅西口・三井リンクラボ東陽町などは既存登録済み。"
+    },
+    {
+      "name": "ローソン公式・中部新店情報",
+      "url": "https://www.lawson.co.jp/newstore/chubu.html",
+      "result": "羽島市役所南、富山八尾大杉、東郷深池、魚津末広町を確認。いずれも既存登録済み。"
+    },
+    {
+      "name": "すき家公式ニュース",
+      "url": "https://www.sukiya.jp/news/",
+      "result": "2026年11月11日開店予定の高岡大野店を確認。既存登録済み。"
+    },
+    {
+      "name": "リンツ公式・ラスカ平塚店の発表",
+      "url": "https://www.lindt.jp/contents/chocolat-cafe/31429/",
+      "result": "2026年11月6日開店、神奈川県平塚市宝町1-1 ラスカ平塚3階。既存JSONの「リンツ ショコラ ブティック ラスカ平塚店」と一致するため追加せず。"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島公式新店紹介",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/",
+      "result": "Acne Studios、LAVENHAM、PYRENEX、CRONOS、SY32 by SWEET YEARS、CASIO WATCH OUTLET、URBAN RESEARCH Warehouse、ABC-MARTの確認できた候補は既存登録済み。画像掲載の全16店舗一覧は本文テキストとして完全取得できず、残りは網羅照合未完了。"
+    },
+    {
+      "name": "イオンモール伊達公式・施設概要",
+      "url": "https://www.aeonmall.com/news/index/16845/",
+      "result": "2026年11月27日グランドオープンと専門店一覧PDF（173店）を確認。JSONにある24件は照合済み。全テナントの個別開店日が一覧に記載されていないため、未登録テナントを一律に11月27日として追加しなかった。"
+    },
+    {
+      "name": "WAKAN箱根強羅 by ラフォーレ公式関連発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001870.000006521.html",
+      "result": "2026年11月10日開業予定。既存登録済み。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "item_count": 1418,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "read_after_write": "not_applicable_no_latest_json_write"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "ジャズドリーム長島の新規・リニューアル16店舗のうち、公式ページで画像にのみ記載された残りの店舗は本文テキストとして完全照合できていない。",
+    "イオンモール伊達の全173テナントについて、個別開店日を示す一次情報が揃っていないため、未登録テナントは追加していない。",
+    "全国の全事業者を網羅した調査ではない。"
+  ],
+  "automation_state": {
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_recorded_status_at_check": "in_progress"
+  }
+}
