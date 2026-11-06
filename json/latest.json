@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T10:45:59+09:00",
+  "updatetime": "2026-11-06T13:45:55+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7730,6 +7730,13 @@
       "city": "久喜市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
+    },
+    {
+      "name": "ローソン ひばりが丘北",
+      "prefecture": "東京都",
+      "city": "西東京市",
+      "opening_date": "2026-11-20",
+      "category": "コンビニ"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
