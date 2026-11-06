@@ -1,0 +1,96 @@
+{
+  "run_at": "2026-11-06T22:40:31+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "summary": "A&F公式のPENDLETON POP UP JOURNEY 2026を7会場分照合し、既存JSONに欠けていた昭島アウトドアヴィレッジ店の開催開始日を1件追加した。既存6会場は登録済み。",
+  "latest_json": {
+    "path": "json/latest.json",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-06T22:40:31+09:00",
+    "item_count_before": 1418,
+    "item_count_after": 1419,
+    "blob_sha_before": "a109e096a5c3d98f672010436fd52d058aca5dca",
+    "blob_sha_after": "cd3c8d8090260ef6acb696cee58476bf0a69aaa2",
+    "commit_sha": "b1d2ac7a3d88bb5184b20c98afef767900bc0a20",
+    "changed": true
+  },
+  "changes": [
+    {
+      "action": "add",
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー 昭島アウトドアヴィレッジ店）",
+      "prefecture": "東京都",
+      "city": "昭島市",
+      "opening_date": "2026-10-08",
+      "category": "期間限定ポップアップイベント（アウトドア・ライフスタイル）",
+      "event_period": "2026-10-08〜2026-11-03",
+      "reason": "A&F公式発表には全国7店舗と開催期間が記載されていたが、既存JSONには他の6会場のみ登録されていたため。"
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "A&F公式・PENDLETON POP UP JOURNEY 2026",
+      "url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026",
+      "result": "全国7店舗の開催スケジュールを確認。昭島アウトドアヴィレッジ店は10月8日〜11月3日。既存の他6会場も照合。"
+    },
+    {
+      "name": "A&F公式・店舗検索",
+      "url": "https://aandf.co.jp/stores/finder?brand=barbour",
+      "result": "昭島アウトドアヴィレッジ店の所在地を東京都昭島市代官山2-6-1と確認。"
+    },
+    {
+      "name": "日本ショッピングセンター協会・2026年オープンSC一覧",
+      "url": "https://jcsc.or.jp/sc_data/sc_open/sc_list",
+      "result": "天満屋ハピーズ西大寺モール（11月12日グランドオープン）、イオンモール伊達（11月27日）を確認。どちらも既存JSONに登録済み。"
+    },
+    {
+      "name": "イオンモール公式・イオンモール伊達",
+      "url": "https://www.aeonmall.com/news/index/16845/",
+      "result": "11月27日午前9時グランドオープンを確認。既存の施設・一部テナント登録済み。個別開業日が確認できないテナントは追加せず。"
+    },
+    {
+      "name": "グランベリーパーク公式・2026年秋新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "result": "COHINA（11月12日）、マーガレット・ハウエル エー.ジー.オー.（11月13日）を確認。既存登録済み。COHINAは表記揺れの2レコードが存在するため変更せず。"
+    },
+    {
+      "name": "キル フェ ボン公式・新宿店",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "11月28日開店予定を確認。既存登録済み。"
+    },
+    {
+      "name": "銀座おのでら公式・立鮨 エキュート大宮店",
+      "url": "https://onodera-group.com/news/7933/",
+      "result": "11月13日グランドオープン予定を確認。既存登録済み。"
+    },
+    {
+      "name": "POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店の11月24日開店予定を確認。既存登録済み。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "item_count": 1419,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "new_entry_count": 1,
+    "new_entry_matches": 1,
+    "read_after_write": "success",
+    "read_after_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国の全事業者・全店舗を網羅した調査ではない。",
+    "イオンモール伊達の全テナントについて個別開業日が一次情報で確定できるわけではないため、施設開業日をテナント全店へ流用していない。"
+  ],
+  "automation_state": {
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_recorded_status_at_check": "in_progress",
+    "schedule_changed": false
+  }
+}
