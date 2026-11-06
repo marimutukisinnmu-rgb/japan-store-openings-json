@@ -1,0 +1,87 @@
+{
+  "run_at": "2026-11-06T12:48:33+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "pre_update": {
+    "fetched_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba",
+    "count": 1396,
+    "updatetime": "2026-11-06T10:45:59+09:00",
+    "period": "2026-09-18/2027-02-11",
+    "required_field_missing_count": 0,
+    "date_sorted": true,
+    "duplicate_keys": 0,
+    "lawson_official_candidates_checked": 32,
+    "lawson_candidates_missing_from_json": []
+  },
+  "sources": [
+    {
+      "name": "ローソン公式・北海道/東北/関東/中部/近畿/中国・四国/九州 新店情報",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/hokkaidou.html",
+        "https://www.lawson.co.jp/newstore/touhoku.html",
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html",
+        "https://www.lawson.co.jp/newstore/chugokushikoku.html",
+        "https://www.lawson.co.jp/newstore/kyushu.html",
+        "https://www.lawson.co.jp/newstore/smt/"
+      ],
+      "result": "確認した32候補はすべてlatest.jsonに登録済み。追加なし。"
+    },
+    {
+      "name": "すき家公式ニュース",
+      "url": "https://www.sukiya.jp/news/",
+      "result": "高岡大野店（2026-11-11 09:00）は既存登録済み。"
+    },
+    {
+      "name": "PAPABUBBLE公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLE イクスピアリ店（2026-11-21）は既存登録済み。"
+    },
+    {
+      "name": "KFC公式ニュースリリース",
+      "url": "https://japan.kfc.co.jp/news_release/8181",
+      "result": "公式トップページに11月新店情報へのリンクはあるが、リンク先は404。与野東口店を含む未登録候補の開店日を一次情報で確定できず、追加しない。"
+    },
+    {
+      "name": "東急レクリエーション発表：名探偵コナンダイナー",
+      "url": "https://prtimes.jp/main/html/rd/p/000000766.000001956.html",
+      "result": "渋谷ストリームで2026年冬開業と所在地は確認。具体的な開業日が未発表のため登録保留。"
+    },
+    {
+      "name": "野村不動産公式：MEFULL渋谷道玄坂",
+      "url": "https://www.nomura-re.co.jp/news/004928.html",
+      "result": "2027年1月からテナント順次開業の予定。個別店舗・具体的な日付が未確定のため登録保留。"
+    },
+    {
+      "name": "イオンモール羽生公式：ポムの樹リニューアル",
+      "url": "https://hanyu.aeonmall.jp/news/renewal/9ac16d34-5d6e-45d9-be07-24b5f81501bc",
+      "result": "11月6日リニューアルの公式本文を再確認。既存JSONも2026-11-06で一致。変更なし。"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "post_update": {
+    "latest_json_written": false,
+    "reason": "追加・訂正・削除対象が確認できなかったため、latest.jsonは書き換えず既存データを保持。",
+    "expected_sha": "7eff65f76ec5736efc5c58e35a1941cb0fbf56ba",
+    "expected_count": 1396
+  },
+  "unresolved": [
+    "KFC公式の11月新店情報リンク先は404。与野東口店の開店日は公式一次情報で未確認。",
+    "ローソンＨ君津南子安一丁目は公式ページ間で番地表記に差があるが、JSONは市区町村までのため住所変更は行わない。",
+    "全国すべての事業者を網羅した調査ではない。"
+  ],
+  "automation_status_at_check": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "recorded_last_run_status": "in_progress"
+  }
+}
