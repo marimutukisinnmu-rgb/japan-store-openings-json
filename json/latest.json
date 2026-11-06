@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-06T22:40:31+09:00",
+  "updatetime": "2026-11-06T23:39:33+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -9095,6 +9095,13 @@
       "city": "江東区",
       "opening_date": "2026-12-01",
       "category": "キャラクター公式ショップ（リニューアル）"
+    },
+    {
+      "name": "秋野テーブル",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-01",
+      "category": "レストラン（新業態）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
