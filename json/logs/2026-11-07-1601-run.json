@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-11-07T16:01:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1424,
+    "blob_sha": "c4b7506044140581ff98714760ce13a422d5b2f4",
+    "updatetime": "2026-11-07T14:55:38+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "博多の味やまや（キャナルシティ博多）",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-11-11",
+        "category": "明太フランス専門店",
+        "source": "https://www.yamaya.com/corporate/news/detail/886"
+      },
+      {
+        "name": "FLA-LAB キャナルシティ店",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-11-11",
+        "category": "フルーツコンセプトショップ",
+        "source": "https://www.yamaya.com/corporate/news/detail/886"
+      },
+      {
+        "name": "YORI PARFAIT ＆ BAR",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-11-16",
+        "category": "パフェ専門店・カフェバー",
+        "source": "https://prtimes.jp/main/html/rd/p/000000008.000143294.html"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "Yamaya Communications official announcement",
+      "url": "https://www.yamaya.com/corporate/news/detail/886",
+      "checked": 2,
+      "added": 2,
+      "notes": "Official announcement states both stores open on 2026-11-11 at Canal City Hakata B1F, Fukuoka-shi Hakata-ku Sumiyoshi 1-2."
+    },
+    {
+      "source": "INSOU Holdings official PR TIMES announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000143294.html",
+      "checked": 1,
+      "added": 1,
+      "notes": "Operator group announcement states YORI PARFAIT & BAR opens 2026-11-16 at 7-8 Soemoncho, Chuo-ku, Osaka."
+    }
+  ],
+  "after": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "chronological_order": "valid",
+    "added_record_count": 3,
+    "added_record_match_counts": [
+      1,
+      1,
+      1
+    ],
+    "previous_records_preserved": 1424
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者・店舗を網羅した調査ではない。",
+    "一部の二次情報にはYORI PARFAIT & BARの開店日が異なる記載があるが、運営元グループの公式発表（2026-11-16）を採用した。"
+  ]
+}
