@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T22:03:51+09:00",
+  "updatetime": "2026-11-07T22:58:39+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5982,6 +5982,20 @@
       "category": "中華料理"
     },
     {
+      "name": "Re:CENO 大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-06",
+      "category": "家具・インテリアショップ"
+    },
+    {
+      "name": "chocobari 新宿御苑店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "美容鍼・鍼灸サロン"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6092,6 +6106,20 @@
       "city": "港区",
       "opening_date": "2026-11-07",
       "category": "韓国料理（期間限定POPUP）"
+    },
+    {
+      "name": "WIND AND SEA FUKUOKA",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-07",
+      "category": "アパレル・ファッション"
+    },
+    {
+      "name": "KINDCARE 京王新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-07",
+      "category": "ヘルスサポート用品・介護用品（リニューアル）"
     },
     {
       "name": "zen place pilates 新横浜",
@@ -7396,6 +7424,13 @@
       "category": "没入型アートミュージアム（新規開館）"
     },
     {
+      "name": "KANGOL BEAUTY SHARE SALON × Mirror Mirrors",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-18",
+      "category": "美容シェアサロン・美容室専売品ショップ（リニューアル）"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8010,6 +8045,13 @@
       "city": "千葉市中央区",
       "opening_date": "2026-11-23",
       "category": "期間限定ポップアップ（ゲーミングPC展示・相談・販売）"
+    },
+    {
+      "name": "蜜彩菓 由布院本店",
+      "prefecture": "大分県",
+      "city": "由布市",
+      "opening_date": "2026-11-23",
+      "category": "さつまいも和菓子・甘味処"
     },
     {
       "name": "chocoZAP 東大和清水六丁目",
@@ -10208,6 +10250,13 @@
       "city": "中野区",
       "opening_date": "2026-12-09",
       "category": "惣菜・和食"
+    },
+    {
+      "name": "HRMT BEYOND",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-09",
+      "category": "フランス料理レストラン"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
