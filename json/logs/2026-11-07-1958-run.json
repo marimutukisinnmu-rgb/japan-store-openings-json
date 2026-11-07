@@ -1,0 +1,94 @@
+{
+  "run_at": "2026-11-07T19:58:02+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1428,
+    "updatetime": "2026-11-07T19:02:15+09:00",
+    "blob_sha": "1c1603074fe6667229d7e074ef358bfd5aeec5d8"
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store pages",
+      "regions": [
+        "北海道",
+        "東北",
+        "関東",
+        "中部",
+        "近畿",
+        "中国・四国",
+        "九州"
+      ],
+      "result": "The currently listed November entries relevant to the checked regional pages were matched to existing records in latest.json.",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/hokkaidou.html",
+        "https://www.lawson.co.jp/newstore/touhoku.html",
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html",
+        "https://www.lawson.co.jp/newstore/chugokushikoku.html",
+        "https://www.lawson.co.jp/newstore/kyushu.html"
+      ]
+    },
+    {
+      "source": "Can★Do official 2026 announcements",
+      "result": "November new-store notices through 2026-11-20 were matched to existing records; no additional unmatched notice found.",
+      "url": "https://www.cando-web.co.jp/news/2026/"
+    },
+    {
+      "source": "JOYJOY official store list",
+      "result": "白山松任バイパス店 is officially listed for 2026-11-19 10:00 and is already present in latest.json.",
+      "url": "https://www.joyjoy.co.jp/store/index/store/index/3"
+    },
+    {
+      "source": "Sukiya official news",
+      "result": "高岡大野店, scheduled for 2026-11-11, is already present in latest.json.",
+      "url": "https://sukiya.jp/news/"
+    },
+    {
+      "source": "VENEX official announcement",
+      "result": "neverbetter, scheduled for 2026-11-15, is already present in latest.json.",
+      "url": "https://venex-j.co.jp/news/detail/1030.html"
+    },
+    {
+      "source": "Qu'il fait bon official announcement",
+      "result": "キル フェ ボン新宿, scheduled for 2026-11-28, is already present in latest.json.",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "latest_json_written": false,
+    "reason": "No verified unmatched new-store record or correction was found."
+  },
+  "after": {
+    "item_count": 1428,
+    "updatetime": "2026-11-07T19:02:15+09:00",
+    "blob_sha": "1c1603074fe6667229d7e074ef358bfd5aeec5d8"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "ascending_opening_date_order": true,
+    "exact_duplicate_keys": 0,
+    "existing_items_preserved": true
+  },
+  "errors": [],
+  "limitations": [
+    "This was a targeted official-source check, not an exhaustive survey of every Japanese business.",
+    "The Okinawa Lawson local page surfaced in search did not provide a current November new-store list; no Okinawa candidate was added from it."
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "note": "Automation management reports enabled; next_run_time is not populated and the current run remains recorded as in_progress."
+  }
+}
