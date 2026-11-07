@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T20:58:21+09:00",
+  "updatetime": "2026-11-07T22:03:51+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -8857,6 +8857,321 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "天丼専門店"
+    },
+    {
+      "name": "イオンスタイル伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "総合スーパー"
+    },
+    {
+      "name": "ユニクロ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "ジーユー イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "無印良品 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "衣料品・生活雑貨"
+    },
+    {
+      "name": "岩瀬書店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "書籍・文具・雑貨"
+    },
+    {
+      "name": "MIRAINO イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "コジマ×ビックカメラ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "家電量販店"
+    },
+    {
+      "name": "スーパースポーツゼビオ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ用品"
+    },
+    {
+      "name": "グラニフ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・キャラクター雑貨"
+    },
+    {
+      "name": "ハニーズ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "レディース・キッズファッション"
+    },
+    {
+      "name": "R＋ PLUS REGAL CORPORATION イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ・ファッショングッズ"
+    },
+    {
+      "name": "MEDOC イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション"
+    },
+    {
+      "name": "LOURDES イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "セレクトショップ・ファッション"
+    },
+    {
+      "name": "Francfranc イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "インテリア・生活雑貨"
+    },
+    {
+      "name": "KEYUCA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・インテリア"
+    },
+    {
+      "name": "アディダス ストア by ABC-MART イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ・アパレル・シューズ"
+    },
+    {
+      "name": "cause イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "セレクトショップ・アパレル"
+    },
+    {
+      "name": "ムラサキスポーツ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ・アパレル"
+    },
+    {
+      "name": "SKECHERS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ"
+    },
+    {
+      "name": "Hobby Zone イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ホビー・模型"
+    },
+    {
+      "name": "#C-pla イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "PETEMO イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ペット用品・サービス"
+    },
+    {
+      "name": "Cat Café MOFF イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "猫カフェ"
+    },
+    {
+      "name": "ドンク／ミニワン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "ソフと。イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ソフトクリーム・スイーツ"
+    },
+    {
+      "name": "FUJIYA CONFECTIONERY イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "洋菓子"
+    },
+    {
+      "name": "カルディコーヒーファーム イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "コーヒー豆・輸入食品"
+    },
+    {
+      "name": "久世福商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "食品・グロサリー"
+    },
+    {
+      "name": "バーガーキング イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "りんごとバター。／苺のワルツ。 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "焼菓子・スイーツ"
+    },
+    {
+      "name": "ルピシア イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "紅茶・茶葉"
+    },
+    {
+      "name": "ゴンチャ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "牛たん炭焼 利久 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "牛たん料理"
+    },
+    {
+      "name": "君のハンバーグを食べたい イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーグ専門店"
+    },
+    {
+      "name": "麺場 田所商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "味噌ラーメン"
+    },
+    {
+      "name": "味工房 極 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "からあげ・惣菜"
+    },
+    {
+      "name": "小木曽製粉所 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "信州そば"
+    },
+    {
+      "name": "温野菜ごはんがおいしいスープ食堂 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スープ・和食"
+    },
+    {
+      "name": "長崎ちゃんぽんリンガーハット イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ちゃんぽん"
+    },
+    {
+      "name": "SUBWAY イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "島村楽器 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "楽器販売・音楽教室"
+    },
+    {
+      "name": "ダcafe 八百屋から始まる、果物の物語 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "カフェ・青果・スイーツ"
+    },
+    {
+      "name": "伊達市 観光物産ショップ あい～な伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "観光物産・地域特産品"
+    },
+    {
+      "name": "ダイユーエイト（イオンモール伊達 外部棟）",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ホームセンター"
+    },
+    {
+      "name": "ペットワールド アミーゴ（イオンモール伊達 外部棟）",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ペット用品・サービス"
     },
     {
       "name": "Bistro IKEDAYAMA",
