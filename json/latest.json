@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T00:42:01+09:00",
+  "updatetime": "2026-11-07T13:58:15+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -4246,6 +4246,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "FOPE 福岡天神",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-31",
+      "category": "高級ジュエリー・旗艦店"
+    },
+    {
       "name": "Lino Style 流山街道店",
       "prefecture": "千葉県",
       "city": "流山市",
@@ -5590,6 +5597,13 @@
       "category": "食品スーパー（店舗転換）"
     },
     {
+      "name": "カルティエ 心斎橋ブティック",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-06",
+      "category": "高級ジュエリー・時計・レザーグッズ・アクセサリー・フレグランス"
+    },
+    {
       "name": "きづなすし 上野店",
       "prefecture": "東京都",
       "city": "台東区",
@@ -5968,13 +5982,6 @@
       "category": "中華料理"
     },
     {
-      "name": "カルティエ 心斎橋ブティック",
-      "prefecture": "大阪府",
-      "city": "大阪市中央区",
-      "opening_date": "2026-11-06",
-      "category": "高級ジュエリー・時計・レザーグッズ・アクセサリー・フレグランス"
-    },
-    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -5987,6 +5994,13 @@
       "city": "富士見市",
       "opening_date": "2026-11-07",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "CHRISTINA HOUSE NAGOYA",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-07",
+      "category": "スキンケア・化粧品（直営店）"
     },
     {
       "name": "EXPO 2027 オフィシャルポップアップストア ラフォーレ原宿店",
