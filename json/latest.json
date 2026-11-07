@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T19:02:15+09:00",
+  "updatetime": "2026-11-07T20:58:21+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6962,6 +6962,20 @@
       "category": "寿司"
     },
     {
+      "name": "ロンハーマン タカシマヤゲートタワーモール店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・ライフスタイル（スペシャリティストア）"
+    },
+    {
+      "name": "アニメイト名古屋パルコ（移転・増床リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-13",
+      "category": "アニメ・コミック・ゲーム専門店（移転・増床リニューアル）"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -7107,6 +7121,13 @@
       "city": "大阪市中央区",
       "opening_date": "2026-11-16",
       "category": "パフェ専門店・カフェバー"
+    },
+    {
+      "name": "アラン・デュカス・ショコラ・パリ／アラン・デュカス・ビスキュイ・パリ 名古屋栄三越",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-16",
+      "category": "ショコラ・ビスキュイ専門店"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -7366,6 +7387,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
+    },
+    {
+      "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
+      "prefecture": "愛知県",
+      "city": "知多市",
+      "opening_date": "2026-11-18",
+      "category": "没入型アートミュージアム（新規開館）"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
