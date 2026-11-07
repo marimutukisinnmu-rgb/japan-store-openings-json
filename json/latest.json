@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T22:58:39+09:00",
+  "updatetime": "2026-11-07T23:58:19+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -5996,6 +5996,13 @@
       "category": "美容鍼・鍼灸サロン"
     },
     {
+      "name": "保険見直し本舗 イオンモール天童店",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "opening_date": "2026-11-06",
+      "category": "保険相談・保険ショップ"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6122,6 +6129,20 @@
       "category": "ヘルスサポート用品・介護用品（リニューアル）"
     },
     {
+      "name": "高価買取おたからや ニチエー瀬戸店",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "opening_date": "2026-11-07",
+      "category": "買取専門店"
+    },
+    {
+      "name": "大関屋青果店 祖師ヶ谷店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-07",
+      "category": "青果店（リニューアル）"
+    },
+    {
       "name": "zen place pilates 新横浜",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -6162,6 +6183,13 @@
       "city": "豊中市",
       "opening_date": "2026-11-09",
       "category": "牛丼・定食（営業再開）"
+    },
+    {
+      "name": "バーガーキング ロピア滝ノ水店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-11-09",
+      "category": "ハンバーガー"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -6309,6 +6337,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-10",
       "category": "パティスリー"
+    },
+    {
+      "name": "買取大吉 真庭みかもストア店",
+      "prefecture": "岡山県",
+      "city": "真庭市",
+      "opening_date": "2026-11-10",
+      "category": "買取専門店"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -7431,6 +7466,13 @@
       "category": "美容シェアサロン・美容室専売品ショップ（リニューアル）"
     },
     {
+      "name": "バーガーキング そよらひたち野うしく店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -7984,6 +8026,20 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "バーガーキング アピタ安城南店",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 川中島店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8318,6 +8374,13 @@
       "city": "大田区",
       "opening_date": "2026-11-24",
       "category": "ラーメン"
+    },
+    {
+      "name": "バーガーキング 岡山津高店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-24",
+      "category": "ハンバーガー"
     },
     {
       "name": "chocoZAP うきは吉井",
@@ -9216,6 +9279,13 @@
       "category": "ペット用品・サービス"
     },
     {
+      "name": "バーガーキング 3号新宮店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡新宮町",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "Bistro IKEDAYAMA",
       "prefecture": "東京都",
       "city": "品川区",
@@ -9503,6 +9573,20 @@
       "category": "鮨割烹（リニューアル）"
     },
     {
+      "name": "バーガーキング おやまゆうえんハーヴェストウォーク店",
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "opening_date": "2026-11-30",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 青森ELM店",
+      "prefecture": "青森県",
+      "city": "五所川原市",
+      "opening_date": "2026-11-30",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -9545,6 +9629,13 @@
       "category": "レストラン（新業態）"
     },
     {
+      "name": "バーガーキング イオンモール旭川駅前店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-12-01",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -9585,6 +9676,13 @@
       "city": "宇治市",
       "opening_date": "2026-12-03",
       "category": "食品ディスカウントスーパー"
+    },
+    {
+      "name": "バーガーキング 平塚駅北口店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-12-03",
+      "category": "ハンバーガー"
     },
     {
       "name": "QB PREMIUM エトモ菊名店",
@@ -10280,11 +10378,46 @@
       "category": "ドーナツ専門店"
     },
     {
+      "name": "バーガーキング 西友福生店",
+      "prefecture": "東京都",
+      "city": "福生市",
+      "opening_date": "2026-12-10",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
       "opening_date": "2026-12-11",
       "category": "時計・アクセサリー"
+    },
+    {
+      "name": "バーガーキング 半田旭町店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2026-12-15",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング MEGAドン・キホーテUNY市原店",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "opening_date": "2026-12-15",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング イオン加古川店",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "opening_date": "2026-12-15",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング ハンビー北谷店",
+      "prefecture": "沖縄県",
+      "city": "中頭郡北谷町",
+      "opening_date": "2026-12-15",
+      "category": "ハンバーガー"
     },
     {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
