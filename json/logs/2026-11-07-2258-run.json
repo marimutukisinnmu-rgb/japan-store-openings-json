@@ -1,0 +1,131 @@
+{
+  "executed_at": "2026-11-07T22:58:39+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "counts": {
+    "before": 1477,
+    "added": 7,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1484
+  },
+  "additions": [
+    {
+      "name": "WIND AND SEA FUKUOKA",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-07",
+      "category": "アパレル・ファッション",
+      "source": "https://prtimes.jp/main/html/rd/p/000000053.000061751.html"
+    },
+    {
+      "name": "Re:CENO 大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-06",
+      "category": "家具・インテリアショップ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000017.000137893.html"
+    },
+    {
+      "name": "chocobari 新宿御苑店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "美容鍼・鍼灸サロン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000001.000193775.html"
+    },
+    {
+      "name": "KINDCARE 京王新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-07",
+      "category": "ヘルスサポート用品・介護用品（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000105.000020961.html"
+    },
+    {
+      "name": "KANGOL BEAUTY SHARE SALON × Mirror Mirrors",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-18",
+      "category": "美容シェアサロン・美容室専売品ショップ（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000004.000105230.html"
+    },
+    {
+      "name": "蜜彩菓 由布院本店",
+      "prefecture": "大分県",
+      "city": "由布市",
+      "opening_date": "2026-11-23",
+      "category": "さつまいも和菓子・甘味処",
+      "source": "https://prtimes.jp/main/html/rd/p/000000004.000180407.html"
+    },
+    {
+      "name": "HRMT BEYOND",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-09",
+      "category": "フランス料理レストラン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000275.000097330.html"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": 34,
+      "already_registered": 34,
+      "newly_added": 0
+    },
+    {
+      "source": "キャンドゥ公式・2026年お知らせ",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": 6,
+      "already_registered": 6,
+      "newly_added": 0
+    },
+    {
+      "source": "ブルースカイランドリー公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": 10,
+      "already_registered": 10,
+      "newly_added": 0
+    },
+    {
+      "source": "東急モールズデベロップメント・エトモ菊名発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000045951.html",
+      "checked": 9,
+      "result": "施設および新規・再開6店舗は登録済み。継続営業3店舗は新規開店として扱わず。"
+    },
+    {
+      "source": "直近の公式・運営元発表",
+      "result": "王道乃印 飛道家、Morning Park Cafe、バイク王 岸和田店、GIGI MARUNOUCHI、アトリエはるか エミオ練馬店、LUCIR-K、Kodak Apparel、PAPABUBBLE、POP MART 沖縄浦添PARCO CITY店、タグ・ホイヤー 東京 銀座、つなぐ屋 北小岩店などは既存レコードを確認。"
+    },
+    {
+      "source": "イオンモール伊達公式テナント資料",
+      "url": "https://date.aeonmall.jp/",
+      "result": "公式資料は専門店173店舗と外部棟3店舗を掲載。個別テナントごとの開業日を全件確認できていないため、未確認分を一律11月27日として追加せず、照合継続。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "date_sorted": true,
+    "exact_duplicate_keys": 0,
+    "all_7_new_records_found_once": true,
+    "all_1477_old_records_preserved": true,
+    "saved_file_refetched": true,
+    "fetched_blob_sha": "ba1dcd4bea945ad1dc7b5a01589e5bc37ca3b669",
+    "expected_blob_sha": "ba1dcd4bea945ad1dc7b5a01589e5bc37ca3b669"
+  },
+  "update": {
+    "previous_blob_sha": "eaf5d9cb2183f87991aec6ef44efd36bae2f5d1b",
+    "new_blob_sha": "ba1dcd4bea945ad1dc7b5a01589e5bc37ca3b669",
+    "commit_sha": "3317ed66f947e1d5137fa3e7d437072e2f987aff"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国全事業者の網羅性は未確認。",
+    "イオンモール伊達の全テナントについて、個別の開業日を含む全件照合は未完了。"
+  ]
+}
