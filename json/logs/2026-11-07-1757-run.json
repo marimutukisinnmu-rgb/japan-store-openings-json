@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-07T17:57:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store listings (mobile and regional pages)",
+      "urls": [
+        "https://mldata.lawson.co.jp/newstore/smt/",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html"
+      ],
+      "checked": 11,
+      "already_registered": 11,
+      "notes": "Checked listed openings for 2026-11-12, 11-13 and regional listings through 11-19. All matched existing records by store name and opening date."
+    },
+    {
+      "source": "Blue Sky Laundry official store list and new-store announcements",
+      "urls": [
+        "https://www.bsl-web.co.jp/shop/",
+        "https://www.bsl-web.co.jp/category/shop/"
+      ],
+      "checked": 10,
+      "already_registered": 10,
+      "notes": "Checked the listed upcoming 2026-11-13, 11-20 and 11-27 locations plus the latest 11-05 and 11-06 openings. All matched existing records."
+    },
+    {
+      "source": "Can★Do official 2026 news list",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": 5,
+      "already_registered": 5,
+      "notes": "Checked DCMニコット羽幌店 (11-06), 苅田店 (11-12), そよらひたち野うしく店 (11-18), 名瀬店 (11-19), and DCMニコットむかわ店 (11-20). All were already registered."
+    },
+    {
+      "source": "KFC Japan official November new-store release",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "checked": 5,
+      "already_registered": 5,
+      "notes": "湊川店, イオンタウン山科椥辻店, イオンモールかほく店, 堺大庭寺店, and イオンタウン久留米東櫛原店 all matched existing records."
+    },
+    {
+      "source": "KFC official recruitment portal",
+      "url": "https://job-kfc.net/jobfind-pc/",
+      "checked": 9,
+      "already_registered": 9,
+      "notes": "Exact-date openings including 名古屋則武新町店, 与野東口店, 尾張旭店, 大小路店, アル・プラザ宇治東店, 南花田店 and other date-specific listings were already registered. Two December openings were shown only as '12月初旬' and were not assigned guessed dates."
+    },
+    {
+      "source": "SYNRA GROUP official Eleanor spa&treatment announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "checked": 5,
+      "already_registered": 5,
+      "notes": "All five announced stores (中目黒, 高槻, 郡山, 池袋3rd, 沖縄北谷) were already registered with the announced dates."
+    },
+    {
+      "source": "Royal Holdings official release",
+      "url": "https://www.royal-holdings.co.jp/release/",
+      "checked": 1,
+      "already_registered": 1,
+      "notes": "リッチモンドホテルプレミア浅草 full renovation opening on 2026-11-08 was already registered."
+    },
+    {
+      "source": "Sukiya official news",
+      "url": "https://sukiya.jp/news/",
+      "checked": 1,
+      "already_registered": 1,
+      "notes": "高岡大野店 opening on 2026-11-11 was already registered."
+    },
+    {
+      "source": "Recent official brand announcements",
+      "urls": [
+        "https://venex-j.co.jp/news/detail/1030.html",
+        "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+        "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+      ],
+      "checked": 4,
+      "already_registered": 4,
+      "notes": "neverbetter, キル フェ ボン新宿, PAPABUBBLE イクスピアリ店, and カフェ・ラデュレ 新丸ビル店 were already registered."
+    }
+  ],
+  "after": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "chronological_order": "valid",
+    "exact_duplicate_keys": 0,
+    "previous_records_preserved": 1427
+  },
+  "errors": [],
+  "unconfirmed": [
+    "KFC 麻布十番店 and イオン一日橋店 are listed for 2026年12月初旬 only; no exact opening date was confirmed, so neither was added.",
+    "Nationwide coverage across every operator and store is not exhaustive."
+  ]
+}
