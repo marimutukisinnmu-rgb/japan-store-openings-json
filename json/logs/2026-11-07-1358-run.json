@@ -1,0 +1,120 @@
+{
+  "run_at": "2026-11-07T13:58:15+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "summary": "FOPE公式サイトとFOPE JAPAN合同会社の発表でFOPE 福岡天神の2026年10月31日開業を確認。株式会社CHRISTINA JAPANの直営店「CHRISTINA HOUSE NAGOYA」は運営会社の発表で2026年11月7日開業・所在地を確認。どちらも既存JSONに未登録だったため2件追加。日光茶屋たばねのし、WR.Yoyogi Park、POP MART LUCUA SOUTH、PAPABUBBLE イクスピアリ店、カフェ・ラデュレ 新丸ビル店など確認候補は既存登録済み。米国ニューヨークのSHONEN JUMP SHOPは対象範囲外のため追加対象外。",
+  "latest_json": {
+    "path": "json/latest.json",
+    "period": "2026-09-18/2027-02-11",
+    "updatetime": "2026-11-07T13:58:15+09:00",
+    "item_count_before": 1421,
+    "item_count_after": 1423,
+    "blob_sha_before": "c896b85e0b10bbefb4ace2d613337c1675a31e88",
+    "blob_sha_after": "f5a5e49da2c04fe1016bc242acee9cae497c1578",
+    "commit_sha": "5d8b77ac3491c6022967635e545638940c0a6fb7",
+    "changed": true
+  },
+  "changes": [
+    {
+      "action": "add",
+      "name": "FOPE 福岡天神",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-31",
+      "category": "高級ジュエリー・旗艦店",
+      "reason": "FOPE公式サイトおよびFOPE JAPAN合同会社の発表で、2026年10月31日開業、住所（福岡県福岡市中央区大名1-13-24）を確認。既存JSONに未登録。"
+    },
+    {
+      "action": "add",
+      "name": "CHRISTINA HOUSE NAGOYA",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-07",
+      "category": "スキンケア・化粧品（直営店）",
+      "reason": "株式会社CHRISTINA JAPANの直営店として、運営会社発表で2026年11月7日開業、住所（愛知県名古屋市中村区名駅南1丁目16-26 名駅南Libertyビル1F）を確認。既存JSONに未登録。"
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "FOPE公式サイト（日本語）",
+      "url": "https://www.fope.com/ja/fukuoka-tenjin/?v=4b8cc16d888f",
+      "published_at": "2026-10-26",
+      "result": "FOPE 福岡天神の2026年10月31日開業、住所（福岡県福岡市中央区大名1-13-24）を確認。"
+    },
+    {
+      "name": "FOPE JAPAN合同会社公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000023.000143958.html",
+      "published_at": "2026-10-30T10:00:00+09:00",
+      "result": "FOPE 福岡天神の店舗名、2026年10月31日開業、住所を確認。"
+    },
+    {
+      "name": "株式会社CHRISTINA JAPAN／株式会社INFINIX HOLDINGS発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000106.000109787.html",
+      "published_at": "2026-10-27T16:04:00+09:00",
+      "result": "CHRISTINA HOUSE NAGOYAの2026年11月7日開業、住所（愛知県名古屋市中村区名駅南1丁目16-26 名駅南Libertyビル1F）を確認。"
+    },
+    {
+      "name": "有限会社上州屋発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000187263.html",
+      "published_at": "2026-11-04T10:00:00+09:00",
+      "result": "日光茶屋たばねのしの2026年11月7日常設店舗グランドオープンを確認。既存JSONに登録済みのため追加なし。"
+    },
+    {
+      "name": "株式会社SAL公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "published_at": "2026-10-30T16:30:00+09:00",
+      "result": "WR.Yoyogi Parkの2026年11月6日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社POP MART JAPAN公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "published_at": "2026-10-30T11:00:00+09:00",
+      "result": "POP MART LUCUA SOUTH店の2026年11月24日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社PAPABUBBLE公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "published_at": "2026-11-05T10:00:00+09:00",
+      "result": "PAPABUBBLE イクスピアリ店の2026年11月21日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "株式会社LADUREE JAPON公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "published_at": "2026-11-04T14:00:00+09:00",
+      "result": "カフェ・ラデュレ 新丸ビル店の2026年11月16日開業を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "ベネリック株式会社公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000002275.000022901.html",
+      "published_at": "2026-11-06T11:00:00+09:00",
+      "result": "SHONEN JUMP SHOP in NEW YORKの2026年11月7日開業を確認。ただし米国ニューヨークの店舗であり、対象範囲Japan外のため追加対象外。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "item_count": 1423,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "new_entry_count": 2,
+    "new_entry_matches": 2,
+    "old_records_preserved": true,
+    "read_after_write": "success",
+    "read_after_write_blob_sha_matches": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国のすべての事業者・店舗を網羅した調査ではない。今回の検索範囲外にある新店情報は未確認。"
+  ],
+  "automation_state": {
+    "checked_at": "2026-11-07T13:58:15+09:00",
+    "is_enabled_at_check": true,
+    "schedule": "FREQ=HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_check": null,
+    "last_run_recorded_status_at_check": "in_progress",
+    "last_run_scheduled_for": "2026-11-07T05:00:00Z",
+    "note": "管理情報上は有効で毎時実行設定を保持。次回実行時刻はnull。今回の実行記録はin_progressであり、実行完了状態の反映は未確認。スケジュール変更・停止・無効化は行っていない。"
+  }
+}
