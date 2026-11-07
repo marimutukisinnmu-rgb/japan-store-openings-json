@@ -1,0 +1,114 @@
+{
+  "run_at": "2026-11-07T20:58:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "item_count": 1428,
+    "updatetime": "2026-11-07T19:02:15+09:00",
+    "blob_sha": "1c1603074fe6667229d7e074ef358bfd5aeec5d8"
+  },
+  "source_checks": [
+    {
+      "source": "株式会社リトルリーグ公式プレスリリース（Ron Herman）",
+      "result": "ロンハーマン タカシマヤゲートタワーモール店の2026-11-13開店と名古屋市中村区名駅1-1-3の所在地を確認。既存JSONに未登録のため追加。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000140499.html"
+    },
+    {
+      "source": "株式会社SFAD公式プレスリリース／株式会社名古屋三越公式発表",
+      "result": "アラン・デュカス・ショコラ・パリ／アラン・デュカス・ビスキュイ・パリ 名古屋栄三越の2026-11-16開店と名古屋市中区栄3-5-1地下1階を確認。共同ブティックとして1レコード追加。",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000047.000143817.html",
+        "https://prtimes.jp/main/html/rd/p/000000021.000185183.html"
+      ]
+    },
+    {
+      "source": "株式会社アニメイト公式店舗ページ・公式お知らせ",
+      "result": "アニメイト名古屋パルコが2026-11-13に隣接区画へ移転・増床してリニューアルすること、名古屋PARCO東館4階を確認。既存JSONに未登録のためリニューアルレコードを追加。",
+      "urls": [
+        "https://www.animate.co.jp/shop/sakae/",
+        "https://www.animate.co.jp/news/search/relation_shop%3A144/"
+      ]
+    },
+    {
+      "source": "d'strict公式プレスリリース／Arte Museum Nagoya公式サイト",
+      "result": "Arte Museum Nagoyaの2026-11-18開業と愛知県知多市新舞子字大瀬8番22を確認。既存JSONに未登録のため施設開館レコードを追加。",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000003.000185504.html",
+        "https://artemuseum.co.jp/"
+      ]
+    },
+    {
+      "source": "株式会社セカンドリテイリング公式11月新規出店発表",
+      "result": "国内9店舗の店名・日付を照合し、すべて既存JSONに登録済みであることを確認。海外3店舗はJapan scopeのため対象外。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html"
+    },
+    {
+      "source": "株式会社ジーアイビー公式・ブルースカイランドリー2026年11月出店発表",
+      "result": "2026年11月の全国10店舗すべてを既存JSONと照合し、店名・開店日が登録済みであることを確認。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    }
+  ],
+  "changes": {
+    "added": 4,
+    "added_items": [
+      {
+        "name": "ロンハーマン タカシマヤゲートタワーモール店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-11-13"
+      },
+      {
+        "name": "アニメイト名古屋パルコ（移転・増床リニューアル）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-11-13"
+      },
+      {
+        "name": "アラン・デュカス・ショコラ・パリ／アラン・デュカス・ビスキュイ・パリ 名古屋栄三越",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-11-16"
+      },
+      {
+        "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
+        "prefecture": "愛知県",
+        "city": "知多市",
+        "opening_date": "2026-11-18"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "latest_json_written": true
+  },
+  "after": {
+    "item_count": 1432,
+    "updatetime": "2026-11-07T20:58:21+09:00",
+    "blob_sha": "cf749fab81e69003dc3509e3e8a0185ec116a42f",
+    "update_commit_sha": "365904319eb65c989adfe5b34890f863fd4098e0"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "ascending_opening_date_order": true,
+    "exact_duplicate_keys": 0,
+    "existing_items_preserved": true,
+    "post_write_fetch": "passed",
+    "fetched_blob_sha_matches_written_sha": true
+  },
+  "errors": [],
+  "limitations": [
+    "調査は複数の公式情報源を対象とした重点確認であり、全国の全事業者を網羅したものではない。",
+    "Arte Museum Nagoyaは小売店舗ではなく新規開館施設として登録した。"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress",
+    "note": "管理情報上は有効。次回実行時刻は未取得。今回の実行は確認時点でin_progressのため、完了反映は未確認。"
+  }
+}
