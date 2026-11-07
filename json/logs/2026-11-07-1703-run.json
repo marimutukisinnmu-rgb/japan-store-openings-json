@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-07T17:03:27+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "Blue Sky Laundry official new-store announcements",
+      "url": "https://www.bsl-web.co.jp/category/shop/",
+      "checked": 2,
+      "already_registered": 2,
+      "notes": "2026-11-05 ラ・ムー福崎店 and 2026-11-06 ドラッグストアモリ中之庄店. Both matched existing records with the same opening dates and municipalities."
+    },
+    {
+      "source": "Lawson official regional new-store pages",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/touhoku.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html",
+        "https://www.lawson.co.jp/newstore/kyushu.html"
+      ],
+      "checked": 15,
+      "already_registered": 15,
+      "notes": "Sampled official entries with opening dates from 2026-11-05 through 2026-11-19; all checked store names were already present in latest.json."
+    },
+    {
+      "source": "Can★Do official 2026 news list",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": 5,
+      "already_registered": 5,
+      "notes": "Checked new-store notices for 2026-11-12, 11-18, 11-19, and 11-20; all corresponding stores were already registered."
+    },
+    {
+      "source": "Tokyu Malls Development official Etomo Kikuna announcement and PDF",
+      "url": "https://www.tokyu-tmd.co.jp/news/newsletter-etomo-20261105/",
+      "checked": 7,
+      "already_registered": 7,
+      "notes": "The facility and six new/reopened tenants scheduled for 2026-12-04 were already registered. Three continuing tenants were not treated as new openings."
+    },
+    {
+      "source": "Sukiya official news",
+      "url": "https://sukiya.jp/news/",
+      "checked": 1,
+      "already_registered": 1,
+      "notes": "The 2026-11-11 高岡大野店 notice was already registered."
+    },
+    {
+      "source": "Subway official 2026 news list",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked": 1,
+      "already_registered": 1,
+      "notes": "No new-store announcement newer than the 2026-10-23 川崎市役所前店 notice was shown in the current list; no new record to add."
+    }
+  ],
+  "after": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "chronological_order": "valid",
+    "exact_duplicate_keys": 0,
+    "previous_records_preserved": 1427
+  },
+  "errors": [
+    "松屋フーズ公式ニュース一覧の取得でHTTP 503。該当候補の開業日・詳細は今回確認できず、追加・訂正は行っていない。"
+  ],
+  "unconfirmed": [
+    "全国すべての事業者・店舗を網羅した調査ではない。",
+    "松屋フーズの熊本県八代市出店に関する詳細は公式ページ取得エラーのため未確認。"
+  ]
+}
