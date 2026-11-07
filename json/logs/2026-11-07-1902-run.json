@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-11-07T19:02:15+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1427,
+    "blob_sha": "176d5396c4e70e1b8624d7467eeef1b5af0f8955",
+    "updatetime": "2026-11-07T16:01:19+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "カラオケJOYJOY 白山松任バイパス店",
+        "prefecture": "石川県",
+        "city": "白山市",
+        "opening_date": "2026-11-19",
+        "category": "カラオケ・アミューズメント",
+        "source_url": "https://www.joyjoy.co.jp/store/view/Hakusan-Mattou-bypass"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official new-store mobile listing",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": 35,
+      "already_registered": 35,
+      "notes": "Cross-checked the official entries from 2026-10-30 through 2026-11-20 against store name and opening date. All matched existing records."
+    },
+    {
+      "source": "Can★Do official 2026 news list",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": 6,
+      "already_registered": 6,
+      "notes": "The currently listed November openings (苅田店, そよらひたち野うしく店, 名瀬店, DCMニコットむかわ店, and the earlier DCMニコット羽幌店) were already present."
+    },
+    {
+      "source": "Karaoke JOYJOY official store page",
+      "url": "https://www.joyjoy.co.jp/store/view/Hakusan-Mattou-bypass",
+      "checked": 1,
+      "added": 1,
+      "notes": "Official page explicitly states GRAND OPEN on 2026-11-19 at 10:00 and gives the address 石川県白山市幸明町188. No matching record existed before this run."
+    }
+  ],
+  "after": {
+    "item_count": 1428,
+    "blob_sha": "1c1603074fe6667229d7e074ef358bfd5aeec5d8",
+    "updatetime": "2026-11-07T19:02:15+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "chronological_order": "valid",
+    "exact_duplicate_keys": 0,
+    "previous_records_preserved": 1427,
+    "new_record_count": 1
+  },
+  "errors": [
+    {
+      "source": "Instagram official profiles for two regional candidate stores",
+      "error": "fetch throttled",
+      "handling": "Could not independently verify the opening details; no records from these leads were added."
+    }
+  ],
+  "unconfirmed": [
+    "Some regional candidates found through local roundups remain unconfirmed because their primary-source posts could not be fetched or independently checked.",
+    "Nationwide coverage across every operator and store is not exhaustive."
+  ]
+}
