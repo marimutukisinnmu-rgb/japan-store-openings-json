@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T14:55:38+09:00",
+  "updatetime": "2026-11-07T16:01:19+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -6437,6 +6437,20 @@
       "category": "豚饅頭・中華点心（本店リニューアル）"
     },
     {
+      "name": "博多の味やまや（キャナルシティ博多）",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-11",
+      "category": "明太フランス専門店"
+    },
+    {
+      "name": "FLA-LAB キャナルシティ店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-11",
+      "category": "フルーツコンセプトショップ"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -7086,6 +7100,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
+    },
+    {
+      "name": "YORI PARFAIT ＆ BAR",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-16",
+      "category": "パフェ専門店・カフェバー"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
