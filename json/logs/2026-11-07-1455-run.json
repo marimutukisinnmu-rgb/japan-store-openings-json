@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-07T14:55:38+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 1423,
+    "blob_sha": "f5a5e49da2c04fe1016bc242acee9cae497c1578",
+    "updatetime": "2026-11-07T13:58:15+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "キャンドゥセレクト DCMニコットむかわ店",
+        "prefecture": "北海道",
+        "city": "勇払郡むかわ町",
+        "opening_date": "2026-11-20",
+        "category": "100円ショップ（キャンドゥセレクト）",
+        "source": "https://www.cando-web.co.jp/news/store/newstore/detail_001024"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "Can★Do official 2026 news list and store announcement",
+      "url": "https://www.cando-web.co.jp/news/2026/",
+      "checked": 11,
+      "already_registered": 10,
+      "added": 1
+    },
+    {
+      "source": "Lawson official regional new-store pages",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/hokkaidou.html",
+        "https://www.lawson.co.jp/newstore/smt/touhoku.html",
+        "https://www.lawson.co.jp/newstore/smt/kantou.html",
+        "https://www.lawson.co.jp/newstore/smt/chubu.html",
+        "https://www.lawson.co.jp/newstore/smt/kinki.html",
+        "https://www.lawson.co.jp/newstore/smt/chugokushikoku.html",
+        "https://www.lawson.co.jp/newstore/smt/kyushu.html",
+        "https://www.lawson.co.jp/newstore/smt/okinawa.html"
+      ],
+      "checked": 34,
+      "already_registered": 34,
+      "added": 0
+    },
+    {
+      "source": "Blue Sky Laundry official November 2026 opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked": 10,
+      "already_registered": 10,
+      "added": 0
+    },
+    {
+      "source": "Skylark / Shabu-yo official new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "checked": 3,
+      "already_registered": 3,
+      "added": 0
+    }
+  ],
+  "after": {
+    "item_count": 1424,
+    "blob_sha": "c4b7506044140581ff98714760ce13a422d5b2f4",
+    "updatetime": "2026-11-07T14:55:38+09:00",
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "chronological_order": "valid",
+    "added_record_count": 1,
+    "added_record_match_count": 1,
+    "previous_records_preserved": 1423
+  },
+  "errors": [],
+  "unconfirmed": [
+    "調査対象外の全国すべての事業者・店舗を網羅したものではない。"
+  ],
+  "automation_state": "not checked in this log"
+}
