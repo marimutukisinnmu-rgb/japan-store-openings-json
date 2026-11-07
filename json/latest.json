@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T16:01:19+09:00",
+  "updatetime": "2026-11-07T19:02:15+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7520,6 +7520,13 @@
       "city": "つくば市",
       "opening_date": "2026-11-19",
       "category": "ラーメン"
+    },
+    {
+      "name": "カラオケJOYJOY 白山松任バイパス店",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-11-19",
+      "category": "カラオケ・アミューズメント"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
