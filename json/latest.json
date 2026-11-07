@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T13:58:15+09:00",
+  "updatetime": "2026-11-07T14:55:38+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7884,6 +7884,13 @@
       "city": "久喜市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
+    },
+    {
+      "name": "キャンドゥセレクト DCMニコットむかわ店",
+      "prefecture": "北海道",
+      "city": "勇払郡むかわ町",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
