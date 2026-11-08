@@ -1,0 +1,104 @@
+{
+  "executed_at": "2026-11-09T07:55:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "counts": {
+    "before": 1503,
+    "added": 1,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1504
+  },
+  "additions": [
+    {
+      "name": "ゴンチャ ゆめタウン佐賀店",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-13",
+      "category": "ティーカフェ",
+      "source": "https://www.gongcha.co.jp/wp-content/uploads/2026/11/b969935f63c901672b87754c112c9025.pdf"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "株式会社ゴンチャ ジャパン公式プレスリリース（ゆめタウン佐賀店）",
+      "url": "https://www.gongcha.co.jp/wp-content/uploads/2026/11/b969935f63c901672b87754c112c9025.pdf",
+      "checked": 1,
+      "already_registered": 0,
+      "newly_added": 1
+    },
+    {
+      "source": "カルティエ公式発表（心斎橋ブティック）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000323.000016275.html",
+      "checked": 1,
+      "already_registered": 1,
+      "newly_added": 0
+    },
+    {
+      "source": "POP MART JAPAN公式発表（LUCUA SOUTH店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "checked": 1,
+      "already_registered": 1,
+      "newly_added": 0
+    },
+    {
+      "source": "FOPE JAPAN公式発表（福岡天神店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000023.000143958.html",
+      "checked": 1,
+      "already_registered": 1,
+      "newly_added": 0
+    },
+    {
+      "source": "株式会社SAL公式発表（WR.Yoyogi Park）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+      "checked": 1,
+      "already_registered": 1,
+      "newly_added": 0
+    },
+    {
+      "source": "株式会社パルコ公式発表（ポケモンカードストア 静岡PARCO）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004144.000003639.html",
+      "checked": 1,
+      "already_registered": 1,
+      "newly_added": 0
+    },
+    {
+      "source": "ローソン公式・中部エリア新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/chubu.html",
+      "checked": 4,
+      "already_registered": 4,
+      "newly_added": 0
+    },
+    {
+      "source": "株式会社ビーケー・ジャパン公式発表（バーガーキング16店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "checked": 16,
+      "already_registered": 16,
+      "newly_added": 0
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "date_sorted": true,
+    "exact_duplicate_keys": 0,
+    "new_record_found_once": true,
+    "all_1503_old_records_preserved": true,
+    "saved_file_refetched": true,
+    "fetched_blob_sha": "42e494e8f1ad2bc8fc41c1548c2a4ed8de6b1a12",
+    "expected_blob_sha": "42e494e8f1ad2bc8fc41c1548c2a4ed8de6b1a12",
+    "blob_sha_matches": true
+  },
+  "update": {
+    "previous_blob_sha": "f1f0383c0907d2db2fc5364c4a39f34e590bc28a",
+    "new_blob_sha": "42e494e8f1ad2bc8fc41c1548c2a4ed8de6b1a12",
+    "commit_sha": "79015113129fabf89ab3c5d972eac7219f9d6ece"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国全事業者の網羅性は未確認。",
+    "ジャズドリーム長島のTimberlandは2026年12月予定とのみ発表され、具体的な開店日は未確認のため登録していない。"
+  ]
+}
