@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-07T23:58:19+09:00",
+  "updatetime": "2026-11-09T07:55:29+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -7037,6 +7037,13 @@
       "city": "名古屋市中区",
       "opening_date": "2026-11-13",
       "category": "アニメ・コミック・ゲーム専門店（移転・増床リニューアル）"
+    },
+    {
+      "name": "ゴンチャ ゆめタウン佐賀店",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-13",
+      "category": "ティーカフェ"
     },
     {
       "name": "chocoZAP 白井堀込",
