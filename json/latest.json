@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-10T00:31:53+09:00",
+  "updatetime": "2026-11-10T01:01:57+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -6864,6 +6864,13 @@
       "category": "期間限定テイクアウト催事（2026-11-11〜2026-11-17）"
     },
     {
+      "name": "泉屋東京店 髙島屋横浜店",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-11",
+      "category": "洋菓子・クッキー"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -7065,6 +7072,34 @@
       "city": "立川市",
       "opening_date": "2026-11-12",
       "category": "カフェ・喫茶店"
+    },
+    {
+      "name": "THE HARVEST KITCHEN GENERAL STORE（HARVEST恵比寿ストア・リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "食器・キッチン用品・ライフスタイルショップ（リニューアル）"
+    },
+    {
+      "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
+      "prefecture": "愛知県",
+      "city": "稲沢市",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー・焼き菓子（リニューアル）"
+    },
+    {
+      "name": "DRESSY ROOM NAGOYA（リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "結婚式相談カウンター（リニューアル）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 堺海山町店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "3COINS+plus（アミュプラザ鹿児島）",
@@ -7494,6 +7529,13 @@
       "category": "お香・線香・フレグランス"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 川西店（リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "opening_date": "2026-11-14",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "neverbetter",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -7898,6 +7940,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（大和香林坊）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション、2026-11-18〜2026-11-24）"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
@@ -10161,6 +10210,13 @@
       "category": "ハンバーガー"
     },
     {
+      "name": "のびっこジャンボ 石和店",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "opening_date": "2026-12-03",
+      "category": "屋内型プレイグラウンド"
+    },
+    {
       "name": "QB PREMIUM エトモ菊名店",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -10915,6 +10971,13 @@
       "city": "半田市",
       "opening_date": "2026-12-15",
       "category": "ハンバーガー"
+    },
+    {
+      "name": "のびっこジャンボ イオンタウン防府店",
+      "prefecture": "山口県",
+      "city": "防府市",
+      "opening_date": "2026-12-16",
+      "category": "屋内型プレイグラウンド"
     },
     {
       "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
