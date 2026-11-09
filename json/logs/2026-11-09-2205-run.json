@@ -1,0 +1,287 @@
+{
+  "run_at": "2026-11-09T22:05:53+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1549,
+  "after_count": 1567,
+  "added_count": 18,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "additions": [
+    {
+      "name": "Green Cosmetic Garden（グリーンコスメティックガーデン）",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-11",
+      "category": "コスメ・ビューティー・ウェルネス"
+    },
+    {
+      "name": "クラークス くずは店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-13",
+      "category": "シューズ・バッグ"
+    },
+    {
+      "name": "SNIDEL HOME アミュプラザ小倉店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-13",
+      "category": "ルームウェア・ライフスタイル"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップゆめタウン久留米店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ未来屋書店黒崎店",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップTSUTAYA BOOKSTOREビバモール寝屋川店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "高岡ロフト",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・文具・バラエティ雑貨"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップイトーヨーカドーアリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-11-20",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "MIKIGAKKI WindForest（ミキガッキ ウインドフォレスト）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-04",
+      "category": "管楽器専門店（移転・リニューアル拡大）"
+    },
+    {
+      "name": "ラ・プレリー 阪急うめだ本店（HANKYU BEAUTY MAISON）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "スキンケア・コスメ（カウンター移設・リニューアル）"
+    },
+    {
+      "name": "高価買取おたからや 斑鳩店",
+      "prefecture": "奈良県",
+      "city": "斑鳩町",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや 宇都宮一の沢店（作新学院前）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや アオキスーパー今伊勢店",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや コープあおもり るいけ店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "ワッツウィズ 高松一宮くすりのレデイ店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-11-07",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
+      "name": "ワッツウィズ 福津リンク店",
+      "prefecture": "福岡県",
+      "city": "福津市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
+      "name": "ワッツウィズ 伊北ベルシャイン店",
+      "prefecture": "長野県",
+      "city": "箕輪町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
+      "name": "セルフカフェ 鶴見横堤店",
+      "prefecture": "大阪府",
+      "city": "大阪市鶴見区",
+      "opening_date": "2026-11-05",
+      "category": "無人カフェ・ワークスペース"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Green Cosmetic Garden 佐賀玉屋店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000154.000106657.html"
+    },
+    {
+      "name": "クラークス くずは店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000102.000140622.html"
+    },
+    {
+      "name": "SNIDEL HOME アミュプラザ小倉店",
+      "source": "https://prtimes.jp/main/html/rd/p/000004558.000018505.html"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ ゆめタウン久留米店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000539.000159118.html"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ 未来屋書店黒崎店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000537.000159118.html"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ TSUTAYA BOOKSTOREビバモール寝屋川店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000538.000159118.html"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ イトーヨーカドーアリオ八尾店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000540.000159118.html"
+    },
+    {
+      "name": "高岡ロフト",
+      "source": "https://prtimes.jp/main/html/rd/p/000001860.000018324.html"
+    },
+    {
+      "name": "MIKIGAKKI WindForest（移転・リニューアル拡大）",
+      "source": "https://www.miki.co.jp/news/info/8027/"
+    },
+    {
+      "name": "ラ・プレリー 阪急うめだ本店カウンター",
+      "source": "https://prtimes.jp/main/html/rd/p/000000041.000156423.html"
+    },
+    {
+      "name": "高価買取おたからや 斑鳩店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000485.000080252.html"
+    },
+    {
+      "name": "高価買取おたからや 宇都宮一の沢店（作新学院前）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000481.000080252.html"
+    },
+    {
+      "name": "高価買取おたからや アオキスーパー今伊勢店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000483.000080252.html"
+    },
+    {
+      "name": "高価買取おたからや コープあおもり るいけ店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000482.000080252.html"
+    },
+    {
+      "name": "ワッツウィズ 高松一宮くすりのレデイ店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000425.000084599.html"
+    },
+    {
+      "name": "ワッツウィズ 福津リンク店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000424.000084599.html"
+    },
+    {
+      "name": "ワッツウィズ 伊北ベルシャイン店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000423.000084599.html"
+    },
+    {
+      "name": "セルフカフェ 鶴見横堤店",
+      "source": "https://prtimes.jp/main/html/rd/p/000001194.000045400.html"
+    }
+  ],
+  "sources_checked_but_already_registered": [
+    {
+      "name": "スケッチャーズアウトレット足利店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000074.000074058.html"
+    },
+    {
+      "name": "gashacocoビッグエコー天王寺あべの駅前",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000002939.000031422.html"
+    },
+    {
+      "name": "Workman Colors トリアス久山店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://torius.com/shop_news/197076/"
+    },
+    {
+      "name": "HMVららぽーと堺",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000729.000034304.html"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
+    },
+    {
+      "name": "セルフカフェ等の周辺新店照合",
+      "checked_count": 1,
+      "registered_count": 0,
+      "source": "https://prtimes.jp/main/html/rd/p/000001194.000045400.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_key_count": 0,
+    "sorted_by_opening_date": true,
+    "old_records_exactly_preserved": true,
+    "after_refetch_count": 1567,
+    "latest_json_blob": "4228e91cf4aa0887c72fcb8f20f6e8b2f3c9efee",
+    "latest_json_updatetime": "2026-11-09T22:05:53+09:00",
+    "latest_json_commit": "25426fc0129b3e704d4849ddffe1616bf0ab870b"
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性は未確認。",
+    "各店舗の開店後の営業実績を全件独立確認したものではなく、開店日・店舗情報は運営会社または施設の公式発表に基づく。",
+    "ラ・プレリーは独立した路面店ではなく、阪急うめだ本店7階から10階へのカウンター移設・リニューアルとして登録。"
+  ],
+  "excluded_or_already_registered": [
+    {
+      "name": "王道乃印 飛道家",
+      "reason": "既存JSONに2026-11-06で登録済み。"
+    },
+    {
+      "name": "KINDCARE 京王新宿店",
+      "reason": "既存JSONに2026-11-07で登録済み。"
+    },
+    {
+      "name": "スケッチャーズアウトレット足利店",
+      "reason": "既存JSONに2026-11-11で登録済み。"
+    },
+    {
+      "name": "gashacocoビッグエコー天王寺あべの駅前",
+      "reason": "既存JSONに2026-11-11で登録済み。"
+    }
+  ]
+}
