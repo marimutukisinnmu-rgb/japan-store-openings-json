@@ -1,0 +1,120 @@
+{
+  "run_at": "2026-11-09T08:59:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "counts": {
+    "before": 1504,
+    "added": 7,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1511
+  },
+  "additions": [
+    {
+      "name": "Casa de Amigos 那覇国際通り店",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "opening_date": "2026-10-09",
+      "category": "メキシコ料理レストラン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000427.000017032.html",
+      "verification": "運営会社TOAIの公式発表でグランドオープン日・所在地を確認"
+    },
+    {
+      "name": "あぐー豚しゃぶしゃぶ専門店 オーシャンBoo！ 宮古島店",
+      "prefecture": "沖縄県",
+      "city": "宮古島市",
+      "opening_date": "2026-10-10",
+      "category": "しゃぶしゃぶ専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000005.000144114.html",
+      "verification": "運営会社make up companyの公式発表で開店予定日・所在地を確認。開店後の独立した実績確認は未取得"
+    },
+    {
+      "name": "SuiSavon-首里石鹸- 石垣空港ギャラリーショップ",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "opening_date": "2026-10-26",
+      "category": "スキンケア・石鹸専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000117.000078381.html",
+      "verification": "運営会社の公式発表および石垣空港公式サイトで開店日・所在地を確認"
+    },
+    {
+      "name": "FREAK'S STORE 沖縄・浦添 PARCO CITY",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-29",
+      "category": "アパレル・セレクトショップ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000985.000002246.html",
+      "verification": "運営会社デイトナ・インターナショナルの公式発表で開店日・所在地を確認"
+    },
+    {
+      "name": "Wpc. POP-UP SHOP（浦添PARCO CITY）",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-30",
+      "category": "傘・レイングッズ（期間限定ポップアップ）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000455.000058622.html",
+      "verification": "運営会社ワールドパーティーの公式発表で出店開始日・会場を確認。終了日は2027年3月頃予定で未確定"
+    },
+    {
+      "name": "SEGA POP-UP SHOP in 沖縄PARCO CITY",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-30",
+      "category": "ゲーム・キャラクターグッズ（期間限定ポップアップ）",
+      "source": "https://www.sega.jp/topics/detail/261016_1/",
+      "verification": "セガ公式発表で開催開始日・会場・期間を確認"
+    },
+    {
+      "name": "STPR Family STORE - DREAM LAND -",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-01",
+      "category": "アーティスト公式グッズショップ",
+      "source": "https://truelip.stpr.com/news/detail/92876",
+      "verification": "STPR所属グループの公式ファンクラブ告知で開店日・池袋P'PARCO所在地を確認"
+    }
+  ],
+  "existing_matches": [
+    "POP MART 沖縄浦添PARCO CITY店",
+    "Penno Penna 大船ルミネウィング店",
+    "ガシャポンバンダイオフィシャルショップ 駿河屋 那覇沖映通り店",
+    "Puffy & Sweety",
+    "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI",
+    "Zoff 仙台PARCO店",
+    "H&F BELX 仙台PARCO店",
+    "秋野テーブル",
+    "POP MART LUCUA SOUTH店",
+    "カフェ・ラデュレ 新丸ビル店",
+    "PAPABUBBLE イクスピアリ店"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "all_seven_additions_present_exactly_once": true,
+    "existing_records_preserved_by_append_and_sort": true,
+    "readback_verified": true
+  },
+  "save": {
+    "latest_commit_sha": "809cc832ee6261b7f94be0af8f202aa7118259a",
+    "latest_blob_sha": "035ad7f0cb423803ed4afdb098adf269266dc91e",
+    "latest_readback_count": 1511
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者・店舗の網羅性は未確認",
+    "オーシャンBoo！宮古島店は運営会社の開店予定日を採用し、開店後の独立した実績確認は未取得",
+    "Wpc. POP-UP SHOPの終了日は2027年3月頃予定で、具体的な終了日は未確定"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
