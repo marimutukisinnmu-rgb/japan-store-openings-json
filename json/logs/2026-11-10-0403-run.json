@@ -1,0 +1,161 @@
+{
+  "run_at": "2026-11-10T04:03:55+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_blob_sha_before": "caa3c269229fa620faae1c92dd1c321767e5543f",
+  "source_commit_sha_after": "751a64e1ce622b442da08c05e951e323ce9525e1",
+  "source_blob_sha_after": "5f190a615b102071bd298e37b91e5102c242e354",
+  "counts": {
+    "before": 1599,
+    "added": 7,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1606
+  },
+  "additions": [
+    {
+      "name": "リンガーハット 神田店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-16",
+      "category": "長崎ちゃんぽん"
+    },
+    {
+      "name": "リンガーハット そよらひたち野うしく店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "ちゃんぽん"
+    },
+    {
+      "name": "横浜元町スミノ ポップアップショップ（東急プラザ蒲田）",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップ（ファッション・雑貨、2026-11-19〜2026-11-29）"
+    },
+    {
+      "name": "RILATO with TOPKAPI（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ポップアップ（ファッション・バッグ、2026-11-20〜2026-11-30）"
+    },
+    {
+      "name": "Gris by TIROIR（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（アクセサリー、2026-11-10〜2026-11-12）"
+    },
+    {
+      "name": "いろイロ - 粘土と糸 -（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定ポップアップ（アクセサリー・雑貨、2026-11-09〜2026-11-12）"
+    },
+    {
+      "name": "Oeufのヒュッゲな冬じたく（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（ハンドメイド雑貨・アクセサリー、2026-11-13〜2026-11-15）"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社リンガーハット",
+      "title": "神田店・そよらひたち野うしく店・イオンモール伊達店、リンガーハット3店舗を順次オープン",
+      "url": "https://www.ringerhut.co.jp/info/2026/1106_1/",
+      "verified": [
+        "神田店 2026-11-16 東京都千代田区",
+        "そよらひたち野うしく店 2026-11-18 茨城県牛久市"
+      ],
+      "note": "イオンモール伊達店は既存登録済み"
+    },
+    {
+      "publisher": "東急プラザ蒲田",
+      "title": "横浜元町スミノ ポップアップショップ",
+      "url": "https://www.tokyu-plaza.com/kamata/event/detail/141",
+      "verified": [
+        "2026-11-19〜2026-11-29",
+        "東京都大田区"
+      ]
+    },
+    {
+      "publisher": "六本松 蔦屋書店",
+      "title": "2026AW RILATO with TOPKAPI",
+      "url": "https://store.tsite.jp/ropponmatsu/event/shop/57920-1814501106.html",
+      "verified": [
+        "2026-11-20〜2026-11-30",
+        "福岡県福岡市中央区"
+      ]
+    },
+    {
+      "publisher": "六本松 蔦屋書店",
+      "title": "Costume jewelry / Gris by TIROIR",
+      "url": "https://store.tsite.jp/ropponmatsu/event/shop/57695-1838581026.html",
+      "verified": [
+        "2026-11-10〜2026-11-12",
+        "福岡県福岡市中央区"
+      ]
+    },
+    {
+      "publisher": "六本松 蔦屋書店",
+      "title": "いろイロ - 粘土と糸 -",
+      "url": "https://store.tsite.jp/ropponmatsu/event/shop/57592-2132021021.html",
+      "verified": [
+        "2026-11-09〜2026-11-12",
+        "福岡県福岡市中央区"
+      ]
+    },
+    {
+      "publisher": "六本松 蔦屋書店",
+      "title": "Oeufのヒュッゲな冬じたく",
+      "url": "https://store.tsite.jp/ropponmatsu/event/shop/57835-1514491102.html",
+      "verified": [
+        "2026-11-13〜2026-11-15",
+        "福岡県福岡市中央区"
+      ]
+    },
+    {
+      "publisher": "ローソン",
+      "title": "全国新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "verified": [
+        "対象掲載店舗を照合し、今回確認した店舗は既存登録済み"
+      ]
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "title": "ゴンチャ ゆめタウン佐賀店",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "verified": [
+        "2026-11-13開店、既存登録済み"
+      ]
+    },
+    {
+      "publisher": "ブルースカイランドリー",
+      "title": "新店舗情報一覧",
+      "url": "https://www.bsl-web.co.jp/category/shop/",
+      "verified": [
+        "11月5日・6日分は既存登録済み"
+      ]
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_date_keys": 0,
+    "all_new_items_present": true,
+    "previous_records_retained": true,
+    "sorted_by_opening_date": true
+  },
+  "notes": [
+    "期間限定ポップアップは既存データの収録方針に合わせて追加。開催期間をcategoryに明記。",
+    "全国全事業者の網羅性は未確認。"
+  ]
+}
