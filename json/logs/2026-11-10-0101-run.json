@@ -1,0 +1,163 @@
+{
+  "run_at": "2026-11-10T01:01:57+09:00",
+  "target": "json/latest.json",
+  "before": {
+    "count": 1576,
+    "blob_sha": "f0443ea2db50f7a60971d1fbf9702d173755c2b4",
+    "period": "2026-09-04/2027-02-11"
+  },
+  "added": [
+    {
+      "name": "泉屋東京店 髙島屋横浜店",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-11",
+      "category": "洋菓子・クッキー"
+    },
+    {
+      "name": "Y’s 2026-27 A/W POP-UP STORE（大和香林坊）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定ポップアップ（ファッション、2026-11-18〜2026-11-24）"
+    },
+    {
+      "name": "THE HARVEST KITCHEN GENERAL STORE（HARVEST恵比寿ストア・リニューアル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "食器・キッチン用品・ライフスタイルショップ（リニューアル）"
+    },
+    {
+      "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
+      "prefecture": "愛知県",
+      "city": "稲沢市",
+      "opening_date": "2026-11-12",
+      "category": "ベーカリー・焼き菓子（リニューアル）"
+    },
+    {
+      "name": "DRESSY ROOM NAGOYA（リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-12",
+      "category": "結婚式相談カウンター（リニューアル）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 堺海山町店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 川西店（リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "川西市",
+      "opening_date": "2026-11-14",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "のびっこジャンボ 石和店",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "opening_date": "2026-12-03",
+      "category": "屋内型プレイグラウンド"
+    },
+    {
+      "name": "のびっこジャンボ イオンタウン防府店",
+      "prefecture": "山口県",
+      "city": "防府市",
+      "opening_date": "2026-12-16",
+      "category": "屋内型プレイグラウンド"
+    }
+  ],
+  "added_count": 9,
+  "corrections": 0,
+  "deletions": 0,
+  "after": {
+    "count": 1585,
+    "updatetime": "2026-11-10T01:01:57+09:00",
+    "period": "2026-09-04/2027-02-11",
+    "commit_sha": "879534bfe8d71002d56005308cc9afaaa1c5103f",
+    "blob_sha": "44374beaf9dae1a9b889a8076123030332215fbe"
+  },
+  "sources": [
+    {
+      "name": "HARVEST恵比寿ストア",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000188130.html",
+      "supports": "2026-11-12リニューアル、東京都渋谷区"
+    },
+    {
+      "name": "マナレイア×GooZoo稲沢店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000193887.html",
+      "supports": "2026-11-12リニューアル、愛知県稲沢市"
+    },
+    {
+      "name": "DRESSY ROOM NAGOYA",
+      "url": "https://prtimes.jp/main/html/rd/p/000001190.000021126.html",
+      "supports": "2026-11-12リニューアル、KITTE名古屋内"
+    },
+    {
+      "name": "魁力屋 堺海山町店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000185678.html",
+      "supports": "2026-11-12リニューアル、大阪府堺市堺区"
+    },
+    {
+      "name": "魁力屋 川西店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000067.000185678.html",
+      "supports": "2026-11-14リニューアル、兵庫県川西市"
+    },
+    {
+      "name": "泉屋東京店 髙島屋横浜店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194165.html",
+      "supports": "2026-11-11新規出店、髙島屋横浜店Foodies' Port1"
+    },
+    {
+      "name": "のびっこジャンボ 石和店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001368.000060567.html",
+      "supports": "2026-12-03新規開業、山梨県笛吹市"
+    },
+    {
+      "name": "のびっこジャンボ イオンタウン防府店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001373.000060567.html",
+      "supports": "2026-12-16新規開業、山口県防府市"
+    },
+    {
+      "name": "Y’s POP-UP STORE 大和香林坊",
+      "url": "https://prtimes.jp/main/html/rd/p/000001135.000034350.html",
+      "supports": "2026-11-18〜11-24の期間限定出店。ほか6会場は既存登録済み"
+    }
+  ],
+  "held": [
+    {
+      "name": "クレーン横丁 極 相模原小山店",
+      "reason": "公式発表は『2026年11月下旬』までで、具体的な開店日が未確定。"
+    },
+    {
+      "name": "DRAGON STADIUM",
+      "reason": "公式発表は『2026年11月』までで、具体的な開業日が未確定。"
+    }
+  ],
+  "duplicate_candidates_not_modified": [
+    {
+      "name": "レゴ ストア（ジャズドリーム長島）",
+      "reason": "既存JSONに表記差のある同日・同所在地レコードが2件あるため、追加・統合・削除を行わず保留。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "exact_duplicate_keys": 0,
+    "existing_records_preserved": true,
+    "expected_count": 1585
+  },
+  "task_check_before_write": {
+    "enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "note": "管理情報では有効。次回実行時刻は未取得。スケジュールは変更していない。"
+  }
+}
