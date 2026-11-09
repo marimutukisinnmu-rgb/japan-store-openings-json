@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-09T11:03:24+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "BASE LAYER HOTEL KOBE SANNOMIYA official website",
+      "url": "https://baselayerhotel.com/kobesannomiya/info/2026/07/01/2145/",
+      "facts": "Opening date 2026-11-10; address 兵庫県神戸市中央区中山手通3-1-19."
+    },
+    {
+      "source": "Mitsui Outlet Park Jazz Dream Nagashima official release and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "facts": "Compared 12 new-open entries and 4 renewal entries. All exact-date items were already represented; Timberland only had 'December 2026' without an exact day and was not added."
+    },
+    {
+      "source": "Second Retailing Group official release and attached PDF",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "facts": "All 9 Japan-based November openings matched existing records; 3 overseas openings excluded from Japan scope."
+    },
+    {
+      "source": "KFC official recruitment opening list",
+      "url": "https://job-kfc.net/jobfind-pc/",
+      "facts": "15 entries with exact opening dates were already present. 7 entries with only month/period wording were left unregistered. The official listing shows KFC Yono East Exit on 2026-11-24; no date correction was made."
+    },
+    {
+      "source": "Skylark Syabuyo official new-store list",
+      "url": "https://store-info.skylark.co.jp/syabuyo/list/",
+      "facts": "Shabu-yo Ikeda Ekimae and Gifu Active G were already registered."
+    },
+    {
+      "source": "Big-A official new-store list",
+      "url": "https://www.biga.co.jp/newshop/",
+      "facts": "Big-A Kiyose Station North Exit and Sayama Chuo were already registered."
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "BASE LAYER HOTEL KOBE SANNOMIYA",
+        "prefecture": "兵庫県",
+        "city": "神戸市中央区",
+        "opening_date": "2026-11-10",
+        "category": "ホテル"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 1526,
+    "blob_sha": "b1f88268cde0a620dc5a266583612fef9f0b65a1"
+  },
+  "after": {
+    "count": 1527,
+    "blob_sha": "a6f98ec05e0e9830eeb5c10db77dac32d6b8b306",
+    "updatetime": "2026-11-09T11:03:24+09:00"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_composite_duplicates": 0,
+    "new_item_found": true,
+    "existing_count_preserved": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性は未確認。",
+    "Timberland（ジャズドリーム長島）は2026年12月予定のみで具体日未確定。",
+    "KFCの7店舗は「12月初旬・上旬・下旬・末」など日付が特定できず未登録。"
+  ]
+}
