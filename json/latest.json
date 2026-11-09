@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-10T02:01:29+09:00",
+  "updatetime": "2026-11-10T03:04:29+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -6493,6 +6493,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "リユース相談本舗 港北東急SC店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-09",
+      "category": "リユース・生活整理相談"
+    },
+    {
       "name": "chocoZAP さいたま下落合",
       "prefecture": "埼玉県",
       "city": "さいたま市中央区",
@@ -8579,6 +8586,13 @@
       "category": "期間限定アパレル・ライフスタイルストア"
     },
     {
+      "name": "EXPO 2027 オフィシャルストア JR横浜駅南改札内店",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "公式グッズショップ"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8628,11 +8642,25 @@
       "category": "牛丼・定食（松のや併設）"
     },
     {
+      "name": "炭焼うなぎふじさん 半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2026-11-21",
+      "category": "うなぎ専門店"
+    },
+    {
       "name": "道助商店 janjan 3番通店",
       "prefecture": "北海道",
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "TAROKO PICKLEBALL CLUB 下総中山",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-22",
+      "category": "ピックルボール施設（プレオープン、グランドオープン2026-12-01）"
     },
     {
       "name": "PASOUL BLACK FRIDAY FESTA 2026",
@@ -10210,6 +10238,13 @@
       "category": "レストラン（新業態）"
     },
     {
+      "name": "スペラボ 横浜六ツ川店",
+      "prefecture": "神奈川県",
+      "city": "横浜市南区",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -10411,6 +10446,20 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-04",
       "category": "管楽器専門店（移転・リニューアル拡大）"
+    },
+    {
+      "name": "BONTEMPS 福岡薬院店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-05",
+      "category": "ドーナツカフェ"
+    },
+    {
+      "name": "ウェンディーズ・ファーストキッチン ワカバウォーク店",
+      "prefecture": "埼玉県",
+      "city": "鶴ヶ島市",
+      "opening_date": "2026-12-05",
+      "category": "ファストフード（ブランド変更・リニューアル予定）"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
