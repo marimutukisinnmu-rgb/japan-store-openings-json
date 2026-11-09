@@ -240,12 +240,6 @@
       "checked_count": 1,
       "registered_count": 1,
       "source": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
-    },
-    {
-      "name": "セルフカフェ等の周辺新店照合",
-      "checked_count": 1,
-      "registered_count": 0,
-      "source": "https://prtimes.jp/main/html/rd/p/000001194.000045400.html"
     }
   ],
   "verification": {
@@ -282,6 +276,18 @@
     {
       "name": "gashacocoビッグエコー天王寺あべの駅前",
       "reason": "既存JSONに2026-11-11で登録済み。"
+    },
+    {
+      "name": "Workman Colors トリアス久山店",
+      "reason": "既存JSONに2026-11-13で登録済み。"
+    },
+    {
+      "name": "HMVららぽーと堺",
+      "reason": "既存JSONに2026-11-17で登録済み。"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "reason": "既存JSONに2026-11-13で登録済み。"
     }
   ]
 }
