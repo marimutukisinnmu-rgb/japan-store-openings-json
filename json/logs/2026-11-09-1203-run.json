@@ -1,0 +1,124 @@
+{
+  "run_at": "2026-11-09T12:03:40+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Grandberry Park official 2026 Autumn New Shop Open page",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "facts": "Official facility page lists 8 new shops and 4 renewal shops from September to November 2026. Added five exact-date items absent from latest.json: Ball & Chain (2026-09-04), YANUK renewal (2026-09-05), ADAM ET ROPÉ / SALON adam et ropé OUTLET (2026-09-09), Catchup (2026-09-10), and Lavenham (2026-09-12). PUMA, COHINA, Margaret Howell, adidas Golf, Blue Label/Black Label Crestbridge, and HUNTER were already represented. ReD only showed 'early to mid October' without an exact day and was not added."
+    },
+    {
+      "source": "Blue Sky Laundry operator official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "facts": "Checked all 10 November 2026 openings; all 10 were already present in latest.json."
+    },
+    {
+      "source": "Lusca Hiratsuka operator official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000090.000116984.html",
+      "facts": "Checked Lindt Chocolat Boutique, ITS'DEMO renewal, Local India, and Ramen Ishikari renewal; all four were already present."
+    },
+    {
+      "source": "Japan Council of Shopping Centers 2026 opening SC list",
+      "url": "https://jcsc.or.jp/sc_data/sc_open/sc_list",
+      "facts": "Checked the two November SC openings: Tenmaya Happys Saidaiji Mall (grand opening 2026-11-12) and Aeon Mall Date (2026-11-27); both were already present."
+    },
+    {
+      "source": "Benelic official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "facts": "Harry Potter Mahou Dokoro Marunouchi pop-up (2026-11-12 to 2026-12-25) already present."
+    },
+    {
+      "source": "POP MART Japan official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "facts": "POP MART LUCUA SOUTH (2026-11-24) already present."
+    },
+    {
+      "source": "PAPABUBBLE official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "facts": "PAPABUBBLE Ikspiari (2026-11-21) already present."
+    },
+    {
+      "source": "LADUREE JAPON official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "facts": "Cafe Laduree Shin-Marunouchi Building (2026-11-16) already present."
+    },
+    {
+      "source": "Sukiya official news list",
+      "url": "https://www.sukiya.jp/news/",
+      "facts": "Takaoka Ono store (2026-11-11) already present."
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "ボールアンドチェーン（グランベリーパーク）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-09-04",
+        "category": "ファッション雑貨・生活スタイル・インテリア"
+      },
+      {
+        "name": "ヤヌーク（グランベリーパーク・リニューアル）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-09-05",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "アダム エ ロペ／サロン アダム エ ロペ アウトレット（グランベリーパーク）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-09-09",
+        "category": "ファッション・生活雑貨"
+      },
+      {
+        "name": "ケチャップ（グランベリーパーク）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-09-10",
+        "category": "キッズ・メンズ・レディース・ファッション雑貨"
+      },
+      {
+        "name": "ラベンハム（グランベリーパーク）",
+        "prefecture": "東京都",
+        "city": "町田市",
+        "opening_date": "2026-09-12",
+        "category": "ファッション（期間限定ストア）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 1527,
+    "blob_sha": "a6f98ec05e0e9830eeb5c10db77dac32d6b8b306"
+  },
+  "after": {
+    "count": 1532,
+    "blob_sha": "ea7ab90e139df1cf60aa6008d4f89ed81dd7b676",
+    "updatetime": "2026-11-09T12:03:40+09:00",
+    "period": "2026-09-04/2027-02-11"
+  },
+  "commits": [
+    "0dd52590fa031d847df0d7195374f4db33cee473",
+    "b55b478ae596c3cbc4d8f0d8ecc8121d7e008a39"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_composite_duplicates": 0,
+    "new_items_found": 5,
+    "existing_1527_records_preserved": true,
+    "saved_file_refetched": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者の網羅性は未確認。",
+    "Grandberry ParkのReDは「10月上旬～中旬」のみで具体的な日付がなく、未登録。",
+    "HUNTERとハンター、COHINAとコヒナの各2レコードは同一店舗の表記揺れの可能性があるが、既存データを保護するため統合・削除していない。"
+  ]
+}
