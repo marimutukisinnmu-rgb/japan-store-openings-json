@@ -1,0 +1,177 @@
+{
+  "run_at": "2026-11-09T13:05:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "gashacoco official news index and individual opening/renewal notices",
+      "url": "https://gashacoco.jp/news/",
+      "facts": "Official notices confirm gashacoco 平安堂東和田 (2026-09-04), 足利コムファーストSC (2026-09-11), 三井アウトレットパーク入間 (2026-09-18), ビッグエコー天満 (2026-09-30), イオンモール与野 renewal (2026-10-09), TSUTAYA花見川 (2026-10-09), イオンモール木更津 renewal (2026-10-16), アクアウォーク大垣 (2026-10-23), 浅草 sales-floor expansion (2026-10-26), 明屋書店小郡 (2026-11-06), and 明屋書店行橋行事 (2026-11-13). The 2026-11-11 Big Echo Tennoji Abeno Ekimae entry was already present."
+    },
+    {
+      "source": "Dream Capsule official store pages",
+      "url": "https://www.dreamcapsule.co.jp/shop/2677",
+      "facts": "Official store page identifies the Kashihara Aeon Mall location and 2026-11-13 opening."
+    },
+    {
+      "source": "Dream Capsule official store pages",
+      "url": "https://www.dreamcapsule.co.jp/shop/292",
+      "facts": "Official store page identifies the Tokushima Aeon Mall location and 2026-12-04 opening."
+    },
+    {
+      "source": "Minamiuonuma City official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000115.000117712.html",
+      "facts": "Municipal announcement confirms Doutor Coffee Shop Minamiuonuma Library Store, 2026-11-04, inside Minamiuonuma City Library, Minamiuonuma City, Niigata Prefecture."
+    },
+    {
+      "source": "Lawson official national new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "facts": "Compared 33 entries on the current national list (2026-11-01 through 2026-11-20); all 33 were already represented in latest.json."
+    },
+    {
+      "source": "Skylark official Gusto new-store list",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "facts": "Checked Gusto Niigata Station Front (2026-11-15), Soyora Iida Apple Road (2026-11-17), and Aeon Mall Fukuoka (2026-11-20); all were already represented."
+    },
+    {
+      "source": "Toshin official #C-pla pages",
+      "url": "https://toshin.jpn.com/cpla/",
+      "facts": "Reviewed the official #C-pla news and store pages. No official notice confirming the reported upcoming #C-pla Aeon Toyohashi Minami store was found in the accessible official pages; it was not added."
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "gashacoco 平安堂東和田",
+        "prefecture": "長野県",
+        "city": "長野市",
+        "opening_date": "2026-09-04",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco 足利コムファーストSC",
+        "prefecture": "栃木県",
+        "city": "足利市",
+        "opening_date": "2026-09-11",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco 三井アウトレットパーク入間",
+        "prefecture": "埼玉県",
+        "city": "入間市",
+        "opening_date": "2026-09-18",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco ビッグエコー天満",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-09-30",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco イオンモール与野",
+        "prefecture": "埼玉県",
+        "city": "さいたま市中央区",
+        "opening_date": "2026-10-09",
+        "category": "カプセルトイ専門店（リニューアル）"
+      },
+      {
+        "name": "gashacoco TSUTAYA花見川",
+        "prefecture": "千葉県",
+        "city": "千葉市花見川区",
+        "opening_date": "2026-10-09",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco イオンモール木更津",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-10-16",
+        "category": "カプセルトイ専門店（リニューアル）"
+      },
+      {
+        "name": "gashacoco アクアウォーク大垣",
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "opening_date": "2026-10-23",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco 浅草（売場拡大）",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-10-26",
+        "category": "カプセルトイ専門店（売場拡大）"
+      },
+      {
+        "name": "ドトールコーヒーショップ 南魚沼図書館店",
+        "prefecture": "新潟県",
+        "city": "南魚沼市",
+        "opening_date": "2026-11-04",
+        "category": "カフェ・喫茶店"
+      },
+      {
+        "name": "gashacoco 明屋書店小郡",
+        "prefecture": "山口県",
+        "city": "山口市",
+        "opening_date": "2026-11-06",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "ドリームカプセル イオンモール橿原",
+        "prefecture": "奈良県",
+        "city": "橿原市",
+        "opening_date": "2026-11-13",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "gashacoco 明屋書店行橋行事",
+        "prefecture": "福岡県",
+        "city": "行橋市",
+        "opening_date": "2026-11-13",
+        "category": "カプセルトイ専門店"
+      },
+      {
+        "name": "ドリームカプセル イオンモール徳島",
+        "prefecture": "徳島県",
+        "city": "徳島市",
+        "opening_date": "2026-12-04",
+        "category": "カプセルトイ専門店"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 1532,
+    "blob_sha": "ea7ab90e139df1cf60aa6008d4f89ed81dd7b676"
+  },
+  "after": {
+    "count": 1546,
+    "blob_sha": "16fd48f029c22b68520232cee2b25a06cb5f5bef",
+    "updatetime": "2026-11-09T13:05:00+09:00",
+    "period": "2026-09-04/2027-02-11"
+  },
+  "commits": [
+    "abfcb456cf09b21b9e505f0bfc147e3cad379c71"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_composite_duplicates": 0,
+    "new_items_found": 14,
+    "existing_1532_records_preserved": true,
+    "saved_file_refetched": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者の網羅性は未確認。",
+    "#C-pla イオン豊橋南店は二次情報で出店予定が見られるが、今回アクセスできたトーシン公式ページでは開店日を確認できず、追加していない。",
+    "gashacoco 明屋書店川内は公式発表の開店日が2026-08-28で、latest.jsonの現行対象期間（2026-09-04/2027-02-11）より前のため、今回の対象には追加していない。",
+    "gashacoco浅草は新規出店ではなく、公式発表で確認できた2026-10-26の売場拡大として登録した。"
+  ]
+}
