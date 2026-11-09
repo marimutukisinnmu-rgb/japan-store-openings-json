@@ -1,0 +1,96 @@
+{
+  "run_at": "2026-11-09T14:57:22+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1546,
+  "after_count": 1549,
+  "added_count": 3,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "additions": [
+    {
+      "name": "カラオケまねきねこ 柳井店",
+      "prefecture": "山口県",
+      "city": "柳井市",
+      "opening_date": "2026-11-13",
+      "category": "カラオケ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000113.000178734.html"
+    },
+    {
+      "name": "ミスターミニット アリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-11-13",
+      "category": "靴修理・合鍵・各種修理",
+      "source": "https://www.minit.co.jp/shopsearch/detail/1186/"
+    },
+    {
+      "name": "PLAZA TOKYO+ 新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "ライフスタイルストア・カフェ併設",
+      "source": "https://prtimes.jp/main/html/rd/p/000001078.000003436.html"
+    }
+  ],
+  "sources_checked_but_already_registered": [
+    {
+      "name": "東横INN豊橋駅前大通り",
+      "opening_date": "2026-11-06",
+      "source": "https://prtimes.jp/main/html/rd/p/000000121.000009718.html"
+    },
+    {
+      "name": "串カツ田中 阪急淡路店",
+      "opening_date": "2026-11-04",
+      "source": "https://prtimes.jp/main/html/rd/p/000000643.000027839.html"
+    },
+    {
+      "name": "スガキヤ 大阪ベイタワー店",
+      "opening_date": "2026-11-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000000062.000097460.html"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "opening_date": "2026-11-13",
+      "source": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
+    },
+    {
+      "name": "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI",
+      "opening_date": "2026-11-12",
+      "source": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "opening_date": "2026-11-28",
+      "source": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "opening_date": "2026-11-24",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "opening_date": "2026-11-21",
+      "source": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_key_count": 0,
+    "sorted_by_opening_date": true,
+    "old_records_exactly_preserved": true,
+    "all_new_records_present_after_refetch": true,
+    "after_refetch_count": 1549,
+    "latest_json_commit": "4d6cecbb85a0a13acc01d1a3002b7b5e7d4935f0",
+    "latest_json_blob": "3f8c4a5e7f9cd73645757003e5d17c843bb277da"
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性は確認していない。",
+    "公式発表に記載された開店予定日は登録したが、開店後の営業実績は別途確認していない。"
+  ]
+}
