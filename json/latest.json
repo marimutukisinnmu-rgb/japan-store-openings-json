@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T22:05:53+09:00",
+  "updatetime": "2026-11-10T00:31:53+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -6654,6 +6654,13 @@
       "category": "ホテル"
     },
     {
+      "name": "マクドナルド 清水辻店",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-11-10",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
@@ -6834,6 +6841,27 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-11",
       "category": "スキンケア・コスメ（カウンター移設・リニューアル）"
+    },
+    {
+      "name": "マクドナルド クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-11-11",
+      "category": "ファストフード"
+    },
+    {
+      "name": "やよい軒 鎌ヶ谷大仏店",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-11",
+      "category": "定食レストラン"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（松坂屋上野・期間限定催事）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定テイクアウト催事（2026-11-11〜2026-11-17）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -7030,6 +7058,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-12",
       "category": "期間限定コラボカフェ（キャラクター）"
+    },
+    {
+      "name": "珈琲館 五日市街道若葉町店",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-12",
+      "category": "カフェ・喫茶店"
     },
     {
       "name": "3COINS+plus（アミュプラザ鹿児島）",
@@ -8026,6 +8061,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "日本橋 天丼 天むす 金子半之助（ペリエ津田沼・期間限定催事）",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-19",
+      "category": "期間限定テイクアウト催事（2026-11-19〜2027-01-18）"
+    },
+    {
       "name": "3COINS+plus（IKEDIA）",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -8453,6 +8495,13 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "WORLD STORE（フューチャーシティ ファボーレ・期間限定）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-11-20",
+      "category": "期間限定アパレル・ライフスタイルストア"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8796,6 +8845,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "日本橋 天丼 天むす 金子半之助（これもう西船橋・期間限定催事）",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-24",
+      "category": "期間限定テイクアウト催事（2026-11-24〜2026-12-07）"
+    },
+    {
       "name": "chocoZAP うきは吉井",
       "prefecture": "福岡県",
       "city": "うきは市",
@@ -8878,6 +8934,13 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（都筑阪急・期間限定催事）",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定テイクアウト催事（2026-11-25〜2026-12-01）"
     },
     {
       "name": "323KASEI（セレオ八王子）",
