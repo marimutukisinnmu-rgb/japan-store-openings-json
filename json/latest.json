@@ -1,7 +1,7 @@
 {
   "period": "2026-09-11/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T10:01:37+09:00",
+  "updatetime": "2026-11-09T11:03:24+09:00",
   "items": [
     {
       "name": "Marc Jacobs（酒々井プレミアム・アウトレット）",
@@ -6477,6 +6477,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-10",
       "category": "パティスリー"
+    },
+    {
+      "name": "BASE LAYER HOTEL KOBE SANNOMIYA",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-10",
+      "category": "ホテル"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
