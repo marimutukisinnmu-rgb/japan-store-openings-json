@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T14:57:22+09:00",
+  "updatetime": "2026-11-09T22:05:53+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -5576,6 +5576,13 @@
       "category": "シューズ・ファッション（常設出店）"
     },
     {
+      "name": "セルフカフェ 鶴見横堤店",
+      "prefecture": "大阪府",
+      "city": "大阪市鶴見区",
+      "opening_date": "2026-11-05",
+      "category": "無人カフェ・ワークスペース"
+    },
+    {
       "name": "Acne Studios（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -6248,6 +6255,20 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "ワッツウィズ 福津リンク店",
+      "prefecture": "福岡県",
+      "city": "福津市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
+      "name": "ワッツウィズ 伊北ベルシャイン店",
+      "prefecture": "長野県",
+      "city": "箕輪町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
@@ -6388,6 +6409,13 @@
       "category": "韓国料理（期間限定POPUP）"
     },
     {
+      "name": "ワッツウィズ 高松一宮くすりのレデイ店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-11-07",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "zen place pilates 新横浜",
       "prefecture": "神奈川県",
       "city": "横浜市港北区",
@@ -6435,6 +6463,34 @@
       "city": "豊中市",
       "opening_date": "2026-11-09",
       "category": "牛丼・定食（営業再開）"
+    },
+    {
+      "name": "高価買取おたからや 斑鳩店",
+      "prefecture": "奈良県",
+      "city": "斑鳩町",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや 宇都宮一の沢店（作新学院前）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや アオキスーパー今伊勢店",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
+    },
+    {
+      "name": "高価買取おたからや コープあおもり るいけ店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-11-09",
+      "category": "買取専門店"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -6764,6 +6820,20 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "Green Cosmetic Garden（グリーンコスメティックガーデン）",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-11",
+      "category": "コスメ・ビューティー・ウェルネス"
+    },
+    {
+      "name": "ラ・プレリー 阪急うめだ本店（HANKYU BEAUTY MAISON）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-11",
+      "category": "スキンケア・コスメ（カウンター移設・リニューアル）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -7324,6 +7394,41 @@
       "city": "八尾市",
       "opening_date": "2026-11-13",
       "category": "靴修理・合鍵・各種修理"
+    },
+    {
+      "name": "クラークス くずは店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-13",
+      "category": "シューズ・バッグ"
+    },
+    {
+      "name": "SNIDEL HOME アミュプラザ小倉店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-13",
+      "category": "ルームウェア・ライフスタイル"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップゆめタウン久留米店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ未来屋書店黒崎店",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップTSUTAYA BOOKSTOREビバモール寝屋川店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -8332,6 +8437,20 @@
       "city": "新宿区",
       "opening_date": "2026-11-20",
       "category": "ライフスタイルストア・カフェ併設"
+    },
+    {
+      "name": "高岡ロフト",
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・文具・バラエティ雑貨"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップイトーヨーカドーアリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-11-20",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -10117,6 +10236,13 @@
       "city": "徳島市",
       "opening_date": "2026-12-04",
       "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "MIKIGAKKI WindForest（ミキガッキ ウインドフォレスト）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-04",
+      "category": "管楽器専門店（移転・リニューアル拡大）"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
