@@ -1,14 +1,42 @@
 {
-  "period": "2026-09-11/2027-02-11",
+  "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T11:03:24+09:00",
+  "updatetime": "2026-11-09T12:03:40+09:00",
   "items": [
+    {
+      "name": "ボールアンドチェーン（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-04",
+      "category": "ファッション雑貨・生活スタイル・インテリア"
+    },
+    {
+      "name": "アダム エ ロペ／サロン アダム エ ロペ アウトレット（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-09",
+      "category": "ファッション・生活雑貨"
+    },
+    {
+      "name": "ケチャップ（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-10",
+      "category": "キッズ・メンズ・レディース・ファッション雑貨"
+    },
     {
       "name": "Marc Jacobs（酒々井プレミアム・アウトレット）",
       "prefecture": "千葉県",
       "city": "印旛郡酒々井町",
       "opening_date": "2026-09-11",
       "category": "ファッション（常設出店）"
+    },
+    {
+      "name": "ラベンハム（グランベリーパーク）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-09-12",
+      "category": "ファッション（期間限定ストア）"
     },
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
