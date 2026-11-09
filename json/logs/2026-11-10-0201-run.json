@@ -1,0 +1,98 @@
+{
+  "run_at": "2026-11-10T02:01:29+09:00",
+  "target": "json/latest.json",
+  "before": {
+    "count": 1585,
+    "blob_sha": "44374beaf9dae1a9b889a8076123030332215fbe",
+    "period": "2026-09-04/2027-02-11"
+  },
+  "added": [
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオンスタイル盛岡南・期間限定）",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "opening_date": "2026-11-12",
+      "category": "ドーナツ（期間限定催事、2026-11-12〜2026-11-17）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオンスタイル白山・期間限定）",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-11-11",
+      "category": "ドーナツ（期間限定催事、2026-11-11〜2026-11-16）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオンスタイル水戸内原・期間限定）",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "opening_date": "2026-11-19",
+      "category": "ドーナツ（期間限定催事、2026-11-19〜2026-11-24）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオン綾川・期間限定）",
+      "prefecture": "香川県",
+      "city": "綾歌郡綾川町",
+      "opening_date": "2026-11-19",
+      "category": "ドーナツ（期間限定催事、2026-11-19〜2026-11-23）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオンスタイル橿原・期間限定）",
+      "prefecture": "奈良県",
+      "city": "橿原市",
+      "opening_date": "2026-11-26",
+      "category": "ドーナツ（期間限定催事、2026-11-26〜2026-11-29）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオン大和郡山店・期間限定）",
+      "prefecture": "奈良県",
+      "city": "大和郡山市",
+      "opening_date": "2026-11-26",
+      "category": "ドーナツ（期間限定催事、2026-11-26〜2026-11-29）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イーアスつくば・期間限定）",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "opening_date": "2026-11-27",
+      "category": "ドーナツ（期間限定催事、2026-11-27〜2026-12-06）"
+    }
+  ],
+  "added_count": 7,
+  "corrections": 0,
+  "deletions": 0,
+  "after": {
+    "count": 1592,
+    "updatetime": "2026-11-10T02:01:29+09:00",
+    "period": "2026-09-04/2027-02-11",
+    "commit_sha": "807b1a927d4bd2a031e06ad5571535d63314aba2",
+    "blob_sha": "b2e5a0f7b384dd2117ade0a7524e16ba75c94ebb"
+  },
+  "sources": [
+    {
+      "name": "クリスピー・クリーム・ドーナツ 2026年11月催事情報",
+      "url": "https://krispykreme.jp/store-news/16554/",
+      "supports": "イオンスタイル盛岡南、イオンスタイル白山、イオンスタイル水戸内原、イオン綾川、イオンスタイル橿原、イオン大和郡山、イーアスつくばの出店期間と会場所在地"
+    }
+  ],
+  "held": [],
+  "duplicate_candidates_not_modified": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_keys": 0,
+    "old_records_retained": 1585,
+    "old_records_unchanged": true,
+    "added_records_verified": 7,
+    "post_fetch_sha_matches_update": true,
+    "post_write_success": true
+  },
+  "task_check_before_write": {
+    "is_enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "changed": false
+  }
+}
