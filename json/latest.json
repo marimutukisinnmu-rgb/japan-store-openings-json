@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T12:03:40+09:00",
+  "updatetime": "2026-11-09T13:05:00+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -9,6 +9,13 @@
       "city": "町田市",
       "opening_date": "2026-09-04",
       "category": "ファッション雑貨・生活スタイル・インテリア"
+    },
+    {
+      "name": "gashacoco 平安堂東和田",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-09-04",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "ヤヌーク（グランベリーパーク・リニューアル）",
@@ -37,6 +44,13 @@
       "city": "印旛郡酒々井町",
       "opening_date": "2026-09-11",
       "category": "ファッション（常設出店）"
+    },
+    {
+      "name": "gashacoco 足利コムファーストSC",
+      "prefecture": "栃木県",
+      "city": "足利市",
+      "opening_date": "2026-09-11",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "ラベンハム（グランベリーパーク）",
@@ -107,6 +121,13 @@
       "city": "印旛郡酒々井町",
       "opening_date": "2026-09-18",
       "category": "クレープ・飲食（常設キオスク）"
+    },
+    {
+      "name": "gashacoco 三井アウトレットパーク入間",
+      "prefecture": "埼玉県",
+      "city": "入間市",
+      "opening_date": "2026-09-18",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "Eleanor spa&treatment 高槻店",
@@ -443,6 +464,13 @@
       "city": "狭山市",
       "opening_date": "2026-09-30",
       "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "gashacoco ビッグエコー天満",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-09-30",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "chocoZAP ワコーレ北本",
@@ -1558,6 +1586,20 @@
       "category": "もんじゃ焼き"
     },
     {
+      "name": "gashacoco イオンモール与野",
+      "prefecture": "埼玉県",
+      "city": "さいたま市中央区",
+      "opening_date": "2026-10-09",
+      "category": "カプセルトイ専門店（リニューアル）"
+    },
+    {
+      "name": "gashacoco TSUTAYA花見川",
+      "prefecture": "千葉県",
+      "city": "千葉市花見川区",
+      "opening_date": "2026-10-09",
+      "category": "カプセルトイ専門店"
+    },
+    {
       "name": "ABC-MART（ジャズドリーム長島・リニューアル）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -2095,6 +2137,13 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
+    },
+    {
+      "name": "gashacoco イオンモール木更津",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-10-16",
+      "category": "カプセルトイ専門店（リニューアル）"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -2804,6 +2853,13 @@
       "category": "スポーツ・ファッション（移転リニューアル）"
     },
     {
+      "name": "gashacoco アクアウォーク大垣",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-10-23",
+      "category": "カプセルトイ専門店"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -2935,6 +2991,13 @@
       "city": "名古屋市中村区",
       "opening_date": "2026-10-26",
       "category": "沖縄料理・しゃぶしゃぶ・居酒屋"
+    },
+    {
+      "name": "gashacoco 浅草（売場拡大）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-10-26",
+      "category": "カプセルトイ専門店（売場拡大）"
     },
     {
       "name": "chocoZAP せんげん台西一丁目",
@@ -5240,6 +5303,13 @@
       "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
+      "name": "ドトールコーヒーショップ 南魚沼図書館店",
+      "prefecture": "新潟県",
+      "city": "南魚沼市",
+      "opening_date": "2026-11-04",
+      "category": "カフェ・喫茶店"
+    },
+    {
       "name": "chocoZAP 中須一丁目",
       "prefecture": "広島県",
       "city": "広島市安佐南区",
@@ -6169,6 +6239,13 @@
       "city": "印旛郡酒々井町",
       "opening_date": "2026-11-06",
       "category": "ワッフル専門店（期間限定催事、2026-11-15まで）"
+    },
+    {
+      "name": "gashacoco 明屋書店小郡",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-06",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -7219,6 +7296,20 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "ドリームカプセル イオンモール橿原",
+      "prefecture": "奈良県",
+      "city": "橿原市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "gashacoco 明屋書店行橋行事",
+      "prefecture": "福岡県",
+      "city": "行橋市",
+      "opening_date": "2026-11-13",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -9998,6 +10089,13 @@
       "city": "印旛郡酒々井町",
       "opening_date": "2026-12-04",
       "category": "ファッション・シューズ（期間限定出店、2027-02-28まで）"
+    },
+    {
+      "name": "ドリームカプセル イオンモール徳島",
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
