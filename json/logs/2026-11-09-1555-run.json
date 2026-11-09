@@ -1,0 +1,112 @@
+{
+  "run_at": "2026-11-09T15:55:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "no_change",
+  "before_count": 1549,
+  "after_count": 1549,
+  "added_count": 0,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "additions": [],
+  "sources_checked_but_already_registered": [
+    {
+      "name": "ローソン全国新店舗情報",
+      "checked_count": 34,
+      "registered_count": 34,
+      "source": "https://www.lawson.co.jp/newstore/smt/index.html"
+    },
+    {
+      "name": "セカンドリテイリンググループ2026年11月国内出店",
+      "checked_count": 9,
+      "registered_count": 9,
+      "overseas_excluded": 3,
+      "source": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html"
+    },
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島 新規・リニューアル",
+      "checked_count": 15,
+      "registered_count": 15,
+      "undated_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html"
+    },
+    {
+      "name": "イオンモール伊達・サイプレス出店5店舗",
+      "checked_count": 5,
+      "registered_count": 5,
+      "source": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店 個別店舗発表",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html"
+    },
+    {
+      "name": "ガスト新店情報",
+      "checked_count": 3,
+      "registered_count": 3,
+      "source": "https://store-info.skylark.co.jp/gusto/list/"
+    },
+    {
+      "name": "ラーメン魁力屋 新店舗情報",
+      "checked_count": 3,
+      "registered_count": 3,
+      "source": "https://www.kairikiya.co.jp/news/grandopen"
+    },
+    {
+      "name": "すき家 新店情報",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://www.sukiya.jp/news/"
+    },
+    {
+      "name": "カフェ・ラデュレ 新丸ビル店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "checked_count": 1,
+      "registered_count": 1,
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "name": "ブルースカイランドリー 2026年11月全国10店舗",
+      "checked_count": 10,
+      "registered_count": 10,
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "エトモ菊名・テナント9店舗",
+      "checked_count": 9,
+      "registered_count": 9,
+      "source": "https://www.tokyu.co.jp/company/information/detail/62401.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_key_count": 0,
+    "sorted_by_opening_date": true,
+    "old_records_exactly_preserved": true,
+    "after_refetch_count": 1549,
+    "latest_json_blob": "3f8c4a5e7f9cd73645757003e5d17c843bb277da",
+    "latest_json_updatetime": "2026-11-09T14:57:22+09:00",
+    "latest_json_unchanged": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性は確認していない。",
+    "ジャズドリーム長島のTimberlandは2026年12月予定のみで具体的な開店日が未確定のため追加対象外。",
+    "公式発表に記載された開店予定日と店舗情報を照合したが、全店舗の開店後営業実績を独立確認したものではない。"
+  ]
+}
