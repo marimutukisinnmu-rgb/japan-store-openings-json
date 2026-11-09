@@ -1,0 +1,157 @@
+{
+  "run_at": "2026-11-10T00:31:53+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before_count": 1567,
+  "after_count": 1576,
+  "added_count": 9,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "before_blob_sha": "4228e91cf4aa0887c72fcb8f20f6e8b2f3c9efee",
+  "after_blob_sha": "f0443ea2db50f7a60971d1fbf9702d173755c2b4",
+  "update_commit_sha": "2c7a89aa3c3f19813001a989901029e384cf07c0",
+  "additions": [
+    {
+      "name": "マクドナルド 清水辻店",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-11-10",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-11-11",
+      "category": "ファストフード"
+    },
+    {
+      "name": "やよい軒 鎌ヶ谷大仏店",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-11",
+      "category": "定食レストラン"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（松坂屋上野・期間限定催事）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定テイクアウト催事（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "珈琲館 五日市街道若葉町店",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2026-11-12",
+      "category": "カフェ・喫茶店"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（ペリエ津田沼・期間限定催事）",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-19",
+      "category": "期間限定テイクアウト催事（2026-11-19〜2027-01-18）"
+    },
+    {
+      "name": "WORLD STORE（フューチャーシティ ファボーレ・期間限定）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-11-20",
+      "category": "期間限定アパレル・ライフスタイルストア"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（これもう西船橋・期間限定催事）",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-24",
+      "category": "期間限定テイクアウト催事（2026-11-24〜2026-12-07）"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助（都筑阪急・期間限定催事）",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定テイクアウト催事（2026-11-25〜2026-12-01）"
+    }
+  ],
+  "sources": [
+    {
+      "name": "マクドナルド 清水辻店",
+      "url": "https://map.mcdonalds.co.jp/map/22658"
+    },
+    {
+      "name": "マクドナルド クロスモール近江八幡店",
+      "url": "https://map.mcdonalds.co.jp/map/25562"
+    },
+    {
+      "name": "やよい軒 鎌ヶ谷大仏店",
+      "url": "https://store.yayoiken.com/b/yayoiken/attr/?citycode=12204&kencode=12&t=attr_con"
+    },
+    {
+      "name": "珈琲館 五日市街道若葉町店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000196.000079423.html"
+    },
+    {
+      "name": "WORLD STORE（フューチャーシティ ファボーレ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000185346.html"
+    },
+    {
+      "name": "日本橋 天丼 天むす 金子半之助 2026年11月催事",
+      "url": "https://prtimes.jp/main/html/rd/p/000000160.000048178.html"
+    }
+  ],
+  "matched_existing": [
+    {
+      "source": "ローソン公式 新店舗情報",
+      "checked_count": 34,
+      "already_registered": 34,
+      "unregistered": 0,
+      "url": "https://www.lawson.co.jp/newstore/smt/"
+    },
+    {
+      "source": "松屋フーズ公式 新店・一時閉店一覧",
+      "checked_count": 4,
+      "already_registered": 4,
+      "unregistered": 0,
+      "url": "https://bento.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html"
+    },
+    {
+      "source": "WILDSIDE YOHJI YAMAMOTO 渋谷PARCO",
+      "status": "already_registered",
+      "url": "https://prtimes.jp/main/html/rd/p/000001142.000034350.html"
+    },
+    {
+      "source": "THE GUNDAM BASE SHIBUYA",
+      "status": "already_registered",
+      "url": "https://www.gundam-base.net/news/81618.html"
+    }
+  ],
+  "held_unconfirmed": [
+    {
+      "name": "幸楽苑 五泉店",
+      "reason": "地域メディアでは2026-11-10開店との情報を確認したが、今回、運営会社の公式情報を確認できなかったため登録保留。",
+      "url": "https://gatachira.com/local/open-close/10224547/"
+    },
+    {
+      "name": "マクドナルド 大船渡店",
+      "reason": "候補情報は見つかったが、今回、公式店舗ページまたは公式発表で開店日を確認できなかったため登録保留。"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "required_field_missing": 0,
+    "invalid_date_format": 0,
+    "exact_duplicate_keys": 0,
+    "chronological_order": "success",
+    "old_records_missing": 0,
+    "new_records_verified": 9,
+    "latest_file_refetched": "success"
+  },
+  "errors": [],
+  "limitations": [
+    "全国全事業者の網羅性は未確認。",
+    "開店後の営業実績は全店舗について独立確認していない。"
+  ]
+}
