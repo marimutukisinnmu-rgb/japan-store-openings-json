@@ -1,0 +1,215 @@
+{
+  "run_at": "2026-11-09T10:01:37+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target_file": "json/latest.json",
+  "counts": {
+    "before": 1511,
+    "added": 15,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1526
+  },
+  "additions": [
+    {
+      "name": "Marc Jacobs（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-09-11",
+      "category": "ファッション（常設出店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Marion Crepes（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-09-18",
+      "category": "クレープ・飲食（常設キオスク）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Anew Golf（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-10",
+      "category": "ゴルフウェア・スポーツ用品（期間限定出店、2026-12-13まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "BOSS（酒々井プレミアム・アウトレット・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（移転リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "hummel（酒々井プレミアム・アウトレット・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-23",
+      "category": "スポーツ・ファッション（移転リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Casio Watch（酒々井プレミアム・アウトレット・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-30",
+      "category": "時計・アクセサリー（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Francfranc（酒々井プレミアム・アウトレット・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-02",
+      "category": "インテリア・生活雑貨（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "栗乃薫（酒々井プレミアム・アウトレット催事）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-02",
+      "category": "和栗モンブラン（期間限定キッチンカー、2026-11-15まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Save The Duck（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-03",
+      "category": "ファッション（期間限定出店、2027-01-31まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Mizuno（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-03",
+      "category": "スポーツ用品（期間限定出店、2027年7月下旬予定まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "ABC-MART（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-05",
+      "category": "シューズ・ファッション（常設出店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "モンリブラン（酒々井プレミアム・アウトレット催事）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-06",
+      "category": "ワッフル専門店（期間限定催事、2026-11-15まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Unfilo / Steppi（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-04",
+      "category": "ファッション・シューズ（期間限定出店、2027-02-28まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-17",
+      "category": "ベビー・キッズ服（期間限定出店、2027-02-28まで）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    },
+    {
+      "name": "ReFa（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-18",
+      "category": "美容雑貨・美容機器（常設出店）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "verification": "三菱地所・サイモン株式会社の公式発表で店舗名・形態・出店日を確認。催事2件は期間と会場も確認"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "https://prtimes.jp/main/html/rd/p/000000810.000009047.html",
+      "publisher": "三菱地所・サイモン株式会社",
+      "result": "秋冬13ブランドの出店日・形態を確認。新規・リニューアル13レコードを追加"
+    },
+    {
+      "source": "https://www.lawson.co.jp/newstore/smt/",
+      "publisher": "ローソン",
+      "result": "公式掲載34店舗を照合、34件すべて既存登録済み"
+    },
+    {
+      "source": "https://www.cando-web.co.jp/news/2026/",
+      "publisher": "キャンドゥ",
+      "result": "11月新店6店舗を照合、6件すべて既存登録済み"
+    },
+    {
+      "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "publisher": "株式会社ジーアイビー（ブルースカイランドリー運営）",
+      "result": "2026年11月新店10店舗を照合、10件すべて既存登録済み"
+    },
+    {
+      "source": "https://www.gundam-base.net/news/81618.html",
+      "publisher": "THE GUNDAM BASE / BANDAI SPIRITS",
+      "result": "THE GUNDAM BASE SHIBUYA（2026-11-20）は既存登録済み。重複追加なし"
+    }
+  ],
+  "existing_matches": {
+    "lawson_official_newstore_count": 34,
+    "lawson_matched": 34,
+    "cando_november_count": 6,
+    "cando_matched": 6,
+    "blue_sky_november_count": 10,
+    "blue_sky_matched": 10,
+    "gundam_base_shibuya": "既存登録済み"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "all_15_additions_present_exactly_once": true,
+    "existing_records_preserved": true,
+    "readback_verified": true
+  },
+  "save": {
+    "latest_commit_sha": "2a879db9b696620c9384aa76e8d23e856d998e39",
+    "latest_blob_sha": "b1f88268cde0a620dc5a266583612fef9f0b65a1",
+    "latest_readback_count": 1526
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者・店舗の網羅性は未確認",
+    "酒々井プレミアム・アウトレットの公式発表にある各店舗の実際の営業開始後の現地稼働確認は未実施。出店日・形態は運営会社発表に基づく",
+    "Mizunoの出店終了時期は2027年7月下旬予定で、具体的な終了日は未確定"
+  ],
+  "automation_status": {
+    "enabled": true,
+    "schedule": "hourly",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "current_run_recorded_status": "in_progress",
+    "schedule_changed": false
+  }
+}
