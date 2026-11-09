@@ -1,7 +1,7 @@
 {
   "period": "2026-09-18/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T07:55:29+09:00",
+  "updatetime": "2026-11-09T08:59:09+09:00",
   "items": [
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
@@ -1250,6 +1250,13 @@
       "category": "ファッション・アウトレット（常設店）"
     },
     {
+      "name": "Casa de Amigos 那覇国際通り店",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "opening_date": "2026-10-09",
+      "category": "メキシコ料理レストラン"
+    },
+    {
       "name": "DÉPAREILLÉ（東京ミッドタウン）",
       "prefecture": "東京都",
       "city": "港区",
@@ -1542,6 +1549,13 @@
       "city": "桑名市",
       "opening_date": "2026-10-10",
       "category": "ファッション（リニューアル）"
+    },
+    {
+      "name": "あぐー豚しゃぶしゃぶ専門店 オーシャンBoo！ 宮古島店",
+      "prefecture": "沖縄県",
+      "city": "宮古島市",
+      "opening_date": "2026-10-10",
+      "category": "しゃぶしゃぶ専門店"
     },
     {
       "name": "ここの屋",
@@ -2839,6 +2853,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "SuiSavon-首里石鹸- 石垣空港ギャラリーショップ",
+      "prefecture": "沖縄県",
+      "city": "石垣市",
+      "opening_date": "2026-10-26",
+      "category": "スキンケア・石鹸専門店"
+    },
+    {
       "name": "沖縄琉球しゃぶしゃぶ くろ凪",
       "prefecture": "愛知県",
       "city": "名古屋市中村区",
@@ -3376,6 +3397,13 @@
       "city": "富田林市",
       "opening_date": "2026-10-29",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "FREAK'S STORE 沖縄・浦添 PARCO CITY",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-29",
+      "category": "アパレル・セレクトショップ"
     },
     {
       "name": "Maker’s Watch Knot（渋谷スクランブルスクエア店）",
@@ -3938,6 +3966,13 @@
       "category": "スポーツ・ファッション（アウトレット）"
     },
     {
+      "name": "SEGA POP-UP SHOP in 沖縄PARCO CITY",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-30",
+      "category": "ゲーム・キャラクターグッズ（期間限定ポップアップ）"
+    },
+    {
       "name": "STANDARD DONUTS 天神西通り店",
       "prefecture": "福岡県",
       "city": "福岡市中央区",
@@ -3964,6 +3999,13 @@
       "city": "刈谷市",
       "opening_date": "2026-10-30",
       "category": "ファッション・カジュアルウェア"
+    },
+    {
+      "name": "Wpc. POP-UP SHOP（浦添PARCO CITY）",
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "opening_date": "2026-10-30",
+      "category": "傘・レイングッズ（期間限定ポップアップ）"
     },
     {
       "name": "YOGURT WORLD 神戸マルイ店",
@@ -4531,6 +4573,13 @@
       "city": "大阪市住之江区",
       "opening_date": "2026-11-01",
       "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "STPR Family STORE - DREAM LAND -",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-01",
+      "category": "アーティスト公式グッズショップ"
     },
     {
       "name": "STUDIO IVY 東三国店",
@@ -5366,6 +5415,13 @@
       "category": "サンドイッチ専門店"
     },
     {
+      "name": "chocobari 新宿御苑店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-06",
+      "category": "美容鍼・鍼灸サロン"
+    },
+    {
       "name": "DAISO フェアモール福井店",
       "prefecture": "福井県",
       "city": "福井市",
@@ -5497,6 +5553,13 @@
       "city": "岡山市北区",
       "opening_date": "2026-11-06",
       "category": "スクイーズ専門店・ホビーショップ"
+    },
+    {
+      "name": "Re:CENO 大阪店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-06",
+      "category": "家具・インテリアショップ"
     },
     {
       "name": "ReD イオンモール倉敷店",
@@ -5975,32 +6038,18 @@
       "category": "保険相談・保険ショップ"
     },
     {
-      "name": "餃子の王将 都島本通店",
-      "prefecture": "大阪府",
-      "city": "大阪市都島区",
-      "opening_date": "2026-11-06",
-      "category": "中華料理"
-    },
-    {
-      "name": "Re:CENO 大阪店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-06",
-      "category": "家具・インテリアショップ"
-    },
-    {
-      "name": "chocobari 新宿御苑店",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-06",
-      "category": "美容鍼・鍼灸サロン"
-    },
-    {
       "name": "保険見直し本舗 イオンモール天童店",
       "prefecture": "山形県",
       "city": "天童市",
       "opening_date": "2026-11-06",
       "category": "保険相談・保険ショップ"
+    },
+    {
+      "name": "餃子の王将 都島本通店",
+      "prefecture": "大阪府",
+      "city": "大阪市都島区",
+      "opening_date": "2026-11-06",
+      "category": "中華料理"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -6031,11 +6080,25 @@
       "category": "公式ライセンス商品・期間限定ポップアップストア"
     },
     {
+      "name": "KINDCARE 京王新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-07",
+      "category": "ヘルスサポート用品・介護用品（リニューアル）"
+    },
+    {
       "name": "Pierre Marcolini（あみプレミアム・アウトレット期間限定店）",
       "prefecture": "茨城県",
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-07",
       "category": "チョコレート（期間限定店）"
+    },
+    {
+      "name": "WIND AND SEA FUKUOKA",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-07",
+      "category": "アパレル・ファッション"
     },
     {
       "name": "オフハウス イオン乙金店",
@@ -6094,11 +6157,25 @@
       "category": "からあげ専門店"
     },
     {
+      "name": "高価買取おたからや ニチエー瀬戸店",
+      "prefecture": "広島県",
+      "city": "福山市",
+      "opening_date": "2026-11-07",
+      "category": "買取専門店"
+    },
+    {
       "name": "松屋 大正駅前店",
       "prefecture": "大阪府",
       "city": "大阪市",
       "opening_date": "2026-11-07",
       "category": "牛丼・定食"
+    },
+    {
+      "name": "大関屋青果店 祖師ヶ谷店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-07",
+      "category": "青果店（リニューアル）"
     },
     {
       "name": "日光茶屋たばねのし",
@@ -6113,34 +6190,6 @@
       "city": "港区",
       "opening_date": "2026-11-07",
       "category": "韓国料理（期間限定POPUP）"
-    },
-    {
-      "name": "WIND AND SEA FUKUOKA",
-      "prefecture": "福岡県",
-      "city": "福岡市中央区",
-      "opening_date": "2026-11-07",
-      "category": "アパレル・ファッション"
-    },
-    {
-      "name": "KINDCARE 京王新宿店",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-07",
-      "category": "ヘルスサポート用品・介護用品（リニューアル）"
-    },
-    {
-      "name": "高価買取おたからや ニチエー瀬戸店",
-      "prefecture": "広島県",
-      "city": "福山市",
-      "opening_date": "2026-11-07",
-      "category": "買取専門店"
-    },
-    {
-      "name": "大関屋青果店 祖師ヶ谷店",
-      "prefecture": "東京都",
-      "city": "世田谷区",
-      "opening_date": "2026-11-07",
-      "category": "青果店（リニューアル）"
     },
     {
       "name": "zen place pilates 新横浜",
@@ -6171,6 +6220,13 @@
       "category": "厨房機器・飲食店用品専門店"
     },
     {
+      "name": "バーガーキング ロピア滝ノ水店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-11-09",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "ワンルーク 北区黒川店",
       "prefecture": "愛知県",
       "city": "名古屋市北区",
@@ -6183,13 +6239,6 @@
       "city": "豊中市",
       "opening_date": "2026-11-09",
       "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "バーガーキング ロピア滝ノ水店",
-      "prefecture": "愛知県",
-      "city": "名古屋市緑区",
-      "opening_date": "2026-11-09",
-      "category": "ハンバーガー"
     },
     {
       "name": "chocoZAP さいたま下落合",
@@ -6332,18 +6381,18 @@
       "category": "とんかつ（営業再開）"
     },
     {
-      "name": "北新地セレブリテ（タイムアウトマーケット大阪）",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-10",
-      "category": "パティスリー"
-    },
-    {
       "name": "買取大吉 真庭みかもストア店",
       "prefecture": "岡山県",
       "city": "真庭市",
       "opening_date": "2026-11-10",
       "category": "買取専門店"
+    },
+    {
+      "name": "北新地セレブリテ（タイムアウトマーケット大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-10",
+      "category": "パティスリー"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -6358,6 +6407,13 @@
       "city": "中間市",
       "opening_date": "2026-11-11",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "FLA-LAB キャナルシティ店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-11",
+      "category": "フルーツコンセプトショップ"
     },
     {
       "name": "gashacocoビッグエコー天王寺あべの駅前",
@@ -6493,13 +6549,6 @@
       "category": "買取専門店"
     },
     {
-      "name": "老祥記（本店リニューアル）",
-      "prefecture": "兵庫県",
-      "city": "神戸市中央区",
-      "opening_date": "2026-11-11",
-      "category": "豚饅頭・中華点心（本店リニューアル）"
-    },
-    {
       "name": "博多の味やまや（キャナルシティ博多）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -6507,11 +6556,11 @@
       "category": "明太フランス専門店"
     },
     {
-      "name": "FLA-LAB キャナルシティ店",
-      "prefecture": "福岡県",
-      "city": "福岡市博多区",
+      "name": "老祥記（本店リニューアル）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
       "opening_date": "2026-11-11",
-      "category": "フルーツコンセプトショップ"
+      "category": "豚饅頭・中華点心（本店リニューアル）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -6822,6 +6871,13 @@
       "category": "カー用品リユース（10/23プレオープン、11/13グランドオープン）"
     },
     {
+      "name": "アニメイト名古屋パルコ（移転・増床リニューアル）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-13",
+      "category": "アニメ・コミック・ゲーム専門店（移転・増床リニューアル）"
+    },
+    {
       "name": "ガチャガチャの森 FOOD&TIME ISETAN OFUNA店",
       "prefecture": "神奈川県",
       "city": "横浜市栄区",
@@ -6855,6 +6911,13 @@
       "city": "江東区",
       "opening_date": "2026-11-13",
       "category": "ホビー・フィギュア・プラモデル（期間限定店）"
+    },
+    {
+      "name": "ゴンチャ ゆめタウン佐賀店",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-13",
+      "category": "ティーカフェ"
     },
     {
       "name": "セカンドストリート 浅草田原町買取専門店",
@@ -6983,6 +7046,13 @@
       "category": "ファッション・アパレル・ジュエリー・生活雑貨"
     },
     {
+      "name": "ロンハーマン タカシマヤゲートタワーモール店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・ライフスタイル（スペシャリティストア）"
+    },
+    {
       "name": "眼鏡市場 アミュプラザ鹿児島店",
       "prefecture": "鹿児島県",
       "city": "鹿児島市",
@@ -7023,27 +7093,6 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
-    },
-    {
-      "name": "ロンハーマン タカシマヤゲートタワーモール店",
-      "prefecture": "愛知県",
-      "city": "名古屋市中村区",
-      "opening_date": "2026-11-13",
-      "category": "ファッション・ライフスタイル（スペシャリティストア）"
-    },
-    {
-      "name": "アニメイト名古屋パルコ（移転・増床リニューアル）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-11-13",
-      "category": "アニメ・コミック・ゲーム専門店（移転・増床リニューアル）"
-    },
-    {
-      "name": "ゴンチャ ゆめタウン佐賀店",
-      "prefecture": "佐賀県",
-      "city": "佐賀市",
-      "opening_date": "2026-11-13",
-      "category": "ティーカフェ"
     },
     {
       "name": "chocoZAP 白井堀込",
@@ -7158,6 +7207,20 @@
       "category": "ヴィンテージブランド品専門店"
     },
     {
+      "name": "YORI PARFAIT ＆ BAR",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-16",
+      "category": "パフェ専門店・カフェバー"
+    },
+    {
+      "name": "アラン・デュカス・ショコラ・パリ／アラン・デュカス・ビスキュイ・パリ 名古屋栄三越",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-16",
+      "category": "ショコラ・ビスキュイ専門店"
+    },
+    {
       "name": "カフェ・ラデュレ 新丸ビル店",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -7184,20 +7247,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
-    },
-    {
-      "name": "YORI PARFAIT ＆ BAR",
-      "prefecture": "大阪府",
-      "city": "大阪市中央区",
-      "opening_date": "2026-11-16",
-      "category": "パフェ専門店・カフェバー"
-    },
-    {
-      "name": "アラン・デュカス・ショコラ・パリ／アラン・デュカス・ビスキュイ・パリ 名古屋栄三越",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-11-16",
-      "category": "ショコラ・ビスキュイ専門店"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -7298,6 +7347,13 @@
       "category": "モンブラン（期間限定催事）"
     },
     {
+      "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
+      "prefecture": "愛知県",
+      "city": "知多市",
+      "opening_date": "2026-11-18",
+      "category": "没入型アートミュージアム（新規開館）"
+    },
+    {
       "name": "Beisia Foods Park 幕張店",
       "prefecture": "千葉県",
       "city": "千葉市花見川区",
@@ -7317,6 +7373,13 @@
       "city": "福岡市早良区",
       "opening_date": "2026-11-18",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "KANGOL BEAUTY SHARE SALON × Mirror Mirrors",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-18",
+      "category": "美容シェアサロン・美容室専売品ショップ（リニューアル）"
     },
     {
       "name": "PISOLA東越谷店",
@@ -7424,6 +7487,13 @@
       "category": "屋内型プレイグラウンド"
     },
     {
+      "name": "バーガーキング そよらひたち野うしく店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-18",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "マインドウェイブ キャラクターショップ（グランデュオ立川 POP UP）",
       "prefecture": "東京都",
       "city": "立川市",
@@ -7457,27 +7527,6 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
-    },
-    {
-      "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
-      "prefecture": "愛知県",
-      "city": "知多市",
-      "opening_date": "2026-11-18",
-      "category": "没入型アートミュージアム（新規開館）"
-    },
-    {
-      "name": "KANGOL BEAUTY SHARE SALON × Mirror Mirrors",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-18",
-      "category": "美容シェアサロン・美容室専売品ショップ（リニューアル）"
-    },
-    {
-      "name": "バーガーキング そよらひたち野うしく店",
-      "prefecture": "茨城県",
-      "city": "牛久市",
-      "opening_date": "2026-11-18",
-      "category": "ハンバーガー"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
@@ -7520,6 +7569,13 @@
       "city": "港区",
       "opening_date": "2026-11-19",
       "category": "期間限定コラボカフェ（ヘアケアブランド）"
+    },
+    {
+      "name": "カラオケJOYJOY 白山松任バイパス店",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-11-19",
+      "category": "カラオケ・アミューズメント"
     },
     {
       "name": "カルディコーヒーファーム 新さっぽろサンピアザ店",
@@ -7632,13 +7688,6 @@
       "city": "つくば市",
       "opening_date": "2026-11-19",
       "category": "ラーメン"
-    },
-    {
-      "name": "カラオケJOYJOY 白山松任バイパス店",
-      "prefecture": "石川県",
-      "city": "白山市",
-      "opening_date": "2026-11-19",
-      "category": "カラオケ・アミューズメント"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
@@ -7879,6 +7928,13 @@
       "category": "コーヒー・輸入食品"
     },
     {
+      "name": "キャンドゥセレクト DCMニコットむかわ店",
+      "prefecture": "北海道",
+      "city": "勇払郡むかわ町",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
       "name": "ケンタッキーフライドチキン 土佐バイパス店",
       "prefecture": "高知県",
       "city": "高知市",
@@ -7926,6 +7982,20 @@
       "city": "豊島区",
       "opening_date": "2026-11-20",
       "category": "ファッション雑貨（リニューアル）"
+    },
+    {
+      "name": "バーガーキング アピタ安城南店",
+      "prefecture": "愛知県",
+      "city": "安城市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 川中島店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー"
     },
     {
       "name": "ハードオフ 大垣店",
@@ -8024,27 +8094,6 @@
       "city": "久喜市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
-    },
-    {
-      "name": "キャンドゥセレクト DCMニコットむかわ店",
-      "prefecture": "北海道",
-      "city": "勇払郡むかわ町",
-      "opening_date": "2026-11-20",
-      "category": "100円ショップ（キャンドゥセレクト）"
-    },
-    {
-      "name": "バーガーキング アピタ安城南店",
-      "prefecture": "愛知県",
-      "city": "安城市",
-      "opening_date": "2026-11-20",
-      "category": "ハンバーガー"
-    },
-    {
-      "name": "バーガーキング 川中島店",
-      "prefecture": "長野県",
-      "city": "長野市",
-      "opening_date": "2026-11-20",
-      "category": "ハンバーガー"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
@@ -8320,6 +8369,13 @@
       "category": "キャラクターグッズ・雑貨"
     },
     {
+      "name": "バーガーキング 岡山津高店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-24",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "ハリー・ポッター マホウドコロ（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -8381,13 +8437,6 @@
       "city": "大田区",
       "opening_date": "2026-11-24",
       "category": "ラーメン"
-    },
-    {
-      "name": "バーガーキング 岡山津高店",
-      "prefecture": "岡山県",
-      "city": "岡山市北区",
-      "opening_date": "2026-11-24",
-      "category": "ハンバーガー"
     },
     {
       "name": "chocoZAP うきは吉井",
@@ -8670,6 +8719,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "#C-pla イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店"
+    },
+    {
       "name": "a.v.v イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -8691,11 +8747,53 @@
       "category": "100円ショップ"
     },
     {
+      "name": "Cat Café MOFF イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "猫カフェ"
+    },
+    {
+      "name": "cause イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "セレクトショップ・アパレル"
+    },
+    {
+      "name": "Francfranc イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "インテリア・生活雑貨"
+    },
+    {
+      "name": "FUJIYA CONFECTIONERY イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "洋菓子"
+    },
+    {
       "name": "GO NUTTS イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "ファッション・アパレル"
+    },
+    {
+      "name": "Hobby Zone イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ホビー・模型"
+    },
+    {
+      "name": "KEYUCA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・インテリア"
     },
     {
       "name": "LEPSIM イオンモール伊達店",
@@ -8712,6 +8810,34 @@
       "category": "ファッション"
     },
     {
+      "name": "LOURDES イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "セレクトショップ・ファッション"
+    },
+    {
+      "name": "MEDOC イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション"
+    },
+    {
+      "name": "MIRAINO イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "PETEMO イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ペット用品・サービス"
+    },
+    {
       "name": "PRESS BUTTER SAND ららぽーと名古屋みなとアクルス POPUP",
       "prefecture": "愛知県",
       "city": "名古屋市港区",
@@ -8719,11 +8845,32 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "R＋ PLUS REGAL CORPORATION イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ・ファッショングッズ"
+    },
+    {
       "name": "SANYO Style STORE PLUS イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "ファッション・セレクトショップ"
+    },
+    {
+      "name": "SKECHERS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ"
+    },
+    {
+      "name": "SUBWAY イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
     },
     {
       "name": "THE GUNDAM BASE POP-UP in NAGANO",
@@ -8745,6 +8892,20 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "メガネ・アイウェア"
+    },
+    {
+      "name": "アディダス ストア by ABC-MART イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ・アパレル・シューズ"
+    },
+    {
+      "name": "イオンスタイル伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "総合スーパー"
     },
     {
       "name": "イオンフィナンシャルサービス イオンモール伊達店",
@@ -8782,11 +8943,39 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "カルディコーヒーファーム イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "コーヒー豆・輸入食品"
+    },
+    {
+      "name": "グラニフ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・キャラクター雑貨"
+    },
+    {
       "name": "ケンタッキーフライドチキン イズミヤ長岡店",
       "prefecture": "京都府",
       "city": "長岡京市",
       "opening_date": "2026-11-27",
       "category": "ファストフード"
+    },
+    {
+      "name": "コジマ×ビックカメラ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "家電量販店"
+    },
+    {
+      "name": "ゴンチャ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
     },
     {
       "name": "サーティワンアイスクリーム イオンモール伊達店",
@@ -8796,11 +8985,25 @@
       "category": "アイスクリーム"
     },
     {
+      "name": "ジーユー イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション・アパレル"
+    },
+    {
       "name": "しゃぶ葉 岐阜アクティブＧ店",
       "prefecture": "岐阜県",
       "city": "岐阜市",
       "opening_date": "2026-11-27",
       "category": "しゃぶしゃぶ・食べ放題"
+    },
+    {
+      "name": "スーパースポーツゼビオ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ用品"
     },
     {
       "name": "スマートクール イオンモール伊達店",
@@ -8831,6 +9034,27 @@
       "category": "100円ショップ"
     },
     {
+      "name": "ソフと。イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ソフトクリーム・スイーツ"
+    },
+    {
+      "name": "ダcafe 八百屋から始まる、果物の物語 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "カフェ・青果・スイーツ"
+    },
+    {
+      "name": "ダイユーエイト（イオンモール伊達 外部棟）",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ホームセンター"
+    },
+    {
       "name": "チーズガーデン イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -8852,6 +9076,27 @@
       "category": "とんかつ専門店"
     },
     {
+      "name": "ドンク／ミニワン イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "バーガーキング 3号新宮店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡新宮町",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "バーミヤン イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -8864,6 +9109,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-27",
       "category": "中華レストラン"
+    },
+    {
+      "name": "ハニーズ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "レディース・キッズファッション"
     },
     {
       "name": "パルク ドゥ ベーグ プチ（コクーンシティ）",
@@ -8894,11 +9146,25 @@
       "category": "コインランドリー"
     },
     {
+      "name": "ペットワールド アミーゴ（イオンモール伊達 外部棟）",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ペット用品・サービス"
+    },
+    {
       "name": "マクドナルド 旭ヶ丘店",
       "prefecture": "北海道",
       "city": "札幌市中央区",
       "opening_date": "2026-11-27",
       "category": "ファストフード"
+    },
+    {
+      "name": "ムラサキスポーツ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツ・アパレル"
     },
     {
       "name": "ユザワヤ イオンモール伊達店",
@@ -8915,69 +9181,6 @@
       "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
-      "name": "ラーメン魁力屋 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ラーメン"
-    },
-    {
-      "name": "牛角焼肉食堂 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "焼肉食堂・フードコート"
-    },
-    {
-      "name": "銀座惣菜店 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "炭火焼鳥・惣菜"
-    },
-    {
-      "name": "月島もんじゃ こてつ イオンモール伊達",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "もんじゃ焼き"
-    },
-    {
-      "name": "好日山荘 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "登山・アウトドア用品"
-    },
-    {
-      "name": "松屋 神楽坂店（営業再開）",
-      "prefecture": "東京都",
-      "city": "新宿区",
-      "opening_date": "2026-11-27",
-      "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "築地食堂 源ちゃん イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "海鮮食堂・定食・丼"
-    },
-    {
-      "name": "天丼専門店 ゑるびす イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "天丼専門店"
-    },
-    {
-      "name": "イオンスタイル伊達",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "総合スーパー"
-    },
-    {
       "name": "ユニクロ イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -8985,193 +9188,11 @@
       "category": "ファッション・アパレル"
     },
     {
-      "name": "ジーユー イオンモール伊達店",
+      "name": "ラーメン魁力屋 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "ファッション・アパレル"
-    },
-    {
-      "name": "無印良品 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "衣料品・生活雑貨"
-    },
-    {
-      "name": "岩瀬書店 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "書籍・文具・雑貨"
-    },
-    {
-      "name": "MIRAINO イオンモール伊達",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "アミューズメント施設"
-    },
-    {
-      "name": "コジマ×ビックカメラ イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "家電量販店"
-    },
-    {
-      "name": "スーパースポーツゼビオ イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "スポーツ用品"
-    },
-    {
-      "name": "グラニフ イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ファッション・キャラクター雑貨"
-    },
-    {
-      "name": "ハニーズ イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "レディース・キッズファッション"
-    },
-    {
-      "name": "R＋ PLUS REGAL CORPORATION イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "シューズ・ファッショングッズ"
-    },
-    {
-      "name": "MEDOC イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ファッション"
-    },
-    {
-      "name": "LOURDES イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "セレクトショップ・ファッション"
-    },
-    {
-      "name": "Francfranc イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "インテリア・生活雑貨"
-    },
-    {
-      "name": "KEYUCA イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "生活雑貨・インテリア"
-    },
-    {
-      "name": "アディダス ストア by ABC-MART イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "スポーツ・アパレル・シューズ"
-    },
-    {
-      "name": "cause イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "セレクトショップ・アパレル"
-    },
-    {
-      "name": "ムラサキスポーツ イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "スポーツ・アパレル"
-    },
-    {
-      "name": "SKECHERS イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "シューズ"
-    },
-    {
-      "name": "Hobby Zone イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ホビー・模型"
-    },
-    {
-      "name": "#C-pla イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "カプセルトイ専門店"
-    },
-    {
-      "name": "PETEMO イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ペット用品・サービス"
-    },
-    {
-      "name": "Cat Café MOFF イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "猫カフェ"
-    },
-    {
-      "name": "ドンク／ミニワン イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ベーカリー"
-    },
-    {
-      "name": "ソフと。イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ソフトクリーム・スイーツ"
-    },
-    {
-      "name": "FUJIYA CONFECTIONERY イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "洋菓子"
-    },
-    {
-      "name": "カルディコーヒーファーム イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "コーヒー豆・輸入食品"
-    },
-    {
-      "name": "久世福商店 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "食品・グロサリー"
-    },
-    {
-      "name": "バーガーキング イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ハンバーガー"
+      "category": "ラーメン"
     },
     {
       "name": "りんごとバター。／苺のワルツ。 イオンモール伊達店",
@@ -9188,46 +9209,11 @@
       "category": "紅茶・茶葉"
     },
     {
-      "name": "ゴンチャ イオンモール伊達店",
+      "name": "伊達市 観光物産ショップ あい～な伊達",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "ティーカフェ"
-    },
-    {
-      "name": "牛たん炭焼 利久 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "牛たん料理"
-    },
-    {
-      "name": "君のハンバーグを食べたい イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ハンバーグ専門店"
-    },
-    {
-      "name": "麺場 田所商店 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "味噌ラーメン"
-    },
-    {
-      "name": "味工房 極 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "からあげ・惣菜"
-    },
-    {
-      "name": "小木曽製粉所 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "信州そば"
+      "category": "観光物産・地域特産品"
     },
     {
       "name": "温野菜ごはんがおいしいスープ食堂 イオンモール伊達店",
@@ -9237,6 +9223,83 @@
       "category": "スープ・和食"
     },
     {
+      "name": "岩瀬書店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "書籍・文具・雑貨"
+    },
+    {
+      "name": "久世福商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "食品・グロサリー"
+    },
+    {
+      "name": "牛たん炭焼 利久 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "牛たん料理"
+    },
+    {
+      "name": "牛角焼肉食堂 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "焼肉食堂・フードコート"
+    },
+    {
+      "name": "銀座惣菜店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "君のハンバーグを食べたい イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーグ専門店"
+    },
+    {
+      "name": "月島もんじゃ こてつ イオンモール伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "もんじゃ焼き"
+    },
+    {
+      "name": "好日山荘 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "登山・アウトドア用品"
+    },
+    {
+      "name": "小木曽製粉所 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "信州そば"
+    },
+    {
+      "name": "松屋 神楽坂店（営業再開）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-27",
+      "category": "牛丼・定食（営業再開）"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "海鮮食堂・定食・丼"
+    },
+    {
       "name": "長崎ちゃんぽんリンガーハット イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -9244,11 +9307,11 @@
       "category": "ちゃんぽん"
     },
     {
-      "name": "SUBWAY イオンモール伊達店",
+      "name": "天丼専門店 ゑるびす イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "サンドイッチ"
+      "category": "天丼専門店"
     },
     {
       "name": "島村楽器 イオンモール伊達店",
@@ -9258,39 +9321,25 @@
       "category": "楽器販売・音楽教室"
     },
     {
-      "name": "ダcafe 八百屋から始まる、果物の物語 イオンモール伊達店",
+      "name": "味工房 極 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "カフェ・青果・スイーツ"
+      "category": "からあげ・惣菜"
     },
     {
-      "name": "伊達市 観光物産ショップ あい～な伊達",
+      "name": "無印良品 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "観光物産・地域特産品"
+      "category": "衣料品・生活雑貨"
     },
     {
-      "name": "ダイユーエイト（イオンモール伊達 外部棟）",
+      "name": "麺場 田所商店 イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
-      "category": "ホームセンター"
-    },
-    {
-      "name": "ペットワールド アミーゴ（イオンモール伊達 外部棟）",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "ペット用品・サービス"
-    },
-    {
-      "name": "バーガーキング 3号新宮店",
-      "prefecture": "福岡県",
-      "city": "糟屋郡新宮町",
-      "opening_date": "2026-11-27",
-      "category": "ハンバーガー"
+      "category": "味噌ラーメン"
     },
     {
       "name": "Bistro IKEDAYAMA",
@@ -9552,6 +9601,20 @@
       "category": "美容室・ヘッドスパ"
     },
     {
+      "name": "バーガーキング おやまゆうえんハーヴェストウォーク店",
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "opening_date": "2026-11-30",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 青森ELM店",
+      "prefecture": "青森県",
+      "city": "五所川原市",
+      "opening_date": "2026-11-30",
+      "category": "ハンバーガー"
+    },
+    {
       "name": "ビストロ ア ビエント（SHIBUYA PANORAMA）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -9578,20 +9641,6 @@
       "city": "渋谷区",
       "opening_date": "2026-11-30",
       "category": "鮨割烹（リニューアル）"
-    },
-    {
-      "name": "バーガーキング おやまゆうえんハーヴェストウォーク店",
-      "prefecture": "栃木県",
-      "city": "小山市",
-      "opening_date": "2026-11-30",
-      "category": "ハンバーガー"
-    },
-    {
-      "name": "バーガーキング 青森ELM店",
-      "prefecture": "青森県",
-      "city": "五所川原市",
-      "opening_date": "2026-11-30",
-      "category": "ハンバーガー"
     },
     {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
@@ -9629,18 +9678,18 @@
       "category": "キャラクター公式ショップ（リニューアル）"
     },
     {
-      "name": "秋野テーブル",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-12-01",
-      "category": "レストラン（新業態）"
-    },
-    {
       "name": "バーガーキング イオンモール旭川駅前店",
       "prefecture": "北海道",
       "city": "旭川市",
       "opening_date": "2026-12-01",
       "category": "ハンバーガー"
+    },
+    {
+      "name": "秋野テーブル",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-01",
+      "category": "レストラン（新業態）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -9907,6 +9956,13 @@
       "city": "中野区",
       "opening_date": "2026-12-09",
       "category": "旅行代理店"
+    },
+    {
+      "name": "HRMT BEYOND",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-09",
+      "category": "フランス料理レストラン"
     },
     {
       "name": "KUA`AINA’s Smashed Burger（アトレ中野）",
@@ -10357,13 +10413,6 @@
       "category": "惣菜・和食"
     },
     {
-      "name": "HRMT BEYOND",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-12-09",
-      "category": "フランス料理レストラン"
-    },
-    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -10399,13 +10448,6 @@
       "category": "時計・アクセサリー"
     },
     {
-      "name": "バーガーキング 半田旭町店",
-      "prefecture": "愛知県",
-      "city": "半田市",
-      "opening_date": "2026-12-15",
-      "category": "ハンバーガー"
-    },
-    {
       "name": "バーガーキング MEGAドン・キホーテUNY市原店",
       "prefecture": "千葉県",
       "city": "市原市",
@@ -10423,6 +10465,13 @@
       "name": "バーガーキング ハンビー北谷店",
       "prefecture": "沖縄県",
       "city": "中頭郡北谷町",
+      "opening_date": "2026-12-15",
+      "category": "ハンバーガー"
+    },
+    {
+      "name": "バーガーキング 半田旭町店",
+      "prefecture": "愛知県",
+      "city": "半田市",
       "opening_date": "2026-12-15",
       "category": "ハンバーガー"
     },
