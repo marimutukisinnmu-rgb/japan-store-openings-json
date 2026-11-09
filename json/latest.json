@@ -1,8 +1,15 @@
 {
-  "period": "2026-09-18/2027-02-11",
+  "period": "2026-09-11/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T08:59:09+09:00",
+  "updatetime": "2026-11-09T10:01:37+09:00",
   "items": [
+    {
+      "name": "Marc Jacobs（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-09-11",
+      "category": "ファッション（常設出店）"
+    },
     {
       "name": "Verdy’s Postal Service（心斎橋PARCO）",
       "prefecture": "大阪府",
@@ -58,6 +65,13 @@
       "city": "市川市",
       "opening_date": "2026-09-18",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "Marion Crepes（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-09-18",
+      "category": "クレープ・飲食（常設キオスク）"
     },
     {
       "name": "Eleanor spa&treatment 高槻店",
@@ -1593,6 +1607,13 @@
       "category": "居酒屋"
     },
     {
+      "name": "Anew Golf（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-10",
+      "category": "ゴルフウェア・スポーツ用品（期間限定出店、2026-12-13まで）"
+    },
+    {
       "name": "BEAMS SPORTS（都立明治公園）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -2732,6 +2753,20 @@
       "city": "相模原市南区",
       "opening_date": "2026-10-23",
       "category": "保険代理店"
+    },
+    {
+      "name": "BOSS（酒々井プレミアム・アウトレット・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（移転リニューアル）"
+    },
+    {
+      "name": "hummel（酒々井プレミアム・アウトレット・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-23",
+      "category": "スポーツ・ファッション（移転リニューアル）"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -4197,6 +4232,13 @@
       "category": "スーパーマーケット（生鮮食品）"
     },
     {
+      "name": "Casio Watch（酒々井プレミアム・アウトレット・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-10-30",
+      "category": "時計・アクセサリー（リニューアル）"
+    },
+    {
       "name": "ASICS PICKLEBALL CONNECT",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -4869,6 +4911,20 @@
       "category": "買取専門店"
     },
     {
+      "name": "Francfranc（酒々井プレミアム・アウトレット・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-02",
+      "category": "インテリア・生活雑貨（リニューアル）"
+    },
+    {
+      "name": "栗乃薫（酒々井プレミアム・アウトレット催事）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-02",
+      "category": "和栗モンブラン（期間限定キッチンカー、2026-11-15まで）"
+    },
+    {
       "name": "BONAVENTURA 丸ビル店",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -4972,6 +5028,20 @@
       "city": "入間市",
       "opening_date": "2026-11-03",
       "category": "住宅展示場・モデルハウス（リニューアル）"
+    },
+    {
+      "name": "Save The Duck（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-03",
+      "category": "ファッション（期間限定出店、2027-01-31まで）"
+    },
+    {
+      "name": "Mizuno（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-03",
+      "category": "スポーツ用品（期間限定出店、2027年7月下旬予定まで）"
     },
     {
       "name": "MARcourt DESIGNEYE（多摩南大沢）",
@@ -5392,6 +5462,13 @@
       "city": "港区",
       "opening_date": "2026-11-05",
       "category": "寿司店"
+    },
+    {
+      "name": "ABC-MART（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-05",
+      "category": "シューズ・ファッション（常設出店）"
     },
     {
       "name": "Acne Studios（ジャズドリーム長島）",
@@ -6050,6 +6127,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "モンリブラン（酒々井プレミアム・アウトレット催事）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-11-06",
+      "category": "ワッフル専門店（期間限定催事、2026-11-15まで）"
     },
     {
       "name": "ASMO academy 霧島国分校",
@@ -9867,6 +9951,13 @@
       "category": "食品スーパー（リニューアル再開）"
     },
     {
+      "name": "Unfilo / Steppi（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-04",
+      "category": "ファッション・シューズ（期間限定出店、2027-02-28まで）"
+    },
+    {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
       "prefecture": "東京都",
       "city": "中野区",
@@ -10476,6 +10567,13 @@
       "category": "ハンバーガー"
     },
     {
+      "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-17",
+      "category": "ベビー・キッズ服（期間限定出店、2027-02-28まで）"
+    },
+    {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -10488,6 +10586,13 @@
       "city": "福岡市博多区",
       "opening_date": "2026-12-18",
       "category": "映画館（リニューアル）"
+    },
+    {
+      "name": "ReFa（酒々井プレミアム・アウトレット）",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "opening_date": "2026-12-18",
+      "category": "美容雑貨・美容機器（常設出店）"
     },
     {
       "name": "アイスヴィレッジ（星野リゾート トマム）",
