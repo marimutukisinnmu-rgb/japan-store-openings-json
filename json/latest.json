@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-09T13:05:00+09:00",
+  "updatetime": "2026-11-09T14:57:22+09:00",
   "items": [
     {
       "name": "ボールアンドチェーン（グランベリーパーク）",
@@ -7312,6 +7312,20 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "カラオケまねきねこ 柳井店",
+      "prefecture": "山口県",
+      "city": "柳井市",
+      "opening_date": "2026-11-13",
+      "category": "カラオケ"
+    },
+    {
+      "name": "ミスターミニット アリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-11-13",
+      "category": "靴修理・合鍵・各種修理"
+    },
+    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -8311,6 +8325,13 @@
       "city": "久喜市",
       "opening_date": "2026-11-20",
       "category": "生活雑貨・食品・衣服"
+    },
+    {
+      "name": "PLAZA TOKYO+ 新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "ライフスタイルストア・カフェ併設"
     },
     {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
