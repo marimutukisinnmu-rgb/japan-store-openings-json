@@ -1,0 +1,137 @@
+{
+  "run_at": "2026-11-10T03:04:29+09:00",
+  "target": "json/latest.json",
+  "before": {
+    "count": 1592,
+    "blob_sha": "b2e5a0f7b384dd2117ade0a7524e16ba75c94ebb",
+    "period": "2026-09-04/2027-02-11"
+  },
+  "added": [
+    {
+      "name": "リユース相談本舗 港北東急SC店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-09",
+      "category": "リユース・生活整理相談"
+    },
+    {
+      "name": "EXPO 2027 オフィシャルストア JR横浜駅南改札内店",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "公式グッズショップ"
+    },
+    {
+      "name": "炭焼うなぎふじさん 半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2026-11-21",
+      "category": "うなぎ専門店"
+    },
+    {
+      "name": "TAROKO PICKLEBALL CLUB 下総中山",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-22",
+      "category": "ピックルボール施設（プレオープン、グランドオープン2026-12-01）"
+    },
+    {
+      "name": "スペラボ 横浜六ツ川店",
+      "prefecture": "神奈川県",
+      "city": "横浜市南区",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
+      "name": "BONTEMPS 福岡薬院店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-05",
+      "category": "ドーナツカフェ"
+    },
+    {
+      "name": "ウェンディーズ・ファーストキッチン ワカバウォーク店",
+      "prefecture": "埼玉県",
+      "city": "鶴ヶ島市",
+      "opening_date": "2026-12-05",
+      "category": "ファストフード（ブランド変更・リニューアル予定）"
+    }
+  ],
+  "added_count": 7,
+  "corrections": 0,
+  "deletions": 0,
+  "after": {
+    "count": 1599,
+    "updatetime": "2026-11-10T03:04:29+09:00",
+    "period": "2026-09-04/2027-02-11",
+    "commit_sha": "7dd674db57dd37e2a1e3ec237d1f8701f757ebf0",
+    "blob_sha": "caa3c269229fa620faae1c92dd1c321767e5543f"
+  },
+  "sources": [
+    {
+      "name": "株式会社ビープライス／リユース相談本舗 港北東急SC店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000024.000047132.html",
+      "supports": "2026-11-09開店、神奈川県横浜市都筑区、港北 TOKYU S.C. B館4階"
+    },
+    {
+      "name": "株式会社JR東日本クロスステーション／EXPO 2027 オフィシャルストア JR横浜駅南改札内店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001286.000082978.html",
+      "supports": "2026-11-20開店、神奈川県横浜市西区高島2-16-1"
+    },
+    {
+      "name": "株式会社Act Community／炭焼うなぎふじさん 半田店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000048.000145487.html",
+      "supports": "2026-11-21開店、愛知県半田市岩滑中町3-101"
+    },
+    {
+      "name": "株式会社TAROKO／TAROKO PICKLEBALL CLUB 下総中山",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000185886.html",
+      "supports": "2026-11-22プレオープン、2026-12-01グランドオープン、千葉県船橋市本中山2-572-2"
+    },
+    {
+      "name": "株式会社UKCorporation／スペラボ 横浜六ツ川店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000876.000062166.html",
+      "supports": "2026-12-01開店、神奈川県横浜市南区六ツ川1-296-1"
+    },
+    {
+      "name": "ワンズトライン株式会社／BONTEMPS 福岡薬院店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000353.000061742.html",
+      "supports": "2026-12-05開店、福岡県福岡市中央区薬院1-5-25"
+    },
+    {
+      "name": "ワカバウォーク公式ショップニュース／ウェンディーズ・ファーストキッチン",
+      "url": "https://www.wakaba-walk.com/news/",
+      "supports": "2026-12-05リニューアル予定、埼玉県鶴ヶ島市"
+    }
+  ],
+  "held": [
+    {
+      "name": "Richmond Hotel Premier Asakusa",
+      "reason": "既存JSONに2026-11-08全館リニューアルとして登録済み。"
+    },
+    {
+      "name": "hololive production official shop in Tokyo Station",
+      "reason": "既存JSONに2026-11-13移転リニューアルとして登録済み。"
+    }
+  ],
+  "duplicate_candidates_not_modified": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_keys": 0,
+    "old_records_retained": 1592,
+    "old_records_unchanged": true,
+    "added_records_verified": 7,
+    "post_fetch_sha_matches_update": true,
+    "post_write_success": true
+  },
+  "task_check": {
+    "is_enabled": true,
+    "schedule": "HOURLY",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": null,
+    "changed": false
+  }
+}
