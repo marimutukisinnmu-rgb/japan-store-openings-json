@@ -1,0 +1,95 @@
+{
+  "run_at": "2026-11-09T13:58:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "baseline": {
+    "blob_sha": "16fd48f029c22b68520232cee2b25a06cb5f5bef",
+    "updatetime": "2026-11-09T13:05:00+09:00",
+    "period": "2026-09-04/2027-02-11",
+    "item_count": 1546
+  },
+  "source_checks": [
+    {
+      "source": "Japan KFC official November 2026 new-store update",
+      "url": "https://japan.kfc.co.jp/news_release/8187",
+      "facts": "Confirmed Minatogawa (2026-11-04), Aeon Town Yamashina Nagitsuji (2026-11-05), Aeon Mall Kahoku (2026-11-17), Sakai Obadera (2026-11-24), and Aeon Town Kurume Higashikushihara (2026-11-26). All five are already represented in latest.json."
+    },
+    {
+      "source": "Matsuya Foods official new-store / temporary-closure list",
+      "url": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "facts": "The official search result listed eight new locations: Suminoe Shin-Kitajima (2026-11-21), Yasu (2026-11-20), Kurashiki Oshima (2026-11-20), Yamagata Mamigasaki (2026-11-12), Taisho Station Front (2026-11-07), Okawa (2026-11-05), Asahikawa Nagayama (2026-11-01), and Kani (2026-10-30). All eight are already represented in latest.json.",
+      "limitation": "Opening the full page timed out twice; the official search result excerpt was accessible and contained the eight rows."
+    },
+    {
+      "source": "Skylark official Gusto store pages",
+      "url": "https://store-info.skylark.co.jp/gusto/map/017781/",
+      "facts": "Confirmed Gusto Niigata Station Front (2026-11-15), Soyora Iida Apple Road (2026-11-17), and Aeon Mall Fukuoka (2026-11-20). All three are already represented in latest.json."
+    },
+    {
+      "source": "Yudetaro official new-store notices and store pages",
+      "url": "https://yudetaro.jp/news/",
+      "facts": "Checked the Motsujiro co-located Yudetaro openings at Rifu (2026-11-04), Kawashichi (2026-11-06), Tagawa (2026-11-25), and Kumiyama (2026-11-27). All four are already represented in latest.json. The official area pages confirm addresses for Kumiyama and Tagawa."
+    },
+    {
+      "source": "JR West SC Development official LUCUA SOUTH phase-two tenant announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "facts": "Compared the official 28-store November 24 list against latest.json: all 28 are represented. The dated December openings TAMASHII NATIONS STORE OSAKA (2026-12-02), THE★JOJO WORLD OSAKA (2026-12-04), and SQUARE ENIX official goods shop (2026-12-23) are also represented. Namco is described only as 'early December' without an exact date, so it was not added."
+    },
+    {
+      "source": "Tokyu Malls Development official Etomo Kikuna opening and tenant announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000045951.html",
+      "facts": "Confirmed the facility opening on 2026-12-04 and six new/reopened tenant records: Tokyu Store reopening, Tully's Coffee, Mister Waffle, Beard Papa, Aoyama Flower Market, and QB PREMIUM. The three continuing businesses (Shibusoba, LAWSON+toks, and MUFG ATM) were correctly not treated as new openings. Existing facility and six tenant records are already present."
+    },
+    {
+      "source": "Second Retailing official November 2026 opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "facts": "Checked the 12-store group announcement; nine domestic entries (four Second Street, two Luck Rack, one OKURA, two Capsule Rakkyoku) are already represented. Three overseas stores are outside this Japan-only dataset."
+    },
+    {
+      "source": "Tully's Coffee official 2026 press release index",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "facts": "Confirmed Tully's Coffee &TEA Musashi Kosugi Tokyu Square (2026-10-30) and Tully's Coffee Otaru Port Square (2026-10-16); both are already represented."
+    },
+    {
+      "source": "VENEX official announcement for neverbetter",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "facts": "Confirmed neverbetter Komazawa opening on 2026-11-15 and its address in Setagaya, Tokyo; already represented."
+    },
+    {
+      "source": "Sukiya official new-store news list",
+      "url": "https://www.sukiya.jp/news/",
+      "facts": "Confirmed Takao Oono store opening on 2026-11-11; already represented."
+    },
+    {
+      "source": "Recent official store announcements",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "facts": "PAPABUBBLE Ikspiari (2026-11-21), HMV LaLaport Sakai (2026-11-17), Quil Fait Bon Shinjuku (2026-11-28), POP MART Okinawa Urasoe PARCO CITY (2026-11-06), and POP MART LUCUA SOUTH (2026-11-24) are all already represented."
+    }
+  ],
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "removed": [],
+    "latest_json_modified": false,
+    "reason": "All date-confirmed candidates found in this run were already present. No new record or correction met the evidence threshold."
+  },
+  "validation": {
+    "json_parse": true,
+    "item_count": 1546,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_composite_keys": 0,
+    "existing_records_preserved": true,
+    "latest_blob_sha_unchanged": "16fd48f029c22b68520232cee2b25a06cb5f5bef"
+  },
+  "unconfirmed": [
+    "LUCUA SOUTH Namco is announced only for early December without a precise date; not added.",
+    "National coverage across every operator is not exhaustive."
+  ],
+  "errors": [
+    "Matsuya Foods full listing page timed out on direct open; its official search result excerpt was available and listed all eight checked locations."
+  ],
+  "result": "No change to json/latest.json. Run log records the checks and validation."
+}
