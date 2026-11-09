@@ -85,10 +85,12 @@
       "source": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
     },
     {
-      "name": "エトモ菊名・テナント9店舗",
-      "checked_count": 9,
-      "registered_count": 9,
-      "source": "https://www.tokyu.co.jp/company/information/detail/62401.html"
+      "name": "エトモ菊名・新規／再開6店舗",
+      "checked_count": 6,
+      "registered_count": 6,
+      "source": "https://www.tokyu.co.jp/company/information/detail/62401.html",
+      "continuing_existing_count": 3,
+      "note": "9テナントのうち新規・再開6店舗を照合。しぶそば、LAWSON+toks、三菱UFJ銀行ATMの3店舗は既存継続のため新規登録対象外。"
     }
   ],
   "verification": {
@@ -107,6 +109,33 @@
   "unverified": [
     "全国全事業者の網羅性は確認していない。",
     "ジャズドリーム長島のTimberlandは2026年12月予定のみで具体的な開店日が未確定のため追加対象外。",
-    "公式発表に記載された開店予定日と店舗情報を照合したが、全店舗の開店後営業実績を独立確認したものではない。"
+    "公式発表に記載された開店予定日と店舗情報を照合したが、全店舗の開店後営業実績を独立確認したものではない。",
+    "ジャズドリーム長島の近似重複候補3組は同一店舗の可能性があるが、既存データ保護のため未統合。"
+  ],
+  "possible_near_duplicates": [
+    {
+      "records": [
+        "MARK'EY'S（ジャズドリーム長島）",
+        "MARKEY'S（ジャズドリーム長島）"
+      ],
+      "reason": "同一日・同一市区町村の表記差候補",
+      "action": "未統合・未削除"
+    },
+    {
+      "records": [
+        "gelato pique/SNIDEL/Mila Owen（ジャズドリーム長島・リニューアル）",
+        "ジェラートピケ / スナイデル / ミラオーウェン（ジャズドリーム長島・リニューアル）"
+      ],
+      "reason": "同一日・同一施設の英字表記と日本語表記の候補",
+      "action": "未統合・未削除"
+    },
+    {
+      "records": [
+        "レゴ ストア（ジャズドリーム長島・リニューアル）",
+        "レゴ®ストア（ジャズドリーム長島・リニューアル）"
+      ],
+      "reason": "同一日・同一施設の表記差候補",
+      "action": "未統合・未削除"
+    }
   ]
 }
