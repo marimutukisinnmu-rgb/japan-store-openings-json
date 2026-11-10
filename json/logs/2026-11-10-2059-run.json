@@ -1,0 +1,82 @@
+{
+  "run_at": "2026-11-10T20:59:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 1640,
+    "blob_sha": "ed60b7ec90e5f5ebe2ff4d8863047155d772abd0",
+    "updatetime": "2026-11-10T20:04:36+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ハイキュー!! × and GALLERY コラボカフェ（有楽町店）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-03",
+        "category": "期間限定コラボカフェ（アニメ・2026-11-03〜2026-12-06）"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "sources": [
+    {
+      "publisher": "and GALLERY",
+      "url": "https://and-gallery.com/haikyu/",
+      "confirmed": "開催期間は2026-11-03〜2026-12-06、開催6店舗に有楽町店を含む"
+    },
+    {
+      "publisher": "and GALLERY",
+      "url": "https://and-gallery.com/",
+      "confirmed": "有楽町店の住所は東京都千代田区有楽町1丁目11-1、ビックカメラ有楽町店7F"
+    },
+    {
+      "publisher": "Lawson",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "confirmed": "11月の新店舗一覧を既存データと照合。今回追加対象の未登録分なし"
+    },
+    {
+      "publisher": "A&F Country",
+      "url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026",
+      "confirmed": "PENDLETON POP UP JOURNEY 2026の7会場すべて既存データに登録済み"
+    },
+    {
+      "publisher": "Soup Stock Tokyo",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "confirmed": "秋野テーブルは既存データに登録済み"
+    },
+    {
+      "publisher": "Cat Café MOFF",
+      "url": "https://moff-moff.jp/cat-cafe/news/",
+      "confirmed": "Cat Café MOFF イオンモール伊達店は既存データに登録済み"
+    }
+  ],
+  "after": {
+    "item_count": 1641,
+    "blob_sha": "cc6af7d55deffa85b742d16b92f24358bb4030e9",
+    "updatetime": "2026-11-10T20:59:55+09:00"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_keys": 0,
+    "chronological_order": "passed",
+    "new_record_present_after_refetch": true,
+    "prior_records_preserved_exactly": true,
+    "post_write_refetch": "passed"
+  },
+  "errors": [],
+  "unverified": [
+    "全国すべての事業者・商業施設の網羅性は未確認",
+    "and GALLERYコラボカフェの開催後の実施状況は未確認"
+  ],
+  "automation_status_at_check": {
+    "is_enabled": true,
+    "next_run_time": null,
+    "last_run_recorded_status": "in_progress"
+  }
+}
