@@ -1,0 +1,161 @@
+{
+  "run_at": "2026-11-11T05:57:16+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "source_branch": "main",
+  "before": {
+    "count": 1719,
+    "blob_sha": "e6c71171269959ee067a6ba5b6592cce14f708b6",
+    "period": "2026-09-04/2027-02-28"
+  },
+  "additions": [
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE ららぽーと堺）",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "opening_date": "2026-09-16",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA 天草店）",
+      "prefecture": "熊本県",
+      "city": "天草市",
+      "opening_date": "2026-09-16",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
+    },
+    {
+      "name": "ムーミンショップ フクオカ",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-28",
+      "category": "北欧キャラクター・公式グッズショップ（常設店）"
+    },
+    {
+      "name": "MOOMIN POPUP STORE（アトレ吉祥寺）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-02",
+      "category": "ムーミン公式グッズ・期間限定ポップアップ（2026-11-02〜2026-11-15）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（阪神梅田本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-05",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-05〜2026-11-16）"
+    },
+    {
+      "name": "MALU POP UP STORE（エストネーション六本木ヒルズ店）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・インナーウェア期間限定ポップアップ（2026-11-06〜2026-11-19）"
+    },
+    {
+      "name": "MOOMIN POPUP STORE（JR目黒駅）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-11",
+      "category": "ムーミン公式グッズ・期間限定ポップアップ（2026-11-11〜2026-11-26）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（函館 蔦屋書店）",
+      "prefecture": "北海道",
+      "city": "函館市",
+      "opening_date": "2026-11-11",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-11〜2027-01-04）"
+    },
+    {
+      "name": "まいにちムーミン POP UP STORE（ゆめタウン佐賀）",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-13",
+      "category": "ムーミン公式体験型ポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA サンリブ宗像店）",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-11-13",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-13〜2027-01-04）"
+    },
+    {
+      "name": "ムーミンミニマーケット2026（松坂屋静岡店）",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "ムーミン公式グッズ催事・期間限定マーケット（2026-11-18〜2026-11-23）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE 印西ビッグホップ）",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "opening_date": "2026-11-20",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-20〜2027-01-10）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（横浜赤レンガ倉庫 クリスマスマーケット）",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-20",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-20〜2026-12-25）"
+    },
+    {
+      "name": "ムーミンマーケット2026（大阪髙島屋）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "ムーミン公式グッズ催事・期間限定マーケット（2026-11-25〜2026-12-07）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE みらい長崎COCOWALK）",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-11-27",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-27〜2027-01-12）"
+    }
+  ],
+  "source_urls": [
+    "https://www.moomin.co.jp/index.php/news/events/6ad0811155224",
+    "https://www.moomin.co.jp/news/events/6ae03288ee604",
+    "https://www.moomin.co.jp/news/products/6acdda5da35f8",
+    "https://prtimes.jp/main/html/rd/p/000000039.000140989.html",
+    "https://www.estnation.co.jp/store/roppongi"
+  ],
+  "cross_checks": {
+    "blue_sky_laundry_november_10_stores": "all 10 matched existing JSON entries",
+    "other_candidates_already_registered": [
+      "JEONGHAN X JOSHUA JOURNEY INTO [DREAMING] - JAPAN POP-UP STORE",
+      "夏目友人帳 POP UP SHOP in TOWER RECORDS (新宿・梅田)",
+      "Paradox Live 7th Anniversary POP-UP STORE",
+      "OSTERIA SALVATORE 阿佐ヶ谷",
+      "築地食堂 源ちゃん イオンモール伊達店",
+      "WithGreen 光が丘IMA店",
+      "PAPABUBBLE イクスピアリ店",
+      "POP MART LUCUA SOUTH店",
+      "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI"
+    ]
+  },
+  "after": {
+    "count": 1734,
+    "blob_sha": "61c2526c131d9c1668d467225da6b7d50b5df38a",
+    "commit_sha": "12ff2a16e4c034dd09c754ffb1fe6b12f72e9217",
+    "period": "2026-09-04/2027-02-28"
+  },
+  "validation": {
+    "json_parse": "passed",
+    "new_records_found": "15/15",
+    "existing_records_preserved": "1719/1719",
+    "duplicate_names": 0,
+    "duplicate_composite_keys": 0,
+    "invalid_dates": 0,
+    "required_fields_missing": 0,
+    "sorted_by_opening_date": true,
+    "post_write_fetch": "passed"
+  },
+  "limitations": [
+    "全国全事業者の網羅性は未確認",
+    "個々の催事の現地での実開催状況は独立確認していない",
+    "公式イベント一覧ページは検索インデックスから内容を確認したものがあり、直接ページ取得は一部失敗"
+  ]
+}
