@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-11-11T03:56:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "target": "json/latest.json",
+  "period": "2026-09-04/2027-02-28",
+  "result": "success",
+  "before": {
+    "item_count": 1698,
+    "blob_sha": "6e709852aaa9081b5d8478ef55f1ccc54fdee0b4",
+    "updatetime": "2026-11-11T03:02:24+09:00"
+  },
+  "additions": [
+    {
+      "name": "ソプラ銀座 大宮店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-09-04",
+      "category": "トリミングサロン・犬の幼稚園",
+      "source": "https://sopraginza.co.jp/news/new-stores-2026-autumn/"
+    },
+    {
+      "name": "ソプラ銀座 目黒武蔵小山店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-09-14",
+      "category": "トリミングサロン・犬の幼稚園",
+      "source": "https://sopraginza.co.jp/news/new-stores-2026-autumn/"
+    },
+    {
+      "name": "オニツカタイガー タカシマヤ ゲートタワーモール店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・シューズ・アパレル",
+      "source": "https://www.jr-tgm.com/shops/detail/576"
+    }
+  ],
+  "source_notes": [
+    "ソプラ銀座公式発表で、大宮店の2026-09-04開店と目黒武蔵小山店の2026-09-14開店、所在地を確認。既存JSONには他のソプラ銀座店舗4件があり、この2件は未登録だった。日本橋店は2027年1月予定のみで具体日未発表のため追加していない。",
+    "タカシマヤ ゲートタワーモール公式ショップページで、オニツカタイガーの2026-11-13開店と2F出店を確認。既存JSONに同店は未登録だった。"
+  ],
+  "verification": {
+    "json_parse": true,
+    "before_count": 1698,
+    "after_count": 1701,
+    "existing_records_lost": 0,
+    "additions_present": 3,
+    "duplicate_keys": 0,
+    "missing_required_fields": 0,
+    "opening_date_sort": "ascending",
+    "saved_blob_sha": "abe1663ed861664ec604b8f49d2ad2121bd00df3",
+    "update_commit_sha": "c296fbcf066ba86ed5f1c5aa4de44e539c0f26d9"
+  },
+  "unchanged": {
+    "corrections": 0,
+    "deletions": 0,
+    "period": "2026-09-04/2027-02-28"
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "ソプラ銀座 日本橋店は2027年1月予定だが具体的な開店日は未発表",
+    "各店舗の開店後の実営業状況は独立確認していない"
+  ]
+}
