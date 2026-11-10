@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-11T03:02:24+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_blob_sha": "fce7ffd38e490ab8aec3160ba9945c2bc5ba51a3",
+  "update_commit_sha": "80b9bb2bed8b2bb95cb7df67a43f0e0b9dc8ed80",
+  "new_blob_sha": "6e709852aaa9081b5d8478ef55f1ccc54fdee0b4",
+  "final_blob_sha": "6e709852aaa9081b5d8478ef55f1ccc54fdee0b4",
+  "counts": {
+    "before": 1694,
+    "added": 4,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1698
+  },
+  "additions": [
+    {
+      "name": "クリスピー・クリーム・ドーナツ（おのだサンパーク・期間限定）",
+      "prefecture": "山口県",
+      "city": "山陽小野田市",
+      "opening_date": "2026-11-01",
+      "category": "ドーナツ（期間限定催事、2026-11-01〜2026-11-04）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（スマーク伊勢崎・期間限定）",
+      "prefecture": "群馬県",
+      "city": "伊勢崎市",
+      "opening_date": "2026-11-03",
+      "category": "ドーナツ（期間限定催事、2026-11-03〜2026-11-08）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（岡島百貨店・期間限定）",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "opening_date": "2026-11-03",
+      "category": "ドーナツ（期間限定催事、2026-11-03〜2026-11-08）"
+    },
+    {
+      "name": "クリスピー・クリーム・ドーナツ（イオン東員・期間限定）",
+      "prefecture": "三重県",
+      "city": "員弁郡東員町",
+      "opening_date": "2026-11-06",
+      "category": "ドーナツ（期間限定催事、2026-11-06〜2026-11-09）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Krispy Kreme Japan official November 2026 event schedule",
+      "url": "https://krispykreme.jp/store-news/16554/",
+      "verified_fields": [
+        "Onoda Sunpark: 2026-11-01 to 2026-11-04; Yamaguchi Prefecture, Sanyo-Onoda City",
+        "SMARK Isesaki: 2026-11-03 to 2026-11-08; Gunma Prefecture, Isesaki City",
+        "Okajima Department Store: 2026-11-03 to 2026-11-08; Yamanashi Prefecture, Kofu City",
+        "Aeon Toin: 2026-11-06 to 2026-11-09; Mie Prefecture, Inabe District Toin Town",
+        "All four events were absent from the pre-update JSON"
+      ]
+    },
+    {
+      "title": "Lawson official new-store information",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "verified_fields": [
+        "All 34 visible store entries dated 2026-10-30 through 2026-11-20 were checked against latest.json",
+        "No missing store among the inspected Lawson entries"
+      ]
+    },
+    {
+      "title": "Grandberry Park official 2026 Autumn new-store list",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/",
+      "verified_fields": [
+        "COHINA and MARGARET HOWELL A.G.O. already exist in latest.json",
+        "ADAM ET ROPÉ / SALON adam et ropé, PUMA, Ball & Chain, Catchup, LAVENHAM and other exact-date listings already exist",
+        "ReD's opening date is only stated as early-to-mid October; not added because no exact date was supplied"
+      ]
+    },
+    {
+      "title": "Mitsui Outlet Park Jazz Dream Nagashima official operator announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "supporting_document": "https://prtimes.jp/a/?c=105392&f=d105392-128-99516c04603404cf812cbd67ef444519.pdf&r=128",
+      "verified_fields": [
+        "The 11 specifically dated new and renewal store entries were found in latest.json",
+        "Timberland is announced only for December 2026 without a specific day; not added"
+      ]
+    },
+    {
+      "title": "Krispy Kreme November event page also confirms already-listed events",
+      "url": "https://krispykreme.jp/store-news/16554/",
+      "verified_fields": [
+        "Aeon Style Morioka Minami, Iias Tsukuba, Aeon Style Mito Uchihara, Aeon Style Hakusan, Aeon Style Kashihara, Aeon Yamato-Koriyama, Aeon Ayagawa and Emifull MASAKI were already listed"
+      ]
+    },
+    {
+      "title": "Tokyu official Etomo Kikuna announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000001406.000010686.html",
+      "verified_fields": [
+        "All six new tenants and the facility record were already listed; three continuing tenants were not treated as new openings"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_keys": 0,
+    "chronological_order": true,
+    "added_records_present": true,
+    "all_previous_records_preserved": true,
+    "count": 1698,
+    "latest_blob_sha_retrieved": "6e709852aaa9081b5d8478ef55f1ccc54fdee0b4",
+    "success": true
+  },
+  "errors": [],
+  "not_added_or_unconfirmed": [
+    "Grandberry Park ReD: exact opening day not announced (only early-to-mid October); not added.",
+    "Jazz Dream Nagashima Timberland: month only (December 2026), no exact opening day; not added.",
+    "Nationwide completeness and actual on-site operation for all events were not independently verified."
+  ]
+}
