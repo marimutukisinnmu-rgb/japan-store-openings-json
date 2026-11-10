@@ -1,0 +1,246 @@
+{
+  "run_at": "2026-11-10T20:04:36+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "有限会社アディクト / The Powerpuff Girls POPUP STORE「ガールズの休日」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000160632.html",
+      "verified": "京都高島屋S.C. 6F 京都IP書店ギャラリーエリア、2026-11-14〜2026-12-02、京都市下京区。",
+      "note": "リリース本文の開催日欄に曜日表記の不一致あり（11/14（金）と11/14（土））。数値日付は11/14で一致し、整理券対象日の記載は2026-11-14（土）・15（日）。数値日付を採用。"
+    },
+    {
+      "source": "COSPA / アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～",
+      "url": "https://www.cospa.com/special/bocchi-rocks2026/information",
+      "verified": [
+        "アトレ秋葉原1：2026-11-13〜2026-11-26、東京都千代田区（施設公式住所で照合）。",
+        "ジーストア名古屋／小倉：2026-12-19〜2027-01-03。",
+        "ジーストア大阪：2027-01-09〜2027-01-17。",
+        "ジーストア仙台：2027-01-23〜2027-01-31。"
+      ],
+      "location_sources": [
+        "https://www.atre.co.jp/akihabara/access/",
+        "https://www.geestore.com/geenet/geestore/nagoya",
+        "https://www.geestore.com/geenet/geestore/kokura",
+        "https://www.geestore.com/geenet/geestore/osaka",
+        "https://www.geestore.com/geenet/geestore/sendai"
+      ]
+    },
+    {
+      "source": "GEE!STORE / TVアニメ「幼女戦記Ⅱ」POP UP SHOP",
+      "url": "https://www.geestore.com/event/gallery/youjo-senki2/",
+      "verified": "2026-11-21〜2026-12-06、ジーストア・アキバ／大阪／名古屋／小倉／仙台の5会場。各店舗公式情報で市区町村を照合。",
+      "location_sources": [
+        "https://www.geestore.com/geenet/geestore/akiba",
+        "https://www.geestore.com/geenet/geestore/osaka",
+        "https://www.geestore.com/geenet/geestore/nagoya",
+        "https://www.geestore.com/geenet/geestore/kokura",
+        "https://www.geestore.com/geenet/geestore/sendai"
+      ]
+    },
+    {
+      "source": "COSPA / 喫茶リコリコ出張所2026 POP UP SHOP",
+      "url": "https://www.cospa.com/cospa/event/id/2883",
+      "verified": [
+        "ジーストア大阪／小倉：2026-11-21〜2026-11-29。",
+        "ジーストア名古屋／仙台：2026-12-05〜2026-12-13。"
+      ],
+      "location_sources": [
+        "https://www.geestore.com/geenet/geestore/osaka",
+        "https://www.geestore.com/geenet/geestore/nagoya",
+        "https://www.geestore.com/geenet/geestore/kokura",
+        "https://www.geestore.com/geenet/geestore/sendai"
+      ]
+    },
+    {
+      "source": "COSPA / 日本ファルコム創立45周年展",
+      "url": "https://www.cospa.com/cospa/event/id/28202",
+      "verified": [
+        "ジーストア仙台：2026-11-07〜2026-11-15。",
+        "ジーストア大阪：2026-12-05〜2026-12-13。",
+        "ジーストア名古屋：2027-01-09〜2027-01-17。",
+        "ジーストア小倉：2027-01-23〜2027-01-31。"
+      ]
+    },
+    {
+      "source": "COSPA / BLACK LAGOON 25th ANNIVERSARY POP UP SHOP",
+      "url": "https://www.cospa.com/special/blacklagoon/",
+      "verified": "ジーストア仙台会場、2026-11-21〜2026-11-29。会場所在地はジーストア仙台公式店舗情報で照合。",
+      "location_source": "https://www.geestore.com/geenet/geestore/sendai"
+    }
+  ],
+  "changes": {
+    "before": 1620,
+    "added": [
+      {
+        "name": "日本ファルコム創立45周年展（ジーストア仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-11-07",
+        "category": "期間限定ゲームグッズ・展示ポップアップ（2026-11-07〜2026-11-15）"
+      },
+      {
+        "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（アトレ秋葉原）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-13",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-13〜2026-11-26）"
+      },
+      {
+        "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
+        "prefecture": "京都府",
+        "city": "京都市下京区",
+        "opening_date": "2026-11-14",
+        "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-14〜2026-12-02）"
+      },
+      {
+        "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア・アキバ）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+      },
+      {
+        "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア大阪）",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+      },
+      {
+        "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア名古屋）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+      },
+      {
+        "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア小倉）",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+      },
+      {
+        "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+      },
+      {
+        "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア大阪）",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+      },
+      {
+        "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア小倉）",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+      },
+      {
+        "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+      },
+      {
+        "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-12-05",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-05〜2026-12-13）"
+      },
+      {
+        "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-05",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-05〜2026-12-13）"
+      },
+      {
+        "name": "日本ファルコム創立45周年展（ジーストア大阪）",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-12-05",
+        "category": "期間限定ゲームグッズ・展示ポップアップ（2026-12-05〜2026-12-13）"
+      },
+      {
+        "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア名古屋）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-12-19",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
+      },
+      {
+        "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア小倉）",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-12-19",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
+      },
+      {
+        "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア大阪）",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2027-01-09",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2027-01-09〜2027-01-17）"
+      },
+      {
+        "name": "日本ファルコム創立45周年展（ジーストア名古屋）",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2027-01-09",
+        "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-09〜2027-01-17）"
+      },
+      {
+        "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2027-01-23",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2027-01-23〜2027-01-31）"
+      },
+      {
+        "name": "日本ファルコム創立45周年展（ジーストア小倉）",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2027-01-23",
+        "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-23〜2027-01-31）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1640
+  },
+  "verification": {
+    "savedCount": 1640,
+    "expectedCount": 1640,
+    "newRecordsPresent": 20,
+    "duplicateKeys": 0,
+    "invalidDateFormats": 0,
+    "missingRequiredFields": 0,
+    "sortedByOpeningDate": true,
+    "sha": "ed60b7ec90e5f5ebe2ff4d8863047155d772abd0",
+    "commitSha": "e90788d22c11449bc47918e749954ea465b43a95",
+    "updatetime": "2026-11-10T20:04:36+09:00",
+    "parseOk": true
+  },
+  "limitations": [
+    "全国すべての事業者・催事の網羅性は未確認。",
+    "ポップアップの実開催状況は開催前・開催後の独立確認をしていない。",
+    "Powerpuff Girlsの公式プレスリリースでは開始日の曜日表記に不一致があるため、数値日付（2026-11-14）を採用した。",
+    "既存1620件は更新前比較で全件保持を確認。更新後のJSON再取得・解析・件数・並び順・重複検査は成功。"
+  ],
+  "automation_status": {
+    "title": "全国 開店予定JSON（回転JSON）",
+    "enabled": false,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "note": "The automation was disabled after this successful run by the automation runtime's post-completion rule. This overrides the user's requested keep-enabled preference; no claim is made that it was re-enabled."
+  }
+}
