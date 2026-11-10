@@ -1,0 +1,232 @@
+{
+  "run_at": "2026-11-10T21:56:32+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "previous_count": 1641,
+  "added_count": 25,
+  "skipped_existing_count": 0,
+  "final_count": 1666,
+  "changes": [
+    {
+      "name": "一石三鳥 韓邸 渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "韓国料理店"
+    },
+    {
+      "name": "カフェ＆ベーカリーミヤビ 多摩センター店",
+      "prefecture": "東京都",
+      "city": "多摩市",
+      "opening_date": "2026-11-10",
+      "category": "カフェ・ベーカリー"
+    },
+    {
+      "name": "お好み焼き鉄板焼き のんじ 天満店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-09",
+      "category": "お好み焼き・鉄板焼き"
+    },
+    {
+      "name": "茶寮 宇治和束園 醍醐寺店",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "opening_date": "2026-11-06",
+      "category": "日本茶カフェ・茶寮"
+    },
+    {
+      "name": "EXPO2025オフィシャルポップアップストア ラフォーレ原宿店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定公式ライセンスグッズ販売（2026-11-07〜2027-01-31）"
+    },
+    {
+      "name": "EXPO2025オフィシャルポップアップストア エキュート秋葉原店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定公式ライセンスグッズ販売（2026-11-10〜2026-12-10）"
+    },
+    {
+      "name": "ゴンチャ（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-19",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "星乃珈琲店（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-27",
+      "category": "カフェ"
+    },
+    {
+      "name": "yellow（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "オムライス専門店"
+    },
+    {
+      "name": "北海道スープカレーSuage（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "スープカレー"
+    },
+    {
+      "name": "上海小籠包 厨房 阿杏（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "中華料理・小籠包"
+    },
+    {
+      "name": "JB's TOKYO（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "ハンバーガー専門店"
+    },
+    {
+      "name": "PIZZERIA TRATTORIA 裏秋葉原（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "イタリアンレストラン"
+    },
+    {
+      "name": "クリスプサラダワークス（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "カスタムサラダ専門店"
+    },
+    {
+      "name": "芝浜市場（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "海鮮料理"
+    },
+    {
+      "name": "ローストビーフ大野（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "ローストビーフ丼専門店"
+    },
+    {
+      "name": "食堂 すゞめ（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "食堂・定食"
+    },
+    {
+      "name": "焼肉 牛たん山科（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "焼肉"
+    },
+    {
+      "name": "もりもり寿し（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "回転寿司"
+    },
+    {
+      "name": "うなぎ四代目菊川（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "うなぎ料理"
+    },
+    {
+      "name": "月島もんじゃ くうや（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "もんじゃ焼き"
+    },
+    {
+      "name": "天ぷら ひさご（秋葉原UDX・リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "天ぷら専門店（リニューアル）"
+    },
+    {
+      "name": "新宿すずや（秋葉原UDX・リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "とんかつ（リニューアル）"
+    },
+    {
+      "name": "お好み焼ゆかり（秋葉原UDX・リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "お好み焼き・鉄板焼き（リニューアル）"
+    },
+    {
+      "name": "串揚げ新宿立吉（秋葉原UDX・リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "串揚げ専門店（リニューアル）"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社Human Qreate 一石三鳥 韓邸 渋谷",
+      "url": "https://prtimes.jp/main/html/rd/p/000000051.000122221.html"
+    },
+    {
+      "name": "株式会社大庄 カフェ＆ベーカリーミヤビ 多摩センター店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000386.000011586.html"
+    },
+    {
+      "name": "株式会社TOSURPASS のんじ 天満店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000159454.html"
+    },
+    {
+      "name": "株式会社山城物産 茶寮 宇治和束園 醍醐寺店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000141120.html"
+    },
+    {
+      "name": "EXPO2025公式サイト ポップアップストア2会場",
+      "url": "https://www.expo2025.or.jp/news/news-20261109-01/"
+    },
+    {
+      "name": "秋葉原UDX公式フロアガイド",
+      "url": "https://udx.jp/floor-guide/"
+    },
+    {
+      "name": "秋葉原UDX公式施設情報・所在地",
+      "url": "https://udx.jp/about/"
+    }
+  ],
+  "held_unverified": [
+    {
+      "name": "SUMOMO BAKERY 久留米櫛原店",
+      "reason": "開店日情報は地域メディアで確認できたが、今回の調査では運営会社・施設の一次情報による裏付けを取得できず、未追加。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "old_records_preserved": true,
+    "all_new_records_present": true,
+    "invalid_date_count": 1666,
+    "duplicate_key_count": 0,
+    "saved_blob_sha": "b879971c4aa11ad598e262e411406abd4275f390"
+  },
+  "commit_sha": "a6fcb7e0b1d57aa74d269e86769535f30cc701ff"
+}
