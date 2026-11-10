@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T05:03:39+09:00",
+  "updatetime": "2026-11-11T05:57:16+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -72,6 +72,20 @@
       "city": "目黒区",
       "opening_date": "2026-09-14",
       "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE ららぽーと堺）",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "opening_date": "2026-09-16",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA 天草店）",
+      "prefecture": "熊本県",
+      "city": "天草市",
+      "opening_date": "2026-09-16",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
     },
     {
       "name": "キャンドゥ エキア越谷店",
@@ -3532,6 +3546,13 @@
       "category": "フィットネスジム（リニューアル）"
     },
     {
+      "name": "ムーミンショップ フクオカ",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-28",
+      "category": "北欧キャラクター・公式グッズショップ（常設店）"
+    },
+    {
       "name": "sanrio house 名古屋PARCO店",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -5072,6 +5093,13 @@
       "category": "アニメ・コミック・ゲームグッズ（催事特化型店舗）"
     },
     {
+      "name": "MOOMIN POPUP STORE（アトレ吉祥寺）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-02",
+      "category": "ムーミン公式グッズ・期間限定ポップアップ（2026-11-02〜2026-11-15）"
+    },
+    {
       "name": "ハイキュー!! × and GALLERY コラボカフェ（名古屋1号店）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -5686,6 +5714,13 @@
       "city": "帯広市",
       "opening_date": "2026-11-05",
       "category": "コンビニ"
+    },
+    {
+      "name": "MOOMIN KAUPPA（阪神梅田本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-05",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-05〜2026-11-16）"
     },
     {
       "name": "東横INN豊橋駅前大通り",
@@ -6409,6 +6444,13 @@
       "category": "期間限定公式グッズ・展示ポップアップ（2026-11-06〜2026-11-22）"
     },
     {
+      "name": "MALU POP UP STORE（エストネーション六本木ヒルズ店）",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-06",
+      "category": "ファッション・インナーウェア期間限定ポップアップ（2026-11-06〜2026-11-19）"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -7116,6 +7158,20 @@
       "category": "豚饅頭・中華点心（本店リニューアル）"
     },
     {
+      "name": "MOOMIN POPUP STORE（JR目黒駅）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-11",
+      "category": "ムーミン公式グッズ・期間限定ポップアップ（2026-11-11〜2026-11-26）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（函館 蔦屋書店）",
+      "prefecture": "北海道",
+      "city": "函館市",
+      "opening_date": "2026-11-11",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-11〜2027-01-04）"
+    },
+    {
       "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
       "prefecture": "愛知県",
       "city": "稲沢市",
@@ -7816,6 +7872,20 @@
       "category": "期間限定マイケル・ジャクソン公式グッズ・ポップアップ（2026-11-13〜2026-11-23）"
     },
     {
+      "name": "まいにちムーミン POP UP STORE（ゆめタウン佐賀）",
+      "prefecture": "佐賀県",
+      "city": "佐賀市",
+      "opening_date": "2026-11-13",
+      "category": "ムーミン公式体験型ポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA サンリブ宗像店）",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-11-13",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-13〜2027-01-04）"
+    },
+    {
       "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
       "prefecture": "京都府",
       "city": "京都市下京区",
@@ -8311,6 +8381,13 @@
       "city": "石狩市",
       "opening_date": "2026-11-18",
       "category": "アミューズメント施設（クレーンゲーム専門店）"
+    },
+    {
+      "name": "ムーミンミニマーケット2026（松坂屋静岡店）",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-11-18",
+      "category": "ムーミン公式グッズ催事・期間限定マーケット（2026-11-18〜2026-11-23）"
     },
     {
       "name": "セリア MEGAドン・キホーテUNY一宮大和店",
@@ -8971,6 +9048,20 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE 印西ビッグホップ）",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "opening_date": "2026-11-20",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-20〜2027-01-10）"
+    },
+    {
+      "name": "MOOMIN KAUPPA（横浜赤レンガ倉庫 クリスマスマーケット）",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-20",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-20〜2026-12-25）"
+    },
+    {
       "name": "炭焼うなぎふじさん 半田店",
       "prefecture": "愛知県",
       "city": "半田市",
@@ -9480,6 +9571,13 @@
       "city": "川西市",
       "opening_date": "2026-11-25",
       "category": "期間限定ポップアップ（バターサンド）"
+    },
+    {
+      "name": "ムーミンマーケット2026（大阪髙島屋）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "ムーミン公式グッズ催事・期間限定マーケット（2026-11-25〜2026-12-07）"
     },
     {
       "name": "Anker Store 岡山一番街",
@@ -10327,6 +10425,13 @@
       "city": "札幌市中央区",
       "opening_date": "2026-11-27",
       "category": "ファストフード"
+    },
+    {
+      "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE みらい長崎COCOWALK）",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-11-27",
+      "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-27〜2027-01-12）"
     },
     {
       "name": "LifeFit アル・プラザ宇治東店",
