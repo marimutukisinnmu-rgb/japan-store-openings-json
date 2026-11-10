@@ -1,0 +1,142 @@
+{
+  "run_at": "2026-11-11T00:04:35+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_blob_sha": "da76fc0e53ed0583d1fad29b8cb929b48df60be7",
+  "update_commit_sha": "ebddb4c7a4d96c822458b6de220db0c29e73ba34",
+  "new_blob_sha": "f4efe7655fc6b21f1141e453b2da3a3a70f53d86",
+  "final_blob_sha": "f4efe7655fc6b21f1141e453b2da3a3a70f53d86",
+  "counts": {
+    "before": 1685,
+    "added": 7,
+    "after": 1692
+  },
+  "additions": [
+    {
+      "name": "60% meets and ST TOKYO 第3弾 POP-UP",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-16",
+      "category": "期間限定ファッションポップアップ（2026-10-16〜2026-11-13）"
+    },
+    {
+      "name": "Cath Kidston「Life with BOOK BAG」（代官山 蔦屋書店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ファッション・雑貨ポップアップ（2026-10-28〜2026-11-13）"
+    },
+    {
+      "name": "地中海の手仕事と暮らす（渋谷スクランブルスクエア POP-UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ライフスタイル雑貨ポップアップ（2026-11-05〜2026-11-19）"
+    },
+    {
+      "name": "マロンクリーム POP UP STORE×むにゅぐるみパティオ（東京キャラクターストリート）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定キャラクターグッズ販売ポップアップ（2026-11-06〜2026-11-12）"
+    },
+    {
+      "name": "CITY HUNTER POP UP STORE -Midnight Rendezvous-（ハンズ北千住店）",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定公式グッズ販売ポップアップ（2026-11-13〜2026-12-21）"
+    },
+    {
+      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD POP UP SHOP ～Winter♡Date～（東京アニメセンター）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定公式グッズ販売・展示ポップアップ（2026-11-13〜2026-11-29）"
+    },
+    {
+      "name": "N WITH. 2026 AW POPUP STORE in TOKYO（代官山）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定ファッションポップアップ（2026-11-14〜2026-11-15）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "60% official event announcement",
+      "url": "https://www.sixty-percent.com/news/2167",
+      "verified_fields": [
+        "2026-10-16 to 2026-11-13",
+        "and ST TOKYO, WITH HARAJUKU 1F",
+        "Shibuya-ku"
+      ]
+    },
+    {
+      "title": "Cath Kidston event page at Daikanyama T-SITE",
+      "url": "https://store.tsite.jp/daikanyama/event/architectural-design/57566-2346391019.html",
+      "verified_fields": [
+        "2026-10-28 to 2026-11-13",
+        "Daikanyama Tsutaya Bookstore"
+      ]
+    },
+    {
+      "title": "Watashinoheya Living official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000170316.html",
+      "verified_fields": [
+        "2026-11-05 to 2026-11-19",
+        "Shibuya Scramble Square 2F"
+      ]
+    },
+    {
+      "title": "KThingS official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000335.000092073.html",
+      "verified_fields": [
+        "2026-11-06 to 2026-11-12",
+        "Tokyo Character Street"
+      ]
+    },
+    {
+      "title": "CRAZY BUMP official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000694.000073415.html",
+      "verified_fields": [
+        "2026-11-13 to 2026-12-21",
+        "Hands Kitasenju",
+        "Adachi-ku"
+      ]
+    },
+    {
+      "title": "Bandai Namco Filmworks official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000714.000029654.html",
+      "verified_fields": [
+        "2026-11-13 to 2026-11-29",
+        "Tokyo Anime Center in DNP PLAZA SHIBUYA",
+        "Shibuya-ku"
+      ]
+    },
+    {
+      "title": "N WITH official event page",
+      "url": "https://n-with.jp/products/11-14-event-ticket",
+      "verified_fields": [
+        "2026-11-14 to 2026-11-15",
+        "Palm Hills Daikanyama 1F",
+        "Shibuya-ku"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "added_records_present": true,
+    "all_previous_records_preserved": true,
+    "chronological_order": true,
+    "period_preserved": true,
+    "final_count": 1692,
+    "success": true
+  },
+  "errors": [],
+  "not_added_or_unconfirmed": [
+    "NELL Shibuya Hikarie pop-up began 2026-08-21, before this dataset's 2026-09-04 period start; not added.",
+    "Previously found openings/pop-ups such as neverbetter, Harry Potter Mahou Dokoro Marunouchi, Qu'il fait Bon Shinjuku, Cafe Laduree Shin-Marunouchi, PAPABUBBLE Ikspiari, WithGreen Hikarigaoka, Lawson Togo/Fishuzu, and other previously registered entries were not duplicated."
+  ]
+}
