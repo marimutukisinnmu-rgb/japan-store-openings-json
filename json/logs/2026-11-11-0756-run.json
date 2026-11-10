@@ -1,0 +1,168 @@
+{
+  "run_at": "2026-11-11T07:56:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 1736,
+    "blob_sha": "97353db3a3c71bf6a6fb1df8bd6938f534d65ac7"
+  },
+  "additions": [
+    {
+      "name": "カラオケまねきねこ 鳥取安長店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-12-03",
+      "category": "カラオケ"
+    },
+    {
+      "name": "カラオケBanBan博多駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-20",
+      "category": "カラオケ"
+    },
+    {
+      "name": "カラオケCLUB DAM ピエロ長横町店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-10-28",
+      "category": "カラオケ"
+    },
+    {
+      "name": "ビッグエコー品川港南口店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-16",
+      "category": "カラオケ"
+    },
+    {
+      "name": "カラオケCLUB DAM ピエロ諏訪店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-09-16",
+      "category": "カラオケ"
+    },
+    {
+      "name": "McGuffin RECORD MARKET & PLAY レコP.（玉川髙島屋S.C. アレーナホール）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定レコードマーケット・カルチャーイベント（2026-11-14〜2026-11-15）"
+    }
+  ],
+  "changes": {
+    "added": 6,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "duplicate_checks": [
+    {
+      "name": "gashacoco ビッグエコー天満",
+      "result": "already_registered",
+      "opening_date": "2026-09-30"
+    },
+    {
+      "name": "カラオケまねきねこ 柳井店",
+      "result": "already_registered",
+      "opening_date": "2026-11-13"
+    },
+    {
+      "name": "ローソン全国新店情報（2026-11-01〜2026-11-20掲載分）",
+      "result": "all_34_already_registered",
+      "source_url": "https://mldata.lawson.co.jp/newstore/index.html"
+    },
+    {
+      "name": "ブルースカイランドリー2026年11月新店10店舗",
+      "result": "all_10_already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "name": "カフェ・ラデュレ新丸ビル店",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html"
+    },
+    {
+      "name": "ハリー・ポッター マホウドコロ POP-UP STORE in MARUNOUCHI",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html"
+    },
+    {
+      "name": "sanrio house 渋谷PARCO店",
+      "result": "already_registered",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html"
+    },
+    {
+      "name": "名探偵コナンダイナー",
+      "result": "existing_record_preserved; current primary release only reconfirmed winter 2026, not exact date",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000324.000086964.html"
+    }
+  ],
+  "after": {
+    "count": 1742,
+    "blob_sha": "d5cacaf53bcea8b0846fc183ca5ec97969c41b8e"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "duplicate_keys": 0,
+    "opening_date_order": true,
+    "old_records_preserved": true,
+    "new_records_verified": true,
+    "read_after_write": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社コシダカホールディングス",
+      "url": "https://www.koshidakaholdings.co.jp/ja/ir/news/auto_20261110570437/pdfFile.pdf",
+      "details": "カラオケまねきねこ 鳥取安長店は2026-12-03 12:00予定。所在地は鳥取県鳥取市安長174-1。"
+    },
+    {
+      "publisher": "株式会社シン・コーポレーション",
+      "url": "https://prtimes.jp/main/html/rd/p/000000060.000166479.html",
+      "details": "カラオケBanBan博多駅前店は2026-11-20開店。所在地は福岡県福岡市博多区博多駅東2丁目2-18。"
+    },
+    {
+      "publisher": "株式会社第一興商",
+      "url": "https://www.dkkaraoke.co.jp/news/newsletter/261109_4.html",
+      "details": "カラオケCLUB DAM ピエロ長横町店は2026-10-28開店。所在地は青森県八戸市長横町4-4。"
+    },
+    {
+      "publisher": "株式会社第一興商",
+      "url": "https://www.dkkaraoke.co.jp/news/newsletter/261109_1.html",
+      "details": "ビッグエコー品川港南口店は2026-10-16開店。所在地は東京都港区港南2-5-14 カナーレ品川6F。"
+    },
+    {
+      "publisher": "株式会社第一興商",
+      "url": "https://www.dkkaraoke.co.jp/news/260909_1.html",
+      "details": "カラオケCLUB DAM ピエロ諏訪店は2026-09-16開店。所在地は青森県八戸市諏訪3-19-27。"
+    },
+    {
+      "publisher": "株式会社ニューステクノロジー",
+      "url": "https://prtimes.jp/main/html/rd/p/000000318.000041209.html",
+      "details": "McGuffin RECORD MARKET & PLAY レコP.は2026-11-14〜11-15開催。会場は玉川髙島屋S.C. アレーナホール。住所は施設公式アクセスで確認。",
+      "venue_url": "https://www.takashimaya.co.jp/tamagawa/sc/s/arena/access/"
+    }
+  ],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗・催事の現地での実施状況",
+    "名探偵コナンダイナーの既存opening_dateは今回の一次情報では再確認できず、既存値を変更せず保持"
+  ],
+  "errors": []
+}
