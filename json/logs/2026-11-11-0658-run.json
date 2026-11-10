@@ -1,0 +1,99 @@
+{
+  "run_at": "2026-11-11T06:58:42+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 1734,
+    "blob_sha": "61c2526c131d9c1668d467225da6b7d50b5df38a"
+  },
+  "additions": [
+    {
+      "name": "ゆで太郎 越谷蒲生店（もつ次郎併設）",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-09-18",
+      "category": "そば・もつ煮（もつ次郎併設）"
+    },
+    {
+      "name": "ゆで太郎 武蔵村山中央店（もつ次郎併設）",
+      "prefecture": "東京都",
+      "city": "武蔵村山市",
+      "opening_date": "2026-10-09",
+      "category": "そば・もつ煮（もつ次郎併設）"
+    }
+  ],
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "duplicate_checks": [
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026（A&Fカントリー ルクアイーレ店）",
+      "result": "already_registered",
+      "opening_date": "2026-11-19",
+      "source_url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026"
+    },
+    {
+      "name": "夏目友人帳 POP UP SHOP in TOWER RECORDS（新宿店・梅田NU茶屋町店）",
+      "result": "both_already_registered",
+      "source_url": "https://event.amnibus.com/natsume-tower/"
+    },
+    {
+      "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（4都市）",
+      "result": "all_four_already_registered",
+      "source_url": "https://enhypen-jp.weverse.io/news/dd0bec9156a4"
+    }
+  ],
+  "after": {
+    "count": 1736,
+    "blob_sha": "97353db3a3c71bf6a6fb1df8bd6938f534d65ac7"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "duplicate_keys": 0,
+    "opening_date_order": true,
+    "old_records_preserved": true,
+    "new_records_verified": true,
+    "read_after_write": true
+  },
+  "sources": [
+    {
+      "publisher": "ゆで太郎システム",
+      "url": "https://yudetaro.jp/news/",
+      "details": "武蔵村山中央店（もつ次郎併設）は2026-10-09、越谷蒲生店（もつ次郎併設）は2026-09-18のオープンとして公式新着情報に掲載。"
+    },
+    {
+      "publisher": "ゆで太郎システム",
+      "url": "https://yudetaro.jp/area/tokyo/",
+      "details": "武蔵村山中央店の所在地を東京都武蔵村山市中央1丁目41-3として確認。"
+    },
+    {
+      "publisher": "ゆで太郎システム",
+      "url": "https://yudetaro.jp/area/saitama/",
+      "details": "越谷蒲生店の所在地を埼玉県越谷市蒲生西町1-5-16として確認。"
+    },
+    {
+      "publisher": "株式会社エイアンドエフ",
+      "url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026",
+      "details": "PENDLETONのルクアイーレ店は11月19日〜12月9日開催と確認したが、既存JSON登録済みのため追加なし。"
+    },
+    {
+      "publisher": "AMNIBUS",
+      "url": "https://event.amnibus.com/natsume-tower/",
+      "details": "夏目友人帳TOWER RECORDSの新宿・梅田2会場は既存JSON登録済み。"
+    },
+    {
+      "publisher": "ENHYPEN OFFICIAL SITE",
+      "url": "https://enhypen-jp.weverse.io/news/dd0bec9156a4",
+      "details": "東京・愛知・福岡・大阪4会場は既存JSON登録済み。"
+    }
+  ],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗・催事の現地での実施状況"
+  ],
+  "errors": []
+}
