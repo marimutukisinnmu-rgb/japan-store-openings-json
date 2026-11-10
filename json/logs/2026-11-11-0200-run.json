@@ -1,0 +1,110 @@
+{
+  "run_at": "2026-11-11T01:59:30+09:00",
+  "scheduled_for": "2026-11-11T02:00:00+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_blob_sha": "fce7ffd38e490ab8aec3160ba9945c2bc5ba51a3",
+  "latest_json_modified": false,
+  "counts": {
+    "before": 1694,
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1694
+  },
+  "sources": [
+    {
+      "title": "Tokyu official: Etomo Kikuna opening and tenant list",
+      "url": "https://www.tokyu.co.jp/company/information/detail/62401.html",
+      "supporting_document": "https://www.tokyu.co.jp/company/information/pdf/etomo_open_t_0.pdf",
+      "verified_fields": [
+        "Etomo Kikuna opens 2026-12-04",
+        "6 new tenant brands: Tokyu Store, Tully's Coffee, Mister Waffle, Beard Papa, Aoyama Flower Market, QB PREMIUM",
+        "3 continuing tenants: Shibusoba, LAWSON+toks, Mitsubishi UFJ Bank ATM",
+        "All 6 newly opening tenants and the facility entry already exist in latest.json"
+      ]
+    },
+    {
+      "title": "Sukiya official news",
+      "url": "https://www.sukiya.jp/news/",
+      "verified_fields": [
+        "Takaoka Ono store opens 2026-11-11 at 09:00",
+        "Existing latest.json record matches the store and date"
+      ]
+    },
+    {
+      "title": "Onodera Group official opening announcement",
+      "url": "https://onodera-group.com/news/7933/",
+      "verified_fields": [
+        "Tachizushi Ginza Onodera Ecute Omiya opens 2026-11-13",
+        "Existing latest.json record matches the store and date"
+      ]
+    },
+    {
+      "title": "Gong cha Japan official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000451.000048503.html",
+      "verified_fields": [
+        "Gong cha Aeon Mall Fukutsu opens 2026-11-17",
+        "Existing latest.json record matches the store, city and date"
+      ]
+    },
+    {
+      "title": "POP MART Japan official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "verified_fields": [
+        "POP MART LUCUA SOUTH opens 2026-11-24",
+        "Existing latest.json record matches the store and date"
+      ]
+    },
+    {
+      "title": "PAPABUBBLE official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "verified_fields": [
+        "PAPABUBBLE IKSPIARI opens 2026-11-21",
+        "Existing latest.json record matches the store and date"
+      ]
+    },
+    {
+      "title": "Blue Sky Laundry official November openings announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "verified_fields": [
+        "10 announced November openings cross-checked against latest.json",
+        "All 10 inspected stores already exist; no missing entry identified"
+      ]
+    },
+    {
+      "title": "Benelic official Harry Potter Mahou Dokoro pop-up announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "verified_fields": [
+        "Marunouchi pop-up opens 2026-11-12 and runs through 2026-12-25",
+        "Existing latest.json record matches the event"
+      ]
+    },
+    {
+      "title": "Qu'il fait bon official Shinjuku opening announcement",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "verified_fields": [
+        "Qu'il fait bon Shinjuku opens 2026-11-28",
+        "Existing latest.json record matches the store and date"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_keys": 0,
+    "chronological_order": true,
+    "count": 1694,
+    "latest_blob_sha_retrieved": "fce7ffd38e490ab8aec3160ba9945c2bc5ba51a3",
+    "latest_json_unchanged": true,
+    "success": true
+  },
+  "errors": [],
+  "not_added_or_unconfirmed": [
+    "Etomo Kikuna's 3 continuing tenants were not recorded as new openings; they continue existing operations according to Tokyu's official PDF.",
+    "No verified, previously unregistered opening was identified in the reviewed official announcements.",
+    "Nationwide completeness and actual on-site opening status were not independently verified."
+  ]
+}
