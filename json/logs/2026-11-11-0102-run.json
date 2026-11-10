@@ -1,0 +1,107 @@
+{
+  "run_at": "2026-11-11T01:02:25+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "source_blob_sha": "f4efe7655fc6b21f1141e453b2da3a3a70f53d86",
+  "update_commit_sha": "d944b2d41041987e3ab3e6943b3323b2f1dd88ea",
+  "new_blob_sha": "fce7ffd38e490ab8aec3160ba9945c2bc5ba51a3",
+  "final_blob_sha": "fce7ffd38e490ab8aec3160ba9945c2bc5ba51a3",
+  "counts": {
+    "before": 1692,
+    "added": 2,
+    "after": 1694
+  },
+  "additions": [
+    {
+      "name": "エニタイムフィットネス 錦糸町店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-02",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "エニタイムフィットネス 鶴間店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-11-04",
+      "category": "フィットネスジム（リニューアル）"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fast Fitness Japan official release: Kinshicho renovation reopening",
+      "url": "https://www.fastfitnessjapan.jp/newclubs/newopen_kinshicho/",
+      "verified_fields": [
+        "2026-11-02 reopening",
+        "Anytime Fitness Kinshicho",
+        "東京都墨田区太平3-3-12"
+      ]
+    },
+    {
+      "title": "Fast Fitness Japan official release: Tsuruma renovation reopening",
+      "url": "https://www.fastfitnessjapan.jp/newclubs/newopen_tsuruma/",
+      "verified_fields": [
+        "2026-11-04 reopening",
+        "Anytime Fitness Tsuruma",
+        "神奈川県大和市西鶴間1-14-10"
+      ]
+    },
+    {
+      "title": "SYNRA Group official autumn openings announcement",
+      "url": "https://synra.co.jp/news-005/",
+      "verified_fields": [
+        "Eleanor Koriyama 2026-11-01, Fukushima Prefecture",
+        "Eleanor Ikebukuro 3rd 2026-11-05, Tokyo",
+        "Eleanor Okinawa Chatan 2026-11-30, Okinawa; all three already existed in latest.json"
+      ]
+    },
+    {
+      "title": "Lawson official new-store listings",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified_fields": [
+        "Upcoming November Lawson entries checked against latest.json; no missing entries found among inspected regional results"
+      ]
+    },
+    {
+      "title": "C-United official release: Coffee-kan Itsukaichi-kaido Wakabacho",
+      "url": "https://prtimes.jp/main/html/rd/p/000000196.000079423.html",
+      "verified_fields": [
+        "2026-11-12 opening and address checked; already existed in latest.json"
+      ]
+    },
+    {
+      "title": "Yamaya Communications official release: Hakata no Aji Yamaya / FLA-LAB",
+      "url": "https://www.yamaya.com/corporate/news/detail/886",
+      "verified_fields": [
+        "2026-11-11 opening at Canal City Hakata; both entries already existed in latest.json"
+      ]
+    },
+    {
+      "title": "Mitsui Fudosan Commercial Management official release: Jazz Dream Nagashima",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "verified_fields": [
+        "16 new/renewal shop announcement cross-checked; listed dated stores already existed in latest.json; Timberland had month-only date and was not added"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "added_records_present": true,
+    "all_previous_records_preserved": true,
+    "chronological_order": true,
+    "period_preserved": true,
+    "final_count": 1694,
+    "duplicate_keys": 0,
+    "invalid_required_fields": 0,
+    "saved_blob_sha_retrieved_and_matched": true,
+    "success": true
+  },
+  "errors": [],
+  "not_added_or_unconfirmed": [
+    "Eleanor spa&treatment 郡山店、池袋3rd店、沖縄北谷店は公式発表で確認したが、すでに latest.json に登録済みのため重複追加しなかった。",
+    "博多の味やまや／FLA-LAB、珈琲館 五日市街道若葉町店、WORLD STORE、ローソンの調査対象店舗、Japan Blue Jeans SHIBUYA PARCO、THE GUNDAM BASE SHIBUYA、その他の確認対象も既存登録済みのため追加しなかった。",
+    "Jazz Dream NagashimaのTimberlandは公式資料で『2026年12月予定』まで確認できたが、日付が特定されていないため追加しなかった。",
+    "全国全事業者の網羅性および現地での営業実績は独立確認していない。"
+  ]
+}
