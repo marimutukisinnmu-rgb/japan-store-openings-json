@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-10T23:03:44+09:00",
+  "updatetime": "2026-11-11T00:04:35+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -1901,6 +1901,13 @@
       "category": "生活雑貨・インテリア雑貨"
     },
     {
+      "name": "60% meets and ST TOKYO 第3弾 POP-UP",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-16",
+      "category": "期間限定ファッションポップアップ（2026-10-16〜2026-11-13）"
+    },
+    {
       "name": "and wander 池袋PARCO店",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -3110,6 +3117,13 @@
       "city": "中央区",
       "opening_date": "2026-10-28",
       "category": "期間限定カフェ（ホリデーシーズン）"
+    },
+    {
+      "name": "Cath Kidston「Life with BOOK BAG」（代官山 蔦屋書店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ファッション・雑貨ポップアップ（2026-10-28〜2026-11-13）"
     },
     {
       "name": "chocoZAP 折尾四丁目店（リニューアル）",
@@ -5114,6 +5128,13 @@
       "category": "期間限定コラボカフェ（アニメ）"
     },
     {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（有楽町店）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ・2026-11-03〜2026-12-06）"
+    },
+    {
       "name": "らーめん石狩 ラスカ平塚店（リニューアル）",
       "prefecture": "神奈川県",
       "city": "平塚市",
@@ -5147,13 +5168,6 @@
       "city": "入間市",
       "opening_date": "2026-11-03",
       "category": "住宅展示場・モデルハウス（リニューアル）"
-    },
-    {
-      "name": "ハイキュー!! × and GALLERY コラボカフェ（有楽町店）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-03",
-      "category": "期間限定コラボカフェ（アニメ・2026-11-03〜2026-12-06）"
     },
     {
       "name": "Magical holiday pop-up by Marimekko（伊勢丹新宿店）",
@@ -5595,6 +5609,13 @@
       "city": "名古屋市天白区",
       "opening_date": "2026-11-05",
       "category": "居酒屋（リニューアル）"
+    },
+    {
+      "name": "地中海の手仕事と暮らす（渋谷スクランブルスクエア POP-UP）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ライフスタイル雑貨ポップアップ（2026-11-05〜2026-11-19）"
     },
     {
       "name": "鮨いつみ 道行",
@@ -6080,6 +6101,13 @@
       "category": "スーパーマーケット（建替リニューアル）"
     },
     {
+      "name": "マロンクリーム POP UP STORE×むにゅぐるみパティオ（東京キャラクターストリート）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定キャラクターグッズ販売ポップアップ（2026-11-06〜2026-11-12）"
+    },
+    {
       "name": "ミスタードーナツ 岡山津高ショップ",
       "prefecture": "岡山県",
       "city": "岡山市北区",
@@ -6255,6 +6283,13 @@
       "category": "りんご飴・今川焼（リニューアル）"
     },
     {
+      "name": "茶寮 宇治和束園 醍醐寺店",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "opening_date": "2026-11-06",
+      "category": "日本茶カフェ・茶寮"
+    },
+    {
       "name": "島田小割製材所（2k540）",
       "prefecture": "東京都",
       "city": "台東区",
@@ -6297,18 +6332,32 @@
       "category": "中華料理"
     },
     {
-      "name": "茶寮 宇治和束園 醍醐寺店",
-      "prefecture": "京都府",
-      "city": "京都市伏見区",
-      "opening_date": "2026-11-06",
-      "category": "日本茶カフェ・茶寮"
-    },
-    {
       "name": "ASMO academy 霧島国分校",
       "prefecture": "鹿児島県",
       "city": "霧島市",
       "opening_date": "2026-11-07",
       "category": "個別指導塾（新規開校）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト宇都宮）",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-07",
+      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト渋谷）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
     },
     {
       "name": "chocoZAP みずほ台二丁目",
@@ -6330,6 +6379,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-07",
       "category": "公式ライセンス商品・期間限定ポップアップストア"
+    },
+    {
+      "name": "EXPO2025オフィシャルポップアップストア ラフォーレ原宿店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定公式ライセンスグッズ販売（2026-11-07〜2027-01-31）"
     },
     {
       "name": "KINDCARE 京王新宿店",
@@ -6444,13 +6500,6 @@
       "category": "和クレープ専門店（常設店舗）"
     },
     {
-      "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
-      "prefecture": "東京都",
-      "city": "港区",
-      "opening_date": "2026-11-07",
-      "category": "韓国料理（期間限定POPUP）"
-    },
-    {
       "name": "日本ファルコム創立45周年展（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -6458,32 +6507,11 @@
       "category": "期間限定ゲームグッズ・展示ポップアップ（2026-11-07〜2026-11-15）"
     },
     {
-      "name": "EXPO2025オフィシャルポップアップストア ラフォーレ原宿店",
+      "name": "冷麺toカルビ（高輪ゲートウェイ・先行POPUP）",
       "prefecture": "東京都",
-      "city": "渋谷区",
+      "city": "港区",
       "opening_date": "2026-11-07",
-      "category": "期間限定公式ライセンスグッズ販売（2026-11-07〜2027-01-31）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト宇都宮）",
-      "prefecture": "栃木県",
-      "city": "宇都宮市",
-      "opening_date": "2026-11-07",
-      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト渋谷）",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-07",
-      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
-      "opening_date": "2026-11-07",
-      "category": "期間限定公式ポップアップ（2026-11-07〜2026-11-15）"
+      "category": "韓国料理（期間限定POPUP）"
     },
     {
       "name": "zen place pilates 新横浜",
@@ -6512,6 +6540,13 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-09",
       "category": "期間限定ポップアップ（アクセサリー・雑貨、2026-11-09〜2026-11-12）"
+    },
+    {
+      "name": "お好み焼き鉄板焼き のんじ 天満店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-09",
+      "category": "お好み焼き・鉄板焼き"
     },
     {
       "name": "テンポス福岡飯塚店",
@@ -6575,13 +6610,6 @@
       "city": "豊中市",
       "opening_date": "2026-11-09",
       "category": "牛丼・定食（営業再開）"
-    },
-    {
-      "name": "お好み焼き鉄板焼き のんじ 天満店",
-      "prefecture": "大阪府",
-      "city": "大阪市北区",
-      "opening_date": "2026-11-09",
-      "category": "お好み焼き・鉄板焼き"
     },
     {
       "name": "BASE LAYER HOTEL KOBE SANNOMIYA",
@@ -6654,6 +6682,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "EXPO2025オフィシャルポップアップストア エキュート秋葉原店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定公式ライセンスグッズ販売（2026-11-10〜2026-12-10）"
+    },
+    {
       "name": "FIT-EASY 寝屋川店",
       "prefecture": "大阪府",
       "city": "寝屋川市",
@@ -6701,6 +6736,13 @@
       "city": "足柄下郡箱根町",
       "opening_date": "2026-11-10",
       "category": "ホテル"
+    },
+    {
+      "name": "カフェ＆ベーカリーミヤビ 多摩センター店",
+      "prefecture": "東京都",
+      "city": "多摩市",
+      "opening_date": "2026-11-10",
+      "category": "カフェ・ベーカリー"
     },
     {
       "name": "セリア メガセンタートライアル日向店",
@@ -6764,20 +6806,6 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-10",
       "category": "パティスリー"
-    },
-    {
-      "name": "カフェ＆ベーカリーミヤビ 多摩センター店",
-      "prefecture": "東京都",
-      "city": "多摩市",
-      "opening_date": "2026-11-10",
-      "category": "カフェ・ベーカリー"
-    },
-    {
-      "name": "EXPO2025オフィシャルポップアップストア エキュート秋葉原店",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-10",
-      "category": "期間限定公式ライセンスグッズ販売（2026-11-10〜2026-12-10）"
     },
     {
       "name": "chocoZAP 深谷緑ヶ丘",
@@ -6962,6 +6990,13 @@
       "category": "照明・インテリア専門店"
     },
     {
+      "name": "一石三鳥 韓邸 渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-11",
+      "category": "韓国料理店"
+    },
+    {
       "name": "赤から池尻大橋店",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -7002,13 +7037,6 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
-    },
-    {
-      "name": "一石三鳥 韓邸 渋谷",
-      "prefecture": "東京都",
-      "city": "渋谷区",
-      "opening_date": "2026-11-11",
-      "category": "韓国料理店"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（新宿）",
@@ -7270,6 +7298,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "CITY HUNTER POP UP STORE -Midnight Rendezvous-（ハンズ北千住店）",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定公式グッズ販売ポップアップ（2026-11-13〜2026-12-21）"
+    },
+    {
       "name": "CRASH GATE 千葉ニュータウン店",
       "prefecture": "千葉県",
       "city": "印西市",
@@ -7389,11 +7424,25 @@
       "category": "カー用品リユース（10/23プレオープン、11/13グランドオープン）"
     },
     {
+      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（アトレ秋葉原）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-13〜2026-11-26）"
+    },
+    {
       "name": "アニメイト名古屋パルコ（移転・増床リニューアル）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
       "opening_date": "2026-11-13",
       "category": "アニメ・コミック・ゲーム専門店（移転・増床リニューアル）"
+    },
+    {
+      "name": "イキヅライブ！ LOVELIVE! BLUEBIRD POP UP SHOP ～Winter♡Date～（東京アニメセンター）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定公式グッズ販売・展示ポップアップ（2026-11-13〜2026-11-29）"
     },
     {
       "name": "ガシャポンバンダイオフィシャルショップTSUTAYA BOOKSTOREビバモール寝屋川店",
@@ -7669,13 +7718,6 @@
       "category": "寿司"
     },
     {
-      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（アトレ秋葉原）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-13",
-      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-13〜2026-11-26）"
-    },
-    {
       "name": "chocoZAP 白井堀込",
       "prefecture": "千葉県",
       "city": "白井市",
@@ -7683,11 +7725,25 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "N WITH. 2026 AW POPUP STORE in TOKYO（代官山）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定ファッションポップアップ（2026-11-14〜2026-11-15）"
+    },
+    {
       "name": "roan（京都御苑エリア）",
       "prefecture": "京都府",
       "city": "京都市中京区",
       "opening_date": "2026-11-14",
       "category": "抹茶カフェ"
+    },
+    {
+      "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-14〜2026-12-02）"
     },
     {
       "name": "ぜにや 祇園店",
@@ -7709,13 +7765,6 @@
       "city": "京都市東山区",
       "opening_date": "2026-11-14",
       "category": "お香・線香・フレグランス"
-    },
-    {
-      "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
-      "prefecture": "京都府",
-      "city": "京都市下京区",
-      "opening_date": "2026-11-14",
-      "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-14〜2026-12-02）"
     },
     {
       "name": "neverbetter",
@@ -8124,6 +8173,13 @@
       "category": "期間限定キャラクター雑貨ポップアップストア"
     },
     {
+      "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 POP UP STORE（吉祥寺ロフト）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-18",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-18〜2026-12-08）"
+    },
+    {
       "name": "リンガーハット そよらひたち野うしく店",
       "prefecture": "茨城県",
       "city": "牛久市",
@@ -8157,13 +8213,6 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
-    },
-    {
-      "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 POP UP STORE（吉祥寺ロフト）",
-      "prefecture": "東京都",
-      "city": "武蔵野市",
-      "opening_date": "2026-11-18",
-      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-18〜2026-12-08）"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
@@ -8255,6 +8304,13 @@
       "city": "薩摩川内市",
       "opening_date": "2026-11-19",
       "category": "ファストフード"
+    },
+    {
+      "name": "ゴンチャ（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-19",
+      "category": "ティーカフェ"
     },
     {
       "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
@@ -8353,13 +8409,6 @@
       "city": "習志野市",
       "opening_date": "2026-11-19",
       "category": "期間限定テイクアウト催事（2026-11-19〜2027-01-18）"
-    },
-    {
-      "name": "ゴンチャ（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-19",
-      "category": "ティーカフェ"
     },
     {
       "name": "3COINS+plus（IKEDIA）",
@@ -8824,6 +8873,13 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+    },
+    {
       "name": "LASTFRAME POP-UP STORE（渋谷スクランブルスクエア）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -8852,51 +8908,9 @@
       "category": "キャンディ専門店"
     },
     {
-      "name": "ケンタッキーフライドチキン 尾張旭店",
-      "prefecture": "愛知県",
-      "city": "尾張旭市",
-      "opening_date": "2026-11-21",
-      "category": "ファストフード"
-    },
-    {
-      "name": "ビッグ・エー狭山中央店",
-      "prefecture": "埼玉県",
-      "city": "狭山市",
-      "opening_date": "2026-11-21",
-      "category": "ディスカウントストア"
-    },
-    {
-      "name": "松屋 住之江新北島店（松のや併設）",
-      "prefecture": "大阪府",
-      "city": "大阪市住之江区",
-      "opening_date": "2026-11-21",
-      "category": "牛丼・定食（松のや併設）"
-    },
-    {
-      "name": "炭焼うなぎふじさん 半田店",
-      "prefecture": "愛知県",
-      "city": "半田市",
-      "opening_date": "2026-11-21",
-      "category": "うなぎ専門店"
-    },
-    {
       "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア・アキバ）",
       "prefecture": "東京都",
       "city": "千代田区",
-      "opening_date": "2026-11-21",
-      "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
-    },
-    {
-      "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア大阪）",
-      "prefecture": "大阪府",
-      "city": "大阪市中央区",
-      "opening_date": "2026-11-21",
-      "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
-    },
-    {
-      "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア名古屋）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
       "opening_date": "2026-11-21",
       "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
     },
@@ -8915,11 +8929,32 @@
       "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
     },
     {
-      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア大阪）",
+      "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア大阪）",
       "prefecture": "大阪府",
       "city": "大阪市中央区",
       "opening_date": "2026-11-21",
-      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+      "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+    },
+    {
+      "name": "TVアニメ「幼女戦記Ⅱ」POP UP SHOP（ジーストア名古屋）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定アニメ公式グッズ・展示ポップアップ（2026-11-21〜2026-12-06）"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 尾張旭店",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "opening_date": "2026-11-21",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ビッグ・エー狭山中央店",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-11-21",
+      "category": "ディスカウントストア"
     },
     {
       "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア小倉）",
@@ -8929,11 +8964,25 @@
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
     },
     {
-      "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
+      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア大阪）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
       "opening_date": "2026-11-21",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
+    },
+    {
+      "name": "松屋 住之江新北島店（松のや併設）",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "opening_date": "2026-11-21",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "炭焼うなぎふじさん 半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2026-11-21",
+      "category": "うなぎ専門店"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
@@ -10126,6 +10175,13 @@
       "category": "牛丼・定食（営業再開）"
     },
     {
+      "name": "星乃珈琲店（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-27",
+      "category": "カフェ"
+    },
+    {
       "name": "築地食堂 源ちゃん イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
@@ -10175,11 +10231,25 @@
       "category": "味噌ラーメン"
     },
     {
-      "name": "星乃珈琲店（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-27",
-      "category": "カフェ"
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイトアバンティ京都）",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-11-28",
+      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト横浜ビブレ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-28",
+      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト富山）",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-11-28",
+      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
     },
     {
       "name": "Bistro IKEDAYAMA",
@@ -10411,27 +10481,6 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト富山）",
-      "prefecture": "富山県",
-      "city": "富山市",
-      "opening_date": "2026-11-28",
-      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト横浜ビブレ）",
-      "prefecture": "神奈川県",
-      "city": "横浜市西区",
-      "opening_date": "2026-11-28",
-      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイトアバンティ京都）",
-      "prefecture": "京都府",
-      "city": "京都市南区",
-      "opening_date": "2026-11-28",
-      "category": "期間限定公式ポップアップ（2026-11-28〜2026-12-06）"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
@@ -10777,16 +10826,16 @@
       "category": "ファストフード（ブランド変更・リニューアル予定）"
     },
     {
-      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
+      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
       "opening_date": "2026-12-05",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-05〜2026-12-13）"
     },
     {
-      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア仙台）",
-      "prefecture": "宮城県",
-      "city": "仙台市青葉区",
+      "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
       "opening_date": "2026-12-05",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-05〜2026-12-13）"
     },
@@ -11351,11 +11400,53 @@
       "category": "期間限定コラボカフェ（アーティスト）"
     },
     {
+      "name": "JB's TOKYO（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "ハンバーガー専門店"
+    },
+    {
       "name": "P.Seven茶香水 表参道ブランドコンセプトストア",
       "prefecture": "東京都",
       "city": "渋谷区",
       "opening_date": "2026-12-10",
       "category": "フレグランス・ライフスタイル"
+    },
+    {
+      "name": "PIZZERIA TRATTORIA 裏秋葉原（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "イタリアンレストラン"
+    },
+    {
+      "name": "yellow（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "オムライス専門店"
+    },
+    {
+      "name": "うなぎ四代目菊川（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "うなぎ料理"
+    },
+    {
+      "name": "お好み焼ゆかり（秋葉原UDX・リニューアル）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "お好み焼き・鉄板焼き（リニューアル）"
+    },
+    {
+      "name": "クリスプサラダワークス（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "カスタムサラダ専門店"
     },
     {
       "name": "ジャックインザドーナツ（ノースポート・モール）",
@@ -11372,53 +11463,11 @@
       "category": "ハンバーガー"
     },
     {
-      "name": "yellow（秋葉原UDX）",
+      "name": "もりもり寿し（秋葉原UDX）",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-12-10",
-      "category": "オムライス専門店"
-    },
-    {
-      "name": "北海道スープカレーSuage（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "スープカレー"
-    },
-    {
-      "name": "上海小籠包 厨房 阿杏（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "中華料理・小籠包"
-    },
-    {
-      "name": "JB's TOKYO（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "ハンバーガー専門店"
-    },
-    {
-      "name": "PIZZERIA TRATTORIA 裏秋葉原（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "イタリアンレストラン"
-    },
-    {
-      "name": "クリスプサラダワークス（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "カスタムサラダ専門店"
-    },
-    {
-      "name": "芝浜市場（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "海鮮料理"
+      "category": "回転寿司"
     },
     {
       "name": "ローストビーフ大野（秋葉原UDX）",
@@ -11428,32 +11477,11 @@
       "category": "ローストビーフ丼専門店"
     },
     {
-      "name": "食堂 すゞめ（秋葉原UDX）",
+      "name": "串揚げ新宿立吉（秋葉原UDX・リニューアル）",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-12-10",
-      "category": "食堂・定食"
-    },
-    {
-      "name": "焼肉 牛たん山科（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "焼肉"
-    },
-    {
-      "name": "もりもり寿し（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "回転寿司"
-    },
-    {
-      "name": "うなぎ四代目菊川（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-12-10",
-      "category": "うなぎ料理"
+      "category": "串揚げ専門店（リニューアル）"
     },
     {
       "name": "月島もんじゃ くうや（秋葉原UDX）",
@@ -11463,11 +11491,32 @@
       "category": "もんじゃ焼き"
     },
     {
-      "name": "天ぷら ひさご（秋葉原UDX・リニューアル）",
+      "name": "芝浜市場（秋葉原UDX）",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-12-10",
-      "category": "天ぷら専門店（リニューアル）"
+      "category": "海鮮料理"
+    },
+    {
+      "name": "焼肉 牛たん山科（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "焼肉"
+    },
+    {
+      "name": "上海小籠包 厨房 阿杏（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "中華料理・小籠包"
+    },
+    {
+      "name": "食堂 すゞめ（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "食堂・定食"
     },
     {
       "name": "新宿すずや（秋葉原UDX・リニューアル）",
@@ -11477,18 +11526,18 @@
       "category": "とんかつ（リニューアル）"
     },
     {
-      "name": "お好み焼ゆかり（秋葉原UDX・リニューアル）",
+      "name": "天ぷら ひさご（秋葉原UDX・リニューアル）",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-12-10",
-      "category": "お好み焼き・鉄板焼き（リニューアル）"
+      "category": "天ぷら専門店（リニューアル）"
     },
     {
-      "name": "串揚げ新宿立吉（秋葉原UDX・リニューアル）",
+      "name": "北海道スープカレーSuage（秋葉原UDX）",
       "prefecture": "東京都",
       "city": "千代田区",
       "opening_date": "2026-12-10",
-      "category": "串揚げ専門店（リニューアル）"
+      "category": "スープカレー"
     },
     {
       "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
@@ -11561,18 +11610,11 @@
       "category": "映画館（リニューアル）"
     },
     {
-      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア名古屋）",
-      "prefecture": "愛知県",
-      "city": "名古屋市中区",
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
       "opening_date": "2026-12-19",
-      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
-    },
-    {
-      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア小倉）",
-      "prefecture": "福岡県",
-      "city": "北九州市小倉北区",
-      "opening_date": "2026-12-19",
-      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
+      "category": "期間限定公式ポップアップ（2026-12-19〜2026-12-27）"
     },
     {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト吉祥寺パルコ）",
@@ -11589,11 +11631,18 @@
       "category": "期間限定公式ポップアップ（2026-12-19〜2026-12-27）"
     },
     {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
-      "prefecture": "岐阜県",
-      "city": "岐阜市",
+      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア小倉）",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
       "opening_date": "2026-12-19",
-      "category": "期間限定公式ポップアップ（2026-12-19〜2026-12-27）"
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
+    },
+    {
+      "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア名古屋）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-19",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-19〜2027-01-03）"
     },
     {
       "name": "アイスヴィレッジ（星野リゾート トマム）",
@@ -11659,6 +11708,27 @@
       "category": "期間限定コラボカフェ（2027-01-06〜2027-03-07）"
     },
     {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト高崎）",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2027-01-09",
+      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト三宮）",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2027-01-09",
+      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト立川）",
+      "prefecture": "東京都",
+      "city": "立川市",
+      "opening_date": "2027-01-09",
+      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
+    },
+    {
       "name": "アニメ「ぼっち・ざ・ろっく！」ポップアップショップ～Winter 2026/2027～（ジーストア大阪）",
       "prefecture": "大阪府",
       "city": "大阪市中央区",
@@ -11671,27 +11741,6 @@
       "city": "名古屋市中区",
       "opening_date": "2027-01-09",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-09〜2027-01-17）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト高崎）",
-      "prefecture": "群馬県",
-      "city": "高崎市",
-      "opening_date": "2027-01-09",
-      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト立川）",
-      "prefecture": "東京都",
-      "city": "立川市",
-      "opening_date": "2027-01-09",
-      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
-    },
-    {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト三宮）",
-      "prefecture": "兵庫県",
-      "city": "神戸市中央区",
-      "opening_date": "2027-01-09",
-      "category": "期間限定公式ポップアップ（2027-01-09〜2027-01-17）"
     },
     {
       "name": "Identity V 第五人格 POP UP SHOP in ハンズ横浜店",
@@ -11750,13 +11799,6 @@
       "category": "期間限定公式グッズ販売・展示ポップアップストア"
     },
     {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト町田）",
-      "prefecture": "東京都",
-      "city": "町田市",
-      "opening_date": "2027-01-30",
-      "category": "期間限定公式ポップアップ（2027-01-30〜2027-02-07）"
-    },
-    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト新潟）",
       "prefecture": "新潟県",
       "city": "新潟市中央区",
@@ -11767,6 +11809,13 @@
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト川越）",
       "prefecture": "埼玉県",
       "city": "川越市",
+      "opening_date": "2027-01-30",
+      "category": "期間限定公式ポップアップ（2027-01-30〜2027-02-07）"
+    },
+    {
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト町田）",
+      "prefecture": "東京都",
+      "city": "町田市",
       "opening_date": "2027-01-30",
       "category": "期間限定公式ポップアップ（2027-01-30〜2027-02-07）"
     },
@@ -11785,16 +11834,16 @@
       "category": "期間限定公式グッズ販売・展示ポップアップストア"
     },
     {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト青森）",
-      "prefecture": "青森県",
-      "city": "青森市",
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト新宿）",
+      "prefecture": "東京都",
+      "city": "新宿区",
       "opening_date": "2027-02-20",
       "category": "期間限定公式ポップアップ（2027-02-20〜2027-02-28）"
     },
     {
-      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト新宿）",
-      "prefecture": "東京都",
-      "city": "新宿区",
+      "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト青森）",
+      "prefecture": "青森県",
+      "city": "青森市",
       "opening_date": "2027-02-20",
       "category": "期間限定公式ポップアップ（2027-02-20〜2027-02-28）"
     }
