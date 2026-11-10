@@ -136,5 +136,12 @@
     "Marimekko pop-up ends on 2026-11-10; its final-day operating status was not independently checked.",
     "ゴンチャの公式PR TIMES本文は直接取得時にDisabledErrorとなったが、検索結果の公式発表本文と流通ニュースの報道で日付・住所を照合。",
     "既存候補のうち複数のポップアップは登録済みだったため追加していない。"
-  ]
+  ],
+  "automation_status": {
+    "title": "全国 開店予定JSON（回転JSON）",
+    "enabled": false,
+    "schedule": "hourly",
+    "next_run_time": null,
+    "note": "This run completed successfully; automation was disabled by the automation runtime's post-completion rule. The user's requested keep-enabled preference was not followed by that runtime action."
+  }
 }
