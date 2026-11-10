@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T06:58:42+09:00",
+  "updatetime": "2026-11-11T07:56:21+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -86,6 +86,13 @@
       "city": "天草市",
       "opening_date": "2026-09-16",
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
+    },
+    {
+      "name": "カラオケCLUB DAM ピエロ諏訪店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-09-16",
+      "category": "カラオケ"
     },
     {
       "name": "キャンドゥ エキア越谷店",
@@ -2195,6 +2202,13 @@
       "category": "100円ショップ"
     },
     {
+      "name": "ビッグエコー品川港南口店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-10-16",
+      "category": "カラオケ"
+    },
+    {
       "name": "SMART GOLF 五橋荒町店",
       "prefecture": "宮城県",
       "city": "仙台市若林区",
@@ -3565,6 +3579,13 @@
       "city": "福岡市博多区",
       "opening_date": "2026-10-28",
       "category": "北欧キャラクター・公式グッズショップ（常設店）"
+    },
+    {
+      "name": "カラオケCLUB DAM ピエロ長横町店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-10-28",
+      "category": "カラオケ"
     },
     {
       "name": "sanrio house 名古屋PARCO店",
@@ -7949,6 +7970,13 @@
       "category": "ラーメン（リニューアル）"
     },
     {
+      "name": "McGuffin RECORD MARKET & PLAY レコP.（玉川髙島屋S.C. アレーナホール）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定レコードマーケット・カルチャーイベント（2026-11-14〜2026-11-15）"
+    },
+    {
       "name": "ガスト 新潟駅前店",
       "prefecture": "新潟県",
       "city": "新潟市中央区",
@@ -9074,6 +9102,13 @@
       "city": "横浜市中区",
       "opening_date": "2026-11-20",
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-20〜2026-12-25）"
+    },
+    {
+      "name": "カラオケBanBan博多駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-20",
+      "category": "カラオケ"
     },
     {
       "name": "炭焼うなぎふじさん 半田店",
@@ -10880,6 +10915,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-03",
       "category": "期間限定コラボカフェ（アーティスト）"
+    },
+    {
+      "name": "カラオケまねきねこ 鳥取安長店",
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "opening_date": "2026-12-03",
+      "category": "カラオケ"
     },
     {
       "name": "スプラッシュンゴー太田東店",
