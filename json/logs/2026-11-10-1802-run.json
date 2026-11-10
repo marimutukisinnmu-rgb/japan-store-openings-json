@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-10T18:02:00+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "HANDS official: Identity V popup",
+      "url": "https://store.hands.net/shinjuku/item/5f/5fidentity-v-pop-up-shop-in.html",
+      "verified_dates": "2026-11-10 to 2026-11-24 and 2027-01-14 to 2027-01-27",
+      "venues": [
+        "ハンズ新宿店",
+        "ハンズ横浜店",
+        "ハンズ心斎橋店"
+      ]
+    },
+    {
+      "source": "HANDS official store locations",
+      "urls": [
+        "https://store.hands.net/shinjuku/",
+        "https://store.hands.net/yokohama/",
+        "https://store.hands.net/shinsaibashi/"
+      ],
+      "verified": true
+    },
+    {
+      "source": "TOWER RECORDS official: New Prince of Tennis musical popup",
+      "url": "https://cdfront.tower.jp/store/news/2026/10/4001",
+      "verified_dates": "2026-11-13 to 2026-11-23",
+      "venue": "タワーレコード池袋店"
+    },
+    {
+      "source": "AMNIBUS official: Natsume Yuujinchou popup",
+      "url": "https://event.amnibus.com/natsume-tower/",
+      "verified_dates": "2026-11-20 to 2026-11-29",
+      "venues": [
+        "タワーレコード新宿店",
+        "タワーレコード梅田NU茶屋町店"
+      ]
+    }
+  ],
+  "changes": {
+    "before": 1606,
+    "added": [
+      {
+        "name": "Identity V 第五人格 POP UP SHOP in ハンズ新宿店",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-10",
+        "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-10〜2026-11-24）"
+      },
+      {
+        "name": "ミュージカル『新テニスの王子様』The Final Stage POP UP SHOP IN TOWER RECORDS（池袋店）",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-13",
+        "category": "期間限定ミュージカル公式グッズ・ポップアップ（2026-11-13〜2026-11-23）"
+      },
+      {
+        "name": "夏目友人帳 POP UP SHOP in TOWER RECORDS（新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-20",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-20〜2026-11-29）"
+      },
+      {
+        "name": "夏目友人帳 POP UP SHOP in TOWER RECORDS（梅田NU茶屋町店）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-11-20",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-20〜2026-11-29）"
+      },
+      {
+        "name": "Identity V 第五人格 POP UP SHOP in ハンズ横浜店",
+        "prefecture": "神奈川県",
+        "city": "横浜市西区",
+        "opening_date": "2027-01-14",
+        "category": "期間限定キャラクターグッズ・ポップアップ（2027-01-14〜2027-01-27）"
+      },
+      {
+        "name": "Identity V 第五人格 POP UP SHOP in ハンズ心斎橋店",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2027-01-14",
+        "category": "期間限定キャラクターグッズ・ポップアップ（2027-01-14〜2027-01-27）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0,
+    "after": 1612
+  },
+  "verification": {
+    "savedCount": 1612,
+    "expectedCount": 1612,
+    "oldRecordsMissing": 0,
+    "newRecordsPresent": 6,
+    "sha": "138653d01d46f89f8347faf7a5cec76a51d6986f",
+    "commitSha": "ccd272e2b2f4c6edb06a6a6e33b0e6fa7013c9d6",
+    "updatetime": "2026-11-10T18:02:00+09:00",
+    "parseOk": true,
+    "sorted": true
+  },
+  "limitations": [
+    "全国すべての事業者・催事の網羅性は未確認",
+    "催事の実開催・変更有無は開催前後の再確認が必要"
+  ]
+}
