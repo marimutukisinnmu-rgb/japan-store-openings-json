@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-10T20:04:36+09:00",
+  "updatetime": "2026-11-10T20:59:55+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5147,6 +5147,13 @@
       "city": "入間市",
       "opening_date": "2026-11-03",
       "category": "住宅展示場・モデルハウス（リニューアル）"
+    },
+    {
+      "name": "ハイキュー!! × and GALLERY コラボカフェ（有楽町店）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定コラボカフェ（アニメ・2026-11-03〜2026-12-06）"
     },
     {
       "name": "Magical holiday pop-up by Marimekko（伊勢丹新宿店）",
