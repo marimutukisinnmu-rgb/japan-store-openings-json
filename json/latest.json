@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-11",
   "scope": "Japan",
-  "updatetime": "2026-11-10T04:03:55+09:00",
+  "updatetime": "2026-11-10T18:02:00+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -6598,6 +6598,13 @@
       "category": "ジュエリー・セレクトショップ（リニューアル）"
     },
     {
+      "name": "Identity V 第五人格 POP UP SHOP in ハンズ新宿店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-10〜2026-11-24）"
+    },
+    {
       "name": "PRESS BUTTER SAND エキュート赤羽 POPUP",
       "prefecture": "東京都",
       "city": "北区",
@@ -7471,6 +7478,13 @@
       "city": "八尾市",
       "opening_date": "2026-11-13",
       "category": "靴修理・合鍵・各種修理"
+    },
+    {
+      "name": "ミュージカル『新テニスの王子様』The Final Stage POP UP SHOP IN TOWER RECORDS（池袋店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ミュージカル公式グッズ・ポップアップ（2026-11-13〜2026-11-23）"
     },
     {
       "name": "ローソン 東郷深池",
@@ -8598,6 +8612,20 @@
       "city": "西東京市",
       "opening_date": "2026-11-20",
       "category": "コンビニ"
+    },
+    {
+      "name": "夏目友人帳 POP UP SHOP in TOWER RECORDS（新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "夏目友人帳 POP UP SHOP in TOWER RECORDS（梅田NU茶屋町店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-20〜2026-11-29）"
     },
     {
       "name": "高岡ロフト",
@@ -11209,6 +11237,20 @@
       "city": "豊島区",
       "opening_date": "2027-01-06",
       "category": "期間限定コラボカフェ（2027-01-06〜2027-03-07）"
+    },
+    {
+      "name": "Identity V 第五人格 POP UP SHOP in ハンズ横浜店",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2027-01-14",
+      "category": "期間限定キャラクターグッズ・ポップアップ（2027-01-14〜2027-01-27）"
+    },
+    {
+      "name": "Identity V 第五人格 POP UP SHOP in ハンズ心斎橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2027-01-14",
+      "category": "期間限定キャラクターグッズ・ポップアップ（2027-01-14〜2027-01-27）"
     },
     {
       "name": "原神CAFE",
