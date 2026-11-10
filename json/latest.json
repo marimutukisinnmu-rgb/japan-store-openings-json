@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T00:04:35+09:00",
+  "updatetime": "2026-11-11T01:02:25+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5037,6 +5037,13 @@
       "category": "買取専門店"
     },
     {
+      "name": "エニタイムフィットネス 錦糸町店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-02",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "BONAVENTURA 丸ビル店",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -5343,6 +5350,13 @@
       "city": "姫路市",
       "opening_date": "2026-11-04",
       "category": "お好み焼き・どろ焼（鉄板焼）"
+    },
+    {
+      "name": "エニタイムフィットネス 鶴間店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "opening_date": "2026-11-04",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "ABC-MART（酒々井プレミアム・アウトレット）",
