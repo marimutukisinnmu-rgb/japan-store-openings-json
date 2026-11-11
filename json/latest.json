@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T09:03:45+09:00",
+  "updatetime": "2026-11-11T09:58:33+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -2629,6 +2629,13 @@
       "category": "期間限定キャラクターグッズ・ポップアップ（2026-10-22〜2026-11-01）"
     },
     {
+      "name": "I'M DORAEMON POP-UP STORE BY FLOWERING（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-22",
+      "category": "期間限定キャラクターグッズショップ（2026-10-22〜2026-11-15）"
+    },
+    {
       "name": "OWNDAYS ヴェルサウォーク西尾店",
       "prefecture": "愛知県",
       "city": "西尾市",
@@ -2956,6 +2963,13 @@
       "city": "和歌山市",
       "opening_date": "2026-10-23",
       "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "ALPHA INDUSTRIES（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-23",
+      "category": "期間限定ファッションショップ（2026-10-23〜2027-01-29）"
     },
     {
       "name": "FIT LABO 坂戸店",
@@ -4484,6 +4498,20 @@
       "category": "期間限定ポップアップ（焼菓子、2026-10-30〜2026-10-31）"
     },
     {
+      "name": "ドズル社 POP UP STORE「風雷花響」（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定公式グッズ・展示ポップアップ（2026-10-30〜2026-11-23）"
+    },
+    {
+      "name": "カピバラさん POP-UP ぜんこくおでかけ とてててショップ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定キャラクターグッズショップ（2026-10-30〜2026-11-15）"
+    },
+    {
       "name": "PRESS BUTTER SAND 名古屋栄三越店（移転リニューアル）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -5030,6 +5058,34 @@
       "category": "期間限定ポップアップ（レジンアクセサリー・アート、2026-11-01〜2026-11-03）"
     },
     {
+      "name": "POP UP MON・CREVE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定食品ショップ（2026-11-01〜2026-11-30）"
+    },
+    {
+      "name": "栗処くりと（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定食品ショップ（2026-11-01〜2026-11-15）"
+    },
+    {
+      "name": "デセール・シュー（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定食品ショップ（2026-11-01〜2026-11-15）"
+    },
+    {
+      "name": "スイートオーケストラ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定食品ショップ（2026-11-01〜2026-11-30）"
+    },
+    {
       "name": "阿蘇リトリート HONO by 温故知新",
       "prefecture": "熊本県",
       "city": "阿蘇郡南阿蘇村",
@@ -5357,6 +5413,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-03",
       "category": "期間限定キャラクターグッズ販売ポップアップ（2026-11-03〜2026-11-17）"
+    },
+    {
+      "name": "Five Nights at Freddy’s POP UP STORE（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-03",
+      "category": "期間限定キャラクターグッズショップ（2026-11-03〜2026-11-17）"
     },
     {
       "name": "ゆで太郎 利府店（もつ次郎併設）",
@@ -5854,6 +5917,13 @@
       "city": "広島市西区",
       "opening_date": "2026-11-05",
       "category": "期間限定ポップアップ（ジュエリー・アパレル、2026-11-05〜2026-11-18）"
+    },
+    {
+      "name": "好奇心の部屋（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定雑貨ショップ（2026-11-05〜2027-01-31）"
     },
     {
       "name": "東横INN豊橋駅前大通り",
@@ -6605,6 +6675,27 @@
       "category": "期間限定ポップアップ（古着・ぬいぐるみ、2026-11-06〜2026-11-11）"
     },
     {
+      "name": "LOEFF 26AW COLLECTION POP-UP STORE（ユナイテッドアローズ仙台店）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ファッション販売会（2026-11-06〜2026-11-15）"
+    },
+    {
+      "name": "LOEFF 26AW COLLECTION POP-UP STORE（ユナイテッドアローズ柏店）",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ファッション販売会（2026-11-06〜2026-12-06）"
+    },
+    {
+      "name": "enchanted（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ショップ（2026-11-06〜2027-01-11）"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -6806,6 +6897,20 @@
       "city": "台東区",
       "opening_date": "2026-11-08",
       "category": "ホテル（全館リニューアル）"
+    },
+    {
+      "name": "PYRENEX 2026 AUTUMN & WINTER COLLECTION for MEN（ユナイテッドアローズ有楽町店）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-08",
+      "category": "期間限定ファッション販売会（2026-11-08〜2026-11-18）"
+    },
+    {
+      "name": "PYRENEX 2026 AUTUMN & WINTER COLLECTION for MEN（ユナイテッドアローズ新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-08",
+      "category": "期間限定ファッション販売会（2026-11-08〜2026-11-18）"
     },
     {
       "name": "高価買取おたからや アオキスーパー今伊勢店",
@@ -7361,6 +7466,13 @@
       "category": "期間限定ポップアップ（生活雑貨・食品、2026-11-11〜2026-11-23）"
     },
     {
+      "name": "MOOOSH SQUISHY（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定雑貨・スクイーズショップ（2026-11-11〜2026-12-09）"
+    },
+    {
       "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
       "prefecture": "愛知県",
       "city": "稲沢市",
@@ -7597,6 +7709,20 @@
       "city": "川西市",
       "opening_date": "2026-11-12",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "District UNITED ARROWS POP-UP（ユナイテッドアローズ広島店）",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定ファッションポップアップ（2026-11-12〜2026-11-23）"
+    },
+    {
+      "name": "W CONCEPT POP-UP STORE（RE RHEE／ラフォーレ原宿）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定ファッションポップアップ（2026-11-12〜2026-12-07）"
     },
     {
       "name": "ポケモンカードストア in ららぽーと愛知東郷",
@@ -8082,6 +8208,41 @@
       "category": "期間限定ポップアップ（イラスト・グッズ、2026-11-13〜2026-11-18）"
     },
     {
+      "name": "SY POP-UP STORE（ユナイテッドアローズ京都店）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッションポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "THE COLOR DISTRICT（ユナイテッドアローズ心斎橋店）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッションポップアップ（2026-11-13〜2026-11-24）"
+    },
+    {
+      "name": "LOEFF 26AW COLLECTION POP-UP STORE（ユナイテッドアローズ新潟店）",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッション販売会（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "PYRENEX 2026 AUTUMN & WINTER COLLECTION for MEN（ユナイテッドアローズなんば店）",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッション販売会（2026-11-13〜2026-11-24）"
+    },
+    {
+      "name": "EXPO 2027 オフィシャルストア ジュンク堂書店 藤沢店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-11-13",
+      "category": "公式ライセンスグッズショップ"
+    },
+    {
       "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
       "prefecture": "京都府",
       "city": "京都市下京区",
@@ -8283,6 +8444,27 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-16",
       "category": "期間限定ポップアップ（クリスマスツリー・リース、2026-11-16〜2026-11-18）"
+    },
+    {
+      "name": "toroa（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定食品ショップ（2026-11-16〜2026-11-30）"
+    },
+    {
+      "name": "横浜バニラ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定食品ショップ（2026-11-16〜2026-11-30）"
+    },
+    {
+      "name": "アオイロマルシェ（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定雑貨・マーケット（2026-11-16〜2026-11-30）"
     },
     {
       "name": "栗乃薫（あみプレミアム・アウトレット催事）",
@@ -9284,6 +9466,34 @@
       "city": "福岡市博多区",
       "opening_date": "2026-11-20",
       "category": "カラオケ"
+    },
+    {
+      "name": "LOEFF 26AW COLLECTION POP-UP STORE（ユナイテッドアローズ渋谷スクランブルスクエア店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ファッション販売会（2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "LOEFF 26AW COLLECTION POP-UP STORE（ユナイテッドアローズ二子玉川店）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ファッション販売会（2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "奥 泰我 展「TRANSPARENT」（TABAYA United Arrows）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ガラス工芸展示・販売（2026-11-20〜2026-12-01）"
+    },
+    {
+      "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定映画関連ポップアップ（2026-11-20〜2026-12-10）"
     },
     {
       "name": "炭焼うなぎふじさん 半田店",
