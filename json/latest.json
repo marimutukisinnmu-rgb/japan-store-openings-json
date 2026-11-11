@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T10:56:03+09:00",
+  "updatetime": "2026-11-11T12:00:34+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -6717,6 +6717,13 @@
       "category": "期間限定ショップ（2026-11-06〜2027-01-11）"
     },
     {
+      "name": "Huffnagel（アトレ吉祥寺 期間限定ショップ）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-06",
+      "category": "期間限定洋菓子ショップ（2026-11-06〜2026-11-19）"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -7016,6 +7023,13 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-09",
       "category": "期間限定ポップアップ（アクセサリー・雑貨、2026-11-09〜2026-11-12）"
+    },
+    {
+      "name": "TRICOTÉ POPUP 2026 AW（Spiral Market アトレ吉祥寺）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-09",
+      "category": "期間限定ファッション・雑貨ポップアップ（2026-11-09〜2026-12-06）"
     },
     {
       "name": "圧釜うどん もちり 栄店",
@@ -7753,6 +7767,13 @@
       "category": "期間限定ファッションポップアップ（2026-11-12〜2026-12-07）"
     },
     {
+      "name": "いちびこ（アトレ吉祥寺 期間限定ショップ）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-12",
+      "category": "期間限定いちごスイーツショップ（2026-11-12〜2026-12-01）"
+    },
+    {
       "name": "ポケモンカードストア in ららぽーと愛知東郷",
       "prefecture": "愛知県",
       "city": "愛知郡東郷町",
@@ -8276,6 +8297,27 @@
       "city": "大田区",
       "opening_date": "2026-11-13",
       "category": "期間限定ポップアップストア（2026-11-13〜2026-11-15）"
+    },
+    {
+      "name": "Caledoor POP UP（BRITISH MADE 銀座店）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッションポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "Caledoor POP UP（BRITISH MADE 名古屋店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ファッションポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "塚田農場OBENTO＆DELI（アトレ吉祥寺）",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-13",
+      "category": "弁当・惣菜"
     },
     {
       "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
@@ -9657,6 +9699,13 @@
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-11-21〜2026-11-29）"
     },
     {
+      "name": "縁起物 開運小槌と名前札（東急プラザ蒲田）",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定縁起物・根付販売（2026-11-21〜2026-11-27）"
+    },
+    {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
       "prefecture": "千葉県",
       "city": "船橋市",
@@ -10915,6 +10964,20 @@
       "city": "長崎市",
       "opening_date": "2026-11-27",
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-27〜2027-01-12）"
+    },
+    {
+      "name": "Caledoor POP UP（BRITISH MADE 渋谷店）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ファッションポップアップ（2026-11-27〜2026-12-06）"
+    },
+    {
+      "name": "Caledoor POP UP（BRITISH MADE 大阪店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ファッションポップアップ（2026-11-27〜2026-12-06）"
     },
     {
       "name": "LifeFit アル・プラザ宇治東店",
