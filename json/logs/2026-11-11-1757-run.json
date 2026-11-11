@@ -1,0 +1,66 @@
+{
+  "run_at": "2026-11-11T17:57:20+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2003,
+    "blob_sha": "324d5352339f1a48e935cba5c07be084e04dc6cb",
+    "updatetime": "2026-11-11T16:59:42+09:00"
+  },
+  "change": {
+    "added_count": 2,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "added_items": [
+      {
+        "name": "マクドナルド ３６号恵庭店",
+        "prefecture": "北海道",
+        "city": "恵庭市",
+        "opening_date": "2026-11-12",
+        "category": "ファストフード"
+      },
+      {
+        "name": "マクドナルド 下曽根駅南口店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉南区",
+        "opening_date": "2026-11-18",
+        "category": "ファストフード"
+      }
+    ]
+  },
+  "after": {
+    "item_count": 2005,
+    "blob_sha": "4175451da5da0946596ba8eb6b0935c88ba266fc",
+    "updatetime": "2026-11-11T17:57:20+09:00",
+    "commit_sha": "a80bd60c523ae17c2d9e9ac46e9d58be402a0cc4"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "duplicate_name_prefecture_city_date_keys": true,
+    "existing_records_preserved": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "new_records_verified": true
+  },
+  "sources": [
+    "https://map.mcdonalds.co.jp/map/01659",
+    "https://crewrecruiting.mcdonalds.co.jp/map/40687",
+    "https://qr.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+    "https://japan.kfc.co.jp/news_release/8192"
+  ],
+  "exclusions": [
+    "McDonald's 409八街店: 公式店舗ページで所在地は確認できたが、開店日の一次情報を確認できなかったため未追加。",
+    "McDonald's 大船渡店: 開店日を示す一次情報を今回確認できなかったため未追加。",
+    "ミスタードーナツ そよらひたち野うしく店: 公式情報で確定した開店日を確認できなかったため未追加。",
+    "HANDS BLACK FRIDAY、イトーヨーカドーBLACK FRIDAY、三井ショッピングパークBLACK FRIDAYは店舗開店ではなくセール企画のため対象外。",
+    "既存登録済みの松屋 山形馬見ケ崎店・野洲店・住之江新北島店・倉敷大島店、KFC 11月新店9店舗、POP MART LUCUA SOUTH店、sanrio house渋谷PARCO店等は再追加しない。"
+  ],
+  "notes": [
+    "McDonald's 36号恵庭店は公式店舗検索ページに2026-11-12オープン予定と住所が明記。",
+    "McDonald's 下曽根駅南口店は公式採用ページに2026-11-18グランドオープンと住所が明記。",
+    "松屋公式新店一覧の4候補はすべて既存JSONに登録済み。KFC公式11月新店9店舗も既存JSONに登録済み。"
+  ]
+}
