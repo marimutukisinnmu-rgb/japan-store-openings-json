@@ -1,0 +1,201 @@
+{
+  "run_at": "2026-11-11T20:03:59+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2005,
+    "blob_sha": "4175451da5da0946596ba8eb6b0935c88ba266fc",
+    "updatetime": "2026-11-11T17:57:20+09:00"
+  },
+  "change": {
+    "added_count": 17,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "added_items": [
+      {
+        "name": "DAISO コーナン堺高須店",
+        "prefecture": "大阪府",
+        "city": "堺市堺区",
+        "opening_date": "2026-11-07",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "DAISO ディオ防府南店",
+        "prefecture": "山口県",
+        "city": "防府市",
+        "opening_date": "2026-11-07",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "Standard Products イオンモール綾川店",
+        "prefecture": "香川県",
+        "city": "綾歌郡綾川町",
+        "opening_date": "2026-11-06",
+        "category": "生活雑貨"
+      },
+      {
+        "name": "DAISO イオンモール綾川店",
+        "prefecture": "香川県",
+        "city": "綾歌郡綾川町",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "DAISO イオンタウン津河芸店",
+        "prefecture": "三重県",
+        "city": "津市",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "THREEPPY フジグランナタリー店",
+        "prefecture": "広島県",
+        "city": "廿日市市",
+        "opening_date": "2026-11-06",
+        "category": "300円ショップ・雑貨"
+      },
+      {
+        "name": "DAISO 洋服の青山牛久店",
+        "prefecture": "茨城県",
+        "city": "牛久市",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "THREEPPY イオンモール綾川店",
+        "prefecture": "香川県",
+        "city": "綾歌郡綾川町",
+        "opening_date": "2026-11-06",
+        "category": "300円ショップ・雑貨（リニューアル）"
+      },
+      {
+        "name": "DAISO フジグランナタリー店",
+        "prefecture": "広島県",
+        "city": "廿日市市",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ（リニューアル）"
+      },
+      {
+        "name": "DAISO 飯能緑町店",
+        "prefecture": "埼玉県",
+        "city": "飯能市",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ（リニューアル）"
+      },
+      {
+        "name": "DAISO 平針南店",
+        "prefecture": "愛知県",
+        "city": "名古屋市天白区",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ（リニューアル）"
+      },
+      {
+        "name": "DAISO モールプラザ草加店",
+        "prefecture": "埼玉県",
+        "city": "草加市",
+        "opening_date": "2026-11-06",
+        "category": "100円ショップ（リニューアル）"
+      },
+      {
+        "name": "DAISO 伏見石田大山店",
+        "prefecture": "京都府",
+        "city": "京都市伏見区",
+        "opening_date": "2026-11-05",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "DAISO ラッキー西岡店",
+        "prefecture": "北海道",
+        "city": "札幌市豊平区",
+        "opening_date": "2026-11-03",
+        "category": "100円ショップ"
+      },
+      {
+        "name": "ワッツウィズ 三次十日市ウォンツ店",
+        "prefecture": "広島県",
+        "city": "三次市",
+        "opening_date": "2026-11-15",
+        "category": "100円ショップ・生活雑貨"
+      },
+      {
+        "name": "ワッツウィズ 脇町くすりのレデイ店",
+        "prefecture": "徳島県",
+        "city": "美馬市",
+        "opening_date": "2026-11-14",
+        "category": "100円ショップ・生活雑貨"
+      },
+      {
+        "name": "ワッツウィズ 並柳ラ・ムー店",
+        "prefecture": "長野県",
+        "city": "松本市",
+        "opening_date": "2026-11-13",
+        "category": "100円ショップ・生活雑貨"
+      }
+    ]
+  },
+  "after": {
+    "item_count": 2022,
+    "blob_sha": "4a1ee787ad3ea848992dca3b03cd41f419d9d5db",
+    "updatetime": "2026-11-11T20:03:59+09:00",
+    "latest_json_modified": true,
+    "commit_sha": "7d3e61a7306b8a2bb40852649b4c2761111b0daf"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "duplicate_name_prefecture_city_date_keys": true,
+    "chronological_order": true,
+    "existing_records_preserved": true,
+    "latest_file_refetch": true,
+    "candidate_duplicate_checks": true,
+    "new_records_confirmed": true,
+    "saved_blob_sha_matches": true
+  },
+  "sources": [
+    "https://www.daiso-sangyo.co.jp/infolist/shop",
+    "https://www.daiso-sangyo.co.jp/shop/detail/005276",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010605",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003479",
+    "https://www.daiso-sangyo.co.jp/shop/detail/003389",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010585",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010592",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010595",
+    "https://www.daiso-sangyo.co.jp/shop/detail/002955",
+    "https://www.daiso-sangyo.co.jp/shop/detail/008928",
+    "https://www.daiso-sangyo.co.jp/shop/detail/001755",
+    "https://www.daiso-sangyo.co.jp/shop/detail/001910",
+    "https://www.daiso-sangyo.co.jp/shop/detail/007814",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010590",
+    "https://www.daiso-sangyo.co.jp/shop/detail/010626",
+    "https://www.watts-jp.com/",
+    "https://www.watts-jp.com/store-news/",
+    "https://www.watts-jp.com/shop/54216/",
+    "https://shop.tsuruha-g.com/3714",
+    "https://page.line.me/436twlzp",
+    "https://www.nishigen.co.jp/stores/",
+    "https://www.watts-jp.com/store-news/"
+  ],
+  "exclusions": [
+    "DAISO フェアモール福井店（2026-11-06）とStandard Products フェアモール福井店（2026-11-06）は既存登録済みのため再追加しない。",
+    "Can★Do 苅田店（2026-11-12）は既存登録済みのため再追加しない。",
+    "Watts公式の一部新店記事は『OPEN』のみで正確な開店日が本文・見出しから確認できないため、今回の追加対象から除外し、未確認とした。"
+  ],
+  "notes": [
+    "大創産業の公式NEW SHOP一覧で、11月3日〜7日の新規開店と改装日を確認。個別公式店舗ページで所在地を照合した。",
+    "改装として告知された5店舗は、既存JSONにもリニューアル案件があるため、リニューアル区分をカテゴリに明示して登録した。",
+    "Watts公式店舗ニュースで三次十日市ウォンツ店（11/15）、脇町くすりのレデイ店（11/14）、並柳ラ・ムー店（11/13）の開店日を確認。市区町村は各施設・運営会社の所在地情報と照合した。",
+    "CanDo苅田店、Watts高松一宮くすりのレデイ店、Watts福津リンク店などは既存登録済みのため追加していない。",
+    "既存2,005件はレコード内容を変更せず保持した。"
+  ],
+  "automation_status": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261107T140000\nRRULE:FREQ=HOURLY\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-11T20:00:00+09:00",
+    "last_run_status": "in_progress",
+    "last_run_completed_at": null,
+    "note": "実行管理情報を確認。スケジュールの変更・無効化は行っていない。"
+  }
+}
