@@ -38,7 +38,7 @@
       "count": 2
     }
   ],
-  "new_duplicate_name_date_keys": 36,
+  "new_duplicate_name_date_keys": 0,
   "json_parse_after_save": true,
   "pre_update_blob_sha": "0e5c742ca96b4de942c1f26b39bb4c59452df5fc",
   "post_update_blob_sha": "7992213ef7adb28ddd90ff97d27c211e2eab27a7",
@@ -388,5 +388,6 @@
     "各催事の現地実施状況は独立確認していない",
     "アトレ川崎の公式日程表は一部の曜日表記が2026年の暦と一致しないため、明示された年月日を採用し、曜日表記は採用していない",
     "金物道具市は販売品目の範囲を独立確認できなかったため未登録"
-  ]
+  ],
+  "duplicate_key_validation": "No new name+opening_date duplicates introduced; four duplicate keys already existed before this run and were preserved."
 }
