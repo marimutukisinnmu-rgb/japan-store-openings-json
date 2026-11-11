@@ -1,0 +1,71 @@
+{
+  "run_at": "2026-11-11T21:58:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "name": "家族亭公式・SRSホールディングス発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001073.000122416.html",
+      "confirmed": [
+        "店舗名",
+        "開店日 2026-11-13",
+        "住所 神奈川県横浜市港南区港南台3丁目1-3 港南台バーズ3階"
+      ]
+    },
+    {
+      "name": "TRIAL公式店舗ページ",
+      "url": "https://www.trial-net.co.jp/shops/827/",
+      "confirmed": [
+        "店舗名",
+        "グランドオープン予定 2026-11-13 08:00",
+        "住所 山口県山口市陶1170番1"
+      ]
+    }
+  ],
+  "before_count": 2027,
+  "added_count": 2,
+  "additions": [
+    {
+      "name": "家族亭 港南台バーズ店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港南区",
+      "opening_date": "2026-11-13",
+      "category": "そば・和食レストラン"
+    },
+    {
+      "name": "スーパーセンタートライアル 山口小郡店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-13",
+      "category": "スーパーマーケット"
+    }
+  ],
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "after_count": 2029,
+  "before_blob_sha": "e9ec946c76d35a8322581165f8a0314bb598c045",
+  "after_blob_sha": "7999db15962d0b41276f61f8f998a108f862360b",
+  "commit_sha": "ddb5abb96c1380f0f67ec09c4129622a6765e200",
+  "verification": {
+    "json_parse": true,
+    "new_records_present": true,
+    "all_existing_records_preserved": true,
+    "duplicate_keys": 0,
+    "required_fields_present": true,
+    "opening_dates_iso": true,
+    "sorted_by_opening_date": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches_write_result": true
+  },
+  "not_added": [
+    "公式情報で確認できた候補のうち、すでに登録済みの店舗は重複追加を見送り",
+    "店舗開店ではなくセール・一般イベントのみの候補は対象外"
+  ],
+  "errors": [],
+  "limitations": [
+    "全国すべての事業者・施設を網羅したものではない",
+    "現地での開店実施は独立確認していない"
+  ]
+}
