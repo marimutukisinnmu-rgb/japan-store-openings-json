@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T21:04:35+09:00",
+  "updatetime": "2026-11-11T21:58:20+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9130,6 +9130,20 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-13",
       "category": "寿司"
+    },
+    {
+      "name": "家族亭 港南台バーズ店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港南区",
+      "opening_date": "2026-11-13",
+      "category": "そば・和食レストラン"
+    },
+    {
+      "name": "スーパーセンタートライアル 山口小郡店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-13",
+      "category": "スーパーマーケット"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
