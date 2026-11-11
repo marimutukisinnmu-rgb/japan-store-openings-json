@@ -18,7 +18,9 @@
     "shaBefore": "d5cacaf53bcea8b0846fc183ca5ec97969c41b8e",
     "shaAfter": "aec6fd518d0b56467135e68a0158381719a26826",
     "commitSha": "3b92bf0254a0bcfe58d2a4e863209eb87e5295f6",
-    "updatedAt": "2026-11-11T09:03:45+09:00"
+    "updatedAt": "2026-11-11T09:03:45+09:00",
+    "shaAfterCorrection": "6b6119832a469466b88b82980a940274b2509e7e",
+    "correctionCommitSha": "0a62f7edfdce3f6f288acc49deed914551ac64e8"
   },
   "additions": [
     {
@@ -257,6 +259,6 @@
   "limitations": [
     "全国全事業者の網羅性は未確認。",
     "イベント会場での実開催状況は独立確認していない。",
-    "OSAJI POP-UPの終了日（1月11日）は公式ページの年省略表記を、開催開始日と曜日表記から2027-01-11として整理。"
+    "OSAJI POP-UPの公式ページは終了日を「1月11日（月）」と記載し年を省略しているため、JSONには開始日と内容のみを登録し、終了年は記録していない。"
   ]
 }
