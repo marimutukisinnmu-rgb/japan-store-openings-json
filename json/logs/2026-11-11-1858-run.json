@@ -1,0 +1,61 @@
+{
+  "run_at": "2026-11-11T18:58:13+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2005,
+    "blob_sha": "4175451da5da0946596ba8eb6b0935c88ba266fc",
+    "updatetime": "2026-11-11T17:57:20+09:00"
+  },
+  "change": {
+    "added_count": 0,
+    "corrected_count": 0,
+    "deleted_count": 0,
+    "added_items": []
+  },
+  "after": {
+    "item_count": 2005,
+    "blob_sha": "4175451da5da0946596ba8eb6b0935c88ba266fc",
+    "updatetime": "2026-11-11T17:57:20+09:00",
+    "latest_json_modified": false
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "duplicate_name_prefecture_city_date_keys": true,
+    "chronological_order": true,
+    "existing_records_preserved": true,
+    "latest_file_refetch": true,
+    "candidate_duplicate_checks": true
+  },
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000196.000079423.html",
+    "https://prtimes.jp/main/html/rd/p/000000102.000140622.html",
+    "https://japan.kfc.co.jp/news_release/8192",
+    "https://agf.ajinomoto.co.jp/news/2026-11-05-2310.html",
+    "https://www.gundam-base.net/news/81618.html",
+    "https://subway.co.jp/news/20261111_01/",
+    "https://www.sukiya.jp/news/"
+  ],
+  "exclusions": [
+    "珈琲館 五日市街道若葉町店（2026-11-12、東京都立川市）は既存登録済みのため再追加しない。",
+    "クラークス くずは店（2026-11-13、大阪府枚方市）は既存登録済みのため再追加しない。",
+    "ReD 丸ビル店（2026-11-20、東京都千代田区）およびReD 枚方モール店・ReD イオンモール倉敷店は既存登録済みのため再追加しない。",
+    "CAFÉ LATORY ROOM（2026-11-19〜11-22、東京都渋谷区）は既存登録済みのため再追加しない。",
+    "THE GUNDAM BASE SHIBUYA（2026-11-20、東京都渋谷区）は既存登録済みのため再追加しない。",
+    "sanrio house 渋谷PARCO店（2026-11-13、東京都渋谷区）は既存登録済みのため再追加しない。",
+    "KFC公式が2026-11-11に更新した11月新店9店舗は、すべて既存JSONに登録済みのため再追加しない。",
+    "Subway 市ヶ谷東店、すき家 高岡大野店、キル フェ ボン新宿、POP MART LUCUA SOUTH店、PAPABUBBLE イクスピアリ店も既存登録済み。"
+  ],
+  "notes": [
+    "C-Unitedの公式企業発表で珈琲館 五日市街道若葉町店の2026-11-12開店と住所を再確認したが、既存登録済み。",
+    "Clarks Japanの公式発表でクラークス くずは店の2026-11-13開店を再確認したが、既存登録済み。",
+    "KFC公式の2026-11-11更新版では11月新店9店舗が掲載されており、全9店舗が既存JSONに登録済み。",
+    "AGF公式発表でCAFÉ LATORY ROOMの2026-11-19〜11-22開催と会場を再確認したが、既存登録済み。",
+    "THE GUNDAM BASE公式発表で渋谷店の2026-11-20開店を再確認したが、既存登録済み。",
+    "最新JSONは2005件。必須項目欠落0件、日付形式不正0件、重複キー0件、日付順正常。",
+    "今回、新規追加・訂正・削除の確定候補はなかったため、latest.jsonは変更せず既存データを保護した。"
+  ]
+}
