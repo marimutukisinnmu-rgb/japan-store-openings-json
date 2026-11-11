@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-11T21:04:35+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "source_file": "json/latest.json",
+  "before": {
+    "count": 2022,
+    "blob_sha": "4a1ee787ad3ea848992dca3b03cd41f419d9d5db",
+    "updatetime": "2026-11-11T20:03:59+09:00"
+  },
+  "additions": [
+    {
+      "name": "秋のトラベルグッズセール（東急プラザ蒲田）",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-08",
+      "category": "期間限定トラベル用品販売イベント（2026-11-08〜2026-11-15）"
+    },
+    {
+      "name": "婦人服フェア（東急プラザ蒲田）",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-08",
+      "category": "期間限定婦人服・アクセサリー販売イベント（2026-11-08〜2026-11-20）"
+    },
+    {
+      "name": "スティッチ・パーティー！ by ホットトイズ at SHIBUYA TSUTAYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-10-20",
+      "category": "期間限定キャラクター展示・グッズ販売（2026-10-20〜2026-11-16）"
+    },
+    {
+      "name": "きゅるりんってしてみて Collaboration cafe in SHIBUYA TSUTAYA",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定コラボカフェ・グッズ販売（2026-11-12〜2026-11-23）"
+    },
+    {
+      "name": "GELATO PIQUE CHRISTMAS GIFT MARKET 2026（表参道ヒルズ）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定ポップアップイベント（2026-11-14〜2026-11-29）"
+    }
+  ],
+  "counts": {
+    "added": 5,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2027
+  },
+  "sources": [
+    {
+      "title": "東急プラザ蒲田 EVENT・POPUP一覧",
+      "url": "https://www.tokyu-plaza.com/kamata/event/"
+    },
+    {
+      "title": "東急プラザ蒲田 秋のトラベルグッズセール",
+      "url": "https://www.tokyu-plaza.com/kamata/event/detail/137"
+    },
+    {
+      "title": "東急プラザ蒲田 婦人服フェア",
+      "url": "https://www.tokyu-plaza.com/kamata/event/detail/88"
+    },
+    {
+      "title": "SHIBUYA TSUTAYA スティッチ・パーティー！",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2794.html"
+    },
+    {
+      "title": "SHIBUYA TSUTAYA きゅるりんってしてみて Collaboration cafe",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2809.html"
+    },
+    {
+      "title": "森ビル・表参道ヒルズ GELATO PIQUE CHRISTMAS GIFT MARKET 2026",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000072321.html"
+    },
+    {
+      "title": "表参道ヒルズ公式所在地",
+      "url": "https://www.omotesandohills.com/contact/"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "new_records_present": 5,
+    "original_records_preserved": true,
+    "duplicate_keys": 0,
+    "invalid_dates": 0,
+    "sorted": true,
+    "read_after_write": true
+  },
+  "after": {
+    "count": 2027,
+    "updatetime": "2026-11-11T21:04:35+09:00",
+    "blob_sha": "e9ec946c76d35a8322581165f8a0314bb598c045",
+    "commit_sha": "1af01b2741ae14c6483ebc4e34bc0ca7f91e22d3",
+    "new_records": 5,
+    "original_preserved": true,
+    "duplicate_keys": 0,
+    "dates_valid": true,
+    "sorted": true,
+    "read_after_write": true
+  },
+  "limitations": [
+    "全国全事業者の網羅性は未確認",
+    "現地でのイベント実施状況は独立確認していない",
+    "非物販の体験・相談イベントと、販売内容が明確に確認できない催事は今回の追加対象から除外"
+  ]
+}
