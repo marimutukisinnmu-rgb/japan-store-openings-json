@@ -1,0 +1,262 @@
+{
+  "run_at": "2026-11-11T09:03:45+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "success",
+  "summary": {
+    "countBefore": 1742,
+    "candidateCount": 25,
+    "addedCount": 25,
+    "skippedCount": 0,
+    "countAfter": 1767,
+    "oldPreserved": true,
+    "addedPresent": true,
+    "duplicateKeys": 0,
+    "validDates": true,
+    "shaBefore": "d5cacaf53bcea8b0846fc183ca5ec97969c41b8e",
+    "shaAfter": "aec6fd518d0b56467135e68a0158381719a26826",
+    "commitSha": "3b92bf0254a0bcfe58d2a4e863209eb87e5295f6",
+    "updatedAt": "2026-11-11T09:03:45+09:00"
+  },
+  "additions": [
+    {
+      "name": "その傷さえも一生もの。Karen silver / ANYH（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定ポップアップ（アクセサリー・雑貨、2026-10-09〜2026-10-12）"
+    },
+    {
+      "name": "SONAJIRA 2026秋冬（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定ポップアップ（衣料品・ファッション雑貨、2026-10-09〜2026-10-12）"
+    },
+    {
+      "name": "oro'（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-10",
+      "category": "期間限定ポップアップ（アクセサリー、2026-10-10〜2026-10-13）"
+    },
+    {
+      "name": "GALENA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-27",
+      "category": "期間限定ポップアップ（ファッション、2026-10-27〜2026-11-01）"
+    },
+    {
+      "name": "Yuzu（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-27",
+      "category": "期間限定ポップアップ（天然石アクセサリー、2026-10-27〜2026-11-01）"
+    },
+    {
+      "name": "Rinco.accessory（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップ（アクセサリー、2026-10-28〜2026-10-30）"
+    },
+    {
+      "name": "コツメ焼菓子店（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（焼菓子、2026-10-30〜2026-10-31）"
+    },
+    {
+      "name": "上質な輝きに癒やされて - 天然石と14Kgf -（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定ポップアップ（ハンドメイドアクセサリー・ジュエリー、2026-10-31〜2026-11-03）"
+    },
+    {
+      "name": "ひなはる（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定ポップアップ（レジンアクセサリー・アート、2026-11-01〜2026-11-03）"
+    },
+    {
+      "name": "TOTA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（ニット・ファッション雑貨、2026-11-05〜2026-11-08）"
+    },
+    {
+      "name": "Warm and Colorful（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（バッグ・ファッション雑貨、2026-11-05〜2026-11-08）"
+    },
+    {
+      "name": "PLANTAS（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（グリーン・インテリア雑貨、2026-11-06〜2026-11-08）"
+    },
+    {
+      "name": "HERENCIA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（ファッション、2026-11-06〜2026-11-18）"
+    },
+    {
+      "name": "preservedflower accessory kikko（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（プリザーブドフラワーアクセサリー、2026-11-11〜2026-11-18）"
+    },
+    {
+      "name": "パールリボン（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定ポップアップ（ハンドメイドアクセサリー、2026-11-16〜2026-11-18）"
+    },
+    {
+      "name": "クリスマスの本棚に飾るもの ‐ tree & wreath -（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定ポップアップ（クリスマスツリー・リース、2026-11-16〜2026-11-18）"
+    },
+    {
+      "name": "古着屋Uan & ぬいぐるみPup（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（古着・ぬいぐるみ、2026-11-06〜2026-11-11）"
+    },
+    {
+      "name": "matou.（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（ファッション、2026-11-10〜2026-11-15）"
+    },
+    {
+      "name": "やのひろこ（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（イラスト・グッズ、2026-11-13〜2026-11-18）"
+    },
+    {
+      "name": "CITEN POP-UP STORE at 蔦屋書店（広島T-SITE）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（アパレル・ファッション雑貨、2026-11-05〜2026-11-29）"
+    },
+    {
+      "name": "Tanemaki（たねまき）（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（生活雑貨・食品、2026-11-11〜2026-11-23）"
+    },
+    {
+      "name": "OSAJI POP-UP（広島T-SITE）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ（スキンケア・ライフスタイル、2026-10-03〜2027-01-11）"
+    },
+    {
+      "name": "えがお老眼鏡（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（眼鏡・ファッション雑貨、2026-11-10〜2026-11-17）"
+    },
+    {
+      "name": "GITOGEZA（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定ポップアップ（イラスト・アートグッズ、2026-11-07〜2026-11-09）"
+    },
+    {
+      "name": "Fruitjolie / S.T_JOURNAL（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（ジュエリー・アパレル、2026-11-05〜2026-11-18）"
+    }
+  ],
+  "skipped_duplicates": [],
+  "sources": [
+    {
+      "group": "六本松 蔦屋書店",
+      "url": "https://store.tsite.jp/ropponmatsu/access/",
+      "note": "福岡市中央区六本松4-2-1 六本松421 2F。各イベントの公式ページで開催期間・内容を確認。"
+    },
+    {
+      "group": "六本松 蔦屋書店・各イベント",
+      "urls": [
+        "https://store.tsite.jp/ropponmatsu/event/shop/57071-1918210927.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57070-1902020927.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/56795-1741350914.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57214-1621221004.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57209-1502361004.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57541-1019411019.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57388-1740021012.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57717-1016171028.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57614-1807291022.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57763-1354511029.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57616-1821091022.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57617-1837071022.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57658-1742471024.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57593-2205251021.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57591-2058571021.html",
+        "https://store.tsite.jp/ropponmatsu/event/shop/57847-1958051102.html"
+      ]
+    },
+    {
+      "group": "広島T-SITE",
+      "url": "https://store.tsite.jp/hiroshima/access/",
+      "note": "広島市西区扇2丁目1-45。各イベントの公式ページで開催期間・内容を確認。"
+    },
+    {
+      "group": "広島T-SITE・各イベント",
+      "urls": [
+        "https://store.tsite.jp/hiroshima/event/t-site/57855-1607031103.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57961-1139131109.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57928-1434591107.html",
+        "https://store.tsite.jp/hiroshima/event/magazine/57958-1101211109.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57893-1534561105.html",
+        "https://store.tsite.jp/hiroshima/event/magazine/57813-1717421031.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57884-1235091105.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57759-1238231029.html",
+        "https://store.tsite.jp/hiroshima/event/t-site/57769-1549591029.html"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "duplicate_key_count": 0,
+    "existing_records_preserved": true,
+    "additions_present_after_refetch": true,
+    "post_write_refetch": "passed"
+  },
+  "limitations": [
+    "全国全事業者の網羅性は未確認。",
+    "イベント会場での実開催状況は独立確認していない。",
+    "OSAJI POP-UPの終了日（1月11日）は公式ページの年省略表記を、開催開始日と曜日表記から2027-01-11として整理。"
+  ]
+}
