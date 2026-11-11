@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-11-11T23:01:08+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before_count": 2029,
+  "added_count": 9,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "after_count": 2038,
+  "previous_blob_sha": "7999db15962d0b41276f61f8f998a108f862360b",
+  "updated_blob_sha": "101338ba7ae1283a3cd7f88f862b59336362bf46",
+  "commit_sha": "25552a9523b49c7749d8ba8bff6862ef694d5d8a",
+  "existing_records_preserved": 2029,
+  "duplicate_keys_after_update": 0,
+  "json_parse_after_update": true,
+  "post_write_refetch": true,
+  "exact_content_match_after_refetch": true,
+  "additions": [
+    {
+      "name": "横浜バニラ（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-02",
+      "category": "期間限定食品ショップ（2026-11-02〜2026-11-23）",
+      "source": "https://www.gransta.jp/news/info/yv/"
+    },
+    {
+      "name": "銀座に志かわ（グランスタ東京・期間限定）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-02",
+      "category": "食パン専門店・期間限定ショップ（2026-11-02〜2026-11-15）",
+      "source": "https://www.gransta.jp/news/info/gn/"
+    },
+    {
+      "name": "TOKYO LEATHER GOODS（グランスタ東京・動輪の広場）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ショップ（革製品・2026-11-06〜2026-11-19）",
+      "source": "https://www.gransta.jp/news/info/event_dorin_tokyoleather/"
+    },
+    {
+      "name": "博多いもっ子屋（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定食品ショップ（惣菜・おむすび・2026-11-09〜2026-11-29）",
+      "source": "https://www.gransta.jp/news/info/hakataimokkoya1109/"
+    },
+    {
+      "name": "コートクール（グランスタ東京・スクエア ゼロ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定食品ショップ（ブラウニー・2026-11-09〜2026-11-13）",
+      "source": "https://www.gransta.jp/news/info/cotecour-sqz2611/"
+    },
+    {
+      "name": "アイラブカスタードヌフヌフ（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定食品ショップ（カスタード菓子・2026-11-09〜2026-11-29）",
+      "source": "https://www.gransta.jp/news/info/ilovecustard1109/"
+    },
+    {
+      "name": "PISTA＆TOKYO（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定食品ショップ（ピスタチオ菓子・2026-11-09〜2026-11-29）",
+      "source": "https://www.gransta.jp/news/info/pistaandtokyo1109/"
+    },
+    {
+      "name": "東京ミルクチーズ工場（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定食品ショップ（2026-11-09〜2026-11-29）",
+      "source": "https://www.gransta.jp/news/info/tokyomilkcheese1109/"
+    },
+    {
+      "name": "HANA TOKYO・キリィエドナ（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-09",
+      "category": "期間限定ファッション雑貨ショップ（2026-11-09〜2026-11-15）",
+      "source": "https://www.gransta.jp/news/info/261109-hanatokyo/"
+    }
+  ],
+  "source_notes": [
+    "All nine additions are temporary shops listed by the official Gransta/TOKYOINFO site.",
+    "The Tokyo Milk Cheese Factory page timed out when opened directly; the official search result showed the 2026-11-09 to 2026-11-29 period and location.",
+    "Candidate matching was performed against the pre-update 2,029 records; none of the nine composite keys was already present."
+  ],
+  "unresolved": [
+    "The nationwide completeness of all store-opening announcements was not established.",
+    "On-site operation was not independently checked."
+  ]
+}
