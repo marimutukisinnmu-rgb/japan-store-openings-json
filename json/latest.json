@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T15:59:53+09:00",
+  "updatetime": "2026-11-11T16:59:42+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -2328,6 +2328,13 @@
       "category": "100円ショップ"
     },
     {
+      "name": "イロハニ（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-17",
+      "category": "期間限定ポップアップ（韓国コスメ、2026-10-17〜2026-11-30）"
+    },
+    {
       "name": "バイセル プリコ西明石店",
       "prefecture": "兵庫県",
       "city": "明石市",
@@ -2410,6 +2417,13 @@
       "city": "川崎市川崎区",
       "opening_date": "2026-10-19",
       "category": "期間限定スイーツショップ（2026-10-19〜2026-11-18）"
+    },
+    {
+      "name": "QrazyChocolate（六本松 蔦屋書店 フェア）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-19",
+      "category": "期間限定菓子販売フェア（2026-10-19〜2026-11-15）"
     },
     {
       "name": "chocoZAP 釧路緑ヶ岡",
@@ -7676,6 +7690,20 @@
       "category": "韓国コスメブランド・期間限定ポップアップ（2026-11-10〜2026-11-17）"
     },
     {
+      "name": "Costume jewelry（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（シルバーアクセサリー、2026-11-10〜2026-11-12）"
+    },
+    {
+      "name": "PriveMaison（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（ファッション・衣料品、2026-11-10〜2026-11-18）"
+    },
+    {
       "name": "chocoZAP 深谷緑ヶ丘",
       "prefecture": "埼玉県",
       "city": "深谷市",
@@ -8320,6 +8348,13 @@
       "category": "ラーメン・作品コラボポップアップ（2026-11-12〜2026-11-23）"
     },
     {
+      "name": "書籍『AMAM＋のクッキーブック』＆クッキー缶 店頭販売（六本松 蔦屋書店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-12",
+      "category": "期間限定店頭販売（菓子・書籍、2026-11-12〜2026-11-30）"
+    },
+    {
       "name": "3COINS+plus（アミュプラザ鹿児島）",
       "prefecture": "鹿児島県",
       "city": "鹿児島市",
@@ -8950,6 +8985,13 @@
       "category": "アーティスト公式展示・ポップアップ（2026-11-13〜2026-11-23）"
     },
     {
+      "name": "LotusFlower & Taronlanka（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（布雑貨・アクセサリー、2026-11-13〜2026-11-15）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -9242,6 +9284,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
+    },
+    {
+      "name": "sunalab. 砂枕（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定ポップアップ（ウェルネス・砂枕、2026-11-16〜2026-11-19）"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -9881,6 +9930,20 @@
       "category": "期間限定ショップ（2026-11-19〜2026-12-02）"
     },
     {
+      "name": "cielon axe（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップ（パールアクセサリー、2026-11-19〜2026-11-23）"
+    },
+    {
+      "name": "ensouk（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップ（アクセサリー、2026-11-19〜2026-11-23）"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -10476,6 +10539,20 @@
       "category": "イラスト・作品展示イベント（2026-11-20〜2026-11-29）"
     },
     {
+      "name": "karen silver by anyh days（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ポップアップ（アクセサリー・タイ雑貨、2026-11-20〜2026-11-23）"
+    },
+    {
+      "name": "saranam（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ポップアップ（レザー製品・バッグ・アクセサリー、2026-11-20〜2026-11-30）"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -10929,6 +11006,13 @@
       "city": "大田区",
       "opening_date": "2026-11-24",
       "category": "期間限定どら焼きショップ（2026-11-24〜2026-12-06）"
+    },
+    {
+      "name": "セレクトショップ アトリエマカロン（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-24",
+      "category": "期間限定ポップアップ（ハンドメイドアクセサリー・雑貨、2026-11-24〜2026-12-03）"
     },
     {
       "name": "chocoZAP うきは吉井",
@@ -12385,6 +12469,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-01",
       "category": "レストラン（新業態）"
+    },
+    {
+      "name": "アクセサリー販売（東急プラザ蒲田）",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-12-01",
+      "category": "期間限定アクセサリー販売（2026-12-01〜2026-12-10）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
