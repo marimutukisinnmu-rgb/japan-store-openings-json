@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T17:57:20+09:00",
+  "updatetime": "2026-11-11T20:03:59+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5667,6 +5667,13 @@
       "category": "期間限定ポップアップ（2026-11-03〜2026-11-15）"
     },
     {
+      "name": "DAISO ラッキー西岡店",
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "opening_date": "2026-11-03",
+      "category": "100円ショップ"
+    },
+    {
       "name": "『いも屋まるじゅう』（戸塚モディ）",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -6225,6 +6232,13 @@
       "city": "大田区",
       "opening_date": "2026-11-05",
       "category": "期間限定食品物産展（2026-11-05〜2026-11-11）"
+    },
+    {
+      "name": "DAISO 伏見石田大山店",
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "opening_date": "2026-11-05",
+      "category": "100円ショップ"
     },
     {
       "name": "「僕の心のヤバイやつ」完結記念 POP UP SHOP（新宿マルイ メン）",
@@ -7123,6 +7137,76 @@
       "category": "期間限定ショップ（2026-11-06〜2026-11-29）"
     },
     {
+      "name": "Standard Products イオンモール綾川店",
+      "prefecture": "香川県",
+      "city": "綾歌郡綾川町",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨"
+    },
+    {
+      "name": "DAISO イオンモール綾川店",
+      "prefecture": "香川県",
+      "city": "綾歌郡綾川町",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO イオンタウン津河芸店",
+      "prefecture": "三重県",
+      "city": "津市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "THREEPPY フジグランナタリー店",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-11-06",
+      "category": "300円ショップ・雑貨"
+    },
+    {
+      "name": "DAISO 洋服の青山牛久店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "THREEPPY イオンモール綾川店",
+      "prefecture": "香川県",
+      "city": "綾歌郡綾川町",
+      "opening_date": "2026-11-06",
+      "category": "300円ショップ・雑貨（リニューアル）"
+    },
+    {
+      "name": "DAISO フジグランナタリー店",
+      "prefecture": "広島県",
+      "city": "廿日市市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
+      "name": "DAISO 飯能緑町店",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
+      "name": "DAISO 平針南店",
+      "prefecture": "愛知県",
+      "city": "名古屋市天白区",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
+      "name": "DAISO モールプラザ草加店",
+      "prefecture": "埼玉県",
+      "city": "草加市",
+      "opening_date": "2026-11-06",
+      "category": "100円ショップ（リニューアル）"
+    },
+    {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -7338,6 +7422,20 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-07",
       "category": "期間限定アニメ公式ポップアップ（2026-11-07〜2026-11-23）"
+    },
+    {
+      "name": "DAISO コーナン堺高須店",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-11-07",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "DAISO ディオ防府南店",
+      "prefecture": "山口県",
+      "city": "防府市",
+      "opening_date": "2026-11-07",
+      "category": "100円ショップ"
     },
     {
       "name": "PYRENEX 2026 AUTUMN & WINTER COLLECTION for MEN（ユナイテッドアローズ新宿店）",
@@ -8999,6 +9097,13 @@
       "category": "期間限定ポップアップ（布雑貨・アクセサリー、2026-11-13〜2026-11-15）"
     },
     {
+      "name": "ワッツウィズ 並柳ラ・ムー店",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "opening_date": "2026-11-13",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -9118,6 +9223,13 @@
       "category": "寝具・ベッドの期間限定アウトレットフェア（2026-11-14〜2026-11-29）"
     },
     {
+      "name": "ワッツウィズ 脇町くすりのレデイ店",
+      "prefecture": "徳島県",
+      "city": "美馬市",
+      "opening_date": "2026-11-14",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "neverbetter",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -9158,6 +9270,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-15",
       "category": "つけ麺・ラーメン"
+    },
+    {
+      "name": "ワッツウィズ 三次十日市ウォンツ店",
+      "prefecture": "広島県",
+      "city": "三次市",
+      "opening_date": "2026-11-15",
+      "category": "100円ショップ・生活雑貨"
     },
     {
       "name": "3POKEOSAKA re:Dine大阪店",
