@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T07:56:21+09:00",
+  "updatetime": "2026-11-11T09:03:45+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -1005,6 +1005,13 @@
       "category": "ラーメン・料理"
     },
     {
+      "name": "OSAJI POP-UP（広島T-SITE）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-10-03",
+      "category": "期間限定ポップアップ（スキンケア・ライフスタイル、2026-10-03〜2027-01-11）"
+    },
+    {
       "name": "CRONOS（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -1649,6 +1656,20 @@
       "category": "そば・もつ煮（もつ次郎併設）"
     },
     {
+      "name": "その傷さえも一生もの。Karen silver / ANYH（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定ポップアップ（アクセサリー・雑貨、2026-10-09〜2026-10-12）"
+    },
+    {
+      "name": "SONAJIRA 2026秋冬（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-09",
+      "category": "期間限定ポップアップ（衣料品・ファッション雑貨、2026-10-09〜2026-10-12）"
+    },
+    {
       "name": "あぐー豚しゃぶしゃぶ専門店 オーシャンBoo！ 宮古島店",
       "prefecture": "沖縄県",
       "city": "宮古島市",
@@ -1738,6 +1759,13 @@
       "city": "明石市",
       "opening_date": "2026-10-10",
       "category": "スイーツ"
+    },
+    {
+      "name": "oro'（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-10",
+      "category": "期間限定ポップアップ（アクセサリー、2026-10-10〜2026-10-13）"
     },
     {
       "name": "BEAMS SPORTS（都立明治公園）",
@@ -3168,6 +3196,20 @@
       "category": "フィットネスジム（リニューアル）"
     },
     {
+      "name": "GALENA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-27",
+      "category": "期間限定ポップアップ（ファッション、2026-10-27〜2026-11-01）"
+    },
+    {
+      "name": "Yuzu（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-27",
+      "category": "期間限定ポップアップ（天然石アクセサリー、2026-10-27〜2026-11-01）"
+    },
+    {
       "name": "菜菜麻辣湯 ららぽーと安城店",
       "prefecture": "愛知県",
       "city": "安城市",
@@ -3586,6 +3628,13 @@
       "city": "八戸市",
       "opening_date": "2026-10-28",
       "category": "カラオケ"
+    },
+    {
+      "name": "Rinco.accessory（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-28",
+      "category": "期間限定ポップアップ（アクセサリー、2026-10-28〜2026-10-30）"
     },
     {
       "name": "sanrio house 名古屋PARCO店",
@@ -4428,6 +4477,13 @@
       "category": "100円ショップ（リニューアル）"
     },
     {
+      "name": "コツメ焼菓子店（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-30",
+      "category": "期間限定ポップアップ（焼菓子、2026-10-30〜2026-10-31）"
+    },
+    {
       "name": "PRESS BUTTER SAND 名古屋栄三越店（移転リニューアル）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -4729,6 +4785,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "上質な輝きに癒やされて - 天然石と14Kgf -（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-10-31",
+      "category": "期間限定ポップアップ（ハンドメイドアクセサリー・ジュエリー、2026-10-31〜2026-11-03）"
+    },
+    {
       "name": "FiT24 春日井店",
       "prefecture": "愛知県",
       "city": "春日井市",
@@ -4958,6 +5021,13 @@
       "city": "紋別郡雄武町",
       "opening_date": "2026-11-01",
       "category": "100円ショップ"
+    },
+    {
+      "name": "ひなはる（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-01",
+      "category": "期間限定ポップアップ（レジンアクセサリー・アート、2026-11-01〜2026-11-03）"
     },
     {
       "name": "阿蘇リトリート HONO by 温故知新",
@@ -5758,6 +5828,34 @@
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-05〜2026-11-16）"
     },
     {
+      "name": "TOTA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（ニット・ファッション雑貨、2026-11-05〜2026-11-08）"
+    },
+    {
+      "name": "Warm and Colorful（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（バッグ・ファッション雑貨、2026-11-05〜2026-11-08）"
+    },
+    {
+      "name": "CITEN POP-UP STORE at 蔦屋書店（広島T-SITE）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（アパレル・ファッション雑貨、2026-11-05〜2026-11-29）"
+    },
+    {
+      "name": "Fruitjolie / S.T_JOURNAL（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-05",
+      "category": "期間限定ポップアップ（ジュエリー・アパレル、2026-11-05〜2026-11-18）"
+    },
+    {
       "name": "東横INN豊橋駅前大通り",
       "prefecture": "愛知県",
       "city": "豊橋市",
@@ -6486,6 +6584,27 @@
       "category": "ファッション・インナーウェア期間限定ポップアップ（2026-11-06〜2026-11-19）"
     },
     {
+      "name": "PLANTAS（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（グリーン・インテリア雑貨、2026-11-06〜2026-11-08）"
+    },
+    {
+      "name": "HERENCIA（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（ファッション、2026-11-06〜2026-11-18）"
+    },
+    {
+      "name": "古着屋Uan & ぬいぐるみPup（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ポップアップ（古着・ぬいぐるみ、2026-11-06〜2026-11-11）"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト金山）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -6666,6 +6785,13 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-07",
       "category": "アパレル・ファッション"
+    },
+    {
+      "name": "GITOGEZA（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-07",
+      "category": "期間限定ポップアップ（イラスト・アートグッズ、2026-11-07〜2026-11-09）"
     },
     {
       "name": "zen place pilates 新横浜",
@@ -6962,6 +7088,20 @@
       "category": "ホテル"
     },
     {
+      "name": "matou.（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（ファッション、2026-11-10〜2026-11-15）"
+    },
+    {
+      "name": "えがお老眼鏡（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-10",
+      "category": "期間限定ポップアップ（眼鏡・ファッション雑貨、2026-11-10〜2026-11-17）"
+    },
+    {
       "name": "MAMMUT STORE OUTLET（MITSUI OUTLET PARK 岡崎）",
       "prefecture": "愛知県",
       "city": "岡崎市",
@@ -7205,6 +7345,20 @@
       "city": "函館市",
       "opening_date": "2026-11-11",
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-11〜2027-01-04）"
+    },
+    {
+      "name": "preservedflower accessory kikko（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（プリザーブドフラワーアクセサリー、2026-11-11〜2026-11-18）"
+    },
+    {
+      "name": "Tanemaki（たねまき）（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（生活雑貨・食品、2026-11-11〜2026-11-23）"
     },
     {
       "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
@@ -7921,6 +8075,13 @@
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-13〜2027-01-04）"
     },
     {
+      "name": "やのひろこ（広島T-SITE POP-UP）",
+      "prefecture": "広島県",
+      "city": "広島市西区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定ポップアップ（イラスト・グッズ、2026-11-13〜2026-11-18）"
+    },
+    {
       "name": "The Powerpuff Girls POPUP STORE「ガールズの休日」（京都高島屋S.C.）",
       "prefecture": "京都府",
       "city": "京都市下京区",
@@ -8108,6 +8269,20 @@
       "city": "宇都宮市",
       "opening_date": "2026-11-16",
       "category": "個別指導塾（移転開校）"
+    },
+    {
+      "name": "パールリボン（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定ポップアップ（ハンドメイドアクセサリー、2026-11-16〜2026-11-18）"
+    },
+    {
+      "name": "クリスマスの本棚に飾るもの ‐ tree & wreath -（六本松 蔦屋書店 POP-UP）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-16",
+      "category": "期間限定ポップアップ（クリスマスツリー・リース、2026-11-16〜2026-11-18）"
     },
     {
       "name": "栗乃薫（あみプレミアム・アウトレット催事）",
