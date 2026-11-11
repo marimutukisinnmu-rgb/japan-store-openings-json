@@ -1,0 +1,73 @@
+{
+  "run_at": "2026-11-11T13:56:23+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "period": "2026-09-04/2027-02-28",
+  "before_count": 1859,
+  "added_count": 58,
+  "after_count": 1917,
+  "updated_count": 0,
+  "deleted_count": 0,
+  "retained_existing_records": true,
+  "all_new_records_present": true,
+  "json_parse_after_save": true,
+  "pre_update_blob_sha": "547696594e18cc0b71faeeb11e4825a38ad547e5",
+  "post_update_blob_sha": "0e5c742ca96b4de942c1f26b39bb4c59452df5fc",
+  "update_commit_sha": "f21812dbf7f3a8ed91c9cbd07b7b0a4b11638a32",
+  "source_groups": [
+    {
+      "name": "Tree Village official event page",
+      "url": "https://tree-village.jp/news/014496.html"
+    },
+    {
+      "name": "Marui official nationwide event list",
+      "url": "https://www.0101.co.jp/event/"
+    },
+    {
+      "name": "Shinjuku Marui Annex official topics",
+      "url": "https://www.0101.co.jp/005/newstopics/"
+    },
+    {
+      "name": "Namba Marui official event page",
+      "url": "https://www.0101.co.jp/085/event/"
+    },
+    {
+      "name": "Hakata Marui official event page",
+      "url": "https://www.0101.co.jp/090/event/"
+    },
+    {
+      "name": "Kitasenju Marui official topics",
+      "url": "https://www.0101.co.jp/084/newstopics/"
+    },
+    {
+      "name": "Shinjuku Marui Men official topics",
+      "url": "https://www.0101.co.jp/074/newstopics/"
+    },
+    {
+      "name": "Machida Modi official event page",
+      "url": "https://www.0101.co.jp/723/event/"
+    },
+    {
+      "name": "Machida Marui official event page",
+      "url": "https://www.0101.co.jp/052/event/"
+    },
+    {
+      "name": "Totsuka Modi official page",
+      "url": "https://www.0101.co.jp/060/index.html"
+    },
+    {
+      "name": "Ueno Marui official event page",
+      "url": "https://www.0101.co.jp/058/event/"
+    },
+    {
+      "name": "Tokyu Plaza Kamata official event detail",
+      "url": "https://www.tokyu-plaza.com/kamata/event/detail/78?hold_calendar=26-12-11~26-12-22&publish_begin=26-11-08&publish_end=26-12-22"
+    }
+  ],
+  "limitations": [
+    "全国全事業者の網羅性は未確認",
+    "イベントの現地実施状況は独立確認していない",
+    "一部の動的な施設一覧は検索結果・公式施設ページで照合"
+  ]
+}
