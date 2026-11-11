@@ -5,7 +5,7 @@
   "file": "json/latest.json",
   "period": "2026-09-04/2027-02-28",
   "before_count": 1917,
-  "added_count": 36,
+  "added_count": 35,
   "skipped_duplicate_count": 1,
   "skipped_duplicates": [
     {
@@ -13,7 +13,7 @@
       "opening_date": "2026-11-11"
     }
   ],
-  "after_count": 1953,
+  "after_count": 1952,
   "updated_count": 0,
   "deleted_count": 0,
   "retained_existing_records": true,
@@ -41,8 +41,8 @@
   "new_duplicate_name_date_keys": 0,
   "json_parse_after_save": true,
   "pre_update_blob_sha": "0e5c742ca96b4de942c1f26b39bb4c59452df5fc",
-  "post_update_blob_sha": "7992213ef7adb28ddd90ff97d27c211e2eab27a7",
-  "update_commit_sha": "193338194d1ca638308e1992fd54f79533a041d1",
+  "post_update_blob_sha": "52e767f2c61afcc9b2efeb8c114137181d9854b1",
+  "update_commit_sha": "ef6d016132b3c76752b8f001cf558eef1ada67fe",
   "added_items": [
     {
       "name": "ザ・メープルマニア（アトレ吉祥寺）",
@@ -120,13 +120,6 @@
       "city": "川崎市川崎区",
       "opening_date": "2026-11-27",
       "category": "期間限定紅茶・食品ショップ（2026-11-27〜2026-12-06）"
-    },
-    {
-      "name": "神戸学院大学×ブルボン「パキーラワイン味」販売イベント（神戸マルイ）",
-      "prefecture": "兵庫県",
-      "city": "神戸市中央区",
-      "opening_date": "2026-11-11",
-      "category": "期間限定商品販売イベント（2026-11-11〜2026-11-12）"
     },
     {
       "name": "菓子屋きっとね（神戸マルイ）",
@@ -389,5 +382,7 @@
     "アトレ川崎の公式日程表は一部の曜日表記が2026年の暦と一致しないため、明示された年月日を採用し、曜日表記は採用していない",
     "金物道具市は販売品目の範囲を独立確認できなかったため未登録"
   ],
-  "duplicate_key_validation": "No new name+opening_date duplicates introduced; four duplicate keys already existed before this run and were preserved."
+  "duplicate_key_validation": "No new name+opening_date duplicates introduced; four duplicate keys already existed before this run and were preserved.",
+  "omitted_candidate_count": 1,
+  "omitted_candidate_reason": "One candidate with an age-safety ambiguous product description was not retained."
 }
