@@ -1,0 +1,359 @@
+{
+  "run_at": "2026-11-11T15:59:53+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "period": "2026-09-04/2027-02-28",
+  "before_count": 1952,
+  "added_count": 38,
+  "skipped_duplicate_count": 0,
+  "skipped_duplicates": [],
+  "after_count": 1990,
+  "updated_count": 0,
+  "deleted_count": 0,
+  "retained_existing_records": true,
+  "all_new_records_present": true,
+  "chronological_sort_valid": true,
+  "date_format_valid": true,
+  "preexisting_duplicate_name_date_keys": [],
+  "new_duplicate_name_date_keys": 0,
+  "json_parse_after_save": true,
+  "pre_update_blob_sha": "52e767f2c61afcc9b2efeb8c114137181d9854b1",
+  "post_update_blob_sha": "2a2405c454bfc94936e77322dd8e67598148398f",
+  "update_commit_sha": "ffecc9b282f5e65bf287384fab69671796a12ed6",
+  "added_items": [
+    {
+      "name": "『薫る花は凛と咲く』×E-flower POP UP SHOP（上野マルイ）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-13",
+      "category": "期間限定アニメ公式ポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "『夢色パティシエール』 POP UP SHOP in マルイ（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-27",
+      "category": "アニメ公式グッズ・期間限定ポップアップ（2026-11-27〜2026-12-06）"
+    },
+    {
+      "name": "ホリミヤ15th POP UP SHOP（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-04",
+      "category": "漫画公式15周年記念ポップアップ（2026-12-04〜2026-12-20）"
+    },
+    {
+      "name": "ホリミヤ15th POP UP SHOP（博多マルイ）",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2027-01-16",
+      "category": "漫画公式15周年記念ポップアップ（2027-01-16〜2027-01-24）"
+    },
+    {
+      "name": "ホリミヤ15th POP UP SHOP（名古屋PARCO）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2027-02-11",
+      "category": "漫画公式15周年記念ポップアップ（2027-02-11〜2027-02-28）"
+    },
+    {
+      "name": "0:00 POPUP SHOP（上野マルイ）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-13",
+      "category": "童話アクセサリーブランド・期間限定ポップアップ（2026-11-13〜2026-11-24）"
+    },
+    {
+      "name": "Runonとmomon（上野マルイ）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-25",
+      "category": "猫モチーフ雑貨・アクセサリーの期間限定ショップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "milktouch POP UP STORE（渋谷モディ）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-10",
+      "category": "韓国コスメブランド・期間限定ポップアップ（2026-11-10〜2026-11-17）"
+    },
+    {
+      "name": "oneonemarket（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ショップ（2026-11-19〜2026-12-02）"
+    },
+    {
+      "name": "いのまたむつみ Artworks（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-27",
+      "category": "アート作品展・物販イベント（2026-11-27〜2026-12-13）"
+    },
+    {
+      "name": "「宅麺×ハイキュー!!」コラボポップアップ（錦糸町マルイ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン・作品コラボポップアップ（2026-11-12〜2026-11-23）"
+    },
+    {
+      "name": "「宅麺×ハイキュー!!」コラボポップアップ（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-12",
+      "category": "ラーメン・作品コラボポップアップ（2026-11-12〜2026-11-23）"
+    },
+    {
+      "name": "太鼓の達人 25th Anniversary POP UP SHOP（渋谷モディ）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "ゲーム公式25周年記念ポップアップ（2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（渋谷モディ）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-13",
+      "category": "アーティスト公式展示・ポップアップ（2026-11-13〜2026-11-23）"
+    },
+    {
+      "name": "ニャーと！展２（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "イラスト・作品展示イベント（2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "風の白猿神 出版記念展（有楽町マルイ）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-27",
+      "category": "書籍出版記念展示イベント（2026-11-27〜2026-12-13）"
+    },
+    {
+      "name": "cafe cocona（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-11",
+      "category": "手づくりデリ・パンの期間限定ショップ（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "ハシモト珈琲 京都焙煎所 ～のくちパンマルシェ～（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-25",
+      "category": "コーヒー・食品の期間限定販売（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "DOLCE＆MARCO ～のくちパンマルシェ～（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-25",
+      "category": "洋菓子・ベーカリーの期間限定販売（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "sorewasateoki ～Bambu Bakery～（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-18",
+      "category": "ベーカリー期間限定ショップ（2026-11-18〜2026-11-24）"
+    },
+    {
+      "name": "キィニョン ～のくちパンマルシェ～（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-18",
+      "category": "ベーカリー期間限定ショップ（2026-11-18〜2026-11-24）"
+    },
+    {
+      "name": "Ala-too（アラトォ）（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-18",
+      "category": "キルギス産はちみつ・スコーンの期間限定販売（2026-11-18〜2026-12-01）"
+    },
+    {
+      "name": "源（みなもと）（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-18",
+      "category": "食品の期間限定販売（2026-11-18〜2026-11-24）"
+    },
+    {
+      "name": "恵里那堂（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-18",
+      "category": "五平餅・和菓子の期間限定ショップ（2026-11-18〜2026-12-01）"
+    },
+    {
+      "name": "ガスパール Gaspard（マルイファミリー溝口）",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-11-11",
+      "category": "ダックワーズサンドの期間限定販売（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "こころダイニング（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-11",
+      "category": "発酵食品・調味料の期間限定ショップ（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "にいがたフェア（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-11",
+      "category": "新潟県の食品・菓子物産フェア（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "麦香房epi（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-11",
+      "category": "ベーカリー期間限定ショップ（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "恵里那堂（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-11",
+      "category": "和菓子の期間限定ショップ（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "武一商店（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-11",
+      "category": "食品の期間限定販売（2026-11-11〜2026-11-24）"
+    },
+    {
+      "name": "徳島の美味しさ発見！物産展2026（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-14",
+      "category": "徳島県産品の期間限定物産展（2026-11-14〜2026-11-15）"
+    },
+    {
+      "name": "深まる秋のグルメフェア（国分寺マルイ）",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-11-11",
+      "category": "食品・グルメフェア（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "南国沖縄の味覚とおいしいものたち（国分寺マルイ）",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-11-11",
+      "category": "沖縄県産食品・菓子の期間限定フェア（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "サータ・ドリームベッド プレミアムアウトレットフェア（国分寺マルイ）",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-11-14",
+      "category": "寝具・ベッドの期間限定アウトレットフェア（2026-11-14〜2026-11-29）"
+    },
+    {
+      "name": "カコイノマーケット（海老名マルイ）",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "opening_date": "2026-11-06",
+      "category": "期間限定ショップ（2026-11-06〜2026-11-29）"
+    },
+    {
+      "name": "サンリオカフェワゴン「ミラクルギフトパレード号」（中野マルイ）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-05",
+      "category": "キャラクターカフェワゴン・期間限定出店（2026-12-05〜2026-12-06）"
+    },
+    {
+      "name": "BATTLE OF TOKYO 超東京拡張展2.0（新宿マルイ 本館）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-24",
+      "category": "公式企画展・ポップアップ（2026-12-24〜2027-01-11）"
+    },
+    {
+      "name": "BATTLE OF TOKYO 超東京拡張展2.0（博多マルイ）",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2027-02-20",
+      "category": "公式企画展・ポップアップ（2027-02-20〜2027-02-28）"
+    }
+  ],
+  "source_groups": [
+    {
+      "name": "Marui official nationwide event list (dates, venues and descriptions for the listed temporary shops and events)",
+      "url": "https://www.0101.co.jp/event/"
+    },
+    {
+      "name": "Ueno Marui official event list (Kaoru Hana × E-flower event)",
+      "url": "https://www.0101.co.jp/058/event/?from=01_pc_st058_top_gnav-event"
+    },
+    {
+      "name": "AMNIBUS official event page (Yumeiro Patissiere POP UP SHOP in Marui)",
+      "url": "https://event.amnibus.com/yumepati-0101/"
+    },
+    {
+      "name": "Square Enix official press release (Horimiya 15th POP UP SHOP venues and dates)",
+      "url": "https://prtimes.jp/main/html/rd/p/000000450.000128734.html"
+    },
+    {
+      "name": "Kokubunji Marui official access page (venue address)",
+      "url": "https://www.0101.co.jp/062/access/"
+    }
+  ],
+  "cross_checks": [
+    {
+      "candidate": "Eleanor spa&treatment five autumn 2026 openings",
+      "result": "all five already registered"
+    },
+    {
+      "candidate": "Subway Ichigaya East",
+      "result": "already registered"
+    },
+    {
+      "candidate": "PAPABUBBLE IKSPIARI",
+      "result": "already registered"
+    },
+    {
+      "candidate": "Cartier Shinsaibashi Boutique",
+      "result": "already registered"
+    },
+    {
+      "candidate": "Qu'il fait bon Shinjuku",
+      "result": "already registered"
+    },
+    {
+      "candidate": "Harry Potter Mahoudokoro Marunouchi pop-up",
+      "result": "already registered"
+    },
+    {
+      "candidate": "POP MART LUCUA SOUTH",
+      "result": "already registered"
+    },
+    {
+      "candidate": "WithGreen Hikarigaoka IMA",
+      "result": "already registered"
+    },
+    {
+      "candidate": "Blue Sky Laundry November 2026 10-store list",
+      "result": "all ten store records already registered"
+    }
+  ],
+  "limitations": [
+    "全国全事業者の網羅性は未確認",
+    "各イベントの現地実施状況は独立確認していない",
+    "マルイ全国イベント一覧は動的表示のため、公式一覧の検索インデックスに表示された開催日・会場・説明を使用。すべての個別イベント詳細ページを直接取得したわけではない",
+    "BATTLE OF TOKYOのなんばマルイ会場は2027-03-27〜2027-04-11で対象期間外のため未登録"
+  ],
+  "duplicate_key_validation": "No duplicate name+opening_date keys were present after the update."
+}
