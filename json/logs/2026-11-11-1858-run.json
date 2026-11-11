@@ -57,5 +57,11 @@
     "THE GUNDAM BASE公式発表で渋谷店の2026-11-20開店を再確認したが、既存登録済み。",
     "最新JSONは2005件。必須項目欠落0件、日付形式不正0件、重複キー0件、日付順正常。",
     "今回、新規追加・訂正・削除の確定候補はなかったため、latest.jsonは変更せず既存データを保護した。"
-  ]
+  ],
+  "automation_status": {
+    "is_enabled": false,
+    "schedule_definition_retained": true,
+    "next_run_time_displayed": "2026-11-11T19:00:00+09:00",
+    "note": "The automation was disabled after this run under the execution environment's completion rule. This differs from the user's requested keep-running instruction."
+  }
 }
