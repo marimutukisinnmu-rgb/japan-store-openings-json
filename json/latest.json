@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T16:59:42+09:00",
+  "updatetime": "2026-11-11T17:57:20+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -8355,6 +8355,13 @@
       "category": "期間限定店頭販売（菓子・書籍、2026-11-12〜2026-11-30）"
     },
     {
+      "name": "マクドナルド ３６号恵庭店",
+      "prefecture": "北海道",
+      "city": "恵庭市",
+      "opening_date": "2026-11-12",
+      "category": "ファストフード"
+    },
+    {
       "name": "3COINS+plus（アミュプラザ鹿児島）",
       "prefecture": "鹿児島県",
       "city": "鹿児島市",
@@ -9697,6 +9704,13 @@
       "city": "川崎市高津区",
       "opening_date": "2026-11-18",
       "category": "五平餅・和菓子の期間限定ショップ（2026-11-18〜2026-12-01）"
+    },
+    {
+      "name": "マクドナルド 下曽根駅南口店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉南区",
+      "opening_date": "2026-11-18",
+      "category": "ファストフード"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
