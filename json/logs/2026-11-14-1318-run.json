@@ -1,0 +1,221 @@
+{
+  "run_at": "2026-11-14T13:18:46+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_blob_sha": "843abfdf3e26d52a94f1d7db3d0975d96f4fb523",
+  "updated_blob_sha": "f16aabce0d514190a341e8fbb2b2fac61885c6a2",
+  "update_commit_sha": "9a681c65c989547b06ba558e3a3dc9284af41ec8",
+  "counts": {
+    "before": 2088,
+    "added": 14,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2102
+  },
+  "added_items": [
+    {
+      "name": "LUNA EARTH テラスモール松戸店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-16",
+      "category": "アクセサリー・ファッション雑貨"
+    },
+    {
+      "name": "ゴンチャ 秋葉原UDX店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-19",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "ジャンカラ 星ヶ丘駅前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-27",
+      "category": "カラオケ"
+    },
+    {
+      "name": "BASQUE CHEESE Cat（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "チーズケーキ（期間限定催事・2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "トロア（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-12-01",
+      "category": "チーズケーキ（期間限定催事・2026-12-01〜2026-12-14）"
+    },
+    {
+      "name": "カルビープラス／かいつか（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-12-18",
+      "category": "ポテトスナック・焼き芋（期間限定催事・2026-12-18〜2026-12-30）"
+    },
+    {
+      "name": "MARKY'S（ジャズドリーム長島）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-30",
+      "category": "キッズファッション・アウトレット"
+    },
+    {
+      "name": "Gap Logo POPUP-SHOP（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-14",
+      "category": "ファッション（期間限定ポップアップ・2026-11-14〜2026-12-13）"
+    },
+    {
+      "name": "ベーグルスタンド（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "ベーグル（期間限定ショップ・2026-11-27〜2026-12-14）"
+    },
+    {
+      "name": "La Vie en Croissant（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "クロワッサン（期間限定ショップ・2026-11-27〜2026-12-14）"
+    },
+    {
+      "name": "つるとんたん（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-19",
+      "category": "うどん（期間限定ショップ・2026-11-19〜2026-11-25）"
+    },
+    {
+      "name": "桔梗屋（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-19",
+      "category": "和菓子（期間限定ショップ・2026-11-19〜2026-12-01）"
+    },
+    {
+      "name": "SK-II POP-UP event（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-06",
+      "category": "化粧品（期間限定イベント・2026-11-06〜2026-11-15）"
+    },
+    {
+      "name": "ANDE（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-06",
+      "category": "デニッシュパン（期間限定ショップ・2026-11-06〜2026-11-17）"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社エンドレス（LUNA EARTH運営）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000917.000061261.html",
+      "supports": "LUNA EARTH テラスモール松戸店の2026-11-16開店、松戸市八ケ崎2-8-1を確認"
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000452.000048503.html",
+      "supports": "ゴンチャ 秋葉原UDX店の2026-11-19開店、千代田区外神田4-14-1 秋葉原UDX 1階を確認"
+    },
+    {
+      "publisher": "株式会社TOAI（ジャンカラ運営）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000447.000017032.html",
+      "supports": "ジャンカラ 星ヶ丘駅前店の2026-11-27開店、名古屋市千種区星ヶ丘元町15-15を確認"
+    },
+    {
+      "publisher": "三菱地所・サイモン株式会社（あみプレミアム・アウトレット）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html",
+      "supports": "BASQUE CHEESE Cat、トロア、カルビープラス／かいつかの催事開催期間を確認"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社（ジャズドリーム長島）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "supports": "MARKY'S（ジャズドリーム長島）の2026-10-30開店を公式掲載画像で確認"
+    },
+    {
+      "publisher": "コクーンシティ公式",
+      "url": "https://web2020.cocooncity.jp/shopchange/index",
+      "supports": "Gap Logo POPUP-SHOP、ベーグルスタンド、La Vie en Croissant、つるとんたん、桔梗屋、SK-II POP-UP event、ANDEの開始日・開催期間を確認"
+    },
+    {
+      "publisher": "株式会社ジーアイビー（ブルースカイランドリー）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "supports": "2026年11月の国内10店舗を照合し、該当する全店舗が既存JSONに登録済みと確認"
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "supports": "2026年11月新規出店12店舗を照合し、国内候補は既存JSONに登録済みと確認"
+    },
+    {
+      "publisher": "A&F",
+      "url": "https://aandf.co.jp/news/store/news_2026_store_pendleton_pop_up_journey_2026",
+      "supports": "PENDLETON POP UP JOURNEY 2026の国内7会場が既存JSONに登録済みと確認"
+    },
+    {
+      "publisher": "株式会社アップガレージグループ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000229.000058006.html",
+      "supports": "アップガレージ浜松西店・ライダース・タイヤ流通センターの3業態が既存JSONに登録済みと確認"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "ブルースカイランドリー 2026年11月国内10店舗",
+      "reason": "公式一覧の国内全10店舗を照合。対象店舗はすべて既存JSONに登録済み"
+    },
+    {
+      "name": "セカンドリテイリンググループ 2026年11月国内新店",
+      "reason": "国内9候補を照合し、すべて既存JSONに登録済み"
+    },
+    {
+      "name": "PENDLETON POP UP JOURNEY 2026",
+      "reason": "公式発表の国内7会場すべて既存JSONに登録済み"
+    },
+    {
+      "name": "アップガレージ浜松西店関連3業態",
+      "reason": "3業態すべて既存JSONに登録済み"
+    },
+    {
+      "name": "しんぱち食堂 あみプレミアム・アウトレット店",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "パルク ドゥ ベーグ プチ（コクーンシティ）",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "御座候 アスティ静岡店・治一郎 アスティ静岡店",
+      "reason": "両店舗とも既存JSONに登録済み"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "reason": "公式資料は2026年12月予定までで、正確な開店日を確認できないため追加保留"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "count_matches_expected": true,
+    "additions_present": true,
+    "all_previous_records_preserved": true,
+    "existing_record_mutations": 0,
+    "duplicate_name_date_keys": true,
+    "sorted_by_opening_date": true,
+    "required_fields_and_date_format": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "passed": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗・催事の現地での実施状況",
+    "ジャズドリーム長島 Timberland の正確な開店日（2026年12月予定のみ）"
+  ]
+}
