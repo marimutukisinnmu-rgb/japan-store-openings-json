@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T15:10:56+09:00",
+  "updatetime": "2026-11-14T16:15:14+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10168,6 +10168,13 @@
       "category": "ハンバーガー専門店"
     },
     {
+      "name": "吉野家 福岡港町店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-18",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -11118,6 +11125,20 @@
       "city": "稲敷郡阿見町",
       "opening_date": "2026-11-20",
       "category": "チーズケーキ（期間限定催事・2026-11-20〜2026-11-29）"
+    },
+    {
+      "name": "スターバックス コーヒー 同志社大学図書館店",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "opening_date": "2026-11-20",
+      "category": "カフェ"
+    },
+    {
+      "name": "スターバックス コーヒー イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-20",
+      "category": "カフェ"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
