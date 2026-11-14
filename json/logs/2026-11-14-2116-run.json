@@ -93,5 +93,17 @@
     "全国すべての事業者・自治体の情報を網羅したことは保証できない。",
     "現地での開店実施状況は独立確認していない。",
     "今回確認した情報源に掲載されていない未公表店舗は確認対象外。"
-  ]
+  ],
+  "task_status": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "current_run": {
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-14T21:15:00+09:00",
+      "started_at": "2026-11-14T21:16:07.950180+09:00",
+      "completed_at": null
+    },
+    "note": "Task remains enabled and its schedule was not changed. The management record for this run is still in_progress; the 21:15 time shown is the current run slot, not a confirmed future next-run time."
+  }
 }
