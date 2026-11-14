@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-11-14T14:13:30+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_blob_sha": "f16aabce0d514190a341e8fbb2b2fac61885c6a2",
+  "updated_blob_sha": "120f3f7901659555d0f79f341badad50f3530873",
+  "update_commit_sha": "2ae6c3ea5a06f9f4179e9bf84b1b810d87ae9a87",
+  "counts": {
+    "before": 2102,
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2104
+  },
+  "added_items": [
+    {
+      "name": "SHOGUN BURGER 道玄坂店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-18",
+      "category": "ハンバーガー専門店"
+    },
+    {
+      "name": "BYREDO神戸BAL",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-27",
+      "category": "フレグランス・化粧品"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社大将軍（SHOGUN BURGER運営）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000155.000087376.html",
+      "supports": "SHOGUN BURGER 道玄坂店の2026-11-18開店、東京都渋谷区道玄坂2丁目29番10号 角屋ビル1階を確認"
+    },
+    {
+      "publisher": "株式会社中澤ホールディングス（神戸BAL運営会社）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000120926.html",
+      "supports": "BYREDO神戸BALの2026-11-27開店、兵庫県神戸市中央区三宮町3-6-1 神戸BAL本館1Fを確認"
+    },
+    {
+      "publisher": "一般社団法人 日本ショッピングセンター協会",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "supports": "2026年11月の新規SC情報を照合。天満屋ハピーズ西大寺モールとイオンモール伊達は既存JSONに登録済みと確認"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "neverbetter",
+      "reason": "既存JSONに2026-11-15開店として登録済み"
+    },
+    {
+      "name": "Eleanor spa&treatment 5店舗",
+      "reason": "郡山店・池袋3rd店・沖縄北谷店を含め、確認した候補は既存JSONに登録済み"
+    },
+    {
+      "name": "Japan Blue Jeans SHIBUYA PARCO",
+      "reason": "既存JSONに2026-11-20開店として登録済み"
+    },
+    {
+      "name": "秋野テーブル",
+      "reason": "既存JSONに2026-12-01開業として登録済み"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "reason": "既存JSONに2026-11-24開店として登録済み"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "reason": "既存JSONに2026-11-21開店として登録済み"
+    },
+    {
+      "name": "WR.Yoyogi Park",
+      "reason": "既存JSONに2026-11-06開店として登録済み"
+    },
+    {
+      "name": "天満屋ハピーズ西大寺モール／イオンモール伊達",
+      "reason": "日本ショッピングセンター協会の2026年オープンSC一覧と照合し、両施設とも既存JSONに登録済み"
+    },
+    {
+      "name": "OPAQUE.CLIP イオンモール新小松店",
+      "reason": "二次情報では2026-11-20開店とされるが、今回確認できた範囲で運営会社・施設の直接的な公式発表を取得できず、追加保留"
+    },
+    {
+      "name": "joujou patisserie and cafe",
+      "reason": "プレオープン予定の二次情報は見つかったが、運営者による直接的な公式情報を確認できず、追加保留"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "count_matches_expected": true,
+    "additions_present": true,
+    "all_previous_records_preserved": true,
+    "existing_record_mutations": 0,
+    "duplicate_name_date_keys": true,
+    "sorted_by_opening_date": true,
+    "required_fields_and_date_format": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "passed": false
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗の現地での開店実施状況",
+    "OPAQUE.CLIP イオンモール新小松店の公式な開店日・店舗詳細",
+    "joujou patisserie and cafe の運営者発表による開店情報"
+  ]
+}
