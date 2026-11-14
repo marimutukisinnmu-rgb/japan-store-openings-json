@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-11-14T16:15:14+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_blob_sha": "cbfedea7b6b67670fce1d446d5b2f57f1a15736c",
+  "updated_blob_sha": "4d5c272d9bc32073219cd4300eecbd7b3369a0b3",
+  "update_commit_sha": "956be7330810f0beedbede16a328ffb60532ca90",
+  "counts": {
+    "before": 2107,
+    "added": 3,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2110
+  },
+  "added_items": [
+    {
+      "name": "スターバックス コーヒー 同志社大学図書館店",
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "opening_date": "2026-11-20",
+      "category": "カフェ"
+    },
+    {
+      "name": "スターバックス コーヒー イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-20",
+      "category": "カフェ"
+    },
+    {
+      "name": "吉野家 福岡港町店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-18",
+      "category": "牛丼・定食"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "スターバックス コーヒー ジャパン（公式店舗情報）",
+      "url": "https://store.starbucks.co.jp/detail-4630/",
+      "supports": "スターバックス コーヒー 同志社大学図書館店。2026年11月20日オープン。京都府京都市上京区今出川通烏丸東入玄武町601 同志社大学今出川図書館。"
+    },
+    {
+      "publisher": "スターバックス コーヒー ジャパン（公式店舗情報）",
+      "url": "https://store.starbucks.co.jp/detail-4631/",
+      "supports": "スターバックス コーヒー イオンモール伊達店。2026年11月20日オープン。福島県伊達市堂ノ内地区土地区画整理事業地内 イオンモール伊達2階。"
+    },
+    {
+      "publisher": "吉野家（公式店舗検索）",
+      "url": "https://stores.yoshinoya.com/yoshinoya/spot/detail?code=ysn_044899",
+      "supports": "吉野家 福岡港町店。2026年11月18日10時グランドオープン。福岡県福岡市中央区港2丁目7-7。"
+    }
+  ],
+  "checked_existing": [
+    {
+      "publisher": "松屋フーズ（公式・新店一覧）",
+      "url": "https://qr.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "result": "松屋 住之江新北島店（2026-11-21）は既存JSONに登録済み。再追加せず。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン（公式）",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "公式発表に掲載された11月新店候補を照合し、確認対象は既存登録済み。"
+    },
+    {
+      "publisher": "サブウェイ（公式）",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店・サクラマチクマモト店は既存登録済み。"
+    },
+    {
+      "publisher": "ローソン（公式）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "11月13日以降の掲載店舗を照合し、確認対象は既存登録済み。"
+    },
+    {
+      "publisher": "すかいらーくグループ（公式店舗検索）",
+      "url": "https://store-info.skylark.co.jp/list/",
+      "result": "新店舗一覧の確認対象は既存登録済み。"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "count_matches_expected": true,
+    "additions_present": true,
+    "all_previous_records_preserved": true,
+    "duplicate_name_date_keys": true,
+    "sorted_by_opening_date": true,
+    "date_format_valid": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "blob_sha_matches": true,
+    "passed": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗の現地での開店実施状況",
+    "今回照合した公式情報源に掲載されていない事業者の追加発表"
+  ]
+}
