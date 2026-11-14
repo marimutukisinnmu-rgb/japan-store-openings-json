@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-14T15:10:56+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_blob_sha": "120f3f7901659555d0f79f341badad50f3530873",
+  "updated_blob_sha": "cbfedea7b6b67670fce1d446d5b2f57f1a15736c",
+  "update_commit_sha": "5ff1df9de38fc4509759987f9e0395ada1c5ecd2",
+  "counts": {
+    "before": 2104,
+    "added": 3,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2107
+  },
+  "added_items": [
+    {
+      "name": "LAWSON＋toks等々力緑地",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-11-25",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 中城屋宜",
+      "prefecture": "沖縄県",
+      "city": "中頭郡中城村",
+      "opening_date": "2026-11-26",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 新松戸南",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-27",
+      "category": "コンビニエンスストア"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "ローソン株式会社（公式・新店舗情報）",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "supports": "ローソン公式「新店舗情報」一覧。2026年11月25日 LAWSON＋toks等々力緑地（神奈川県川崎市中原区宮内4-588-4）、11月26日 中城屋宜（沖縄県中頭郡中城村字屋宜99-1）、11月27日 新松戸南（千葉県松戸市新松戸南1-376）の開店日・所在地を掲載。"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "ローソン公式新店舗情報のうち11月19日までの掲載店",
+      "reason": "最新JSONに同名・同日で登録済みであることを照合"
+    },
+    {
+      "name": "LAWSON＋toks等々力緑地以外の等々力緑地周辺新店舗候補",
+      "reason": "今回の公式一覧で個別店舗の確定開店日が示されていないものは追加せず保留"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "count_matches_expected": true,
+    "additions_present": true,
+    "all_previous_records_preserved": true,
+    "existing_record_mutations": 0,
+    "duplicate_name_date_keys": true,
+    "sorted_by_opening_date": true,
+    "required_fields_and_date_format": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "passed": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "各店舗の現地での開店実施状況",
+    "今回の公式一覧に掲載されていない事業者の追加発表"
+  ]
+}
