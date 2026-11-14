@@ -1,0 +1,201 @@
+{
+  "run_at": "2026-11-14T11:16:38+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "success",
+  "previous_count": 2072,
+  "added_count": 11,
+  "updated_count": 2083,
+  "corrected_count": 1,
+  "deleted_count": 0,
+  "previous_blob_sha": "3eb4bc8fce327c60f581b97cacc1c95d2b09df27",
+  "new_blob_sha": "fda0a5af7ded46234409097a89db96d763bf983c",
+  "update_commit_sha": "df197e2078cbbe91bbefd4dd71da00e053dbbaf4",
+  "added_items": [
+    {
+      "name": "ラーメン魁力屋 神戸森友店",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "opening_date": "2026-11-17",
+      "category": "ラーメン"
+    },
+    {
+      "name": "ラーメン魁力屋 セブンパーク天美店",
+      "prefecture": "大阪府",
+      "city": "松原市",
+      "opening_date": "2026-11-19",
+      "category": "ラーメン"
+    },
+    {
+      "name": "SUMOMO BAKERY 久留米櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-19",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "クレヨンしんちゃん オフィシャルショップ アクションデパート 春日部店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ専門店"
+    },
+    {
+      "name": "Goldwin Fukuoka",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-21",
+      "category": "アウトドア・アパレル・ライフスタイルショップ"
+    },
+    {
+      "name": "FIT PLACE24 久留米櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-24",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "JOYFULL EXPRESS ゆめタウン久留米店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-24",
+      "category": "ファミリーレストラン（フードコート業態）"
+    },
+    {
+      "name": "マクドナルド 久留米櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ReD イオンモール福岡店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "opening_date": "2026-11-27",
+      "category": "リカバリーウェア・アパレル"
+    },
+    {
+      "name": "Beisia Foods Park 玉ノ井店",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-12-04",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "BONTEMPS 田川店",
+      "prefecture": "福岡県",
+      "city": "田川市",
+      "opening_date": "2026-12-05",
+      "category": "ドーナツカフェ"
+    }
+  ],
+  "corrected_items": [
+    {
+      "name": "ラーメン魁力屋 イオンモール伊達店",
+      "field": "opening_date",
+      "old_value": "2026-11-27",
+      "new_value": "2026-11-20",
+      "reason": "魁力屋公式新店舗発表および公式店舗ページで11月20日オープン予定を再確認"
+    }
+  ],
+  "skipped_existing": [
+    "カラオケBanBan博多駅前店（登録済み）",
+    "カラオケまねきねこ 南池袋店（登録済み）",
+    "カラオケまねきねこ 各務原店（登録済み）",
+    "ケンタッキーフライドチキン イオンタウン久留米東櫛原店（登録済み）",
+    "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店（登録済み）"
+  ],
+  "not_added_unconfirmed": [
+    {
+      "name": "等々力緑地の新施設テナント4店舗",
+      "reason": "公式発表は「2026年11月下旬より順次開業」とのみ記載し、店舗別の具体的な開業日が未公表のため未登録"
+    },
+    {
+      "name": "SUMOMO BAKERY以外の久留米東櫛原SC候補（ツルハドラッグ、サイゼリヤ等）",
+      "reason": "今回確認できた情報では店舗別の正確な開店日を一次情報で確定できなかったため未登録"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ラーメン魁力屋 神戸森友店",
+      "url": "https://www.kairikiya.co.jp/news/7083",
+      "source_type": "運営会社公式新店舗発表"
+    },
+    {
+      "name": "ラーメン魁力屋 セブンパーク天美店",
+      "url": "https://www.kairikiya.co.jp/news/614",
+      "source_type": "運営会社公式新店舗発表"
+    },
+    {
+      "name": "ラーメン魁力屋 イオンモール伊達店（開店日訂正）",
+      "url": "https://www.kairikiya.co.jp/news/616",
+      "source_type": "運営会社公式新店舗発表"
+    },
+    {
+      "name": "ラーメン魁力屋 店舗一覧（住所・開店予定日照合）",
+      "url": "https://shop.kairikiya.co.jp/stores",
+      "source_type": "公式店舗検索"
+    },
+    {
+      "name": "SUMOMO BAKERY 久留米櫛原店",
+      "url": "https://hello-work.info/job/4005014154761/",
+      "source_type": "事業者提出のハローワーク求人票を掲載する求人情報ページ。公式ハローワーク側の直接ページは取得エラー"
+    },
+    {
+      "name": "クレヨンしんちゃん オフィシャルショップ アクションデパート 春日部店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000023.000142047.html",
+      "source_type": "運営会社公式プレスリリース"
+    },
+    {
+      "name": "Goldwin Fukuoka",
+      "url": "https://prtimes.jp/main/html/rd/p/000001299.000007414.html",
+      "source_type": "株式会社ゴールドウイン公式プレスリリース"
+    },
+    {
+      "name": "FIT PLACE24 久留米櫛原店",
+      "url": "https://fitplace.jp/gyms/kurume-kushihara/",
+      "source_type": "運営会社公式店舗ページ"
+    },
+    {
+      "name": "JOYFULL EXPRESS ゆめタウン久留米店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000023968.html",
+      "source_type": "株式会社ジョイフル公式プレスリリース"
+    },
+    {
+      "name": "マクドナルド 久留米櫛原店",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y40685",
+      "source_type": "日本マクドナルド公式採用・店舗情報"
+    },
+    {
+      "name": "ReD イオンモール福岡店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001152.000029736.html",
+      "source_type": "株式会社MTG公式プレスリリース"
+    },
+    {
+      "name": "Beisia Foods Park 玉ノ井店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000503.000069349.html",
+      "source_type": "株式会社ベイシア公式プレスリリース"
+    },
+    {
+      "name": "BONTEMPS 田川店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000352.000061742.html",
+      "source_type": "運営会社公式プレスリリース"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "item_count": 2083,
+    "all_new_items_present": true,
+    "old_items_preserved_except_one_date_correction": true,
+    "corrected_record_verified": true,
+    "duplicate_key_count": 0,
+    "required_fields_valid": true,
+    "date_format_valid": true,
+    "date_order": true,
+    "period_unchanged": true,
+    "save_readback": true,
+    "readback_blob_sha": "fda0a5af7ded46234409097a89db96d763bf983c"
+  }
+}
