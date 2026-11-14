@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T11:16:38+09:00",
+  "updatetime": "2026-11-14T12:17:01+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -8649,6 +8649,13 @@
       "category": "カフェ・喫茶店"
     },
     {
+      "name": "かつや 長崎大村店",
+      "prefecture": "長崎県",
+      "city": "大村市",
+      "opening_date": "2026-11-12",
+      "category": "とんかつ・定食"
+    },
+    {
       "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（渋谷モディ）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -10378,6 +10385,27 @@
       "category": "ベーカリー"
     },
     {
+      "name": "サブウェイ サクラマチクマモト店",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "opening_date": "2026-11-19",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "すき家 16号木更津潮見店",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-19",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "すき家 宇都宮兵庫塚店",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-19",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -11013,6 +11041,13 @@
       "city": "春日部市",
       "opening_date": "2026-11-20",
       "category": "キャラクターグッズ専門店"
+    },
+    {
+      "name": "豚山 名古屋神の倉店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-11-20",
+      "category": "ラーメン"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
