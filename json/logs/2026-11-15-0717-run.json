@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-15T07:17:26+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "d99dc968f4954d6d4eefb054fc060d8d325a69a4",
+    "updated_blob_sha": "e0ecb8580806ba086c893f8b1e9de58c73362c32",
+    "commit_sha": "b8eb374b9b853e77d00b98e5b1f7c08619592934",
+    "item_count_before": 2141,
+    "item_count_after": 2141,
+    "updatetime": "2026-11-15T07:17:26+09:00",
+    "content_change": "timestamp_only_no_verified_new_items",
+    "additions": [],
+    "corrections": [],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "e0ecb8580806ba086c893f8b1e9de58c73362c32"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official new-store listing",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_opening_window": "2026-11-17 through 2026-11-30",
+      "checked_entries": 27,
+      "matched_existing_records": 27,
+      "unmatched": []
+    },
+    {
+      "source": "Cat Café MOFF official news",
+      "url": "https://moff-moff.jp/cat-cafe/news/",
+      "store": "Cat Café MOFF イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "POP MART JAPAN official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "store": "POP MART LUCUA SOUTH店",
+      "opening_date": "2026-11-24",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "株式会社エンドレス official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000917.000061261.html",
+      "store": "LUNA EARTH テラスモール松戸店",
+      "opening_date": "2026-11-16",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "GTホールディングス / 株式会社エイト official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+      "store": "VINTAGE QOO TOKYO AOYAMA",
+      "opening_date": "2026-11-16",
+      "address": "東京都渋谷区神宮前5-50-3 アーバンテラス青山1F",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "ローソンエンタテインメント official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000729.000034304.html",
+      "store": "HMVららぽーと堺",
+      "opening_date": "2026-11-17",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "株式会社ナルミヤ・インターナショナル official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000522.000066361.html",
+      "store": "NARUMIYA HAPPY PARK（LUCUA SOUTH）",
+      "opening_date": "2026-11-24",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "LADUREE JAPON official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "store": "カフェ・ラデュレ 新丸ビル店",
+      "opening_date": "2026-11-16",
+      "result": "Matched existing JSON record."
+    }
+  ],
+  "held_candidates": [
+    {
+      "name": "joujou pâtisserie and cafe",
+      "proposed_dates": "2026-11-16/17 pre-opening; 2026-11-24 grand opening",
+      "reason": "Only local secondary reporting was located in this run; no primary store announcement was verified."
+    },
+    {
+      "name": "OPAQUE.CLIP イオンモール新小松店",
+      "proposed_date": "2026-11-20",
+      "reason": "Secondary local reporting was found, but no primary brand or mall opening announcement was verified."
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "The two held candidates require primary-source confirmation before registration.",
+    "Physical opening status was not independently checked on site."
+  ]
+}
