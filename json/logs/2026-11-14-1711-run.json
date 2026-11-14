@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-14T17:11:51+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "name": "三井アウトレットパーク ジャズドリーム長島 公式オープン・リニューアル一覧",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/openclose/",
+      "verified": [
+        "SALOMON 2026-12-11",
+        "Timberland 2026-12-18",
+        "MERRELL 2026-11-21 (already registered)",
+        "facility address: 三重県桑名市長島町浦安368"
+      ]
+    },
+    {
+      "name": "東京ソラマチ公式 POP UP SHOP一覧",
+      "url": "https://www.tokyo-solamachi.jp/",
+      "verified": [
+        "NUTS FACTORY 2026-11-11 through 2026-12-27",
+        "2F East Yard 10"
+      ]
+    },
+    {
+      "name": "東京ソラマチ公式アクセス",
+      "url": "https://www.tokyo-solamachi.jp/access/",
+      "verified": [
+        "〒131-0045 東京都墨田区押上1-1-2"
+      ]
+    }
+  ],
+  "before": {
+    "count": 2110,
+    "blob_sha": "4d5c272d9bc32073219cd4300eecbd7b3369a0b3",
+    "updatetime": "2026-11-14T16:15:14+09:00"
+  },
+  "additions": [
+    {
+      "name": "SALOMON（ジャズドリーム長島）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-12-11",
+      "category": "スポーツ＆アウトドア"
+    },
+    {
+      "name": "Timberland（ジャズドリーム長島）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-12-18",
+      "category": "スポーツ＆アウトドア"
+    },
+    {
+      "name": "NUTS FACTORY（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定食品ショップ（2026-11-11〜2026-12-27）"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "MERRELL（ジャズドリーム長島）",
+      "opening_date": "2026-11-21",
+      "reason": "既存JSONに同名・同日で登録済み"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "verification": {
+    "json_parse": true,
+    "additions_present_once": true,
+    "existing_records_preserved": true,
+    "sorted_by_opening_date": true,
+    "final_count": 2113,
+    "final_updatetime": "2026-11-14T17:11:51+09:00"
+  },
+  "after": {
+    "count": 2113,
+    "blob_sha": "06534014e030edc7ce69e421ede644735aee410c",
+    "commit_sha": "d85722e1ee7b6cbde66a332e0d2806491599107a"
+  }
+}
