@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-14T20:15:00+09:00",
+  "target": "json/latest.json",
+  "branch": "main",
+  "before": {
+    "count": 2119,
+    "blob_sha": "b8c8802c719e6d4d157dea3409643fce3c912d06",
+    "updatetime": "2026-11-14T19:14:11+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ピース岡山",
+        "prefecture": "岡山県",
+        "city": "岡山市北区",
+        "opening_date": "2026-11-24",
+        "category": "ベーカリーカフェ",
+        "source": "https://prtimes.jp/main/html/rd/p/000000007.000180057.html"
+      },
+      {
+        "name": "TVアニメ『ダイヤのA actⅡ -Second Season-』 POP UP SHOP in TOWER RECORDS（渋谷店）",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-12-04",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-04〜2026-12-13）",
+        "source": "https://event.amnibus.com/diaace2-tower/"
+      },
+      {
+        "name": "TVアニメ『ダイヤのA actⅡ -Second Season-』 POP UP SHOP in TOWER RECORDS（あべのHoop店）",
+        "prefecture": "大阪府",
+        "city": "大阪市阿倍野区",
+        "opening_date": "2026-12-04",
+        "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-04〜2026-12-13）",
+        "source": "https://event.amnibus.com/diaace2-tower/"
+      }
+    ],
+    "corrected": [],
+    "removed": []
+  },
+  "source_verification": [
+    {
+      "source": "株式会社暮らしと珈琲 / PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000180057.html",
+      "verified": "2026-11-24 opening, Okayama City Hall new building 2F"
+    },
+    {
+      "source": "AMNIBUS event page / TOWER RECORDS store list",
+      "url": "https://event.amnibus.com/diaace2-tower/",
+      "verified": "2026-12-04 to 2026-12-13 at Shibuya and Abeno Hoop; store city/prefecture cross-checked with TOWER RECORDS official store directory"
+    },
+    {
+      "source": "Okayama City official site",
+      "url": "https://www.city.okayama.jp/shisei/0000086696.html",
+      "verified": "Okayama City Hall address is Okayama-shi Kita-ku Daiku 1-1-1"
+    },
+    {
+      "source": "TOWER RECORDS official store directory",
+      "url": "https://tower.jp/store/",
+      "verified": "Shibuya store is Shibuya-ku, Tokyo; Abeno Hoop store is Abeno-ku, Osaka"
+    }
+  ],
+  "after": {
+    "count": 2122,
+    "updatetime": "2026-11-14T20:15:00+09:00",
+    "blob_sha": "86f1ea7c35e1ef828b282f3d39e715caf05c6d9d",
+    "commit_sha": "95647806c7e45de594d07d56ac870a0d524ab43c"
+  },
+  "validation": {
+    "json_parse": true,
+    "existing_records_preserved": 2119,
+    "new_entries_present": 3,
+    "duplicate_candidates": 0,
+    "sorted_by_opening_date": true,
+    "post_write_fetch": true,
+    "post_write_sha_matches": true
+  },
+  "limitations": [
+    "Nationwide coverage across all operators is not exhaustive.",
+    "Physical opening/event execution was not independently confirmed on site."
+  ]
+}
