@@ -1,0 +1,97 @@
+{
+  "run_at": "2026-11-14T21:16:09+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "result": "checked_no_new_records",
+  "before": {
+    "blob_sha": "86f1ea7c35e1ef828b282f3d39e715caf05c6d9d",
+    "item_count": 2122,
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan",
+    "updatetime": "2026-11-14T20:15:00+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": [],
+    "item_records_changed": 0
+  },
+  "source_checks": [
+    {
+      "source": "株式会社ジーアイビー / PR TIMES — 2026年11月ブルースカイランドリー新店一覧",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "All 10 announced November stores were matched to existing records; no missing store found."
+    },
+    {
+      "source": "株式会社サイプレス / PR TIMES — イオンモール伊達5店舗同時出店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+      "result": "All five announced brands matched existing records: ABURI百貫, 築地食堂 源ちゃん, 銀座惣菜店, とんかつとう庵, 天丼専門店 ゑるびす."
+    },
+    {
+      "source": "株式会社サイプレス / PR TIMES — 銀座惣菜店 イオンモール伊達店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html",
+      "result": "Exact store name, 2026-11-27 opening date, Date City, Fukushima Prefecture, and Aeon Mall Date 1F confirmed; existing record already present."
+    },
+    {
+      "source": "東急株式会社・株式会社東急モールズデベロップメント — エトモ菊名公式発表",
+      "url": "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf",
+      "result": "Facility and six new tenants (東急ストア, タリーズコーヒー, ミスターワッフル, ビアードパパ, 青山フラワーマーケット, QB PREMIUM) matched existing records. Three continuing tenants were not treated as new openings."
+    },
+    {
+      "source": "株式会社POP MART JAPAN / PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店, 2026-11-24, matched existing record."
+    },
+    {
+      "source": "ワタミ株式会社 / Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店 and サクラマチクマモト店 matched existing records."
+    },
+    {
+      "source": "GYRO HOLDINGS / PR TIMES — BAKERIES LAB.新百合ヶ丘店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001075.000005340.html",
+      "result": "2026-11-14 opening announcement matched existing record."
+    },
+    {
+      "source": "株式会社PAPABUBBLE / PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLE イクスピアリ店, 2026-11-21, matched existing record."
+    },
+    {
+      "source": "すき家公式新着情報",
+      "url": "https://sukiya.jp/sp/news/",
+      "result": "16号木更津潮見店 and 宇都宮兵庫塚店, both scheduled for 2026-11-19, matched existing records."
+    },
+    {
+      "source": "三井不動産商業マネジメント / PR TIMES — ジャズドリーム長島新店一覧",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "result": "Named new-shop highlights checked against existing records; no new unmatched item confirmed."
+    }
+  ],
+  "after": {
+    "blob_sha": "e5fe2d54ce53f74149358588314d3618cddd7f47",
+    "item_count": 2122,
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan",
+    "updatetime": "2026-11-14T21:16:09+09:00",
+    "commit_sha": "809eede9905c14c5bd85f521c98ec74987cd5852"
+  },
+  "verification": {
+    "json_parse": true,
+    "item_count_unchanged": true,
+    "all_existing_items_preserved_exactly": true,
+    "period_unchanged": true,
+    "scope_unchanged": true,
+    "timestamp_updated": true,
+    "sorted_by_opening_date": true,
+    "post_write_fetch": true,
+    "post_write_sha_matches": true,
+    "passed": true
+  },
+  "unconfirmed": [
+    "全国すべての事業者・自治体の情報を網羅したことは保証できない。",
+    "現地での開店実施状況は独立確認していない。",
+    "今回確認した情報源に掲載されていない未公表店舗は確認対象外。"
+  ]
+}
