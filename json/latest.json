@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T17:11:51+09:00",
+  "updatetime": "2026-11-14T18:13:11+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12786,6 +12786,41 @@
       "category": "コンビニエンスストア"
     },
     {
+      "name": "ふくしまひらいビル",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "商業施設（再生・リニューアルオープン）"
+    },
+    {
+      "name": "庵ど（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "うどん・和食ダイニング"
+    },
+    {
+      "name": "バイセル（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "買取専門店"
+    },
+    {
+      "name": "La pirates（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "女性専用整体・マシンピラティススタジオ"
+    },
+    {
+      "name": "ロレインアイ（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "LEDマツエク・まつげパーマ専門サロン"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -13064,6 +13099,13 @@
       "city": "東大阪市",
       "opening_date": "2026-11-28",
       "category": "バイク用品リユース"
+    },
+    {
+      "name": "Introduce A to B（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-28",
+      "category": "期間限定アート展示・地域コミュニティ企画（前期2026-11-28〜2026-12-13、後期2026-12-17〜2026-12-27）"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
