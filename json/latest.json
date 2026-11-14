@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T12:17:01+09:00",
+  "updatetime": "2026-11-14T13:18:46+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -4722,6 +4722,13 @@
       "category": "作品公式グッズ・期間限定ポップアップ（2026-10-30〜2026-11-15）"
     },
     {
+      "name": "MARKY'S（ジャズドリーム長島）",
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "opening_date": "2026-10-30",
+      "category": "キッズファッション・アウトレット"
+    },
+    {
       "name": "『Cyberpunk: Edgerunners２』（なんばマルイ）",
       "prefecture": "大阪府",
       "city": "大阪市中央区",
@@ -7298,6 +7305,20 @@
       "category": "期間限定ファッションポップアップ（2026-11-06〜2026-11-15）"
     },
     {
+      "name": "SK-II POP-UP event（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-06",
+      "category": "化粧品（期間限定イベント・2026-11-06〜2026-11-15）"
+    },
+    {
+      "name": "ANDE（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-06",
+      "category": "デニッシュパン（期間限定ショップ・2026-11-06〜2026-11-17）"
+    },
+    {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -9496,6 +9517,13 @@
       "category": "保険相談ショップ（リニューアル）"
     },
     {
+      "name": "Gap Logo POPUP-SHOP（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-14",
+      "category": "ファッション（期間限定ポップアップ・2026-11-14〜2026-12-13）"
+    },
+    {
       "name": "neverbetter",
       "prefecture": "東京都",
       "city": "世田谷区",
@@ -9690,6 +9718,13 @@
       "city": "富山市",
       "opening_date": "2026-11-16",
       "category": "フィットネスジム"
+    },
+    {
+      "name": "LUNA EARTH テラスモール松戸店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-16",
+      "category": "アクセサリー・ファッション雑貨"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -10406,6 +10441,27 @@
       "category": "牛丼・定食"
     },
     {
+      "name": "ゴンチャ 秋葉原UDX店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-19",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "つるとんたん（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-19",
+      "category": "うどん（期間限定ショップ・2026-11-19〜2026-11-25）"
+    },
+    {
+      "name": "桔梗屋（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-19",
+      "category": "和菓子（期間限定ショップ・2026-11-19〜2026-12-01）"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -11048,6 +11104,13 @@
       "city": "名古屋市緑区",
       "opening_date": "2026-11-20",
       "category": "ラーメン"
+    },
+    {
+      "name": "BASQUE CHEESE Cat（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-11-20",
+      "category": "チーズケーキ（期間限定催事・2026-11-20〜2026-11-29）"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
@@ -12639,6 +12702,27 @@
       "category": "リカバリーウェア・アパレル"
     },
     {
+      "name": "ジャンカラ 星ヶ丘駅前店",
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "opening_date": "2026-11-27",
+      "category": "カラオケ"
+    },
+    {
+      "name": "ベーグルスタンド（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "ベーグル（期間限定ショップ・2026-11-27〜2026-12-14）"
+    },
+    {
+      "name": "La Vie en Croissant（コクーンシティ）",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "opening_date": "2026-11-27",
+      "category": "クロワッサン（期間限定ショップ・2026-11-27〜2026-12-14）"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -13057,6 +13141,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-01",
       "category": "レストラン（新業態）"
+    },
+    {
+      "name": "トロア（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-12-01",
+      "category": "チーズケーキ（期間限定催事・2026-12-01〜2026-12-14）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -14170,6 +14261,13 @@
       "city": "福岡市博多区",
       "opening_date": "2026-12-18",
       "category": "映画館（リニューアル）"
+    },
+    {
+      "name": "カルビープラス／かいつか（あみプレミアム・アウトレット催事）",
+      "prefecture": "茨城県",
+      "city": "稲敷郡阿見町",
+      "opening_date": "2026-12-18",
+      "category": "ポテトスナック・焼き芋（期間限定催事・2026-12-18〜2026-12-30）"
     },
     {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
