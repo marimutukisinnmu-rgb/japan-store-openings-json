@@ -1,0 +1,113 @@
+{
+  "run_at": "2026-11-14T12:17:01+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_blob_sha": "fda0a5af7ded46234409097a89db96d763bf983c",
+  "updated_blob_sha": "843abfdf3e26d52a94f1d7db3d0975d96f4fb523",
+  "update_commit_sha": "76778b68e7a1fdc682e672d174d0888706abcd15",
+  "counts": {
+    "before": 2083,
+    "added": 5,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2088
+  },
+  "added_items": [
+    {
+      "name": "かつや 長崎大村店",
+      "prefecture": "長崎県",
+      "city": "大村市",
+      "opening_date": "2026-11-12",
+      "category": "とんかつ・定食"
+    },
+    {
+      "name": "サブウェイ サクラマチクマモト店",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "opening_date": "2026-11-19",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "すき家 16号木更津潮見店",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-19",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "すき家 宇都宮兵庫塚店",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "opening_date": "2026-11-19",
+      "category": "牛丼・定食"
+    },
+    {
+      "name": "豚山 名古屋神の倉店",
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "opening_date": "2026-11-20",
+      "category": "ラーメン"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "サブウェイ公式",
+      "url": "https://subway.co.jp/news/20261112-02/",
+      "supports": "サクラマチクマモト店の2026-11-19開店、熊本市中央区桜町3-10を確認"
+    },
+    {
+      "publisher": "すき家公式",
+      "url": "https://www.sukiya.jp/news/",
+      "supports": "16号木更津潮見店・宇都宮兵庫塚店の2026-11-19 9:00開店を公式新店情報一覧で確認"
+    },
+    {
+      "publisher": "すき家公式店舗情報",
+      "url": "https://maps.sukiya.jp/jp/detail/6637.html",
+      "supports": "宇都宮兵庫塚店の2026-11-19開店と宇都宮市兵庫塚3-41-22を確認"
+    },
+    {
+      "publisher": "ラーメン豚山公式",
+      "url": "https://www.butayama.com/news/butayama-aichi-nagoyakaminokura",
+      "supports": "豚山 名古屋神の倉店の2026-11-20開店、名古屋市緑区神の倉4-186を確認"
+    },
+    {
+      "publisher": "かつや公式店舗情報",
+      "url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=2531",
+      "supports": "かつや 長崎大村店の2026-11-12 10:00開店と大村市協和町842を確認"
+    },
+    {
+      "publisher": "リンガーハット公式",
+      "url": "https://www.ringerhut.co.jp/info/2026/1016_1/",
+      "supports": "濵かつ 飯田橋店の2026-11-25開店を確認。ただし既存登録済みのため追加せず"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "濵かつ 飯田橋店",
+      "reason": "既存JSONに同名・同日で登録済み"
+    },
+    {
+      "name": "Sleep Shop（ジャズドリーム長島）",
+      "reason": "施設公式画像に10/31 NEW OPEN表記を確認したが、既存の「シモンズ（ジャズドリーム長島）」と同一店舗か判別できず、重複回避のため追加保留"
+    }
+  ],
+  "verification": {
+    "json_parse": true,
+    "count_matches_expected": true,
+    "additions_present": true,
+    "all_previous_records_preserved": true,
+    "existing_record_mutations": 0,
+    "sorted_by_opening_date": true,
+    "required_fields_and_date_format": true,
+    "post_write_refetch": true,
+    "post_write_parse": true,
+    "passed": true
+  },
+  "errors": [],
+  "unverified": [
+    "全国全事業者の網羅性",
+    "現地での開店実施状況",
+    "Sleep Shopと既存シモンズ登録の同一性"
+  ]
+}
