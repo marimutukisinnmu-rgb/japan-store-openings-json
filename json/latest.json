@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-11T23:56:33+09:00",
+  "updatetime": "2026-11-14T10:17:38+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9307,6 +9307,20 @@
       "category": "スーパーマーケット"
     },
     {
+      "name": "世界一暇なラーメン屋 泉佐野店",
+      "prefecture": "大阪府",
+      "city": "泉佐野市",
+      "opening_date": "2026-11-13",
+      "category": "ラーメン"
+    },
+    {
+      "name": "保険見直し本舗 三宮オーパ２店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-13",
+      "category": "保険相談ショップ"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -9438,6 +9452,41 @@
       "city": "中野区",
       "opening_date": "2026-11-14",
       "category": "徳島県産品の期間限定物産展（2026-11-14〜2026-11-15）"
+    },
+    {
+      "name": "Taco Bell 吉祥寺店",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-11-14",
+      "category": "メキシカンファストフード"
+    },
+    {
+      "name": "Perfumerie Sukiya 一番町店（リニューアル）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-14",
+      "category": "化粧品・フレグランス（リニューアル）"
+    },
+    {
+      "name": "MEGURI POP UP STORE（二子玉川 蔦屋家電）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-14",
+      "category": "期間限定ウェルネス雑貨ポップアップ（2026-11-14〜2026-12-11）"
+    },
+    {
+      "name": "BAKERIES LAB.新百合ヶ丘店",
+      "prefecture": "神奈川県",
+      "city": "川崎市麻生区",
+      "opening_date": "2026-11-14",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "保険見直し本舗 ちはら台ユニモ店（リニューアル）",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "opening_date": "2026-11-14",
+      "category": "保険相談ショップ（リニューアル）"
     },
     {
       "name": "neverbetter",
@@ -9627,6 +9676,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-16",
       "category": "抹茶スイーツ・和菓子"
+    },
+    {
+      "name": "エニタイムフィットネス 富山呉羽店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-11-16",
+      "category": "フィットネスジム"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -10047,6 +10103,13 @@
       "city": "名古屋市中村区",
       "opening_date": "2026-11-18",
       "category": "期間限定グルテンフリーパティスリー（2026-11-18〜2026-12-01）"
+    },
+    {
+      "name": "CHARMY西武池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-18",
+      "category": "ジュエリー・アクセサリー"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
@@ -10903,6 +10966,20 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "カラオケまねきねこ 南池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-20",
+      "category": "カラオケ"
+    },
+    {
+      "name": "イヴ・ロシェ イオンレイクタウンmori店",
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・フレグランス"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -11027,6 +11104,34 @@
       "city": "半田市",
       "opening_date": "2026-11-21",
       "category": "うなぎ専門店"
+    },
+    {
+      "name": "カラオケまねきねこ 各務原店",
+      "prefecture": "岐阜県",
+      "city": "各務原市",
+      "opening_date": "2026-11-21",
+      "category": "カラオケ"
+    },
+    {
+      "name": "YOAJUNG（ヨアジョン）札幌オーロラタウンPOP UP店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-21",
+      "category": "フローズンヨーグルト専門店・期間限定ポップアップ（2026-11-21〜2027-02-26）"
+    },
+    {
+      "name": "Pensta POP-UP Store（ARIGATO Suica Market）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定キャラクターグッズ・ポップアップ（2026-11-21〜2026-11-23）"
+    },
+    {
+      "name": "オレンジページshop（ARIGATO Suica Market）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定ライフスタイル・書籍雑貨ポップアップ（2026-11-21〜2026-11-23）"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
@@ -12707,6 +12812,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "アップガレージライダース ナップス東大阪店",
+      "prefecture": "大阪府",
+      "city": "東大阪市",
+      "opening_date": "2026-11-28",
+      "category": "バイク用品リユース"
     },
     {
       "name": "しゃぶ葉 池田駅前店",
