@@ -1,0 +1,97 @@
+{
+  "run_at": "2026-11-15T06:13:22+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "9bad4b01b26812ea3b1d9d9496d616a838a1dfb0",
+    "updated_blob_sha": "d99dc968f4954d6d4eefb054fc060d8d325a69a4",
+    "commit_sha": "34d176af44e00ea44fc48b55bf8a557e3c66d46c",
+    "item_count_before": 2139,
+    "item_count_after": 2141,
+    "updatetime": "2026-11-15T06:13:22+09:00",
+    "content_change": "two_verified_new_items",
+    "additions": [
+      {
+        "name": "DOOR TO GOLF 伏石駅前店",
+        "prefecture": "香川県",
+        "city": "高松市",
+        "opening_date": "2026-11-15",
+        "category": "インドアゴルフ施設"
+      },
+      {
+        "name": "POCASPOT 新大久保店",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-15",
+        "category": "K-POPフォトカード専門店"
+      }
+    ],
+    "existing_items_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "d99dc968f4954d6d4eefb054fc060d8d325a69a4"
+  },
+  "source_checks": [
+    {
+      "source": "株式会社イースリー / DOOR TO GOLF official press release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000124342.html",
+      "store": "DOOR TO GOLF 伏石駅前店",
+      "opening_date": "2026-11-15",
+      "location": "香川県高松市太田下町2518-1",
+      "result": "Exact store name, opening date, address, and category confirmed."
+    },
+    {
+      "source": "Infludeo official press release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000193142.html",
+      "store": "POCASPOT 新大久保店",
+      "opening_date": "2026-11-15",
+      "location": "東京都新宿区大久保1丁目12-22 栄荘",
+      "result": "Exact store name, opening date, address, and category confirmed."
+    },
+    {
+      "source": "Oishes / Tsujita official press release via PR TIMES",
+      "url": "https://prtimes.jp/main/html/rd/p/000000163.000048178.html",
+      "store": "つじ田 東新宿店",
+      "opening_date": "2026-11-15",
+      "result": "Confirmed and matched existing JSON record."
+    },
+    {
+      "source": "VENEX official announcement",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "store": "neverbetter",
+      "opening_date": "2026-11-15",
+      "result": "Confirmed and matched existing JSON record."
+    },
+    {
+      "source": "Aeon Mall Date official soft-open page",
+      "url": "https://date.aeonmall.jp/lp/softopen1120/",
+      "result": "Official soft-open period 2026-11-20 through 2026-11-26 and grand opening 2026-11-27 confirmed; individual tenant dates remain unverified, so no tenant records were bulk-added."
+    },
+    {
+      "source": "Selected recent official chain announcements",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000452.000048503.html",
+        "https://prtimes.jp/main/html/rd/p/000000451.000048503.html",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://subway.co.jp/news/year/2026/"
+      ],
+      "result": "Gong cha Akihabara UDX, Gong cha Aeon Mall Fukutsu, WithGreen Hikarigaoka IMA, and Subway Ichigaya East / Sakura Machi Kumamoto were matched to existing records."
+    }
+  ],
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "Individual opening dates for tenants in the Aeon Mall Date tenant list remain unverified; no speculative tenant additions were made.",
+    "Physical opening status was not independently checked on site."
+  ]
+}
