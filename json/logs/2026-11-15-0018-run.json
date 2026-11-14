@@ -1,0 +1,92 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "executed_at": "2026-11-15T00:18:33+09:00",
+  "branch": "main",
+  "data_file": "json/latest.json",
+  "data_before": {
+    "item_count": 2125,
+    "blob_sha": "768b494f95740e6d3edc1a8950b5b1a2d28ea714",
+    "updatetime": "2026-11-14T23:19:19+09:00"
+  },
+  "data_after": {
+    "item_count": 2126,
+    "blob_sha": "047d59f7afb4c8c6f16b30d4e7111b3cd14cad59",
+    "commit_sha": "f1a155b3263d229d5e1b48460e300776733bf907",
+    "updatetime": "2026-11-15T00:18:33+09:00",
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "THE UKAI TOFUYA",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-12",
+        "category": "とうふ料理店"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "株式会社うかい・THE UKAI TOFUYA公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000110.000013588.html",
+      "result": "2026-12-12 12:00開業、東京都新宿区西新宿2-2-1 京王プラザホテル本館2階、とうふ料理店であることを確認。既存JSONに該当レコードがないことを照合し、新規追加。"
+    },
+    {
+      "source": "株式会社ゴンチャ ジャパン・ゴンチャ秋葉原UDX店公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000452.000048503.html",
+      "result": "2026-11-19開店・東京都千代田区の情報を確認。既存JSONに同一店舗の登録があるため追加なし。表記違いの既存レコードも変更せず保持。"
+    },
+    {
+      "source": "株式会社アーバンリサーチ・URBAN TUBE公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001707.000003710.html",
+      "result": "2026-11-20開店・渋谷PARCO 5Fの情報を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社プロントコーポレーション・PRONTO新小岩店公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000348.000018877.html",
+      "result": "2026-11-24開店・東京都葛飾区新小岩1-44-8の情報を確認。既存登録済み。"
+    },
+    {
+      "source": "すき家公式・新店情報",
+      "url": "https://sukiya.jp/news/",
+      "result": "16号木更津潮見店および宇都宮兵庫塚店の2026-11-19開店情報を確認。2店舗とも既存登録済み。"
+    },
+    {
+      "source": "ラーメン豚山公式・新店情報",
+      "url": "https://butayama.com/news",
+      "result": "豚山名古屋神の倉店の2026-11-20開店情報を確認。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 2126,
+    "added_items_found": 1,
+    "corrected_items": 0,
+    "deleted_items": 0,
+    "existing_items_preserved_exactly": true,
+    "period_and_scope_preserved": true,
+    "date_order_sorted": true,
+    "exact_duplicate_keys": 0,
+    "post_write_fetch": "passed",
+    "post_write_parse": "passed",
+    "post_write_blob_sha": "047d59f7afb4c8c6f16b30d4e7111b3cd14cad59"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国全事業者・未公表店舗の網羅性",
+    "各店舗の現地での実際の営業開始状況"
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly, minute 15",
+    "timezone": "Asia/Tokyo",
+    "run_recorded_status": "in_progress",
+    "next_run_time_field": "2026-11-15T00:15:00+09:00",
+    "note": "Automation remains enabled. Its recorded last-run state is still in_progress at the time of this check; the next_run_time field has not rolled forward. No automation settings were changed."
+  }
+}
