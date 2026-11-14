@@ -1,0 +1,174 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "executed_at": "2026-11-15T01:15:33+09:00",
+  "branch": "main",
+  "data_file": "json/latest.json",
+  "data_before": {
+    "item_count": 2126,
+    "blob_sha": "047d59f7afb4c8c6f16b30d4e7111b3cd14cad59",
+    "commit_sha": "f1a155b3263d229d5e1b48460e300776733bf907",
+    "updatetime": "2026-11-15T00:18:33+09:00"
+  },
+  "data_after": {
+    "item_count": 2137,
+    "blob_sha": "c7d483d8613cafe77c5abf8556d7bc2f04f8b864",
+    "commit_sha": "3b837d5fac4f593c8a504ed3cce66c4b5b5e52eb",
+    "updatetime": "2026-11-15T01:15:33+09:00",
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan"
+  },
+  "write_commits": [
+    {
+      "commit_sha": "eeea36d09138f975ee6ec126f7c51b99119ca21b",
+      "blob_sha": "da6ff15d0575f84fd6a2a2dae56096d9782b7f2c",
+      "added_count": 6
+    },
+    {
+      "commit_sha": "3b837d5fac4f593c8a504ed3cce66c4b5b5e52eb",
+      "blob_sha": "c7d483d8613cafe77c5abf8556d7bc2f04f8b864",
+      "added_count": 5
+    }
+  ],
+  "changes": {
+    "added": [
+      {
+        "name": "chocoZAP 札幌南二十三条西",
+        "prefecture": "北海道",
+        "city": "札幌市中央区",
+        "opening_date": "2026-11-17",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 仙台白萩町",
+        "prefecture": "宮城県",
+        "city": "仙台市若林区",
+        "opening_date": "2026-11-17",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 寒河江南",
+        "prefecture": "山形県",
+        "city": "寒河江市",
+        "opening_date": "2026-11-17",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 祐天寺駅前",
+        "prefecture": "東京都",
+        "city": "目黒区",
+        "opening_date": "2026-11-17",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 豊橋牛川通",
+        "prefecture": "愛知県",
+        "city": "豊橋市",
+        "opening_date": "2026-11-28",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 与那原東浜",
+        "prefecture": "沖縄県",
+        "city": "島尻郡与那原町",
+        "opening_date": "2026-11-28",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 府中天神町",
+        "prefecture": "東京都",
+        "city": "府中市",
+        "opening_date": "2026-11-10",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 浜田周布",
+        "prefecture": "島根県",
+        "city": "浜田市",
+        "opening_date": "2026-11-10",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 井原岩倉",
+        "prefecture": "岡山県",
+        "city": "井原市",
+        "opening_date": "2026-11-10",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 今治蔵敷",
+        "prefecture": "愛媛県",
+        "city": "今治市",
+        "opening_date": "2026-11-10",
+        "category": "フィットネスジム"
+      },
+      {
+        "name": "chocoZAP 西条北条",
+        "prefecture": "愛媛県",
+        "city": "西条市",
+        "opening_date": "2026-11-10",
+        "category": "フィットネスジム"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "公式の新店舗一覧に掲載された2026-11-10、2026-11-17、2026-11-28の店舗を既存JSONと照合。未登録だった11店舗について開店日、都道府県、市区町村を確認し追加。住所は公式ページに掲載。"
+    },
+    {
+      "source": "日本ケンタッキー・フライド・チキン公式・2026年11月新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "11月の9店舗を照合し、全店舗既存登録済みを確認。"
+    },
+    {
+      "source": "サブウェイ公式・2026年お知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店およびサクラマチクマモト店の11月開店情報を照合し、既存登録済みを確認。"
+    },
+    {
+      "source": "株式会社ベネクス公式・neverbetter",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "result": "2026-11-15開店のneverbetterを照合し、既存登録済みを確認。"
+    },
+    {
+      "source": "SYNRA GROUP公式・Eleanor spa&treatment 5店舗",
+      "url": "https://synra.co.jp/news-005/",
+      "result": "郡山店、池袋3rd店、沖縄北谷店を含む5店舗の公式発表を照合し、全店舗既存登録済みを確認。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "count_before": 2126,
+    "count_after": 2137,
+    "added_items_found": 11,
+    "existing_items_preserved_exactly": true,
+    "missing_old_records": 0,
+    "exact_name_date_duplicate_records": 0,
+    "extras_count": 11,
+    "period_preserved": true,
+    "scope_preserved": true,
+    "date_sorted": true,
+    "post_write_fetch": true,
+    "post_write_parse": true,
+    "post_write_blob_sha": "c7d483d8613cafe77c5abf8556d7bc2f04f8b864"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国全事業者・未公表店舗の網羅性",
+    "各店舗の現地での実際の営業開始状況"
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly, minute 15",
+    "timezone": "Asia/Tokyo",
+    "run_recorded_status": "in_progress",
+    "scheduled_for": "2026-11-15T01:15:00+09:00",
+    "started_at": "2026-11-15T01:15:33+09:00",
+    "completed_at": null,
+    "note": "Automation was enabled when checked; no schedule or enabled-state changes were made during the data update."
+  }
+}
