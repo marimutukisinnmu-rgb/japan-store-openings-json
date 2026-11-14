@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T00:18:33+09:00",
+  "updatetime": "2026-11-15T01:15:33+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -9874,6 +9874,34 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "chocoZAP 札幌南二十三条西",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-17",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 仙台白萩町",
+      "prefecture": "宮城県",
+      "city": "仙台市若林区",
+      "opening_date": "2026-11-17",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 寒河江南",
+      "prefecture": "山形県",
+      "city": "寒河江市",
+      "opening_date": "2026-11-17",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 祐天寺駅前",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-11-17",
+      "category": "フィットネスジム"
+    },
+    {
       "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
       "prefecture": "愛知県",
       "city": "知多市",
@@ -13134,6 +13162,20 @@
       "city": "福島市",
       "opening_date": "2026-11-28",
       "category": "期間限定アート展示・地域コミュニティ企画（前期2026-11-28〜2026-12-13、後期2026-12-17〜2026-12-27）"
+    },
+    {
+      "name": "chocoZAP 豊橋牛川通",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスジム"
+    },
+    {
+      "name": "chocoZAP 与那原東浜",
+      "prefecture": "沖縄県",
+      "city": "島尻郡与那原町",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスジム"
     },
     {
       "name": "バーミヤン 広島アルパーク店",
