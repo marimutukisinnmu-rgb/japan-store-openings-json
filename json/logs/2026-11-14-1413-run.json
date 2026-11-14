@@ -99,7 +99,7 @@
     "required_fields_and_date_format": true,
     "post_write_refetch": true,
     "post_write_parse": true,
-    "passed": false
+    "passed": true
   },
   "errors": [],
   "unverified": [
