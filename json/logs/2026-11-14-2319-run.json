@@ -1,0 +1,143 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "executed_at": "2026-11-14T23:19:19+09:00",
+  "branch": "main",
+  "data_file": "json/latest.json",
+  "data_before": {
+    "item_count": 2125,
+    "blob_sha": "16672c7f9e317f7df87cc053015cbaa7e4df935e",
+    "updatetime": "2026-11-14T22:17:30+09:00"
+  },
+  "data_after": {
+    "item_count": 2125,
+    "blob_sha": "768b494f95740e6d3edc1a8950b5b1a2d28ea714",
+    "commit_sha": "e07dcfd32d320fe8c1c3ee74f838e5f1e1d4ca7b",
+    "updatetime": "2026-11-14T23:19:19+09:00",
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "公式一覧に掲載された36店舗を店舗名・都道府県・開店日で照合。36/36件が既存JSONに一致。新規追加なし。"
+    },
+    {
+      "source": "KFC公式・2026年11月新店情報（11月11日更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "11月の9店舗を照合。9/9件が既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社リンガーハット・店舗ニュースリリース",
+      "url": "https://www.ringerhut.co.jp/info/2026/1106_1/",
+      "result": "リンガーハット神田店（11/16）、そよらひたち野うしく店（11/18）、イオンモール伊達店（11/27）を照合。3/3件が既存登録済み。"
+    },
+    {
+      "source": "株式会社リンガーハット・濵かつ飯田橋店公式発表",
+      "url": "https://www.ringerhut.co.jp/info/2026/1016_1/",
+      "result": "濵かつ飯田橋店（11/25、東京都千代田区）を確認。既存登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年お知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店とサクラマチクマモト店を照合。2/2件が既存登録済み。"
+    },
+    {
+      "source": "ラーメン豚山公式・新店情報",
+      "url": "https://www.butayama.com/news",
+      "result": "豚山名古屋神の倉店（11/20、愛知県名古屋市緑区）を確認。既存登録済み。"
+    },
+    {
+      "source": "FOPE JAPAN合同会社・FOPE福岡天神公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000023.000143958.html",
+      "result": "FOPE福岡天神（10/31、福岡市中央区）を照合。既存登録済み。"
+    },
+    {
+      "source": "LADUREE JAPON・カフェ・ラデュレ新丸ビル店公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+      "result": "カフェ・ラデュレ新丸ビル店（11/16、東京都千代田区）を照合。既存登録済み。"
+    },
+    {
+      "source": "ベネリック・ハリー・ポッター マホウドコロ POP-UP STORE公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "result": "丸の内の期間限定POP-UP（11/12開始）を照合。既存登録済み。"
+    },
+    {
+      "source": "キルフェボン株式会社・キル フェ ボン新宿公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "キル フェ ボン新宿（11/28、東京都新宿区）を照合。既存登録済み。"
+    },
+    {
+      "source": "株式会社PAPABUBBLE・イクスピアリ店公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLEイクスピアリ店（11/21、千葉県浦安市）を照合。既存登録済み。"
+    },
+    {
+      "source": "POP MART JAPAN・LUCUA SOUTH店公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店（11/24、大阪市北区）を照合。既存登録済み。"
+    },
+    {
+      "source": "THE GUNDAM BASE公式",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "result": "THE GUNDAM BASE SHIBUYA（11/20、東京都渋谷区）を照合。既存登録済み。"
+    },
+    {
+      "source": "野村不動産・MEFULL渋谷道玄坂公式発表",
+      "url": "https://www.nomura-re.co.jp/news/004928.html",
+      "result": "2027年1月から入居テナントが順次開業予定と確認。ただし施設・各テナントの正確な開業日が確認できないため、日付必須のJSONには追加せず保留。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 2125,
+    "added_items_found": 0,
+    "corrected_items": 0,
+    "deleted_items": 0,
+    "existing_items_preserved_exactly": true,
+    "period_and_scope_preserved": true,
+    "updatetime_updated": true,
+    "exact_duplicate_keys": 0,
+    "post_write_fetch": "passed",
+    "post_write_parse": "passed",
+    "post_write_blob_sha": "768b494f95740e6d3edc1a8950b5b1a2d28ea714",
+    "possible_preexisting_near_duplicate_pairs": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店",
+        "2026-11-02"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店",
+        "2026-11-13"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店",
+        "2026-11-28"
+      ]
+    ],
+    "near_duplicate_action": "No merge or deletion; retained for manual review."
+  },
+  "errors": [],
+  "unconfirmed": [
+    "MEFULL渋谷道玄坂は2027年1月から順次開業予定だが、正確な日付が未公表のため未登録。",
+    "全国全事業者・未公表店舗の網羅性",
+    "各店舗の現地での実際の営業開始状況"
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly, minute 15",
+    "timezone": "Asia/Tokyo",
+    "run_recorded_status": "in_progress",
+    "next_run_time_field": "2026-11-14T23:15:00+09:00",
+    "note": "The task remains enabled. The reported next_run_time still points to the current scheduled slot and has not rolled forward. No schedule or enabled-state changes were made."
+  }
+}
