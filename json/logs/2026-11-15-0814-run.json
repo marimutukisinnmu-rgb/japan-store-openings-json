@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-11-15T08:14:04+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "e0ecb8580806ba086c893f8b1e9de58c73362c32",
+    "updated_blob_sha": "283de4f42ab90bff25bd3ba643c8f70f184f3ffd",
+    "commit_sha": "3266c20300c23bea71c297ad6b5ecc1bb07c8724",
+    "item_count_before": 2141,
+    "item_count_after": 2141,
+    "updatetime": "2026-11-15T08:14:04+09:00",
+    "content_change": "timestamp_only_no_verified_new_items",
+    "additions": [],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "2026-11-02 postponement notice; new opening date is undecided",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "Not changed in latest.json because its date-only schema has no documented postponement/status field; retain the record and flag for schema-safe correction."
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "283de4f42ab90bff25bd3ba643c8f70f184f3ffd"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official new-store listing",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_entries": 47,
+      "matched_existing_records": 47,
+      "unmatched": []
+    },
+    {
+      "source": "chocoZAP official postponement notice",
+      "url": "https://chocozap.jp/info/23365",
+      "store": "chocoZAP みずほ台二丁目",
+      "result": "Officially postponed; new opening date is undecided. Existing record flagged; no schema-breaking date replacement."
+    },
+    {
+      "source": "AEON MALL official facility page",
+      "url": "https://www.aeonmall.com/facility/detail/1205/",
+      "store": "イオンモール伊達",
+      "opening_date": "2026-11-27",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "AEON MALL Date official recruitment page",
+      "url": "https://date-saiyo.aeonmall.com/job/-/info/detail/M0000113",
+      "store": "好日山荘 イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "Matched existing JSON record."
+    },
+    {
+      "source": "VENEX official news",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "store": "neverbetter",
+      "opening_date": "2026-11-15",
+      "result": "Matched existing JSON record."
+    }
+  ],
+  "held_candidates": [
+    {
+      "name": "OPAQUE.CLIP イオンモール新小松店",
+      "proposed_date": "2026-11-20",
+      "secondary_sources": [
+        "https://komatsu-kaga.goguynet.jp/2026/11/06/opaque-clip-shinkomatsu/",
+        "https://ishikawa-odekake.fukui-fukui.com/spot/"
+      ],
+      "primary_source_status": "No official brand or mall opening announcement confirmed; not added."
+    },
+    {
+      "name": "joujou pâtisserie and cafe",
+      "proposed_dates": "2026-11-16 pre-opening; 2026-11-24 grand opening",
+      "source_url": "https://ishikawa-odekake.fukui-fukui.com/spot/",
+      "primary_source_status": "Instagram source fetch was throttled; exact opening information not independently confirmed; not added."
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "The みずほ台二丁目 postponement is confirmed but cannot be represented cleanly in the current documented date-only schema.",
+    "OPAQUE.CLIP and joujou candidates remain unverified by primary sources.",
+    "Physical opening status was not independently checked on site."
+  ]
+}
