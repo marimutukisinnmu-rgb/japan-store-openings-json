@@ -1,0 +1,135 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "executed_at": "2026-11-14T22:17:30+09:00",
+  "branch": "main",
+  "data_file": "json/latest.json",
+  "data_before": {
+    "item_count": 2122,
+    "blob_sha": "e5fe2d54ce53f74149358588314d3618cddd7f47",
+    "updatetime": "2026-11-14T21:16:09+09:00"
+  },
+  "data_after": {
+    "item_count": 2125,
+    "blob_sha": "16672c7f9e317f7df87cc053015cbaa7e4df935e",
+    "commit_sha": "24388ac360cd2b4cf37a2fc415dc0d246541a85b",
+    "updatetime": "2026-11-14T22:17:30+09:00",
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "からやま 札幌伏見店",
+        "prefecture": "北海道",
+        "city": "札幌市中央区",
+        "opening_date": "2026-11-13",
+        "category": "からあげ専門店",
+        "source": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=2057"
+      },
+      {
+        "name": "テスラ福島伊達",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27",
+        "category": "自動車ショールーム・販売・試乗",
+        "source": "https://prtimes.jp/main/html/rd/p/000000078.000038481.html"
+      },
+      {
+        "name": "テスラ北九州",
+        "prefecture": "福岡県",
+        "city": "北九州市",
+        "opening_date": "2026-11-27",
+        "category": "自動車ショールーム・販売・試乗",
+        "source": "https://prtimes.jp/main/html/rd/p/000000078.000038481.html"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "からやま公式新店情報・店舗詳細",
+      "url": "https://www.arclandservice.co.jp/karayama/information/",
+      "detail_url": "https://shop.arclandservice.co.jp/ae-shop/spot/detail?code=2057",
+      "result": "札幌伏見店の11月13日開店・札幌市中央区南17条西18丁目1-43を確認。JSON未登録のため追加。"
+    },
+    {
+      "source": "Tesla Japan合同会社の新店舗発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000078.000038481.html",
+      "result": "テスラ福島伊達（福島県伊達市、イオンモール伊達1階）とテスラ北九州（福岡県北九州市八幡東区、THE OUTLETS KITAKYUSHU）の11月27日同時オープンを確認。両方未登録のため追加。"
+    },
+    {
+      "source": "ローソン公式・全国新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "11月19日〜27日掲載の8店舗を照合。全件登録済み。"
+    },
+    {
+      "source": "KFC公式・11月新店情報更新",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "11月の9店舗を照合。全件登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年お知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店とサクラマチクマモト店を照合。両方登録済み。"
+    },
+    {
+      "source": "かつや公式・最新情報",
+      "url": "https://www.arclandservice.co.jp/katsuya/information/",
+      "result": "最新の新店情報を確認。対象店舗は既存登録済み。"
+    },
+    {
+      "source": "日本ショッピングセンター協会・2026年オープンSC一覧",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "result": "2026年11月のオープンSC一覧を確認。対象施設は既存登録済み。"
+    },
+    {
+      "source": "THE GUNDAM BASE公式",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "result": "THE GUNDAM BASE SHIBUYAの11月20日開店を確認。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "item_count": 2125,
+    "added_items_found": 3,
+    "existing_2122_items_preserved_exactly": true,
+    "date_order": "passed",
+    "period_and_scope_preserved": true,
+    "post_write_fetch": "passed",
+    "post_write_parse": "passed",
+    "post_write_blob_sha": "16672c7f9e317f7df87cc053015cbaa7e4df935e",
+    "possible_preexisting_near_duplicate_pairs": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店",
+        "2026-11-02"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店",
+        "2026-11-13"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店",
+        "2026-11-28"
+      ]
+    ],
+    "near_duplicate_action": "No merge or deletion; flagged for manual review only."
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国すべての事業者・未公表店舗の網羅性",
+    "各店舗の現地での実際の営業開始状況"
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly, minute 15",
+    "timezone": "Asia/Tokyo",
+    "run_recorded_status": "in_progress",
+    "next_run_time_field": "2026-11-14T22:15:00+09:00",
+    "note": "The reported next_run_time still points to the current scheduled slot and has not rolled forward. No schedule or enabled-state changes were made."
+  }
+}
