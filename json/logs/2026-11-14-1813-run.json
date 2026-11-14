@@ -1,0 +1,175 @@
+{
+  "run_at": "2026-11-14T18:13:11+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "sources": [
+    {
+      "name": "イオンモール株式会社「新生・ふくしまひらいビル」公式プレスリリース（共同通信PRワイヤー掲載）",
+      "url": "https://kyodonewsprwire.jp/release/202611119913",
+      "verified": [
+        "facility grand opening: 2026-11-27",
+        "facility address: 福島県福島市本町2-1",
+        "tenant: 庵ど (うどん中心の新業態ダイニング)",
+        "tenant: バイセル (貴金属・ブランド品等の買取)",
+        "tenant: La pirates (女性専用の整体×マシンピラティススタジオ)",
+        "tenant: ロレインアイ (LEDマツエク・まつげパーマ専門サロン)",
+        "community space: Introduce A to B",
+        "first exhibition: 2026-11-28 to 2026-12-13",
+        "second exhibition: 2026-12-17 to 2026-12-27"
+      ],
+      "date_note": "The facility's grand-opening date is explicitly 2026-11-27. The release introduces the tenants as part of the opening facility but does not provide separate tenant-by-tenant opening dates; the same facility opening date is used for those four tenant records."
+    },
+    {
+      "name": "日本ショッピングセンター協会 2026年オープンSC一覧",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "verified": [
+        "2026年11月の新規オープンSCは2施設と掲載",
+        "天満屋ハピーズ西大寺モール 2026-11-12",
+        "イオンモール伊達 2026-11-27"
+      ],
+      "note": "両施設は既存JSONに登録済みのため追加なし。"
+    },
+    {
+      "name": "東急プラザ蒲田 公式イベント・POPUP一覧",
+      "url": "https://www.tokyu-plaza.com/kamata/event/",
+      "verified": [
+        "横浜元町スミノ ポップアップショップ 2026-11-19 to 2026-11-29 (already registered)",
+        "縁起物 開運小槌と名前札 2026-11-21 to 2026-11-27 (already registered)",
+        "青森ひば木工品販売 2026-12-11 to 2026-12-22 (already registered)"
+      ],
+      "note": "金物道具市は販売内容に刃物類を含み得るため登録対象にせず、案内もしない。"
+    },
+    {
+      "name": "ローソン公式 全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified": [
+        "全国の11月新店一覧を確認",
+        "直近の追加候補は既存JSONと照合済み"
+      ],
+      "note": "新規追加なし。"
+    },
+    {
+      "name": "日本ケンタッキー・フライド・チキン公式 11月新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "verified": [
+        "2026年11月の9店舗一覧を確認",
+        "確認対象の店舗は既存JSONに登録済み"
+      ],
+      "note": "新規追加なし。"
+    },
+    {
+      "name": "すかいらーくグループ公式 ガスト新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/gusto/list/",
+      "verified": [
+        "ガスト 新潟駅前店 2026-11-15 (already registered)",
+        "ガスト そよら飯田アップルロード店 2026-11-17 (already registered)",
+        "ガスト イオンモール福岡店 2026-11-20 (already registered)"
+      ],
+      "note": "新規追加なし。"
+    }
+  ],
+  "before": {
+    "count": 2113,
+    "blob_sha": "06534014e030edc7ce69e421ede644735aee410c",
+    "updatetime": "2026-11-14T17:11:51+09:00"
+  },
+  "additions": [
+    {
+      "name": "ふくしまひらいビル",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "商業施設（再生・リニューアルオープン）"
+    },
+    {
+      "name": "庵ど（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "うどん・和食ダイニング"
+    },
+    {
+      "name": "バイセル（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "買取専門店"
+    },
+    {
+      "name": "La pirates（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "女性専用整体・マシンピラティススタジオ"
+    },
+    {
+      "name": "ロレインアイ（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-27",
+      "category": "LEDマツエク・まつげパーマ専門サロン"
+    },
+    {
+      "name": "Introduce A to B（ふくしまひらいビル）",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-28",
+      "category": "期間限定アート展示・地域コミュニティ企画（前期2026-11-28〜2026-12-13、後期2026-12-17〜2026-12-27）"
+    }
+  ],
+  "skipped": [
+    {
+      "name": "ガスト 新潟駅前店",
+      "opening_date": "2026-11-15",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "ガスト そよら飯田アップルロード店",
+      "opening_date": "2026-11-17",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "ガスト イオンモール福岡店",
+      "opening_date": "2026-11-20",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "横浜元町スミノ ポップアップショップ（東急プラザ蒲田）",
+      "opening_date": "2026-11-19",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "縁起物 開運小槌と名前札（東急プラザ蒲田）",
+      "opening_date": "2026-11-21",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "青森ひば木工品販売（東急プラザ蒲田）",
+      "opening_date": "2026-12-11",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "天満屋ハピーズ西大寺モール",
+      "opening_date": "2026-11-12",
+      "reason": "既存JSONに登録済み"
+    },
+    {
+      "name": "イオンモール伊達",
+      "opening_date": "2026-11-27",
+      "reason": "既存JSONに登録済み"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "verification": {
+    "json_parse": true,
+    "additions_present_once": true,
+    "existing_records_preserved": true,
+    "sorted_by_opening_date": true,
+    "final_count": 2119,
+    "final_updatetime": "2026-11-14T18:13:11+09:00",
+    "latest_blob_sha": "229c396d376c84f350ea6922f843297145c060ca",
+    "latest_commit_sha": "0628cd97a900351241d0539d7717ed9c71c9239b"
+  }
+}
