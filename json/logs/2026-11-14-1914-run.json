@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-11-14T19:14:11+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "result": "checked_no_new_records",
+  "before": {
+    "blob_sha": "229c396d376c84f350ea6922f843297145c060ca",
+    "item_count": 2119,
+    "period": "2026-09-04/2027-02-28"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": [],
+    "item_records_changed": 0
+  },
+  "after": {
+    "blob_sha": "b8c8802c719e6d4d157dea3409643fce3c912d06",
+    "item_count": 2119,
+    "updatetime": "2026-11-14T19:14:11+09:00"
+  },
+  "verification": {
+    "json_parse": true,
+    "item_count_unchanged": true,
+    "all_existing_items_preserved_byte_equivalent_after_parse": true,
+    "period_unchanged": true,
+    "scope_unchanged": true,
+    "timestamp_updated": true,
+    "passed": true
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide and regional new-store pages",
+      "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+      "result": "current listed November openings matched existing records, including LAWSON＋toks等々力緑地"
+    },
+    {
+      "source": "KFC official November 2026 new-store update",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "all 9 listed stores matched existing records"
+    },
+    {
+      "source": "Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店 and サクラマチクマモト店 matched existing records"
+    },
+    {
+      "source": "Tokyu official Etomo Kikuna announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000001406.000010686.html",
+      "result": "facility and identified new/reopening tenant records matched existing records"
+    },
+    {
+      "source": "POP MART Japan official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店 matched existing record"
+    },
+    {
+      "source": "Mitsui Outlet Park Jazz Dream Nagashima official new-shop page",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/special/2610_newshop/",
+      "result": "checked named new-shop highlights including Acne Studios, PYRENEX, CRONOS, SY32, CASIO WATCH OUTLET, SALOMON and Timberland; all matched existing records"
+    },
+    {
+      "source": "Japan Council of Shopping Centers 2026 opening-SC list",
+      "url": "https://jcsc.or.jp/sc_data/sc_open/sc_list",
+      "result": "November facilities 天満屋ハピーズ西大寺モール and イオンモール伊達 matched existing records"
+    },
+    {
+      "source": "MASH Holdings / sanrio house Shibuya PARCO announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+      "result": "sanrio house 渋谷PARCO店 matched existing record"
+    },
+    {
+      "source": "PAPABUBBLE official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "PAPABUBBLE イクスピアリ店 matched existing record"
+    },
+    {
+      "source": "WithGreen official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "result": "WithGreen 光が丘IMA店 matched existing record"
+    },
+    {
+      "source": "Soup Stock Tokyo official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "result": "秋野テーブル matched existing record"
+    },
+    {
+      "source": "Ginza Onodera official announcement",
+      "url": "https://onodera-group.com/news/7933/",
+      "result": "立鮨 銀座おのでら エキュート大宮店 matched existing record"
+    },
+    {
+      "source": "Qu'il fait bon official announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "キル フェ ボン新宿 matched existing record"
+    }
+  ],
+  "unconfirmed": [
+    "全国全事業者の網羅性は未確認",
+    "各店舗の現地での営業・開店実施状況は独立確認していない",
+    "今回確認した候補以外に未公表・未掲載の新店がないことは保証できない"
+  ],
+  "task_status": {
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-14T19:15:00+09:00",
+    "note": "Task state read from automation management; schedule not changed."
+  }
+}
