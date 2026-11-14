@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-15T05:19:32+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "0ce099b0ea3442b6791901419a7bcb2b4dfe59a2",
+    "updated_blob_sha": "9bad4b01b26812ea3b1d9d9496d616a838a1dfb0",
+    "commit_sha": "bdc5821942a35f154976426d8be474ce12e2385f",
+    "item_count_before": 2139,
+    "item_count_after": 2139,
+    "updatetime": "2026-11-15T05:19:32+09:00",
+    "content_change": "timestamp_only_no_item_changes",
+    "existing_items_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "9bad4b01b26812ea3b1d9d9496d616a838a1dfb0"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_candidates": 34,
+      "matched_existing": 34,
+      "new_items": 0,
+      "result": "Visible 2026-11-11 through 2026-11-30 entries compared by normalized store name and opening date."
+    },
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_candidates": 36,
+      "matched_existing": 36,
+      "new_items": 0,
+      "result": "Visible November entries compared by store name, date, prefecture, and city."
+    },
+    {
+      "source": "KFC Japan official November 2026 new-store list",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_candidates": 9,
+      "matched_existing": 9,
+      "new_items": 0
+    },
+    {
+      "source": "Ramen Kairikiya official new-store list",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked_candidates": 3,
+      "matched_existing": 3,
+      "new_items": 0
+    },
+    {
+      "source": "Ringer Hut official November opening announcement",
+      "url": "https://www.ringerhut.co.jp/info/2026/1106_1/",
+      "checked_candidates": 3,
+      "matched_existing": 3,
+      "new_items": 0,
+      "result": "Kanda (2026-11-16), Soyora Hitachino-Ushiku (2026-11-18), and Aeon Mall Date (2026-11-27) all matched existing records."
+    },
+    {
+      "source": "Subway Japan official 2026 news list",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_candidates": 2,
+      "matched_existing": 2,
+      "new_items": 0
+    },
+    {
+      "source": "Nitori Holdings official store news",
+      "url": "https://www.nitorihd.co.jp/news/shop.html",
+      "checked_candidates": 2,
+      "matched_existing": 2,
+      "new_items": 0,
+      "result": "Nitori Ohtani-da and Nitori Umeda Chayamachi matched existing records."
+    },
+    {
+      "source": "PAPABUBBLE official opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "checked_candidates": 1,
+      "matched_existing": 1,
+      "new_items": 0
+    },
+    {
+      "source": "VENEX official neverbetter announcement",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "checked_candidates": 1,
+      "matched_existing": 1,
+      "new_items": 0
+    },
+    {
+      "source": "Aeon Mall Date official tenant list PDF",
+      "url": "https://www.aeonmall.com/wp/wp-content/uploads/2026/09/557b390c5ed4c813cef2071aa89ecfbe.pdf",
+      "result": "The official PDF lists 176 tenants as of 2026-09-16. The current JSON has 70 records for Date City on 2026-11-27. Spot-check found additional tenant names not represented in those 70 records; no bulk additions were made because the PDF does not establish each tenant's individual opening date and warns the list may change."
+    }
+  ],
+  "additions": [],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "The Aeon Mall Date official tenant list contains candidates not represented in the current Date City 2026-11-27 records; individual opening dates must be verified before adding.",
+    "Physical opening status was not independently checked on site."
+  ]
+}
