@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T14:13:30+09:00",
+  "updatetime": "2026-11-14T15:10:56+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11778,6 +11778,13 @@
       "category": "期間限定アクセサリーショップ（2026-11-25〜2026-12-01）"
     },
     {
+      "name": "LAWSON＋toks等々力緑地",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-11-25",
+      "category": "コンビニエンスストア"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -11993,6 +12000,13 @@
       "city": "久留米市",
       "opening_date": "2026-11-26",
       "category": "ファストフード"
+    },
+    {
+      "name": "ローソン 中城屋宜",
+      "prefecture": "沖縄県",
+      "city": "中頭郡中城村",
+      "opening_date": "2026-11-26",
+      "category": "コンビニエンスストア"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
@@ -12735,6 +12749,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-27",
       "category": "フレグランス・化粧品"
+    },
+    {
+      "name": "ローソン 新松戸南",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-27",
+      "category": "コンビニエンスストア"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
