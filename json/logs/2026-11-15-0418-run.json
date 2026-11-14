@@ -1,0 +1,97 @@
+{
+  "run_at": "2026-11-15T04:18:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "57a9b0b438a640529aa8242e723f5ea8568c7bc2",
+    "updated_blob_sha": "0ce099b0ea3442b6791901419a7bcb2b4dfe59a2",
+    "commit_sha": "d63b8b4750cfa728d069aec0c78d8f427bdee4a1",
+    "item_count_before": 2137,
+    "item_count_after": 2139,
+    "updatetime": "2026-11-15T04:18:10+09:00",
+    "content_change": "added_two_verified_items_and_updated_timestamp",
+    "existing_items_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "0ce099b0ea3442b6791901419a7bcb2b4dfe59a2"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "Visible November openings compared against latest.json; all checked candidates already existed."
+    },
+    {
+      "source": "chocoZAP official relocation notice for Hamamatsu Kajimachi",
+      "url": "https://chocozap.jp/info/23068",
+      "result": "Confirmed planned opening of chocoZAP Azukimochi on 2026-12-15 and its address; new record added.",
+      "caveat": "The company states the planned opening date/details may change."
+    },
+    {
+      "source": "Nishimatsuya official store news and store detail",
+      "url": "https://www.24028.jp/tenpo/detail.php?cid=35&doc=1448",
+      "result": "Confirmed Nishimatsuya Sunpark Ajisu opened 2026-11-14 at Yamaguchi-shi, Ajisu 4830-1; new record added."
+    },
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "Visible November store candidates checked; all matched existing records."
+    },
+    {
+      "source": "KFC Japan official November 2026 new-store list",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_candidates": 9,
+      "matched_existing": 9,
+      "new_items": 0
+    },
+    {
+      "source": "Big-A official new-store list",
+      "url": "https://www.biga.co.jp/newshop/",
+      "checked_candidates": 2,
+      "matched_existing": 2,
+      "new_items": 0,
+      "review_note": "Two existing records for Big-A Kiyose Ekikita differ in spacing; no merge or deletion was made."
+    },
+    {
+      "source": "Nishimatsuya official store-news index",
+      "url": "https://www.24028.jp/news/shop",
+      "result": "Latest store-opening announcement dated 2026-11-14 checked."
+    }
+  ],
+  "additions": [
+    {
+      "name": "西松屋 サンパークあじす店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-14",
+      "category": "ベビー・キッズ用品",
+      "source_url": "https://www.24028.jp/tenpo/detail.php?cid=35&doc=1448"
+    },
+    {
+      "name": "chocoZAP あずきもち店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-12-15",
+      "category": "フィットネスジム",
+      "source_url": "https://chocozap.jp/info/23068",
+      "status": "officially announced planned opening",
+      "caveat": "Official notice says opening date/details may change."
+    }
+  ],
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "Physical opening status was not independently checked on site.",
+    "The chocoZAP Azukimochi opening date is an official plan and may change."
+  ]
+}
