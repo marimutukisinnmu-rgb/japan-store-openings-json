@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T21:16:09+09:00",
+  "updatetime": "2026-11-14T22:17:30+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -9356,6 +9356,13 @@
       "category": "期間限定ポップアップ（ポケモンカードゲーム）"
     },
     {
+      "name": "からやま 札幌伏見店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-13",
+      "category": "からあげ専門店"
+    },
+    {
       "name": "Perfumerie Sukiya 一番町店（リニューアル）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -12826,6 +12833,20 @@
       "city": "札幌市中央区",
       "opening_date": "2026-11-27",
       "category": "ファストフード"
+    },
+    {
+      "name": "テスラ福島伊達",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "自動車ショールーム・販売・試乗"
+    },
+    {
+      "name": "テスラ北九州",
+      "prefecture": "福岡県",
+      "city": "北九州市",
+      "opening_date": "2026-11-27",
+      "category": "自動車ショールーム・販売・試乗"
     },
     {
       "name": "LifeFit アル・プラザ宇治東店",
