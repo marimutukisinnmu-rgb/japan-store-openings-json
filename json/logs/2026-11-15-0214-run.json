@@ -1,0 +1,114 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "executed_at": "2026-11-15T02:14:03+09:00",
+  "branch": "main",
+  "data_file": "json/latest.json",
+  "data_before": {
+    "item_count": 2137,
+    "blob_sha": "c7d483d8613cafe77c5abf8556d7bc2f04f8b864",
+    "commit_sha": "3b837d5fac4f593c8a504ed3cce66c4b5b5e52eb",
+    "updatetime": "2026-11-15T01:15:33+09:00"
+  },
+  "data_after": {
+    "item_count": 2137,
+    "blob_sha": "56cd445027d1ffbf465eb8efb727ded33e340b31",
+    "commit_sha": "a947609e13b7f3ce0ff14ef0bfaf14ed258e5930",
+    "updatetime": "2026-11-15T02:14:03+09:00",
+    "period": "2026-09-04/2027-02-28",
+    "scope": "Japan"
+  },
+  "write_commits": [
+    {
+      "commit_sha": "a947609e13b7f3ce0ff14ef0bfaf14ed258e5930",
+      "blob_sha": "56cd445027d1ffbf465eb8efb727ded33e340b31",
+      "added_count": 0,
+      "corrected_count": 0,
+      "deleted_count": 0,
+      "metadata_only": true
+    }
+  ],
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP公式・新店舗情報",
+      "url": "https://chocozap.jp/studios/newest",
+      "result": "公式ページに掲載された11月17日〜30日の新店舗を既存JSONと照合。確認対象はすべて登録済み。"
+    },
+    {
+      "source": "日本ケンタッキー・フライド・チキン公式・2026年11月新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "公式発表の11月9店舗を照合し、9店舗すべて既存登録済みを確認。"
+    },
+    {
+      "source": "ゴンチャ公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "result": "秋葉原UDX店、イオンモール福津店、ゆめタウン佐賀店を照合し、3店舗すべて既存登録済みを確認。"
+    },
+    {
+      "source": "リンガーハット公式・店舗ニュースリリース",
+      "url": "https://www.ringerhut.co.jp/info/",
+      "result": "神田店、そよらひたち野うしく店、イオンモール伊達店、および濵かつ飯田橋店の開店情報を照合。対象レコードは既存登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年お知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "市ヶ谷東店とサクラマチクマモト店を照合し、2店舗とも既存登録済みを確認。"
+    },
+    {
+      "source": "ローソン公式・関東エリア新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/kantou.html",
+      "result": "江戸川南篠崎町四丁目、梅屋敷、北綾瀬駅南、ひばりが丘北の4店舗を照合し、すべて既存登録済みを確認。"
+    },
+    {
+      "source": "日本ショッピングセンター協会・2026年オープンSC一覧",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "result": "11月の天満屋ハピーズ西大寺モールとイオンモール伊達を照合し、施設レコードが登録済みであることを確認。"
+    },
+    {
+      "source": "ブルースカイランドリー公式発表（株式会社ジーアイビー）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "result": "2026年11月の新規10店舗を照合し、10店舗すべて既存登録済みを確認。"
+    },
+    {
+      "source": "企業・施設公式発表（Taco Bell、Yohji Yamamoto、VENEX、LADUREE、Qu'il fait bon、BANDAI SPIRITS、PARCO等）",
+      "url": "https://prtimes.jp/",
+      "result": "Taco Bell 吉祥寺店、WILDSIDE YOHJI YAMAMOTO 渋谷PARCO店、neverbetter、カフェ・ラデュレ新丸ビル店、キル フェ ボン新宿、THE GUNDAM BASE SHIBUYA、ポケモンカードストア in 静岡パルコ等を照合し、確認対象はすべて既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "count_before": 2137,
+    "count_after": 2137,
+    "added_items_found": 0,
+    "corrected_items": 0,
+    "deleted_items": 0,
+    "existing_items_preserved_exactly": true,
+    "duplicate_names": 0,
+    "required_fields_valid": true,
+    "date_format_valid": true,
+    "date_sorted": true,
+    "period_preserved": true,
+    "scope_preserved": true,
+    "post_write_fetch": true,
+    "post_write_parse": true,
+    "post_write_blob_sha": "56cd445027d1ffbf465eb8efb727ded33e340b31"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "全国全事業者・未公表店舗の網羅性",
+    "各店舗の現地での実際の営業開始状況"
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_when_checked": true,
+    "schedule": "hourly, minute 15",
+    "timezone": "Asia/Tokyo",
+    "last_recorded_run_status_when_checked": "in_progress",
+    "completed_at_when_checked": null,
+    "note": "The run record still showed the previous execution as in_progress; the automation itself was enabled when checked."
+  }
+}
