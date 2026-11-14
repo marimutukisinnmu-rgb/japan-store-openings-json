@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-14T13:18:46+09:00",
+  "updatetime": "2026-11-14T14:13:30+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10161,6 +10161,13 @@
       "category": "ジュエリー・アクセサリー"
     },
     {
+      "name": "SHOGUN BURGER 道玄坂店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-18",
+      "category": "ハンバーガー専門店"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -12721,6 +12728,13 @@
       "city": "さいたま市大宮区",
       "opening_date": "2026-11-27",
       "category": "クロワッサン（期間限定ショップ・2026-11-27〜2026-12-14）"
+    },
+    {
+      "name": "BYREDO神戸BAL",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-27",
+      "category": "フレグランス・化粧品"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
