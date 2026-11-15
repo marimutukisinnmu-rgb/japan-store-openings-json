@@ -170,9 +170,45 @@
         "ゴンチャ イオンモール福津店"
       ],
       "result": "11月17日、福津市。既存JSONに登録済み。"
+    },
+    {
+      "source": "イオンモール株式会社・ふくしまひらいビル公式発表",
+      "urls": [
+        "https://kyodonewsprwire.jp/release/202611119913"
+      ],
+      "checked_entries": 6,
+      "already_registered": [
+        "ふくしまひらいビル",
+        "庵ど（ふくしまひらいビル）",
+        "バイセル（ふくしまひらいビル）",
+        "La pirates（ふくしまひらいビル）",
+        "ロレインアイ（ふくしまひらいビル）",
+        "Introduce A to B（ふくしまひらいビル）"
+      ],
+      "result": "2026-11-27施設開業と公式発表に掲載された入居情報を照合。既存JSONに登録済み。"
+    },
+    {
+      "source": "chocoZAP公式延期告知",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "みずほ台二丁目（旧予定日2026-11-07）と天王町駅南（旧予定日2026-10-30）は、2026-11-15確認時点でも公式表示が「未定」。既存日付は保護し、訂正なし。"
     }
   ],
-  "unconfirmed": [],
+  "unconfirmed": [
+    {
+      "name": "chocoZAP みずほ台二丁目店",
+      "reported_opening_date": "2026-11-07",
+      "reason": "2026-11-02付の公式延期告知で新日程は未定。既存レコードは変更せず保持。"
+    },
+    {
+      "name": "chocoZAP 天王町駅南店",
+      "reported_opening_date": "2026-10-30",
+      "reason": "2026-10-29付の公式延期告知で新日程は未定。既存レコードは変更せず保持。"
+    }
+  ],
   "errors": [],
   "automation_check": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
