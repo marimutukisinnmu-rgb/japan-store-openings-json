@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T09:17:06+09:00",
+  "updatetime": "2026-11-15T10:17:09+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -46,6 +46,13 @@
       "category": "キッズ・メンズ・レディース・ファッション雑貨"
     },
     {
+      "name": "PROVAX 西大寺店",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-09-10",
+      "category": "アミューズメント施設"
+    },
+    {
       "name": "gashacoco 足利コムファーストSC",
       "prefecture": "栃木県",
       "city": "足利市",
@@ -72,6 +79,13 @@
       "city": "目黒区",
       "opening_date": "2026-09-14",
       "category": "トリミングサロン・犬の幼稚園"
+    },
+    {
+      "name": "ドン・キホーテ岡山西大寺店",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-09-15",
+      "category": "ディスカウントストア"
     },
     {
       "name": "MOOMIN KAUPPA（TSUTAYA BOOKSTORE ららぽーと堺）",
@@ -723,6 +737,13 @@
       "city": "品川区",
       "opening_date": "2026-10-01",
       "category": "自然食レストラン・カフェ"
+    },
+    {
+      "name": "ひろがる接骨院・鍼灸院",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-10-01",
+      "category": "接骨院・鍼灸院"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -5744,6 +5765,13 @@
       "category": "住宅展示場・モデルハウス（リニューアル）"
     },
     {
+      "name": "chocoZAP 八幡折尾店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-11-03",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "『いも屋まるじゅう』（戸塚モディ）",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -7732,6 +7760,13 @@
       "category": "期間限定食品ショップ（惣菜・おむすび・2026-11-09〜2026-11-29）"
     },
     {
+      "name": "chocoZAP 金沢天神店（リニューアル）",
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "opening_date": "2026-11-09",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "BASE LAYER HOTEL KOBE SANNOMIYA",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -8719,6 +8754,13 @@
       "category": "カフェ・喫茶店"
     },
     {
+      "name": "ミスタードーナツ 天満屋ハピーズ西大寺ショップ",
+      "prefecture": "岡山県",
+      "city": "岡山市東区",
+      "opening_date": "2026-11-12",
+      "category": "ドーナツ・飲食店"
+    },
+    {
       "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（渋谷モディ）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -9657,6 +9699,13 @@
       "category": "100円ショップ・生活雑貨"
     },
     {
+      "name": "chocoZAP 上古賀店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "筑紫野市",
+      "opening_date": "2026-11-15",
+      "category": "フィットネスジム（リニューアル）"
+    },
+    {
       "name": "3POKEOSAKA re:Dine大阪店",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -9970,6 +10019,13 @@
       "city": "渋谷区",
       "opening_date": "2026-11-17",
       "category": "期間限定焼き芋ショップ（2026-11-17〜2026-11-26）"
+    },
+    {
+      "name": "chocoZAP 南烏山三丁目店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-17",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "AFFIDAMENTO BAGEL ～のくちパンマルシェ～（マルイファミリー溝口）",
@@ -10586,6 +10642,13 @@
       "city": "習志野市",
       "opening_date": "2026-11-19",
       "category": "期間限定テイクアウト催事（2026-11-19〜2027-01-18）"
+    },
+    {
+      "name": "chocoZAP 赤坂けやき通り店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-19",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
@@ -11790,6 +11853,13 @@
       "city": "大田区",
       "opening_date": "2026-11-24",
       "category": "ラーメン"
+    },
+    {
+      "name": "chocoZAP 靱本町一丁目店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市西区",
+      "opening_date": "2026-11-24",
+      "category": "フィットネスジム（リニューアル）"
     },
     {
       "name": "chocoZAP うきは吉井",
