@@ -1,0 +1,139 @@
+{
+  "run_at": "2026-11-15T15:15:21+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "bb1b00a7eed42c7a86948e16d5ece8f495e81923",
+    "updated_blob_sha": "f29217639a619836fb706fead1dbcd32e297d0d4",
+    "commit_sha": "be266b669f36e64240baf6f7984f3d3d5cc2d3d3",
+    "item_count_before": 2173,
+    "item_count_after": 2173,
+    "updatetime": "2026-11-15T15:15:21+09:00",
+    "additions": [],
+    "corrections_applied": [],
+    "deletions": [],
+    "data_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_entries": 36,
+      "matched_existing_records": 36,
+      "added": [],
+      "result": "All 36 listed stores from 2026-11-01 through 2026-11-27 were found in latest.json, including the newest listings for 2026-11-25, 2026-11-26 and 2026-11-27."
+    },
+    {
+      "source": "KFC official November 2026 new-store update",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "added": [],
+      "result": "All nine stores in the official November update were already registered."
+    },
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_entries": 49,
+      "matched_existing_records": 49,
+      "added": [],
+      "result": "All 49 visible store listings checked for 2026-11-03 through 2026-11-30 were already registered."
+    },
+    {
+      "source": "Official brand/operator opening announcements",
+      "urls": [
+        "https://www.gundam-base.net/news/81618.html",
+        "https://prtimes.jp/main/html/rd/p/000000015.000112208.html/",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000000323.000016275.html",
+        "https://prtimes.jp/main/html/rd/p/000000002.000192515.html",
+        "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+        "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+        "https://prtimes.jp/main/html/rd/p/000001957.000009215.html",
+        "https://prtimes.jp/main/html/rd/p/000000452.000048503.html"
+      ],
+      "checked_entries": 12,
+      "matched_existing_records": 12,
+      "added": [],
+      "result": "The listed openings (including THE GUNDAM BASE SHIBUYA, Japan Blue Jeans SHIBUYA PARCO, WithGreen 光が丘IMA店, カルティエ 心斎橋ブティック, WR.Yoyogi Park, VINTAGE QOO TOKYO AOYAMA, カフェ・ラデュレ 新丸ビル店, POP MART LUCUA SOUTH店, PAPABUBBLE イクスピアリ店, キル フェ ボン新宿, サブウェイ 市ヶ谷東店 and ゴンチャ 秋葉原UDX店) were all already registered."
+    },
+    {
+      "source": "chocoZAP official postponement notices",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both official notices still state the new opening date as 未定. Existing opening_date values were preserved because no supported postponement field was confirmed in the current JSON schema."
+    }
+  ],
+  "validation": {
+    "item_count": 2173,
+    "json_parse": true,
+    "all_existing_items_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_name_date_keys": 0,
+    "normalized_duplicate_candidate_groups": 3,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "f29217639a619836fb706fead1dbcd32e297d0d4"
+  },
+  "unresolved": [
+    {
+      "name": "chocoZAP みずほ台二丁目",
+      "previous_opening_date": "2026-11-07",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/23365",
+      "handling": "既存値を保持"
+    },
+    {
+      "name": "chocoZAP 天王町駅南",
+      "previous_opening_date": "2026-10-30",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/22972",
+      "handling": "既存値を保持"
+    },
+    {
+      "names": [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      "opening_date": "2026-11-02",
+      "handling": "名称・所在地・日付が近似する重複候補。統合・削除は保留"
+    },
+    {
+      "names": [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      "opening_date": "2026-11-13",
+      "handling": "名称・所在地・日付が近似する重複候補。統合・削除は保留"
+    },
+    {
+      "names": [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      "opening_date": "2026-11-28",
+      "handling": "名称・所在地・日付が近似する重複候補。統合・削除は保留"
+    },
+    {
+      "names": [
+        "ゴンチャ 秋葉原UDX店",
+        "ゴンチャ（秋葉原UDX）"
+      ],
+      "opening_date": "2026-11-19",
+      "handling": "公式名称は前者。後者は同一店舗の別表記の可能性があるため統合・削除は保留"
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "全国すべての事業者・施設を網羅した確認ではない。",
+    "延期2件の現行データ表現は未解決。"
+  ]
+}
