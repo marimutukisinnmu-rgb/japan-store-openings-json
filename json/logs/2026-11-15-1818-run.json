@@ -1,0 +1,194 @@
+{
+  "run_at": "2026-11-15T18:18:03+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "8f7c0f13f6b0f8e4b21e687b8527f055b5a6873f",
+    "updated_blob_sha": "d21bf63ab047a96427a4b03a7717a17651f1805c",
+    "commit_sha": "8a60a92c295f2428a542eec7ec607d5f59b2395e",
+    "item_count_before": 2185,
+    "item_count_after": 2193,
+    "updatetime": "2026-11-15T18:18:03+09:00",
+    "additions": [
+      {
+        "name": "京都北白川 ラーメン魁力屋 海老名店（リニューアル）",
+        "prefecture": "神奈川県",
+        "city": "海老名市",
+        "opening_date": "2026-11-13",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 イオンモール木更津店（リニューアル）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-19",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 堺新金岡店（リニューアル）",
+        "prefecture": "大阪府",
+        "city": "堺市北区",
+        "opening_date": "2026-11-20",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 東久留米店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "東久留米市",
+        "opening_date": "2026-11-20",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 静岡インター店（リニューアル）",
+        "prefecture": "静岡県",
+        "city": "静岡市駿河区",
+        "opening_date": "2026-11-27",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 三郷店（リニューアル）",
+        "prefecture": "埼玉県",
+        "city": "三郷市",
+        "opening_date": "2026-11-27",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 相模原中央店（リニューアル）",
+        "prefecture": "神奈川県",
+        "city": "相模原市中央区",
+        "opening_date": "2026-11-29",
+        "category": "ラーメン（リニューアル）"
+      },
+      {
+        "name": "京都北白川 ラーメン魁力屋 堀川五条店（リニューアル）",
+        "prefecture": "京都府",
+        "city": "京都市下京区",
+        "opening_date": "2026-12-01",
+        "category": "ラーメン（リニューアル）"
+      }
+    ],
+    "corrections_applied": [],
+    "deletions": [],
+    "existing_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "魁力屋公式「改装休業のお知らせ」",
+      "url": "https://www.kairikiya.co.jp/news/596",
+      "checked_entries": 11,
+      "already_registered": [
+        "京都北白川 ラーメン魁力屋 高槻店（リニューアルオープン）",
+        "京都北白川 ラーメン魁力屋 堺海山町店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 川西店（リニューアル）"
+      ],
+      "added": [
+        "京都北白川 ラーメン魁力屋 海老名店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 イオンモール木更津店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 堺新金岡店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 東久留米店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 静岡インター店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 三郷店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 相模原中央店（リニューアル）",
+        "京都北白川 ラーメン魁力屋 堀川五条店（リニューアル）"
+      ],
+      "result": "The official notice explicitly lists reopening dates for 11 locations. Eight were missing from latest.json and were added."
+    },
+    {
+      "source": "魁力屋公式店舗検索・店舗詳細",
+      "urls": [
+        "https://shop.kairikiya.co.jp/stores/55",
+        "https://shop.kairikiya.co.jp/stores/111",
+        "https://shop.kairikiya.co.jp/stores/14",
+        "https://shop.kairikiya.co.jp/stores/7",
+        "https://shop.kairikiya.co.jp/stores/8",
+        "https://shop.kairikiya.co.jp/stores/20",
+        "https://shop.kairikiya.co.jp/stores/2",
+        "https://shop.kairikiya.co.jp/stores/74"
+      ],
+      "checked_entries": 8,
+      "result": "Official store pages were used to verify the prefecture and municipality for all eight additions."
+    },
+    {
+      "source": "NANATSU KYUSHU TEA STAND",
+      "urls": [
+        "https://konohen.media/business/nanatsu-kyushu-tea-stand/",
+        "https://www.instagram.com/nanatsu_tea/"
+      ],
+      "checked_entries": 1,
+      "added": [],
+      "result": "A local listing cites an official Instagram opening announcement for 2026-11-08 at Fukuoka-shi Chuo-ku Watanabe-dori 3-8-14. Direct retrieval of the Instagram account was blocked, so the item was not added pending direct official confirmation."
+    },
+    {
+      "source": "chocoZAP公式延期告知",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both official notices still say the revised opening date is undecided; existing date-only records were preserved."
+    },
+    {
+      "source": "その他の候補照合",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000154.000106657.html",
+        "https://prtimes.jp/main/html/rd/p/000001075.000005340.html",
+        "https://prtimes.jp/main/html/rd/p/000000450.000048503.html",
+        "https://prtimes.jp/main/html/rd/p/000000029.000177712.html",
+        "https://prtimes.jp/main/html/rd/p/000004144.000003639.html",
+        "https://prtimes.jp/main/html/rd/p/000000016.000082222.html",
+        "https://prtimes.jp/main/html/rd/p/000000041.000156423.html"
+      ],
+      "checked_entries": 7,
+      "result": "Green Cosmetic Garden, BAKERIES LAB. Shin-Yurigaoka, Gong cha Yumetown Saga, Hakata no Aji Yamaya, FLA-LAB, Pokemon Card Store Shizuoka PARCO, Perfumerie Sukiya Ichibancho, and La Prairie Hankyu Umeda were checked against latest.json; corresponding records were already present."
+    }
+  ],
+  "validation": {
+    "item_count": 2193,
+    "json_parse": true,
+    "new_records_present_once": true,
+    "all_existing_items_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_name_date_keys": 0,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "d21bf63ab047a96427a4b03a7717a17651f1805c",
+    "blob_sha_matches_update_response": true
+  },
+  "unresolved": [
+    {
+      "name": "chocoZAP みずほ台二丁目店",
+      "previous_opening_date": "2026-11-07",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/23365",
+      "handling": "既存値を保持"
+    },
+    {
+      "name": "chocoZAP 天王町駅南店",
+      "previous_opening_date": "2026-10-30",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/22972",
+      "handling": "既存値を保持"
+    },
+    {
+      "name": "NANATSU KYUSHU TEA STAND",
+      "reported_opening_date": "2026-11-08",
+      "reported_location": "福岡県福岡市中央区渡辺通3-8-14",
+      "issue": "公式Instagramの直接取得ができず、第三者の地域情報サイトによる引用のみ確認。登録保留。"
+    }
+  ],
+  "errors": [
+    {
+      "source": "NANATSU KYUSHU TEA STAND公式Instagram",
+      "url": "https://www.instagram.com/nanatsu_tea/",
+      "error": "Direct retrieval blocked (DisabledError)",
+      "handling": "未確認として登録しなかった"
+    }
+  ],
+  "limitations": [
+    "今回の照合は確認した企業・店舗の公式情報に限られ、全国全事業者の網羅調査ではない。",
+    "chocoZAPの延期2件は現行JSONに延期状態を表す正式フィールドがないため、旧日付を保持した。",
+    "NANATSU KYUSHU TEA STANDは公式Instagramを直接確認できず、登録を保留した。"
+  ]
+}
