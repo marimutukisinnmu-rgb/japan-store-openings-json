@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T11:15:03+09:00",
+  "updatetime": "2026-11-15T12:14:40+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -53,6 +53,13 @@
       "category": "アミューズメント施設"
     },
     {
+      "name": "ロイヤルホストekubo新鎌ケ谷店",
+      "prefecture": "千葉県",
+      "city": "鎌ケ谷市",
+      "opening_date": "2026-09-10",
+      "category": "ファミリーレストラン"
+    },
+    {
       "name": "gashacoco 足利コムファーストSC",
       "prefecture": "栃木県",
       "city": "足利市",
@@ -72,6 +79,13 @@
       "city": "町田市",
       "opening_date": "2026-09-12",
       "category": "ファッション（期間限定ストア）"
+    },
+    {
+      "name": "あご出汁蕎麦 こがね丸 Express",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-09-12",
+      "category": "そば・和食"
     },
     {
       "name": "ソプラ銀座 目黒武蔵小山店",
