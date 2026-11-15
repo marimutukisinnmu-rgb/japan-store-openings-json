@@ -1,0 +1,204 @@
+{
+  "run_at": "2026-11-15T10:17:09+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "ab13efef81d20a2c2cf4e5abeed8bcc43906d654",
+    "updated_blob_sha": "c2f831f08792ac185d0e02b932402b1b25c8def9",
+    "commit_sha": "ce1b40cd4857265cb98c338446202d6830e68abb",
+    "item_count_before": 2145,
+    "item_count_after": 2155,
+    "updatetime": "2026-11-15T10:17:09+09:00",
+    "additions": [
+      {
+        "name": "chocoZAP 八幡折尾店（リニューアル）",
+        "prefecture": "福岡県",
+        "city": "北九州市八幡西区",
+        "opening_date": "2026-11-03",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 金沢天神店（リニューアル）",
+        "prefecture": "石川県",
+        "city": "金沢市",
+        "opening_date": "2026-11-09",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 上古賀店（リニューアル）",
+        "prefecture": "福岡県",
+        "city": "筑紫野市",
+        "opening_date": "2026-11-15",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 南烏山三丁目店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "世田谷区",
+        "opening_date": "2026-11-17",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 赤坂けやき通り店（リニューアル）",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-11-19",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "chocoZAP 靱本町一丁目店（リニューアル）",
+        "prefecture": "大阪府",
+        "city": "大阪市西区",
+        "opening_date": "2026-11-24",
+        "category": "フィットネスジム（リニューアル）"
+      },
+      {
+        "name": "PROVAX 西大寺店",
+        "prefecture": "岡山県",
+        "city": "岡山市東区",
+        "opening_date": "2026-09-10",
+        "category": "アミューズメント施設"
+      },
+      {
+        "name": "ドン・キホーテ岡山西大寺店",
+        "prefecture": "岡山県",
+        "city": "岡山市東区",
+        "opening_date": "2026-09-15",
+        "category": "ディスカウントストア"
+      },
+      {
+        "name": "ひろがる接骨院・鍼灸院",
+        "prefecture": "岡山県",
+        "city": "岡山市東区",
+        "opening_date": "2026-10-01",
+        "category": "接骨院・鍼灸院"
+      },
+      {
+        "name": "ミスタードーナツ 天満屋ハピーズ西大寺ショップ",
+        "prefecture": "岡山県",
+        "city": "岡山市東区",
+        "opening_date": "2026-11-12",
+        "category": "ドーナツ・飲食店"
+      }
+    ],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "2026-11-02 postponement notice; new opening date undecided",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "Preserved unchanged because the current item format has no documented postponement/status field."
+      },
+      {
+        "name": "chocoZAP 天王町駅南",
+        "previous_opening_date": "2026-10-30",
+        "official_update": "2026-10-29 postponement notice; new opening date undecided",
+        "source_url": "https://chocozap.jp/info/22972",
+        "handling": "Preserved unchanged because the current item format has no documented postponement/status field."
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "c2f831f08792ac185d0e02b932402b1b25c8def9"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official reopening notices",
+      "urls": [
+        "https://chocozap.jp/info/16966",
+        "https://chocozap.jp/info/20468",
+        "https://chocozap.jp/info/21056",
+        "https://chocozap.jp/info/21121",
+        "https://chocozap.jp/info/20528",
+        "https://chocozap.jp/info/21220"
+      ],
+      "checked_entries": 6,
+      "matched_existing_records": 0,
+      "added": 6,
+      "result": "Official reopening dates confirmed; city/prefecture cross-checked against official chocoZAP city/store pages."
+    },
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_entries": 49,
+      "matched_existing_records": 49,
+      "unmatched": []
+    },
+    {
+      "source": "Lawson official national new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked_entries": 36,
+      "matched_existing_records": 36,
+      "unmatched": []
+    },
+    {
+      "source": "KFC official November 2026 new-store release",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "unmatched": []
+    },
+    {
+      "source": "Ringer Hut official November opening release",
+      "url": "https://www.ringerhut.co.jp/info/2026/1106_1/",
+      "checked_entries": 3,
+      "matched_existing_records": 3,
+      "unmatched": []
+    },
+    {
+      "source": "Japan Council of Shopping Centers official 2026 SC list",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "unmatched": []
+    },
+    {
+      "source": "Tenmaya Store official Saidaiji Mall tenant schedule",
+      "url": "https://www.tenmaya-store.co.jp/assets/images/sys/2026/07/NR_260708_1.pdf",
+      "checked_entries": 4,
+      "added": 4,
+      "result": "PROVAX, Don Quijote Okayama Saidaiji, ひろがる接骨院・鍼灸院, and Mister Donut dated openings confirmed; PROVAX actual 2026-09-10 opening additionally cross-checked with industry trade coverage."
+    },
+    {
+      "source": "PPIH official Don Quijote Okayama Saidaiji release",
+      "url": "https://ppih.co.jp/news/pdf/260825_news_okayamasaidaiji.pdf",
+      "store": "ドン・キホーテ岡山西大寺店",
+      "opening_date": "2026-09-15",
+      "result": "Exact opening date and Okayama-shi Higashi-ku address confirmed."
+    },
+    {
+      "source": "Izumi Food Service official Mister Donut release",
+      "url": "https://www.izumi.co.jp/news_release/assets/a53c1563418ef5d413c059e7be7fd3e4.pdf",
+      "store": "ミスタードーナツ 天満屋ハピーズ西大寺ショップ",
+      "opening_date": "2026-11-12",
+      "result": "Exact date and mall location confirmed."
+    },
+    {
+      "source": "Industry trade report for PROVAX actual opening",
+      "url": "https://p-johojima.jp/news/post-73104/",
+      "store": "PROVAX 西大寺店",
+      "opening_date": "2026-09-10",
+      "result": "Actual opening on the officially scheduled date reported."
+    }
+  ],
+  "changes": {
+    "added": 10,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "The postponements for chocoZAP みずほ台二丁目 and 天王町駅南 remain represented by their former dates because the current schema has no documented status field; both are flagged for schema-safe correction.",
+    "Physical operating status was not independently checked on site."
+  ]
+}
