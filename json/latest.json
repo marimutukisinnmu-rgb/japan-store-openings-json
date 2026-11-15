@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-16T02:20:00+09:00",
+  "updatetime": "2026-11-16T03:15:00+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9965,6 +9965,34 @@
       "category": "抹茶スイーツ・和菓子"
     },
     {
+      "name": "おむらいす亭 大分ゆめタウン別府店",
+      "prefecture": "大分県",
+      "city": "別府市",
+      "opening_date": "2026-11-16",
+      "category": "オムライス・洋食・スイーツ（リニューアル）"
+    },
+    {
+      "name": "長崎ちゃんめん 山口小郡店（麺中華れすとらんにリニューアル）",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-16",
+      "category": "ちゃんめん・中華（リニューアル）"
+    },
+    {
+      "name": "BEAUTY CELLAR BY HOLLYWOOD 京王新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-16",
+      "category": "美容・健康商品専門店（リニューアル）"
+    },
+    {
+      "name": "FIT-EASY 木曽川西店",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-11-16",
+      "category": "フィットネスクラブ"
+    },
+    {
       "name": "chocoZAP 花川戸二丁目",
       "prefecture": "東京都",
       "city": "台東区",
@@ -10453,6 +10481,13 @@
       "city": "静岡市葵区",
       "opening_date": "2026-11-18",
       "category": "洋菓子"
+    },
+    {
+      "name": "Tug dress 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-18",
+      "category": "ファッション・セレクトショップ"
     },
     {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
@@ -11482,6 +11517,20 @@
       "city": "渋谷区",
       "opening_date": "2026-11-20",
       "category": "カルチャー・アパレル・雑貨（リニューアル）"
+    },
+    {
+      "name": "ハラルムガル阪急茨木店",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "opening_date": "2026-11-20",
+      "category": "パキスタン・中東料理店（ハラール対応）"
+    },
+    {
+      "name": "リンツ ショコラ ブティック 上大岡京急店",
+      "prefecture": "神奈川県",
+      "city": "横浜市港南区",
+      "opening_date": "2026-11-20",
+      "category": "チョコレート専門店"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
