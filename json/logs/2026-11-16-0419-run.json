@@ -1,0 +1,283 @@
+{
+  "run_at": "2026-11-16T04:19:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_operator_facility_or_government_sources",
+  "counts": {
+    "before": 2220,
+    "added": 19,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2239
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "90bfa8d05a8f5702faa74cc5a56cb08467a6854d",
+    "after_blob_sha": "d5697320cdf3f6fc8fe48abf2e1cf2bd71490acb",
+    "commit_sha": "db3ed57fb4a3f5120b480fbeb2a3f7bb2dcb9d87"
+  },
+  "added_items": [
+    {
+      "name": "YOGI LABO TOKYO",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-16",
+      "category": "ウェルネスカフェ"
+    },
+    {
+      "name": "DRAGON HOT POT 六本木店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-16",
+      "category": "麻辣湯専門店"
+    },
+    {
+      "name": "大あんまきの藤田屋",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-16",
+      "category": "和菓子店"
+    },
+    {
+      "name": "KANIMACHI by 三立製菓",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-06",
+      "category": "菓子・グッズ（アンテナショップ）"
+    },
+    {
+      "name": "PUNIKKO by TOKOTOYZ 福岡PARCO店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "スクイーズ専門店（期間限定）"
+    },
+    {
+      "name": "PUNIKKO by TOKOTOYZ 河原町オーパ店",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-21",
+      "category": "スクイーズ専門店"
+    },
+    {
+      "name": "旦過市場いちばん館",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-24",
+      "category": "商業施設・市場"
+    },
+    {
+      "name": "上海デリ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-19",
+      "category": "中華惣菜専門店"
+    },
+    {
+      "name": "博多地鶏醤油らーめん・油そば ざいとん 博多バスターミナル店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-16",
+      "category": "ラーメン店"
+    },
+    {
+      "name": "東戸塚駅前よしだ脊椎・整形外科クリニック",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-11-16",
+      "category": "整形外科・リハビリテーション科"
+    },
+    {
+      "name": "プロソデンタルクリニック広島駅院",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-11-16",
+      "category": "歯科医院"
+    },
+    {
+      "name": "SNEAKERS by emmi 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-18",
+      "category": "スニーカー・ファッション"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール白山店",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-10-03",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール松本店",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "opening_date": "2026-10-10",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール座間店",
+      "prefecture": "神奈川県",
+      "city": "座間市",
+      "opening_date": "2026-10-16",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール直方店",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "opening_date": "2026-10-23",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール福津店",
+      "prefecture": "福岡県",
+      "city": "福津市",
+      "opening_date": "2026-10-24",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール熱田店",
+      "prefecture": "愛知県",
+      "city": "名古屋市熱田区",
+      "opening_date": "2026-11-14",
+      "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
+      "prefecture": "愛知県",
+      "city": "長久手市",
+      "opening_date": "2026-11-21",
+      "category": "オーダースーツ専門店"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社YOGI JAPAN",
+      "items": [
+        "YOGI LABO TOKYO"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193787.html"
+    },
+    {
+      "publisher": "株式会社D.H",
+      "items": [
+        "DRAGON HOT POT 六本木店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000177619.html"
+    },
+    {
+      "publisher": "浜松駅ビルメイワン",
+      "items": [
+        "大あんまきの藤田屋"
+      ],
+      "url": "https://tohakusha.com/main/html/rd/p/000000044.000096371.html"
+    },
+    {
+      "publisher": "三立製菓株式会社",
+      "items": [
+        "KANIMACHI by 三立製菓"
+      ],
+      "url": "https://www.sanritsuseika.co.jp/news/kanimachi/"
+    },
+    {
+      "publisher": "ライフスタイルカンパニー株式会社",
+      "items": [
+        "PUNIKKO by TOKOTOYZ 福岡PARCO店",
+        "PUNIKKO by TOKOTOYZ 河原町オーパ店"
+      ],
+      "url": "https://www.atpress.ne.jp/news/4772755"
+    },
+    {
+      "publisher": "北九州市",
+      "items": [
+        "旦過市場いちばん館"
+      ],
+      "url": "https://www.city.kitakyushu.lg.jp/contents/p272_00001.html"
+    },
+    {
+      "publisher": "株式会社大丸松坂屋百貨店",
+      "items": [
+        "上海デリ（大丸福岡天神店）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000004058.000025003.html"
+    },
+    {
+      "publisher": "株式会社56フーズ・コーポレーション／博多バスターミナル",
+      "items": [
+        "博多地鶏醤油らーめん・油そば ざいとん 博多バスターミナル店"
+      ],
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000001.000192129.html",
+        "https://h-bt.jp/floor/shop95.html"
+      ]
+    },
+    {
+      "publisher": "東戸塚駅前よしだ脊椎・整形外科クリニック",
+      "items": [
+        "東戸塚駅前よしだ脊椎・整形外科クリニック"
+      ],
+      "url": "https://higashitotsuka-sekitsui-seikei.com/"
+    },
+    {
+      "publisher": "ekie／中国SC開発",
+      "items": [
+        "プロソデンタルクリニック広島駅院"
+      ],
+      "url": "https://www.minamoa-ekie.jp/shop/?id=861"
+    },
+    {
+      "publisher": "emmi",
+      "items": [
+        "SNEAKERS by emmi 神戸阪急店"
+      ],
+      "url": "https://emmi.jp/Page/news/detail/261111.aspx"
+    },
+    {
+      "publisher": "株式会社コナカ",
+      "items": [
+        "FUTURE SUIT TECHNOLOGY イオンモール白山店",
+        "FUTURE SUIT TECHNOLOGY イオンモール松本店",
+        "FUTURE SUIT TECHNOLOGY イオンモール座間店",
+        "FUTURE SUIT TECHNOLOGY イオンモール直方店",
+        "FUTURE SUIT TECHNOLOGY イオンモール福津店",
+        "FUTURE SUIT TECHNOLOGY イオンモール熱田店",
+        "FUTURE SUIT TECHNOLOGY イオンモール長久手店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000234.000052832.html"
+    }
+  ],
+  "deferred": [
+    {
+      "names": [
+        "akari kitchen",
+        "akaricafe"
+      ],
+      "reason": "reDine Hiroshima official shop list currently shows 2026-11-16, while favy's official blog states 2026-11-08. Conflicting operator-side dates; not added pending reconciliation.",
+      "sources": [
+        "https://redine.jp/hiroshima",
+        "https://blog.favy.co.jp/31565/"
+      ]
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "duplicate_names": 0,
+    "opening_date_format_errors": 0,
+    "opening_date_sorted": true,
+    "all_2220_existing_records_unchanged": true,
+    "existing_relative_order_preserved": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches_write_result": true
+  },
+  "errors": [],
+  "automation_status_at_check": {
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "next_run_time_reported": "2026-11-16T04:15:00+09:00"
+  }
+}
