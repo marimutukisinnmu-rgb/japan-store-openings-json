@@ -1,0 +1,65 @@
+{
+  "run_at": "2026-11-16T00:17:53+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "counts": {
+    "before": 2207,
+    "after": 2209,
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "additions": [
+    {
+      "name": "玉もなか",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-01",
+      "category": "卵アイスもなか専門店"
+    },
+    {
+      "name": "Labo en",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-11-06",
+      "category": "美容用品・体験型ショップ"
+    }
+  ],
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000402.000049680.html",
+    "https://blog.favy.co.jp/31412/",
+    "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+    "https://sendai.parco.jp/feature/detail/?id=107308",
+    "https://sendai.parco.jp/info/?gcd=facilities"
+  ],
+  "cross_checks": {
+    "Labo en": "operator press release confirms 2026-11-06 and Tokyo Meguro-ku address",
+    "玉もなか": "operator/facility blog confirms 2026-11-01 and Shinjuku-ku address",
+    "仙台PARCO2": "official PARCO announcement checked; 中華そば専門 田中そば店（仙台PARCO2） was already present in JSON",
+    "other_checked_candidates": "LUNA EARTH アミュプラザ小倉店, 資さんうどん 和泉観音寺店, neverbetter, 秋野テーブル, 和牛焼肉 銀座八山, ぱくぱくドーナツ, THIS IS MATCHA, and アラン・デュカス・ショコラ were already present"
+  },
+  "validation": {
+    "before_count": 2207,
+    "after_count": 2209,
+    "added": 2,
+    "preserved_existing": true,
+    "added_counts": {
+      "玉もなか": 1,
+      "Labo en": 1
+    },
+    "exact_duplicate_names": 0,
+    "required_fields_and_dates_valid": true,
+    "date_sorted": true,
+    "post_save_refetch": true,
+    "new_blob_sha": "7769546a90e169d1da6afff429987f41b2b09d66",
+    "update_commit_sha": "894794eafd520c49a0cee4fb7b198c9bf6e062e1"
+  },
+  "unresolved": [
+    "No exact-date, primary-source-supported additional candidate beyond the two additions was confirmed in this pass."
+  ],
+  "errors": [],
+  "schedule_check": "automation remains enabled; current run status is reported separately from GitHub persistence"
+}
