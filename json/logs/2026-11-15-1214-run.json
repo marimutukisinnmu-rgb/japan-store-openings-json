@@ -1,0 +1,156 @@
+{
+  "run_at": "2026-11-15T12:14:40+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "77bf51303d722b24f2c7ec0a201bc5798f2d5b32",
+    "updated_blob_sha": "3a36bc9764c9a63b6e86e893ee220f78630254b8",
+    "commit_sha": "26651bd167c37c3da606706f95a55c0d4deb4e66",
+    "item_count_before": 2161,
+    "item_count_after": 2163,
+    "updatetime": "2026-11-15T12:14:40+09:00",
+    "additions": [
+      {
+        "name": "ロイヤルホストekubo新鎌ケ谷店",
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "opening_date": "2026-09-10",
+        "category": "ファミリーレストラン"
+      },
+      {
+        "name": "あご出汁蕎麦 こがね丸 Express",
+        "prefecture": "長崎県",
+        "city": "長崎市",
+        "opening_date": "2026-09-12",
+        "category": "そば・和食"
+      }
+    ],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "延期・新日程未定",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "現行スキーマに延期状態フィールドが確認できないため既存値を保持"
+      },
+      {
+        "name": "chocoZAP 天王町駅南",
+        "previous_opening_date": "2026-10-30",
+        "official_update": "延期・新日程未定",
+        "source_url": "https://chocozap.jp/info/22972",
+        "handling": "現行スキーマに延期状態フィールドが確認できないため既存値を保持"
+      }
+    ],
+    "possible_duplicate_candidates": [
+      {
+        "names": [
+          "ゴンチャ 秋葉原UDX店",
+          "ゴンチャ（秋葉原UDX）"
+        ],
+        "opening_date": "2026-11-19",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "handling": "同一店舗の別表記の可能性。根拠確認前の統合・削除は行わず保持"
+      }
+    ],
+    "unconfirmed_candidates": [
+      {
+        "name": "ナムコ（LUCUA SOUTH）",
+        "claimed_opening_period": "2026年12月上旬",
+        "handling": "公式情報に正確な日付がないため未追加"
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "3a36bc9764c9a63b6e86e893ee220f78630254b8"
+  },
+  "source_checks": [
+    {
+      "source": "Royal Holdings official 2026 new-store list and official store details",
+      "urls": [
+        "https://www.royal-holdings.co.jp/shop/2026/",
+        "https://pkg.navitime.co.jp/royal-gr/spot/detail?code=0000000900",
+        "https://pkg.navitime.co.jp/royal-gr/spot/detail?code=0000000906"
+      ],
+      "checked_entries": 4,
+      "matched_existing_records": 2,
+      "added": [
+        "ロイヤルホストekubo新鎌ケ谷店",
+        "あご出汁蕎麦 こがね丸 Express"
+      ],
+      "result": "Official detail pages confirm exact opening dates and city/address; both entries fall within the current JSON period."
+    },
+    {
+      "source": "Lawson official nationwide new-store listings",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_entries": 29,
+      "matched_existing_records": 29,
+      "added": [],
+      "result": "All checked 2026-11-05 through 2026-11-27 entries matched existing records."
+    },
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_period": "2026-11-10 through 2026-11-30",
+      "added": [],
+      "result": "Current official list entries in this date range matched existing records."
+    },
+    {
+      "source": "KFC official November 2026 new-store release",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "added": []
+    },
+    {
+      "source": "Sukiya official new-store news",
+      "url": "https://sukiya.jp/news/",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": []
+    },
+    {
+      "source": "Gong cha official press-release archive",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "checked_entries": 3,
+      "matched_existing_records": 3,
+      "added": []
+    },
+    {
+      "source": "Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": []
+    },
+    {
+      "source": "Ramen Kairikiya official new-store list",
+      "url": "https://www.kairikiya.co.jp/news/grandopen",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": []
+    }
+  ],
+  "validation": {
+    "item_count": 2163,
+    "json_parse": true,
+    "all_additions_present": true,
+    "all_old_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": true,
+    "post_save_blob_sha": "3a36bc9764c9a63b6e86e893ee220f78630254b8"
+  }
+}
