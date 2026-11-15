@@ -1,0 +1,167 @@
+{
+  "run_at": "2026-11-15T11:15:03+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "c2f831f08792ac185d0e02b932402b1b25c8def9",
+    "updated_blob_sha": "77bf51303d722b24f2c7ec0a201bc5798f2d5b32",
+    "commit_sha": "a56988550d7f6ca1b6c1f16e70bc89d44af74e71",
+    "item_count_before": 2155,
+    "item_count_after": 2161,
+    "updatetime": "2026-11-15T11:15:03+09:00",
+    "additions": [
+      {
+        "name": "Workman Colors イオンタウン須賀川店",
+        "prefecture": "福島県",
+        "city": "須賀川市",
+        "opening_date": "2026-10-30",
+        "category": "ファッション・カジュアルウェア"
+      },
+      {
+        "name": "Workman Colors 西東京北原店",
+        "prefecture": "東京都",
+        "city": "西東京市",
+        "opening_date": "2026-10-01",
+        "category": "ファッション・カジュアルウェア"
+      },
+      {
+        "name": "FIT-EASY 久留米国分店",
+        "prefecture": "福岡県",
+        "city": "久留米市",
+        "opening_date": "2026-11-10",
+        "category": "アミューズメントフィットネスクラブ"
+      },
+      {
+        "name": "monet 白髪染めと髪質改善のサロン 春日院",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-11-12",
+        "category": "美容室・ヘアサロン"
+      },
+      {
+        "name": "WORKMAN Plus 天竜店",
+        "prefecture": "静岡県",
+        "city": "浜松市浜名区",
+        "opening_date": "2026-12-03",
+        "category": "作業服・作業用品"
+      },
+      {
+        "name": "WORKMAN Plus そよらひたち野うしく店",
+        "prefecture": "茨城県",
+        "city": "牛久市",
+        "opening_date": "2026-12-10",
+        "category": "作業服・作業用品"
+      }
+    ],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "2026-11-02 postponement notice; new opening date undecided",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "Preserved unchanged because the current item schema has no documented postponement/status field."
+      },
+      {
+        "name": "chocoZAP 天王町駅南",
+        "previous_opening_date": "2026-10-30",
+        "official_update": "2026-10-29 postponement notice; new opening date undecided",
+        "source_url": "https://chocozap.jp/info/22972",
+        "handling": "Preserved unchanged because the current item schema has no documented postponement/status field."
+      }
+    ],
+    "unconfirmed_candidates": [
+      {
+        "name": "NANATSU KYUSHU TEA STAND",
+        "claimed_opening_date": "2026-11-08",
+        "handling": "Not added; only secondary/local sources surfaced in this run, and a primary-source opening notice was not directly verified."
+      },
+      {
+        "name": "ナムコ（LUCUA SOUTH）",
+        "claimed_opening_period": "2026年12月上旬",
+        "handling": "Not added; the official source does not provide an exact calendar date required by opening_date."
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "77bf51303d722b24f2c7ec0a201bc5798f2d5b32"
+  },
+  "source_checks": [
+    {
+      "source": "WORKMAN official new-store list",
+      "url": "https://www.workman.co.jp/",
+      "checked_entries": 20,
+      "matched_existing_store_records": 16,
+      "added": [
+        "Workman Colors イオンタウン須賀川店",
+        "Workman Colors 西東京北原店",
+        "WORKMAN Plus 天竜店",
+        "WORKMAN Plus そよらひたち野うしく店"
+      ],
+      "result": "Official listing supplied exact dates and addresses; existing mall-only entry for そよらひたち野うしく was not treated as the Workman store record."
+    },
+    {
+      "source": "FIT-EASY official company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000001110.000099487.html",
+      "result": "Confirmed 2026-11-10 grand opening and Kurume address."
+    },
+    {
+      "source": "monet official salon page",
+      "url": "https://monet-gokan.com/salon_detail/kasuga/",
+      "result": "Confirmed 2026-11-12 opening and Fukuoka-shi Hakata-ku address."
+    },
+    {
+      "source": "LUCUA SOUTH official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "result": "All 28 November 24 stores matched existing records; three of four December stores matched. Namco remains unadded because only 'early December' is published."
+    },
+    {
+      "source": "Sukiya official new-store news",
+      "url": "https://sukiya.jp/news/",
+      "checked_entries": 2,
+      "matched_existing_records": 2
+    },
+    {
+      "source": "KFC official November new-store release",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9
+    },
+    {
+      "source": "Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_entries": 2,
+      "matched_existing_records": 2
+    },
+    {
+      "source": "chocoZAP official postponement notices",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both notices still state opening date undecided; no JSON changes applied."
+    }
+  ],
+  "validation": {
+    "item_count": 2161,
+    "json_parse": true,
+    "all_old_items_preserved": true,
+    "all_additions_present": true,
+    "original_item_relative_order_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": true,
+    "post_save_blob_sha": "77bf51303d722b24f2c7ec0a201bc5798f2d5b32"
+  }
+}
