@@ -79,13 +79,6 @@
       ],
       "checked_entries": 2,
       "result": "Both stores still show the new opening date as 未定; previous JSON dates were retained because the current schema has no documented postponement field."
-    },
-    {
-      "source": "LOWYA 2027 spring store announcements",
-      "url": "https://www.ryutsuu.biz/store/",
-      "checked_entries": 2,
-      "added": [],
-      "result": "Two announced openings are for spring 2027 with exact dates not stated; they are beyond the current period end (2027-02-28) and were not added."
     }
   ],
   "validation": {
@@ -121,6 +114,14 @@
       ],
       "opening_date": "2026-11-19",
       "handling": "同一店舗の別表記の可能性。統合・削除は保留"
+    }
+  ],
+  "unconfirmed_or_out_of_scope": [
+    {
+      "candidate": "LOWYA stores at イオンモール浦和美園 and イオンモール草津",
+      "observed_in": "secondary-source lead",
+      "url": "https://akase.xsrv.jp/fashion/category/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB/",
+      "handling": "2027年春予定で具体的な開店日未公表。現行期間の終端2027-02-28より後となる可能性があり、一次情報も未確認のため追加せず"
     }
   ]
 }
