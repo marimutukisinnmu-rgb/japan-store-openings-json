@@ -1,0 +1,93 @@
+{
+  "run_at": "2026-11-15T23:11:37+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "counts": {
+    "before": 2203,
+    "after": 2207,
+    "added": 4,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "additions": [
+    {
+      "name": "お肉の専門店 スギモト（東京ソラマチ）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-30",
+      "category": "精肉店"
+    },
+    {
+      "name": "澤光青果（東京ソラマチ・リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-30",
+      "category": "青果店（リニューアル）"
+    },
+    {
+      "name": "魚力（東京ソラマチ・リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-30",
+      "category": "鮮魚店（リニューアル）"
+    },
+    {
+      "name": "富澤商店（東京ソラマチ・リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-30",
+      "category": "製菓・製パン材料専門店（リニューアル）"
+    }
+  ],
+  "sources": [
+    "https://www.tokyo-solamachi.jp/food_marche/",
+    "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+    "https://www.lawson.co.jp/newstore/smt/",
+    "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+    "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf",
+    "https://www.pronto.co.jp/company/news/2026/"
+  ],
+  "cross_checks": {
+    "tokyo_solamachi": "4 additions confirmed by facility's official page; three are explicitly marked renewal",
+    "lawson": "current official new-store list checked; listed November stores were already represented in JSON",
+    "burger_king": "all 16 stores in operator's 2026-11-06 release were already represented",
+    "etomo_kikuna": "official 2026-11-05 tenant list checked; relevant records already represented",
+    "pronto": "PRONTO Shinkoiwa entry already represented"
+  },
+  "validation": {
+    "json_parse": true,
+    "added_records": [
+      {
+        "name": "お肉の専門店 スギモト（東京ソラマチ）",
+        "count": 1
+      },
+      {
+        "name": "澤光青果（東京ソラマチ・リニューアル）",
+        "count": 1
+      },
+      {
+        "name": "魚力（東京ソラマチ・リニューアル）",
+        "count": 1
+      },
+      {
+        "name": "富澤商店（東京ソラマチ・リニューアル）",
+        "count": 1
+      }
+    ],
+    "expected_additions_present": true,
+    "date_sorted": true,
+    "duplicate_exact_names": 0,
+    "existing_records_preserved": true,
+    "post_save_refetch": true,
+    "blob_sha": "c43d1617f9fc22b02860f03b4435bb1b804ec709"
+  },
+  "unresolved": [
+    "Tokyo Solamachi's Eggs 'n Things announcement gives only a season, not an exact opening date; not added.",
+    "Some other sources did not provide a precise opening date; no inferred dates were added."
+  ],
+  "errors": [],
+  "schedule_check": "see automation management state"
+}
