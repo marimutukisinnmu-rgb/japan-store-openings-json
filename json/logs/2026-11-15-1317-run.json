@@ -1,0 +1,239 @@
+{
+  "run_at": "2026-11-15T13:17:30+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "3a36bc9764c9a63b6e86e893ee220f78630254b8",
+    "updated_blob_sha": "a464db424fef3044d8bb23fe70a2ff7a4fe7b68b",
+    "commit_sha": "67f71b70ce4f9e6aa4a6864a460103cda9a62c1b",
+    "item_count_before": 2163,
+    "item_count_after": 2173,
+    "updatetime": "2026-11-15T13:17:30+09:00",
+    "additions": [
+      {
+        "name": "Pilates SUI Shibuya",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-12-01",
+        "category": "ピラティススタジオ（11/14〜11/29プレオープン）"
+      },
+      {
+        "name": "うちだ屋 港北みなも店",
+        "prefecture": "神奈川県",
+        "city": "横浜市都筑区",
+        "opening_date": "2026-11-26",
+        "category": "うどん・和食"
+      },
+      {
+        "name": "うちだ屋 新宮店",
+        "prefecture": "福岡県",
+        "city": "糟屋郡新宮町",
+        "opening_date": "2026-12-15",
+        "category": "うどん・和食"
+      },
+      {
+        "name": "中華そば専門 田中そば店（仙台PARCO2）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-03",
+        "category": "ラーメン"
+      },
+      {
+        "name": "ゴンチャ 仙台PARCO2店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-03",
+        "category": "ティーカフェ"
+      },
+      {
+        "name": "韓美膳 仙台PARCO2店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-10",
+        "category": "韓国料理"
+      },
+      {
+        "name": "博多天ぷらやまや 仙台PARCO2店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2027-01-28",
+        "category": "天ぷら"
+      },
+      {
+        "name": "月島もんじゃ たまとや 仙台PARCO2店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2027-01-28",
+        "category": "もんじゃ焼き"
+      },
+      {
+        "name": "博多もつ鍋おおやま 仙台PARCO2店（リニューアル）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2027-01-28",
+        "category": "もつ鍋専門店（リニューアル）"
+      },
+      {
+        "name": "タイムステーションNEO イオンモール奈良登美ヶ丘店（リニューアル）",
+        "prefecture": "奈良県",
+        "city": "生駒市",
+        "opening_date": "2026-11-14",
+        "category": "時計専門店（リニューアル）"
+      }
+    ],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "延期・新日程未定",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "現行スキーマに延期状態フィールドが確認できないため既存値を保持"
+      },
+      {
+        "name": "chocoZAP 天王町駅南",
+        "previous_opening_date": "2026-10-30",
+        "official_update": "延期・新日程未定",
+        "source_url": "https://chocozap.jp/info/22972",
+        "handling": "現行スキーマに延期状態フィールドが確認できないため既存値を保持"
+      }
+    ],
+    "possible_duplicate_candidates": [
+      {
+        "names": [
+          "ゴンチャ 秋葉原UDX店",
+          "ゴンチャ（秋葉原UDX）"
+        ],
+        "opening_date": "2026-11-19",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "handling": "公式発表の店舗名は「ゴンチャ 秋葉原UDX店」。別表記レコードの統合・削除は根拠確認前のため保留"
+      }
+    ],
+    "unconfirmed_candidates": [
+      {
+        "name": "Timberland（ジャズドリーム長島）",
+        "existing_opening_date": "2026-12-18",
+        "latest_facility_source": "2026年12月予定（正確な日付なし）",
+        "source_url": "https://prtimes.jp/a/?c=105392&f=d105392-128-99516c04603404cf812cbd67ef444519.pdf&r=128",
+        "handling": "別の確定根拠を確認できていないため既存日付は変更せず、要再確認として記録"
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "a464db424fef3044d8bb23fe70a2ff7a4fe7b68b"
+  },
+  "source_checks": [
+    {
+      "source": "株式会社DYM / 株式会社SUI official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000560.000027235.html",
+      "checked_entries": 1,
+      "added": [
+        "Pilates SUI Shibuya"
+      ],
+      "result": "2026-12-01 grand opening confirmed; 2026-11-14 to 2026-11-29 pre-open period and Shibuya-ku location confirmed."
+    },
+    {
+      "source": "株式会社うちだ屋 official press releases",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000005.000178931.html",
+        "https://prtimes.jp/main/html/rd/p/000000007.000178931.html"
+      ],
+      "checked_entries": 2,
+      "added": [
+        "うちだ屋 港北みなも店",
+        "うちだ屋 新宮店"
+      ],
+      "result": "2026-11-26 and 2026-12-15 dates, store names and cities confirmed."
+    },
+    {
+      "source": "仙台PARCO official autumn/winter new & renewal page and PARCO press release",
+      "urls": [
+        "https://sendai.parco.jp/feature/detail/?id=107308",
+        "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+      ],
+      "checked_entries": 6,
+      "added": [
+        "中華そば専門 田中そば店（仙台PARCO2）",
+        "ゴンチャ 仙台PARCO2店",
+        "韓美膳 仙台PARCO2店",
+        "博多天ぷらやまや 仙台PARCO2店",
+        "月島もんじゃ たまとや 仙台PARCO2店",
+        "博多もつ鍋おおやま 仙台PARCO2店（リニューアル）"
+      ],
+      "result": "Dates 2026-12-03, 2026-12-10 and 2027-01-28 and Sendai PARCO2 location confirmed; two new shops and one renewal in January."
+    },
+    {
+      "source": "株式会社ナカザワ official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000151263.html",
+      "checked_entries": 1,
+      "added": [
+        "タイムステーションNEO イオンモール奈良登美ヶ丘店（リニューアル）"
+      ],
+      "result": "2026-11-14 renewal date and Ikoma city location confirmed."
+    },
+    {
+      "source": "株式会社ジーアイビー / Blue Sky Laundry November 2026 official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "checked_entries": 10,
+      "matched_existing_records": 10,
+      "added": [],
+      "result": "All ten announced November 2026 locations were already present."
+    },
+    {
+      "source": "Mitsui Fudosan Commercial Management / Jazz Dream Nagashima official release and PDF",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+        "https://prtimes.jp/a/?c=105392&f=d105392-128-99516c04603404cf812cbd67ef444519.pdf&r=128"
+      ],
+      "checked_entries": 16,
+      "matched_existing_records": 16,
+      "added": [],
+      "result": "All sixteen named new/renewal records were present. The facility PDF gives only 'December 2026 planned' for Timberland, while latest.json currently has 2026-12-18; no correction was applied."
+    },
+    {
+      "source": "KFC official November 2026 new-store release",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "added": []
+    },
+    {
+      "source": "Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": []
+    },
+    {
+      "source": "chocoZAP official postponement notices",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both official notices still show new opening date as undecided; old JSON dates were preserved because schema has no documented postponement-status field."
+    }
+  ],
+  "validation": {
+    "item_count": 2173,
+    "json_parse": true,
+    "all_additions_present": true,
+    "all_old_items_preserved": true,
+    "original_item_relative_order_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": true,
+    "post_save_blob_sha": "a464db424fef3044d8bb23fe70a2ff7a4fe7b68b"
+  }
+}
