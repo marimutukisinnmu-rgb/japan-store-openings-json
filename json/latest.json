@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T15:15:21+09:00",
+  "updatetime": "2026-11-15T16:10:46+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14695,6 +14695,69 @@
       "city": "糟屋郡新宮町",
       "opening_date": "2026-12-15",
       "category": "うどん・和食"
+    },
+    {
+      "name": "おかゆと麺 粥餐庁（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "おかゆ・中華麺・点心"
+    },
+    {
+      "name": "富久栄珈琲 FUKUEI COFFEE and CHOCOLATE（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "スペシャルティコーヒー・チョコレート（期間限定）"
+    },
+    {
+      "name": "Umi&Yama Kitchen（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "サラダ・デリ"
+    },
+    {
+      "name": "ハチドリ洋麺店（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "スパゲッティ・パスタ"
+    },
+    {
+      "name": "となりのてつ（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "寿司（立ち食い）"
+    },
+    {
+      "name": "洋食 浅草軒（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "洋食"
+    },
+    {
+      "name": "スープストックトーキョー（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "スープ専門店"
+    },
+    {
+      "name": "アフタヌーンティー・ティールーム（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "紅茶・カフェ"
+    },
+    {
+      "name": "TANTOTANTO（エスパル仙台）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-15",
+      "category": "イタリアン・ピッツァ"
     },
     {
       "name": "のびっこジャンボ イオンタウン防府店",
