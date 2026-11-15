@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T20:17:13+09:00",
+  "updatetime": "2026-11-15T21:15:38+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10119,6 +10119,13 @@
       "category": "フィットネスジム（リニューアル）"
     },
     {
+      "name": "LB TENSAI 岡町店",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "opening_date": "2026-11-17",
+      "category": "ベビーカステラ専門店"
+    },
+    {
       "name": "AFFIDAMENTO BAGEL ～のくちパンマルシェ～（マルイファミリー溝口）",
       "prefecture": "神奈川県",
       "city": "川崎市高津区",
@@ -10747,6 +10754,13 @@
       "city": "木更津市",
       "opening_date": "2026-11-19",
       "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "JACK IN THE DONUTS 枚方モール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-19",
+      "category": "ドーナツ専門店"
     },
     {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
