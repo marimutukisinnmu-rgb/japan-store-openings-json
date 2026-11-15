@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T12:14:40+09:00",
+  "updatetime": "2026-11-15T13:17:30+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9678,6 +9678,13 @@
       "category": "保険相談ショップ（リニューアル）"
     },
     {
+      "name": "タイムステーションNEO イオンモール奈良登美ヶ丘店（リニューアル）",
+      "prefecture": "奈良県",
+      "city": "生駒市",
+      "opening_date": "2026-11-14",
+      "category": "時計専門店（リニューアル）"
+    },
+    {
       "name": "DOOR TO GOLF 伏石駅前店",
       "prefecture": "香川県",
       "city": "高松市",
@@ -12275,6 +12282,13 @@
       "category": "洋菓子"
     },
     {
+      "name": "うちだ屋 港北みなも店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-26",
+      "category": "うどん・和食"
+    },
+    {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -13521,6 +13535,13 @@
       "category": "レストラン（新業態）"
     },
     {
+      "name": "Pilates SUI Shibuya",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-01",
+      "category": "ピラティススタジオ（11/14〜11/29プレオープン）"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -13589,6 +13610,20 @@
       "city": "浜松市浜名区",
       "opening_date": "2026-12-03",
       "category": "作業服・作業用品"
+    },
+    {
+      "name": "中華そば専門 田中そば店（仙台PARCO2）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-03",
+      "category": "ラーメン"
+    },
+    {
+      "name": "ゴンチャ 仙台PARCO2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-03",
+      "category": "ティーカフェ"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -14543,6 +14578,13 @@
       "category": "作業服・作業用品"
     },
     {
+      "name": "韓美膳 仙台PARCO2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-10",
+      "category": "韓国料理"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -14646,6 +14688,13 @@
       "city": "半田市",
       "opening_date": "2026-12-15",
       "category": "ハンバーガー"
+    },
+    {
+      "name": "うちだ屋 新宮店",
+      "prefecture": "福岡県",
+      "city": "糟屋郡新宮町",
+      "opening_date": "2026-12-15",
+      "category": "うどん・和食"
     },
     {
       "name": "のびっこジャンボ イオンタウン防府店",
@@ -15066,6 +15115,27 @@
       "city": "名古屋市中区",
       "opening_date": "2027-01-27",
       "category": "期間限定キャラクターグッズ・ポップアップ（2027-01-27〜2027-02-02）"
+    },
+    {
+      "name": "博多天ぷらやまや 仙台PARCO2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2027-01-28",
+      "category": "天ぷら"
+    },
+    {
+      "name": "月島もんじゃ たまとや 仙台PARCO2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2027-01-28",
+      "category": "もんじゃ焼き"
+    },
+    {
+      "name": "博多もつ鍋おおやま 仙台PARCO2店（リニューアル）",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2027-01-28",
+      "category": "もつ鍋専門店（リニューアル）"
     },
     {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（福岡）",
