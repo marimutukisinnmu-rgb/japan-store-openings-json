@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T10:17:09+09:00",
+  "updatetime": "2026-11-15T11:15:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -744,6 +744,13 @@
       "city": "岡山市東区",
       "opening_date": "2026-10-01",
       "category": "接骨院・鍼灸院"
+    },
+    {
+      "name": "Workman Colors 西東京北原店",
+      "prefecture": "東京都",
+      "city": "西東京市",
+      "opening_date": "2026-10-01",
+      "category": "ファッション・カジュアルウェア"
     },
     {
       "name": "BIOTOP（御殿場プレミアム・アウトレット）",
@@ -4750,6 +4757,13 @@
       "category": "作品公式グッズ・期間限定ポップアップ（2026-10-30〜2026-11-15）"
     },
     {
+      "name": "Workman Colors イオンタウン須賀川店",
+      "prefecture": "福島県",
+      "city": "須賀川市",
+      "opening_date": "2026-10-30",
+      "category": "ファッション・カジュアルウェア"
+    },
+    {
       "name": "『Cyberpunk: Edgerunners２』（なんばマルイ）",
       "prefecture": "大阪府",
       "city": "大阪市中央区",
@@ -8040,6 +8054,13 @@
       "category": "パティスリー"
     },
     {
+      "name": "FIT-EASY 久留米国分店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-10",
+      "category": "アミューズメントフィットネスクラブ"
+    },
+    {
       "name": "cafe cocona（マルイファミリー溝口）",
       "prefecture": "神奈川県",
       "city": "川崎市高津区",
@@ -8759,6 +8780,13 @@
       "city": "岡山市東区",
       "opening_date": "2026-11-12",
       "category": "ドーナツ・飲食店"
+    },
+    {
+      "name": "monet 白髪染めと髪質改善のサロン 春日院",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-12",
+      "category": "美容室・ヘアサロン"
     },
     {
       "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（渋谷モディ）",
@@ -13542,6 +13570,13 @@
       "category": "ハンバーガー"
     },
     {
+      "name": "WORKMAN Plus 天竜店",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "opening_date": "2026-12-03",
+      "category": "作業服・作業用品"
+    },
+    {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -14485,6 +14520,13 @@
       "city": "千代田区",
       "opening_date": "2026-12-10",
       "category": "スープカレー"
+    },
+    {
+      "name": "WORKMAN Plus そよらひたち野うしく店",
+      "prefecture": "茨城県",
+      "city": "牛久市",
+      "opening_date": "2026-12-10",
+      "category": "作業服・作業用品"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
