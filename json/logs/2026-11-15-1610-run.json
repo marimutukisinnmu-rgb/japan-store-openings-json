@@ -1,0 +1,209 @@
+{
+  "run_at": "2026-11-15T16:10:46+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "f29217639a619836fb706fead1dbcd32e297d0d4",
+    "updated_blob_sha": "e1895ff3a8b6224000e6b13a792ec9ea129e697d",
+    "commit_sha": "bc19f774529c676755ae2e3bbb63a5f5afd9299e",
+    "item_count_before": 2173,
+    "item_count_after": 2182,
+    "updatetime": "2026-11-15T16:10:46+09:00",
+    "additions": [
+      {
+        "name": "おかゆと麺 粥餐庁（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "おかゆ・中華麺・点心"
+      },
+      {
+        "name": "富久栄珈琲 FUKUEI COFFEE and CHOCOLATE（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "スペシャルティコーヒー・チョコレート（期間限定）"
+      },
+      {
+        "name": "Umi&Yama Kitchen（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "サラダ・デリ"
+      },
+      {
+        "name": "ハチドリ洋麺店（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "スパゲッティ・パスタ"
+      },
+      {
+        "name": "となりのてつ（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "寿司（立ち食い）"
+      },
+      {
+        "name": "洋食 浅草軒（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "洋食"
+      },
+      {
+        "name": "スープストックトーキョー（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "スープ専門店"
+      },
+      {
+        "name": "アフタヌーンティー・ティールーム（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "紅茶・カフェ"
+      },
+      {
+        "name": "TANTOTANTO（エスパル仙台）",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-15",
+        "category": "イタリアン・ピッツァ"
+      }
+    ],
+    "corrections_applied": [],
+    "deletions": [],
+    "data_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "仙台ターミナルビル公式発表「エスパル仙台 エキチカダイニング」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000273.000149926.html",
+      "checked_entries": 14,
+      "matched_existing_records": 0,
+      "added": [
+        "おかゆと麺 粥餐庁（エスパル仙台）",
+        "富久栄珈琲 FUKUEI COFFEE and CHOCOLATE（エスパル仙台）",
+        "Umi&Yama Kitchen（エスパル仙台）",
+        "ハチドリ洋麺店（エスパル仙台）",
+        "となりのてつ（エスパル仙台）",
+        "洋食 浅草軒（エスパル仙台）",
+        "スープストックトーキョー（エスパル仙台）",
+        "アフタヌーンティー・ティールーム（エスパル仙台）",
+        "TANTOTANTO（エスパル仙台）"
+      ],
+      "result": "The facility operator's 2026-11-13 release confirms the dining-zone opening on 2026-12-15 at 11:00 and lists the tenants. Nine individually identified tenants with that opening date were added; the tenant with a separately stated 2026-12-22 date was not assigned the zone-wide date."
+    },
+    {
+      "source": "BYREDO official opening announcement via operator",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000120926.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "BYREDO神戸BAL (2026-11-27) was already registered."
+    },
+    {
+      "source": "La Prairie Japan official opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000040.000156423.html",
+      "additional_location_source": "https://www.takashimaya.co.jp/yokohama/access/",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "ラ・プレリー（横浜髙島屋1階） (2026-11-07) was already registered."
+    },
+    {
+      "source": "YOAJUNG official opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000118492.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "The 2026-11-21 to 2027-02-26 Sapporo Aurora Town pop-up is already registered."
+    },
+    {
+      "source": "KFC official November 2026 new-store list",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "added": [],
+      "result": "All nine stores listed in the official November update are already registered."
+    },
+    {
+      "source": "Subway Japan official 2026 news list",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": [],
+      "result": "The two November openings listed, 市ヶ谷東店 and サクラマチクマモト店, are already registered."
+    },
+    {
+      "source": "Ramen Butayama official news",
+      "url": "https://www.butayama.com/news",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "豚山 名古屋神の倉店 (2026-11-20) is already registered."
+    },
+    {
+      "source": "SYNRA group official Eleanor spa&treatment opening list",
+      "url": "https://synra.co.jp/news-005/",
+      "checked_entries": 3,
+      "matched_existing_records": 3,
+      "added": [],
+      "result": "郡山店, 池袋3rd店 and 沖縄北谷店 are already registered."
+    },
+    {
+      "source": "THE GUNDAM BASE official opening announcement",
+      "url": "https://www.gundam-base.net/news/81618.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "THE GUNDAM BASE SHIBUYA (2026-11-20) is already registered."
+    },
+    {
+      "source": "Benelic official Harry Potter pop-up announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000002274.000022901.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "Harry Potter Mahou Dokoro POP-UP STORE in Marunouchi (2026-11-12) is already registered."
+    }
+  ],
+  "validation": {
+    "item_count": 2182,
+    "json_parse": true,
+    "all_existing_items_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_name_date_keys": true,
+    "normalized_duplicate_candidate_groups": 3,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "e1895ff3a8b6224000e6b13a792ec9ea129e697d"
+  },
+  "unresolved": [
+    {
+      "name": "chocoZAP みずほ台二丁目",
+      "previous_opening_date": "2026-11-07",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/23365",
+      "handling": "既存値を保持。公式ページを今回再確認。"
+    },
+    {
+      "name": "chocoZAP 天王町駅南",
+      "previous_opening_date": "2026-10-30",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/22972",
+      "handling": "既存値を保持。公式ページを今回再確認。"
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "全国の全事業者・施設を網羅した調査ではない。",
+    "エスパル仙台の発表は2026-11-13時点の情報で、今後変更される可能性がある。",
+    "既存JSONには延期状態を表す正式なフィールドが確認できないため、延期2件の旧日付は変更していない。"
+  ]
+}
