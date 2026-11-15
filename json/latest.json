@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T08:14:04+09:00",
+  "updatetime": "2026-11-15T09:17:06+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9398,6 +9398,20 @@
       "category": "寿司"
     },
     {
+      "name": "ANELLA CAFE 松本店",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "opening_date": "2026-11-13",
+      "category": "保護犬猫カフェ・就労継続支援B型事業所"
+    },
+    {
+      "name": "イトーヨーカドー 大井町店（食品売場全面改装）",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-11-13",
+      "category": "総合スーパー（食品売場全面改装・リニューアル）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -11239,6 +11253,13 @@
       "category": "生活雑貨・食品・衣服"
     },
     {
+      "name": "スープカレーSAMA羽田空港店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20",
+      "category": "スープカレー専門店"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -11398,6 +11419,13 @@
       "city": "半田市",
       "opening_date": "2026-11-21",
       "category": "うなぎ専門店"
+    },
+    {
+      "name": "KOBE NET JUNGLE",
+      "prefecture": "兵庫県",
+      "city": "神戸市西区",
+      "opening_date": "2026-11-21",
+      "category": "体験型アスレチック施設"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
