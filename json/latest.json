@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-16T03:15:00+09:00",
+  "updatetime": "2026-11-16T04:19:21+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -1075,6 +1075,13 @@
       "category": "寿司・日本料理"
     },
     {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール白山店",
+      "prefecture": "石川県",
+      "city": "白山市",
+      "opening_date": "2026-10-03",
+      "category": "オーダースーツ専門店"
+    },
+    {
       "name": "CRONOS（ジャズドリーム長島）",
       "prefecture": "三重県",
       "city": "桑名市",
@@ -1831,6 +1838,13 @@
       "category": "居酒屋"
     },
     {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール松本店",
+      "prefecture": "長野県",
+      "city": "松本市",
+      "opening_date": "2026-10-10",
+      "category": "オーダースーツ専門店"
+    },
+    {
       "name": "BEAMS SPORTS（都立明治公園）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -2312,6 +2326,13 @@
       "city": "帯広市",
       "opening_date": "2026-10-16",
       "category": "鍋料理"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール座間店",
+      "prefecture": "神奈川県",
+      "city": "座間市",
+      "opening_date": "2026-10-16",
+      "category": "オーダースーツ専門店"
     },
     {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
@@ -3112,6 +3133,13 @@
       "category": "保険代理店"
     },
     {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール直方店",
+      "prefecture": "福岡県",
+      "city": "直方市",
+      "opening_date": "2026-10-23",
+      "category": "オーダースーツ専門店"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -3201,6 +3229,13 @@
       "city": "豊島区",
       "opening_date": "2026-10-24",
       "category": "期間限定ポップアップ（アウトドア7ブランド）"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール福津店",
+      "prefecture": "福岡県",
+      "city": "福津市",
+      "opening_date": "2026-10-24",
+      "category": "オーダースーツ専門店"
     },
     {
       "name": "DAISO そよらつくば学園の森店",
@@ -7403,6 +7438,13 @@
       "category": "美容用品・体験型ショップ"
     },
     {
+      "name": "KANIMACHI by 三立製菓",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-06",
+      "category": "菓子・グッズ（アンテナショップ）"
+    },
+    {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -9741,6 +9783,13 @@
       "category": "時計専門店（リニューアル）"
     },
     {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール熱田店",
+      "prefecture": "愛知県",
+      "city": "名古屋市熱田区",
+      "opening_date": "2026-11-14",
+      "category": "オーダースーツ専門店"
+    },
+    {
       "name": "DOOR TO GOLF 伏石駅前店",
       "prefecture": "香川県",
       "city": "高松市",
@@ -9991,6 +10040,48 @@
       "city": "一宮市",
       "opening_date": "2026-11-16",
       "category": "フィットネスクラブ"
+    },
+    {
+      "name": "YOGI LABO TOKYO",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-16",
+      "category": "ウェルネスカフェ"
+    },
+    {
+      "name": "DRAGON HOT POT 六本木店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-16",
+      "category": "麻辣湯専門店"
+    },
+    {
+      "name": "大あんまきの藤田屋",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-16",
+      "category": "和菓子店"
+    },
+    {
+      "name": "博多地鶏醤油らーめん・油そば ざいとん 博多バスターミナル店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-11-16",
+      "category": "ラーメン店"
+    },
+    {
+      "name": "東戸塚駅前よしだ脊椎・整形外科クリニック",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-11-16",
+      "category": "整形外科・リハビリテーション科"
+    },
+    {
+      "name": "プロソデンタルクリニック広島駅院",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-11-16",
+      "category": "歯科医院"
     },
     {
       "name": "chocoZAP 花川戸二丁目",
@@ -10490,6 +10581,13 @@
       "category": "ファッション・セレクトショップ"
     },
     {
+      "name": "SNEAKERS by emmi 神戸阪急店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-18",
+      "category": "スニーカー・ファッション"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -10817,6 +10915,13 @@
       "city": "港区",
       "opening_date": "2026-11-19",
       "category": "期間限定ポップアップ・フードイベント（2026-11-19〜2026-11-22）"
+    },
+    {
+      "name": "上海デリ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-19",
+      "category": "中華惣菜専門店"
     },
     {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
@@ -11533,6 +11638,13 @@
       "category": "チョコレート専門店"
     },
     {
+      "name": "PUNIKKO by TOKOTOYZ 福岡PARCO店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "スクイーズ専門店（期間限定）"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -11706,6 +11818,20 @@
       "city": "港区",
       "opening_date": "2026-11-21",
       "category": "期間限定ライフスタイル・ファッション雑貨ポップアップ（2026-11-21〜2026-12-06）"
+    },
+    {
+      "name": "PUNIKKO by TOKOTOYZ 河原町オーパ店",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-21",
+      "category": "スクイーズ専門店"
+    },
+    {
+      "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
+      "prefecture": "愛知県",
+      "city": "長久手市",
+      "opening_date": "2026-11-21",
+      "category": "オーダースーツ専門店"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
@@ -12077,6 +12203,13 @@
       "city": "大阪市西区",
       "opening_date": "2026-11-24",
       "category": "フィットネスジム（リニューアル）"
+    },
+    {
+      "name": "旦過市場いちばん館",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-24",
+      "category": "商業施設・市場"
     },
     {
       "name": "chocoZAP うきは吉井",
