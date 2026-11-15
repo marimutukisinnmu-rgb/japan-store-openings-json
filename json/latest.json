@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T23:11:37+09:00",
+  "updatetime": "2026-11-16T00:17:53+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5401,6 +5401,13 @@
       "category": "100円ショップ・生活雑貨"
     },
     {
+      "name": "玉もなか",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-01",
+      "category": "卵アイスもなか専門店"
+    },
+    {
       "name": "『USED BRAND FAN』（錦糸町マルイ）",
       "prefecture": "東京都",
       "city": "墨田区",
@@ -7387,6 +7394,13 @@
       "city": "大阪市都島区",
       "opening_date": "2026-11-06",
       "category": "中華料理"
+    },
+    {
+      "name": "Labo en",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-11-06",
+      "category": "美容用品・体験型ショップ"
     },
     {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
