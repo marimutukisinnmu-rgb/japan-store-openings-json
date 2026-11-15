@@ -1,0 +1,151 @@
+{
+  "run_at": "2026-11-15T09:17:06+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "283de4f42ab90bff25bd3ba643c8f70f184f3ffd",
+    "updated_blob_sha": "ab13efef81d20a2c2cf4e5abeed8bcc43906d654",
+    "commit_sha": "364ddbf7eeb3bf38dcdc1940154ab17eb29a95b9",
+    "item_count_before": 2141,
+    "item_count_after": 2145,
+    "updatetime": "2026-11-15T09:17:06+09:00",
+    "content_change": "four_verified_additions",
+    "additions": [
+      {
+        "name": "ANELLA CAFE 松本店",
+        "prefecture": "長野県",
+        "city": "松本市",
+        "opening_date": "2026-11-13",
+        "category": "保護犬猫カフェ・就労継続支援B型事業所",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000052.000049799.html"
+      },
+      {
+        "name": "イトーヨーカドー 大井町店（食品売場全面改装）",
+        "prefecture": "東京都",
+        "city": "品川区",
+        "opening_date": "2026-11-13",
+        "category": "総合スーパー（食品売場全面改装・リニューアル）",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000124.000018950.html"
+      },
+      {
+        "name": "スープカレーSAMA羽田空港店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-20",
+        "category": "スープカレー専門店",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000342.000067976.html"
+      },
+      {
+        "name": "KOBE NET JUNGLE",
+        "prefecture": "兵庫県",
+        "city": "神戸市西区",
+        "opening_date": "2026-11-21",
+        "category": "体験型アスレチック施設",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000009.000111517.html"
+      }
+    ],
+    "corrections_applied": [],
+    "correction_candidates": [
+      {
+        "name": "chocoZAP みずほ台二丁目",
+        "previous_opening_date": "2026-11-07",
+        "official_update": "2026-11-02 postponement notice; new opening date is undecided",
+        "source_url": "https://chocozap.jp/info/23365",
+        "handling": "Not changed in latest.json because the current date-only item schema has no documented postponement/status representation; retain the record and flag it rather than insert an invalid date value."
+      }
+    ],
+    "deletions": [],
+    "existing_items_preserved": true,
+    "original_item_order_preserved": true,
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "ab13efef81d20a2c2cf4e5abeed8bcc43906d654"
+  },
+  "source_checks": [
+    {
+      "source": "chocoZAP official new-store listing",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_entries": 47,
+      "matched_existing_records": 47,
+      "unmatched": []
+    },
+    {
+      "source": "Lawson official national new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_entries": 8,
+      "matched_existing_records": 8,
+      "result": "All entries with announced dates from 2026-11-19 onward matched existing records, including LAWSON＋toks等々力緑地."
+    },
+    {
+      "source": "KFC official November 2026 new-store announcement",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "unmatched": []
+    },
+    {
+      "source": "ANELLA Group official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000049799.html",
+      "store": "ANELLA CAFE 松本店",
+      "opening_date": "2026-11-13",
+      "location": "長野県松本市出川2-16-2 リバティ出川1F",
+      "result": "Exact store name, opening date, and location confirmed; absent from previous JSON."
+    },
+    {
+      "source": "Japan Airport Terminal official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000342.000067976.html",
+      "store": "スープカレーSAMA羽田空港店",
+      "opening_date": "2026-11-20",
+      "location": "羽田空港第2ターミナル地下1階",
+      "location_confirmation_url": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/tokyokuko/koban/03.html",
+      "result": "Store name, date, and terminal location confirmed; Ota-ku/Tokyo location cross-checked against official Tokyo Metropolitan Police listing."
+    },
+    {
+      "source": "Ito-Yokado official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000018950.html",
+      "store": "イトーヨーカドー 大井町店（食品売場全面改装）",
+      "opening_date": "2026-11-13",
+      "location": "東京都品川区大井1丁目3番6号",
+      "result": "Full food-floor renovation and grand reopening date confirmed; added as a renewal record, not represented as a newly established store."
+    },
+    {
+      "source": "ME Resort Tajima / KOBE NET JUNGLE official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000111517.html",
+      "store": "KOBE NET JUNGLE",
+      "opening_date": "2026-11-21",
+      "location": "兵庫県神戸市西区押部谷町高和1557-1（こうべアグリパーク内）",
+      "result": "Facility name, opening date, and location confirmed."
+    },
+    {
+      "source": "Selected recent company/brand press releases",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000004517.000018505.html",
+        "https://prtimes.jp/main/html/rd/p/000001075.000005340.html",
+        "https://prtimes.jp/main/html/rd/p/000000067.000185678.html",
+        "https://prtimes.jp/main/html/rd/p/000000030.000132305.html",
+        "https://prtimes.jp/main/html/rd/p/000000917.000061261.html",
+        "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
+        "https://prtimes.jp/main/html/rd/p/000000622.000019432.html",
+        "https://prtimes.jp/main/html/rd/p/000000122.000083916.html",
+        "https://prtimes.jp/main/html/rd/p/000000052.000120926.html"
+      ],
+      "result": "sanrio house 渋谷PARCO店, BAKERIES LAB.新百合ヶ丘店, ラーメン魁力屋 川西店（リニューアル）, VINTAGE QOO TOKYO AOYAMA, LUNA EARTH テラスモール松戸店, カフェ・ラデュレ 新丸ビル店, ばり嗎 八王子平岡町店, 富澤商店 アミュプラザ小倉店, and BYREDO神戸BAL matched existing records."
+    }
+  ],
+  "changes": {
+    "added": 4,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "errors": [],
+  "limitations": [
+    "Nationwide coverage of every operator is not guaranteed.",
+    "The みずほ台二丁目 postponement is confirmed but remains represented by its former date because no documented status field exists in the current schema.",
+    "Physical opening status was not independently checked on site."
+  ]
+}
