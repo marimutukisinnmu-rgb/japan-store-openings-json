@@ -1,0 +1,164 @@
+{
+  "run_at": "2026-11-15T20:17:13+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "7d1ad8f20a131a0ce6bcf4fbdac50f3ca1d975d6",
+    "updated_blob_sha": "8572a89d170c1618045aa547fe4538b87efeff6c",
+    "commit_sha": "a169111e2e5a4f3c29d118c0065efa37a9ae285f",
+    "item_count_before": 2194,
+    "item_count_after": 2197,
+    "updatetime": "2026-11-15T20:17:13+09:00",
+    "additions": [
+      {
+        "name": "元祖おにぽん食堂",
+        "prefecture": "岡山県",
+        "city": "岡山市北区",
+        "opening_date": "2026-10-13",
+        "category": "カフェ食堂・ご当地グルメ"
+      },
+      {
+        "name": "桐松屋",
+        "prefecture": "東京都",
+        "city": "墨田区",
+        "opening_date": "2026-12-01",
+        "category": "ドーナツ専門店"
+      },
+      {
+        "name": "コメダ和喫茶 おかげ庵 箕面小野原店",
+        "prefecture": "大阪府",
+        "city": "箕面市",
+        "opening_date": "2026-12-01",
+        "category": "和喫茶・カフェ（リブランド）"
+      }
+    ],
+    "corrections_applied": [],
+    "deletions": [],
+    "existing_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "元祖おにぽん食堂・運営者発行のPR TIMES公式発表",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000001.000190462.html",
+        "https://www.ohk.co.jp/data/52135/pages/"
+      ],
+      "checked_entries": 1,
+      "added": [
+        {
+          "name": "元祖おにぽん食堂",
+          "prefecture": "岡山県",
+          "city": "岡山市北区",
+          "opening_date": "2026-10-13",
+          "category": "カフェ食堂・ご当地グルメ"
+        }
+      ],
+      "result": "運営者発行の原文は開業日を2026-10-13、住所を岡山県岡山市北区幸町1-7 東通ビル2Fと明記。OHKの2026-11-13放送ページでも営業中を確認。Mapionの転載表示には10-09の相違があるため、一次発表の原文を優先し、転載側の日付相違をログに記録。"
+    },
+    {
+      "source": "桐松屋ドーナツ公式サイト・プレ/グランドオープン告知",
+      "urls": [
+        "https://www.kirimatsuya.com/news-newopen",
+        "https://www.kirimatsuya.com/"
+      ],
+      "checked_entries": 1,
+      "added": [
+        {
+          "name": "桐松屋",
+          "prefecture": "東京都",
+          "city": "墨田区",
+          "opening_date": "2026-12-01",
+          "category": "ドーナツ専門店"
+        }
+      ],
+      "result": "公式告知で2026-11-28プレオープン、2026-12-01グランドオープンを確認。公式サイトのSHOP情報で東京都墨田区東向島2-34-18-1Fを確認。opening_dateにはグランドオープン日を採用。"
+    },
+    {
+      "source": "株式会社オフィスK2（おかげ庵箕面小野原店の運営会社）公式店舗情報",
+      "urls": [
+        "https://officek2.co.jp/shop_post/09/"
+      ],
+      "checked_entries": 1,
+      "added": [
+        {
+          "name": "コメダ和喫茶 おかげ庵 箕面小野原店",
+          "prefecture": "大阪府",
+          "city": "箕面市",
+          "opening_date": "2026-12-01",
+          "category": "和喫茶・カフェ（リブランド）"
+        }
+      ],
+      "result": "2026-12-01リブランドオープン、〒562-0032 大阪府箕面市小野原西6-11-10を運営会社の店舗ページで確認。"
+    },
+    {
+      "source": "GYRO HOLDINGS発表・BAKERIES LAB.新百合ヶ丘店",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000001075.000005340.html"
+      ],
+      "checked_entries": 1,
+      "already_registered": [
+        "BAKERIES LAB.新百合ヶ丘店"
+      ],
+      "added": [],
+      "result": "2026-11-14開店、神奈川県川崎市麻生区万福寺4-3-1の既存レコードを確認。重複追加せず。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "NANATSU KYUSHU TEA STAND",
+      "issue": "地域情報サイトは2026-11-08開店と公式Instagram告知を引用。公式Instagramへの直接アクセスはDisabledErrorとなり、一次投稿本文を独立して確認できないため今回も追加保留。",
+      "sources": [
+        "https://konohen.media/business/nanatsu-kyushu-tea-stand/",
+        "https://www.instagram.com/nanatsu_tea/"
+      ]
+    },
+    {
+      "name": "PADDLERS COFFEE 福岡店",
+      "issue": "地域情報サイトは2026-11-06開店と報じる。公式サイトのLocationsページで確認できたのは東京本店のみで、福岡店の公式告知本文・日付を確認できなかったため追加保留。",
+      "sources": [
+        "https://konohen.media/business/paddlers-coffee-%E7%A6%8F%E5%B2%A1%E5%BA%97/",
+        "https://paddlerscoffee.com/locations/paddlers-coffee/"
+      ]
+    },
+    {
+      "name": "資さんうどん 熱田一番店",
+      "issue": "運営会社の公式発表は2027年1月下旬予定までで、日付は未確定。YYYY-MM-DD形式のopening_dateを推測で作らず追加保留。",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000411.000037031.html"
+      ]
+    },
+    {
+      "name": "居酒屋 幸屋",
+      "issue": "2026-11-20〜11-24の5日間限定の予約制営業であり、常設店舗の新規開店ではなく期間限定イベントとして扱い、今回の店舗一覧には追加しなかった。",
+      "sources": [
+        "https://prtimes.jp/main/html/rd/p/000000472.000036259.html"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "source": "NANATSU KYUSHU TEA STAND公式Instagram",
+      "error": "DisabledError: direct Instagram page could not be fetched"
+    }
+  ],
+  "limitations": [
+    "今回の照合は確認できた公式発表・候補に限定され、全国すべての事業者を網羅した調査ではない。",
+    "資さんうどん 熱田一番店は月単位の予定のみで、正確な開店日未発表のため追加していない。",
+    "NANATSUおよびPADDLERS COFFEEは一次情報の直接確認ができず、地域情報サイトの記載だけでは追加していない。",
+    "元祖おにぽん食堂は運営者発行の原文が2026-10-13を明記する一方、Mapion転載に2026-10-09の表記がある。一次発表を採用し、転載の不一致を残した。"
+  ],
+  "validation": {
+    "json_parse": true,
+    "item_count_before": 2194,
+    "item_count_after": 2197,
+    "new_records_present_once": true,
+    "existing_items_preserved_in_order": true,
+    "sorted_by_opening_date": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "exact_duplicate_name_date_keys": 0,
+    "post_save_fetch": "passed",
+    "blob_sha_matches_update_response": true
+  }
+}
