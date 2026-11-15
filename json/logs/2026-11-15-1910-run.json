@@ -1,0 +1,166 @@
+{
+  "run_at": "2026-11-15T19:10:48+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "d21bf63ab047a96427a4b03a7717a17651f1805c",
+    "updated_blob_sha": "7d1ad8f20a131a0ce6bcf4fbdac50f3ca1d975d6",
+    "commit_sha": "3ada8e24dd668521625b43b647f8ade613273d8e",
+    "item_count_before": 2193,
+    "item_count_after": 2194,
+    "updatetime": "2026-11-15T19:10:48+09:00",
+    "additions": [
+      {
+        "name": "タイムステーションNEO イオンモール日の出店（移転リニューアル）",
+        "prefecture": "東京都",
+        "city": "西多摩郡日の出町",
+        "opening_date": "2026-11-13",
+        "category": "時計専門店（移転リニューアル）"
+      }
+    ],
+    "corrections_applied": [],
+    "deletions": [],
+    "existing_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "株式会社ナカザワ公式発表・タイムステーションNEO公式店舗特設ページ",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000047.000151263.html",
+        "https://ts-neo.com/lp/2026hinode/index.html"
+      ],
+      "checked_entries": 1,
+      "added": [
+        {
+          "name": "タイムステーションNEO イオンモール日の出店（移転リニューアル）",
+          "prefecture": "東京都",
+          "city": "西多摩郡日の出町",
+          "opening_date": "2026-11-13",
+          "category": "時計専門店（移転リニューアル）"
+        }
+      ],
+      "result": "2026-11-13移転リニューアル、店舗名、東京都西多摩郡日の出町平井字三吉野桜木237-3、イオンモール日の出2Fを確認。"
+    },
+    {
+      "source": "株式会社吉野家ホールディングス発表・ばり嗎八王子平岡町店",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000622.000019432.html"
+      ],
+      "checked_entries": 1,
+      "already_registered": [
+        "ばり嗎 八王子平岡町店"
+      ],
+      "added": [],
+      "result": "公式発表の名称と日付を照合。既存JSONには空白を含む表記で2026-11-13のレコードが存在するため、重複追加せず。"
+    },
+    {
+      "source": "株式会社コシダカ公式発表・カラオケまねきねこ",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000116.000178734.html",
+        "https://prtimes.jp/main/html/rd/p/000000114.000178734.html"
+      ],
+      "checked_entries": 2,
+      "already_registered": [
+        "カラオケまねきねこ 各務原店",
+        "カラオケまねきねこ 鳥取安長店"
+      ],
+      "added": [],
+      "result": "2026-11-21各務原店、2026-12-03鳥取安長店とも既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社うかい公式発表・THE UKAI TOFUYA",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000110.000013588.html"
+      ],
+      "checked_entries": 1,
+      "already_registered": [
+        "THE UKAI TOFUYA"
+      ],
+      "added": [],
+      "result": "2026-12-12開業、東京都新宿区西新宿2-2-1の既存レコードを確認。"
+    },
+    {
+      "source": "UNCHI株式会社公式発表・世界一暇なラーメン屋 泉佐野店",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000273.000081646.html"
+      ],
+      "checked_entries": 1,
+      "already_registered": [
+        "世界一暇なラーメン屋 泉佐野店"
+      ],
+      "added": [],
+      "result": "2026-11-13開業、大阪府泉佐野市中庄894-1の既存レコードを確認。"
+    },
+    {
+      "source": "NTT都市開発・秋葉原UDX DINING＆SHOP公式発表",
+      "urls": [
+        "https://ikou.nttud.co.jp/news/detail/id/n28055.html"
+      ],
+      "checked_entries": 2,
+      "already_registered": [
+        "ゴンチャ 秋葉原UDX店",
+        "星乃珈琲店（秋葉原UDX）"
+      ],
+      "added": [],
+      "result": "先行開業日と既存レコードを照合。"
+    },
+    {
+      "source": "chocoZAP公式延期告知",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "added": [],
+      "result": "みずほ台二丁目店・天王町駅南店ともに公式発表は延期・新日程未定。既存日付を保持。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "元祖おにぽん食堂",
+      "issue": "店舗発表の開業日は2026-10-09だが、施工会社の開店後記事と地元放送局の情報は2026-10-13を示す。公式現行ページには日付の再掲がなく、実際の開業日の食い違いを解消できないため登録保留。",
+      "sources": [
+        "https://www.mapion.co.jp/news/release/000000001.000190462-all/",
+        "https://www.nest-co.net/shop/11446/",
+        "https://www.ohk.co.jp/data/52135/pages/",
+        "https://ganso-onipon.com/"
+      ]
+    },
+    {
+      "name": "NANATSU KYUSHU TEA STAND",
+      "issue": "地域情報サイトは2026-11-08開店と公式Instagram告知を引用するが、公式Instagramの直接確認ができず登録保留。",
+      "sources": [
+        "https://konohen.media/business/nanatsu-kyushu-tea-stand/",
+        "https://www.instagram.com/nanatsu_tea/"
+      ]
+    },
+    {
+      "name": "PADDLERS COFFEE 福岡店",
+      "issue": "地域情報サイト等は2026-11-06開店と報じるが、今回、公式発表による開店日を直接確認できず登録保留。",
+      "sources": [
+        "https://konohen.media/articles/paddlers-coffee-fukuoka-ropponmatsu-open-202611/",
+        "https://paddlerscoffee.com/"
+      ]
+    }
+  ],
+  "errors": [],
+  "limitations": [
+    "全国すべての事業者を網羅した調査ではなく、今回確認した公式発表・候補に限定。",
+    "既存のchocoZAP延期2件は新日程未定のため、日付フィールドを変更していない。",
+    "未解決候補は根拠が不足または日付に不一致があるため追加していない。"
+  ],
+  "validation": {
+    "json_parse": true,
+    "item_count_before": 2193,
+    "item_count_after": 2194,
+    "new_record_present_once": true,
+    "existing_items_preserved_in_order": true,
+    "sorted_by_opening_date": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "exact_duplicate_name_date_keys": 0,
+    "post_save_fetch": "passed",
+    "blob_sha_matches_update_response": true
+  }
+}
