@@ -1,0 +1,126 @@
+{
+  "run_at": "2026-11-15T14:10:02+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "a464db424fef3044d8bb23fe70a2ff7a4fe7b68b",
+    "updated_blob_sha": "bb1b00a7eed42c7a86948e16d5ece8f495e81923",
+    "commit_sha": "560790c752a491f057bf5777f15330bc03c755ef",
+    "item_count_before": 2173,
+    "item_count_after": 2173,
+    "updatetime": "2026-11-15T14:10:02+09:00",
+    "additions": [],
+    "corrections_applied": [],
+    "data_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_entries": 8,
+      "matched_existing_records": 8,
+      "added": [],
+      "result": "The announced stores dated 2026-11-19 through 2026-11-27 (including 北綾瀬駅南, 魚津末広町, 東貝塚駅前, 倉敷鶴形一丁目, ひばりが丘北, LAWSON＋toks等々力緑地, 中城屋宜, 新松戸南) were all present."
+    },
+    {
+      "source": "KFC official November 2026 new-store update",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "checked_entries": 9,
+      "matched_existing_records": 9,
+      "added": [],
+      "result": "All nine November locations listed in the official update were present in latest.json."
+    },
+    {
+      "source": "Subway official 2026 news",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": [],
+      "result": "市ヶ谷東店 (2026-11-18) and サクラマチクマモト店 (2026-11-19) were present."
+    },
+    {
+      "source": "Gong cha Japan official press releases",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "checked_entries": 3,
+      "matched_existing_records": 3,
+      "added": [],
+      "result": "The announced ゆめタウン佐賀店 (2026-11-13), イオンモール福津店 (2026-11-17), and 秋葉原UDX店 (2026-11-19) were present. The JSON also retains a second 秋葉原UDX spelling variant as a possible duplicate; no merge or deletion was made."
+    },
+    {
+      "source": "PAPABUBBLE official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "PAPABUBBLE イクスピアリ店 (2026-11-21) was already present."
+    },
+    {
+      "source": "Quil Fait Bon official announcement",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "キル フェ ボン新宿 (2026-11-28) was already present."
+    },
+    {
+      "source": "VENEX official announcement",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "added": [],
+      "result": "neverbetter (2026-11-15) was already present."
+    },
+    {
+      "source": "chocoZAP official postponement notices",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both stores still show the new opening date as 未定; previous JSON dates were retained because the current schema has no documented postponement field."
+    },
+    {
+      "source": "LOWYA 2027 spring store announcements",
+      "url": "https://www.ryutsuu.biz/store/",
+      "checked_entries": 2,
+      "added": [],
+      "result": "Two announced openings are for spring 2027 with exact dates not stated; they are beyond the current period end (2027-02-28) and were not added."
+    }
+  ],
+  "validation": {
+    "item_count": 2173,
+    "json_parse": true,
+    "all_existing_items_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "duplicate_name_date_keys": 0,
+    "sorted_by_opening_date": true,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "bb1b00a7eed42c7a86948e16d5ece8f495e81923"
+  },
+  "unresolved": [
+    {
+      "name": "chocoZAP みずほ台二丁目",
+      "previous_opening_date": "2026-11-07",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/23365",
+      "handling": "既存値を保持"
+    },
+    {
+      "name": "chocoZAP 天王町駅南",
+      "previous_opening_date": "2026-10-30",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/22972",
+      "handling": "既存値を保持"
+    },
+    {
+      "names": [
+        "ゴンチャ 秋葉原UDX店",
+        "ゴンチャ（秋葉原UDX）"
+      ],
+      "opening_date": "2026-11-19",
+      "handling": "同一店舗の別表記の可能性。統合・削除は保留"
+    }
+  ]
+}
