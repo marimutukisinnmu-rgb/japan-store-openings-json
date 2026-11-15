@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T19:10:48+09:00",
+  "updatetime": "2026-11-15T20:17:13+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -1892,6 +1892,13 @@
       "city": "世田谷区",
       "opening_date": "2026-10-13",
       "category": "コンビニ"
+    },
+    {
+      "name": "元祖おにぽん食堂",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-10-13",
+      "category": "カフェ食堂・ご当地グルメ"
     },
     {
       "name": "chocoZAP 泉中央一丁目（女性専用）",
@@ -13624,6 +13631,20 @@
       "city": "京都市下京区",
       "opening_date": "2026-12-01",
       "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "桐松屋",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-12-01",
+      "category": "ドーナツ専門店"
+    },
+    {
+      "name": "コメダ和喫茶 おかげ庵 箕面小野原店",
+      "prefecture": "大阪府",
+      "city": "箕面市",
+      "opening_date": "2026-12-01",
+      "category": "和喫茶・カフェ（リブランド）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
