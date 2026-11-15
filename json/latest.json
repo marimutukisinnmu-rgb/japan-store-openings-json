@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T17:12:14+09:00",
+  "updatetime": "2026-11-15T18:18:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -9517,6 +9517,13 @@
       "category": "100円ショップ・生活雑貨"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 海老名店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "opening_date": "2026-11-13",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -10721,6 +10728,13 @@
       "category": "フィットネスジム（リニューアル）"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 イオンモール木更津店（リニューアル）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-19",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -11391,6 +11405,20 @@
       "city": "大田区",
       "opening_date": "2026-11-20",
       "category": "スープカレー専門店"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 堺新金岡店（リニューアル）",
+      "prefecture": "大阪府",
+      "city": "堺市北区",
+      "opening_date": "2026-11-20",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 東久留米店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "東久留米市",
+      "opening_date": "2026-11-20",
+      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
@@ -13108,6 +13136,20 @@
       "category": "味噌ラーメン"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 静岡インター店（リニューアル）",
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "opening_date": "2026-11-27",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 三郷店（リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "opening_date": "2026-11-27",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -13423,6 +13465,13 @@
       "category": "中華レストラン"
     },
     {
+      "name": "京都北白川 ラーメン魁力屋 相模原中央店（リニューアル）",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "opening_date": "2026-11-29",
+      "category": "ラーメン（リニューアル）"
+    },
+    {
       "name": "chocoZAP 足立西保木間",
       "prefecture": "東京都",
       "city": "足立区",
@@ -13561,6 +13610,13 @@
       "city": "渋谷区",
       "opening_date": "2026-12-01",
       "category": "ピラティススタジオ（11/14〜11/29プレオープン）"
+    },
+    {
+      "name": "京都北白川 ラーメン魁力屋 堀川五条店（リニューアル）",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-12-01",
+      "category": "ラーメン（リニューアル）"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
