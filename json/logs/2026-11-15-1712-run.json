@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-15T17:12:14+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "e1895ff3a8b6224000e6b13a792ec9ea129e697d",
+    "updated_blob_sha": "8f7c0f13f6b0f8e4b21e687b8527f055b5a6873f",
+    "commit_sha": "dfbd6b83d6e4c7f2f2444fc699f9df3fc0862037",
+    "item_count_before": 2182,
+    "item_count_after": 2185,
+    "updatetime": "2026-11-15T17:12:14+09:00",
+    "additions": [
+      {
+        "name": "ワッツウィズ 水口アヤハディオ店",
+        "prefecture": "滋賀県",
+        "city": "甲賀市",
+        "opening_date": "2026-11-01",
+        "category": "100円ショップ・生活雑貨"
+      },
+      {
+        "name": "ワッツウィズ 平川アルク店",
+        "prefecture": "山口県",
+        "city": "山口市",
+        "opening_date": "2026-11-12",
+        "category": "100円ショップ・生活雑貨"
+      },
+      {
+        "name": "ワッツウィズ 鴨池タイヨー店",
+        "prefecture": "鹿児島県",
+        "city": "鹿児島市",
+        "opening_date": "2026-11-13",
+        "category": "100円ショップ・生活雑貨"
+      }
+    ],
+    "corrections_applied": [],
+    "deletions": [],
+    "data_items_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked_entries": 36,
+      "matched_existing_records": 36,
+      "added": [],
+      "result": "All 36 listed openings from 2026-11-01 through 2026-11-27 matched existing records with the same opening dates."
+    },
+    {
+      "source": "chocoZAP official new-store list",
+      "url": "https://chocozap.jp/studios/newest",
+      "checked_entries": 29,
+      "matched_existing_records": 29,
+      "added": [],
+      "result": "The listed openings from 2026-11-13 through 2026-11-30, including the 2026-11-17 to 2026-11-30 group, matched existing records."
+    },
+    {
+      "source": "Watts official company press releases distributed via PR TIMES",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000422.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000421.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000427.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000428.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000429.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000425.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000423.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000430.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000431.000084599.html"
+      ],
+      "checked_entries": 9,
+      "matched_existing_records": 6,
+      "added": [
+        "ワッツウィズ 水口アヤハディオ店",
+        "ワッツウィズ 平川アルク店",
+        "ワッツウィズ 鴨池タイヨー店"
+      ],
+      "result": "Nine Watts openings dated 2026-11-01 through 2026-11-15 were checked. Six were already registered; three missing records were added."
+    },
+    {
+      "source": "chocoZAP official postponement notices",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "matched_existing_records": 2,
+      "added": [],
+      "result": "Both official notices still state that the new opening dates are undecided. Existing date-only records were preserved because the schema has no verified postponement-status field."
+    }
+  ],
+  "validation": {
+    "item_count": 2185,
+    "json_parse": true,
+    "new_records_present_once": true,
+    "all_existing_items_preserved": true,
+    "required_fields_missing": 0,
+    "invalid_date_formats": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_name_date_keys": 0,
+    "post_save_fetch": "passed",
+    "post_save_blob_sha": "8f7c0f13f6b0f8e4b21e687b8527f055b5a6873f"
+  },
+  "unresolved": [
+    {
+      "name": "chocoZAP みずほ台二丁目",
+      "previous_opening_date": "2026-11-07",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/23365",
+      "handling": "既存値を保持。今回公式ページを再確認。"
+    },
+    {
+      "name": "chocoZAP 天王町駅南",
+      "previous_opening_date": "2026-10-30",
+      "official_update": "延期・新日程未定",
+      "source_url": "https://chocozap.jp/info/22972",
+      "handling": "既存値を保持。今回公式ページを再確認。"
+    },
+    {
+      "name": "スペラボ 西新井駅前店",
+      "official_update": "2026-12-01オープンとの記事タイトル",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000881.000062166.html",
+      "issue": "本文の店舗名が「南品川1丁目店」、住所が東京都足立区梅島3-26-14と記載され、タイトルと一致しない。本文リンク先の店舗詳細ページも404だったため登録を保留。"
+    }
+  ],
+  "errors": [
+    {
+      "source": "スペラボ公式店舗詳細ページへのリンク",
+      "url": "https://spalab-chintai.uk-corp.co.jp/detail/506",
+      "error": "404 Not Found",
+      "handling": "店舗名・所在地の不一致を解消できないため登録しなかった。"
+    }
+  ],
+  "limitations": [
+    "全国の全事業者・施設を網羅した調査ではない。",
+    "ローソン・chocoZAPの公式一覧は確認時点の掲載内容に基づく。",
+    "延期状態を表す正式なフィールドがJSONにないため、延期2件の旧日付は変更していない。"
+  ]
+}
