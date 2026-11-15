@@ -1,0 +1,62 @@
+{
+  "run_at": "2026-11-16T01:13:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "checked_no_new_confirmed_items",
+  "counts": {
+    "before": 2209,
+    "after": 2209,
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "additions": [],
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+    "https://prtimes.jp/a/?c=105392&f=d105392-128-99516c04603404cf812cbd67ef444519.pdf&r=128",
+    "https://prtimes.jp/main/html/rd/p/000000004.000180407.html",
+    "https://prtimes.jp/main/html/rd/p/000000004.000105230.html",
+    "https://prtimes.jp/main/html/rd/p/000000072.000174104.html",
+    "https://prtimes.jp/main/html/rd/p/000000053.000061751.html",
+    "https://prtimes.jp/main/html/rd/p/000000452.000048503.html",
+    "https://sukiya.jp/news/",
+    "https://venex-j.co.jp/news/detail/1030.html",
+    "https://prtimes.jp/topics/keywords/%E6%96%B0%E5%BA%97%E8%88%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/"
+  ],
+  "cross_checks": {
+    "三井アウトレットパーク ジャズドリーム長島": "運営会社の公式発表・添付PDFに記載された新規12店舗とリニューアル4店舗を照合。16件すべて既存JSONに一致。Timberlandは資料上「2026年12月予定」のみで、既存レコードの12月18日はこの資料だけでは再確認できないため変更せず保持。",
+    "蜜彩菓 由布院本店": "運営会社発表で2026-11-23・大分県由布市を確認。既存登録あり。",
+    "KANGOL BEAUTY SHARE SALON × Mirror Mirrors": "運営会社発表でプレオープン2026-11-01、グランドオープン2026-11-18を確認。既存登録あり。",
+    "つなぐ屋 北小岩店": "運営会社発表で2026-11-02・東京都江戸川区を確認。既存登録あり。",
+    "WIND AND SEA FUKUOKA": "運営会社発表で2026-11-07・福岡市中央区を確認。既存登録あり。",
+    "王道乃印 飛道家": "運営会社発表で2026-11-06・東京都港区を確認。既存登録あり。",
+    "neverbetter": "VENEX公式発表で2026-11-15開業を確認。既存登録あり。",
+    "スープカレーSAMA羽田空港店": "検索結果と既存JSONを照合。2026-11-20の既存登録あり。",
+    "ピース岡山": "検索結果と既存JSONを照合。2026-11-24の既存登録あり。",
+    "ゴンチャ 秋葉原UDX店": "ゴンチャ公式発表で2026-11-19・東京都千代田区を確認。既存登録あり。",
+    "すき家 16号木更津潮見店・宇都宮兵庫塚店": "すき家公式新店情報で2026-11-19を確認。両店舗とも既存登録あり。"
+  },
+  "validation": {
+    "before_count": 2209,
+    "after_count": 2209,
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_keys": 0,
+    "date_sorted": true,
+    "existing_items_changed": false,
+    "latest_timestamp_updated": true,
+    "update_commit_sha": "d5afea8947f2384120f495bcee2e790974da903a",
+    "new_blob_sha": "8334eb3e5843c0fe881e1a33bf4765fadaf1d4b7"
+  },
+  "unresolved": [
+    "Timberland（ジャズドリーム長島）は運営会社の今回の資料では2026年12月予定までしか確認できず、既存JSONの2026-12-18はこの資料単独では裏付けられない。既存値は保護。",
+    "検索で見つかった一部候補は既存JSON登録済み。今回、新規追加できる未登録の一次情報確認済み候補はなかった。"
+  ],
+  "errors": [],
+  "schedule_check": "automation status checked separately; no schedule changes made"
+}
