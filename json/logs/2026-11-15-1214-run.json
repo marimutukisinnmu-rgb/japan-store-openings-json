@@ -138,6 +138,15 @@
       "checked_entries": 1,
       "matched_existing_records": 1,
       "added": []
+    },
+    {
+      "source": "chocoZAP official postponement notices rechecked during this run",
+      "urls": [
+        "https://chocozap.jp/info/23365",
+        "https://chocozap.jp/info/22972"
+      ],
+      "checked_entries": 2,
+      "result": "Both current official notices still show the opening date as undecided; the old JSON dates were preserved because the current schema has no documented postponement-status field."
     }
   ],
   "validation": {
