@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T16:10:46+09:00",
+  "updatetime": "2026-11-15T17:12:14+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5387,6 +5387,13 @@
       "category": "まぜそば専門店"
     },
     {
+      "name": "ワッツウィズ 水口アヤハディオ店",
+      "prefecture": "滋賀県",
+      "city": "甲賀市",
+      "opening_date": "2026-11-01",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "『USED BRAND FAN』（錦糸町マルイ）",
       "prefecture": "東京都",
       "city": "墨田区",
@@ -8803,6 +8810,13 @@
       "category": "美容室・ヘアサロン"
     },
     {
+      "name": "ワッツウィズ 平川アルク店",
+      "prefecture": "山口県",
+      "city": "山口市",
+      "opening_date": "2026-11-12",
+      "category": "100円ショップ・生活雑貨"
+    },
+    {
       "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（渋谷モディ）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -9494,6 +9508,13 @@
       "city": "品川区",
       "opening_date": "2026-11-13",
       "category": "総合スーパー（食品売場全面改装・リニューアル）"
+    },
+    {
+      "name": "ワッツウィズ 鴨池タイヨー店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-13",
+      "category": "100円ショップ・生活雑貨"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
