@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-16T01:13:00+09:00",
+  "updatetime": "2026-11-16T02:20:00+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10777,6 +10777,13 @@
       "category": "ドーナツ専門店"
     },
     {
+      "name": "World Burger Shop by スカイスキャナー",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-19",
+      "category": "期間限定ポップアップ・フードイベント（2026-11-19〜2026-11-22）"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -11463,6 +11470,20 @@
       "category": "ラーメン（リニューアル）"
     },
     {
+      "name": "アートベース / 偶然はない。",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "アート・ギャラリー・クリエイティブ交流施設（グランドオープン）"
+    },
+    {
+      "name": "YEN TOWN MARKET 渋谷",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "カルチャー・アパレル・雑貨（リニューアル）"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -11629,6 +11650,13 @@
       "city": "神戸市西区",
       "opening_date": "2026-11-21",
       "category": "体験型アスレチック施設"
+    },
+    {
+      "name": "CABaN HOME @ SUPER A MARKET 青山 SPACE 2",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-21",
+      "category": "期間限定ライフスタイル・ファッション雑貨ポップアップ（2026-11-21〜2026-12-06）"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
