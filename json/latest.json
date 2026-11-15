@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-15T21:15:38+09:00",
+  "updatetime": "2026-11-15T22:10:18+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13661,6 +13661,13 @@
       "category": "和喫茶・カフェ（リブランド）"
     },
     {
+      "name": "和牛焼肉 銀座八山",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-12-01",
+      "category": "焼肉会席専門店"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -13743,6 +13750,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-03",
       "category": "ティーカフェ"
+    },
+    {
+      "name": "雨は、やさしくNo,2（東京ラーメンストリート）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-03",
+      "category": "期間限定ラーメン店（2026-12-03〜2027-05-30）"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -13995,6 +14009,13 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-05",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2026-12-05〜2026-12-13）"
+    },
+    {
+      "name": "ぱくぱくドーナツ",
+      "prefecture": "和歌山県",
+      "city": "有田郡有田川町",
+      "opening_date": "2026-12-05",
+      "category": "ドーナツ専門店"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
@@ -14541,6 +14562,13 @@
       "city": "中野区",
       "opening_date": "2026-12-09",
       "category": "惣菜・和食"
+    },
+    {
+      "name": "THIS IS MATCHA 京都ヨドバシ店",
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "opening_date": "2026-12-09",
+      "category": "テイクアウト専門ティースタンド"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
