@@ -1,0 +1,245 @@
+{
+  "run_at": "2026-11-21T06:17:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2340,
+    "added": 12,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2352
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "cb1a477e1abc4b984c1a0ffd31941e98ac60023b",
+    "after_blob_sha": "02ad3a2fbcf7c19d20663e2cf94d8d245bbd7196",
+    "commit_sha": "22c16f437324315272fc5776e496b85eb467fa9c"
+  },
+  "added_items": [
+    {
+      "name": "Be! JUICE STAND by FRESH ONE 大丸東京店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "フレッシュジュース専門店（リニューアル）"
+    },
+    {
+      "name": "揚げ処 朔（横浜モアーズ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "創作串揚げ専門店"
+    },
+    {
+      "name": "鰻とおばんざい 凪（横浜モアーズ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "うなぎ・和食・おばんざい"
+    },
+    {
+      "name": "まいばすけっと平井６丁目店",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと淵野辺カシオペア通り店",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと古淵駅東店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "Zoff 東急プラザ蒲田2階店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20",
+      "category": "メガネ・アイウェア"
+    },
+    {
+      "name": "アエナ マルイファミリー志木店",
+      "prefecture": "埼玉県",
+      "city": "志木市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・オフプライスストア"
+    },
+    {
+      "name": "スープカレーSAMA 羽田空港店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20",
+      "category": "スープカレー専門店"
+    },
+    {
+      "name": "不二家 中野ブロードウェイ店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-21",
+      "category": "洋菓子店（リニューアル）"
+    },
+    {
+      "name": "アエナ 西武飯能ぺぺ店",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-11-26",
+      "category": "化粧品・オフプライスストア"
+    },
+    {
+      "name": "アエナ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "化粧品・オフプライスストア"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社アエナ",
+      "checked": "アエナ IKEDIA店は既存JSONに登録済み。重複追加せず保持。",
+      "already_present": true,
+      "url": "https://www.aena.co.jp/news/detail/7823/"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "ローソン ひばりが丘北は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/area/kanto/index.html"
+    },
+    {
+      "publisher": "株式会社ビッグ・エー",
+      "checked": "ビッグ・エー狭山中央店、ビッグ・エー清瀬駅北口店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.biga.co.jp/newshop/"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "11月新店情報（11店舗）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "株式会社すき家",
+      "checked": "すき家 札幌平岡店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.sukiya.jp/news/index.html"
+    },
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社",
+      "checked": "SUBWAY イオンモール伊達店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://subway.co.jp/news/20261120_01/"
+    },
+    {
+      "publisher": "株式会社パルコ",
+      "checked": "仙台PARCO2の田中そば店、ゴンチャ、韓美膳、2027年1月の新店・リニューアルは既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社サン・フレッシュグループホールディングス",
+      "items": [
+        "Be! JUICE STAND by FRESH ONE 大丸東京店"
+      ],
+      "details": "2026年11月20日リニューアルオープン。東京都千代田区丸の内1-9-1 大丸東京店地階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000147312.html"
+    },
+    {
+      "publisher": "株式会社横浜岡田屋",
+      "items": [
+        "揚げ処 朔（横浜モアーズ）",
+        "鰻とおばんざい 凪（横浜モアーズ）"
+      ],
+      "details": "2026年11月20日、横浜モアーズ9階おいしいカウンターに2店舗新規オープン。神奈川県横浜市西区。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000053.000053965.html"
+    },
+    {
+      "publisher": "まいばすけっと株式会社",
+      "items": [
+        "まいばすけっと平井６丁目店",
+        "まいばすけっと淵野辺カシオペア通り店",
+        "まいばすけっと古淵駅東店"
+      ],
+      "details": "2026年11月20日同時オープン。平井6丁目店は東京都江戸川区、淵野辺カシオペア通り店は神奈川県相模原市中央区、古淵駅東店は神奈川県相模原市南区。",
+      "url": "https://www.mybasket.co.jp/news/detail/20261112140825.html"
+    },
+    {
+      "publisher": "株式会社アエナ",
+      "items": [
+        "アエナ マルイファミリー志木店",
+        "アエナ 西武飯能ぺぺ店",
+        "アエナ イオンモール伊達店"
+      ],
+      "details": "公式ニュースでそれぞれ2026年11月20日、11月26日、11月27日の開店を確認。所在地は各施設の所在市（埼玉県志木市、埼玉県飯能市、福島県伊達市）。",
+      "url": "https://www.aena.co.jp/news/"
+    },
+    {
+      "publisher": "株式会社インターメスティック／Zoff",
+      "items": [
+        "Zoff 東急プラザ蒲田2階店"
+      ],
+      "details": "公式店舗ページで2026年11月20日オープン、東京都大田区西蒲田7-69-1 東急プラザ蒲田2Fを確認。",
+      "url": "https://www.zoff.co.jp/shop/store/11430"
+    },
+    {
+      "publisher": "日本空港ビルデング株式会社",
+      "items": [
+        "スープカレーSAMA 羽田空港店"
+      ],
+      "details": "2026年11月20日、羽田空港第2ターミナル地下1階に新規オープン。東京都大田区。",
+      "url": "https://tokyo-haneda.com/site_resource/whats_new/pdf/000017913.pdf"
+    },
+    {
+      "publisher": "株式会社不二家",
+      "items": [
+        "不二家 中野ブロードウェイ店（リニューアル）"
+      ],
+      "details": "公式店舗情報で2026年11月21日11時からリニューアルオープン、東京都中野区中野5-52-15を確認。",
+      "url": "https://shop.fujiya-peko.co.jp/b/fujiya/attr/?citycode=13105&citycode=13111&citycode=13114&citycode=13119&citycode=13202&citycode=13203&citycode=13206&citycode=13214&citycode=13228"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "北前そば高田屋 新橋店",
+      "reason": "二次情報の開店日情報は見つかったが、今回の確認範囲で運営会社の公式発表を確認できず、未登録。"
+    },
+    {
+      "name": "ジミーズパラダイス",
+      "reason": "二次情報の開店日情報のみ確認。運営元・施設の一次情報で開店日を確認できず、未登録。"
+    }
+  ],
+  "verification": {
+    "item_count": 2352,
+    "updatetime": "2026-11-21T06:17:03+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "blob_sha": "02ad3a2fbcf7c19d20663e2cf94d8d245bbd7196"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T06:15:00+09:00",
+    "run_state_when_checked": "in_progress"
+  },
+  "automation_status_after_run": {
+    "is_enabled": true,
+    "note": "この実行では有効状態・スケジュールを変更していない。実行完了記録の反映は管理側で未確認。"
+  }
+}
