@@ -1,0 +1,182 @@
+{
+  "run_at": "2026-11-21T01:11:53+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_or_facility_sources",
+  "counts": {
+    "before": 2306,
+    "added": 10,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2316
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "f6d09a2901bae63f0f0b6371e52bfddc0fc90738",
+    "after_blob_sha": "66d01b019aa45ac0703526910f7c564c659d9bb3",
+    "commit_sha": "0ad9070a9b91e66681e4afae28c9c249d5a75634"
+  },
+  "added_items": [
+    {
+      "name": "アクロスプラザ和泉観音寺",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "複合商業施設（新規開業）"
+    },
+    {
+      "name": "万代（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "ココカラファイン（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "ダイソー（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "眼鏡市場（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "眼鏡販売店"
+    },
+    {
+      "name": "ソフトバンク（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "携帯電話販売・通信サービス"
+    },
+    {
+      "name": "おたからや（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "買取専門店"
+    },
+    {
+      "name": "ココス 二又瀬店",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "opening_date": "2026-11-20",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "ココス 千葉貝塚店",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "opening_date": "2026-11-28",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "ココス 富士吉田店",
+      "prefecture": "山梨県",
+      "city": "富士吉田市",
+      "opening_date": "2026-12-03",
+      "category": "ファミリーレストラン"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社PAPABUBBLE",
+      "checked": "PAPABUBBLE イクスピアリ店",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "publisher": "GYRO HOLDINGS／株式会社T.O LAB",
+      "checked": "BAKERIES LAB.砂町銀座店",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "株式会社ジーアイビー",
+      "checked": "ブルースカイランドリー 2026年11月の公表済み6店舗",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "11月20日以降の公式新店一覧掲載分",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "株式会社資さん",
+      "checked": "資さんうどん 和泉観音寺店はプレオープン11月20〜24日、グランドオープン11月25日。既存の11月25日登録を維持。",
+      "already_present": true,
+      "url": "https://www.sukesanudon.com/map/branch/map-8025/"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "大和ハウスリアルティマネジメント株式会社",
+      "items": [
+        "アクロスプラザ和泉観音寺",
+        "万代（アクロスプラザ和泉観音寺）",
+        "ココカラファイン（アクロスプラザ和泉観音寺）",
+        "ダイソー（アクロスプラザ和泉観音寺）",
+        "眼鏡市場（アクロスプラザ和泉観音寺）",
+        "ソフトバンク（アクロスプラザ和泉観音寺）",
+        "おたからや（アクロスプラザ和泉観音寺）"
+      ],
+      "url": "https://www.daiwahouse.co.jp/about/release/group/20261117164706.html"
+    },
+    {
+      "publisher": "株式会社ココスジャパン",
+      "items": [
+        "ココス 二又瀬店",
+        "ココス 千葉貝塚店",
+        "ココス 富士吉田店"
+      ],
+      "urls": [
+        "https://www.cocos-jpn.co.jp/news/2026/store/",
+        "https://www.cocos-jpn.co.jp/news/2026/store/1119-123665.html",
+        "https://www.cocos-jpn.co.jp/op33914/alist/kyushu_sasagurisen/tst6/",
+        "https://jobs.cocos-jpn.co.jp/brand-jobfind/job/Kanto/28527"
+      ]
+    }
+  ],
+  "deferred": [
+    {
+      "name": "アクロスプラザ和泉観音寺の未公表物販テナント2区画",
+      "reason": "公式発表は2027年3月以降の開業時期のみで店名・具体日付未公表のため未登録。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "reason": "既存登録を維持。公式店舗情報で11月20〜24日プレオープン、11月25日グランドオープンを確認。"
+    }
+  ],
+  "verification": {
+    "item_count": 2316,
+    "updatetime": "2026-11-21T01:11:53+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "all_old_records_preserved": true,
+    "blob_sha": "66d01b019aa45ac0703526910f7c564c659d9bb3"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T01:15:00+09:00",
+    "note": "定期タスクは有効。スケジュール変更なし。"
+  }
+}
