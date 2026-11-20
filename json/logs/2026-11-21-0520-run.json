@@ -1,0 +1,167 @@
+{
+  "run_at": "2026-11-21T05:20:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2333,
+    "added": 7,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2340
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "177d1beca0736fb9580131b8d2d56e0fb27eec76",
+    "after_blob_sha": "cb1a477e1abc4b984c1a0ffd31941e98ac60023b",
+    "commit_sha": "011370246d32c30565acf70fc3f4439854ce7d95"
+  },
+  "added_items": [
+    {
+      "name": "サブウェイ イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "マクドナルド イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー・ファストフード"
+    },
+    {
+      "name": "マクドナルド イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー・ファストフード"
+    },
+    {
+      "name": "ラ パナデリーア ドッツ（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ポップアップ（ドーナツ・スイーツ、2026-11-25〜2026-12-08）"
+    },
+    {
+      "name": "ハウス（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ポップアップ（レディース・メンズファッション、2026-11-20〜2026-11-30）"
+    },
+    {
+      "name": "KINO（キノ）（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-17",
+      "category": "期間限定ポップアップ（レディースファッション・ドッグウェア、2026-11-17〜2026-11-30）"
+    },
+    {
+      "name": "鎌倉レ・ザンジュ（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（洋菓子、2026-11-11〜2026-11-24）"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社／ワタミ株式会社",
+      "checked": "SUBWAY イオンモール伊達店は既存JSONに「SUBWAY イオンモール伊達店」として登録済み。重複追加せず保持。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html"
+    },
+    {
+      "publisher": "ファーストキッチン株式会社／ウェンディーズ・ジャパン株式会社",
+      "checked": "ウェンディーズ・ファーストキッチン ワカバウォーク店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000307.000059385.html"
+    },
+    {
+      "publisher": "株式会社FOUR SEEDS FOODS EXPRESS",
+      "checked": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://aeo.idaeo.ai/ai/four-seeds-co-jp/ja/news/"
+    },
+    {
+      "publisher": "株式会社BANDAI SPIRITS",
+      "checked": "THE GUNDAM BASE SHIBUYAは既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.gundam-base.net/news/xxxxx/"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "LAWSON＋toks等々力緑地は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社／ワタミ株式会社",
+      "items": [
+        "サブウェイ イオン三ツ境店"
+      ],
+      "details": "2026年11月20日付発表。2026年11月27日オープン。神奈川県横浜市瀬谷区三ツ境7-1 イオン三ツ境1階（107区画）。",
+      "url": "https://prtimes.jp/main/html/rd/p/000001987.000009215.html"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド イオンモール伊達店",
+        "マクドナルド イオン三ツ境店"
+      ],
+      "details": "公式クルー採用ページで両店とも2026年11月27日グランドオープンを確認。イオンモール伊達店は福島県伊達市堂ノ内、イオン三ツ境店は神奈川県横浜市瀬谷区三ツ境7-1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/07554"
+    },
+    {
+      "publisher": "日本橋高島屋S.C.",
+      "items": [
+        "ラ パナデリーア ドッツ（日本橋高島屋S.C. POP UP SHOP）",
+        "ハウス（日本橋高島屋S.C. POP UP SHOP）",
+        "KINO（キノ）（日本橋高島屋S.C. POP UP SHOP）",
+        "鎌倉レ・ザンジュ（日本橋高島屋S.C. POP UP SHOP）"
+      ],
+      "details": "公式新店・トピックス情報で出店開始日と会期を確認。すべて東京都中央区日本橋2-5-1の新館内。",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "丸亀製麺イオン三ツ境店",
+      "reason": "トリドール公式採用ページでオープニング募集は確認できるが、開店日の公式確定情報は確認できず。勤務開始予定を開店日とみなさず保留。",
+      "url": "https://jobs.toridoll.com/entry/b4ad34b9-882f-4c64-92df-864502fd72aa/"
+    },
+    {
+      "name": "ロミードーナツ（イオン三ツ境）",
+      "reason": "11月27日予定との二次情報は見つかったが、今回の確認範囲では運営元・施設の一次情報で開店日を確認できず保留。"
+    }
+  ],
+  "verification": {
+    "item_count": 2340,
+    "updatetime": "2026-11-21T05:20:00+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "all_old_records_preserved": true,
+    "blob_sha": "cb1a477e1abc4b984c1a0ffd31941e98ac60023b"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T05:15:00+09:00",
+    "run_state_when_checked": "in_progress"
+  },
+  "automation_status_after_run": {
+    "is_enabled": true,
+    "note": "この実行では有効状態・スケジュールを変更していない。完了状態の反映は管理側で未確認。"
+  }
+}
