@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T02:13:17+09:00",
+  "updatetime": "2026-11-21T03:11:26+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11804,6 +11804,13 @@
       "city": "福岡市東区",
       "opening_date": "2026-11-20",
       "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "福恩麻辣湯（サンストリート浜北）",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "opening_date": "2026-11-20",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
