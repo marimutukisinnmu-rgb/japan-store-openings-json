@@ -1,0 +1,158 @@
+{
+  "run_at": "2026-11-21T04:18:24+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2327,
+    "added": 6,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2333
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "b8a3bb5abbc220d09061a270ccfe31fd57611e5d",
+    "after_blob_sha": "177d1beca0736fb9580131b8d2d56e0fb27eec76",
+    "commit_sha": "0fed5f70f55bd7080db222f929c7ae83ac8887b8"
+  },
+  "added_items": [
+    {
+      "name": "ロビン・フッド北新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-01",
+      "category": "食品強化型ディスカウントストア"
+    },
+    {
+      "name": "MEGAドン・キホーテ Olympic 高井戸店",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-12-01",
+      "category": "総合ディスカウントストア（業態転換・リニューアル）"
+    },
+    {
+      "name": "Pilates KASANE（横浜ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-09-19",
+      "category": "ピラティススタジオ"
+    },
+    {
+      "name": "わくわくはまっこひろば みなとみらい（横浜ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-10-23",
+      "category": "短時間預かり施設"
+    },
+    {
+      "name": "ロビン・フッド亀戸店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-08",
+      "category": "食品強化型ディスカウントストア"
+    },
+    {
+      "name": "ロビン・フッド朝霞泉水店",
+      "prefecture": "埼玉県",
+      "city": "朝霞市",
+      "opening_date": "2026-12-15",
+      "category": "食品強化型ディスカウントストア"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年12月新店情報（11店舗）を照合。対象11店舗は既存JSONに登録済みで、尾張旭店の12月11日表記も一致。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8200"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "公式全国新店一覧の2026年11月20日以降の掲載分を照合。該当するローソン新店レコードはJSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "一般社団法人 日本ショッピングセンター協会",
+      "checked": "2026年11月オープンSC一覧の天満屋ハピーズ西大寺モール、イオンモール伊達は既存登録済み。",
+      "already_present": true,
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list"
+    },
+    {
+      "publisher": "イオンモール株式会社",
+      "checked": "ふくしまひらいビルの庵ど、バイセル、Introduce A to B、La pirates、ロレインアイは既存登録済み。",
+      "already_present": true,
+      "url": "https://www.kyodo.co.jp/pr/2026-11-12_4048917/"
+    },
+    {
+      "publisher": "三菱地所プロパティマネジメント株式会社",
+      "checked": "ランドマークプラザのラベイユ、フォーナインズ、null²ⁿは既存登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "items": [
+        "ロビン・フッド亀戸店",
+        "ロビン・フッド朝霞泉水店"
+      ],
+      "details": "2026年11月20日付公式発表。亀戸店は2026年12月8日、朝霞泉水店は12月15日。所在地と開店日をPDF本文で確認。",
+      "url": "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf"
+    },
+    {
+      "publisher": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "items": [
+        "ロビン・フッド北新宿店"
+      ],
+      "details": "2026年11月16日付公式発表。東京都新宿区北新宿3-9-4、2026年12月1日9時オープン。",
+      "url": "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf"
+    },
+    {
+      "publisher": "株式会社ドン・キホーテ／PPIH",
+      "items": [
+        "MEGAドン・キホーテ Olympic 高井戸店"
+      ],
+      "details": "2026年11月13日付公式発表。東京都杉並区高井戸東3-21-17、2026年12月1日リニューアルオープン。",
+      "url": "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+    },
+    {
+      "publisher": "三菱地所プロパティマネジメント株式会社",
+      "items": [
+        "Pilates KASANE（横浜ランドマークプラザ）",
+        "わくわくはまっこひろば みなとみらい（横浜ランドマークプラザ）"
+      ],
+      "details": "2026年11月17日付公式発表。Pilates KASANEは2026年9月19日、わくわくはまっこひろばは10月23日オープン。ランドマークプラザの所在地に基づき横浜市西区として登録。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+    }
+  ],
+  "deferred": [],
+  "verification": {
+    "item_count": 2333,
+    "updatetime": "2026-11-21T04:18:24+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "all_old_records_preserved": true,
+    "blob_sha": "177d1beca0736fb9580131b8d2d56e0fb27eec76"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T04:15:00+09:00",
+    "run_state_when_checked": "in_progress"
+  },
+  "automation_status_after_run": {
+    "is_enabled": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "note": "実行ランタイムの完了規則に従い、この実行後に定期タスクを無効化。スケジュール定義は保持。"
+  }
+}
