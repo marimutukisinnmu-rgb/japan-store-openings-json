@@ -287,5 +287,11 @@
     "current_run_recorded_status": "in_progress",
     "current_run_completed_at": null,
     "next_run_time_reported": "2026-11-20T20:15:00+09:00"
+  },
+  "automation_status_after_run": {
+    "is_enabled": false,
+    "schedule": "hourly at minute 15 (definition unchanged)",
+    "next_run_time_while_disabled": "2026-11-20T21:15:00+09:00",
+    "note": "最終確認時点で無効。スケジュール定義は変更されていないが、無効中は次回自動実行されない。"
   }
 }
