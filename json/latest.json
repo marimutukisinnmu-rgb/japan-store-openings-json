@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-20T23:11:14+09:00",
+  "updatetime": "2026-11-21T00:16:11+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10735,13 +10735,6 @@
       "category": "ティーカフェ"
     },
     {
-      "name": "ゴンチャ（秋葉原UDX）",
-      "prefecture": "東京都",
-      "city": "千代田区",
-      "opening_date": "2026-11-19",
-      "category": "ティーカフェ"
-    },
-    {
       "name": "サーティワンアイスクリーム イオンタウン久留米東櫛原SC店",
       "prefecture": "福岡県",
       "city": "久留米市",
@@ -11748,6 +11741,13 @@
       "city": "豊島区",
       "opening_date": "2026-11-20",
       "category": "レザーグッズ・ファッション雑貨"
+    },
+    {
+      "name": "月島もんじゃ たまとや 長野",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-20",
+      "category": "もんじゃ焼き・鉄板料理"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
@@ -13885,6 +13885,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "富澤商店 山形屋店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-28",
+      "category": "製菓・製パン材料専門店"
+    },
+    {
       "name": "しゃぶ葉 池田駅前店",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -14646,6 +14653,13 @@
       "city": "西予市",
       "opening_date": "2026-12-04",
       "category": "コンビニ"
+    },
+    {
+      "name": "大東園石和店",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "opening_date": "2026-12-04",
+      "category": "焼肉店"
     },
     {
       "name": "BONTEMPS 田川店",
@@ -15614,6 +15628,13 @@
       "category": "ベビー・キッズ服（期間限定出店、2027-02-28まで）"
     },
     {
+      "name": "横濱洋食 鷗亭",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-12-17",
+      "category": "洋食レストラン"
+    },
+    {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -15738,6 +15759,13 @@
       "city": "大阪市浪速区",
       "opening_date": "2026-12-23",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-23〜2027-01-05）"
+    },
+    {
+      "name": "SQUARE ENIX NEXUS（LUCUA SOUTH）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-23",
+      "category": "ゲーム・キャラクター公式グッズショップ"
     },
     {
       "name": "BATTLE OF TOKYO 超東京拡張展2.0（新宿マルイ 本館）",
