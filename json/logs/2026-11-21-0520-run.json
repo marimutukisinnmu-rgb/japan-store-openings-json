@@ -82,22 +82,22 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000307.000059385.html"
     },
     {
-      "publisher": "株式会社FOUR SEEDS FOODS EXPRESS",
-      "checked": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店は既存JSONに登録済み。",
-      "already_present": true,
-      "url": "https://aeo.idaeo.ai/ai/four-seeds-co-jp/ja/news/"
-    },
-    {
-      "publisher": "株式会社BANDAI SPIRITS",
-      "checked": "THE GUNDAM BASE SHIBUYAは既存JSONに登録済み。",
-      "already_present": true,
-      "url": "https://www.gundam-base.net/news/xxxxx/"
-    },
-    {
       "publisher": "株式会社ローソン",
       "checked": "LAWSON＋toks等々力緑地は既存JSONに登録済み。",
       "already_present": true,
       "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "GYRO HOLDINGS／BAKERIES LAB.",
+      "checked": "BAKERIES LAB.砂町銀座店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "BANDAI SPIRITS／THE GUNDAM BASE",
+      "checked": "THE GUNDAM BASE SHIBUYAは既存JSONに登録済み。重複追加せず保持。",
+      "already_present": true,
+      "url": "https://t.co/dYgJUyzFxv"
     }
   ],
   "sources": [
@@ -112,11 +112,18 @@
     {
       "publisher": "日本マクドナルド株式会社",
       "items": [
-        "マクドナルド イオンモール伊達店",
+        "マクドナルド イオンモール伊達店"
+      ],
+      "details": "公式クルー採用ページで2026年11月27日グランドオープンを確認。福島県伊達市堂ノ内。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/07554"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
         "マクドナルド イオン三ツ境店"
       ],
-      "details": "公式クルー採用ページで両店とも2026年11月27日グランドオープンを確認。イオンモール伊達店は福島県伊達市堂ノ内、イオン三ツ境店は神奈川県横浜市瀬谷区三ツ境7-1。",
-      "url": "https://crewrecruiting.mcdonalds.co.jp/map/07554"
+      "details": "公式クルー採用ページで2026年11月27日グランドオープンを確認。神奈川県横浜市瀬谷区三ツ境7-1 イオンスタイル三ツ境内。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/g14819"
     },
     {
       "publisher": "日本橋高島屋S.C.",
