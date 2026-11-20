@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-16T04:19:21+09:00",
+  "updatetime": "2026-11-20T19:17:30+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13808,6 +13808,13 @@
       "category": "製菓・製パン材料専門店（リニューアル）"
     },
     {
+      "name": "すき家 札幌平岡店",
+      "prefecture": "北海道",
+      "city": "札幌市清田区",
+      "opening_date": "2026-11-30",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -13920,6 +13927,34 @@
       "category": "焼肉会席専門店"
     },
     {
+      "name": "ローソン 札幌川沿２条",
+      "prefecture": "北海道",
+      "city": "札幌市南区",
+      "opening_date": "2026-12-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 稲毛駅東口通",
+      "prefecture": "千葉県",
+      "city": "千葉市稲毛区",
+      "opening_date": "2026-12-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン Ｓシーサイドライン新杉田駅",
+      "prefecture": "神奈川県",
+      "city": "横浜市磯子区",
+      "opening_date": "2026-12-01",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 那覇上之蔵大通",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "opening_date": "2026-12-01",
+      "category": "コンビニ"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -13932,6 +13967,13 @@
       "city": "伊勢原市",
       "opening_date": "2026-12-02",
       "category": "そば・和食"
+    },
+    {
+      "name": "ローソン 札幌南１４条西十二丁目",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-12-02",
+      "category": "コンビニ"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
@@ -14009,6 +14051,97 @@
       "city": "千代田区",
       "opening_date": "2026-12-03",
       "category": "期間限定ラーメン店（2026-12-03〜2027-05-30）"
+    },
+    {
+      "name": "ローソン 北広島青葉町",
+      "prefecture": "北海道",
+      "city": "北広島市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 苫小牧音羽町",
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 仙台長町南一丁目",
+      "prefecture": "宮城県",
+      "city": "仙台市太白区",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン Ｈ中野弥生町二丁目",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 横浜大口通",
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 上越北城町",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 妙高諏訪町",
+      "prefecture": "新潟県",
+      "city": "妙高市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 米原野一色",
+      "prefecture": "滋賀県",
+      "city": "米原市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 向日寺戸",
+      "prefecture": "京都府",
+      "city": "向日市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 広陵馬見北一丁目",
+      "prefecture": "奈良県",
+      "city": "北葛城郡広陵町",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 上島町生名",
+      "prefecture": "愛媛県",
+      "city": "越智郡上島町",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 南行橋駅前",
+      "prefecture": "福岡県",
+      "city": "行橋市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 壱岐柳田",
+      "prefecture": "長崎県",
+      "city": "壱岐市",
+      "opening_date": "2026-12-03",
+      "category": "コンビニ"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -14212,6 +14345,48 @@
       "city": "横浜市港北区",
       "opening_date": "2026-12-04",
       "category": "食品スーパー（リニューアル再開）"
+    },
+    {
+      "name": "ローソン 帯広大空町",
+      "prefecture": "北海道",
+      "city": "帯広市",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 早稲田鶴巻町",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 清水庵原町",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 一宮祐久",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 木津山田川",
+      "prefecture": "京都府",
+      "city": "木津川市",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 西予三瓶町",
+      "prefecture": "愛媛県",
+      "city": "西予市",
+      "opening_date": "2026-12-04",
+      "category": "コンビニ"
     },
     {
       "name": "BONTEMPS 田川店",
