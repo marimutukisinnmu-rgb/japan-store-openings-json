@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-20T20:24:30+09:00",
+  "updatetime": "2026-11-20T22:18:57+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11715,6 +11715,27 @@
       "category": "キャラクターグッズ（リニューアル）"
     },
     {
+      "name": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店",
+      "prefecture": "千葉県",
+      "city": "成田市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー専門店"
+    },
+    {
+      "name": "MOM’S TOUCH 板橋駅東口店",
+      "prefecture": "東京都",
+      "city": "北区",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー・チキン"
+    },
+    {
+      "name": "SOPRA ミーナ津田沼店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-20",
+      "category": "ペットサロン・犬の幼稚園・ペットホテル"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -11904,6 +11925,13 @@
       "category": "オーダースーツ専門店"
     },
     {
+      "name": "STREET CHURROS ならファミリー店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-11-21",
+      "category": "チュロス専門店"
+    },
+    {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
       "prefecture": "千葉県",
       "city": "船橋市",
@@ -11923,6 +11951,13 @@
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "RE:CHEESE TOKYO 銀座旗艦店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-22",
+      "category": "チーズ菓子専門店"
     },
     {
       "name": "PASOUL BLACK FRIDAY FESTA 2026",
