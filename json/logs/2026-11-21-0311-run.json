@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-11-21T03:11:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2326,
+    "added": 1,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2327
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "5579c2e1793bce5788afc1227f188e48744c94f9",
+    "after_blob_sha": "b8a3bb5abbc220d09061a270ccfe31fd57611e5d",
+    "commit_sha": "54c98c2c9577b5362518ac0cd1c8d5f03715bd89"
+  },
+  "added_items": [
+    {
+      "name": "福恩麻辣湯（サンストリート浜北）",
+      "prefecture": "静岡県",
+      "city": "浜松市浜名区",
+      "opening_date": "2026-11-20",
+      "category": "麻辣湯専門店"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社／サブウェイ公式",
+      "checked": "サブウェイ イオンモール伊達店（2026-11-27）。既存レコード SUBWAY イオンモール伊達店 と照合済み。",
+      "already_present": true,
+      "url": "https://subway.co.jp/news/20261120_01/"
+    },
+    {
+      "publisher": "タリーズコーヒージャパン株式会社",
+      "checked": "タリーズコーヒー ＆TEA イオンモール伊達店（2026-11-27）。既存登録済み。",
+      "already_present": true,
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026/11/2026_andtea_date.html"
+    },
+    {
+      "publisher": "タリーズコーヒージャパン株式会社",
+      "checked": "タリーズコーヒー with U イオンモール小山店（2026-11-18）。既存登録済み。",
+      "already_present": true,
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026/11/2026with_u_oyama.html"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月20日更新の11月新店情報11店舗。JSON内の11店舗と照合済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "GYRO HOLDINGS株式会社／株式会社T.O LAB",
+      "checked": "BAKERIES LAB.砂町銀座店（2026-11-21）。既存登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "株式会社うかい",
+      "checked": "THE UKAI TOFUYA（2026-12-12）。既存登録済み。",
+      "already_present": true,
+      "url": "https://www.ukai.co.jp/the-ukai-tofuya/"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "サンストリート浜北",
+      "items": [
+        "福恩麻辣湯（サンストリート浜北）"
+      ],
+      "details": "公式施設ページに2026年11月20日NEW OPEN、1F、福恩麻辣湯の店名を確認。施設トップで浜松市浜名区の施設と確認。",
+      "url": "https://www.sunstreet-hamakita.com/recruit/detail/91/52/"
+    }
+  ],
+  "deferred": [],
+  "verification": {
+    "item_count": 2327,
+    "updatetime": "2026-11-21T03:11:26+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "all_old_records_preserved": true,
+    "blob_sha": "b8a3bb5abbc220d09061a270ccfe31fd57611e5d"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T03:15:00+09:00",
+    "run_state_when_checked": "in_progress"
+  },
+  "automation_status_after_run": {
+    "is_enabled": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T03:15:00+09:00",
+    "note": "この実行の成功後、実行ランタイムの完了処理により無効化。スケジュール定義は保持されている。"
+  }
+}
