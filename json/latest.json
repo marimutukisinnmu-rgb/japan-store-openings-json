@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T03:11:26+09:00",
+  "updatetime": "2026-11-21T04:18:24+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -233,6 +233,13 @@
       "city": "新宿区",
       "opening_date": "2026-09-19",
       "category": "しゃぶしゃぶ"
+    },
+    {
+      "name": "Pilates KASANE（横浜ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-09-19",
+      "category": "ピラティススタジオ"
     },
     {
       "name": "キャンドゥ 静内山手店",
@@ -3145,6 +3152,13 @@
       "city": "直方市",
       "opening_date": "2026-10-23",
       "category": "オーダースーツ専門店"
+    },
+    {
+      "name": "わくわくはまっこひろば みなとみらい（横浜ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-10-23",
+      "category": "短時間預かり施設"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -14284,6 +14298,20 @@
       "category": "シューズセレクトショップ（リニューアル）"
     },
     {
+      "name": "ロビン・フッド北新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-01",
+      "category": "食品強化型ディスカウントストア"
+    },
+    {
+      "name": "MEGAドン・キホーテ Olympic 高井戸店",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-12-01",
+      "category": "総合ディスカウントストア（業態転換・リニューアル）"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -14849,6 +14877,13 @@
       "city": "所沢市",
       "opening_date": "2026-12-07",
       "category": "ハワイアンカフェ（リニューアル）"
+    },
+    {
+      "name": "ロビン・フッド亀戸店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-08",
+      "category": "食品強化型ディスカウントストア"
     },
     {
       "name": "３COINS＋plus（アトレ中野）",
@@ -15717,6 +15752,13 @@
       "city": "港区",
       "opening_date": "2026-12-15",
       "category": "ファストフード"
+    },
+    {
+      "name": "ロビン・フッド朝霞泉水店",
+      "prefecture": "埼玉県",
+      "city": "朝霞市",
+      "opening_date": "2026-12-15",
+      "category": "食品強化型ディスカウントストア"
     },
     {
       "name": "のびっこジャンボ イオンタウン防府店",
