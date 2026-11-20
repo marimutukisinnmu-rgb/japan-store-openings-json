@@ -1,0 +1,83 @@
+{
+  "run_at": "2026-11-21T08:13:58+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2361,
+    "added": 1,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2362
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "69abd9eb21c6bf0e04c595ab6365b51a321ab543",
+    "after_blob_sha": "add6255e0c425c869d2fb390bf51932182779326",
+    "commit_sha": "1813ecd1bb5085ed5dda6c979aee8a918b2d78d1"
+  },
+  "added_items": [
+    {
+      "name": "サブウェイ イオンモール神戸南店",
+      "prefecture": "兵庫県",
+      "city": "神戸市兵庫区",
+      "opening_date": "2026-11-25",
+      "category": "サンドイッチ"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月の公式新店一覧（11店舗）を照合。掲載店舗は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "公式新店一覧の11月19日〜12月4日掲載分を照合。東貝塚駅前、倉敷鶴形一丁目、ひばりが丘北、LAWSON＋toks等々力緑地、中城屋宜、新松戸南、12月1日分は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "checked": "POP MART LUCUA SOUTH店（2026年11月24日、大阪市北区）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "publisher": "キルフェボン株式会社",
+      "checked": "キル フェ ボン新宿（2026年11月28日、東京都新宿区）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社（ワタミ株式会社発表）",
+      "items": [
+        "サブウェイ イオンモール神戸南店"
+      ],
+      "details": "2026年11月25日オープン。兵庫県神戸市兵庫区中之島2-1-1 イオンモール神戸南1階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000001975.000009215.html"
+    }
+  ],
+  "deferred": [],
+  "verification": {
+    "item_count": 2362,
+    "updatetime": "2026-11-21T08:13:58+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "new_item_present": true,
+    "blob_sha": "add6255e0c425c869d2fb390bf51932182779326"
+  },
+  "errors": [],
+  "unconfirmed": [
+    "今回の検索範囲で一次情報により新規追加できたのはサブウェイ イオンモール神戸南店の1件。その他の未確認情報は推測で追加していない。"
+  ],
+  "automation_status": {
+    "checked": "管理側のタスク状態取得はツール応答404で確認できず。スケジュールや有効状態は変更していない。"
+  }
+}
