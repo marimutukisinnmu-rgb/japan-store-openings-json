@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T04:18:24+09:00",
+  "updatetime": "2026-11-21T05:20:00+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -8572,6 +8572,13 @@
       "category": "豚饅頭・中華点心（本店リニューアル）"
     },
     {
+      "name": "鎌倉レ・ザンジュ（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ポップアップ（洋菓子、2026-11-11〜2026-11-24）"
+    },
+    {
       "name": "「宅麺×ハイキュー!!」コラボポップアップ（マルイファミリー溝口）",
       "prefecture": "神奈川県",
       "city": "川崎市高津区",
@@ -10280,6 +10287,13 @@
       "category": "ベビーカステラ専門店"
     },
     {
+      "name": "KINO（キノ）（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-17",
+      "category": "期間限定ポップアップ（レディースファッション・ドッグウェア、2026-11-17〜2026-11-30）"
+    },
+    {
       "name": "AFFIDAMENTO BAGEL ～のくちパンマルシェ～（マルイファミリー溝口）",
       "prefecture": "神奈川県",
       "city": "川崎市高津区",
@@ -11827,6 +11841,13 @@
       "category": "麻辣湯専門店"
     },
     {
+      "name": "ハウス（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定ポップアップ（レディース・メンズファッション、2026-11-20〜2026-11-30）"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -12567,6 +12588,13 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "ラ パナデリーア ドッツ（日本橋高島屋S.C. POP UP SHOP）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ポップアップ（ドーナツ・スイーツ、2026-11-25〜2026-12-08）"
     },
     {
       "name": "323KASEI（セレオ八王子）",
@@ -13652,6 +13680,27 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "クレープ・スイーツ専門店"
+    },
+    {
+      "name": "サブウェイ イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "マクドナルド イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー・ファストフード"
+    },
+    {
+      "name": "マクドナルド イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "ハンバーガー・ファストフード"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
