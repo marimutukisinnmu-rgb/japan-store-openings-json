@@ -1,0 +1,160 @@
+{
+  "run_at": "2026-11-20T22:18:57+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_operator_or_company_sources",
+  "counts": {
+    "before": 2280,
+    "added": 5,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2285
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "d4215b1797586908d0340ae71dbd8c0426f22797",
+    "after_blob_sha": "730d8d9b16dcb1bd9068dd72e4e0bf9c43b1e458",
+    "commit_sha": "f43c7fbb62a8bbc6b0200188684e76566dd2ba5c"
+  },
+  "added_items": [
+    {
+      "name": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店",
+      "prefecture": "千葉県",
+      "city": "成田市",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー専門店"
+    },
+    {
+      "name": "MOM’S TOUCH 板橋駅東口店",
+      "prefecture": "東京都",
+      "city": "北区",
+      "opening_date": "2026-11-20",
+      "category": "ハンバーガー・チキン"
+    },
+    {
+      "name": "SOPRA ミーナ津田沼店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-20",
+      "category": "ペットサロン・犬の幼稚園・ペットホテル"
+    },
+    {
+      "name": "STREET CHURROS ならファミリー店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-11-21",
+      "category": "チュロス専門店"
+    },
+    {
+      "name": "RE:CHEESE TOKYO 銀座旗艦店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-22",
+      "category": "チーズ菓子専門店"
+    }
+  ],
+  "corrected_items": [],
+  "sources": [
+    {
+      "publisher": "株式会社FOUR SEEDS FOODS EXPRESS／株式会社フォーシーズ",
+      "items": [
+        "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000947.000002646.html"
+    },
+    {
+      "publisher": "株式会社MOM’S TOUCH JAPAN",
+      "items": [
+        "MOM’S TOUCH 板橋駅東口店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000129232.html"
+    },
+    {
+      "publisher": "株式会社リビアス／ソプラ銀座株式会社",
+      "items": [
+        "SOPRA ミーナ津田沼店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000179062.html"
+    },
+    {
+      "publisher": "株式会社L.B.Market",
+      "items": [
+        "STREET CHURROS ならファミリー店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000154644.html"
+    },
+    {
+      "publisher": "株式会社RE CHEESE",
+      "items": [
+        "RE:CHEESE TOKYO 銀座旗艦店"
+      ],
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000002.000192135.html",
+        "https://recheese.jp/"
+      ]
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月の新店情報11店舗",
+      "all_already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "ローソン株式会社",
+      "checked": "2026年11月20日以降に掲載された公式新店一覧",
+      "all_already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "すき家",
+      "checked": "札幌平岡店・2026年11月30日",
+      "all_already_present": true,
+      "url": "https://www.sukiya.jp/news/index.html"
+    },
+    {
+      "publisher": "株式会社PAPABUBBLE",
+      "checked": "PAPABUBBLE イクスピアリ店・2026年11月21日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "publisher": "株式会社ベイシア",
+      "checked": "Beisia Foods Park 幕張店・2026年11月18日",
+      "all_already_present": true
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "opening_date_format_errors": 0,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "original_relative_order_preserved": true,
+    "all_new_records_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches_write_result": true
+  },
+  "errors": [
+    "専用のGitHub fetch_fileアクションは呼び出し時にNOT_FOUND。GitHub repository fetchへ切り替え、内容確認・更新・再取得は成功。"
+  ],
+  "deferred": [
+    {
+      "name": "福恩麻辣湯（浜北・天童などの候補）",
+      "reason": "今回の確認では運営元の一次情報で店名・住所・開店日を一組として確定できなかったため追加せず"
+    },
+    {
+      "name": "たまとや 長野駅前店",
+      "reason": "今回の確認では運営元の一次情報を確保できなかったため追加せず"
+    }
+  ],
+  "automation_status_at_check": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "next_run_time_reported": "2026-11-20T22:15:00+09:00"
+  }
+}
