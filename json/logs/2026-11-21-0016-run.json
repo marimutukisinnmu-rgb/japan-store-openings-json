@@ -1,0 +1,200 @@
+{
+  "run_at": "2026-11-21T00:16:11+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_or_facility_sources",
+  "counts": {
+    "before": 2302,
+    "added": 5,
+    "corrected": 0,
+    "duplicate_records_removed": 1,
+    "deleted": 0,
+    "after": 2306
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "5fa3a727d6f41054b338b28254b0c941fcbd7679",
+    "after_blob_sha": "f6d09a2901bae63f0f0b6371e52bfddc0fc90738",
+    "commit_sha": "b06c96be387d46f4b7adb7ca5cf3abb9fe6d4110"
+  },
+  "added_items": [
+    {
+      "name": "月島もんじゃ たまとや 長野",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-20",
+      "category": "もんじゃ焼き・鉄板料理"
+    },
+    {
+      "name": "富澤商店 山形屋店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-28",
+      "category": "製菓・製パン材料専門店"
+    },
+    {
+      "name": "大東園石和店",
+      "prefecture": "山梨県",
+      "city": "笛吹市",
+      "opening_date": "2026-12-04",
+      "category": "焼肉店"
+    },
+    {
+      "name": "横濱洋食 鷗亭",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-12-17",
+      "category": "洋食レストラン"
+    },
+    {
+      "name": "SQUARE ENIX NEXUS（LUCUA SOUTH）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-23",
+      "category": "ゲーム・キャラクター公式グッズショップ"
+    }
+  ],
+  "removed_duplicate": [
+    {
+      "removed_name": "ゴンチャ（秋葉原UDX）",
+      "retained_name": "ゴンチャ 秋葉原UDX店",
+      "opening_date": "2026-11-19",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "reason": "同一日・同一市区・同一カテゴリの別表記レコード。ゴンチャ公式発表が示す店舗名は「ゴンチャ 秋葉原UDX店」であり、同一店舗の重複と判断して別表記の1件を除去。"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社KISSUI GROUP",
+      "items": [
+        "月島もんじゃ たまとや 長野"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000186441.html"
+    },
+    {
+      "publisher": "株式会社富澤商店",
+      "items": [
+        "富澤商店 山形屋店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000125.000083916.html"
+    },
+    {
+      "publisher": "株式会社甲羅",
+      "items": [
+        "大東園石和店"
+      ],
+      "url": "https://tohakusha.com/main/html/rd/p/000000192.000126693.html"
+    },
+    {
+      "publisher": "株式会社GRACE",
+      "items": [
+        "横濱洋食 鷗亭"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000084389.html"
+    },
+    {
+      "publisher": "JR西日本SC開発株式会社／LUCUA大阪公式",
+      "items": [
+        "SQUARE ENIX NEXUS（LUCUA SOUTH）"
+      ],
+      "url": "https://www.lucua.jp/shopguide/openclose/"
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "items": [
+        "ゴンチャ 秋葉原UDX店（重複照合）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000452.000048503.html"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社アンドエスティHD",
+      "checked": "LAKOLE サンシャインシティアルタ店",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html"
+    },
+    {
+      "publisher": "BANDAI SPIRITS／GUNDAM Official",
+      "checked": "THE GUNDAM BASE SHIBUYA",
+      "already_present": true,
+      "url": "https://gundam-official.com/news/vtv2sct18hp861frcr1z7gew"
+    },
+    {
+      "publisher": "株式会社フォンス／THE CITY BAKERY",
+      "checked": "THE CITY BAKERY 新宿、THE CITY BAKERY BISTRO RUBIN 新宿",
+      "already_present": true,
+      "url": "https://thecitybakery.jp/news/shinjuku"
+    },
+    {
+      "publisher": "ワタミ株式会社／サブウェイ",
+      "checked": "サブウェイ イオンモール伊達店、サブウェイ 市ヶ谷東店",
+      "already_present": true,
+      "url": "https://subway.co.jp/news/20261120_01/"
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "checked": "ゴンチャ 豊田 T-FACE店、ゴンチャ イオンモール伊達店、ゴンチャ 富山MAROOT店",
+      "already_present": true,
+      "url": "https://www.gongcha.co.jp/pressrelease/"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "全国の新店一覧。公表済み11月下旬・12月1〜4日分はJSONに登録済み",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月20日更新の11月新店情報。既存登録を照合",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "株式会社タリーズコーヒージャパン",
+      "checked": "タリーズコーヒー＆TEA イオンモール伊達店、with U イオンモール小山店",
+      "already_present": true,
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "ナムコ（LUCUA SOUTH）",
+      "reason": "公式情報は12月上旬予定までで、具体的な開店日が未確定のため日付を推測せず保留。",
+      "url": "https://www.lucua.jp/shopguide/openclose/"
+    },
+    {
+      "name": "Millet（あみプレミアム・アウトレット）",
+      "reason": "公式施設発表で12月中旬予定まで。具体的な日付がないため保留。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html"
+    },
+    {
+      "name": "Celule（あみプレミアム・アウトレット）",
+      "reason": "公式施設発表で12月下旬予定まで。具体的な日付がないため保留。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000805.000009047.html"
+    }
+  ],
+  "verification": {
+    "item_count": 2306,
+    "updatetime": "2026-11-21T00:16:11+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_date_keys": 0,
+    "exact_duplicate_records": 0,
+    "new_items_present": true,
+    "duplicate_gongcha_alias_absent": true,
+    "canonical_gongcha_present": true,
+    "blob_sha": "f6d09a2901bae63f0f0b6371e52bfddc0fc90738"
+  },
+  "errors": [],
+  "automation_status_after_run": {
+    "is_enabled": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T01:15:00+09:00",
+    "note": "この実行完了後、管理側の設定で定期タスクを無効化。スケジュール定義は変更していない。"
+  },
+  "run_history_note": "管理側の実行履歴は今回の実行時点で最新runを反映しておらず、前回のin_progress記録が残っていた。今回のJSON更新・再取得検証とは区別する。"
+}
