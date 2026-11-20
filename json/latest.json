@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-20T19:17:30+09:00",
+  "updatetime": "2026-11-20T20:24:30+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10588,6 +10588,13 @@
       "category": "スニーカー・ファッション"
     },
     {
+      "name": "タリーズコーヒー with U イオンモール小山店",
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "opening_date": "2026-11-18",
+      "category": "カフェ"
+    },
+    {
       "name": "CAFÉ LATORY ROOM（渋谷・HOTEL EMANON）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -11643,6 +11650,69 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-20",
       "category": "スクイーズ専門店（期間限定）"
+    },
+    {
+      "name": "アニエスベー 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨"
+    },
+    {
+      "name": "ラコステ 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "LE TALON / GRISE 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・バッグ"
+    },
+    {
+      "name": "アミパラ 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "ユナイテッドアローズ グリーンレーベル リラクシング 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル（移転）"
+    },
+    {
+      "name": "JEANASIS 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "レディースファッション（移転）"
+    },
+    {
+      "name": "RANDA 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・レディースファッション（移転）"
+    },
+    {
+      "name": "ゴンチャ さんすて岡山店（リニューアル）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ティーカフェ（リニューアル）"
+    },
+    {
+      "name": "JUMP SHOP さんすて岡山店（リニューアル）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ（リニューアル）"
     },
     {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
@@ -12828,7 +12898,7 @@
       "category": "ファッション・カジュアルウェア"
     },
     {
-      "name": "Zoff イオンモール伊達店（仮称）",
+      "name": "Zoff イオンモール伊達店",
       "prefecture": "福島県",
       "city": "伊達市",
       "opening_date": "2026-11-27",
@@ -13400,6 +13470,41 @@
       "city": "三郷市",
       "opening_date": "2026-11-27",
       "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "ゴンチャ 豊田 T-FACE店",
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "ペッパーランチ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ステーキ・ペッパーライス"
+    },
+    {
+      "name": "SHOWA NISHIKAWA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "寝具・寝装品"
+    },
+    {
+      "name": "代官山Candy apple イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "りんご飴専門店"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
@@ -15157,6 +15262,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-10",
       "category": "韓国料理"
+    },
+    {
+      "name": "ゴンチャ 富山 MAROOT店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-12-10",
+      "category": "ティーカフェ（移転リニューアル）"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
