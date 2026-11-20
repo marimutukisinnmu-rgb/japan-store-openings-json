@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T00:16:11+09:00",
+  "updatetime": "2026-11-21T01:11:53+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11750,6 +11750,62 @@
       "category": "もんじゃ焼き・鉄板料理"
     },
     {
+      "name": "アクロスプラザ和泉観音寺",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "複合商業施設（新規開業）"
+    },
+    {
+      "name": "万代（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "ココカラファイン（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "ドラッグストア"
+    },
+    {
+      "name": "ダイソー（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "眼鏡市場（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "眼鏡販売店"
+    },
+    {
+      "name": "ソフトバンク（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "携帯電話販売・通信サービス"
+    },
+    {
+      "name": "おたからや（アクロスプラザ和泉観音寺）",
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "opening_date": "2026-11-20",
+      "category": "買取専門店"
+    },
+    {
+      "name": "ココス 二又瀬店",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "opening_date": "2026-11-20",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -13892,6 +13948,13 @@
       "category": "製菓・製パン材料専門店"
     },
     {
+      "name": "ココス 千葉貝塚店",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "opening_date": "2026-11-28",
+      "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
       "name": "しゃぶ葉 池田駅前店",
       "prefecture": "大阪府",
       "city": "池田市",
@@ -14408,6 +14471,13 @@
       "city": "壱岐市",
       "opening_date": "2026-12-03",
       "category": "コンビニ"
+    },
+    {
+      "name": "ココス 富士吉田店",
+      "prefecture": "山梨県",
+      "city": "富士吉田市",
+      "opening_date": "2026-12-03",
+      "category": "ファミリーレストラン"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
