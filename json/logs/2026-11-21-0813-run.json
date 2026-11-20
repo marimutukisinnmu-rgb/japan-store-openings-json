@@ -78,6 +78,10 @@
     "今回の検索範囲で一次情報により新規追加できたのはサブウェイ イオンモール神戸南店の1件。その他の未確認情報は推測で追加していない。"
   ],
   "automation_status": {
-    "checked": "管理側のタスク状態取得はツール応答404で確認できず。スケジュールや有効状態は変更していない。"
+    "is_enabled_after_run": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T09:15:00+09:00",
+    "note": "この実行後に管理操作で有効状態をfalseへ変更。スケジュール定義は保持されているが、無効のため次回以降は実行されない。"
   }
 }
