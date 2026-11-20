@@ -1,0 +1,245 @@
+{
+  "run_at": "2026-11-21T07:11:27+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2352,
+    "added": 9,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2361
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "02ad3a2fbcf7c19d20663e2cf94d8d245bbd7196",
+    "after_blob_sha": "69abd9eb21c6bf0e04c595ab6365b51a321ab543",
+    "commit_sha": "dea2ff6a89e3b7ab224f12eb2226077e73dd4b19"
+  },
+  "added_items": [
+    {
+      "name": "BELLUNA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "レディースファッション"
+    },
+    {
+      "name": "aimerfeelイオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ランジェリー・インナー・ルームウェア"
+    },
+    {
+      "name": "サンキューマート イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "キャラクターグッズ・生活雑貨"
+    },
+    {
+      "name": "&choa! イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "韓国コスメ・ビューティー雑貨"
+    },
+    {
+      "name": "福島日産 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "自動車ショールーム・販売相談"
+    },
+    {
+      "name": "SAAD イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シルバーアクセサリー・レザーアイテム"
+    },
+    {
+      "name": "OWNDAYS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "メガネ・アイウェア"
+    },
+    {
+      "name": "LAZY SUNDAY BAKERY 大阪本町店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-21",
+      "category": "ベーカリー・スイーツ"
+    },
+    {
+      "name": "コムサステージ銀座店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-21",
+      "category": "ファッション・雑貨・カフェ"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社サイプレス",
+      "checked": "銀座惣菜店 イオンモール伊達店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月の公式新店一覧（11店舗）を照合。掲載店舗は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "公式新店一覧の2026年11月20日〜12月4日掲載分を照合。既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社",
+      "checked": "SUBWAY イオンモール伊達店、SUBWAY イオン三ツ境店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://subway.co.jp/news/20261120_01/"
+    },
+    {
+      "publisher": "株式会社キャンドゥ",
+      "checked": "Can★Do イオンモール伊達店は表記差のある既存レコード「Can★Do(キャンドゥ) イオンモール伊達店」として登録済み。",
+      "already_present": true,
+      "url": "https://www.cando-web.co.jp/news/store/newstore/detail_001026"
+    },
+    {
+      "publisher": "株式会社インターメスティック／Zoff",
+      "checked": "Zoff イオンモール伊達店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.zoff.com/news/20261118-9131/"
+    },
+    {
+      "publisher": "株式会社スマートクール",
+      "checked": "スマートクール イオンモール伊達店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://smartcool-group.com/"
+    },
+    {
+      "publisher": "株式会社サイプレス",
+      "checked": "銀座惣菜店 イオンモール伊達店は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社ベルーナ",
+      "items": [
+        "BELLUNA イオンモール伊達店"
+      ],
+      "details": "2026年11月27日オープン。福島県伊達市、イオンモール伊達2階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000743.000016236.html"
+    },
+    {
+      "publisher": "ソックコウベ株式会社",
+      "items": [
+        "aimerfeelイオンモール伊達店"
+      ],
+      "details": "2026年11月27日グランドオープン。福島県伊達市、イオンモール伊達。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000023061.html"
+    },
+    {
+      "publisher": "エルソニック株式会社",
+      "items": [
+        "サンキューマート イオンモール伊達店"
+      ],
+      "details": "2026年11月27日グランドオープン。福島県伊達市、イオンモール伊達3階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000852.000002319.html"
+    },
+    {
+      "publisher": "株式会社セキド",
+      "items": [
+        "&choa! イオンモール伊達店"
+      ],
+      "details": "2026年11月27日オープン。福島県伊達市、イオンモール伊達。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000466.000044062.html"
+    },
+    {
+      "publisher": "福島日産自動車株式会社",
+      "items": [
+        "福島日産 イオンモール伊達店"
+      ],
+      "details": "2026年11月27日グランドオープン。福島県伊達市、イオンモール伊達1階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000129846.html"
+    },
+    {
+      "publisher": "株式会社SAAD",
+      "items": [
+        "SAAD イオンモール伊達店"
+      ],
+      "details": "公式サイトで2026年11月27日オープンを確認。福島県伊達市、イオンモール伊達。",
+      "url": "https://storesaad.com/"
+    },
+    {
+      "publisher": "OWNDAYS株式会社",
+      "items": [
+        "OWNDAYS イオンモール伊達店"
+      ],
+      "details": "公式新店情報で2026年11月27日オープン。福島県伊達市、イオンモール伊達2階。",
+      "url": "https://www.owndays.com/jp/ja/information/1107"
+    },
+    {
+      "publisher": "株式会社Light House",
+      "items": [
+        "LAZY SUNDAY BAKERY 大阪本町店"
+      ],
+      "details": "2026年11月21日オープン。大阪府大阪市中央区瓦町1-4-15 1階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000125240.html"
+    },
+    {
+      "publisher": "株式会社ファイブフォックス",
+      "items": [
+        "コムサステージ銀座店"
+      ],
+      "details": "2026年11月21日オープン。東京都中央区銀座1丁目4-13 GINZA SAKURA PLAZA 1・2階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000001216.000014225.html"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "ペットショップふしみ 伊達店",
+      "reason": "運営元公式ページで11月20日プレオープン、11月27日グランドオープンを確認。ただし既存の「ペットワールド アミーゴ（イオンモール伊達 外部棟）」内の店舗として案内されており、同一施設の二重計上を避けるため今回は追加保留。",
+      "url": "https://www.ps1shop.com/shops/amigo_date"
+    }
+  ],
+  "verification": {
+    "item_count": 2361,
+    "updatetime": "2026-11-21T07:11:27+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "blob_sha": "69abd9eb21c6bf0e04c595ab6365b51a321ab543"
+  },
+  "errors": [
+    {
+      "source": "OWNDAYS公式新店情報",
+      "issue": "ページの直接展開は取得エラーとなったが、公式ドメインの検索結果に店舗名・開店日・所在地が明記されていたため、公式検索結果に基づき登録。"
+    }
+  ],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T07:15:00+09:00",
+    "run_state_when_checked": "in_progress"
+  },
+  "automation_status_after_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "note": "この実行では有効状態・スケジュールを変更していない。管理側の実行完了記録は未反映。"
+  }
+}
