@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T06:17:03+09:00",
+  "updatetime": "2026-11-21T07:11:27+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12114,6 +12114,20 @@
       "category": "洋菓子店（リニューアル）"
     },
     {
+      "name": "LAZY SUNDAY BAKERY 大阪本町店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-21",
+      "category": "ベーカリー・スイーツ"
+    },
+    {
+      "name": "コムサステージ銀座店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-21",
+      "category": "ファッション・雑貨・カフェ"
+    },
+    {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
       "prefecture": "千葉県",
       "city": "船橋市",
@@ -13785,6 +13799,55 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "化粧品・オフプライスストア"
+    },
+    {
+      "name": "BELLUNA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "レディースファッション"
+    },
+    {
+      "name": "aimerfeelイオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ランジェリー・インナー・ルームウェア"
+    },
+    {
+      "name": "サンキューマート イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "キャラクターグッズ・生活雑貨"
+    },
+    {
+      "name": "&choa! イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "韓国コスメ・ビューティー雑貨"
+    },
+    {
+      "name": "福島日産 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "自動車ショールーム・販売相談"
+    },
+    {
+      "name": "SAAD イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シルバーアクセサリー・レザーアイテム"
+    },
+    {
+      "name": "OWNDAYS イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "メガネ・アイウェア"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
