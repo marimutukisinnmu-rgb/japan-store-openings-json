@@ -1,0 +1,290 @@
+{
+  "run_at": "2026-11-20T23:11:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_operator_or_company_sources",
+  "counts": {
+    "before": 2285,
+    "added": 17,
+    "corrected": 0,
+    "deleted": 0,
+    "after": 2302
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "730d8d9b16dcb1bd9068dd72e4e0bf9c43b1e458",
+    "after_blob_sha": "5fa3a727d6f41054b338b28254b0c941fcbd7679",
+    "commit_sha": "960a8a7ff813a6c7c0fd345c1ba2d2eddac4ae1d"
+  },
+  "added_items": [
+    {
+      "name": "BAKERIES LAB.砂町銀座店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-11-21",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "MERLE（メルル）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-22",
+      "category": "ドッグカフェ"
+    },
+    {
+      "name": "GINZA TOKYO 樂 gaku",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-22",
+      "category": "和菓子・日本茶専門店"
+    },
+    {
+      "name": "H’s CREAM イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "クレープ・スイーツ専門店"
+    },
+    {
+      "name": "PAÑPURI WELLNESS SUITE",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-29",
+      "category": "スパトリートメント施設（PAÑPURI青山2階）"
+    },
+    {
+      "name": "BONAVENTURA 西武池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-20",
+      "category": "レザーグッズ・ファッション雑貨"
+    },
+    {
+      "name": "富澤商店 東京ソラマチ店（移転リニューアル）",
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "opening_date": "2026-11-30",
+      "category": "製菓・製パン材料専門店（移転リニューアル）"
+    },
+    {
+      "name": "フォーナインズ（横浜ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-12-01",
+      "category": "アイウェア・眼鏡"
+    },
+    {
+      "name": "null²ⁿ（ヌルヌルネクサス）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-10-14",
+      "category": "常設ミュージアムシアター"
+    },
+    {
+      "name": "QUEEN SHOP（ルクア イーレ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "ケンエレスタンド（ルクア イーレ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "ファンファンマーケット（ルクア イーレ・ザ・キッス プラス内）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "キャラクターIP・アクセサリー"
+    },
+    {
+      "name": "LAH（ルクア イーレ・va内）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "ジュエリー"
+    },
+    {
+      "name": "ABAHOUSE（ルクア イーレ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "メンズファッション"
+    },
+    {
+      "name": "マックロ（ルクア イーレ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "メンズアパレル"
+    },
+    {
+      "name": "CRONOS（ルクア イーレ）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アクティブウェア"
+    },
+    {
+      "name": "ラ セッションズ（ルクア イーレ・リニューアル）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "シューズセレクトショップ（リニューアル）"
+    }
+  ],
+  "corrected_items": [],
+  "sources": [
+    {
+      "publisher": "GYRO HOLDINGS／株式会社T.O LAB",
+      "items": [
+        "BAKERIES LAB.砂町銀座店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "有限会社マンゴースィーツインターナショナル（東京新聞掲載）",
+      "items": [
+        "H’s CREAM イオンモール伊達店"
+      ],
+      "url": "https://adv.tokyo-np.co.jp/prtimes/article228220/"
+    },
+    {
+      "publisher": "KICOKICO合同会社",
+      "items": [
+        "MERLE（メルル）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000193773.html"
+    },
+    {
+      "publisher": "日本光輝株式会社",
+      "items": [
+        "GINZA TOKYO 樂 gaku"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000187849.html"
+    },
+    {
+      "publisher": "パンピューリジャパン株式会社",
+      "items": [
+        "PAÑPURI WELLNESS SUITE"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000046.000070264.html"
+    },
+    {
+      "publisher": "BONAVENTURA株式会社",
+      "items": [
+        "BONAVENTURA 西武池袋店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000305.000024686.html"
+    },
+    {
+      "publisher": "株式会社富澤商店",
+      "items": [
+        "富澤商店 東京ソラマチ店（移転リニューアル）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000127.000083916.html"
+    },
+    {
+      "publisher": "株式会社ジェイアール西日本伊勢丹",
+      "items": [
+        "QUEEN SHOP（ルクア イーレ）",
+        "ケンエレスタンド（ルクア イーレ）",
+        "ファンファンマーケット（ルクア イーレ・ザ・キッス プラス内）",
+        "LAH（ルクア イーレ・va内）",
+        "ABAHOUSE（ルクア イーレ）",
+        "マックロ（ルクア イーレ）",
+        "CRONOS（ルクア イーレ）",
+        "ラ セッションズ（ルクア イーレ・リニューアル）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000461.000021989.html"
+    },
+    {
+      "publisher": "三菱地所プロパティマネジメント株式会社",
+      "items": [
+        "フォーナインズ（横浜ランドマークプラザ）",
+        "null²ⁿ（ヌルヌルネクサス）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社WithGreen",
+      "checked": "WithGreen 光が丘IMA店・2026年11月26日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "checked": "POP MART LUCUA SOUTH店・2026年11月24日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "publisher": "キルフェボン株式会社",
+      "checked": "キル フェ ボン新宿・2026年11月28日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+    },
+    {
+      "publisher": "ワタミ株式会社／WATAMI FAST CASUAL MANAGEMENT",
+      "checked": "SUBWAY イオンモール伊達店・2026年11月27日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html"
+    },
+    {
+      "publisher": "株式会社PAPABUBBLE",
+      "checked": "PAPABUBBLE イクスピアリ店・2026年11月21日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "publisher": "アトリエ株式会社",
+      "checked": "桐松屋・2026年12月1日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+    },
+    {
+      "publisher": "株式会社セカンドリテイリング",
+      "checked": "カプセル楽局 PREMIUM 経堂店、セカンドストリート ミスターマックス町田多摩境店などの11月出店一覧",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html"
+    },
+    {
+      "publisher": "株式会社トゥモローランド",
+      "checked": "CABaN HOME @ SUPER A MARKET 青山 SPACE 2・2026年11月21日",
+      "all_already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001000.000050309.html"
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "opening_date_format_errors": 0,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "original_relative_order_preserved": true,
+    "all_new_records_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches_write_result": true
+  },
+  "errors": [],
+  "deferred": [
+    {
+      "name": "セカンドストリート 淵野辺店／既存登録「セカンドストリート 淵野辺南店」",
+      "reason": "セカンドリテイリングの公式発表画像では「淵野辺店」と読める一方、JSONには同日・同市の「淵野辺南店」が登録済み。住所・店舗同一性を確定できないため、重複追加・名称修正をせず保留。"
+    }
+  ],
+  "automation_status_at_check": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "next_run_time_reported": "2026-11-20T23:15:00+09:00"
+  }
+}
