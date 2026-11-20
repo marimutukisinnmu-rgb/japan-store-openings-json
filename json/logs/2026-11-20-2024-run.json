@@ -1,0 +1,291 @@
+{
+  "run_at": "2026-11-20T20:24:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_operator_or_company_sources",
+  "counts": {
+    "before": 2264,
+    "added": 16,
+    "corrected": 1,
+    "deleted": 0,
+    "after": 2280
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "0bc05f2bab889852489f4caab063b2da33ff3604",
+    "after_blob_sha": "d4215b1797586908d0340ae71dbd8c0426f22797",
+    "commit_sha": "179f2e52a69f24bbe73f418515e0a6cae0bfa41a"
+  },
+  "added_items": [
+    {
+      "name": "タリーズコーヒー with U イオンモール小山店",
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "opening_date": "2026-11-18",
+      "category": "カフェ"
+    },
+    {
+      "name": "アニエスベー 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・雑貨"
+    },
+    {
+      "name": "ラコステ 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル"
+    },
+    {
+      "name": "LE TALON / GRISE 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・バッグ"
+    },
+    {
+      "name": "アミパラ 岡山一番街店",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "ユナイテッドアローズ グリーンレーベル リラクシング 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ファッション・アパレル（移転）"
+    },
+    {
+      "name": "JEANASIS 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "レディースファッション（移転）"
+    },
+    {
+      "name": "RANDA 岡山一番街店（移転）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "シューズ・レディースファッション（移転）"
+    },
+    {
+      "name": "ゴンチャ さんすて岡山店（リニューアル）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "ティーカフェ（リニューアル）"
+    },
+    {
+      "name": "JUMP SHOP さんすて岡山店（リニューアル）",
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "opening_date": "2026-11-20",
+      "category": "キャラクターグッズ（リニューアル）"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "ゴンチャ 豊田 T-FACE店",
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "opening_date": "2026-11-27",
+      "category": "ティーカフェ"
+    },
+    {
+      "name": "ペッパーランチ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ステーキ・ペッパーライス"
+    },
+    {
+      "name": "SHOWA NISHIKAWA イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "寝具・寝装品"
+    },
+    {
+      "name": "代官山Candy apple イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "りんご飴専門店"
+    },
+    {
+      "name": "ゴンチャ 富山 MAROOT店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-12-10",
+      "category": "ティーカフェ（移転リニューアル）"
+    }
+  ],
+  "corrected_items": [
+    {
+      "from": {
+        "name": "Zoff イオンモール伊達店（仮称）",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27",
+        "category": "メガネ・アイウェア"
+      },
+      "to": {
+        "name": "Zoff イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27",
+        "category": "メガネ・アイウェア"
+      },
+      "reason": "運営会社の公式発表で正式店名が確定したため、仮称表記を除去"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "タリーズコーヒージャパン株式会社",
+      "items": [
+        "タリーズコーヒー with U イオンモール小山店",
+        "タリーズコーヒー ＆TEA イオンモール伊達店"
+      ],
+      "urls": [
+        "https://www.tullys.co.jp/company/pressrelease/2026/11/2026with_u_oyama.html",
+        "https://www.tullys.co.jp/company/pressrelease/2026/11/2026_andtea_date.html"
+      ]
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "items": [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 富山 MAROOT店"
+      ],
+      "urls": [
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1330bbdabdac70b0c3050fcef182a651.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1826adfdec6bd224698b6a3c74b69a16.pdf"
+      ]
+    },
+    {
+      "publisher": "株式会社ホットパレット",
+      "items": [
+        "ペッパーランチ イオンモール伊達店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000244.000070820.html"
+    },
+    {
+      "publisher": "昭和西川株式会社",
+      "items": [
+        "SHOWA NISHIKAWA イオンモール伊達店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000443.000031377.html"
+    },
+    {
+      "publisher": "株式会社MARU",
+      "items": [
+        "代官山Candy apple イオンモール伊達店"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000046377.html"
+    },
+    {
+      "publisher": "山陽SC開発株式会社",
+      "items": [
+        "アニエスベー 岡山一番街店",
+        "ラコステ 岡山一番街店",
+        "LE TALON / GRISE 岡山一番街店",
+        "アミパラ 岡山一番街店",
+        "ユナイテッドアローズ グリーンレーベル リラクシング 岡山一番街店（移転）",
+        "JEANASIS 岡山一番街店（移転）",
+        "RANDA 岡山一番街店（移転）",
+        "ゴンチャ さんすて岡山店（リニューアル）",
+        "JUMP SHOP さんすて岡山店（リニューアル）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000147296.html",
+      "supporting_images": [
+        "https://prcdn.freetls.fastly.net/release_image/147296/17/147296-17-e24af809df59e97b346994acf27fcfc4-1280x720.jpg",
+        "https://prcdn.freetls.fastly.net/release_image/147296/17/147296-17-c446a84db9e976f319957abbad9c7170-1280x720.jpg",
+        "https://prcdn.freetls.fastly.net/release_image/147296/17/147296-17-7cb010c87b454ff1a72eaf1623bdbad4-1144x331.jpg"
+      ]
+    },
+    {
+      "publisher": "株式会社インターメスティック",
+      "items": [
+        "Zoff イオンモール伊達店（正式名称確認）"
+      ],
+      "url": "https://prtimes.jp/main/html/rd/p/000001061.000002864.html"
+    },
+    {
+      "publisher": "WATAMI FAST CASUAL MANAGEMENT株式会社／サブウェイ",
+      "items": [
+        "SUBWAY イオンモール伊達店（既存登録を照合・追加なし）"
+      ],
+      "url": "https://subway.co.jp/news/20261120_01/"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "ローソン株式会社",
+      "checked": "2026年11月20日以降の公式新店一覧",
+      "all_already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月の新店一覧11店舗",
+      "all_already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "イオンモール伊達の新規テナント候補",
+      "checked": "公式運営会社発表と既存JSONを店名・開店日で照合",
+      "new_candidates_added_only_if_missing": true
+    }
+  ],
+  "verification": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "opening_date_format_errors": 0,
+    "duplicate_name_date_keys": 0,
+    "opening_date_sorted": true,
+    "existing_records_preserved_except_one_confirmed_name_correction": true,
+    "original_relative_order_preserved": true,
+    "all_new_records_present": true,
+    "corrected_record_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches_write_result": true
+  },
+  "errors": [
+    "サブウェイ公式ページはページ本文の取得に失敗したが、公式検索結果で店舗名・開店日・所在地を確認。該当店は既にJSON登録済みのため追加処理には依存していない。"
+  ],
+  "deferred": [
+    {
+      "name": "index（岡山一番街）",
+      "announced_opening": "2026年12月上旬",
+      "reason": "日付が『12月上旬』までのため、日付を推測せず保留"
+    },
+    {
+      "name": "Bleu Bleuet（岡山一番街）",
+      "announced_opening": "2026年12月上旬",
+      "reason": "日付が『12月上旬』までのため、日付を推測せず保留"
+    },
+    {
+      "name": "graniph（岡山一番街）",
+      "announced_opening": "2027年2月下旬",
+      "reason": "日付が『2月下旬』までのため、日付を推測せず保留"
+    }
+  ],
+  "automation_status_at_check": {
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "next_run_time_reported": "2026-11-20T20:15:00+09:00"
+  }
+}
