@@ -1,0 +1,176 @@
+{
+  "run_at": "2026-11-21T02:13:17+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2316,
+    "added": 10,
+    "corrected": 1,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2326
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "66d01b019aa45ac0703526910f7c564c659d9bb3",
+    "after_blob_sha": "5579c2e1793bce5788afc1227f188e48744c94f9",
+    "commit_sha": "d878677d648d2f2beadf81c56a6b18d3bc65fb8a"
+  },
+  "added_items": [
+    {
+      "name": "ケンタッキーフライドチキン アピタ刈谷店",
+      "prefecture": "愛知県",
+      "city": "刈谷市",
+      "opening_date": "2026-12-04",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンモール姫路大津店",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-12-05",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イズミヤ千里丘店",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "opening_date": "2026-12-10",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 麻布十番店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-15",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン フジグラン広島店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-12-19",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 祖師ヶ谷大蔵店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-12-29",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオン小平店",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-12-29",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 新小岩駅南口店",
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "opening_date": "2026-12-30",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 玉出南港通り店",
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "opening_date": "2026-12-30",
+      "category": "ファストフード"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンモール幕張新都心エキマエモール店",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-12-30",
+      "category": "ファストフード"
+    }
+  ],
+  "corrected_items": [
+    {
+      "name": "ケンタッキーフライドチキン 尾張旭店",
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "old_opening_date": "2026-11-21",
+      "new_opening_date": "2026-12-11",
+      "reason": "KFC公式12月新店情報に同一店名・同一住所が掲載。2026年11月20日更新の11月新店一覧には掲載なし。",
+      "source_url": "https://japan.kfc.co.jp/news_release/8200"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月の公式新店情報11店舗。既存11件と照合済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "公式新店一覧の2026年11月6日〜12月4日掲載分。等々力緑地を含む照合対象は登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "株式会社すき家",
+      "checked": "すき家 札幌平岡店（2026-11-30）。既存登録済み。",
+      "already_present": true,
+      "url": "https://maps.sukiya.jp/jp/detail/6639.html"
+    },
+    {
+      "publisher": "株式会社フォーシーズ",
+      "checked": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店（2026-11-20）。既存登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000947.000002646.html"
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "checked": "ゴンチャ 富山 MAROOT店（2026-12-10）など直近の新店情報。既存登録済み。",
+      "already_present": true,
+      "url": "https://www.gongcha.co.jp/pressrelease/"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "items": [
+        "ケンタッキーフライドチキン アピタ刈谷店",
+        "ケンタッキーフライドチキン イオンモール姫路大津店",
+        "ケンタッキーフライドチキン イズミヤ千里丘店",
+        "ケンタッキーフライドチキン 尾張旭店",
+        "ケンタッキーフライドチキン 麻布十番店",
+        "ケンタッキーフライドチキン フジグラン広島店",
+        "ケンタッキーフライドチキン 祖師ヶ谷大蔵店",
+        "ケンタッキーフライドチキン イオン小平店",
+        "ケンタッキーフライドチキン 新小岩駅南口店",
+        "ケンタッキーフライドチキン 玉出南港通り店",
+        "ケンタッキーフライドチキン イオンモール幕張新都心エキマエモール店"
+      ],
+      "url": "https://japan.kfc.co.jp/news_release/8200"
+    }
+  ],
+  "deferred": [],
+  "verification": {
+    "item_count": 2326,
+    "updatetime": "2026-11-21T02:13:17+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "all_new_items_present": true,
+    "correction_present": true,
+    "all_other_old_records_preserved": true,
+    "blob_sha": "5579c2e1793bce5788afc1227f188e48744c94f9"
+  },
+  "errors": [],
+  "automation_status_before_run": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T02:15:00+09:00",
+    "run_state_when_checked": "in_progress",
+    "note": "今回の自動実行は処理中として記録されていた。"
+  }
+}
