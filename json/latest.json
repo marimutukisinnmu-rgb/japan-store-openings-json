@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T05:20:00+09:00",
+  "updatetime": "2026-11-21T06:17:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11848,6 +11848,69 @@
       "category": "期間限定ポップアップ（レディース・メンズファッション、2026-11-20〜2026-11-30）"
     },
     {
+      "name": "Be! JUICE STAND by FRESH ONE 大丸東京店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-20",
+      "category": "フレッシュジュース専門店（リニューアル）"
+    },
+    {
+      "name": "揚げ処 朔（横浜モアーズ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "創作串揚げ専門店"
+    },
+    {
+      "name": "鰻とおばんざい 凪（横浜モアーズ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-11-20",
+      "category": "うなぎ・和食・おばんざい"
+    },
+    {
+      "name": "まいばすけっと平井６丁目店",
+      "prefecture": "東京都",
+      "city": "江戸川区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと淵野辺カシオペア通り店",
+      "prefecture": "神奈川県",
+      "city": "相模原市中央区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと古淵駅東店",
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "Zoff 東急プラザ蒲田2階店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20",
+      "category": "メガネ・アイウェア"
+    },
+    {
+      "name": "アエナ マルイファミリー志木店",
+      "prefecture": "埼玉県",
+      "city": "志木市",
+      "opening_date": "2026-11-20",
+      "category": "化粧品・オフプライスストア"
+    },
+    {
+      "name": "スープカレーSAMA 羽田空港店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20",
+      "category": "スープカレー専門店"
+    },
+    {
       "name": "BLACK LAGOON 25th ANNIVERSARY POP UP SHOP（ジーストア仙台）",
       "prefecture": "宮城県",
       "city": "仙台市青葉区",
@@ -12042,6 +12105,13 @@
       "city": "江東区",
       "opening_date": "2026-11-21",
       "category": "ベーカリー"
+    },
+    {
+      "name": "不二家 中野ブロードウェイ店（リニューアル）",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-11-21",
+      "category": "洋菓子店（リニューアル）"
     },
     {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
@@ -12826,6 +12896,13 @@
       "city": "横浜市都筑区",
       "opening_date": "2026-11-26",
       "category": "うどん・和食"
+    },
+    {
+      "name": "アエナ 西武飯能ぺぺ店",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-11-26",
+      "category": "化粧品・オフプライスストア"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
@@ -13701,6 +13778,13 @@
       "city": "横浜市瀬谷区",
       "opening_date": "2026-11-27",
       "category": "ハンバーガー・ファストフード"
+    },
+    {
+      "name": "アエナ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "化粧品・オフプライスストア"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
