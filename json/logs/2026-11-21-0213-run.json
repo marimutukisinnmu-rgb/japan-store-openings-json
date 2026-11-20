@@ -172,5 +172,12 @@
     "next_run_time": "2026-11-21T02:15:00+09:00",
     "run_state_when_checked": "in_progress",
     "note": "今回の自動実行は処理中として記録されていた。"
+  },
+  "automation_status_after_run": {
+    "is_enabled": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T03:15:00+09:00",
+    "note": "今回の1回分の処理完了後にタスクを無効化。スケジュール定義は保持。"
   }
 }
