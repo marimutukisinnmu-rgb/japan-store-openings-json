@@ -351,5 +351,16 @@
   "unconfirmed": [
     "公式情報で日付・所在地まで確認できない候補は追加していない。",
     "今回の調査範囲外の全国すべての新規開店情報を網羅したとは保証できない。"
-  ]
+  ],
+  "automation_status": {
+    "checked": true,
+    "is_enabled": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_field": "2026-11-21T16:15:00+09:00",
+    "next_run_time_note": "スケジュール定義は保持されているが、タスクは無効状態のため次回の自動実行は行われない。",
+    "last_run_status": "in_progress",
+    "completed_at": null,
+    "note": "GitHubデータ更新・再取得検証後の管理状態確認ではfalse。スケジュール定義は変更されていない。管理側の直近run履歴はin_progressのまま。"
+  }
 }
