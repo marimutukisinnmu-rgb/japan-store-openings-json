@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T02:16:30+09:00",
+  "updatetime": "2026-11-22T03:18:30+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -11988,6 +11988,13 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "出雲殿互助会の家族葬 福田",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "opening_date": "2026-11-20",
+      "category": "家族葬ホール"
+    },
+    {
       "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
       "prefecture": "愛知県",
       "city": "長久手市",
@@ -12252,6 +12259,13 @@
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "meet@FINOA",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-22",
+      "category": "韓国コスメ複合ショップ"
     },
     {
       "name": "PASOUL BLACK FRIDAY FESTA 2026",
@@ -13041,6 +13055,13 @@
       "name": "マックスバリュエクスプレス向野２丁目店",
       "prefecture": "福岡県",
       "city": "福岡市南区",
+      "opening_date": "2026-11-26",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "東武ストア 春日部店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
       "opening_date": "2026-11-26",
       "category": "スーパーマーケット"
     },
@@ -14002,6 +14023,48 @@
       "city": "東茨城郡茨城町",
       "opening_date": "2026-11-27",
       "category": "ファストフード"
+    },
+    {
+      "name": "無印良品500 西武飯能ぺぺ店",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・日用品"
+    },
+    {
+      "name": "西武・そごう伊達ショップ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "小型百貨店・食品ギフト"
+    },
+    {
+      "name": "COMICTION（コミクション）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "コミック・グッズ専門店"
+    },
+    {
+      "name": "秋田書店SHOP in 丸善ジュンク堂書店 池袋本店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定出版社公式ポップアップ"
+    },
+    {
+      "name": "SQUARE・ENIX Official Shop 出張所（ジュンク堂書店 池袋本店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ゲーム公式グッズショップ"
+    },
+    {
+      "name": "コアミックスショップ（ジュンク堂書店 池袋本店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定漫画公式グッズショップ"
     },
     {
       "name": "chocoZAP 豊橋牛川通",
@@ -15269,6 +15332,13 @@
       "city": "福井市",
       "opening_date": "2026-12-04",
       "category": "生活雑貨"
+    },
+    {
+      "name": "テレ東本舗。with テレビ大阪（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-04",
+      "category": "期間限定テレビ局公式グッズショップ（2026-12-04〜2026-12-14）"
     },
     {
       "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
