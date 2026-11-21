@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T01:15:04+09:00",
+  "updatetime": "2026-11-22T02:16:30+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12784,6 +12784,13 @@
       "city": "福岡市中央区",
       "opening_date": "2026-11-25",
       "category": "鶏惣菜・かしわ飯"
+    },
+    {
+      "name": "LAWSON + toks 等々力緑地店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-11-25",
+      "category": "コンビニ"
     },
     {
       "name": "Anker Store 岡山一番街",
