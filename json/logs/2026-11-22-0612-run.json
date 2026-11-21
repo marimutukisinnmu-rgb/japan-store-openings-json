@@ -1,0 +1,185 @@
+{
+  "run_at": "2026-11-22T06:12:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "697e14e8868cc71917faacbf84eb32aeb7037ef3",
+    "blob_sha_after": "5f5696a5cd8c1fd06c33fbc610cf73597b046c9d",
+    "commit_sha": "139e56a105efcddca50395b30fb55c08e391aaa4",
+    "updatetime": "2026-11-22T06:12:21+09:00",
+    "item_count_before": 2447,
+    "item_count_after": 2458,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 11,
+    "added_items": [
+      {
+        "name": "Dr.Martens（鳥栖プレミアム・アウトレット）",
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "opening_date": "2026-11-06",
+        "category": "シューズ・ファッション（期間限定）"
+      },
+      {
+        "name": "MAMMUT（鳥栖プレミアム・アウトレット）",
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "opening_date": "2026-11-19",
+        "category": "アウトドア用品（期間限定）"
+      },
+      {
+        "name": "タイムステーションNEO イオンモール京都桂川店",
+        "prefecture": "京都府",
+        "city": "京都市南区",
+        "opening_date": "2026-11-19",
+        "category": "時計専門店（リニューアル）"
+      },
+      {
+        "name": "BRIEFING（鳥栖プレミアム・アウトレット）",
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "opening_date": "2026-11-20",
+        "category": "バッグ・ラゲッジ（常設店舗）"
+      },
+      {
+        "name": "ホンダカーズ札幌中央 江別店",
+        "prefecture": "北海道",
+        "city": "江別市",
+        "opening_date": "2026-11-20",
+        "category": "自動車販売店（リニューアル）"
+      },
+      {
+        "name": "CRS札幌",
+        "prefecture": "北海道",
+        "city": "札幌市東区",
+        "opening_date": "2026-11-21",
+        "category": "自動車カスタムショップ"
+      },
+      {
+        "name": "焼肉こじま離れ 京都河原町",
+        "prefecture": "京都府",
+        "city": "京都市下京区",
+        "opening_date": "2026-11-21",
+        "category": "焼肉店"
+      },
+      {
+        "name": "wanna manna大阪梅田店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-02",
+        "category": "台湾朝食専門店"
+      },
+      {
+        "name": "ARC’TERYX（鳥栖プレミアム・アウトレット）",
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "opening_date": "2026-12-11",
+        "category": "アウトドア用品（期間限定）"
+      },
+      {
+        "name": "Celule（鳥栖プレミアム・アウトレット）",
+        "prefecture": "佐賀県",
+        "city": "鳥栖市",
+        "opening_date": "2026-12-18",
+        "category": "化粧品・美容雑貨（常設店舗）"
+      },
+      {
+        "name": "かっぱ寿司 イオン三ツ境店",
+        "prefecture": "神奈川県",
+        "city": "横浜市瀬谷区",
+        "opening_date": "2027-01-29",
+        "category": "回転寿司"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "duplicate_candidates_preserved": [],
+    "held_items": [
+      {
+        "name": "3Bake（東二見への移転報道）",
+        "reason": "地域メディアで移転オープンの報道を確認したが、既存の3Bake（2026-11-14）との関係と新所在地を一次情報で確定できなかったため、既存レコードを変更せず保留。"
+      },
+      {
+        "name": "JEANASIS 岡山一番街店",
+        "reason": "運営会社の発表は『リニューアルオープン』、既存レコードは『移転』表記。矛盾を自動修正せず既存データを維持。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "ホンダカーズ札幌中央公式発表",
+        "url": "https://www.hondaism.com/topics/shop/3556.php",
+        "result": "江別店の2026-11-20リニューアルオープンと江別市野幌松並町13-1を確認。未登録のため追加。"
+      },
+      {
+        "name": "CRS公式発表",
+        "url": "https://www.crs9000.com/news/388827/",
+        "result": "CRS札幌の2026-11-21オープンと札幌市東区伏古11条5丁目1-30を確認。未登録のため追加。"
+      },
+      {
+        "name": "株式会社ナカザワ公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000051.000151263.html",
+        "result": "タイムステーションNEO イオンモール京都桂川店の2026-11-19リニューアルと所在地を確認。未登録のため追加。"
+      },
+      {
+        "name": "株式会社こじま公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000079.000172503.html",
+        "result": "焼肉こじま離れ 京都河原町の2026-11-21オープンと京都市下京区の所在地を確認。未登録のため追加。"
+      },
+      {
+        "name": "グレイス株式会社公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000142.000036360.html",
+        "result": "wanna manna大阪梅田店の2026-12-02グランドオープンと大阪市北区曽根崎2-15-23を確認。未登録のため追加。"
+      },
+      {
+        "name": "カッパ・クリエイト株式会社公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000001260.000018731.html",
+        "result": "かっぱ寿司 イオン三ツ境店の2027-01-29オープン予定と横浜市瀬谷区三ツ境7-1を確認。未登録のため追加。"
+      },
+      {
+        "name": "三菱地所・サイモン株式会社公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000817.000009047.html",
+        "result": "鳥栖プレミアム・アウトレットのDr.Martens（11-06）、MAMMUT（11-19）、BRIEFING（11-20）、ARC’TERYX（12-11）、Celule（12-18）の出店日を確認。5件とも未登録のため追加。"
+      },
+      {
+        "name": "株式会社カーゾック公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000061.000138952.html",
+        "result": "NICOPA 幕張店（2026-11-20）は既存登録済み。重複追加なし。"
+      },
+      {
+        "name": "株式会社アンドエスティHD公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000003368.000001304.html",
+        "result": "JEANASIS 岡山一番街店（2026-11-20）は既存登録済み。既存表記との不一致は保留。"
+      },
+      {
+        "name": "明石じゃーなる（地域情報メディア）",
+        "url": "https://akashi-journal.com/openclose/3bake-open/",
+        "result": "3Bakeの東二見移転オープン報道を確認。ただし一次情報未確認のため既存レコードは変更せず保留。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "target_item_matches": 11,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "saved_file_refetched": true
+  },
+  "save": {
+    "latest_json": "updated_and_refetched",
+    "run_log": "to_be_created"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly; BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T06:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
+  }
+}
