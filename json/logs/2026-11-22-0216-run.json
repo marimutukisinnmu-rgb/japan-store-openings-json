@@ -1,0 +1,56 @@
+{
+  "run_at": "2026-11-22T02:16:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources": [
+    "https://www.lawson.co.jp/newstore/",
+    "https://prtimes.jp/main/html/rd/p/000000091.000081528.html",
+    "https://kawasaki-todoroki-park.co.jp/guide/restaurant/"
+  ],
+  "source_summary": [
+    "ローソン公式新店一覧に掲載されたLAWSON＋toks等々力緑地の2026-11-25開店情報を確認。公式一覧の照合対象46件のうち45件は既存登録済みで、未登録1件を抽出。",
+    "東急ストアの公式発表で「LAWSON + toks 等々力緑地店」の開店日（2026-11-25）と所在地（神奈川県川崎市中原区宮内4-2-3）を確認し、新規追加。",
+    "川崎とどろきパーク公式の施設案内で「マクドナルド 川崎等々力緑地店」は2026-12-23として既存登録済みであることを再確認。スターバックスとサーティワンは開業日未確定のため追加保留。"
+  ],
+  "before": {
+    "count": 2435,
+    "blob_sha": "ed498f4ec87f592a8b270457f138ca3e267d2a2b"
+  },
+  "added": [
+    {
+      "name": "LAWSON + toks 等々力緑地店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-11-25",
+      "category": "コンビニ"
+    }
+  ],
+  "already_present": [
+    "マクドナルド 川崎等々力緑地店（2026-12-23）"
+  ],
+  "held_unconfirmed": [
+    "スターバックス コーヒー 等々力緑地店：公式施設案内で開業日未確定",
+    "サーティワン アイスクリーム 等々力緑地店：公式施設案内で開業日未確定"
+  ],
+  "after": {
+    "count": 2436,
+    "blob_sha": "0b5994c078fdcf08251c0895a37d31b77095c8f1",
+    "commit_sha": "c69c4decd8805558e6e395bb21b35cf2c4dddce1",
+    "updatetime": "2026-11-22T02:16:30+09:00"
+  },
+  "validation": {
+    "fetchedSha": "0b5994c078fdcf08251c0895a37d31b77095c8f1",
+    "expectedContentSha": "0b5994c078fdcf08251c0895a37d31b77095c8f1",
+    "shaMatches": true,
+    "count": 2436,
+    "expectedCount": 2436,
+    "oldItemsPreserved": true,
+    "additionsPresent": true,
+    "requiredFieldsMissing": 0,
+    "invalidDateFormats": 0,
+    "exactDuplicateGroups": 0,
+    "dateSorted": true
+  },
+  "note": "公式情報で店名・開店日・市区町村を確認できた1件のみ追加。既存項目は削除・訂正せず保持。未確定日付の店舗は追加せず保留。"
+}
