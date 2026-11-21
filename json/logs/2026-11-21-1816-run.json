@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-21T18:16:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_with_additions",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "official_sources": [
+      "https://www.shimamura.gr.jp/shop/map_detail_2199.html",
+      "https://www.shimamura.gr.jp/shop/map_detail_7927.html",
+      "https://www.shimamura.gr.jp/shop/map_detail_3612.html",
+      "https://www.lawson.co.jp/newstore/",
+      "https://www.sej.co.jp/company/news_release/news/"
+    ],
+    "verified_new_entries": [
+      "しまむら FUKUOKA TENJIN店（2026-12-02、福岡県福岡市中央区大名1丁目15-1）",
+      "アベイル FUKUOKA TENJIN(しまむら FUKUOKA TENJIN内)店（2026-12-02、福岡県福岡市中央区大名1丁目15-1）",
+      "バースデイ FUKUOKA TENJIN(しまむらFUKUOKA TENJIN内)店（2026-12-02、福岡県福岡市中央区大名1丁目15-1）"
+    ],
+    "verified_existing_without_readdition": [
+      "PAPABUBBLE イクスピアリ店",
+      "BAKERIES LAB.砂町銀座店",
+      "LAKOLE サンシャインシティアルタ店",
+      "キル フェ ボン新宿",
+      "neverbetter",
+      "天丼専門店 ゑるびす イオンモール伊達店",
+      "LUCUA SOUTH第2期の確認可能な11月24日開業店舗群",
+      "LUCUA SOUTHのTAMASHII NATIONS STORE OSAKA、THE★JOJO WORLD OSAKA、SQUARE ENIX NEXUS"
+    ],
+    "pending_not_added": [
+      {
+        "name": "ナムコ（LUCUA SOUTH）",
+        "reason": "施設運営会社の公式発表は「12月上旬予定」のみで、具体的な開店日が確認できないため日付必須のJSONには追加せず"
+      }
+    ]
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "しまむら FUKUOKA TENJIN店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02",
+        "category": "衣料品・ファッション",
+        "source": "https://www.shimamura.gr.jp/shop/map_detail_2199.html"
+      },
+      {
+        "name": "アベイル FUKUOKA TENJIN(しまむら FUKUOKA TENJIN内)店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02",
+        "category": "衣料品・ファッション",
+        "source": "https://www.shimamura.gr.jp/shop/map_detail_7927.html"
+      },
+      {
+        "name": "バースデイ FUKUOKA TENJIN(しまむらFUKUOKA TENJIN内)店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02",
+        "category": "ベビー・子ども用品",
+        "source": "https://www.shimamura.gr.jp/shop/map_detail_3612.html"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2401,
+    "updatetime": "2026-11-21T16:11:54+09:00",
+    "blob_sha": "839c45ffa1e8ea7a57a40f48db5ef4cbbe30f3a2"
+  },
+  "after": {
+    "count": 2404,
+    "updatetime": "2026-11-21T18:16:00+09:00",
+    "blob_sha": "3765b9f650c20a06cae5953ee3b3ee645f354a87",
+    "commit_sha": "f3de6e92f4a7b8ce09bc9acaaeaf7cc2276d954c"
+  },
+  "validation": {
+    "before_count": 2401,
+    "after_count": 2404,
+    "added_count": 3,
+    "all_existing_preserved": true,
+    "additions_present": true,
+    "missing_required": 0,
+    "duplicate_signatures": 0,
+    "date_sorted": true,
+    "fetched_blob_sha": "3765b9f650c20a06cae5953ee3b3ee645f354a87",
+    "returned_blob_sha": "3765b9f650c20a06cae5953ee3b3ee645f354a87",
+    "blob_sha_matches": true
+  },
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_reported": "2026-11-21T18:15:00+09:00",
+    "last_run": {
+      "id": "5407b0e1-6398-8333-933b-c9ed17bb6b81",
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-21T18:15:00+09:00",
+      "started_at": "2026-11-21T18:15:59+09:00",
+      "completed_at": null
+    },
+    "note": "このrunの管理側完了記録は未反映。latest_resultは前回実行分であり、今回の結果とは区別する。"
+  }
+}
