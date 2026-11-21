@@ -1,0 +1,138 @@
+{
+  "run_at": "2026-11-21T16:11:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "official_sources": [
+      "https://www.atpress.ne.jp/news/650227",
+      "https://prtimes.jp/main/html/rd/p/000000200.000081179.html",
+      "https://prtimes.jp/main/html/rd/p/000000661.000003876.html",
+      "https://prtimes.jp/main/html/rd/p/000000029.000055472.html",
+      "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "https://www.gongcha.co.jp/pressrelease/",
+      "https://subway.co.jp/news/20261120_01/",
+      "https://prtimes.jp/main/html/rd/p/000000173.000027211.html"
+    ],
+    "verified_existing_without_readdition": [
+      "KFC 2026年12月の新店情報11店舗（全店登録済み）",
+      "仙台PARCO2 パルイチの12月・2027年1月新店（今回照合した対象は登録済み）",
+      "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "タリーズコーヒー with U イオンモール小山店",
+      "SUBWAY イオンモール伊達店",
+      "LAKOLE サンシャインシティアルタ店",
+      "うちだ屋 新宮店",
+      "富澤商店 山形屋店",
+      "THE GUNDAM BASE SHIBUYA"
+    ],
+    "pending_not_added": [
+      {
+        "name": "成城石井（アミュプラザ博多）",
+        "reason": "公式発表は2027年春予定までで、開業日が未確定のため日付必須のitemsには追加せず"
+      }
+    ]
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "NICOPA 幕張店",
+        "prefecture": "千葉県",
+        "city": "習志野市",
+        "opening_date": "2026-11-20",
+        "category": "ファミリーアミューズメント施設"
+      },
+      {
+        "name": "CRONOSリバーウォーク北九州店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-21",
+        "category": "スポーツウェア・アクティブウェア"
+      },
+      {
+        "name": "CRONOS水戸エクセル店",
+        "prefecture": "茨城県",
+        "city": "水戸市",
+        "opening_date": "2026-11-27",
+        "category": "スポーツウェア・アクティブウェア"
+      },
+      {
+        "name": "CRONOS LINKS池袋店",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-28",
+        "category": "スポーツウェア・アクティブウェア"
+      },
+      {
+        "name": "CRONOS高崎店",
+        "prefecture": "群馬県",
+        "city": "高崎市",
+        "opening_date": "2026-11-28",
+        "category": "スポーツウェア・アクティブウェア"
+      },
+      {
+        "name": "フェンディ 心斎橋店",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-11-28",
+        "category": "ラグジュアリーファッション・バッグ"
+      },
+      {
+        "name": "ふりそでモード 新静岡セノバ店",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-12-01",
+        "category": "振袖・袴専門店"
+      },
+      {
+        "name": "エイチ・アイ・エス 新静岡セノバ店",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-12-01",
+        "category": "旅行代理店・旅行サービス"
+      },
+      {
+        "name": "スーツスクエア 新静岡セノバ店",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-12-10",
+        "category": "ビジネスウェア・スーツ"
+      },
+      {
+        "name": "くし葉 新静岡セノバ店",
+        "prefecture": "静岡県",
+        "city": "静岡市葵区",
+        "opening_date": "2026-12-15",
+        "category": "串揚げバイキング・飲食店"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2391,
+    "updatetime": "previous metadata preserved except updatetime",
+    "blob_sha": "865486b30141e0a3db34ceb245519f2db8932f83"
+  },
+  "after": {
+    "count": 2401,
+    "updatetime": "2026-11-21T16:11:54+09:00",
+    "blob_sha": "839c45ffa1e8ea7a57a40f48db5ef4cbbe30f3a2",
+    "commit_sha": "63777ba5f7f66e860852813ce01846d921908540"
+  },
+  "validation": {
+    "before_count": 2391,
+    "after_count": 2401,
+    "added_count": 10,
+    "all_old_preserved": true,
+    "all_candidates_present": true,
+    "missing_required": 0,
+    "duplicate_signatures": 0,
+    "date_sorted": true,
+    "fetched_blob_sha": "839c45ffa1e8ea7a57a40f48db5ef4cbbe30f3a2",
+    "returned_blob_sha": "839c45ffa1e8ea7a57a40f48db5ef4cbbe30f3a2",
+    "blob_sha_matches": true,
+    "commit_sha": "63777ba5f7f66e860852813ce01846d921908540"
+  },
+  "errors": []
+}
