@@ -1,0 +1,90 @@
+{
+  "run_at": "2026-11-22T01:15:04+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000357.000018877.html",
+    "https://prtimes.jp/main/html/rd/p/000001831.000018324.html",
+    "https://crewrecruiting.mcdonalds.co.jp/map/g08644",
+    "https://crewrecruiting.mcdonalds.co.jp/map/y26608",
+    "https://www.lawson.co.jp/newstore/",
+    "https://japan.kfc.co.jp/news_release/8199",
+    "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+    "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+    "https://prtimes.jp/main/html/rd/p/000000029.000055472.html"
+  ],
+  "source_summary": [
+    "プロントコーポレーションの訂正後公式発表で「プロント珈琲庭園 nonowa 国立店」の2026-12-15開店と東京都国立市の所在地を確認し、新規追加。",
+    "ロフト公式発表で「フェアモール福井ロフト」の2026-12-04開店と福井市の所在地を確認し、新規追加。",
+    "日本マクドナルド公式採用ページで「マクドナルド 桜の郷店」の2026-11-27開店と茨城県東茨城郡茨城町の住所を確認し、新規追加。",
+    "日本マクドナルド公式採用ページで「マクドナルド ９号線亀岡篠店」の2026-12-09開店と京都府亀岡市の住所を確認し、新規追加。",
+    "ローソン公式新店一覧、KFC公式11月新店一覧、タリーズ公式2026年プレスリリースを既存データと照合し、確認できた対象は登録済み。",
+    "仙台PARCO2「パルイチ」6店舗と新静岡セノバの4店舗は既存データに登録済み。再追加なし。"
+  ],
+  "before": {
+    "count": 2431,
+    "blob_sha": "a437ed342400182a83e7e0cd63b0ebcf9e6e9d12"
+  },
+  "added": [
+    {
+      "name": "マクドナルド 桜の郷店",
+      "prefecture": "茨城県",
+      "city": "東茨城郡茨城町",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
+      "name": "フェアモール福井ロフト",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "生活雑貨"
+    },
+    {
+      "name": "マクドナルド ９号線亀岡篠店",
+      "prefecture": "京都府",
+      "city": "亀岡市",
+      "opening_date": "2026-12-09",
+      "category": "ファストフード"
+    },
+    {
+      "name": "プロント珈琲庭園 nonowa 国立店",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "opening_date": "2026-12-15",
+      "category": "フルサービス型カフェ"
+    }
+  ],
+  "already_present": [
+    "仙台PARCO2「パルイチ」6店舗",
+    "新静岡セノバ：くし葉、ふりそでモード、スーツスクエア、エイチ・アイ・エス",
+    "ローソン公式新店一覧の確認対象",
+    "KFC公式11月新店一覧の11店舗",
+    "タリーズコーヒー with U イオンモール小山店",
+    "タリーズコーヒー ＆TEA イオンモール伊達店"
+  ],
+  "held_unconfirmed": [
+    "開店日が月単位・季節単位のみで、日付を確定できない候補は追加せず保留。"
+  ],
+  "after": {
+    "count": 2435,
+    "blob_sha": "ed498f4ec87f592a8b270457f138ca3e267d2a2b",
+    "commit_sha": "8e44478af63b404bde7435e517adf8e992773e11",
+    "updatetime": "2026-11-22T01:15:04+09:00"
+  },
+  "validation": {
+    "fetchedSha": "ed498f4ec87f592a8b270457f138ca3e267d2a2b",
+    "expectedContentSha": "ed498f4ec87f592a8b270457f138ca3e267d2a2b",
+    "shaMatches": true,
+    "count": 2435,
+    "expectedCount": 2435,
+    "oldItemsPreserved": true,
+    "additionsPresent": true,
+    "requiredFieldsMissing": 0,
+    "invalidDateFormats": 0,
+    "exactDuplicateGroups": 0,
+    "dateSorted": true
+  },
+  "note": "公式情報で店名・開店日・市区町村を確認できた4件のみ追加。既存項目は削除・訂正せず保持。"
+}
