@@ -171,7 +171,8 @@
   },
   "save": {
     "latest_json": "updated_and_refetched",
-    "run_log": "to_be_created"
+    "run_log": "created",
+    "initial_create_commit_sha": "807f443a3683e0569c57aa300b0afca861be8c30"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
