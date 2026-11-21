@@ -1,0 +1,122 @@
+{
+  "run_at": "2026-11-21T21:10:24+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_with_additions",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "official_sources": [
+      "https://prtimes.jp/main/html/rd/p/000000146.000043820.html",
+      "https://prtimes.jp/main/html/rd/p/000000103.000012064.html",
+      "https://prtimes.jp/main/html/rd/p/000000028.000089901.html",
+      "https://www.lawson.co.jp/newstore/",
+      "https://japan.kfc.co.jp/news_release/8199",
+      "https://subway.co.jp/news/20261120_01/",
+      "https://store-info.skylark.co.jp/bamiyan/list/",
+      "https://prtimes.jp/main/html/rd/p/000000200.000081179.html",
+      "https://prtimes.jp/main/html/rd/p/000055472.000000029.html"
+    ],
+    "added_after_primary_source_and_existing_data_check": [
+      {
+        "name": "トライアル西友 光が丘店",
+        "prefecture": "東京都",
+        "city": "練馬区",
+        "opening_date": "2026-11-20",
+        "category": "スーパーマーケット（業態転換・新フォーマット）"
+      },
+      {
+        "name": "おこのみやき もんじゃやき ゑびすばし（EBISUBASHI）",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-12-01",
+        "category": "お好み焼き・もんじゃ焼き"
+      },
+      {
+        "name": "食の3重丸銀座ショップ",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-12-04",
+        "category": "食品専門店・体験型ショップ"
+      }
+    ],
+    "verified_existing_without_readdition": [
+      "CRONOS 4店舗（2026-11-21〜2026-11-28）",
+      "ペッパーランチ イオンモール伊達店",
+      "SUBWAY イオンモール伊達店",
+      "新静岡セノバの4店舗",
+      "しまむら・アベイル・バースデイ FUKUOKA TENJIN",
+      "カラオケBanBan博多駅前店",
+      "BONAVENTURA 西武池袋店",
+      "ゴンチャ 豊田 T-FACE店",
+      "ウェンディーズ・ファーストキッチン ワカバウォーク店"
+    ],
+    "pending_not_added": [
+      "出雲殿互助会の家族葬 福田：開店日と住所は確認できたが、既存データの店舗業態に葬儀ホール分類がなく、対象範囲との整合性を優先して追加保留",
+      "遠賀川駅南商業店舗：大店立地法の届出段階で、届出上の新設日が実際の開店日と異なる可能性が明記されているため保留",
+      "12月上旬など日付が確定していない案件：日付必須のため追加保留"
+    ]
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "トライアル西友 光が丘店",
+        "prefecture": "東京都",
+        "city": "練馬区",
+        "opening_date": "2026-11-20",
+        "category": "スーパーマーケット（業態転換・新フォーマット）"
+      },
+      {
+        "name": "おこのみやき もんじゃやき ゑびすばし（EBISUBASHI）",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-12-01",
+        "category": "お好み焼き・もんじゃ焼き"
+      },
+      {
+        "name": "食の3重丸銀座ショップ",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-12-04",
+        "category": "食品専門店・体験型ショップ"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2409,
+    "updatetime": "2026-11-21T19:16:10+09:00",
+    "blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3"
+  },
+  "after": {
+    "count": 2412,
+    "updatetime": "2026-11-21T21:10:24+09:00",
+    "blob_sha": "0432c1129f65e136ec4ab7e6d8c0998bae254b20",
+    "commit_sha": "ea9c122834e4fb130dd6457bcb2a513c4b0d2c9f"
+  },
+  "validation": {
+    "before_count": 2409,
+    "after_count": 2412,
+    "added_count": 3,
+    "all_existing_preserved": true,
+    "additions_present": true,
+    "missing_required": 0,
+    "invalid_dates": 0,
+    "duplicate_signatures": 0,
+    "date_sorted": true,
+    "fetched_blob_sha": "0432c1129f65e136ec4ab7e6d8c0998bae254b20",
+    "expected_blob_sha": "0432c1129f65e136ec4ab7e6d8c0998bae254b20",
+    "blob_sha_matches": true,
+    "post_fetch_content_matches": true
+  },
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_reported": "2026-11-21T21:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "completed_at": null,
+    "note": "実行時点でタスクは有効。毎時15分のスケジュールを維持。今回の管理側実行履歴は実行中で、完了記録は未反映。"
+  }
+}
