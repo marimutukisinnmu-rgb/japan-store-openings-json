@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T15:16:52+09:00",
+  "updatetime": "2026-11-21T16:11:54+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11925,6 +11925,13 @@
       "category": "カフェ・フローズンヨーグルト"
     },
     {
+      "name": "NICOPA 幕張店",
+      "prefecture": "千葉県",
+      "city": "習志野市",
+      "opening_date": "2026-11-20",
+      "category": "ファミリーアミューズメント施設"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -12140,6 +12147,13 @@
       "city": "中野区",
       "opening_date": "2026-11-21",
       "category": "洋菓子店（リニューアル）"
+    },
+    {
+      "name": "CRONOSリバーウォーク北九州店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-21",
+      "category": "スポーツウェア・アクティブウェア"
     },
     {
       "name": "GINZA TOKYO 樂 gaku",
@@ -13871,6 +13885,13 @@
       "category": "味噌ラーメン"
     },
     {
+      "name": "CRONOS水戸エクセル店",
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "opening_date": "2026-11-27",
+      "category": "スポーツウェア・アクティブウェア"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -14184,6 +14205,27 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "CRONOS LINKS池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-28",
+      "category": "スポーツウェア・アクティブウェア"
+    },
+    {
+      "name": "CRONOS高崎店",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2026-11-28",
+      "category": "スポーツウェア・アクティブウェア"
+    },
+    {
+      "name": "フェンディ 心斎橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-28",
+      "category": "ラグジュアリーファッション・バッグ"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
@@ -14555,6 +14597,20 @@
       "city": "福岡市中央区",
       "opening_date": "2026-12-01",
       "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "ふりそでモード 新静岡セノバ店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-12-01",
+      "category": "振袖・袴専門店"
+    },
+    {
+      "name": "エイチ・アイ・エス 新静岡セノバ店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-12-01",
+      "category": "旅行代理店・旅行サービス"
     },
     {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
@@ -15852,6 +15908,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "スーツスクエア 新静岡セノバ店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-12-10",
+      "category": "ビジネスウェア・スーツ"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -16067,6 +16130,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-15",
       "category": "洋食"
+    },
+    {
+      "name": "くし葉 新静岡セノバ店",
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "opening_date": "2026-12-15",
+      "category": "串揚げバイキング・飲食店"
     },
     {
       "name": "のびっこジャンボ イオンタウン防府店",
