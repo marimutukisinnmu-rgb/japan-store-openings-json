@@ -1,0 +1,139 @@
+{
+  "run_at": "2026-11-22T03:18:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources": [
+    "https://jt-company.co.jp/news/",
+    "https://prtimes.jp/main/html/rd/p/000000051.000150643.html",
+    "https://prtimes.jp/main/html/rd/p/000000024.000145668.html",
+    "https://funeral.izumoden-gojyo.jp/access/fukuda_page.php",
+    "https://prtimes.jp/main/html/rd/p/000000003.000193892.html",
+    "https://prtimes.jp/main/html/rd/p/000000148.000103822.html",
+    "https://prtimes.jp/main/html/rd/p/000002553.000031382.html",
+    "https://prtimes.jp/main/html/rd/p/000000147.000027516.html",
+    "https://prtimes.jp/main/html/rd/p/000002417.000002734.html"
+  ],
+  "source_summary": [
+    "株式会社JTの公式発表でmeet@FINOAの2026-11-22開店と東京都新宿区大久保1丁目12-15を確認。",
+    "出雲殿互助会の公式発表で家族葬 福田の2026-11-20開設と磐田市福田3929-1を確認。公式施設案内でも名称と所在地を照合。",
+    "東武ストア公式発表で春日部店の2026-11-26開店と春日部市粕壁1丁目8番2を確認。",
+    "西武不動産の公式発表で西武飯能ぺぺ内の無印良品500が2026-11-27開店することを確認。アエナは既存登録済み。",
+    "そごう・西武公式発表で西武・そごう伊達ショップの2026-11-27開店を確認。",
+    "丸善ジュンク堂書店公式発表でCOMICTIONと同時開催の3ポップアップが2026-11-27からジュンク堂書店池袋本店9階に登場することを確認。",
+    "テレビ東京グループ公式発表でテレ東本舗。with テレビ大阪の心斎橋PARCO 6F、2026-12-04〜2026-12-14の期間限定営業を確認。",
+    "ローソン公式新店一覧、仙台PARCO、エトモ菊名、CRONOS、新静岡セノバ等の照合対象は既存登録済み。重複追加なし。"
+  ],
+  "before": {
+    "count": 2436,
+    "blob_sha": "0b5994c078fdcf08251c0895a37d31b77095c8f1"
+  },
+  "added": [
+    {
+      "name": "meet@FINOA",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-22",
+      "category": "韓国コスメ複合ショップ"
+    },
+    {
+      "name": "出雲殿互助会の家族葬 福田",
+      "prefecture": "静岡県",
+      "city": "磐田市",
+      "opening_date": "2026-11-20",
+      "category": "家族葬ホール"
+    },
+    {
+      "name": "東武ストア 春日部店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "opening_date": "2026-11-26",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "無印良品500 西武飯能ぺぺ店",
+      "prefecture": "埼玉県",
+      "city": "飯能市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・日用品"
+    },
+    {
+      "name": "西武・そごう伊達ショップ",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "小型百貨店・食品ギフト"
+    },
+    {
+      "name": "COMICTION（コミクション）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "コミック・グッズ専門店"
+    },
+    {
+      "name": "秋田書店SHOP in 丸善ジュンク堂書店 池袋本店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定出版社公式ポップアップ"
+    },
+    {
+      "name": "SQUARE・ENIX Official Shop 出張所（ジュンク堂書店 池袋本店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定ゲーム公式グッズショップ"
+    },
+    {
+      "name": "コアミックスショップ（ジュンク堂書店 池袋本店）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定漫画公式グッズショップ"
+    },
+    {
+      "name": "テレ東本舗。with テレビ大阪（心斎橋PARCO）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-04",
+      "category": "期間限定テレビ局公式グッズショップ（2026-12-04〜2026-12-14）"
+    }
+  ],
+  "already_present": [
+    "アエナ 西武飯能ぺぺ店（2026-11-26）",
+    "CRONOS LINKS池袋店・リバーウォーク北九州店・水戸エクセル店・高崎店",
+    "浅草もんじゃ ぜんや 浅草エキミセ",
+    "カラオケまねきねこ 南池袋店",
+    "ペッパーランチ イオンモール伊達店",
+    "食の3重丸銀座ショップ"
+  ],
+  "held_unconfirmed": [],
+  "review_candidates": [
+    "LAWSON＋toks等々力緑地 と LAWSON + toks 等々力緑地店：同日・同市区町村の類似名2件。既存データは変更せず、住所表記の差もあるため統合保留。"
+  ],
+  "after": {
+    "count": 2446,
+    "blob_sha": "9f945111e190a9673584861bb7c8696c72199b36",
+    "commit_sha": "5cd5e4015b358a94d23246c27956a34be28db812",
+    "updatetime": "2026-11-22T03:18:30+09:00"
+  },
+  "validation": {
+    "fetchedSha": "9f945111e190a9673584861bb7c8696c72199b36",
+    "expectedContentSha": "9f945111e190a9673584861bb7c8696c72199b36",
+    "shaMatches": true,
+    "count": 2446,
+    "expectedCount": 2446,
+    "oldItemsPreserved": true,
+    "additionsPresent": true,
+    "requiredFieldsMissing": 0,
+    "invalidDateFormats": 0,
+    "exactDuplicateGroups": 0,
+    "dateSorted": true,
+    "possibleDuplicateReview": [
+      "LAWSON＋toks等々力緑地",
+      "LAWSON + toks 等々力緑地店"
+    ]
+  },
+  "note": "公式情報で店名・開店日・市区町村を確認できた10件のみ追加。既存項目は削除・訂正せず保持。"
+}
