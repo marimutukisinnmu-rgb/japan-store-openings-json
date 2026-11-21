@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T16:11:54+09:00",
+  "updatetime": "2026-11-21T18:16:00+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14632,6 +14632,27 @@
       "city": "伊勢原市",
       "opening_date": "2026-12-02",
       "category": "そば・和食"
+    },
+    {
+      "name": "しまむら FUKUOKA TENJIN店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "衣料品・ファッション"
+    },
+    {
+      "name": "アベイル FUKUOKA TENJIN(しまむら FUKUOKA TENJIN内)店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "衣料品・ファッション"
+    },
+    {
+      "name": "バースデイ FUKUOKA TENJIN(しまむらFUKUOKA TENJIN内)店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "ベビー・子ども用品"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
