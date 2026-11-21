@@ -1,0 +1,133 @@
+{
+  "run_at": "2026-11-22T08:16:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "fb13da56baf5e9cbcc6a657153186909511f7d9c",
+    "blob_sha_after": "7a41a96fbe44f04b5d553d9d622c44d852a11c60",
+    "commit_sha": "0b86eaf088df2c717bbc282161fbbc9cb75be30c",
+    "updatetime": "2026-11-22T08:16:21+09:00",
+    "item_count_before": 2460,
+    "item_count_after": 2466,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 6,
+    "added_items": [
+      {
+        "name": "Space Galleria FUKUOKA",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-11-20",
+        "category": "有料展示会場"
+      },
+      {
+        "name": "博多 NUMBER SHOT",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-11-25",
+        "category": "居酒屋・海鮮・創作料理"
+      },
+      {
+        "name": "PARC de VAGUE Petit",
+        "prefecture": "埼玉県",
+        "city": "さいたま市大宮区",
+        "opening_date": "2026-11-27",
+        "category": "ベーカリーカフェ"
+      },
+      {
+        "name": "ゴンチャ 豊田T-FACE店",
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "opening_date": "2026-11-27",
+        "category": "ティーカフェ"
+      },
+      {
+        "name": "もつ鍋 田しゅう（JR博多シティ）",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-11-27",
+        "category": "もつ鍋専門店"
+      },
+      {
+        "name": "ゴンチャ 富山MAROOT店",
+        "prefecture": "富山県",
+        "city": "富山市",
+        "opening_date": "2026-12-10",
+        "category": "ティーカフェ（移転リニューアル）"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_items": [],
+    "source_checks": [
+      {
+        "name": "ラシック福岡天神公式ニュース",
+        "url": "https://lachic-fukuoka.jp/2026/11/18/4773/",
+        "result": "Space Galleria FUKUOKAの2026-11-20オープンを確認。福岡市中央区天神2-1-1、福岡三越8階内。未登録のため追加。"
+      },
+      {
+        "name": "株式会社アクア発表（＠Press）",
+        "url": "https://www.atpress.ne.jp/news/650609",
+        "result": "PARC de VAGUE Petitの2026-11-27 10:00オープン、埼玉県さいたま市大宮区吉敷町4-263-1 コクーン2 1階を確認。未登録のため追加。"
+      },
+      {
+        "name": "株式会社ゴンチャ ジャパン公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000458.000048503.html",
+        "result": "ゴンチャ 豊田T-FACE店の2026-11-27オープン、愛知県豊田市若宮町1-57-1 T-FACE B館2階を確認。未登録のため追加。"
+      },
+      {
+        "name": "株式会社ゴンチャ ジャパン公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000453.000048503.html",
+        "result": "ゴンチャ 富山MAROOT店の2026-12-10移転オープン、富山県富山市明輪町1-231 MAROOT 1階を確認。未登録のため追加。"
+      },
+      {
+        "name": "マイング公式店舗案内・ニュース",
+        "url": "https://www.ming.or.jp/news/detail393.html",
+        "result": "博多 NUMBER SHOTの2026-11-25 11:00開店、福岡市博多区博多駅中央街1-1 マイング横丁を確認。未登録のため追加。"
+      },
+      {
+        "name": "JR博多シティ公式オープン・クローズ情報",
+        "url": "https://www.jrhakatacity.com/floor/open_close/",
+        "result": "もつ鍋 田しゅうの2026-11-27新規オープン、JR博多シティ シティダイニングくうてん10階を確認。未登録のため追加。"
+      },
+      {
+        "name": "すかいらーくグループ公式店舗情報",
+        "url": "https://store-info.skylark.co.jp/gusto/map/017780/",
+        "result": "ガスト イオンモール福岡店は2026-11-20オープン、福岡県糟屋郡粕屋町。既存登録済みのため変更なし。"
+      },
+      {
+        "name": "すかいらーくグループ公式バーミヤン新店一覧",
+        "url": "https://store-info.skylark.co.jp/bamiyan/list/",
+        "result": "大宮駅東口店、イオンモール伊達店、広島アルパーク店、BiVi仙台駅東口店を照合。いずれも既存登録済み。"
+      },
+      {
+        "name": "株式会社ゴンチャ ジャパン公式プレスリリース一覧",
+        "url": "https://www.gongcha.co.jp/pressrelease/",
+        "result": "豊田T-FACE店、イオンモール伊達店、富山MAROOT店の発表を照合。イオンモール伊達店は既存登録済み。"
+      },
+      {
+        "name": "三越伊勢丹・ラシック福岡天神公式ニュース",
+        "url": "https://www.iwataya-mitsukoshi.mistore.jp/mitsukoshi/shops/living/lachic/shopnews_list/shopnews0129.html",
+        "result": "Space Galleria FUKUOKAのオープン記念告知を確認。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "target_item_matches": 6,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2466
+  },
+  "save": {
+    "latest_json": "updated_and_refetched",
+    "run_log": "pending"
+  }
+}
