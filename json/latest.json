@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T23:19:17+09:00",
+  "updatetime": "2026-11-22T00:18:46+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -8579,6 +8579,27 @@
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-11-11〜2027-01-04）"
     },
     {
+      "name": "RF1（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "惣菜・サラダ（リニューアル）"
+    },
+    {
+      "name": "融合（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "アジアン惣菜（リニューアル）"
+    },
+    {
+      "name": "神戸コロッケ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "コロッケ・惣菜（リニューアル）"
+    },
+    {
       "name": "マナレイア×GooZoo 稲沢店（リニューアル）",
       "prefecture": "愛知県",
       "city": "稲沢市",
@@ -12758,6 +12779,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "博多 明喜堂（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-25",
+      "category": "鶏惣菜・かしわ飯"
+    },
+    {
       "name": "Anker Store 岡山一番街",
       "prefecture": "岡山県",
       "city": "岡山市北区",
@@ -14739,6 +14767,20 @@
       "category": "コンビニ"
     },
     {
+      "name": "魚惣菜 きわみ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "魚惣菜"
+    },
+    {
+      "name": "お肉屋さんのお惣菜 かつヰ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "精肉・惣菜"
+    },
+    {
       "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（名古屋PARCO）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -15838,6 +15880,20 @@
       "category": "惣菜・和食"
     },
     {
+      "name": "台湾好吃（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-09",
+      "category": "台湾料理・惣菜"
+    },
+    {
+      "name": "四陸（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-09",
+      "category": "中華惣菜"
+    },
+    {
       "name": "WORKMAN Plus そよらひたち野うしく店",
       "prefecture": "茨城県",
       "city": "牛久市",
@@ -16277,6 +16333,13 @@
       "city": "大阪市東成区",
       "opening_date": "2026-12-16",
       "category": "ファストフード"
+    },
+    {
+      "name": "京つけもの 西利（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-16",
+      "category": "京漬物"
     },
     {
       "name": "マクドナルド １３号湯沢店",
