@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T14:17:39+09:00",
+  "updatetime": "2026-11-21T15:16:52+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15838,6 +15838,20 @@
       "category": "スープカレー"
     },
     {
+      "name": "駿河屋 溝ノ口店",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-12-10",
+      "category": "ホビー・リユースショップ（リニューアル）"
+    },
+    {
+      "name": "マクドナルド 柏駅東口店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-12-10",
+      "category": "ファストフード"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -15927,6 +15941,13 @@
       "city": "新宿区",
       "opening_date": "2026-12-12",
       "category": "とうふ料理店"
+    },
+    {
+      "name": "マクドナルド 池田本郷店",
+      "prefecture": "岐阜県",
+      "city": "揖斐郡池田町",
+      "opening_date": "2026-12-14",
+      "category": "ファストフード"
     },
     {
       "name": "chocoZAP あずきもち店",
@@ -16055,6 +16076,13 @@
       "category": "屋内型プレイグラウンド"
     },
     {
+      "name": "マクドナルド 緑橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市東成区",
+      "opening_date": "2026-12-16",
+      "category": "ファストフード"
+    },
+    {
       "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
       "prefecture": "千葉県",
       "city": "印旛郡酒々井町",
@@ -16067,6 +16095,20 @@
       "city": "横浜市中区",
       "opening_date": "2026-12-17",
       "category": "洋食レストラン"
+    },
+    {
+      "name": "マクドナルド １３号湯沢店",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "opening_date": "2026-12-17",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 芦原温泉駅前店",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "opening_date": "2026-12-17",
+      "category": "ファストフード"
     },
     {
       "name": "ENHYPEN WORLD TOUR 'BLOOD SAGA' IN JAPAN POP UP STORE（愛知）",
@@ -16109,6 +16151,20 @@
       "city": "福岡市博多区",
       "opening_date": "2026-12-18",
       "category": "映画館（リニューアル）"
+    },
+    {
+      "name": "マクドナルド 和歌山貴志川店",
+      "prefecture": "和歌山県",
+      "city": "紀の川市",
+      "opening_date": "2026-12-18",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 戸田氷川町店",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "opening_date": "2026-12-18",
+      "category": "ファストフード"
     },
     {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
@@ -16188,6 +16244,20 @@
       "category": "韓国料理店（日本初出店）"
     },
     {
+      "name": "マクドナルド 寝屋川音羽店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-12-22",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 豊中熊野町店",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "opening_date": "2026-12-22",
+      "category": "ファストフード"
+    },
+    {
       "name": "SQUARE ENIX NEXUS（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -16214,6 +16284,34 @@
       "city": "大阪市浪速区",
       "opening_date": "2026-12-23",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-23〜2027-01-05）"
+    },
+    {
+      "name": "マクドナルド 川崎等々力緑地店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 新潟巻店",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド フレスポ与野店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 岡崎中島町店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
     },
     {
       "name": "BATTLE OF TOKYO 超東京拡張展2.0（新宿マルイ 本館）",
@@ -16258,6 +16356,13 @@
       "category": "ホテル"
     },
     {
+      "name": "マクドナルド 千葉幸町店",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-12-25",
+      "category": "ファストフード"
+    },
+    {
       "name": "『銀河特急 ミルキー☆サブウェイ』POP UP STORE（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -16296,6 +16401,13 @@
       "name": "ケンタッキーフライドチキン 新小岩駅南口店",
       "prefecture": "東京都",
       "city": "葛飾区",
+      "opening_date": "2026-12-30",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 各務原いちょう通り店",
+      "prefecture": "岐阜県",
+      "city": "各務原市",
       "opening_date": "2026-12-30",
       "category": "ファストフード"
     },
