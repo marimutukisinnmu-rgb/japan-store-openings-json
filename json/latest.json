@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T19:16:10+09:00",
+  "updatetime": "2026-11-21T21:10:24+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -11932,6 +11932,13 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "トライアル西友 光が丘店",
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "opening_date": "2026-11-20",
+      "category": "スーパーマーケット（業態転換・新フォーマット）"
+    },
+    {
       "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
       "prefecture": "愛知県",
       "city": "長久手市",
@@ -14613,6 +14620,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "おこのみやき もんじゃやき ゑびすばし（EBISUBASHI）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-01",
+      "category": "お好み焼き・もんじゃ焼き"
+    },
+    {
       "name": "八郎そば 伊勢原店",
       "prefecture": "神奈川県",
       "city": "伊勢原市",
@@ -15115,6 +15129,13 @@
       "city": "帯広市",
       "opening_date": "2026-12-04",
       "category": "コンビニ"
+    },
+    {
+      "name": "食の3重丸銀座ショップ",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-12-04",
+      "category": "食品専門店・体験型ショップ"
     },
     {
       "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
