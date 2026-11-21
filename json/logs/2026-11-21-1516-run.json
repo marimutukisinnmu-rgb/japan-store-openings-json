@@ -1,0 +1,355 @@
+{
+  "run_at": "2026-11-21T15:16:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2375,
+    "added": 16,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2391
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "fec94d12c9513515a1395e02083fe824ee853e80",
+    "after_blob_sha": "865486b30141e0a3db34ceb245519f2db8932f83",
+    "commit_sha": "d3b5020f3c8e7c1f06f07606df2b1b03435c4094"
+  },
+  "added_items": [
+    {
+      "name": "マクドナルド 和歌山貴志川店",
+      "prefecture": "和歌山県",
+      "city": "紀の川市",
+      "opening_date": "2026-12-18",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 川崎等々力緑地店",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "駿河屋 溝ノ口店",
+      "prefecture": "神奈川県",
+      "city": "川崎市高津区",
+      "opening_date": "2026-12-10",
+      "category": "ホビー・リユースショップ（リニューアル）"
+    },
+    {
+      "name": "マクドナルド 柏駅東口店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-12-10",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 新潟巻店",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 戸田氷川町店",
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "opening_date": "2026-12-18",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 千葉幸町店",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-12-25",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 各務原いちょう通り店",
+      "prefecture": "岐阜県",
+      "city": "各務原市",
+      "opening_date": "2026-12-30",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド １３号湯沢店",
+      "prefecture": "秋田県",
+      "city": "湯沢市",
+      "opening_date": "2026-12-17",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド フレスポ与野店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 寝屋川音羽店",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-12-22",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 芦原温泉駅前店",
+      "prefecture": "福井県",
+      "city": "あわら市",
+      "opening_date": "2026-12-17",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 緑橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市東成区",
+      "opening_date": "2026-12-16",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 岡崎中島町店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 池田本郷店",
+      "prefecture": "岐阜県",
+      "city": "揖斐郡池田町",
+      "opening_date": "2026-12-14",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 豊中熊野町店",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "opening_date": "2026-12-22",
+      "category": "ファストフード"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "checked": "2026年11月・12月の公式新店一覧（各11店舗、計22店舗）を照合。全店舗が既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "additional_url": "https://japan.kfc.co.jp/news_release/8200"
+    },
+    {
+      "publisher": "株式会社MOM’S TOUCH JAPAN",
+      "checked": "MOM’S TOUCH 板橋駅東口店（2026-11-20）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000064.000129232.html"
+    },
+    {
+      "publisher": "株式会社フォーシーズ",
+      "checked": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店（2026-11-20）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.four-seeds.co.jp/news/article/rd-j781_eb6"
+    },
+    {
+      "publisher": "株式会社アダストリア",
+      "checked": "LAKOLE（サンシャインシティ ALTA、2026-11-20）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html"
+    },
+    {
+      "publisher": "株式会社T.O LAB / GYRO HOLDINGS",
+      "checked": "BAKERIES LAB.砂町銀座店（2026-11-21）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "checked": "POP MART LUCUA SOUTH店（2026-11-24）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "publisher": "キルフェボン株式会社",
+      "checked": "キル フェ ボン新宿（2026-11-28）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "checked": "マクドナルド 八幡南山店（2026-12-23）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/26606"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 和歌山貴志川店"
+      ],
+      "details": "2026-12-18開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：和歌山県紀の川市貴志川町前田17。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/g30538"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 川崎等々力緑地店"
+      ],
+      "details": "2026-12-23開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：神奈川県川崎市中原区宮内4-2-1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/14807"
+    },
+    {
+      "publisher": "株式会社エーツー（駿河屋）",
+      "items": [
+        "駿河屋 溝ノ口店"
+      ],
+      "details": "2026-12-10開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：神奈川県川崎市高津区久本3丁目1-28 2～4階。",
+      "url": "https://www.suruga-ya.jp/feature/realstore/mizonokuchi_purchase/index.html"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 柏駅東口店"
+      ],
+      "details": "2026-12-10開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：千葉県柏市柏1丁目1-11。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/a12731"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 新潟巻店"
+      ],
+      "details": "2026-12-23開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：新潟県新潟市西蒲区巻甲4061-1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/15572"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 戸田氷川町店"
+      ],
+      "details": "2026-12-18開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：埼玉県戸田市氷川町2丁目15。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/s11788"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 千葉幸町店"
+      ],
+      "details": "2026-12-25開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：千葉県千葉市美浜区幸町2丁目23-1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/o12728"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 各務原いちょう通り店"
+      ],
+      "details": "2026-12-30開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：岐阜県各務原市那加岩地町2丁目35-1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/g21591"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド １３号湯沢店"
+      ],
+      "details": "2026-12-17開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：秋田県湯沢市田町2丁目2-57。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y05524"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド フレスポ与野店"
+      ],
+      "details": "2026-12-23開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：埼玉県さいたま市浦和区上木崎1丁目8-4。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/a11793"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 寝屋川音羽店"
+      ],
+      "details": "2026-12-22開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：大阪府寝屋川市音羽町3-3。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/27851"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 芦原温泉駅前店"
+      ],
+      "details": "2026-12-17開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：福井県あわら市春宮1丁目619-10。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y18528"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 緑橋店"
+      ],
+      "details": "2026-12-16開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：大阪府大阪市東成区東中本2丁目17-26。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/g27861"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 岡崎中島町店"
+      ],
+      "details": "2026-12-23開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：愛知県岡崎市中島町字鮫田1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y23833"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 池田本郷店"
+      ],
+      "details": "2026-12-14開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：岐阜県揖斐郡池田町本郷628番1。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y21589"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "items": [
+        "マクドナルド 豊中熊野町店"
+      ],
+      "details": "2026-12-22開店・グランドオープン予定。公式採用／店舗ページに記載の所在地：大阪府豊中市熊野町4丁目9-3。",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/a27841"
+    }
+  ],
+  "deferred": [
+    {
+      "name": "マクドナルド 9号線亀岡篠店",
+      "reason": "二次情報は見つかったが、今回の調査では運営会社公式ページで開店日・所在地を一組として確認できず保留。"
+    },
+    {
+      "name": "マクドナルド 氷川台店",
+      "reason": "二次情報は見つかったが、今回の調査では運営会社公式ページで開店日・所在地を一組として確認できず保留。"
+    },
+    {
+      "name": "バーガーキング 岡崎六名南店",
+      "reason": "二次情報の掲載はあるが、今回の調査では公式店舗／企業発表による確認が取れず保留。"
+    },
+    {
+      "name": "コメダ珈琲店 神戸垂水店",
+      "reason": "二次情報の掲載はあるが、今回の調査では公式店舗／企業発表による確認が取れず保留。"
+    },
+    {
+      "name": "セカンドストリート クロスモール近江八幡店・長崎大学前店",
+      "reason": "二次情報の掲載はあるが、今回の調査では公式運営会社情報で開店日・所在地を確認できず保留。"
+    }
+  ],
+  "verification": {
+    "item_count": 2391,
+    "updatetime": "2026-11-21T15:16:52+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "new_items_present": true,
+    "each_new_item_count": true,
+    "old_items_retained": true,
+    "blob_sha": "865486b30141e0a3db34ceb245519f2db8932f83",
+    "fetched_after_write": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "公式情報で日付・所在地まで確認できない候補は追加していない。",
+    "今回の調査範囲外の全国すべての新規開店情報を網羅したとは保証できない。"
+  ]
+}
