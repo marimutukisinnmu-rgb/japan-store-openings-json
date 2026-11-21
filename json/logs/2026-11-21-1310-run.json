@@ -123,7 +123,11 @@
     "今回確認した範囲では、追加候補3件以外に一次情報で新規追加できる未登録店舗は確認できなかった。未確認情報は推測で追加していない。"
   ],
   "automation_status": {
-    "checked": false,
-    "note": "管理側の有効状態・スケジュールは別途確認が必要。"
+    "checked": true,
+    "is_enabled_after_run": false,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T13:15:00+09:00",
+    "note": "この実行完了後に管理側で有効状態をfalseへ変更。スケジュール定義は保持されているが、無効のため次回以降は自動実行されない。管理側のrun_detailsはin_progressのままで、完了時刻は未反映。"
   }
 }
