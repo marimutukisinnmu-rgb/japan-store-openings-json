@@ -1,0 +1,110 @@
+{
+  "run_at": "2026-11-21T23:19:17+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources": [
+    "https://www.tenchika.com/new-close/",
+    "https://www.tenchika.com/shop/aux_paradis/",
+    "https://www.tenchika.com/shop/marlmarl/",
+    "https://www.tenchika.com/shop/maryquant/",
+    "https://www.tenchika.com/shop/lounie/",
+    "https://www.aeon-kyushu.info/files/optionallink/00000787_file.pdf",
+    "https://www.aeon-kyushu.info/files/optionallink/00000789_file.pdf",
+    "https://www.aeon-kyushu.info/files/optionallink/00000772_file.pdf"
+  ],
+  "source_summary": [
+    "天神地下街公式のニュー／クローズショップおよび各店舗ページで、オゥパラディ、マールマール、マリークワント、ルーニィの開店・リニューアル日を確認。",
+    "イオン九州公式PDFで、マックスバリュエクスプレス向野２丁目店、マックスバリュ新宮店、イオンタウン久留米東櫛原SC、マックスバリュ東櫛原店、サイゼリヤの開店日を確認。"
+  ],
+  "before": {
+    "count": 2413,
+    "blob_sha": "5075875b1b0d633922b1223d7a413ea9038570d2"
+  },
+  "added": [
+    {
+      "name": "オゥパラディ 天神地下街店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-20",
+      "category": "香水・コスメ"
+    },
+    {
+      "name": "マールマール 天神地下街店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-25",
+      "category": "ベビー・キッズ用品・ギフト"
+    },
+    {
+      "name": "マリークワント 天神地下街店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-27",
+      "category": "コスメ・スキンケア・ファッション雑貨"
+    },
+    {
+      "name": "ルーニィ 天神地下街店（リニューアル）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-27",
+      "category": "レディースファッション（リニューアル）"
+    },
+    {
+      "name": "マックスバリュエクスプレス向野２丁目店",
+      "prefecture": "福岡県",
+      "city": "福岡市南区",
+      "opening_date": "2026-11-26",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "マックスバリュ新宮店（福岡県新宮町）",
+      "prefecture": "福岡県",
+      "city": "糟屋郡新宮町",
+      "opening_date": "2026-12-03",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "イオンタウン久留米東櫛原ショッピングセンター",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-19",
+      "category": "ショッピングセンター"
+    },
+    {
+      "name": "マックスバリュ東櫛原店",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-19",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "サイゼリヤ（イオンタウン久留米東櫛原SC）",
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "opening_date": "2026-11-26",
+      "category": "イタリアンレストラン"
+    }
+  ],
+  "already_present": [],
+  "after": {
+    "count": 2422,
+    "blob_sha": "40d2385ce003a02c80b841cb68253849cccc9f91",
+    "commit_sha": "6e89a93afb750aeb89b875dd780f6b6e04e4b6e5",
+    "updatetime": "2026-11-21T23:19:17+09:00"
+  },
+  "validation": {
+    "fetchedSha": "40d2385ce003a02c80b841cb68253849cccc9f91",
+    "expectedContentSha": "40d2385ce003a02c80b841cb68253849cccc9f91",
+    "shaMatches": true,
+    "count": 2422,
+    "expectedCount": 2422,
+    "updatetime": "2026-11-21T23:19:17+09:00",
+    "requiredFieldsMissing": 0,
+    "duplicateSignatures": 0,
+    "dateSorted": true,
+    "oldItemsPreserved": true,
+    "additionsPresent": true
+  },
+  "note": "不確定日程のテナントは追加せず、既存データは削除・上書きせず保持。"
+}
