@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-21T13:10:22+09:00",
+  "updatetime": "2026-11-21T14:17:39+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11911,6 +11911,20 @@
       "category": "創作串揚げ専門店"
     },
     {
+      "name": "眼鏡市場 名古屋妙音通店",
+      "prefecture": "愛知県",
+      "city": "名古屋市瑞穂区",
+      "opening_date": "2026-11-20",
+      "category": "メガネ・サングラス・コンタクトレンズ・補聴器"
+    },
+    {
+      "name": "PLAZA CAFE ON 3RD",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "カフェ・フローズンヨーグルト"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -14515,6 +14529,34 @@
       "category": "焼肉会席専門店"
     },
     {
+      "name": "Joyfull kitchen モラージュ柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-12-01",
+      "category": "ファミリーレストラン（ショッピングセンター内専門店スタイル）"
+    },
+    {
+      "name": "KA·RA·DA プチフィット さいか屋藤沢店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-12-01",
+      "category": "フィットネス施設"
+    },
+    {
+      "name": "Rintosullブランチ仙台店",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "opening_date": "2026-12-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull赤坂店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
       "name": "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
       "prefecture": "大阪府",
       "city": "大阪市北区",
@@ -14977,6 +15019,20 @@
       "category": "食品スーパー（リニューアル再開）"
     },
     {
+      "name": "KINOTOYA BAKE 札幌ステラプレイス店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-12-04",
+      "category": "焼きたてスイーツ専門店"
+    },
+    {
+      "name": "月島もんじゃ くうや本厚木",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "opening_date": "2026-12-04",
+      "category": "もんじゃ焼き"
+    },
+    {
       "name": "BONTEMPS 田川店",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -15038,6 +15094,13 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-05",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2026-12-05〜2026-12-13）"
+    },
+    {
+      "name": "浅草もんじゃ ぜんや 浅草エキミセ",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-05",
+      "category": "もんじゃ焼き"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
@@ -15843,6 +15906,13 @@
       "city": "大田区",
       "opening_date": "2026-12-11",
       "category": "期間限定木工品販売イベント（2026-12-11〜2026-12-22）"
+    },
+    {
+      "name": "七宝麻辣湯 長野店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-12-11",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "『夢色パティシエール』POP UP SHOP in マルイ（上野マルイ）",
