@@ -1,0 +1,237 @@
+{
+  "run_at": "2026-11-21T14:17:39+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_policy": "official_company_operator_and_facility_sources",
+  "counts": {
+    "before": 2365,
+    "added": 10,
+    "corrected": 0,
+    "duplicate_records_removed": 0,
+    "deleted": 0,
+    "after": 2375
+  },
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "8de27fceec9f3419a8024d83c56ecf48282f0acd",
+    "after_blob_sha": "fec94d12c9513515a1395e02083fe824ee853e80",
+    "commit_sha": "ba0f179645ac4849036021bac4f6cd255fd3563c"
+  },
+  "added_items": [
+    {
+      "name": "眼鏡市場 名古屋妙音通店",
+      "prefecture": "愛知県",
+      "city": "名古屋市瑞穂区",
+      "opening_date": "2026-11-20",
+      "category": "メガネ・サングラス・コンタクトレンズ・補聴器"
+    },
+    {
+      "name": "PLAZA CAFE ON 3RD",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-20",
+      "category": "カフェ・フローズンヨーグルト"
+    },
+    {
+      "name": "Joyfull kitchen モラージュ柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-12-01",
+      "category": "ファミリーレストラン（ショッピングセンター内専門店スタイル）"
+    },
+    {
+      "name": "KA·RA·DA プチフィット さいか屋藤沢店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-12-01",
+      "category": "フィットネス施設"
+    },
+    {
+      "name": "Rintosullブランチ仙台店",
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "opening_date": "2026-12-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull赤坂店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "KINOTOYA BAKE 札幌ステラプレイス店",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-12-04",
+      "category": "焼きたてスイーツ専門店"
+    },
+    {
+      "name": "月島もんじゃ くうや本厚木",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "opening_date": "2026-12-04",
+      "category": "もんじゃ焼き"
+    },
+    {
+      "name": "浅草もんじゃ ぜんや 浅草エキミセ",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-05",
+      "category": "もんじゃ焼き"
+    },
+    {
+      "name": "七宝麻辣湯 長野店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-12-11",
+      "category": "麻辣湯専門店"
+    }
+  ],
+  "verified_existing": [
+    {
+      "publisher": "株式会社T.O LAB / GYRO HOLDINGS",
+      "checked": "BAKERIES LAB.砂町銀座店（2026-11-21）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "publisher": "株式会社PAPABUBBLE",
+      "checked": "PAPABUBBLE イクスピアリ店（2026-11-21）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "publisher": "アトリエ株式会社",
+      "checked": "桐松屋（2026-12-01グランドオープン）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+    },
+    {
+      "publisher": "株式会社コシダカ",
+      "checked": "カラオケまねきねこ各務原店（2026-11-21）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000116.000178734.html"
+    },
+    {
+      "publisher": "株式会社ジョイフル",
+      "checked": "JOYFULL EXPRESS ゆめタウン久留米店（2026-11-24）は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000023968.html"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "checked": "公式新店一覧の2026-11-25〜2026-12-04掲載分を照合し、対象店舗は既存JSONに登録済み。",
+      "already_present": true,
+      "url": "https://www.lawson.co.jp/newstore/"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社メガネトップ",
+      "items": [
+        "眼鏡市場 名古屋妙音通店"
+      ],
+      "details": "2026-11-20 10:30オープン。名古屋市瑞穂区妙音通2丁目9-2。会社公式発表と公式店舗検索で照合。",
+      "url": "https://www.meganetop.co.jp/20261119_nagoyamyouontori/",
+      "location_url": "https://shop.meganeichiba.jp/meganeichiba/spot/detail?code=00970"
+    },
+    {
+      "publisher": "株式会社スタイリングライフ・ホールディングス プラザスタイル カンパニー",
+      "items": [
+        "PLAZA CAFE ON 3RD"
+      ],
+      "details": "2026-11-20オープン。東京都新宿区新宿3丁目30-13 新宿マルイ本館B1、PLAZA TOKYO+新宿店内。",
+      "url": "https://prtimes.jp/main/html/rd/p/000001104.000003436.html"
+    },
+    {
+      "publisher": "株式会社ジョイフル",
+      "items": [
+        "Joyfull kitchen モラージュ柏店"
+      ],
+      "details": "2026-12-01 10:00オープン。千葉県柏市大山台2丁目3番地、モラージュ柏PartⅠ 1階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000411.000023968.html"
+    },
+    {
+      "publisher": "株式会社ファクトリージャパングループ",
+      "items": [
+        "KA·RA·DA プチフィット さいか屋藤沢店"
+      ],
+      "details": "2026-12-01オープン。神奈川県藤沢市藤沢555 さいか屋藤沢店3階。会社公式発表で日付・所在地を確認。",
+      "url": "https://factoryjapan.jp/archives/6605"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "items": [
+        "Rintosullブランチ仙台店",
+        "Rintosull赤坂店"
+      ],
+      "details": "両店とも2026-12-01グランドオープン。ブランチ仙台店は宮城県仙台市泉区長命ヶ丘2-21-1 BRANCH仙台WEST 2F。赤坂店は福岡県福岡市中央区大名2-12-18 GMビル赤坂5F。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000173.000036736.html",
+      "additional_url": "https://prtimes.jp/main/html/rd/p/000000176.000036736.html"
+    },
+    {
+      "publisher": "JR北海道フレッシュキヨスク株式会社",
+      "items": [
+        "KINOTOYA BAKE 札幌ステラプレイス店"
+      ],
+      "details": "2026-12-04オープン。札幌市中央区北5条西2丁目、札幌ステラプレイスCENTER 1F北海道四季マルシェ店内。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000116975.html"
+    },
+    {
+      "publisher": "株式会社KISSUI GROUP",
+      "items": [
+        "月島もんじゃ くうや本厚木"
+      ],
+      "details": "2026-12-04 19:00グランドオープン。公式リリースの店舗概要欄は神奈川県厚木市中町2丁目7-24。本厚木駅徒歩3分。本文冒頭の1文に川崎市幸区・ラゾーナ川崎という矛盾した記載があるため、店舗概要欄と厚木市の地元情報を根拠に登録し、次回も再確認対象とする。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000186441.html",
+      "cross_check_url": "https://kaiten-heiten.saitama-magazine.co.jp/news/store-kanagawa-20261204-ca69cc32/"
+    },
+    {
+      "publisher": "株式会社KISSUI GROUP",
+      "items": [
+        "浅草もんじゃ ぜんや 浅草エキミセ"
+      ],
+      "details": "2026-12-05 11:00グランドオープン。東京都台東区花川戸1丁目4-1 エキミセ7F。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000186441.html"
+    },
+    {
+      "publisher": "株式会社ダイニングイノベーション",
+      "items": [
+        "七宝麻辣湯 長野店"
+      ],
+      "details": "2026-12-11オープン。長野県長野市大字南長野北石堂町1412-1 夏目ビル1階。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000501.000034691.html"
+    }
+  ],
+  "deferred": [],
+  "verification": {
+    "item_count": 2375,
+    "updatetime": "2026-11-21T14:17:39+09:00",
+    "missing_required_fields": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "duplicate_name_prefecture_city_date_keys": 0,
+    "new_items_present": true,
+    "each_new_item_count": 1,
+    "blob_sha": "fec94d12c9513515a1395e02083fe824ee853e80",
+    "fetched_after_write": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "月島もんじゃ くうや本厚木の公式リリース本文冒頭に、店舗概要欄と矛盾する川崎市幸区・ラゾーナ川崎の記載がある。店舗概要欄では厚木市中町2丁目7-24と明記され、厚木市の地域情報でも同住所が確認できるため追加したが、次回実行でも再確認する。",
+    "今回の調査範囲外の全国すべての新規開店情報を網羅したとは保証できない。一次情報で日付・所在地を確認できない候補は推測で追加していない。"
+  ],
+  "automation_status": {
+    "checked": true,
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_field": "2026-11-21T14:15:00+09:00",
+    "next_run_time_note": "取得時点で今回の実行予定時刻のまま更新されていないため、次回の未来時刻は未確定。",
+    "last_run_status": "in_progress",
+    "completed_at": null,
+    "note": "タスクは有効。スケジュール変更・停止・削除は実施していない。現在実行中のrun履歴はまだ完了時刻が記録されていない。"
+  }
+}
