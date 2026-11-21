@@ -1,0 +1,95 @@
+{
+  "run_at": "2026-11-22T04:14:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "no_change",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "9f945111e190a9673584861bb7c8696c72199b36",
+    "blob_sha_after": "9f945111e190a9673584861bb7c8696c72199b36",
+    "updatetime": "2026-11-22T03:18:30+09:00",
+    "item_count_before": 2446,
+    "item_count_after": 2446,
+    "modified": false
+  },
+  "findings": {
+    "new_confirmed_items": 0,
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "duplicate_candidates_preserved": [
+      "LAWSON＋toks等々力緑地 / LAWSON + toks 等々力緑地店（同一日・同一市区町村、表記・カテゴリ差。統合せず保留）"
+    ],
+    "source_checks": [
+      {
+        "name": "SUBWAY公式・イオンモール伊達店",
+        "url": "https://subway.co.jp/news/20261120_01/",
+        "result": "2026-11-27開店・福島県伊達市を確認。SUBWAY イオンモール伊達店は既存登録済み"
+      },
+      {
+        "name": "ローソン公式・全国新店情報",
+        "url": "https://www.lawson.co.jp/newstore/",
+        "result": "2026-11-25〜2026-12-04掲載分を照合。該当店は既存登録済み。LAWSON＋toks等々力緑地の類似表記2レコードは保護し未変更"
+      },
+      {
+        "name": "KFC公式・11月新店情報（2026-11-20更新）",
+        "url": "https://japan.kfc.co.jp/news_release/8199",
+        "result": "11月新店11店舗を照合。全店既存登録済み"
+      },
+      {
+        "name": "タリーズ公式・2026年プレスリリース一覧",
+        "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+        "result": "イオンモール伊達店・イオンモール小山店とも既存登録済み"
+      },
+      {
+        "name": "トライアルホールディングス公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000146.000043820.html",
+        "result": "トライアル西友 光が丘店は既存登録済み"
+      },
+      {
+        "name": "フォーシーズ公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000947.000002646.html",
+        "result": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店は既存登録済み"
+      },
+      {
+        "name": "パパブブレ公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "result": "PAPABUBBLE イクスピアリ店は既存登録済み"
+      },
+      {
+        "name": "ファイブフォックス公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001216.000014225.html",
+        "result": "コムサステージ銀座店は既存登録済み"
+      },
+      {
+        "name": "GYRO HOLDINGS発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "result": "BAKERIES LAB.砂町銀座店は既存登録済み"
+      },
+      {
+        "name": "キルフェボン公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+        "result": "キル フェ ボン新宿は既存登録済み"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0
+  },
+  "save": {
+    "latest_json": "not_written_no_confirmed_unregistered_items",
+    "run_log": "pending"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly; BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T04:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
+  }
+}
