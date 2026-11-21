@@ -128,6 +128,15 @@
   },
   "save": {
     "latest_json": "updated_and_refetched",
-    "run_log": "pending"
+    "run_log": "created_and_refetched"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T08:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
   }
 }
