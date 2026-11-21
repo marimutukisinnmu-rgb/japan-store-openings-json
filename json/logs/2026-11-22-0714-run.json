@@ -1,0 +1,98 @@
+{
+  "run_at": "2026-11-22T07:14:01+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "5f5696a5cd8c1fd06c33fbc610cf73597b046c9d",
+    "blob_sha_after": "fb13da56baf5e9cbcc6a657153186909511f7d9c",
+    "commit_sha": "57686180397346cf0f135d836c83119749844fde",
+    "updatetime": "2026-11-22T07:14:01+09:00",
+    "item_count_before": 2458,
+    "item_count_after": 2460,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 2,
+    "added_items": [
+      {
+        "name": "探偵キャンプ劇場 上野店",
+        "prefecture": "東京都",
+        "city": "台東区",
+        "opening_date": "2026-11-28",
+        "category": "体験型推理ゲーム施設"
+      },
+      {
+        "name": "麺処 油道 加古川本店",
+        "prefecture": "兵庫県",
+        "city": "加古川市",
+        "opening_date": "2026-11-28",
+        "category": "油そば専門店"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_items": [
+      {
+        "name": "麺処 油道 加古川本店（一次情報の直接取得）",
+        "reason": "公式Instagramの投稿ページは取得制限で開けなかった。アクセス可能な地域情報メディアの記事には公式Instagramの埋め込み投稿、開店日、所在地が掲載されていたため、同記事を確認可能な二次情報源として採用。一次ページの直接取得制限は未解消。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "株式会社エクスペリフル公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000068.000113176.html",
+        "result": "探偵キャンプ劇場 上野店の2026-11-28オープン、東京都台東区下谷1丁目5-22 Experiful Garage 1階を確認。未登録のため追加。"
+      },
+      {
+        "name": "加古川のこと（公式Instagram投稿を埋め込んだ地域情報メディア記事）",
+        "url": "https://harimania.com/openclose/mendokoro-yudou-kakogawa-2026/",
+        "result": "麺処 油道 加古川本店の2026-11-28開店、兵庫県加古川市加古川町寺家町54-2を確認。記事内に店舗公式Instagram投稿の埋め込みを確認。公式Instagramへの直接アクセスは取得制限。"
+      },
+      {
+        "name": "PPIH公式発表",
+        "url": "https://ppih.co.jp/news/pdf/221120_news_RHkameido%2CRHasakasenzui.pdf",
+        "result": "ロビン・フッド亀戸店（2026-12-08）とロビン・フッド朝霞泉水店（2026-12-15）は既存登録済み。変更なし。"
+      },
+      {
+        "name": "静鉄プロパティマネジメント公式発表",
+        "url": "https://www.zaikei.co.jp/releases/3727781/",
+        "result": "新静岡セノバの12月新店4件を照合。既存登録済みのため追加なし。"
+      },
+      {
+        "name": "株式会社パルコ公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+        "result": "仙台PARCO2の12月3日・12月10日・2027年1月28日の新店・リニューアル情報を照合。既存登録済みのため追加なし。"
+      },
+      {
+        "name": "PR TIMES新店オープン関連発表",
+        "url": "https://prtimes.jp/topics/keywords/%E6%96%B0%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
+        "result": "桐松屋、秋野テーブル、出雲殿互助会の家族葬 福田、食の3重丸銀座ショップ、カラオケBanBan博多駅前店、NICOPA幕張店などを照合。対象候補は既存登録済み。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "target_item_matches": 2,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true
+  },
+  "save": {
+    "latest_json": "updated_and_refetched",
+    "run_log": "created_pending_verification"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly; BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T07:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
+  }
+}
