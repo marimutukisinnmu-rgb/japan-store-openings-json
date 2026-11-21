@@ -1,0 +1,129 @@
+{
+  "run_at": "2026-11-21T19:16:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_with_additions",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "official_sources": [
+      "https://prtimes.jp/main/html/rd/p/000000008.000097161.html",
+      "https://www.mistore.jp/store/shinjuku/shops/foods/epicerie/shopnews_list/shopnews032.html",
+      "https://sendai.parco.jp/feature/detail/?id=107308",
+      "https://store-info.skylark.co.jp/bamiyan/list/",
+      "https://store-info.skylark.co.jp/skylark/list/",
+      "https://store-info.skylark.co.jp/syabuyo/map/198492/"
+    ],
+    "verified_new_entries": [
+      "ヴァンサン ゲルレ ビスキュイ フランセ（伊勢丹新宿店）— 2026-12-02、東京都新宿区",
+      "バーミヤン BiVi仙台駅東口店 — 2026-12-13、宮城県仙台市宮城野区",
+      "しゃぶ葉 恵比寿駅東口店 — 2026-12-17、東京都渋谷区",
+      "しゃぶ葉 イオン松江店 — 2026-12-18、島根県松江市",
+      "ガスト ミュープラット神宮前店 — 2026-12-21、愛知県名古屋市熱田区"
+    ],
+    "verified_existing_without_readdition": [
+      "THE CITY BAKERY 新宿",
+      "THE CITY BAKERY BISTRO RUBIN 新宿",
+      "雨は、やさしくNo,2（東京ラーメンストリート）",
+      "中華そば専門 田中そば店（仙台PARCO2）",
+      "アトレ中野の確認可能な店舗群",
+      "エトモ菊名と新規テナント5店",
+      "八郎そば 伊勢原店",
+      "しゃぶ葉 池田駅前店",
+      "バーミヤン 広島アルパーク店",
+      "バーミヤン 大宮駅東口店",
+      "バーミヤン イオンモール伊達店",
+      "しゃぶ葉 岐阜アクティブＧ店",
+      "くし葉 新静岡セノバ店"
+    ],
+    "pending_not_added": [
+      {
+        "name": "タリーズコーヒー MORIOKA TSUTAYA（仮）店",
+        "reason": "確認できた情報は12月上旬予定までで、具体的な開店日が確認できないため"
+      },
+      {
+        "name": "MEFULL渋谷道玄坂の入居テナント",
+        "reason": "施設の2027年1月順次開業は確認できたが、個別店舗の具体的な開店日が確認できないため"
+      }
+    ]
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ヴァンサン ゲルレ ビスキュイ フランセ（伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "洋菓子・焼き菓子専門店"
+      },
+      {
+        "name": "バーミヤン BiVi仙台駅東口店",
+        "prefecture": "宮城県",
+        "city": "仙台市宮城野区",
+        "opening_date": "2026-12-13",
+        "category": "中華レストラン"
+      },
+      {
+        "name": "しゃぶ葉 恵比寿駅東口店",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-12-17",
+        "category": "しゃぶしゃぶ・食べ放題"
+      },
+      {
+        "name": "しゃぶ葉 イオン松江店",
+        "prefecture": "島根県",
+        "city": "松江市",
+        "opening_date": "2026-12-18",
+        "category": "しゃぶしゃぶ・食べ放題"
+      },
+      {
+        "name": "ガスト ミュープラット神宮前店",
+        "prefecture": "愛知県",
+        "city": "名古屋市熱田区",
+        "opening_date": "2026-12-21",
+        "category": "ファミリーレストラン"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2404,
+    "updatetime": "2026-11-21T18:16:00+09:00",
+    "blob_sha": "3765b9f650c20a06cae5953ee3b3ee645f354a87"
+  },
+  "after": {
+    "count": 2409,
+    "updatetime": "2026-11-21T19:16:10+09:00",
+    "blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "commit_sha": "58bc1ba25afe1b9902068f397e31e4236fabc69e"
+  },
+  "validation": {
+    "before_count": 2404,
+    "after_count": 2409,
+    "added_count": 5,
+    "all_existing_preserved": true,
+    "additions_present": true,
+    "missing_required": 0,
+    "duplicate_signatures": 0,
+    "date_sorted": true,
+    "fetched_blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "returned_blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "blob_sha_matches": true
+  },
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_reported": "2026-11-21T19:15:00+09:00",
+    "last_run": {
+      "id": "7f3458bf-4950-832c-8adf-84b080f18cc8",
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-21T10:15:00Z",
+      "started_at": "2026-11-21T10:16:09.180847Z",
+      "completed_at": null
+    },
+    "note": "管理側の実行完了記録は、確認時点では未反映。JSON保存検証とは別に扱う。"
+  }
+}
