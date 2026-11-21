@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T00:18:46+09:00",
+  "updatetime": "2026-11-22T01:15:04+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -13990,6 +13990,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "マクドナルド 桜の郷店",
+      "prefecture": "茨城県",
+      "city": "東茨城郡茨城町",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
       "name": "chocoZAP 豊橋牛川通",
       "prefecture": "愛知県",
       "city": "豊橋市",
@@ -15250,6 +15257,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "フェアモール福井ロフト",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "生活雑貨"
+    },
+    {
       "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
       "prefecture": "愛知県",
       "city": "名古屋市中区",
@@ -15894,6 +15908,13 @@
       "category": "中華惣菜"
     },
     {
+      "name": "マクドナルド ９号線亀岡篠店",
+      "prefecture": "京都府",
+      "city": "亀岡市",
+      "opening_date": "2026-12-09",
+      "category": "ファストフード"
+    },
+    {
       "name": "WORKMAN Plus そよらひたち野うしく店",
       "prefecture": "茨城県",
       "city": "牛久市",
@@ -16319,6 +16340,13 @@
       "city": "加古川市",
       "opening_date": "2026-12-15",
       "category": "ハンバーガー"
+    },
+    {
+      "name": "プロント珈琲庭園 nonowa 国立店",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "opening_date": "2026-12-15",
+      "category": "フルサービス型カフェ"
     },
     {
       "name": "のびっこジャンボ イオンタウン防府店",
