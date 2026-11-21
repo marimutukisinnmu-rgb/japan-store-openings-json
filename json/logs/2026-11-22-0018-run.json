@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-11-22T00:18:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "sources": [
+    "https://prtimes.jp/main/html/rd/p/000004058.000025003.html",
+    "https://www.lawson.co.jp/newstore/",
+    "https://japan.kfc.co.jp/news_release/8199",
+    "https://www.gongcha.co.jp/pressrelease/",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://store-info.skylark.co.jp/bamiyan/list/",
+    "https://kyodonewsprwire.jp/release/202611119913"
+  ],
+  "source_summary": [
+    "大丸福岡天神店 東館B2の公式発表で、11月11日のリニューアル対象（RF1・融合・神戸コロッケ）、11月25日・12月2日・12月9日・12月16日の新規ブランド計6件の店名・日付を確認。",
+    "ローソン公式新店一覧の11月25日〜12月4日掲載分を既存データと照合し、すべて登録済みと確認。",
+    "KFC公式11月新店情報（11店舗）を照合し、すべて登録済みと確認。",
+    "ゴンチャ公式発表の豊田T-FACE店・イオンモール伊達店・富山MAROOT店を照合し、すべて登録済みと確認。",
+    "POP MART LUCUA SOUTH、ふくしまひらいビル関連店舗、すかいらーくの新店一覧も照合し、今回追加対象はなし。"
+  ],
+  "before": {
+    "count": 2422,
+    "blob_sha": "40d2385ce003a02c80b841cb68253849cccc9f91"
+  },
+  "added": [
+    {
+      "name": "RF1（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "惣菜・サラダ（リニューアル）"
+    },
+    {
+      "name": "融合（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "アジアン惣菜（リニューアル）"
+    },
+    {
+      "name": "神戸コロッケ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-11",
+      "category": "コロッケ・惣菜（リニューアル）"
+    },
+    {
+      "name": "博多 明喜堂（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-25",
+      "category": "鶏惣菜・かしわ飯"
+    },
+    {
+      "name": "魚惣菜 きわみ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "魚惣菜"
+    },
+    {
+      "name": "お肉屋さんのお惣菜 かつヰ（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "精肉・惣菜"
+    },
+    {
+      "name": "台湾好吃（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-09",
+      "category": "台湾料理・惣菜"
+    },
+    {
+      "name": "四陸（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-09",
+      "category": "中華惣菜"
+    },
+    {
+      "name": "京つけもの 西利（大丸福岡天神店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-16",
+      "category": "京漬物"
+    }
+  ],
+  "already_present": [],
+  "after": {
+    "count": 2431,
+    "blob_sha": "a437ed342400182a83e7e0cd63b0ebcf9e6e9d12",
+    "commit_sha": "cf6d513c4ad03ee9f3d9246b61e5a923b2015a17",
+    "updatetime": "2026-11-22T00:18:46+09:00"
+  },
+  "validation": {
+    "fetchedSha": "a437ed342400182a83e7e0cd63b0ebcf9e6e9d12",
+    "expectedContentSha": "a437ed342400182a83e7e0cd63b0ebcf9e6e9d12",
+    "shaMatches": true,
+    "count": 2431,
+    "expectedCount": 2431,
+    "updatetime": "2026-11-22T00:18:46+09:00",
+    "requiredFieldsMissing": 0,
+    "invalidDateFormats": 0,
+    "duplicateSignatureGroupsBefore": 4,
+    "duplicateSignatureGroupsAfter": 4,
+    "duplicateGroupsIntroduced": 0,
+    "dateSorted": true,
+    "oldItemsPreserved": true,
+    "additionsPresent": true
+  },
+  "note": "公式情報で日付が明示された店舗のみ追加。既存項目は削除・訂正せず保持。既存の表記ゆれを含む重複署名候補4組は、意味・カテゴリの確認なしに統合せずそのまま保持。"
+}
