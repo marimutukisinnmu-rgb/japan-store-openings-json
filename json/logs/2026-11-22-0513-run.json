@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-22T05:13:23+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "9f945111e190a9673584861bb7c8696c72199b36",
+    "blob_sha_after": "697e14e8868cc71917faacbf84eb32aeb7037ef3",
+    "updatetime": "2026-11-22T05:13:23+09:00",
+    "item_count_before": 2446,
+    "item_count_after": 2447,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 1,
+    "added_items": [
+      {
+        "name": "ワインの酒場。ディプント名駅店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-12-09",
+        "category": "ワイン酒場"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "duplicate_candidates_preserved": [],
+    "held_items": [
+      {
+        "name": "お肉の専門店スギモト（東京ソラマチ）",
+        "reason": "公式施設発表は『11月下旬オープン』までで、日付が特定できないためISO日付を推測せず保留"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "株式会社プロントコーポレーション公式プレスリリース（PR TIMES配信）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000351.000018877.html",
+        "result": "ワインの酒場。ディプント名駅店、2026-12-09開店、愛知県名古屋市中村区名駅3-23-7を確認。未登録のため追加"
+      },
+      {
+        "name": "プロント公式ニュース一覧",
+        "url": "https://www.pronto.co.jp/company/news/2026/",
+        "result": "PRONTO 新小岩店（2026-11-24）とプロント珈琲庭園 nonowa 国立店（2026-12-15）は既存登録済み。公式一覧ページの直接取得は403だったが、個別のPR TIMES発表・検索結果で照合"
+      },
+      {
+        "name": "ローソン公式新店情報",
+        "url": "https://www.lawson.co.jp/newstore/index.html",
+        "result": "検索結果に表示された2026-12-01〜12-03の候補10店をJSON照合し、全件既存登録済み。検索結果表示とページ本文の取得範囲に差があるため、掲載内容の完全性は未確認"
+      },
+      {
+        "name": "株式会社WithGreen公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "result": "WithGreen 光が丘IMA店（2026-11-26）は既存登録済み"
+      },
+      {
+        "name": "アトリエ株式会社公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+        "result": "桐松屋（2026-12-01、東京都墨田区東向島）は既存登録済み。プレオープン11-28とグランドオープン12-01を区別"
+      },
+      {
+        "name": "株式会社POP MART JAPAN公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "result": "POP MART LUCUA SOUTH店（2026-11-24）は既存登録済み"
+      },
+      {
+        "name": "株式会社ベルーナ公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000743.000016236.html",
+        "result": "BELLUNA イオンモール伊達店（2026-11-27）は既存登録済み"
+      },
+      {
+        "name": "株式会社うかい公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000110.000013588.html",
+        "result": "THE UKAI TOFUYA（2026-12-12、東京都新宿区）は既存登録済み"
+      },
+      {
+        "name": "東京スカイツリータウン公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html",
+        "result": "お肉の専門店スギモトは11月下旬とだけ案内。日付未確定のため追加せず保留"
+      },
+      {
+        "name": "GYRO HOLDINGS公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "result": "BAKERIES LAB.砂町銀座店（2026-11-21）は既存登録済み"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "target_item_matches": 1,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0
+  },
+  "save": {
+    "latest_json": "updated_and_refetched",
+    "run_log": "pending"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly; BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T05:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
+  }
+}
