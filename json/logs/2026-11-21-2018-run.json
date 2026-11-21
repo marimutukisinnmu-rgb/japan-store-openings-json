@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-11-21T20:18:49+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_no_changes",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "official_sources": [
+      "https://www.lawson.co.jp/newstore/",
+      "https://ppih.co.jp/news/2026/pr/",
+      "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+      "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf",
+      "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "https://daitouen.jp/archives/4605.html",
+      "https://tohakusha.com/main/html/rd/p/000000192.000126693.html",
+      "https://wendys-firstkitchen.co.jp/news/",
+      "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "https://subway.co.jp/news/20261120_01/",
+      "https://store-info.skylark.co.jp/bamiyan/list/",
+      "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+    ],
+    "verified_existing_without_readdition": [
+      "ローソン公式新店一覧の2026-11-25〜2026-12-04の27店舗（全件登録済み）",
+      "LAWSON＋toks等々力緑地",
+      "ロビン・フッド北新宿店",
+      "ロビン・フッド亀戸店",
+      "ロビン・フッド朝霞泉水店",
+      "MEGAドン・キホーテ Olympic 高井戸店",
+      "秋野テーブル",
+      "ラ パナデリーア ドッツ（日本橋高島屋S.C. POP UP SHOP）",
+      "大東園石和店",
+      "ウェンディーズ・ファーストキッチン ワカバウォーク店",
+      "桐松屋",
+      "THE UKAI TOFUYA",
+      "横濱洋食 鷗亭",
+      "SUBWAY イオンモール伊達店",
+      "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "タリーズコーヒー with U イオンモール小山店"
+    ],
+    "pending_not_added": []
+  },
+  "changes": {
+    "added": [],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2409,
+    "updatetime": "2026-11-21T19:16:10+09:00",
+    "blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3"
+  },
+  "after": {
+    "count": 2409,
+    "updatetime": "2026-11-21T19:16:10+09:00",
+    "blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "commit_sha": null
+  },
+  "validation": {
+    "before_count": 2409,
+    "after_count": 2409,
+    "added_count": 0,
+    "all_existing_preserved": true,
+    "additions_present": true,
+    "missing_required": 0,
+    "invalid_dates": 0,
+    "duplicate_signatures": 0,
+    "normalized_name_duplicate_groups": 4,
+    "date_sorted": true,
+    "fetched_blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "expected_blob_sha": "bc3187f4f1240d0f4e412d2e0645bfd6daa7b4f3",
+    "blob_sha_matches": true,
+    "notes": [
+      "4組の名称は空白の有無だけが異なり、同一店舗の可能性が高い。カテゴリ表記も異なるため、この実行では削除・統合せず保護した。"
+    ]
+  },
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_reported": "2026-11-21T20:15:00+09:00",
+    "last_run": {
+      "id": "3ea23fba-2e9c-8323-8674-632cd5354fc5",
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-21T11:15:00Z",
+      "started_at": "2026-11-21T11:18:47.959441Z",
+      "completed_at": null
+    },
+    "note": "確認時点で今回の実行履歴はin_progress、completed_at未設定。定期タスクは有効で、スケジュールは変更していない。"
+  }
+}
