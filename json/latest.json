@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T06:12:21+09:00",
+  "updatetime": "2026-11-22T07:14:01+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14450,6 +14450,20 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "探偵キャンプ劇場 上野店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-11-28",
+      "category": "体験型推理ゲーム施設"
+    },
+    {
+      "name": "麺処 油道 加古川本店",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "opening_date": "2026-11-28",
+      "category": "油そば専門店"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
