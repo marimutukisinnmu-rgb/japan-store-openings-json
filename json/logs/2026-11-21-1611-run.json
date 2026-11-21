@@ -111,7 +111,7 @@
   },
   "before": {
     "count": 2391,
-    "updatetime": "previous metadata preserved except updatetime",
+    "updatetime": "2026-11-21T15:16:52+09:00",
     "blob_sha": "865486b30141e0a3db34ceb245519f2db8932f83"
   },
   "after": {
@@ -134,5 +134,13 @@
     "blob_sha_matches": true,
     "commit_sha": "63777ba5f7f66e860852813ce01846d921908540"
   },
-  "errors": []
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-21T16:15:00+09:00",
+    "latest_run_recorded_status": "in_progress",
+    "completed_at": null
+  }
 }
