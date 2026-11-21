@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-11-21T22:17:09+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "completed_with_additions",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "research": {
+    "primary_sources": [
+      "https://akashi.mypl.net/shop/00000382591/news?d=3481645",
+      "https://akashi.mypl.net/shop/00000382591/",
+      "https://prtimes.jp/main/html/rd/p/000000058.000033002.html",
+      "https://prtimes.jp/main/html/rd/p/000002841.000002296.html",
+      "https://prtimes.jp/main/html/rd/p/000000064.000129232.html",
+      "https://prtimes.jp/main/html/rd/p/000001103.000005743.html",
+      "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    ],
+    "corroborating_sources": [
+      "https://akashi-journal.com/openclose/3bake-open/"
+    ],
+    "added_after_source_and_existing_data_check": [
+      {
+        "name": "3Bake",
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "opening_date": "2026-11-14",
+        "category": "ベーカリー",
+        "note": "移転先でのグランドオープン。店舗運営者が掲載した告知で11月14日を確認。"
+      }
+    ],
+    "verified_existing_without_readdition": [
+      "もりもり寿し（秋葉原UDX）：2026-12-10",
+      "アクロスプラザ和泉観音寺と公表済みテナント",
+      "MOM’S TOUCH 板橋駅東口店：2026-11-20",
+      "シェイク シャック 西新宿店：2026-11-28",
+      "BAKERIES LAB.砂町銀座店：2026-11-21",
+      "QUEEN SHOP（ルクア イーレ）：2026-12-01",
+      "ケンエレスタンド（ルクア イーレ）：2026-12-01"
+    ],
+    "pending_not_added": [
+      "アクロスプラザ和泉観音寺の未公表テナント2区画：店舗名・個別開店日が未公表のため保留"
+    ],
+    "access_notes": [
+      "3Bake公式Instagramの埋め込みページは取得制限で直接確認できず。ただし、3Bake名義の店舗ニュースと店舗プロフィールで開店日・住所を確認し、地域メディア記事でも照合。"
+    ]
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "3Bake",
+        "prefecture": "兵庫県",
+        "city": "明石市",
+        "opening_date": "2026-11-14",
+        "category": "ベーカリー"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "before": {
+    "count": 2412,
+    "updatetime": "2026-11-21T21:10:24+09:00",
+    "blob_sha": "0432c1129f65e136ec4ab7e6d8c0998bae254b20"
+  },
+  "after": {
+    "count": 2413,
+    "updatetime": "2026-11-21T22:17:09+09:00",
+    "blob_sha": "5075875b1b0d633922b1223d7a413ea9038570d2",
+    "commit_sha": "f1cf25fade8cf3d35724a2a35635aa898d2f1834"
+  },
+  "validation": {
+    "count": 2413,
+    "added_record_present": true,
+    "missing_required": 0,
+    "duplicate_signatures": 0,
+    "date_sorted": true,
+    "fetched_blob_sha": "5075875b1b0d633922b1223d7a413ea9038570d2",
+    "expected_blob_sha": "5075875b1b0d633922b1223d7a413ea9038570d2",
+    "blob_sha_matches": true
+  },
+  "errors": [],
+  "automation": {
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "note": "確認時点で有効状態を維持。定期スケジュールは変更していない。"
+  }
+}
