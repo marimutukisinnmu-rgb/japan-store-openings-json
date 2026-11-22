@@ -119,7 +119,7 @@
   },
   "save": {
     "latest_json": "unchanged_existing_file_protected",
-    "run_log": "pending"
+    "run_log": "created_and_refetched"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
