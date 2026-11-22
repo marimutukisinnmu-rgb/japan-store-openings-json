@@ -1,0 +1,163 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-23T05:16:42+09:00",
+  "status": "no_update",
+  "latest_json": {
+    "path": "json/latest.json",
+    "item_count_before": 2533,
+    "item_count_after": 2533,
+    "blob_sha_before": "6b58b2f4d236de50153df85755e838f0a2126cd7",
+    "blob_sha_after": "6b58b2f4d236de50153df85755e838f0a2126cd7",
+    "updatetime_before": "2026-11-23T03:15:52+09:00",
+    "updatetime_after": "2026-11-23T03:15:52+09:00",
+    "modified": false
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "sources": [
+    {
+      "name": "KFC 2026年11月の新店情報",
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "公式検索結果に掲載された9店舗を開店日・店名で照合し、全9店舗が既存JSONに登録済みと確認。ページ本体の直接取得は404。"
+    },
+    {
+      "name": "KFC 2026年12月の新店情報",
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "result": "公式ページ掲載の11店舗を開店日・店名・所在地で照合し、全11店舗が既存JSONに登録済みと確認。"
+    },
+    {
+      "name": "ローソン 全国の新店情報",
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "result": "2026-11-25から2026-12-03までの21店舗を開店日・都道府県・市区町村・店舗名で照合。全店舗が既存JSONに登録済み。"
+    },
+    {
+      "name": "ゴンチャ 公式プレスリリース・新店舗情報",
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "related_urls": [
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1330bbdabdac70b0c3050fcef182a651.pdf",
+        "https://www.gongcha.co.jp/豊田t-face店/"
+      ],
+      "result": "豊田T-FACE店（2026-11-27）と富山MAROOT店（2026-12-10）は既存登録済み。各店舗について空白表記違いのレコードが2件ずつ存在することを検出。追加は行わず既存レコードを保持。"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "publisher": "株式会社POP MART JAPAN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "2026-11-24開店予定を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "publisher": "株式会社WithGreen",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "result": "2026-11-26開店予定を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "秋野テーブル",
+      "publisher": "株式会社スープストックトーキョー",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "result": "2026-12-01、東京都渋谷区・渋谷ストリーム内の開業予定を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "うちだ屋 新宮店",
+      "publisher": "株式会社うちだ屋",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000178931.html",
+      "result": "2026-12-15、福岡県糟屋郡新宮町の開店予定を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "BAKERIES LAB.砂町銀座店",
+      "publisher": "GYRO HOLDINGS / 株式会社T.O LAB",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "2026-11-21開店情報を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "publisher": "株式会社PAPABUBBLE",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "2026-11-21開店情報を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "publisher": "キルフェボン株式会社",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "2026-11-28開店予定を確認。既存JSONに登録済み。"
+    }
+  ],
+  "source_errors": [
+    {
+      "source": "KFC 2026年11月の新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "error": "ページ本体の直接取得は404。公式ドメインの検索結果には9店舗の掲載内容が表示され、既存JSONとの照合は実施できた。直接ページ取得は未解決。"
+    }
+  ],
+  "duplicate_review": {
+    "exact_full_record_duplicate_groups": 0,
+    "normalized_name_prefecture_city_date_duplicate_groups": 6,
+    "groups": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    ],
+    "possible_duplicate_not_counted": [
+      [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ]
+    ],
+    "action": "既存データの削除・統合・名称訂正は行わず、要確認として保持。"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_full_record_duplicate_groups": 0,
+    "normalized_name_prefecture_city_date_duplicate_groups": 6,
+    "opening_date_sort": true,
+    "item_count_matches": true,
+    "latest_blob_sha_verified": true,
+    "latest_json_modified": false
+  },
+  "automation_status": {
+    "enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_check": "2026-11-23T05:15:00+09:00",
+    "current_run_recorded_status_at_check": "in_progress",
+    "completion_timestamp_at_check": null,
+    "schedule_changed": false,
+    "disabled_or_deleted": false
+  },
+  "notes": [
+    "今回確認した公式情報のうち、未登録の確定店舗は見つからなかった。",
+    "latest.jsonの内容とupdatetimeは変更せず、既存データを保護した。",
+    "既存JSONには正規化後の重複候補が6組あり、別途LAWSON + toksの表記違い候補も確認した。自動統合は行わない。",
+    "KFC 11月ページは直接取得エラーがあるため、公式検索結果で確認できた範囲と直接取得できない点を分けて記録した。"
+  ]
+}
