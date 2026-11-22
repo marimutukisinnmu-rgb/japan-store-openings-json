@@ -1,0 +1,172 @@
+{
+  "run_at": "2026-11-22T18:13:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "660067f6949b57c2cc41c6505492dd45d96b3659",
+    "blob_sha_after": "864ef612df521a47b41fc9735ee913a434319abe",
+    "updatetime": "2026-11-22T18:13:03+09:00",
+    "item_count": 2498,
+    "changed": true
+  },
+  "research": [
+    {
+      "source": "ゼンショーホールディングス公式・新店情報",
+      "url": "https://www.zensho.co.jp/jp/brands/newshop/",
+      "result": "2026-09-16〜2026-11-12掲載分を照合。未登録12店舗の開店日を確認"
+    },
+    {
+      "source": "はま寿司公式・店舗検索／採用情報",
+      "url": "https://maps.hama-sushi.co.jp/jp/; https://work.hama-sushi.co.jp/",
+      "result": "臼杵店、東京国際フォーラム店、ひたちなか昭和通り店、大館店、博多筑紫通り店、岡崎戸崎新町店の店名・所在地・開店日を照合"
+    },
+    {
+      "source": "ジョリーパスタ公式・採用情報",
+      "url": "https://jobs.jolly-pasta.co.jp/",
+      "result": "浜松入野店（11/5）、諫早栗面店（10/29）の開店日と所在地を確認"
+    },
+    {
+      "source": "オリーブの丘公式・店舗情報",
+      "url": "https://maps.olivenooka.jp/jp/detail/6621.html; https://maps.olivenooka.jp/jp/detail/6620.html",
+      "result": "札幌新琴似店（10/22）、札幌西町店（10/8）の所在地を確認。開店日はゼンショー公式新店情報と照合"
+    },
+    {
+      "source": "すき家公式・採用情報／ゼンショー公式新店情報",
+      "url": "https://work.sukiya.jp/; https://www.zensho.co.jp/jp/brands/newshop/",
+      "result": "岡崎戸崎新町店（9/17）、郡山富久山店（9/16）の所在地・開店日を照合"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "12/1〜12/4掲載分を照合。対象候補はすべて登録済み"
+    },
+    {
+      "source": "すかいらーくグループ公式・新店舗一覧",
+      "url": "https://store-info.skylark.co.jp/skylark/list/",
+      "result": "掲載中の新店候補を照合。対象候補はすべて登録済み"
+    },
+    {
+      "source": "バーガーキング公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "result": "11月〜12月中旬の16店舗を照合。すべて登録済み"
+    },
+    {
+      "source": "タリーズ公式・2026年プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "11月18日・27日開店の2店舗とも登録済み"
+    }
+  ],
+  "changes": {
+    "added": 12,
+    "corrected": 0,
+    "deleted": 0,
+    "added_items": [
+      {
+        "name": "はま寿司 臼杵店",
+        "prefecture": "大分県",
+        "city": "臼杵市",
+        "opening_date": "2026-11-12",
+        "category": "回転寿司"
+      },
+      {
+        "name": "はま寿司 東京国際フォーラム店",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-10-29",
+        "category": "回転寿司"
+      },
+      {
+        "name": "ジョリーパスタ 浜松入野店",
+        "prefecture": "静岡県",
+        "city": "浜松市中央区",
+        "opening_date": "2026-11-05",
+        "category": "イタリアン・ファミリーレストラン"
+      },
+      {
+        "name": "ジョリーパスタ 諫早栗面店",
+        "prefecture": "長崎県",
+        "city": "諫早市",
+        "opening_date": "2026-10-29",
+        "category": "イタリアン・ファミリーレストラン"
+      },
+      {
+        "name": "はま寿司 ひたちなか昭和通り店",
+        "prefecture": "茨城県",
+        "city": "ひたちなか市",
+        "opening_date": "2026-10-22",
+        "category": "回転寿司"
+      },
+      {
+        "name": "オリーブの丘 札幌新琴似店",
+        "prefecture": "北海道",
+        "city": "札幌市北区",
+        "opening_date": "2026-10-22",
+        "category": "イタリアン・ファミリーレストラン"
+      },
+      {
+        "name": "はま寿司 大館店",
+        "prefecture": "秋田県",
+        "city": "大館市",
+        "opening_date": "2026-10-08",
+        "category": "回転寿司"
+      },
+      {
+        "name": "オリーブの丘 札幌西町店",
+        "prefecture": "北海道",
+        "city": "札幌市西区",
+        "opening_date": "2026-10-08",
+        "category": "イタリアン・ファミリーレストラン"
+      },
+      {
+        "name": "はま寿司 博多筑紫通り店",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-10-01",
+        "category": "回転寿司"
+      },
+      {
+        "name": "はま寿司 岡崎戸崎新町店",
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "opening_date": "2026-10-01",
+        "category": "回転寿司（プレオープン）"
+      },
+      {
+        "name": "すき家 岡崎戸崎新町店",
+        "prefecture": "愛知県",
+        "city": "岡崎市",
+        "opening_date": "2026-09-17",
+        "category": "牛丼・定食"
+      },
+      {
+        "name": "すき家 郡山富久山店",
+        "prefecture": "福島県",
+        "city": "郡山市",
+        "opening_date": "2026-09-16",
+        "category": "牛丼・定食"
+      }
+    ]
+  },
+  "quality": {
+    "json_parse": "ok",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sort_inversions": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 6,
+    "normalized_duplicate_groups_action": "既存の表記揺れ疑いは推測による統合・削除をせず保持"
+  },
+  "unconfirmed": [],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "run_state": "in_progress",
+    "next_run_time_reported": "2026-11-22T18:15:00+09:00",
+    "schedule_note": "有効状態と毎時15分のスケジュールを確認。今回実行の管理側完了時刻は未確定"
+  },
+  "errors": [],
+  "notes": "公式の新店情報・公式採用情報・公式店舗検索で開店日と所在地を照合できた未登録12店舗のみ追加。未確認情報は追加せず、既存データの訂正・削除は実施しない。"
+}
