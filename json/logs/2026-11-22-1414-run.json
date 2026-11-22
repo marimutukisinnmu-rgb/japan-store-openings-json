@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-11-22T14:14:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "6979fd479274951c800d57d436c366d43d6994ca",
+    "blob_sha_after": "4f6a5bdada043d2a26991ff4ccb76edc0e7c785d",
+    "updatetime": "2026-11-22T14:14:14+09:00",
+    "item_count_before": 2476,
+    "item_count_after": 2477,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 1,
+    "added_items": [
+      {
+        "name": "POINTLESS JOURNEY TYO",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-11-21",
+        "category": "期間限定コンセプトストア（2026-11-21〜2026-11-23）"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_or_already_registered": [
+      {
+        "name": "SUBWAY イオンモール伊達店",
+        "result": "2026-11-27開店の公式発表を確認。福島県伊達市の既存JSONレコードと一致したため追加なし。"
+      },
+      {
+        "name": "LAWSON 中部エリア新店情報",
+        "result": "東郷深池、魚津末広町、妙高諏訪町、上越北城町、清水庵原町、一宮祐久の6店舗を照合し、すべて既存登録済み。"
+      },
+      {
+        "name": "H’s CREAM イオンモール伊達店",
+        "result": "2026-11-27開店候補は既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "Morning Park Cafe / LUCIR-K JEWELRY & GASTRONOMY",
+        "result": "公式発表で確認できる既存店舗。両方とも既存JSONに登録済み。"
+      }
+    ],
+    "unconfirmed_items": [],
+    "source_checks": [
+      {
+        "name": "POINTLESS JOURNEY 公式 STORE",
+        "url": "https://pointlessjourney.jp/store",
+        "result": "POINTLESS JOURNEY TYO、東京都渋谷区代官山町14-11、GRAND OPEN 2026-11-21〜2026-11-23を確認。未登録だったため、期間限定コンセプトストアとして追加。"
+      },
+      {
+        "name": "SUBWAY公式 新店舗情報",
+        "url": "https://subway.co.jp/news/20261120_01/",
+        "result": "イオンモール伊達店の2026-11-27開店と福島県伊達市の所在地を確認。既存登録済み。"
+      },
+      {
+        "name": "ローソン公式 中部エリア新店情報",
+        "url": "https://www.lawson.co.jp/newstore/chubu.html",
+        "result": "2026-12-03〜12-04の6店舗を確認。すべて既存登録済み。"
+      },
+      {
+        "name": "Morning Park Cafe公式",
+        "url": "https://morningparkcafe.com/news/",
+        "result": "2026-11-06開店の東京都新宿区大久保店は既存登録済み。"
+      },
+      {
+        "name": "LUCIR-K公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000003.000121512.html",
+        "result": "2026-11-06移転グランドオープン、静岡県静岡市葵区呉服町の既存登録を確認。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "suspected_normalized_duplicate_groups": 6,
+    "suspected_duplicate_policy": "既存の表記揺れ疑い6組は変更・統合せず保持。",
+    "existing_items_preserved": true,
+    "new_item_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2477
+  },
+  "save": {
+    "latest_json": "updated_refetched_and_validated",
+    "run_log": "created_refetched_and_json_parsed"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_at_start": true,
+    "is_enabled_after_run": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "note": "Automation remains enabled; no schedule changes made."
+  }
+}
