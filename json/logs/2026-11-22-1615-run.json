@@ -141,6 +141,16 @@
   },
   "save": {
     "latest_json": "updated_refetched_and_validated",
-    "run_log": "pending"
+    "run_log": "created_refetched_and_json_parsed"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_after_run": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_observed": "2026-11-22T16:15:00+09:00",
+    "run_state_observed": "in_progress",
+    "schedule_changed": false,
+    "note": "Automation remained enabled. The peek response still showed the current 16:15 scheduled occurrence as in_progress; no disable, pause, deletion, or schedule change was made."
   }
 }
