@@ -1,0 +1,674 @@
+{
+  "run_at": "2026-11-23T04:15:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "no_update",
+  "file": "json/latest.json",
+  "blob_sha": "6b58b2f4d236de50153df85755e838f0a2126cd7",
+  "previous_count": 2533,
+  "added_count": 0,
+  "updated_count": 2533,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "unchanged_existing_records": 2533,
+  "additions": [],
+  "checked_candidates": {
+    "ロピア 港北みなも店": [
+      {
+        "name": "ロピア 港北みなも店",
+        "prefecture": "神奈川県",
+        "city": "横浜市都筑区",
+        "opening_date": "2026-11-26"
+      }
+    ],
+    "ふくしまひらいビル": [
+      {
+        "name": "La pirates（ふくしまひらいビル）",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "バイセル（ふくしまひらいビル）",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ふくしまひらいビル",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ロレインアイ（ふくしまひらいビル）",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "庵ど（ふくしまひらいビル）",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Introduce A to B（ふくしまひらいビル）",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-28"
+      }
+    ],
+    "イオンモール伊達": [
+      {
+        "name": "スターバックス コーヒー イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-20"
+      },
+      {
+        "name": "ラーメン魁力屋 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-20"
+      },
+      {
+        "name": "&choa! イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "#C-pla イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "a.v.v イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ABURI百貫 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "aimerfeelイオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "BELLUNA イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Can★Do(キャンドゥ) イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Cat Café MOFF イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "cause イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Francfranc イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "FUJIYA CONFECTIONERY イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "GO NUTTS イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "H’s CREAM イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Hobby Zone イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "KEYUCA イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "LEPSIM イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "LOURDES イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "MEDOC イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "MIRAINO イオンモール伊達",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "OWNDAYS イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "PETEMO イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "R＋ PLUS REGAL CORPORATION イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "SAAD イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "SANYO Style STORE PLUS イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "SHOWA NISHIKAWA イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "SKECHERS イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "SUBWAY イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Workman Colors イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "Zoff イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "アエナ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "アディダス ストア by ABC-MART イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "イオンフィナンシャルサービス イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "イオンモール伊達",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "おしゃれ工房 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "カルディコーヒーファーム イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "グラニフ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "コジマ×ビックカメラ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ゴンチャ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "サーティワンアイスクリーム イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "サンキューマート イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ジーユー イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "スーパースポーツゼビオ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "スマートクール イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ソフと。イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ダcafe 八百屋から始まる、果物の物語 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ダイユーエイト（イオンモール伊達 外部棟）",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "チーズガーデン イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ディッパーダン イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "とんかつとう庵 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ドンク／ミニワン イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "バーガーキング イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "バーミヤン イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ハニーズ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ペットワールド アミーゴ（イオンモール伊達 外部棟）",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ペッパーランチ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "マクドナルド イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ムラサキスポーツ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ユザワヤ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ユニクロ イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "りんごとバター。／苺のワルツ。 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ルピシア イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "温野菜ごはんがおいしいスープ食堂 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "岩瀬書店 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "久世福商店 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "牛たん炭焼 利久 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "牛角焼肉食堂 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "銀座惣菜店 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "君のハンバーグを食べたい イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "月島もんじゃ こてつ イオンモール伊達",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "好日山荘 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "小木曽製粉所 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "代官山Candy apple イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "築地食堂 源ちゃん イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "長崎ちゃんぽんリンガーハット イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "天丼専門店 ゑるびす イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "島村楽器 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "福島日産 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "味工房 極 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "無印良品 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "麺場 田所商店 イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      }
+    ],
+    "タリーズコーヒー ＆TEA イオンモール伊達店": [
+      {
+        "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27"
+      }
+    ],
+    "キル フェ ボン新宿": [
+      {
+        "name": "キル フェ ボン新宿",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-11-28"
+      }
+    ],
+    "WithGreen 光が丘IMA店": [
+      {
+        "name": "WithGreen 光が丘IMA店",
+        "prefecture": "東京都",
+        "city": "練馬区",
+        "opening_date": "2026-11-26"
+      }
+    ],
+    "＆found（グランスタ東京）": [
+      {
+        "name": "＆found（グランスタ東京）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-15"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "ロピア 港北みなも店",
+      "publisher": "株式会社ロピア",
+      "url": "https://lopia.jp/shops/kouhokuminamo",
+      "result": "公式店舗ページで2026-11-26を確認。JSON登録済み"
+    },
+    {
+      "name": "イオンモール伊達",
+      "publisher": "イオンモール株式会社",
+      "url": "https://www.aeonmall.com/facility/detail/1205/",
+      "result": "公式施設情報で2026-11-27を確認。JSON登録済み"
+    },
+    {
+      "name": "ふくしまひらいビル",
+      "publisher": "イオンモール株式会社（共同通信PRワイヤー掲載）",
+      "url": "https://kyodonewsprwire.jp/release/202611119913",
+      "result": "公式発表で2026-11-27を確認。JSON登録済み"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "publisher": "タリーズコーヒージャパン株式会社",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026/11/2026_andtea_date.html",
+      "result": "公式発表で2026-11-27を確認。JSON登録済み"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "publisher": "キルフェボン株式会社",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "公式発表で2026-11-28を確認。JSON登録済み"
+    },
+    {
+      "name": "2026年オープンSC一覧",
+      "publisher": "一般社団法人 日本ショッピングセンター協会",
+      "url": "https://www.jcsc.or.jp/sc_data/sc_open/sc_list",
+      "result": "11月開業SC2件を照合。該当施設はJSON登録済み"
+    },
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "publisher": "株式会社WithGreen",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "result": "公式発表の開店予定情報を確認。JSON登録済み"
+    },
+    {
+      "name": "＆found（グランスタ東京）",
+      "publisher": "株式会社JR東日本クロスステーション等",
+      "url": "https://prtimes.jp/main/html/rd/p/000001291.000082978.html",
+      "result": "公式発表の開店予定情報を確認。JSON登録済み"
+    }
+  ],
+  "source_errors": [
+    {
+      "source": "日本ケンタッキー・フライド・チキン 11月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8192",
+      "error": "検索結果の公式掲載情報は取得できたが、ページ本体の直接取得は404。確認できた11月下旬の対象店舗はJSON登録済み"
+    },
+    {
+      "source": "ローソン 新店情報",
+      "url": "https://mldata.lawson.co.jp/newstore/",
+      "error": "ページ本文で取得できた掲載範囲は11月13日まで。表示されない後続行は未確認"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_full_record_duplicates": 0,
+    "duplicate_name_pref_city_date_keys": 0,
+    "opening_date_sort": true,
+    "item_count_matches": true,
+    "latest_blob_sha_verified": true,
+    "latest_json_modified": false
+  },
+  "previous_updatetime": "2026-11-23T03:15:52+09:00",
+  "new_updatetime": "2026-11-23T03:15:52+09:00",
+  "notes": [
+    "今回の確認範囲では、新規未登録の確定情報を確認できなかったため、latest.jsonは変更していない。",
+    "内容に変更がないためupdatetimeも維持した。",
+    "未取得の情報源範囲は成功扱いにしていない。"
+  ]
+}
