@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T22:13:05+09:00",
+  "updatetime": "2026-11-22T23:13:09+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14310,6 +14310,13 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "味噌ラーメン"
+    },
+    {
+      "name": "LUNA EARTH イオンモール草津店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-11-27",
+      "category": "アクセサリー・ファッション雑貨"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
