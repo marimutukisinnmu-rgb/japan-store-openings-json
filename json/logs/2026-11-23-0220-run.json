@@ -1,0 +1,77 @@
+{
+  "run_at": "2026-11-23T02:20:50+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_count": 2527,
+  "new_count": 2529,
+  "added": [
+    {
+      "name": "ロピア 港北みなも店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-26",
+      "category": "食品スーパー",
+      "source": "https://lopia.jp/shops/kouhokuminamo"
+    },
+    {
+      "name": "＆found（グランスタ東京）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-15",
+      "category": "エキナカ・ブランド体験型ショップ",
+      "source": "https://prtimes.jp/main/html/rd/p/000001291.000082978.html"
+    }
+  ],
+  "corrected": 0,
+  "deleted": 0,
+  "duplicate_exact_before": 0,
+  "duplicate_exact_after": 0,
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "new_records_each_once": true,
+    "blob_sha_match": true
+  },
+  "held_unconfirmed": [
+    {
+      "candidate": "（仮称）遠賀川駅南商業店舗／ロピア",
+      "reason": "届出上の新設予定日と実際の営業開始日が同一とは確認できず、公式の実開店告知を確認できないため未追加。"
+    }
+  ],
+  "checked_existing": [
+    {
+      "candidate": "ローソン公式新店情報",
+      "result": "照合した11月下旬〜12月上旬の候補は既存登録済み。"
+    },
+    {
+      "candidate": "ビッグ・エー公式新店情報",
+      "result": "狭山中央店・清瀬駅北口店は既存登録済み。"
+    },
+    {
+      "candidate": "POP MART LUCUA SOUTH店",
+      "result": "既存登録済み。"
+    },
+    {
+      "candidate": "WithGreen 光が丘IMA店",
+      "result": "既存登録済み。"
+    },
+    {
+      "candidate": "キル フェ ボン新宿",
+      "result": "既存登録済み。"
+    },
+    {
+      "candidate": "明治安田新宿ビル内の確認店舗",
+      "result": "照合した候補は既存登録済み。"
+    }
+  ],
+  "github": {
+    "previous_blob_sha": "f0e4197a03e0585ef108943f7b92f4d332e62cda",
+    "new_blob_sha": "0e5e009ce8c277d58422bca718d88b391621a4d5",
+    "commit_sha": "089514b1e98eccdd7117cb5decbbee6038930bea",
+    "refetched_blob_sha": "0e5e009ce8c277d58422bca718d88b391621a4d5",
+    "verified": true
+  }
+}
