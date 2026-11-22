@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T02:20:50+09:00",
+  "updatetime": "2026-11-23T03:15:52+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -14389,6 +14389,13 @@
       "category": "ファストフード"
     },
     {
+      "name": "ノースマンJR品川駅店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-27",
+      "category": "和洋菓子専門店・期間限定（2026-11-27〜2027-04-05）"
+    },
+    {
       "name": "chocoZAP 豊橋牛川通",
       "prefecture": "愛知県",
       "city": "豊橋市",
@@ -15164,6 +15171,13 @@
       "city": "札幌市南区",
       "opening_date": "2026-12-01",
       "category": "コンビニ"
+    },
+    {
+      "name": "フォーナインズ（ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-12-01",
+      "category": "アイウェア・眼鏡専門店"
     },
     {
       "name": "八郎そば 伊勢原店",
@@ -16438,6 +16452,20 @@
       "city": "福岡市中央区",
       "opening_date": "2026-12-09",
       "category": "台湾料理・惣菜"
+    },
+    {
+      "name": "BIRTHDAY BAR アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "ギフト・セレクトショップ"
+    },
+    {
+      "name": "WithGreen アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "サラダボウル専門店"
     },
     {
       "name": "WORKMAN Plus そよらひたち野うしく店",
