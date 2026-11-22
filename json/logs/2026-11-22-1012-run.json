@@ -1,0 +1,224 @@
+{
+  "run_at": "2026-11-22T10:12:07+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "7a41a96fbe44f04b5d553d9d622c44d852a11c60",
+    "blob_sha_after": "e95c81cab9facd1797d52b4690e829bd9ebda7fe",
+    "commit_sha": "fca11ecd416125d06597a39f656805cb70fbd2e7",
+    "updatetime": "2026-11-22T10:12:07+09:00",
+    "item_count_before": 2466,
+    "item_count_after": 2475,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 9,
+    "added_items": [
+      {
+        "name": "Dot Crepe",
+        "prefecture": "長野県",
+        "city": "佐久市",
+        "opening_date": "2026-11-21",
+        "category": "クレープ専門店"
+      },
+      {
+        "name": "福恩麻辣湯 イオンモール天童店",
+        "prefecture": "山形県",
+        "city": "天童市",
+        "opening_date": "2026-11-21",
+        "category": "麻辣湯専門店"
+      },
+      {
+        "name": "KAITEN TOKYO SUSHI アクアシティお台場店",
+        "prefecture": "東京都",
+        "city": "港区",
+        "opening_date": "2026-12-01",
+        "category": "回転寿司"
+      },
+      {
+        "name": "ラ・パティスリー・シリル リニャック（伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "パティスリー・洋菓子店"
+      },
+      {
+        "name": "MÉERT（メール／伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "パティスリー・洋菓子店"
+      },
+      {
+        "name": "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "パティスリー・洋菓子店"
+      },
+      {
+        "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "チョコレート・洋菓子店"
+      },
+      {
+        "name": "ノワ・ドゥ・ブール（伊勢丹新宿店・移転リニューアル）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "洋菓子店（移転リニューアル）"
+      },
+      {
+        "name": "ホレンディッシェ・カカオシュトゥーベ（伊勢丹新宿店・移転リニューアル）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-02",
+        "category": "ドイツ菓子店（移転リニューアル）"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_items": [
+      {
+        "name": "KFC公式11月新店情報（11店舗）",
+        "result": "2026-11-20付の公式発表を照合。掲載された11店舗はすべて既存JSONに登録済みのため追加なし。"
+      },
+      {
+        "name": "SUBWAY公式新店舗情報（4店舗）",
+        "result": "2026-11-20付を含む公式発表4店舗を照合。すべて既存JSONに登録済みのため追加なし。"
+      },
+      {
+        "name": "JOYFULL EXPRESS ゆめタウン久留米店",
+        "result": "運営会社の公式発表で2026-11-24開店を確認。既存登録済みのため追加なし。"
+      },
+      {
+        "name": "CARVEL（シナボン・シアトルズベストコーヒー ルクア大阪店）",
+        "result": "既存店舗内でのブランド販売開始として発表されており、独立した新店舗ではないため今回の新規店舗追加対象外。"
+      },
+      {
+        "name": "Timberland（ジャズドリーム長島）",
+        "result": "既存ログで開店日が『12月予定』までしか確認できないと記録。既存日付は推測で変更せず保留継続。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "Dot Crepe運営者発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000194719.html",
+        "result": "2026-11-21オープン、長野県佐久市岩村田6-2、佐久ステーションパーク内を確認。未登録のため追加。"
+      },
+      {
+        "name": "TPS株式会社・福恩麻辣湯発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000073.000179076.html",
+        "result": "福恩麻辣湯 イオンモール天童店の2026-11-21開店、山形県天童市芳賀タウン北4丁目1-1を確認。未登録のため追加。"
+      },
+      {
+        "name": "株式会社板前寿司ジャパン発表（＠Press）",
+        "url": "https://www.atpress.ne.jp/news/640109",
+        "result": "KAITEN TOKYO SUSHI アクアシティお台場店の2026-12-01開店、東京都港区台場1-7-1を確認。未登録のため追加。"
+      },
+      {
+        "name": "三越伊勢丹ホールディングス公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000003130.000008372.html",
+        "result": "伊勢丹新宿店本館地下1階グランアルチザンの2026-12-02リフレッシュオープン、シリル リニャック、MÉERT、Yann Couvreur、GODIVA Cacao Jardinの新規展開、ノワ・ドゥ・ブールとホレンディッシェ・カカオシュトゥーベの移転オープンを確認。既存のヴァンサン ゲルレは登録済み。新規6項目を追加。"
+      },
+      {
+        "name": "株式会社ユーハイム・MÉERT発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000220.000034027.html",
+        "result": "MÉERTの伊勢丹新宿店への日本初出店、2026-12-02を個別照合。"
+      },
+      {
+        "name": "株式会社ユーハイム・Yann Couvreur発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000224.000034027.html",
+        "result": "Yann Couvreurの伊勢丹新宿店への日本初出店、2026-12-02を個別照合。"
+      },
+      {
+        "name": "ゴディバ ジャパン公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000960.000015355.html",
+        "result": "GODIVA Cacao Jardinの伊勢丹新宿店での2026-12-02オープンを個別照合。"
+      },
+      {
+        "name": "株式会社 EURO SWEETS発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000008.000046657.html",
+        "result": "ホレンディッシェ・カカオシュトゥーベ 伊勢丹新宿店の2026-12-02リニューアルを個別照合。"
+      },
+      {
+        "name": "KFC公式新店情報",
+        "url": "https://japan.kfc.co.jp/news_release/8199",
+        "result": "2026-11-20更新の11月新店11店舗を既存JSONと照合。全件登録済み。"
+      },
+      {
+        "name": "SUBWAY公式2026年ニュース一覧",
+        "url": "https://subway.co.jp/news/year/2026/",
+        "result": "イオン三ツ境店、イオンモール伊達店、イオンモール神戸南店、サクラマチクマモト店を照合。全件登録済み。"
+      },
+      {
+        "name": "株式会社ジョイフル公式発表（PR TIMES）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000407.000023968.html",
+        "result": "JOYFULL EXPRESS ゆめタウン久留米店の2026-11-24開店を確認。既存登録済み。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "target_item_matches": 9,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_items_preserved": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2475,
+    "spot_checks": [
+      {
+        "name": "Dot Crepe",
+        "found": true
+      },
+      {
+        "name": "福恩麻辣湯 イオンモール天童店",
+        "found": true
+      },
+      {
+        "name": "KAITEN TOKYO SUSHI アクアシティお台場店",
+        "found": true
+      },
+      {
+        "name": "ラ・パティスリー・シリル リニャック（伊勢丹新宿店）",
+        "found": true
+      },
+      {
+        "name": "MÉERT（メール／伊勢丹新宿店）",
+        "found": true
+      },
+      {
+        "name": "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）",
+        "found": true
+      },
+      {
+        "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
+        "found": true
+      },
+      {
+        "name": "ノワ・ドゥ・ブール（伊勢丹新宿店・移転リニューアル）",
+        "found": true
+      },
+      {
+        "name": "ホレンディッシェ・カカオシュトゥーベ（伊勢丹新宿店・移転リニューアル）",
+        "found": true
+      }
+    ]
+  },
+  "save": {
+    "latest_json": "updated_and_refetched",
+    "run_log": "pending_creation"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "state_check": "not_confirmed",
+    "note": "Automation management read action returned NOT_FOUND; no schedule or enabled-state change was attempted."
+  }
+}
