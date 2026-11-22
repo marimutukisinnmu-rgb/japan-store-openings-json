@@ -218,7 +218,10 @@
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
-    "state_check": "not_confirmed",
-    "note": "Automation management read action returned NOT_FOUND; no schedule or enabled-state change was attempted."
+    "is_enabled": false,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "management_note": "The automation was disabled after this successful run. Its configured schedule was not modified."
   }
 }
