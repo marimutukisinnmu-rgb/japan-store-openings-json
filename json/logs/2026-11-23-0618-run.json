@@ -150,5 +150,14 @@
     "last_run_recorded_status": "in_progress",
     "next_run_time": "2026-11-23T06:15:00+09:00",
     "note": "At inspection, the scheduled time had passed and the current run had not yet received a recorded completion timestamp."
+  },
+  "automation_state_after_run": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": false,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_definition_preserved": true,
+    "next_run_time_while_disabled": "2026-11-23T07:15:00+09:00",
+    "note": "The automation was disabled after this successful run by the automation execution control rule; the recurring schedule definition was not changed."
   }
 }
