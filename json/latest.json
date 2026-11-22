@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T08:16:21+09:00",
+  "updatetime": "2026-11-22T10:12:07+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12275,6 +12275,20 @@
       "category": "自動車カスタムショップ"
     },
     {
+      "name": "Dot Crepe",
+      "prefecture": "長野県",
+      "city": "佐久市",
+      "opening_date": "2026-11-21",
+      "category": "クレープ専門店"
+    },
+    {
+      "name": "福恩麻辣湯 イオンモール天童店",
+      "prefecture": "山形県",
+      "city": "天童市",
+      "opening_date": "2026-11-21",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
       "prefecture": "千葉県",
       "city": "船橋市",
@@ -14893,6 +14907,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "KAITEN TOKYO SUSHI アクアシティお台場店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-01",
+      "category": "回転寿司"
+    },
+    {
       "name": "八郎そば 伊勢原店",
       "prefecture": "神奈川県",
       "city": "伊勢原市",
@@ -14961,6 +14982,48 @@
       "city": "札幌市中央区",
       "opening_date": "2026-12-02",
       "category": "コンビニ"
+    },
+    {
+      "name": "ラ・パティスリー・シリル リニャック（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "パティスリー・洋菓子店"
+    },
+    {
+      "name": "MÉERT（メール／伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "パティスリー・洋菓子店"
+    },
+    {
+      "name": "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "パティスリー・洋菓子店"
+    },
+    {
+      "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "チョコレート・洋菓子店"
+    },
+    {
+      "name": "ノワ・ドゥ・ブール（伊勢丹新宿店・移転リニューアル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "洋菓子店（移転リニューアル）"
+    },
+    {
+      "name": "ホレンディッシェ・カカオシュトゥーベ（伊勢丹新宿店・移転リニューアル）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-02",
+      "category": "ドイツ菓子店（移転リニューアル）"
     },
     {
       "name": "ONE N' ONLY “MEGA GOLDEN” POP-UP STORE（名古屋PARCO）",
