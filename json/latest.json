@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T07:17:14+09:00",
+  "updatetime": "2026-11-23T08:19:52+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -13080,6 +13080,13 @@
       "category": "期間限定ポップアップ（バターサンド）"
     },
     {
+      "name": "DOOR TO GOLF 青葉台店",
+      "prefecture": "神奈川県",
+      "city": "横浜市青葉区",
+      "opening_date": "2026-11-25",
+      "category": "完全個室型インドアゴルフ施設"
+    },
+    {
       "name": "Anker Store 岡山一番街",
       "prefecture": "岡山県",
       "city": "岡山市北区",
@@ -14394,6 +14401,13 @@
       "city": "港区",
       "opening_date": "2026-11-27",
       "category": "和洋菓子専門店・期間限定（2026-11-27〜2027-04-05）"
+    },
+    {
+      "name": "サブウェイ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
     },
     {
       "name": "chocoZAP 豊橋牛川通",
@@ -15794,6 +15808,13 @@
       "city": "松山市",
       "opening_date": "2026-12-04",
       "category": "もんじゃ焼き"
+    },
+    {
+      "name": "gashacoco 明屋書店 大洲",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "喫茶リコリコ出張所2026 POP UP SHOP（ジーストア名古屋）",
