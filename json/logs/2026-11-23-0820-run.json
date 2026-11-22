@@ -1,0 +1,91 @@
+{
+  "executed_at": "2026-11-23T08:19:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "b47f682cff04c56be29026e005c04c67e853f823",
+    "new_blob_sha": "573c2eeead51149f20ff7712046705df2e017d83",
+    "commit_sha": "2accf565516d46995d7bcf7a4c3f6a353a9d41b9",
+    "count_before": 2537,
+    "added": 3,
+    "count_after": 2540,
+    "updatetime": "2026-11-23T08:19:52+09:00"
+  },
+  "additions": [
+    {
+      "name": "DOOR TO GOLF 青葉台店",
+      "prefecture": "神奈川県",
+      "city": "横浜市青葉区",
+      "opening_date": "2026-11-25",
+      "category": "完全個室型インドアゴルフ施設"
+    },
+    {
+      "name": "サブウェイ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "サンドイッチ"
+    },
+    {
+      "name": "gashacoco 明屋書店 大洲",
+      "prefecture": "愛媛県",
+      "city": "大洲市",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
+    }
+  ],
+  "sources": [
+    {
+      "store": "DOOR TO GOLF 青葉台店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000032.000124342.html",
+      "evidence": "2026-11-25開店、神奈川県横浜市青葉区若草台1-1。"
+    },
+    {
+      "store": "サブウェイ イオンモール伊達店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+      "evidence": "2026-11-27開店、福島県伊達市、イオンモール伊達3階。"
+    },
+    {
+      "store": "gashacoco 明屋書店 大洲",
+      "url": "https://prtimes.jp/main/html/rd/p/000002969.000031422.html",
+      "evidence": "2026-12-04開店、愛媛県大洲市東大洲661-2。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "ローソン全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "result": "2026-11-25〜2026-12-04の確認対象17件はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "イオンモール伊達の各社公式発表",
+      "url": "https://prtimes.jp/main/html/searchcity/pref_id/07/city_id/07213/",
+      "result": "照合した対象店舗は既存登録済み。新規追加はサブウェイのみ。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_groups": 0,
+    "normalized_duplicate_groups_preserved": 6,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true
+  },
+  "errors": [
+    {
+      "source": "ローソン地域別ページ",
+      "detail": "北海道・関東・中国四国の個別ページは直接取得できなかった。全国新店一覧は取得でき、今回の確認対象は照合済み。"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "store": "成城石井（アミュプラザ博多）",
+      "detail": "公式発表は2027年春予定まで。具体的な開業日は未発表のため追加せず保留。"
+    }
+  ]
+}
