@@ -1,0 +1,129 @@
+{
+  "run_at": "2026-11-22T11:12:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "no_change",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "e95c81cab9facd1797d52b4690e829bd9ebda7fe",
+    "blob_sha_after": "e95c81cab9facd1797d52b4690e829bd9ebda7fe",
+    "updatetime": "2026-11-22T10:12:07+09:00",
+    "item_count_before": 2475,
+    "item_count_after": 2475,
+    "modified": false,
+    "reason": "All sufficiently verified candidates found in this run were already registered. No unverified date or location was added."
+  },
+  "findings": {
+    "new_confirmed_items": 0,
+    "added_items": [],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_items": [
+      {
+        "name": "遠賀川駅南商業店舗（ロピア出店計画）",
+        "result": "大規模小売店舗立地法の届出上の新設予定日は2026-11-26だが、実際の店舗グランドオープン日を示す運営会社の公式発表を確認できない。計画段階として保留し、latest.jsonには追加しない。"
+      },
+      {
+        "name": "すかいらーくグループ新店舗一覧",
+        "result": "検索結果で取得できた候補のうち10件を既存JSONと照合し全件登録済み。直接ページを開くとJavaScript表示で『現在、新店の情報はありません』となり、検索結果の55件一覧全体を再取得できなかったため、全55件の網羅照合とは扱わない。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "ローソン公式 新店舗情報",
+        "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+        "result": "2026-11-12から2026-12-04までに掲載された39候補を照合。39件すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "KFC公式 11月新店情報（2026-11-20更新）",
+        "url": "https://japan.kfc.co.jp/news_release/8199",
+        "result": "11店舗を照合。11件すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "バーガーキング公式発表（ビーケー・ジャパン）",
+        "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+        "result": "2026-11-09から2026-12-15までの新規16店舗を照合。16件すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "タリーズコーヒー公式 2026年プレスリリース一覧",
+        "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+        "result": "タリーズコーヒー ＆TEA イオンモール伊達店（2026-11-27）およびタリーズコーヒー with U イオンモール小山店（2026-11-18）を照合。両方とも既存登録済み。"
+      },
+      {
+        "name": "三菱地所プロパティマネジメント／ランドマークプラザ新店5店舗",
+        "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html",
+        "result": "Pilates KASANE、null²ⁿ、わくわくはまっこひろば みなとみらい、ラベイユ、フォーナインズを照合。5件すべて既存登録済み。"
+      },
+      {
+        "name": "イオンモール／ふくしまひらいビル公式発表",
+        "url": "https://kyodonewsprwire.jp/release/202611119913",
+        "result": "施設と庵ど、バイセルなどの掲載候補を照合。該当する登録済み項目はすべて既存JSONに存在し、追加なし。"
+      },
+      {
+        "name": "株式会社アンドエスティHD／LAKOLE公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+        "result": "LAKOLE サンシャインシティアルタ店（2026-11-20）を照合。既存登録済み。"
+      },
+      {
+        "name": "POP MART JAPAN公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "result": "POP MART LUCUA SOUTH店（2026-11-24）を照合。既存登録済み。"
+      },
+      {
+        "name": "WithGreen公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "result": "WithGreen 光が丘IMA店（2026-11-26）を照合。既存登録済み。"
+      },
+      {
+        "name": "SYNRA GROUP公式発表",
+        "url": "https://synra.co.jp/news-005/",
+        "result": "Eleanor spa&treatment 郡山店、池袋3rd店、沖縄北谷店を照合。3件すべて既存登録済み。"
+      },
+      {
+        "name": "OICグループ／eatopia公式発表",
+        "url": "https://oicgroup.co.jp/news/",
+        "result": "焼肉 牛たん山科 秋葉原UDX店（2026-12-10）を照合。既存登録済み。"
+      },
+      {
+        "name": "キル フェ ボン公式発表",
+        "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+        "result": "キル フェ ボン新宿（2026-11-28）を照合。既存登録済み。"
+      },
+      {
+        "name": "Guzman y Gomez／トランジットホールディングス公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000498.000040062.html",
+        "result": "Guzman y Gomez 西新宿店（2026-11-28）を照合。既存登録済み。"
+      },
+      {
+        "name": "福岡県遠賀町のロピア出店計画に関する報道・確認記事",
+        "url": "https://www.ryutsuu.biz/store/s0428013.html",
+        "result": "届出上の新設予定日と実際の営業開始日は別であり、実際の開店日は未確認。追加せず保留。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_items_preserved": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2475
+  },
+  "save": {
+    "latest_json": "unchanged_and_refetched",
+    "run_log": "pending_create_and_refetch"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-22T11:15:00+09:00",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "recorded_status_at_check": "in_progress"
+  }
+}
