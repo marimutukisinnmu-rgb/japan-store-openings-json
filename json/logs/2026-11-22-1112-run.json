@@ -114,7 +114,8 @@
   },
   "save": {
     "latest_json": "unchanged_and_refetched",
-    "run_log": "pending_create_and_refetch"
+    "run_log": "created_refetched_and_json_parsed",
+    "initial_log_commit_sha": "4c52028574babfe165872baef6dc935781f3d2ad"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
