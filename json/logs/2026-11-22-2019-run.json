@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-11-22T20:19:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2500,
+    "blob_sha": "516f379aa588f7544bd925508c99fac22a56bc6e"
+  },
+  "after": {
+    "count": 2504,
+    "blob_sha": "d5ca3383590d8f77c71b2764bcb7c3dce69de2da",
+    "commit_sha": "6e85d1f30e7c555b429af906385742fd8b9989c3"
+  },
+  "additions": [
+    {
+      "name": "登れる宿 YUKIYAMA",
+      "prefecture": "岐阜県",
+      "city": "郡上市",
+      "opening_date": "2026-11-21",
+      "category": "宿泊施設（リニューアル）",
+      "source": "https://www.value-press.com/pressrelease/384803"
+    },
+    {
+      "name": "ドムドムハンバーガー イオン小平店",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-12-05",
+      "category": "ハンバーガー（リニューアル）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000083.000028112.html"
+    },
+    {
+      "name": "ステーキのあさくま 蒲郡店",
+      "prefecture": "愛知県",
+      "city": "蒲郡市",
+      "opening_date": "2026-12-16",
+      "category": "ステーキレストラン",
+      "source": "https://prtimes.jp/main/html/rd/p/000000340.000030130.html"
+    },
+    {
+      "name": "みつぼしや アリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-12-23",
+      "category": "焼き魚定食店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000057.000033002.html"
+    }
+  ],
+  "dedup_checked": [
+    "プロント珈琲庭園 nonowa 国立店",
+    "wanna manna大阪梅田店",
+    "KA·RA·DA プチフィット さいか屋藤沢店",
+    "くし葉 新静岡セノバ店",
+    "aimerfeelイオンモール伊達店",
+    "BELLUNA イオンモール伊達店",
+    "OWNDAYS イオンモール伊達店",
+    "代官山Candy apple イオンモール伊達店"
+  ],
+  "not_added": [
+    {
+      "name": "ナムコ（LUCUA SOUTH）",
+      "reason": "公式発表は「12月上旬予定」のみで日付が確定していないため。",
+      "source": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html"
+    },
+    {
+      "name": "ワッツ 横須賀ノジマモール店",
+      "reason": "今回確認できたのは地域メディア情報のみで、運営会社の一次情報を確認できなかったため。"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "exact_duplicate_keys": 0,
+    "opening_date_sorted": true,
+    "preserved_existing_items": 2500,
+    "all_new_items_present_after_refetch": true,
+    "refetched_blob_sha": "d5ca3383590d8f77c71b2764bcb7c3dce69de2da"
+  },
+  "errors": [],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "checked_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false
+  }
+}
