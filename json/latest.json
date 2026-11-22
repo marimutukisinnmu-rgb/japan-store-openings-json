@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T20:19:21+09:00",
+  "updatetime": "2026-11-22T21:15:47+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12128,6 +12128,13 @@
       "category": "100円ショップ（キャンドゥセレクト）"
     },
     {
+      "name": "BAGEL & BAGEL Everyday!（アミュプラザみやざき・期間限定）",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "opening_date": "2026-11-20",
+      "category": "ベーグル・マフィン（期間限定ショップ・2026-11-20〜2026-11-29）"
+    },
+    {
       "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
       "prefecture": "愛知県",
       "city": "長久手市",
@@ -12441,6 +12448,20 @@
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "アパマンショップひたちなか勝田駅東店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-11-22",
+      "category": "不動産賃貸仲介店舗"
+    },
+    {
+      "name": "アパマンショップひたちなか佐和駅西店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-11-22",
+      "category": "不動産賃貸仲介店舗"
     },
     {
       "name": "PASOUL BLACK FRIDAY FESTA 2026",
