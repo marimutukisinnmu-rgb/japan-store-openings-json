@@ -1,0 +1,146 @@
+{
+  "run_at": "2026-11-22T16:15:06+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "d7e39463e8da3683d3ca254cf79ea1e9c19f7cb0",
+    "blob_sha_after": "660067f6949b57c2cc41c6505492dd45d96b3659",
+    "commit_sha": "f51919a6580c30c0b8dcf802138fb76d63a91cb8",
+    "updatetime": "2026-11-22T16:15:06+09:00",
+    "item_count_before": 2478,
+    "item_count_after": 2486,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 8,
+    "added_items": [
+      {
+        "name": "Dippalace（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "エスニックダイニング"
+      },
+      {
+        "name": "あわよくばあー（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "串焼き・居酒屋"
+      },
+      {
+        "name": "福쌈（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "韓国料理"
+      },
+      {
+        "name": "Schmatz（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-11-17",
+        "category": "ドイツ料理・クラフトビール"
+      },
+      {
+        "name": "あなたに会えたらいいな。（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "和食居酒屋"
+      },
+      {
+        "name": "NIHONBASHI BREWERY.（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "クラフトビール・レストラン"
+      },
+      {
+        "name": "リザラン（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "スペインバル"
+      },
+      {
+        "name": "シュラスコ＆ビアレストラン ALEGRIA（秋葉原UDX）",
+        "prefecture": "東京都",
+        "city": "千代田区",
+        "opening_date": "2026-12-10",
+        "category": "シュラスコ・ビアレストラン"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_or_already_registered": [
+      {
+        "name": "JB's TOKYO（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "PIZZERIA TRATTORIA 裏秋葉原（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "yellow（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "月島もんじゃ くうや（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "もりもり寿し（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "食堂 すゞめ（秋葉原UDX）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      },
+      {
+        "name": "ゴンチャ 秋葉原UDX店",
+        "result": "2026-11-19先行開業分として既存登録済み。"
+      },
+      {
+        "name": "星乃珈琲店（秋葉原UDX）",
+        "result": "2026-11-27先行開業分として既存登録済み。"
+      },
+      {
+        "name": "天ぷら ひさご（秋葉原UDX・リニューアル）",
+        "result": "既存JSONに登録済み。重複追加なし。"
+      }
+    ],
+    "unconfirmed_items": []
+  },
+  "source_checks": [
+    {
+      "name": "NTT都市開発 公式ニュースリリース",
+      "url": "https://ikou.nttud.co.jp/news/detail/id/n28055.html",
+      "result": "秋葉原UDXのUDX DINING＆SHOPについて、2026-12-10リニューアルオープンと新規店舗一覧を確認。11/17 Schmatz、11/19 ゴンチャ、11/27 星乃珈琲店の先行開業日も確認。"
+    },
+    {
+      "name": "秋葉原UDX 公式DINING & SHOP",
+      "url": "https://udx.jp/dining-shop/",
+      "result": "新規出店ブランドの名称とカテゴリ説明、施設所在地（東京都千代田区外神田4-14-1）を確認。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_items_preserved": true,
+    "new_items_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2486
+  },
+  "save": {
+    "latest_json": "updated_refetched_and_validated",
+    "run_log": "pending"
+  }
+}
