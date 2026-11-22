@@ -1,0 +1,114 @@
+{
+  "run_at": "2026-11-22T17:19:48+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "660067f6949b57c2cc41c6505492dd45d96b3659",
+    "blob_sha_after": "660067f6949b57c2cc41c6505492dd45d96b3659",
+    "updatetime": "2026-11-22T16:15:06+09:00",
+    "item_count": 2486,
+    "changed": false
+  },
+  "research": [
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "ページに掲載された新店情報を照合。登録済み"
+    },
+    {
+      "source": "KFC公式・2026年11月新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "result": "掲載11店舗すべて登録済み"
+    },
+    {
+      "source": "バーガーキング公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "result": "掲載16店舗すべて登録済み"
+    },
+    {
+      "source": "タリーズ公式・2026年プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "11月18日・27日開店の2店舗とも登録済み"
+    },
+    {
+      "source": "成田国際空港公式・KUA`AINA’s Smashed Burger",
+      "url": "https://www.narita-airport.jp/ja/company/media-center/news/20261106_KUAAINAsSmashedBurger/",
+      "result": "2026年11月20日開店分は登録済み"
+    },
+    {
+      "source": "サブウェイ公式・イオンモール伊達店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+      "result": "2026年11月27日開店分は登録済み"
+    },
+    {
+      "source": "ファーストキッチン公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000307.000059385.html",
+      "result": "ワカバウォーク店・2026年12月5日分は登録済み"
+    },
+    {
+      "source": "富山フューチャー開発・WORLD STORE",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000185346.html",
+      "result": "ファボーレ店・2026年11月20日分は登録済み"
+    },
+    {
+      "source": "PAPABUBBLE公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "result": "イクスピアリ店・2026年11月21日分は登録済み"
+    },
+    {
+      "source": "GYRO HOLDINGS公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "BAKERIES LAB.砂町銀座店・2026年11月21日分は登録済み"
+    },
+    {
+      "source": "キルフェボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "キル フェ ボン新宿・2026年11月28日分は登録済み"
+    },
+    {
+      "source": "北九州市公式",
+      "url": "https://ssl.city.kitakyushu.lg.jp/contents/e272_00001.html",
+      "result": "旦過市場いちばん館・2026年11月24日分は登録済み"
+    }
+  ],
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0
+  },
+  "quality": {
+    "json_parse": "ok",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sort_inversions": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 6,
+    "normalized_duplicate_groups_action": "保留。推測による統合・削除は実施せず"
+  },
+  "unconfirmed": [
+    {
+      "candidate": "（仮称）遠賀川駅南商業店舗（ロピア関連計画）",
+      "reason": "2026-11-26は大規模小売店舗立地法の届出上の新設予定日。実際の営業開始日は一次情報で未確認"
+    },
+    {
+      "candidate": "スギ薬局 荻窪八幡通店",
+      "reason": "12月上旬という概略時期の情報のみ。公式の確定開店日を確認できず"
+    },
+    {
+      "candidate": "サイゼリヤ 近鉄布施駅前店",
+      "reason": "求人情報に2026-12-17の記載はあるが、公式発表を確認できず"
+    }
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "run_state": "in_progress",
+    "next_run_time_reported": "2026-11-22T17:15:00+09:00",
+    "schedule_note": "取得時刻17:19時点でnext_run_timeが過去時刻のまま。スケジュール定義は維持し、状態の更新を未確認として記録"
+  },
+  "errors": [],
+  "notes": "未確認情報は追加せず、latest.jsonを変更しない。"
+}
