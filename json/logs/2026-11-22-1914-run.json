@@ -1,0 +1,120 @@
+{
+  "run_at": "2026-11-22T19:14:12+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "864ef612df521a47b41fc9735ee913a434319abe",
+    "blob_sha_after": "516f379aa588f7544bd925508c99fac22a56bc6e",
+    "commit_sha": "c70eba3385d548f4d454de40fcbb1a41062966e7",
+    "updatetime": "2026-11-22T19:14:12+09:00",
+    "item_count_before": 2498,
+    "item_count_after": 2500,
+    "changed": true
+  },
+  "research": [
+    {
+      "source": "株式会社コルマール堂・MythiQue公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194867.html",
+      "result": "MythiQue（ミティーク）エスパル仙台店の常設店を2026-12-01に開店。所在地は宮城県仙台市青葉区中央1-1-1、エスパル仙台東館2Fスイーツガーデン。未登録のため追加"
+    },
+    {
+      "source": "PPIH・Olympicグループ公式発表",
+      "url": "https://ppih.co.jp/news/pdf/260901_news_Olympic.pdf",
+      "result": "Olympic洋光台店の業態転換先（仮称：MEGA ドン・キホーテ洋光台店）、開店予定日2026-12-15、所在地は神奈川県横浜市磯子区洋光台5-1-9。店名が仮称であることを明示して追加"
+    },
+    {
+      "source": "PPIH・ドン・キホーテ公式発表",
+      "url": "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf",
+      "result": "MEGA ドン・キホーテ Olympic 高井戸店（2026-12-01）は既存登録済み。変更なし"
+    },
+    {
+      "source": "PPIH公式・ロビン・フッド北新宿店",
+      "url": "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+      "result": "ロビン・フッド北新宿店（2026-12-01）は既存登録済み。変更なし"
+    },
+    {
+      "source": "PPIH公式・ロビン・フッド亀戸店／朝霞泉水店",
+      "url": "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+      "result": "ロビン・フッド亀戸店（2026-12-08）、ロビン・フッド朝霞泉水店（2026-12-15）は既存登録済み。変更なし"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "2026-11-25〜2026-12-04掲載店舗を照合。候補は登録済み。既存の表記揺れレコードは統合せず保持"
+    },
+    {
+      "source": "サブウェイ公式・新店舗情報",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "イオンモール神戸南店、イオン三ツ境店、イオンモール伊達店など照合対象は登録済み"
+    },
+    {
+      "source": "タリーズ公式・2026年プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "タリーズコーヒー with U イオンモール小山店、タリーズコーヒー ＆TEA イオンモール伊達店は登録済み"
+    },
+    {
+      "source": "日本ケンタッキー・フライド・チキン公式",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "result": "2026年11月の9店舗を照合。該当店舗は登録済み"
+    },
+    {
+      "source": "株式会社パルコ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "result": "仙台PARCO2「パルイチ」6店舗の開店・リニューアル日を照合。全件登録済み"
+    },
+    {
+      "source": "ゼンショーホールディングス公式・新店情報",
+      "url": "https://www.zensho.co.jp/jp/brands/newshop/index.html",
+      "result": "掲載中の直近候補を照合。すき家16号木更津潮見店等は登録済み"
+    }
+  ],
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "added_items": [
+      {
+        "name": "MythiQue（ミティーク）エスパル仙台店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-01",
+        "category": "洋菓子・ケーキ専門店（常設店）"
+      },
+      {
+        "name": "MEGA ドン・キホーテ洋光台店（仮称）",
+        "prefecture": "神奈川県",
+        "city": "横浜市磯子区",
+        "opening_date": "2026-12-15",
+        "category": "総合ディスカウントストア（業態転換・リニューアル）"
+      }
+    ]
+  },
+  "quality": {
+    "json_parse": "ok",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sort_inversions": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 6,
+    "normalized_duplicate_groups_action": "既存の表記揺れ疑い6組は統合・削除せず保持"
+  },
+  "unconfirmed": [
+    {
+      "candidate": "ODD南森町店",
+      "reason": "確認できた資料では2026年12月という月までで、YYYY-MM-DD形式の確定開店日が確認できないため追加を保留"
+    }
+  ],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "run_state": "in_progress",
+    "next_run_time_reported": "2026-11-22T19:15:00+09:00",
+    "schedule_changed": false,
+    "note": "有効状態と毎時15分のスケジュールを確認。今回実行の管理側完了時刻は未確定"
+  },
+  "errors": [],
+  "notes": "公式情報で開店日・所在地を確認できた未登録2件のみ追加。MEGA ドン・キホーテ洋光台店は公式発表上の仮称であるため、名称に（仮称）を明記。既存データの訂正・削除は行わず、保存後の再取得でblob SHA・件数・追加2件を確認"
+}
