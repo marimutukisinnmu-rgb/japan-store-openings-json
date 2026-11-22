@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-22T15:18:36+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "4f6a5bdada043d2a26991ff4ccb76edc0e7c785d",
+    "blob_sha_after": "d7e39463e8da3683d3ca254cf79ea1e9c19f7cb0",
+    "commit_sha": "435a95b9dc8b2c210ba01f0bff8a1b2f8291e4ca",
+    "updatetime": "2026-11-22T15:18:36+09:00",
+    "item_count_before": 2477,
+    "item_count_after": 2478,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 1,
+    "added_items": [
+      {
+        "name": "とんかつ まい泉 セレオ八王子店",
+        "prefecture": "東京都",
+        "city": "八王子市",
+        "opening_date": "2026-11-26",
+        "category": "とんかつ・弁当（リニューアル）"
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_or_already_registered": [
+      {
+        "name": "なだ万 セレオ八王子店",
+        "result": "公式の店舗ページで11月26日開店・八王子市旭町1-1を確認。既存JSONの「日本料理 なだ万（セレオ八王子）」と同一店舗のため追加なし。"
+      },
+      {
+        "name": "シェイク シャック 西新宿店",
+        "result": "公式発表の2026-11-28開店情報は既存登録済み。"
+      },
+      {
+        "name": "BONAVENTURA 西武池袋店",
+        "result": "公式発表の2026-11-20開店情報は既存登録済み。"
+      },
+      {
+        "name": "BAKERIES LAB.砂町銀座店",
+        "result": "公式発表の2026-11-21開店情報は既存登録済み。"
+      },
+      {
+        "name": "ローソン公式新店情報",
+        "result": "11月下旬〜12月上旬の掲載候補は既存登録済み。"
+      }
+    ],
+    "unconfirmed_items": []
+  },
+  "source_checks": [
+    {
+      "name": "井筒まい泉 公式店舗情報",
+      "url": "https://mai-sen.com/news/shop-info/post-3145/",
+      "result": "とんかつ まい泉 セレオ八王子店の2026-11-26リニューアルオープン、東京都八王子市旭町1-1 セレオ八王子北館1階を確認。未登録のため追加。"
+    },
+    {
+      "name": "なだ万 公式店舗ページ",
+      "url": "https://www.nadaman.co.jp/en/pages/chubo_celeohachioji",
+      "result": "2026-11-26開店、東京都八王子市旭町1-1 セレオ八王子北館1階。既存レコードと一致。"
+    },
+    {
+      "name": "Shake Shack公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001103.000005743.html",
+      "result": "西新宿店の2026-11-28開店、東京都新宿区西新宿一丁目9番1号を確認。既存登録済み。"
+    },
+    {
+      "name": "BONAVENTURA公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000305.000024686.html",
+      "result": "西武池袋店の2026-11-20開店を確認。既存登録済み。"
+    },
+    {
+      "name": "BAKERIES LAB.公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "砂町銀座店の2026-11-21開店を確認。既存登録済み。"
+    },
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "11月下旬〜12月上旬の掲載候補を既存データと照合。新規追加なし。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_items_preserved": true,
+    "new_item_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2478
+  },
+  "save": {
+    "latest_json": "updated_refetched_and_validated",
+    "run_log": "pending"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled_state_check": "unavailable",
+    "note": "Automation status action returned NOT_FOUND; current enabled state could not be verified in this run. No schedule change was made."
+  }
+}
