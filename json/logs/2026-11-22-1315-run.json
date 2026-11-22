@@ -1,0 +1,140 @@
+{
+  "run_at": "2026-11-22T13:14:34+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "no_change",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "6979fd479274951c800d57d436c366d43d6994ca",
+    "blob_sha_after": "6979fd479274951c800d57d436c366d43d6994ca",
+    "updatetime": "2026-11-22T12:10:04+09:00",
+    "item_count_before": 2476,
+    "item_count_after": 2476,
+    "modified": false
+  },
+  "findings": {
+    "new_confirmed_items": 0,
+    "added_items": [],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_or_already_registered": [
+      {
+        "name": "ローソン公式 新店舗情報（2026-11-06〜2026-12-04掲載分）",
+        "result": "掲載された46店舗を照合し、すべて既存JSONに登録済み。LAWSON＋toks等々力緑地は表記揺れの既存レコードを保持し、新規追加・自動統合は行わない。"
+      },
+      {
+        "name": "KFC公式 2026年11月新店情報",
+        "result": "公式掲載11店舗を照合し、すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "TULLY'S COFFEE公式 2026年11月新店情報",
+        "result": "イオンモール伊達店、with U イオンモール小山店の2店舗とも既存JSONに登録済み。"
+      },
+      {
+        "name": "SUBWAY公式 2026年11月新店舗情報",
+        "result": "イオン三ツ境店、イオンモール伊達店、イオンモール神戸南店、サクラマチクマモト店を照合。すべて既存JSONに登録済み。イオンモール伊達店は既存レコードの英字表記を確認。"
+      },
+      {
+        "name": "wanna manna大阪梅田店",
+        "result": "2026-12-02開店、住所は大阪府大阪市北区曽根崎2-15-23。既存JSONに登録済み。"
+      },
+      {
+        "name": "桐松屋",
+        "result": "2026-12-01グランドオープン、東京都墨田区。既存JSONに登録済み。11-28プレオープンはグランドオープン日と混同せず、既存の12-01を維持。"
+      },
+      {
+        "name": "秋野テーブル",
+        "result": "2026-12-01開業、東京都渋谷区渋谷3-21-3。既存JSONに登録済み。"
+      },
+      {
+        "name": "PAPABUBBLE イクスピアリ店 / BAKERIES LAB.砂町銀座店 / POP MART LUCUA SOUTH店",
+        "result": "各社の公式発表を照合し、すべて既存JSONに登録済み。"
+      }
+    ],
+    "unconfirmed_items": [
+      {
+        "name": "一部の二次情報にのみ掲載された12月上旬開店候補",
+        "result": "公式発表で確定した開店日・店舗所在地を確認できなかったため、追加しない。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "ローソン公式 新店情報",
+        "url": "https://www.lawson.co.jp/newstore/smt/",
+        "result": "2026-11-06〜2026-12-04掲載分を既存JSONと照合。掲載46店舗はすべて既存登録済み。"
+      },
+      {
+        "name": "KFC公式 11月新店情報",
+        "url": "https://japan.kfc.co.jp/news_release/8199",
+        "result": "2026年11月の公式掲載11店舗を照合。すべて既存登録済み。"
+      },
+      {
+        "name": "TULLY'S COFFEE公式 2026年プレスリリース一覧",
+        "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+        "result": "11月17日・19日掲載の新店舗2件を照合。両方とも既存登録済み。"
+      },
+      {
+        "name": "SUBWAY公式 2026年お知らせ",
+        "url": "https://subway.co.jp/news/year/2026/",
+        "result": "11月の新店舗4件を照合。すべて既存登録済み。"
+      },
+      {
+        "name": "グレイス株式会社・wanna manna大阪梅田店発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000142.000036360.html",
+        "result": "2026-12-02の開店日と大阪市北区曽根崎2-15-23の所在地を確認。既存登録済み。"
+      },
+      {
+        "name": "アトリエ株式会社・桐松屋発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+        "result": "2026-11-28プレオープン、2026-12-01グランドオープン、東京都墨田区を確認。既存登録済み。"
+      },
+      {
+        "name": "株式会社スープストックトーキョー・秋野テーブル発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+        "result": "2026-12-01開業、東京都渋谷区渋谷3-21-3を確認。既存登録済み。"
+      },
+      {
+        "name": "PAPABUBBLE公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "result": "PAPABUBBLE イクスピアリ店は既存登録済み。"
+      },
+      {
+        "name": "GYRO HOLDINGS公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "result": "BAKERIES LAB.砂町銀座店は既存登録済み。"
+      },
+      {
+        "name": "POP MART JAPAN公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "result": "POP MART LUCUA SOUTH店は既存登録済み。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "suspected_normalized_duplicate_groups": 6,
+    "suspected_duplicate_policy": "既存レコードの表記揺れと推定される6組を検出。正規化だけでは統合せず、既存データを保持して要確認とする。",
+    "existing_items_preserved": true,
+    "new_item_present": null,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2476
+  },
+  "save": {
+    "latest_json": "unchanged_refetched_and_validated",
+    "run_log": "pending_creation"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_at_start": true,
+    "is_enabled_after_run": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "note": "Automation remains enabled; no schedule changes made."
+  }
+}
