@@ -1,0 +1,133 @@
+{
+  "run_at": "2026-11-22T09:10:50+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "checked_no_changes",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "7a41a96fbe44f04b5d553d9d622c44d852a11c60",
+    "blob_sha_after": "7a41a96fbe44f04b5d553d9d622c44d852a11c60",
+    "commit_sha": null,
+    "updatetime": "2026-11-22T08:16:21+09:00",
+    "item_count_before": 2466,
+    "item_count_after": 2466,
+    "modified": false
+  },
+  "findings": {
+    "new_confirmed_items": 0,
+    "added_items": [],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_items": [
+      {
+        "name": "Timberland（ジャズドリーム長島）",
+        "result": "施設発表の一覧画像では『2026年12月予定』までしか確認できない。既存JSONの2026-12-18は変更せず、今回の資料だけを根拠に日付を訂正しない。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "ローソン公式 新店情報",
+        "url": "https://www.lawson.co.jp/newstore/index.html",
+        "result": "2026-11-25〜12-03掲載の21候補を既存JSONと照合。全件登録済み。"
+      },
+      {
+        "name": "タリーズ公式 2026年プレスリリース一覧",
+        "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+        "result": "タリーズコーヒー with U イオンモール小山店（11/18）、タリーズコーヒー ＆TEA イオンモール伊達店（11/27）を確認。両方登録済み。"
+      },
+      {
+        "name": "ゴンチャ公式プレスリリース一覧",
+        "url": "https://www.gongcha.co.jp/pressrelease/",
+        "result": "豊田T-FACE店（11/27）、イオンモール伊達店（11/27）、富山MAROOT店（12/10）などの発表を照合。対象店舗は登録済み。"
+      },
+      {
+        "name": "POP MART JAPAN発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "result": "POP MART LUCUA SOUTH店の11/24グランドオープンを確認。登録済み。"
+      },
+      {
+        "name": "三井アウトレットパーク ジャズドリーム長島の出店発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+        "result": "本文と新規出店一覧画像を確認。MERRELL（11/21）、CASIO WATCH OUTLET（12/11）など確認可能な店舗は登録済み。Timberlandは画像上『12月予定』のみ。"
+      },
+      {
+        "name": "すき家公式 新店情報",
+        "url": "https://sukiya.jp/news/",
+        "result": "検索結果に札幌平岡店（11/30）が掲載。既存JSONに登録済み。ただしページ本文の直接取得は旧アーカイブ表示となり、現行一覧の直接再取得は未確認。"
+      },
+      {
+        "name": "成田国際空港・FOUR SEEDS公式発表",
+        "url": "https://www.narita-airport.jp/ja/company/media-center/news/20261106_KUAAINAsSmashedBurger/",
+        "result": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店（11/20）を確認。登録済み。"
+      },
+      {
+        "name": "VENEX公式発表",
+        "url": "https://venex-j.co.jp/news/detail/1030.html",
+        "result": "neverbetter（11/15、東京都世田谷区）を確認。登録済み。"
+      },
+      {
+        "name": "GYRO HOLDINGS発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "result": "BAKERIES LAB.砂町銀座店（11/21）を確認。登録済み。"
+      },
+      {
+        "name": "キル フェ ボン公式発表",
+        "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+        "result": "キル フェ ボン新宿（11/28）を確認。登録済み。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2466,
+    "spot_checks": [
+      {
+        "name": "POP MART LUCUA SOUTH店",
+        "found": true
+      },
+      {
+        "name": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店",
+        "found": true
+      },
+      {
+        "name": "neverbetter",
+        "found": true
+      },
+      {
+        "name": "BAKERIES LAB.砂町銀座店",
+        "found": true
+      },
+      {
+        "name": "CASIO WATCH OUTLET（ジャズドリーム長島）",
+        "found": true
+      },
+      {
+        "name": "MERRELL（ジャズドリーム長島）",
+        "found": true
+      },
+      {
+        "name": "すき家 札幌平岡店",
+        "found": true
+      }
+    ]
+  },
+  "save": {
+    "latest_json": "unchanged_existing_file_protected",
+    "run_log": "pending"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "observed_next_run_time": "2026-11-22T09:15:00+09:00",
+    "observed_last_run_status": "in_progress",
+    "observed_last_run_completed_at": null
+  }
+}
