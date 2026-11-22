@@ -1,0 +1,134 @@
+{
+  "run_at": "2026-11-23T00:18:28+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "previous_blob_sha": "30bf87dce4078c36db2aeded72cb1d0818c17866",
+  "new_blob_sha": "1c7634d8aceb68858510d3c64ea0ca846f7cd189",
+  "commit_sha": "12d2fb245333db6e28db54547a94780163090acb",
+  "item_count_before": 2516,
+  "item_count_after": 2521,
+  "added": [
+    {
+      "name": "うどん038 東池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-23",
+      "category": "讃岐うどん・和食"
+    },
+    {
+      "name": "牛かつもと村 西心斎橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "牛かつ専門店"
+    },
+    {
+      "name": "カフェ・ベローチェ 伊勢佐木モール店",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-25",
+      "category": "カフェ"
+    },
+    {
+      "name": "Shake Shack 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ハンバーガーレストラン"
+    },
+    {
+      "name": "牡蠣小屋ブルーテラス（二色の浜公園・期間限定）",
+      "prefecture": "大阪府",
+      "city": "貝塚市",
+      "opening_date": "2026-11-28",
+      "category": "期間限定・牡蠣小屋（2026-11-28〜2027-03-28）"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "sources": [
+    {
+      "name": "株式会社SANKO MARKETING FOODS 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000386.000053263.html",
+      "supports": "うどん038 東池袋店、2026-11-23開業、東京都豊島区東池袋"
+    },
+    {
+      "name": "株式会社牛かつもと村 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000180852.html",
+      "supports": "牛かつもと村 西心斎橋店、2026-11-25開店、大阪市中央区"
+    },
+    {
+      "name": "C-United株式会社 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000197.000079423.html",
+      "supports": "カフェ・ベローチェ 伊勢佐木モール店、2026-11-25開店、横浜市中区"
+    },
+    {
+      "name": "アイビーカンパニー株式会社 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000001103.000005743.html",
+      "supports": "Shake Shack 西新宿店、2026-11-28 11:00開業、新宿区西新宿1-9-1"
+    },
+    {
+      "name": "二色の浜リバイバル・プロジェクトグループ発行プレスリリース",
+      "url": "https://semba.keizai.biz/release/687586/",
+      "supports": "牡蠣小屋ブルーテラス、2026-11-28〜2027-03-28冬季営業、大阪府貝塚市・府営二色の浜公園"
+    }
+  ],
+  "comparison_sources": [
+    {
+      "name": "株式会社ジョイフル 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000407.000023968.html",
+      "result": "JOYFULL EXPRESS ゆめタウン久留米店は同一名称・所在地・開店日で既存登録済みのため追加せず"
+    },
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "2026-11-25〜2026-12-04の掲載候補を照合。今回の候補は既存登録済み"
+    },
+    {
+      "name": "キルフェボン株式会社公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "result": "キル フェ ボン新宿は既存登録済み"
+    },
+    {
+      "name": "株式会社WithGreen公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "result": "WithGreen 光が丘IMA店は既存登録済み"
+    },
+    {
+      "name": "株式会社ユニシアホールディングス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000650.000027839.html",
+      "result": "串カツ田中 徳島両国橋店は既存登録済み"
+    }
+  ],
+  "not_added": [
+    {
+      "name": "東京ソラマチ お肉の専門店スギモト",
+      "reason": "公式施設発表は「11月下旬」のみで日付が特定できないため保留"
+    },
+    {
+      "name": "日と々と（新ダイビル）",
+      "reason": "11月開業予定までの情報で、具体的な開業日を確認できないため保留"
+    },
+    {
+      "name": "その他の二次情報のみの候補",
+      "reason": "運営会社・施設の一次情報で店名、所在地、開店日を揃えて確認できなかったため未登録"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_calendar_dates": 0,
+    "exact_duplicate_name_prefecture_city_date": 6,
+    "preexisting_duplicate_count_preserved": 6,
+    "sorted_by_opening_date": true,
+    "existing_records_preserved": true,
+    "added_records_present_once": 5
+  },
+  "save": {
+    "github_update": "success",
+    "refetch": "success",
+    "fetched_blob_sha": "1c7634d8aceb68858510d3c64ea0ca846f7cd189",
+    "blob_sha_matches": true,
+    "log_pending": true
+  }
+}
