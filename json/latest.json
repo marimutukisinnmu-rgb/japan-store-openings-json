@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T19:14:12+09:00",
+  "updatetime": "2026-11-22T20:19:21+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12387,6 +12387,13 @@
       "category": "期間限定コンセプトストア（2026-11-21〜2026-11-23）"
     },
     {
+      "name": "登れる宿 YUKIYAMA",
+      "prefecture": "岐阜県",
+      "city": "郡上市",
+      "opening_date": "2026-11-21",
+      "category": "宿泊施設（リニューアル）"
+    },
+    {
       "name": "TAROKO PICKLEBALL CLUB 下総中山",
       "prefecture": "千葉県",
       "city": "船橋市",
@@ -15698,6 +15705,13 @@
       "category": "ドーナツ専門店"
     },
     {
+      "name": "ドムドムハンバーガー イオン小平店",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-12-05",
+      "category": "ハンバーガー（リニューアル）"
+    },
+    {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
       "prefecture": "東京都",
       "city": "中野区",
@@ -16811,6 +16825,13 @@
       "category": "京漬物"
     },
     {
+      "name": "ステーキのあさくま 蒲郡店",
+      "prefecture": "愛知県",
+      "city": "蒲郡市",
+      "opening_date": "2026-12-16",
+      "category": "ステーキレストラン"
+    },
+    {
       "name": "マクドナルド １３号湯沢店",
       "prefecture": "秋田県",
       "city": "湯沢市",
@@ -17068,6 +17089,13 @@
       "city": "大阪市浪速区",
       "opening_date": "2026-12-23",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-23〜2027-01-05）"
+    },
+    {
+      "name": "みつぼしや アリオ八尾店",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "opening_date": "2026-12-23",
+      "category": "焼き魚定食店"
     },
     {
       "name": "BUB RESORT Minakami（プレオープン）",
