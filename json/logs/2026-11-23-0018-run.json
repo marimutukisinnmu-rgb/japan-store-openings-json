@@ -122,13 +122,82 @@
     "preexisting_duplicate_count_preserved": 6,
     "sorted_by_opening_date": true,
     "existing_records_preserved": true,
-    "added_records_present_once": 5
+    "added_records_present_once": 5,
+    "preexisting_duplicate_groups": 6,
+    "preexisting_duplicate_extra_records": 6
   },
   "save": {
     "github_update": "success",
     "refetch": "success",
     "fetched_blob_sha": "1c7634d8aceb68858510d3c64ea0ca846f7cd189",
     "blob_sha_matches": true,
-    "log_pending": true
+    "log_pending": false,
+    "log_refetch_verified": true
+  },
+  "preexisting_duplicate_groups": [
+    {
+      "name_variants": [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-11-02"
+    },
+    {
+      "name_variants": [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-11-13"
+    },
+    {
+      "name_variants": [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name_variants": [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "opening_date": "2026-11-27"
+    },
+    {
+      "name_variants": [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      "prefecture": "東京都",
+      "city": "清瀬市",
+      "opening_date": "2026-11-28"
+    },
+    {
+      "name_variants": [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ],
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-12-10"
+    }
+  ],
+  "automation_check": {
+    "is_enabled": true,
+    "schedule": "Hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "current_run_status": "in_progress",
+    "current_run_started_at": "2026-11-22T15:18:27.184939Z",
+    "current_run_completed_at": null,
+    "next_run_time_reported": "2026-11-23T00:15:00+09:00",
+    "note": "The reported next_run_time still points to the current scheduled slot; no schedule change was made."
   }
 }
