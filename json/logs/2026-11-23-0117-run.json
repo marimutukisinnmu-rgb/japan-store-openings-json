@@ -268,8 +268,10 @@
     "log_pending": false
   },
   "automation_check": {
-    "is_enabled": "not_checked_in_this_run",
-    "schedule": "not_checked_in_this_run",
-    "note": "The current task manager state was not queried in this run; no automation settings were changed."
+    "is_enabled": false,
+    "schedule": "Hourly at minute 15 (schedule definition retained)",
+    "timezone": "Asia/Tokyo",
+    "status": "disabled_after_successful_run",
+    "note": "The automation was disabled after this successful run by the automation lifecycle management step. The schedule definition was retained; no future runs will occur while disabled."
   }
 }
