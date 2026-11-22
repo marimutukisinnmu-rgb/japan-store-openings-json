@@ -1,0 +1,190 @@
+{
+  "run_at": "2026-11-22T23:13:09+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "previous_blob_sha": "52d80ee8e563dc666d211e9d2ba7591e203ae502",
+  "new_blob_sha": "30bf87dce4078c36db2aeded72cb1d0818c17866",
+  "commit_sha": "722cce308fa182d208714d1564ed035457b558cb",
+  "commits": [
+    {
+      "commit_sha": "b9e86e99327a150e2b604114db6b3344e033257d",
+      "previous_blob_sha": "52d80ee8e563dc666d211e9d2ba7591e203ae502",
+      "new_blob_sha": "677ac7191ddcda716bd3dc0b3a2a58c0d5f9bc4f",
+      "added": [
+        "LUNA EARTH イオンモール草津店"
+      ]
+    },
+    {
+      "commit_sha": "00f64856e5182f406fe83d6895a7e0d671c035dd",
+      "previous_blob_sha": "677ac7191ddcda716bd3dc0b3a2a58c0d5f9bc4f",
+      "new_blob_sha": "85b6a4b71d7cc886465bcb67ecd27fe591dee119",
+      "added": [
+        "焼肉冷麺 源助 薬院駅店",
+        "FUKUOKA BLUE DEPT.（福岡PARCO店）",
+        "Pilates Mirror 別府"
+      ]
+    },
+    {
+      "commit_sha": "722cce308fa182d208714d1564ed035457b558cb",
+      "previous_blob_sha": "85b6a4b71d7cc886465bcb67ecd27fe591dee119",
+      "new_blob_sha": "30bf87dce4078c36db2aeded72cb1d0818c17866",
+      "added": [
+        "居酒屋 幸屋（WabiSabi TOKYO・期間限定）"
+      ]
+    }
+  ],
+  "item_count_before": 2511,
+  "item_count_after": 2516,
+  "added": [
+    {
+      "name": "LUNA EARTH イオンモール草津店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-11-27",
+      "category": "アクセサリー・ファッション雑貨"
+    },
+    {
+      "name": "焼肉冷麺 源助 薬院駅店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-24",
+      "category": "焼肉・冷麺・韓国麺料理"
+    },
+    {
+      "name": "FUKUOKA BLUE DEPT.（福岡PARCO店）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-27",
+      "category": "福岡土産・地域商品"
+    },
+    {
+      "name": "Pilates Mirror 別府",
+      "prefecture": "福岡県",
+      "city": "福岡市城南区",
+      "opening_date": "2026-12-04",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "居酒屋 幸屋（WabiSabi TOKYO・期間限定）",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-20",
+      "category": "期間限定居酒屋（2026-11-20〜2026-11-24）"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "sources": [
+    {
+      "name": "株式会社エンドレス（LUNA EARTH公式発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000922.000061261.html",
+      "supports": "LUNA EARTH イオンモール草津店、2026-11-27開店、滋賀県草津市新浜町300"
+    },
+    {
+      "name": "株式会社プラス１（焼肉冷麺 源助公式発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000009.000160432.html",
+      "supports": "焼肉冷麺 源助 薬院駅店、2026-11-24開店、福岡市中央区白金1丁目21-15 薬院ロイヤルビル3F"
+    },
+    {
+      "name": "福岡PARCO公式 New & Renewal",
+      "url": "https://fukuoka.parco.jp/newrenewal/detail/?id=39516",
+      "supports": "FUKUOKA BLUE DEPT.、2026-11-27開店、本館1F、福岡市中央区天神2丁目11-1"
+    },
+    {
+      "name": "コナミスポーツ公式発表",
+      "url": "https://www.konami.com/sportsclub/corporate/press/2026/10/19/",
+      "supports": "Pilates Mirror 別府、2026-12-04開店、福岡市城南区別府5-13-38 ハイドパーク別府1階"
+    },
+    {
+      "name": "ボンディッシュ株式会社公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000472.000036259.html",
+      "supports": "居酒屋 幸屋、2026-11-20〜2026-11-24の5日間限定営業、WabiSabi TOKYO（東京都渋谷区本町6丁目21-4）"
+    }
+  ],
+  "comparison_sources": [
+    {
+      "name": "しまむらグループ公式店舗情報（しまむら FUKUOKA TENJIN）",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_2199.html",
+      "result": "2026-12-02開店の既存レコードを確認"
+    },
+    {
+      "name": "しまむらグループ公式店舗情報（アベイル FUKUOKA TENJIN）",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_7927.html",
+      "result": "2026-12-02開店の既存レコードを確認"
+    },
+    {
+      "name": "しまむらグループ公式店舗情報（バースデイ FUKUOKA TENJIN）",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_3612.html",
+      "result": "2026-12-02開店の既存レコードを確認"
+    },
+    {
+      "name": "成田国際空港公式発表",
+      "url": "https://www.narita-airport.jp/ja/company/media-center/news/20261106_KUAAINAsSmashedBurger/",
+      "result": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店は既存登録済み"
+    },
+    {
+      "name": "PAPABUBBLE公式",
+      "url": "https://papabubble.co.jp/blogs/blog/ikspiari_papabubble",
+      "result": "PAPABUBBLE イクスピアリ店は既存登録済み"
+    },
+    {
+      "name": "株式会社ベイシア公式",
+      "url": "https://www.beisia.co.jp/news",
+      "result": "Beisia Foods Park 幕張店は既存登録済み"
+    },
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "確認した12月1日〜3日の候補は既存登録済み"
+    },
+    {
+      "name": "タリーズコーヒー公式プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "タリーズコーヒー with U イオンモール小山店、タリーズコーヒー ＆TEA イオンモール伊達店は既存登録済み"
+    },
+    {
+      "name": "資さんうどん公式店舗情報",
+      "url": "https://www.sukesanudon.com/map/branch/map-8025/",
+      "result": "和泉観音寺店は11月20日〜24日プレオープン、11月25日グランドオープン。既存の2026-11-25記録が正しいため変更なし"
+    },
+    {
+      "name": "福岡PARCO公式 New & Renewal",
+      "url": "https://fukuoka.parco.jp/newrenewal/",
+      "result": "PUNIKKO by TOKOTOYZ 福岡PARCO店は既存登録済み"
+    }
+  ],
+  "not_added": [
+    {
+      "name": "Milluflora イオンモール直方店",
+      "reason": "求人情報は11月末開店を示すが、正確な開店日を裏付ける運営会社・施設の一次情報を確認できず。二次情報の11月27日を採用せず保留"
+    },
+    {
+      "name": "ola blue（移転オープン）",
+      "reason": "地元の二次情報は見つかったが、移転先・開店日を確定できる運営元の公式発表を確認できず"
+    },
+    {
+      "name": "TULLY'S COFFEE MORIOKA TSUTAYA（仮）",
+      "reason": "店舗名が仮称扱いで、運営会社の公式発表と具体的な開店日を確認できず"
+    },
+    {
+      "name": "アクロスプラザ和泉観音寺の未発表テナント",
+      "reason": "2027年3月予定の一部テナントは店舗名未公表のため登録せず"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_calendar_dates": 0,
+    "exact_duplicate_name_prefecture_city_date": 0,
+    "sorted_by_opening_date": true,
+    "existing_records_preserved": true,
+    "added_records_present_once": 5
+  },
+  "save": {
+    "github_update": "success",
+    "refetch": "success",
+    "fetched_blob_sha": "30bf87dce4078c36db2aeded72cb1d0818c17866",
+    "blob_sha_matches": true,
+    "log_pending": false
+  }
+}
