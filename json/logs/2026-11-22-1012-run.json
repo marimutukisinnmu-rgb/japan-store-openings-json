@@ -214,7 +214,7 @@
   },
   "save": {
     "latest_json": "updated_and_refetched",
-    "run_log": "pending_creation"
+    "run_log": "created_and_refetched"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
