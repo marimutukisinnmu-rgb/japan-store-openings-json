@@ -1,0 +1,78 @@
+{
+  "run_at": "2026-11-23T03:15:52+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "success",
+  "file": "json/latest.json",
+  "previous_blob_sha": "0e5e009ce8c277d58422bca718d88b391621a4d5",
+  "updated_blob_sha": "6b58b2f4d236de50153df85755e838f0a2126cd7",
+  "update_commit_sha": "994c1d247298596e3a025c01c80cfc7cd77b4b3d",
+  "previous_count": 2529,
+  "added_count": 4,
+  "updated_count": 2533,
+  "corrected_count": 0,
+  "deleted_count": 0,
+  "unchanged_existing_records": 2529,
+  "additions": [
+    {
+      "name": "ノースマンJR品川駅店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-27",
+      "category": "和洋菓子専門店・期間限定（2026-11-27〜2027-04-05）"
+    },
+    {
+      "name": "フォーナインズ（ランドマークプラザ）",
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "opening_date": "2026-12-01",
+      "category": "アイウェア・眼鏡専門店"
+    },
+    {
+      "name": "BIRTHDAY BAR アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "ギフト・セレクトショップ"
+    },
+    {
+      "name": "WithGreen アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "サラダボウル専門店"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ノースマンJR品川駅店",
+      "publisher": "千秋庵製菓株式会社",
+      "url": "https://senshuan.co.jp/news/204070/"
+    },
+    {
+      "name": "フォーナインズ（ランドマークプラザ）",
+      "publisher": "三菱地所プロパティマネジメント株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+    },
+    {
+      "name": "BIRTHDAY BAR アトレ中野店",
+      "publisher": "株式会社パルグループホールディングス",
+      "url": "https://prtimes.jp/main/html/rd/p/000001228.000011430.html"
+    },
+    {
+      "name": "WithGreen アトレ中野店",
+      "publisher": "株式会社WithGreen",
+      "url": "https://prtimes.jp/main/html/rd/p/000000127.000018848.html"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "exact_duplicate_keys": 0,
+    "opening_date_sort": true,
+    "new_records_present": true,
+    "item_count_matches": true,
+    "fetched_blob_sha_matches_write_result": true
+  },
+  "previous_updatetime": "2026-11-23T02:20:50+09:00",
+  "new_updatetime": "2026-11-23T03:15:52+09:00"
+}
