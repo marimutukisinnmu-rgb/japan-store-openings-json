@@ -1,0 +1,154 @@
+{
+  "task": "全国 開店予定JSON（回転JSON）",
+  "run_at": "2026-11-23T06:18:42+09:00",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "item_count_before": 2533,
+    "item_count_after": 2535,
+    "blob_sha_before": "6b58b2f4d236de50153df85755e838f0a2126cd7",
+    "blob_sha_after": "212e0b0a3ed7e6998f3a5e457333631d54c59f92",
+    "updatetime_before": "2026-11-23T03:15:52+09:00",
+    "updatetime_after": "2026-11-23T06:18:42+09:00",
+    "modified": true,
+    "commits": [
+      "0d481b66add2a33866481933d26ec139cdf78ea1",
+      "5c431ed61c8e4f98b2d592cc60a6b53a545fa05d"
+    ]
+  },
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "items": [
+      {
+        "name": "月島もんじゃ もへじ 松山",
+        "prefecture": "愛媛県",
+        "city": "松山市",
+        "opening_date": "2026-12-04",
+        "category": "もんじゃ焼き",
+        "source": "https://prtimes.jp/main/html/rd/p/000000015.000186441.html"
+      },
+      {
+        "name": "Rintosull新瑞橋店",
+        "prefecture": "愛知県",
+        "city": "名古屋市瑞穂区",
+        "opening_date": "2026-12-01",
+        "category": "マシンピラティススタジオ",
+        "source": "https://prtimes.jp/main/html/rd/p/000000175.000036736.html"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "月島もんじゃ もへじ 松山",
+      "publisher": "株式会社KISSUI GROUP",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000186441.html",
+      "result": "公式発表で2026-12-04のグランドオープンと愛媛県松山市・大街道商店街への出店を確認。既存JSONに未登録だったため追加。"
+    },
+    {
+      "name": "Rintosull新瑞橋店",
+      "publisher": "株式会社LAVA International",
+      "url": "https://prtimes.jp/main/html/rd/p/000000175.000036736.html",
+      "result": "公式発表で2026-12-01のグランドオープン、愛知県名古屋市瑞穂区洲山町2-31を確認。既存JSONに未登録だったため追加。"
+    },
+    {
+      "name": "KFC 2026年12月新店情報",
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "result": "公式掲載の11店舗を店名・開店日で照合し、全11店舗が既存JSONに登録済みと確認。"
+    },
+    {
+      "name": "すき家 札幌平岡店",
+      "publisher": "株式会社すき家",
+      "url": "https://www.sukiya.jp/news/",
+      "related_urls": [
+        "https://maps.sukiya.jp/jp/detail/6639.html"
+      ],
+      "result": "公式ニュースと公式店舗ページで2026-11-30朝9時開店、北海道札幌市清田区を確認。既存JSONに登録済み。"
+    },
+    {
+      "name": "ローソン 中部エリア新店情報",
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/chubu.html",
+      "result": "公式ページの12月3日〜4日掲載店舗を確認した範囲では、既存JSONに登録済み。"
+    },
+    {
+      "name": "新静岡セノバ 2026年12月新店",
+      "publisher": "静鉄プロパティマネジメント株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000055472.html",
+      "result": "くし葉、ふりそでモード、スーツスクエア、HISの開店日を確認。照合した4店舗は既存JSONに登録済み。"
+    },
+    {
+      "name": "仙台PARCO2 パルイチ",
+      "publisher": "株式会社パルコ",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "result": "ゴンチャ、田中そば店、韓美膳などの開店日を確認。照合した対象店舗は既存JSONに登録済み。"
+    },
+    {
+      "name": "その他の既存登録確認",
+      "publisher": "各運営会社の公式発表",
+      "related_urls": [
+        "https://prtimes.jp/main/html/rd/p/000000002.000193773.html",
+        "https://prtimes.jp/main/html/rd/p/000000051.000150643.html",
+        "https://prtimes.jp/main/html/rd/p/000000083.000028112.html",
+        "https://prtimes.jp/main/html/rd/p/000000947.000002646.html"
+      ],
+      "result": "MERLE、meet@FINOA、ドムドムハンバーガー イオン小平店、KUAʻAINA’s Smashed Burgerは既存登録済みと確認。"
+    }
+  ],
+  "source_errors": [],
+  "unconfirmed": [],
+  "validation": {
+    "json_parse": true,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "chronological_order": true,
+    "exact_full_record_duplicate_groups": 0,
+    "normalized_name_prefecture_city_date_duplicate_groups": 6,
+    "new_normalized_duplicate_groups": 0,
+    "added_item_occurrences": {
+      "月島もんじゃ もへじ 松山": 1,
+      "Rintosull新瑞橋店": 1
+    },
+    "github_retrieval_sha_matches_write_sha": true
+  },
+  "duplicate_review": {
+    "existing_groups_preserved": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    ],
+    "deleted_or_merged": 0
+  },
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status": "in_progress",
+    "next_run_time": "2026-11-23T06:15:00+09:00",
+    "note": "At inspection, the scheduled time had passed and the current run had not yet received a recorded completion timestamp."
+  }
+}
