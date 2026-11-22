@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T16:15:06+09:00",
+  "updatetime": "2026-11-22T18:13:03+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -123,6 +123,13 @@
       "category": "ムーミン公式グッズ催事・期間限定ショップ（2026-09-16〜2026-11-01）"
     },
     {
+      "name": "すき家 郡山富久山店",
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "opening_date": "2026-09-16",
+      "category": "牛丼・定食"
+    },
+    {
       "name": "Petaria flower（有明ガーデン）",
       "prefecture": "東京都",
       "city": "江東区",
@@ -135,6 +142,13 @@
       "city": "足立区",
       "opening_date": "2026-09-17",
       "category": "期間限定ショップ（2026-09-17〜2026-12-30）"
+    },
+    {
+      "name": "すき家 岡崎戸崎新町店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-09-17",
+      "category": "牛丼・定食"
     },
     {
       "name": "キャンドゥ エキア越谷店",
@@ -772,6 +786,20 @@
       "city": "新宮市",
       "opening_date": "2026-10-01",
       "category": "100円ショップ"
+    },
+    {
+      "name": "はま寿司 博多筑紫通り店",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-10-01",
+      "category": "回転寿司"
+    },
+    {
+      "name": "はま寿司 岡崎戸崎新町店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-10-01",
+      "category": "回転寿司（プレオープン）"
     },
     {
       "name": "ローソン 岡崎上里三丁目",
@@ -1430,6 +1458,20 @@
       "city": "札幌市豊平区",
       "opening_date": "2026-10-08",
       "category": "コンビニ"
+    },
+    {
+      "name": "はま寿司 大館店",
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "opening_date": "2026-10-08",
+      "category": "回転寿司"
+    },
+    {
+      "name": "オリーブの丘 札幌西町店",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-10-08",
+      "category": "イタリアン・ファミリーレストラン"
     },
     {
       "name": "TODAY'S SPECIAL Nagoya",
@@ -2797,6 +2839,20 @@
       "category": "個室居酒屋・熟成肉・海鮮"
     },
     {
+      "name": "はま寿司 ひたちなか昭和通り店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-10-22",
+      "category": "回転寿司"
+    },
+    {
+      "name": "オリーブの丘 札幌新琴似店",
+      "prefecture": "北海道",
+      "city": "札幌市北区",
+      "opening_date": "2026-10-22",
+      "category": "イタリアン・ファミリーレストラン"
+    },
+    {
       "name": "OWNDAYS ヴェルサウォーク西尾店",
       "prefecture": "愛知県",
       "city": "西尾市",
@@ -4139,6 +4195,20 @@
       "city": "札幌市豊平区",
       "opening_date": "2026-10-29",
       "category": "100円ショップ"
+    },
+    {
+      "name": "はま寿司 東京国際フォーラム店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-10-29",
+      "category": "回転寿司"
+    },
+    {
+      "name": "ジョリーパスタ 諫早栗面店",
+      "prefecture": "長崎県",
+      "city": "諫早市",
+      "opening_date": "2026-10-29",
+      "category": "イタリアン・ファミリーレストラン"
     },
     {
       "name": "Workman Colors イオンタウン刈谷店",
@@ -6456,6 +6526,13 @@
       "city": "帯広市",
       "opening_date": "2026-11-05",
       "category": "コンビニ"
+    },
+    {
+      "name": "ジョリーパスタ 浜松入野店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-11-05",
+      "category": "イタリアン・ファミリーレストラン"
     },
     {
       "name": "東横INN豊橋駅前大通り",
@@ -8934,6 +9011,13 @@
       "city": "恵庭市",
       "opening_date": "2026-11-12",
       "category": "ファストフード"
+    },
+    {
+      "name": "はま寿司 臼杵店",
+      "prefecture": "大分県",
+      "city": "臼杵市",
+      "opening_date": "2026-11-12",
+      "category": "回転寿司"
     },
     {
       "name": "ポケモンカードストア in ららぽーと愛知東郷",
