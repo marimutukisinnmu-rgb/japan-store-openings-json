@@ -1,0 +1,115 @@
+{
+  "run_at": "2026-11-22T22:13:05+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "previous_blob_sha": "30351cc342e03096896f63b09bd0e1cecece55f5",
+  "new_blob_sha": "52d80ee8e563dc666d211e9d2ba7591e203ae502",
+  "commit_sha": "0a5007c2384515d5b49fcacb119534a6ba846dc5",
+  "item_count_before": 2507,
+  "item_count_after": 2511,
+  "added": [
+    {
+      "name": "生そばあずま 帯山店",
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "opening_date": "2026-11-22",
+      "category": "そば・和食レストラン"
+    },
+    {
+      "name": "AMERICAN RAG CIE（Nakame Village）",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-12-24",
+      "category": "ファッション・ライフスタイルストア"
+    },
+    {
+      "name": "HATCH（Nakame Village）",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-12-24",
+      "category": "エッグタルト専門店"
+    },
+    {
+      "name": "煎茶堂東京（Nakame Village）",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2026-12-24",
+      "category": "日本茶専門店"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "sources": [
+    {
+      "name": "株式会社タケダコーポレーション",
+      "url": "https://www.takeda-c.net/news/1485/",
+      "supports": "生そばあずま 帯山店の2026-11-22開店"
+    },
+    {
+      "name": "株式会社ウエスト 採用情報",
+      "url": "https://west-saiyou.net/jobfind-pc/job/All/18243",
+      "supports": "生そばあずま 帯山店の店舗名・熊本市中央区帯山3-3-6・11/22グランドオープン"
+    },
+    {
+      "name": "株式会社リアルゲイト",
+      "url": "https://prtimes.jp/main/html/rd/p/000000187.000007228.html",
+      "supports": "Nakame VillageのAMERICAN RAG CIE、HATCH、煎茶堂東京が2026-12-24に開店予定。所在地は東京都目黒区上目黒1-3-15"
+    },
+    {
+      "name": "Nakame Village公式サイト",
+      "url": "https://nakame-village.com/",
+      "supports": "施設住所と1Fの3店舗の掲載"
+    }
+  ],
+  "comparison_sources": [
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "照合対象は既存登録済み"
+    },
+    {
+      "name": "GUNDAM Official Website",
+      "url": "https://gundam-official.com/news/vtv2sct18hp861frcr1z7gew",
+      "result": "THE GUNDAM BASE SHIBUYAは既存登録済み"
+    },
+    {
+      "name": "Vans公式",
+      "url": "https://www.vans.co.jp/ho26-vans-store-shibuya-parco-opening.html",
+      "result": "Vans Store Shibuya PARCOは既存登録済み"
+    },
+    {
+      "name": "PLAZA公式",
+      "url": "https://www.plazastyle.com/contents/topics/detail/598",
+      "result": "PLAZA TOKYO+ 新宿店は既存登録済み"
+    },
+    {
+      "name": "RE:CHEESE TOKYO公式",
+      "url": "https://recheese.jp/",
+      "result": "RE:CHEESE TOKYO 銀座旗艦店は既存登録済み"
+    }
+  ],
+  "not_added": [
+    {
+      "name": "二巛（ニセン）",
+      "reason": "AMERICAN RAG CIE店内の飲食空間として紹介。独立店舗としての詳細は公式発表で未確定のため、別レコードにしない"
+    },
+    {
+      "name": "その他の候補",
+      "reason": "開店日・店舗情報の一次確認が不十分なものは追加を見送り"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "exact_duplicate_name_date": 0,
+    "sorted_by_opening_date": true,
+    "added_records_present": 4
+  },
+  "save": {
+    "github_update": "success",
+    "refetch": "success",
+    "fetched_blob_sha": "52d80ee8e563dc666d211e9d2ba7591e203ae502",
+    "blob_sha_matches": true
+  }
+}
