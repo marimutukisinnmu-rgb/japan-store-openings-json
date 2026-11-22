@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T15:18:36+09:00",
+  "updatetime": "2026-11-22T16:15:06+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -10329,6 +10329,13 @@
       "category": "フィットネスジム"
     },
     {
+      "name": "Schmatz（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-17",
+      "category": "ドイツ料理・クラフトビール"
+    },
+    {
       "name": "Arte Museum Nagoya（アルテミュージアムナゴヤ）",
       "prefecture": "愛知県",
       "city": "知多市",
@@ -16389,6 +16396,55 @@
       "city": "富山市",
       "opening_date": "2026-12-10",
       "category": "ティーカフェ（移転リニューアル）"
+    },
+    {
+      "name": "Dippalace（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "エスニックダイニング"
+    },
+    {
+      "name": "あわよくばあー（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "串焼き・居酒屋"
+    },
+    {
+      "name": "福쌈（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "韓国料理"
+    },
+    {
+      "name": "あなたに会えたらいいな。（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "和食居酒屋"
+    },
+    {
+      "name": "NIHONBASHI BREWERY.（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "クラフトビール・レストラン"
+    },
+    {
+      "name": "リザラン（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "スペインバル"
+    },
+    {
+      "name": "シュラスコ＆ビアレストラン ALEGRIA（秋葉原UDX）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "シュラスコ・ビアレストラン"
     },
     {
       "name": "ケンタッキーフライドチキン 尾張旭店",
