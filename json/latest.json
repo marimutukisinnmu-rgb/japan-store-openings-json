@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-22T23:13:09+09:00",
+  "updatetime": "2026-11-23T00:18:28+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12492,6 +12492,13 @@
       "category": "さつまいも和菓子・甘味処"
     },
     {
+      "name": "うどん038 東池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-23",
+      "category": "讃岐うどん・和食"
+    },
+    {
       "name": "chocoZAP 東大和清水六丁目",
       "prefecture": "東京都",
       "city": "東大和市",
@@ -13036,6 +13043,20 @@
       "city": "千代田区",
       "opening_date": "2026-11-25",
       "category": "とんかつ・定食"
+    },
+    {
+      "name": "牛かつもと村 西心斎橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "牛かつ専門店"
+    },
+    {
+      "name": "カフェ・ベローチェ 伊勢佐木モール店",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-25",
+      "category": "カフェ"
     },
     {
       "name": "323KASEI（セレオ八王子）",
@@ -14688,6 +14709,20 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "Shake Shack 西新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "ハンバーガーレストラン"
+    },
+    {
+      "name": "牡蠣小屋ブルーテラス（二色の浜公園・期間限定）",
+      "prefecture": "大阪府",
+      "city": "貝塚市",
+      "opening_date": "2026-11-28",
+      "category": "期間限定・牡蠣小屋（2026-11-28〜2027-03-28）"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
