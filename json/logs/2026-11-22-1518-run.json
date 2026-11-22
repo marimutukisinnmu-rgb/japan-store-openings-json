@@ -96,11 +96,15 @@
   },
   "save": {
     "latest_json": "updated_refetched_and_validated",
-    "run_log": "pending"
+    "run_log": "created_refetched_json_parsed_and_updated_with_final_automation_state"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
-    "enabled_state_check": "unavailable",
-    "note": "Automation status action returned NOT_FOUND; current enabled state could not be verified in this run. No schedule change was made."
+    "is_enabled_after_run": false,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-22T16:15:00+09:00",
+    "schedule_changed": false,
+    "note": "The automation was disabled after this successful run by the automation-management action. The existing schedule definition was preserved."
   }
 }
