@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T06:18:42+09:00",
+  "updatetime": "2026-11-23T07:17:14+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -17294,6 +17294,13 @@
       "category": "焼き魚定食店"
     },
     {
+      "name": "Gente di Mare（鳥栖プレミアム・アウトレット）",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "opening_date": "2026-12-23",
+      "category": "セレクトショップ（期間限定）"
+    },
+    {
       "name": "BUB RESORT Minakami（プレオープン）",
       "prefecture": "群馬県",
       "city": "利根郡みなかみ町",
@@ -17635,6 +17642,13 @@
       "city": "北九州市小倉北区",
       "opening_date": "2027-01-23",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-23〜2027-01-31）"
+    },
+    {
+      "name": "ピラティス ウィークル（WECLE）自由が丘店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2027-01-26",
+      "category": "ピラティススタジオ"
     },
     {
       "name": "DAIMARU × まめゴマ POP-UP STORE（松坂屋名古屋店）",
