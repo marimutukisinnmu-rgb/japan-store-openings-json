@@ -1,0 +1,57 @@
+{
+  "executed_at": "2026-11-23T07:17:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "212e0b0a3ed7e6998f3a5e457333631d54c59f92",
+    "new_blob_sha": "b47f682cff04c56be29026e005c04c67e853f823",
+    "commit_sha": "af314d3ee7cc1edff9721fb7fd293a29a0c59924",
+    "count_before": 2535,
+    "added": 2,
+    "count_after": 2537,
+    "updatetime": "2026-11-23T07:17:14+09:00"
+  },
+  "additions": [
+    {
+      "name": "Gente di Mare（鳥栖プレミアム・アウトレット）",
+      "prefecture": "佐賀県",
+      "city": "鳥栖市",
+      "opening_date": "2026-12-23",
+      "category": "セレクトショップ（期間限定）"
+    },
+    {
+      "name": "ピラティス ウィークル（WECLE）自由が丘店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2027-01-26",
+      "category": "ピラティススタジオ"
+    }
+  ],
+  "sources": [
+    {
+      "store": "Gente di Mare（鳥栖プレミアム・アウトレット）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000817.000009047.html",
+      "evidence": "2026-12-23開始、期間限定、鳥栖プレミアム・アウトレット805区。施設所在地は佐賀県鳥栖市。"
+    },
+    {
+      "store": "ピラティス ウィークル（WECLE）自由が丘店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000304.000012643.html",
+      "evidence": "2027-01-26開店、東京都目黒区自由が丘1丁目8 マイセンビル3階。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_groups": 0,
+    "normalized_duplicate_groups_preserved": 6,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true
+  },
+  "errors": [],
+  "unconfirmed": []
+}
