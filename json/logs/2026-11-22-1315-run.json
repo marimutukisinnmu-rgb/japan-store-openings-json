@@ -119,14 +119,14 @@
     "suspected_normalized_duplicate_groups": 6,
     "suspected_duplicate_policy": "既存レコードの表記揺れと推定される6組を検出。正規化だけでは統合せず、既存データを保持して要確認とする。",
     "existing_items_preserved": true,
-    "new_item_present": null,
+    "new_item_present": false,
     "saved_file_refetched": true,
     "refetched_blob_sha_matches": true,
     "refetched_item_count": 2476
   },
   "save": {
     "latest_json": "unchanged_refetched_and_validated",
-    "run_log": "pending_creation"
+    "run_log": "created_refetched_and_json_parsed"
   },
   "automation": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
