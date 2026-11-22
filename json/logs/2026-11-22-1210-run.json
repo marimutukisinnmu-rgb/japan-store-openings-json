@@ -1,0 +1,133 @@
+{
+  "run_at": "2026-11-22T12:10:04+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "status": "updated",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha_before": "e95c81cab9facd1797d52b4690e829bd9ebda7fe",
+    "blob_sha_after": "6979fd479274951c800d57d436c366d43d6994ca",
+    "updatetime": "2026-11-22T12:10:04+09:00",
+    "item_count_before": 2475,
+    "item_count_after": 2476,
+    "modified": true
+  },
+  "findings": {
+    "new_confirmed_items": 1,
+    "added_items": [
+      {
+        "name": "串カツ田中 徳島両国橋店",
+        "prefecture": "徳島県",
+        "city": "徳島市",
+        "opening_date": "2026-11-25",
+        "category": "串カツ・居酒屋",
+        "sources": [
+          "https://kushi-tanaka.com/news/entry/3391",
+          "https://restaurant.kushi-tanaka.com/detail/1261/"
+        ]
+      }
+    ],
+    "existing_items_changed": 0,
+    "existing_items_deleted": 0,
+    "held_or_already_registered": [
+      {
+        "name": "LAWSON＋toks 等々力緑地",
+        "result": "ローソン公式一覧では2026-11-25開店予定。既存JSONに同一店舗・同一日・同一市区町村の表記揺れ2件が既に存在するため、重複追加せず既存レコードを保持。"
+      },
+      {
+        "name": "SUBWAY イオンモール伊達店",
+        "result": "公式発表を確認。既存JSONに登録済み。"
+      },
+      {
+        "name": "KFC 2026年11月新店一覧",
+        "result": "公式発表の11店舗を照合し、すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "TULLY'S COFFEE 2026年11月新店情報",
+        "result": "公式発表の2店舗を照合し、すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "SUBWAY 2026年11月新店情報",
+        "result": "公式発表に掲載された11月25日・27日の3店舗を照合し、すべて既存JSONに登録済み。"
+      },
+      {
+        "name": "PAPABUBBLE イクスピアリ店 / BAKERIES LAB.砂町銀座店 / POP MART LUCUA SOUTH店",
+        "result": "各社の公式発表を照合し、すべて既存JSONに登録済み。"
+      }
+    ],
+    "source_checks": [
+      {
+        "name": "串カツ田中公式・徳島両国橋店新規オープン告知",
+        "url": "https://kushi-tanaka.com/news/entry/3391",
+        "result": "2026-11-25 16:00開店を確認。"
+      },
+      {
+        "name": "串カツ田中公式店舗詳細",
+        "url": "https://restaurant.kushi-tanaka.com/detail/1261/",
+        "result": "徳島県徳島市両国橋27番、開業日2026-11-25を確認。"
+      },
+      {
+        "name": "ローソン公式 新店情報",
+        "url": "https://www.lawson.co.jp/newstore/",
+        "result": "2026-11-25から2026-12-04までの27候補を既存JSONと照合。すべて既存登録済み。LAWSON＋toks等々力緑地は表記揺れの既存レコード2件を確認し、追加せず。"
+      },
+      {
+        "name": "KFC公式 11月新店情報",
+        "url": "https://japan.kfc.co.jp/news_release/8199",
+        "result": "11店舗を照合し、すべて既存登録済み。"
+      },
+      {
+        "name": "TULLY'S COFFEE公式 2026年プレスリリース一覧",
+        "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+        "result": "タリーズコーヒー ＆TEA イオンモール伊達店とwith U イオンモール小山店を照合し、両方とも既存登録済み。"
+      },
+      {
+        "name": "SUBWAY公式 2026年お知らせ",
+        "url": "https://subway.co.jp/news/year/2026/",
+        "result": "イオンモール伊達店、イオン三ツ境店、イオンモール神戸南店を照合し、すべて既存登録済み。"
+      },
+      {
+        "name": "PAPABUBBLE公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "result": "PAPABUBBLE イクスピアリ店は既存登録済み。"
+      },
+      {
+        "name": "GYRO HOLDINGS公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "result": "BAKERIES LAB.砂町銀座店は既存登録済み。"
+      },
+      {
+        "name": "POP MART JAPAN公式発表",
+        "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "result": "POP MART LUCUA SOUTH店は既存登録済み。"
+      }
+    ]
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_items_preserved": true,
+    "new_item_present": true,
+    "saved_file_refetched": true,
+    "refetched_blob_sha_matches": true,
+    "refetched_item_count": 2476
+  },
+  "save": {
+    "latest_json": "updated_refetched_and_json_parsed",
+    "latest_json_commit_sha": "b2720ab08f87ef7cd35b5aacebd3ad5be495c046",
+    "run_log": "pending_creation"
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_at_start": true,
+    "is_enabled_after_run": false,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed_after_completion": true,
+    "note": "The automation was disabled after this completed recurring run."
+  }
+}
