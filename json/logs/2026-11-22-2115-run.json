@@ -1,0 +1,124 @@
+{
+  "run_at": "2026-11-22T21:15:47+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2504,
+    "blob_sha": "d5ca3383590d8f77c71b2764bcb7c3dce69de2da"
+  },
+  "after": {
+    "count": 2507,
+    "blob_sha": "30351cc342e03096896f63b09bd0e1cecece55f5",
+    "commit_sha": "bba20f1c23a024a8bb96b76c159f4c9152ced331"
+  },
+  "additions": [
+    {
+      "name": "アパマンショップひたちなか勝田駅東店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-11-22",
+      "category": "不動産賃貸仲介店舗",
+      "source": "https://prtimes.jp/main/html/rd/p/000000475.000049635.html"
+    },
+    {
+      "name": "アパマンショップひたちなか佐和駅西店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-11-22",
+      "category": "不動産賃貸仲介店舗",
+      "source": "https://prtimes.jp/main/html/rd/p/000000475.000049635.html"
+    },
+    {
+      "name": "BAGEL & BAGEL Everyday!（アミュプラザみやざき・期間限定）",
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "opening_date": "2026-11-20",
+      "category": "ベーグル・マフィン（期間限定ショップ・2026-11-20〜2026-11-29）",
+      "source": "https://www.amu-miyazaki.com/newsevent/detail/?cd=000508"
+    }
+  ],
+  "dedup_checked": [
+    "オゥパラディ 天神地下街店（AUX PARADIS表記）",
+    "LAKOLE（サンシャインシティ ALTA）",
+    "もりもり寿し（秋葉原UDX）",
+    "CHARMY西武池袋店",
+    "ミスタードーナツ 天満屋ハピーズ西大寺ショップ"
+  ],
+  "not_added": [
+    {
+      "name": "LAKOLEサンシャインシティアルタ店",
+      "reason": "既存の「LAKOLE（サンシャインシティ ALTA）」と同一店舗と判断"
+    },
+    {
+      "name": "もりもり寿し 秋葉原UDX店",
+      "reason": "既存の「もりもり寿し（秋葉原UDX）」と同一店舗と判断"
+    },
+    {
+      "name": "オゥパラディ／AUX PARADIS 天神地下街店",
+      "reason": "既存の「オゥパラディ 天神地下街店」と同一店舗と判断"
+    },
+    {
+      "name": "CHARMY西武池袋店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "ミスタードーナツ 天満屋ハピーズ西大寺ショップ",
+      "reason": "既存登録済み"
+    }
+  ],
+  "sources_checked": [
+    {
+      "name": "APAMAN株式会社・ひたちなか2店舗同日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000475.000049635.html"
+    },
+    {
+      "name": "アミュプラザみやざき・BAGEL&BAGEL期間限定ショップ",
+      "url": "https://www.amu-miyazaki.com/newsevent/detail/?cd=000508"
+    },
+    {
+      "name": "宮崎市観光サイト・アミュプラザみやざき所在地",
+      "url": "https://www.miyazaki-city.tourism.or.jp/spot/12363"
+    },
+    {
+      "name": "ローソン公式新店情報",
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ゴンチャ公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/"
+    },
+    {
+      "name": "天神地下街公式ニュー／クローズショップ",
+      "url": "https://www.tenchika.com/new-close/"
+    },
+    {
+      "name": "JR西日本SC開発・LUCUA SOUTH第2期",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html"
+    },
+    {
+      "name": "GYRO HOLDINGS・BAKERIES LAB.砂町銀座店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "exact_duplicate_keys": 0,
+    "opening_date_sorted": true,
+    "all_new_items_present_after_refetch": true,
+    "refetched_blob_sha": "30351cc342e03096896f63b09bd0e1cecece55f5",
+    "blob_sha_matches_update_response": true
+  },
+  "errors": [],
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "checked_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "run_record_status": "in_progress_at_check"
+  }
+}
