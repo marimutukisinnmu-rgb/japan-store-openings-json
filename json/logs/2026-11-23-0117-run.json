@@ -1,0 +1,275 @@
+{
+  "run_at": "2026-11-23T01:17:25+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "target": "json/latest.json",
+  "previous_blob_sha": "1c7634d8aceb68858510d3c64ea0ca846f7cd189",
+  "new_blob_sha": "f0e4197a03e0585ef108943f7b92f4d332e62cda",
+  "commit_sha": "ba7a205e54d4fdfdc09c34ae43d18996092045e3",
+  "item_count_before": 2521,
+  "item_count_after": 2527,
+  "added": [
+    {
+      "name": "ゴーゴーカレーDining World小田原コロナワールド店",
+      "prefecture": "神奈川県",
+      "city": "小田原市",
+      "opening_date": "2026-11-20",
+      "category": "カレー"
+    },
+    {
+      "name": "ゴーゴーカレーデリスタンドゆめマート永犬丸店",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-11-20",
+      "category": "カレー・テイクアウト"
+    },
+    {
+      "name": "Renxa 直営1号店（MrMax町田多摩境ショッピングセンター内）",
+      "prefecture": "東京都",
+      "city": "町田市",
+      "opening_date": "2026-11-20",
+      "category": "生活インフラサービス相談店舗"
+    },
+    {
+      "name": "ヤギカフェ",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-01",
+      "category": "カフェ・会員制カフェ"
+    },
+    {
+      "name": "ヨシノベーカリーサンロード",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-12-09",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "one MARUI シャミネ松江店",
+      "prefecture": "島根県",
+      "city": "松江市",
+      "opening_date": "2026-12-16",
+      "category": "スーパーマーケット・食品"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "sources": [
+    {
+      "name": "株式会社ゴーゴーカレーグループ 公式プレスリリース（小田原店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000099.000075866.html",
+      "supports": "ゴーゴーカレーDining World小田原コロナワールド店、2026-11-20開店、神奈川県小田原市"
+    },
+    {
+      "name": "株式会社ゴーゴーカレーグループ 公式プレスリリース（ゆめマート永犬丸店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000098.000075866.html",
+      "supports": "ゴーゴーカレーデリスタンドゆめマート永犬丸店、2026-11-20開店、福岡県北九州市八幡西区"
+    },
+    {
+      "name": "株式会社Yagish 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000052.000101585.html",
+      "supports": "ヤギカフェ、2026-12-01開店、東京都渋谷区・道玄坂上"
+    },
+    {
+      "name": "Renxa株式会社 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000061.000144908.html",
+      "supports": "Renxa直営1号店、2026-11-20開店、東京都町田市・MrMax町田多摩境ショッピングセンター内"
+    },
+    {
+      "name": "株式会社カフェヨシノ 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000131211.html",
+      "supports": "ヨシノベーカリーサンロード、2026-12-09 08:00開店、名古屋駅地下街サンロード"
+    },
+    {
+      "name": "JR西日本山陰開発株式会社 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000165636.html",
+      "supports": "one MARUI シャミネ松江店、2026-12-16開店、島根県松江市"
+    }
+  ],
+  "comparison_sources": [
+    {
+      "name": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "掲載中の2026-11-12〜2026-12-04の新店候補を照合。JSONに登録済み"
+    },
+    {
+      "name": "日本KFC公式・11月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8192",
+      "result": "掲載された11月の新店9店舗を照合。JSONに登録済み"
+    },
+    {
+      "name": "株式会社ワールドフィット 公式プレスリリース（CRONOS）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000081179.html",
+      "result": "CRONOSの11月4店舗はすべて登録済み"
+    },
+    {
+      "name": "ファーストキッチン株式会社 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000307.000059385.html",
+      "result": "ウェンディーズ・ファーストキッチン ワカバウォーク店は登録済み"
+    },
+    {
+      "name": "株式会社コズミックホールディングス 公式プレスリリース（もりもり寿し）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000058.000033002.html",
+      "result": "もりもり寿し 秋葉原UDX店は登録済み"
+    },
+    {
+      "name": "アトリエ株式会社 公式プレスリリース（桐松屋）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+      "result": "桐松屋は登録済み"
+    },
+    {
+      "name": "GYRO HOLDINGS 公式プレスリリース（BAKERIES LAB.砂町銀座店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "BAKERIES LAB.砂町銀座店は登録済み"
+    }
+  ],
+  "not_added": [
+    {
+      "name": "その他の検索候補",
+      "reason": "店名・開店日・所在地の一次情報が揃わない候補は追加せず保留"
+    }
+  ],
+  "validation": {
+    "json_parse": "success",
+    "required_fields_missing": 0,
+    "invalid_calendar_dates": 0,
+    "exact_duplicate_name_prefecture_city_date_groups": 0,
+    "known_whitespace_variant_groups_preserved": 6,
+    "sorted_by_opening_date": true,
+    "existing_records_preserved": true,
+    "added_records_present_once": true,
+    "known_whitespace_variants": [
+      {
+        "name_variants": [
+          "らかんスタジオ Finelight 前橋店",
+          "らかんスタジオ Finelight前橋店"
+        ],
+        "matches": [
+          {
+            "name": "らかんスタジオ Finelight 前橋店",
+            "prefecture": "群馬県",
+            "city": "前橋市",
+            "opening_date": "2026-11-02"
+          },
+          {
+            "name": "らかんスタジオ Finelight前橋店",
+            "prefecture": "群馬県",
+            "city": "前橋市",
+            "opening_date": "2026-11-02"
+          }
+        ]
+      },
+      {
+        "name_variants": [
+          "ロンハーマン タカシマヤ ゲートタワーモール店",
+          "ロンハーマン タカシマヤゲートタワーモール店"
+        ],
+        "matches": [
+          {
+            "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
+            "prefecture": "愛知県",
+            "city": "名古屋市中村区",
+            "opening_date": "2026-11-13"
+          },
+          {
+            "name": "ロンハーマン タカシマヤゲートタワーモール店",
+            "prefecture": "愛知県",
+            "city": "名古屋市中村区",
+            "opening_date": "2026-11-13"
+          }
+        ]
+      },
+      {
+        "name_variants": [
+          "スープカレーSAMA 羽田空港店",
+          "スープカレーSAMA羽田空港店"
+        ],
+        "matches": [
+          {
+            "name": "スープカレーSAMA 羽田空港店",
+            "prefecture": "東京都",
+            "city": "大田区",
+            "opening_date": "2026-11-20"
+          },
+          {
+            "name": "スープカレーSAMA羽田空港店",
+            "prefecture": "東京都",
+            "city": "大田区",
+            "opening_date": "2026-11-20"
+          }
+        ]
+      },
+      {
+        "name_variants": [
+          "ゴンチャ 豊田 T-FACE店",
+          "ゴンチャ 豊田T-FACE店"
+        ],
+        "matches": [
+          {
+            "name": "ゴンチャ 豊田 T-FACE店",
+            "prefecture": "愛知県",
+            "city": "豊田市",
+            "opening_date": "2026-11-27"
+          },
+          {
+            "name": "ゴンチャ 豊田T-FACE店",
+            "prefecture": "愛知県",
+            "city": "豊田市",
+            "opening_date": "2026-11-27"
+          }
+        ]
+      },
+      {
+        "name_variants": [
+          "ビッグ・エー 清瀬駅北口店",
+          "ビッグ・エー清瀬駅北口店"
+        ],
+        "matches": [
+          {
+            "name": "ビッグ・エー 清瀬駅北口店",
+            "prefecture": "東京都",
+            "city": "清瀬市",
+            "opening_date": "2026-11-28"
+          },
+          {
+            "name": "ビッグ・エー清瀬駅北口店",
+            "prefecture": "東京都",
+            "city": "清瀬市",
+            "opening_date": "2026-11-28"
+          }
+        ]
+      },
+      {
+        "name_variants": [
+          "ゴンチャ 富山 MAROOT店",
+          "ゴンチャ 富山MAROOT店"
+        ],
+        "matches": [
+          {
+            "name": "ゴンチャ 富山 MAROOT店",
+            "prefecture": "富山県",
+            "city": "富山市",
+            "opening_date": "2026-12-10"
+          },
+          {
+            "name": "ゴンチャ 富山MAROOT店",
+            "prefecture": "富山県",
+            "city": "富山市",
+            "opening_date": "2026-12-10"
+          }
+        ]
+      }
+    ]
+  },
+  "save": {
+    "github_update": "success",
+    "refetch": "success",
+    "fetched_blob_sha": "f0e4197a03e0585ef108943f7b92f4d332e62cda",
+    "blob_sha_matches": true,
+    "log_pending": false
+  },
+  "automation_check": {
+    "is_enabled": "not_checked_in_this_run",
+    "schedule": "not_checked_in_this_run",
+    "note": "The current task manager state was not queried in this run; no automation settings were changed."
+  }
+}
