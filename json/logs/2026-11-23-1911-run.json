@@ -1,0 +1,108 @@
+{
+  "executed_at": "2026-11-23T19:11:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "08bbfb19a03a3f4a7465ab2b46cfd835a15095c1",
+    "new_blob_sha": "72a61149f1a4eee19af1155a2dddc23d35c95fa6",
+    "commit_sha": "66fffea7c14559675ef65b049c410daef1a26b3f",
+    "count_before": 2583,
+    "added": 3,
+    "skipped_already_present": 0,
+    "count_after": 2586,
+    "updatetime": "2026-11-23T19:11:54+09:00"
+  },
+  "additions": [
+    {
+      "name": "ワッツウィズ 城陽平川ドラッグユタカ店",
+      "prefecture": "京都府",
+      "city": "城陽市",
+      "opening_date": "2026-11-25",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 川内くすりのレデイ店",
+      "prefecture": "広島県",
+      "city": "広島市安佐南区",
+      "opening_date": "2026-11-27",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 焼津大島杏林堂薬局店",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "opening_date": "2026-11-28",
+      "category": "100円ショップ"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社ワッツ公式・店舗ニュース一覧",
+      "url": "https://www.watts-jp.com/news/",
+      "evidence": "2026-11-18〜2026-11-22の新店予告一覧で、城陽平川ドラッグユタカ店（11/25）、川内くすりのレデイ店（11/27）、焼津大島杏林堂薬局店（11/28）の店舗名・予定日・都道府県を確認。"
+    },
+    {
+      "source": "株式会社ワッツ公式・城陽平川ドラッグユタカ店の個別告知",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E5%9F%8E%E9%99%BD%E5%B9%B3%E5%B7%9D%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0%E3%83%A6%E3%82%BF%E3%82%AB%E5%BA%97%EF%BC%88%E4%BA%AC%E9%83%BD%E5%BA%9C/",
+      "evidence": "店名と11月25日（水）OPEN予定を確認。所在地の市は城陽市。"
+    },
+    {
+      "source": "株式会社ワッツ公式・川内くすりのレデイ店の個別告知",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E5%B7%9D%E5%86%85%E3%81%8F%E3%81%99%E3%82%8A%E3%81%AE%E3%83%AC%E3%83%87%E3%82%A4%E5%BA%97%EF%BC%88%E5%BA%83%E5%B3%B6%E7%9C%8C%EF%BC%8911-27/",
+      "evidence": "店名と11月27日（金）OPEN予定を確認。所在地はツルハグループ公式店舗検索で広島市安佐南区川内6丁目27-25と照合。"
+    },
+    {
+      "source": "ツルハグループ公式店舗検索・くすりのレデイ川内店",
+      "url": "https://shop.tsuruha-g.com/4281c",
+      "evidence": "川内くすりのレデイ店の所在地を広島県広島市安佐南区川内6丁目27-25と確認。"
+    },
+    {
+      "source": "株式会社ワッツ公式・焼津大島杏林堂薬局店の個別告知",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E7%84%BC%E6%B4%A5%E5%A4%A7%E5%B3%B6%E6%9D%8F%E6%9E%97%E5%A0%82%E8%96%AC%E5%B1%80%E5%BA%97%EF%BC%88%E9%9D%99%E5%B2%A1%E7%9C%8C%EF%BC%8911-28/",
+      "evidence": "店名と11月28日（土）OPEN予定を確認。店名の焼津大島から焼津市として登録。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "既存 latest.json",
+      "result": "3店舗の完全一致名はいずれも未登録。既存の同名候補なし。"
+    },
+    {
+      "source": "POP MART LUCUA SOUTH店",
+      "result": "既存データに2026-11-24のレコードが存在するため再追加せず。"
+    },
+    {
+      "source": "ローソン公式新店情報",
+      "result": "確認した11月下旬〜12月上旬の掲載店舗は既存データに登録済み。"
+    },
+    {
+      "source": "ブルースカイランドリー公式・2026年11月10店舗一覧",
+      "result": "確認した10店舗は既存データに登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "unconfirmed": [],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "note": "The current execution is still recorded as in_progress at verification time."
+  }
+}
