@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T17:12:26+09:00",
+  "updatetime": "2026-11-23T18:22:00+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12637,6 +12637,13 @@
       "city": "江別市",
       "opening_date": "2026-11-22",
       "category": "定食屋"
+    },
+    {
+      "name": "四川麻辣湯 渋谷星星倶楽部 館林店",
+      "prefecture": "群馬県",
+      "city": "館林市",
+      "opening_date": "2026-11-22",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "PASOUL BLACK FRIDAY FESTA 2026",
