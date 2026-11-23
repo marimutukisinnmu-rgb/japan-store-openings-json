@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T04:17:45+09:00",
+  "updatetime": "2026-11-24T06:18:32+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12296,6 +12296,13 @@
       "category": "創作串揚げ専門店"
     },
     {
+      "name": "ハートブレッドアンティーク 八柱店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-20",
+      "category": "ベーカリー"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -14718,6 +14725,13 @@
       "category": "串カツ・居酒屋"
     },
     {
+      "name": "ザ・ビッグエクスプレス岐阜駅南店",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-11-27",
+      "category": "ディスカウントスーパー"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15122,6 +15136,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-28",
       "category": "ラーメン"
+    },
+    {
+      "name": "よりみちフレスタ（フレスタサンクス店 分店）",
+      "prefecture": "広島県",
+      "city": "山県郡北広島町",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー（無人店舗）"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
@@ -15892,6 +15913,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-03",
       "category": "ラーメン"
+    },
+    {
+      "name": "フェルナ武豊店",
+      "prefecture": "愛知県",
+      "city": "知多郡武豊町",
+      "opening_date": "2026-12-03",
+      "category": "食品スーパー"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
