@@ -1,0 +1,84 @@
+{
+  "executed_at": "2026-11-23T13:13:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "a27f4e841f5b09308bae92bdbcb6d1c2e8eda002",
+    "new_blob_sha": "6d05f30f3211cf1e7a6d3825c12d76dcea1dceb7",
+    "commit_sha": "13dc61407c9a47a0a2bcd9e1186678229a2f4ac3",
+    "count_before": 2557,
+    "added": 2,
+    "count_after": 2559,
+    "updatetime": "2026-11-23T13:13:29+09:00"
+  },
+  "additions": [
+    {
+      "name": "炭火焼鳥 銀座惣菜店 イオンモール千葉ニュータウン店",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "opening_date": "2026-12-17",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "WECLE 自由が丘店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2027-01-26",
+      "category": "ピラティススタジオ"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社サイプレス 公式発表（炭火焼鳥 銀座惣菜店 イオンモール千葉ニュータウン店）",
+      "url": "https://cyp-jp.com/news/post-13383/",
+      "evidence": "2026年12月17日開店、千葉県印西市中央北3-2 イオンモール千葉ニュータウン1階を確認。"
+    },
+    {
+      "source": "WECLE 公式店舗ページ（自由が丘店）",
+      "url": "https://wecle.jp/jiyugaoka/",
+      "evidence": "2027年1月26日グランドオープン、東京都目黒区自由が丘1丁目8 マイセンビル3階を確認。"
+    },
+    {
+      "source": "株式会社nobitel 公式発表（WECLE 自由が丘店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000304.000012643.html",
+      "evidence": "運営会社による2027年1月26日開店発表を照合。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "株式会社うちだ屋 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000178931.html",
+      "result": "うちだ屋 新宮店（2026年12月15日）と、うちだ屋 港北みなも店（2026年11月26日）は既存JSONに登録済み。変更なし。"
+    },
+    {
+      "source": "三菱地所プロパティマネジメント 公式発表（ランドマークプラザ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000416.000043503.html",
+      "result": "フォーナインズ（2026年12月1日）は既存登録済み。表記違いの既存レコードは変更・統合せず保持。"
+    },
+    {
+      "source": "株式会社WithGreen 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "result": "WithGreen 光が丘IMA店（2026年11月26日）は既存登録済み。追加なし。"
+    },
+    {
+      "source": "キルフェボン株式会社 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "result": "キル フェ ボン新宿（2026年11月28日）は既存登録済み。追加なし。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "errors": [],
+  "unconfirmed": []
+}
