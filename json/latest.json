@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T11:12:10+09:00",
+  "updatetime": "2026-11-23T12:13:38+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15920,6 +15920,13 @@
       "city": "横浜市港北区",
       "opening_date": "2026-12-04",
       "category": "食品スーパー（リニューアル再開）"
+    },
+    {
+      "name": "がま口の専門店 AYANOKOJI 岡崎本店",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "opening_date": "2026-12-04",
+      "category": "がま口専門店・和雑貨（リニューアル）"
     },
     {
       "name": "BONTEMPS 田川店",
