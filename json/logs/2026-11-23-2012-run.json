@@ -1,0 +1,102 @@
+{
+  "executed_at": "2026-11-23T20:12:18+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "blob_sha": "72a61149f1a4eee19af1155a2dddc23d35c95fa6",
+    "count": 2586,
+    "updatetime": "2026-11-23T19:11:54+09:00",
+    "changed": false
+  },
+  "additions": [],
+  "sources": [
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "evidence": "11月25日〜12月4日の掲載候補27店舗を既存JSONと照合。27店舗すべて登録済み。"
+    },
+    {
+      "source": "日本KFC公式・11月新店情報（2026-11-20更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "evidence": "11月分11店舗を照合。11店舗すべて登録済み。"
+    },
+    {
+      "source": "日本KFC公式・12月新店情報（2026-11-20更新）",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "evidence": "12月分11店舗を照合。11店舗すべて登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年ニュース一覧および個別新店発表",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "evidence": "イオンモール神戸南店（11/25）、イオン三ツ境店（11/27）、イオンモール伊達店（11/27）の3店舗を照合。すべて登録済み。"
+    },
+    {
+      "source": "すき家公式・新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "evidence": "札幌平岡店（11/30）の新店告知を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "CRONOS公式発表（株式会社ワールドフィット）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000081179.html",
+      "evidence": "リバーウォーク北九州店、水戸エクセル店、LINKS池袋店、高崎店の4店舗を照合。4店舗すべて登録済み。"
+    },
+    {
+      "source": "ペッパーランチ公式・イオンモール伊達店新店情報",
+      "url": "https://pepperlunch.com/news/16520/",
+      "evidence": "11月27日開店予定のイオンモール伊達店を照合。既存JSONに登録済み。"
+    },
+    {
+      "source": "PR TIMES掲載の運営会社・店舗発表",
+      "url": "https://prtimes.jp/topics/keywords/%E6%96%B0%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3",
+      "evidence": "食の3重丸銀座ショップ、NICOPA幕張店、出雲殿互助会の家族葬 福田、カラオケBanBan博多駅前店、フェンディ心斎橋店、BONAVENTURA西武池袋店などの候補を照合。確認できた候補はすべて登録済み。"
+    },
+    {
+      "source": "株式会社FOUR SEEDS FOODS EXPRESS発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000947.000002646.html",
+      "evidence": "KUA`AINA’s Smashed Burger 成田空港第2ターミナル店（11/20）を照合。既存JSONに登録済み。"
+    },
+    {
+      "source": "VENEX公式・neverbetter開店告知",
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "evidence": "neverbetter（11/15）を照合。既存JSONに登録済み。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "既存 latest.json",
+      "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json",
+      "result": "今回確認した候補に未登録の確定案件なし。追加・訂正・削除は行わない。"
+    },
+    {
+      "source": "公式発表との件数照合",
+      "result": "ローソン27/27、KFC11月11/11、KFC12月11/11、サブウェイ3/3、CRONOS4/4が既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_data_preserved": true,
+    "latest_json_changed": false,
+    "latest_json_blob_sha_unchanged": true
+  },
+  "unconfirmed": [],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-23T20:15:00+09:00",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "note": "管理側の直近実行記録は確認時点でin_progress。今回のGitHub確認・ログ保存処理は別途記録する。"
+  }
+}
