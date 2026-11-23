@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T01:18:19+09:00",
+  "updatetime": "2026-11-24T02:17:30+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17145,6 +17145,13 @@
       "city": "千代田区",
       "opening_date": "2026-12-10",
       "category": "スープカレー"
+    },
+    {
+      "name": "SMAAK by Jacob Jan Boerma 博多",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-12-10",
+      "category": "イノベーティブレストラン"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
