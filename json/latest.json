@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T23:15:54+09:00",
+  "updatetime": "2026-11-24T00:15:20+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13290,6 +13290,13 @@
       "category": "鍋料理専門店（プレオープン）"
     },
     {
+      "name": "マクドナルド 小牧インター店",
+      "prefecture": "愛知県",
+      "city": "小牧市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -13596,6 +13603,27 @@
       "city": "新宿区",
       "opening_date": "2026-11-26",
       "category": "輸入食品・日用品"
+    },
+    {
+      "name": "はま寿司 稚内店",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "opening_date": "2026-11-26",
+      "category": "回転寿司"
+    },
+    {
+      "name": "博多うどん うちだ屋 港北みなも店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-26",
+      "category": "うどん・和食"
+    },
+    {
+      "name": "鳥貴族 糸満店",
+      "prefecture": "沖縄県",
+      "city": "糸満市",
+      "opening_date": "2026-11-26",
+      "category": "焼鳥・居酒屋"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
@@ -17420,6 +17448,13 @@
       "category": "京漬物"
     },
     {
+      "name": "鳥貴族 北浦和店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-12-16",
+      "category": "焼鳥・居酒屋"
+    },
+    {
       "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
       "prefecture": "千葉県",
       "city": "印旛郡酒々井町",
@@ -17460,6 +17495,13 @@
       "city": "印西市",
       "opening_date": "2026-12-17",
       "category": "炭火焼鳥・惣菜"
+    },
+    {
+      "name": "鳥貴族 小倉京町店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-12-17",
+      "category": "焼鳥・居酒屋"
     },
     {
       "name": "Celule（鳥栖プレミアム・アウトレット）",
