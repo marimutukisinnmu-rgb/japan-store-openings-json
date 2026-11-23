@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T21:10:53+09:00",
+  "updatetime": "2026-11-23T22:14:21+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16221,6 +16221,13 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-05",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2026-12-05〜2026-12-13）"
+    },
+    {
+      "name": "BESS Q TOKYO",
+      "prefecture": "東京都",
+      "city": "昭島市",
+      "opening_date": "2026-12-05",
+      "category": "住宅展示場・暮らし体験施設"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
