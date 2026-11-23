@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T19:11:54+09:00",
+  "updatetime": "2026-11-23T21:10:53+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13276,6 +13276,20 @@
       "category": "とんかつ・定食"
     },
     {
+      "name": "菜菜麻辣湯 イオンモール岡崎店",
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "opening_date": "2026-11-25",
+      "category": "麻辣湯専門店"
+    },
+    {
+      "name": "ハマグリ鍋専門店 本気アサリ",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-25",
+      "category": "鍋料理専門店（プレオープン）"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -13547,6 +13561,13 @@
       "city": "八王子市",
       "opening_date": "2026-11-26",
       "category": "洋菓子"
+    },
+    {
+      "name": "蒸しと酒 みちる 渋谷公園通店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-26",
+      "category": "モダン割烹・ダイニング"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
@@ -14611,6 +14632,13 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "味噌ラーメン"
+    },
+    {
+      "name": "串カツ田中 霧島国分店",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-27",
+      "category": "串カツ・居酒屋"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
