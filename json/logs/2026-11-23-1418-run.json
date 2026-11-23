@@ -1,0 +1,227 @@
+{
+  "executed_at": "2026-11-23T14:18:48+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "6d05f30f3211cf1e7a6d3825c12d76dcea1dceb7",
+    "new_blob_sha": "204cff75b7605c9ea62e4a00d2b171b4d8aa1f8f",
+    "commit_sha": "236c8cff02b5610de4d6e461d7769f78fc75b3ee",
+    "count_before": 2559,
+    "added": 14,
+    "skipped_already_present": 0,
+    "count_after": 2573,
+    "updatetime": "2026-11-23T14:18:48+09:00"
+  },
+  "additions": [
+    {
+      "name": "DAISO 北見みわ店",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "opening_date": "2026-11-19",
+      "category": "100円ショップ（改装）"
+    },
+    {
+      "name": "Standard Products 北見みわ店",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "opening_date": "2026-11-19",
+      "category": "生活雑貨・日用品"
+    },
+    {
+      "name": "THREEPPY 北見みわ店",
+      "prefecture": "北海道",
+      "city": "北見市",
+      "opening_date": "2026-11-19",
+      "category": "300円ショップ（改装）"
+    },
+    {
+      "name": "駿河屋 滋賀草津店",
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "opening_date": "2026-11-20",
+      "category": "ホビーショップ"
+    },
+    {
+      "name": "駿河屋 鶴ヶ島店",
+      "prefecture": "埼玉県",
+      "city": "鶴ヶ島市",
+      "opening_date": "2026-11-19",
+      "category": "ホビーショップ"
+    },
+    {
+      "name": "無印良品 久喜吉羽",
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・食品・衣料品"
+    },
+    {
+      "name": "ガチャガチャの森 田村書店せんちゅうパル店",
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "opening_date": "2026-11-19",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "サンマルクカフェ＆茶 南海日本橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-11-19",
+      "category": "カフェ"
+    },
+    {
+      "name": "ウオロク巻店",
+      "prefecture": "新潟県",
+      "city": "新潟市西蒲区",
+      "opening_date": "2026-11-20",
+      "category": "食品スーパー（リニューアル）"
+    },
+    {
+      "name": "サロモンストア 仙台パルコ",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-11-20",
+      "category": "スポーツ用品・アパレル"
+    },
+    {
+      "name": "ザ ブッフェ ダイナー ららぽーと海老名",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "opening_date": "2026-11-20",
+      "category": "ブッフェレストラン（リフレッシュオープン）"
+    },
+    {
+      "name": "Pon！イオンモール福津店",
+      "prefecture": "福岡県",
+      "city": "福津市",
+      "opening_date": "2026-10-23",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "Pon！イオンモール三光店",
+      "prefecture": "大分県",
+      "city": "中津市",
+      "opening_date": "2026-10-02",
+      "category": "アミューズメント施設"
+    },
+    {
+      "name": "Pon！イオンモール神戸北店",
+      "prefecture": "兵庫県",
+      "city": "神戸市",
+      "opening_date": "2026-09-18",
+      "category": "アミューズメント施設"
+    }
+  ],
+  "sources": [
+    {
+      "source": "大創産業公式（DAISO 北見みわ店・改装）",
+      "url": "https://www.daiso-sangyo.co.jp/info/shop/50604",
+      "evidence": "2026.11.19 NEW SHOPとして改装告知。"
+    },
+    {
+      "source": "大創産業公式（Standard Products 北見みわ店）",
+      "url": "https://www.daiso-sangyo.co.jp/info/shop/51229",
+      "evidence": "2026.11.19 NEW SHOPとしてオープン告知。公式店舗検索で北見市中央三輪2-307-3を確認。"
+    },
+    {
+      "source": "大創産業公式（THREEPPY 北見みわ店・改装）",
+      "url": "https://www.daiso-sangyo.co.jp/info/shop/50606",
+      "evidence": "2026.11.19 NEW SHOPとして改装告知。公式店舗検索で北見市中央三輪2丁目307番地3を確認。"
+    },
+    {
+      "source": "株式会社駿河屋公式（駿河屋 滋賀草津店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000176.000043409.html",
+      "evidence": "2026年11月20日販売開始、滋賀県草津市大路1-1-1 ガーデンシティ草津地下1階。丸善ジュンク堂書店公式発表でも照合。"
+    },
+    {
+      "source": "株式会社駿河屋公式（駿河屋 鶴ヶ島店）",
+      "url": "https://www.suruga-ya.co.jp/si/node/2487",
+      "evidence": "2026年11月19日販売開始、埼玉県鶴ヶ島市脚折町2-20-16。"
+    },
+    {
+      "source": "無印良品 久喜吉羽公式店舗だより",
+      "url": "https://www.muji.com/jp/ja/shop/046598/articles/info/1699698",
+      "evidence": "2026年11月20日オープン、埼玉県久喜市。別の公式店舗だよりで住所は久喜市吉羽421。"
+    },
+    {
+      "source": "株式会社ルルアーク公式（ガチャガチャの森 田村書店せんちゅうパル店）",
+      "url": "https://www.luluarq.co.jp/news/detail/262.html",
+      "evidence": "2026年11月19日新規オープン。株式会社ルルアークの会社公式発表。"
+    },
+    {
+      "source": "サンマルクカフェ公式（南海日本橋店）",
+      "url": "https://www.saint-marc-hd.com/saintmarccafe/news/1609/",
+      "evidence": "2026年11月19日オープン、大阪府大阪市浪速区日本橋西1-3-19。"
+    },
+    {
+      "source": "株式会社ウオロク公式（巻店）",
+      "url": "https://www.uoroku.co.jp/news/news/001745.html",
+      "evidence": "2026年11月20日リニューアルオープン、新潟市西蒲区巻甲4862。"
+    },
+    {
+      "source": "サロモン公式（仙台パルコ）",
+      "url": "https://salomon.jp/blogs/news-topics/20261104-sendaiparco",
+      "evidence": "2026年11月20日オープン、宮城県仙台市青葉区中央1-2-3 PARCO 1 2F。"
+    },
+    {
+      "source": "ニラックス公式（ザ ブッフェ ダイナー ららぽーと海老名）",
+      "url": "https://www.nilax.jp/store/news-topics/474",
+      "evidence": "2026年11月20日リフレッシュオープン。公式店舗ページで神奈川県海老名市扇町13-1 ららぽーと海老名4階を確認。"
+    },
+    {
+      "source": "株式会社ルルアーク公式（Pon！イオンモール福津店）",
+      "url": "https://www.luluarq.co.jp/news/detail/259.html",
+      "evidence": "2026年10月23日新規オープン、福岡県福津市。"
+    },
+    {
+      "source": "株式会社ルルアーク公式（Pon！イオンモール三光店）",
+      "url": "https://www.luluarq.co.jp/news/detail/258.html",
+      "evidence": "2026年10月2日新規オープン、大分県中津市。"
+    },
+    {
+      "source": "株式会社ルルアーク公式（Pon！イオンモール神戸北店）",
+      "url": "https://www.luluarq.co.jp/news/detail/257.html",
+      "evidence": "2026年9月18日新規オープン、兵庫県神戸市。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "ローソン公式・中部新店情報",
+      "url": "https://www.lawson.co.jp/newstore/chubu.html",
+      "result": "2026年12月3日・4日の確認対象6店舗はすべて既存登録済み。"
+    },
+    {
+      "source": "NTT都市開発公式・秋葉原UDX DINING＆SHOP",
+      "url": "https://www.nttud.co.jp/news/detail/id/n28055.html",
+      "result": "先行開業店舗と12月10日リニューアル対象の主要テナントは既存登録済み。"
+    },
+    {
+      "source": "リアルゲイト公式・Nakame Village",
+      "url": "https://realgate.jp/ir/upload_file/tdnrelease/5532_20261110570866_P01_.pdf",
+      "result": "12月24日開業予定の第一弾店舗は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "duplicate_candidates_retained": [
+    "ピラティス ウィークル（WECLE）自由が丘店 / WECLE 自由が丘店",
+    "ゴンチャ 豊田 T-FACE店 / ゴンチャ 豊田T-FACE店",
+    "ゴンチャ 富山 MAROOT店 / ゴンチャ 富山MAROOT店"
+  ],
+  "unconfirmed": [
+    "COSTGO パークプレイス大分店：公式ページの本文に2026年6月17日と記載される一方、店舗情報欄には2026年11月20日と記載されており、同一ページ内に日付矛盾があるため追加保留。",
+    "ふぇすたらんど平島店：公式発表は2026年11月20日付でリニューアル済みとするが、実際のリニューアル日が明記されていないため追加保留。"
+  ],
+  "errors": []
+}
