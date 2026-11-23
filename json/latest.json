@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T03:12:14+09:00",
+  "updatetime": "2026-11-24T04:17:45+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13031,6 +13031,13 @@
       "category": "ラーメン"
     },
     {
+      "name": "華星 麻辣湯",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-24",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "chocoZAP うきは吉井",
       "prefecture": "福岡県",
       "city": "うきは市",
@@ -13631,6 +13638,13 @@
       "city": "糸満市",
       "opening_date": "2026-11-26",
       "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "なだ万 セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "弁当・惣菜ショップ"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
