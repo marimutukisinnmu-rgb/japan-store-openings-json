@@ -1,0 +1,72 @@
+{
+  "executed_at": "2026-11-23T12:13:38+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "8d83c95d898e7ce23409483197c48675d7ea85b6",
+    "new_blob_sha": "a27f4e841f5b09308bae92bdbcb6d1c2e8eda002",
+    "commit_sha": "a1e79661072b46d0f58e214c70ab29f2ee6bebdc",
+    "count_before": 2556,
+    "added": 1,
+    "count_after": 2557,
+    "updatetime": "2026-11-23T12:13:38+09:00"
+  },
+  "additions": [
+    {
+      "name": "がま口の専門店 AYANOKOJI 岡崎本店",
+      "prefecture": "京都府",
+      "city": "京都市左京区",
+      "opening_date": "2026-12-04",
+      "category": "がま口専門店・和雑貨（リニューアル）"
+    }
+  ],
+  "sources": [
+    {
+      "source": "秀和株式会社 公式発表（AYANOKOJI 岡崎本店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193224.html",
+      "evidence": "2026年12月4日リニューアルオープン、京都府京都市左京区岡崎南御所町40-15を確認。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "株式会社ジョイフル 公式発表（JOYFULL EXPRESS ゆめタウン久留米店／Joyfull kitchen モラージュ柏店）",
+      "url": "https://www.joyfull.co.jp/news",
+      "result": "両店舗の開店日を確認。どちらも既存JSONに登録済みのため追加せず保持。"
+    },
+    {
+      "source": "ローソン公式 新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+      "result": "照合した11月12日〜12月4日の掲載店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社松屋フーズ公式 新店・一時閉店一覧",
+      "url": "https://www.matsuyafoods.co.jp/sp/shopsearch/shop_new_close.html",
+      "result": "確認対象の11月新店は既存JSONに登録済み。"
+    },
+    {
+      "source": "サブウェイ公式 2026年お知らせ",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "確認した11月25日・27日の新店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "GYRO HOLDINGS／BAKERIES LAB. 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "BAKERIES LAB.砂町銀座店（2026年11月21日）は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "new_duplicate_groups": 0,
+    "existing_data_preserved": true
+  },
+  "errors": [],
+  "unconfirmed": []
+}
