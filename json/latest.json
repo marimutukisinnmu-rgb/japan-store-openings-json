@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T07:12:20+09:00",
+  "updatetime": "2026-11-24T08:15:06+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12303,6 +12303,13 @@
       "category": "ベーカリー"
     },
     {
+      "name": "鉄板料理 まじめや 三宮センタープラザ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-20",
+      "category": "鉄板料理・居酒屋"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -12583,6 +12590,13 @@
       "category": "麻辣湯専門店"
     },
     {
+      "name": "ワンルーク 中区新栄店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-21",
+      "category": "ペットホテル"
+    },
+    {
       "name": "GINZA TOKYO 樂 gaku",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -12679,6 +12693,13 @@
       "city": "由布市",
       "opening_date": "2026-11-23",
       "category": "さつまいも和菓子・甘味処"
+    },
+    {
+      "name": "個室 海鮮と地酒 魚舟 京橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市都島区",
+      "opening_date": "2026-11-23",
+      "category": "海鮮居酒屋"
     },
     {
       "name": "chocoZAP 東大和清水六丁目",
