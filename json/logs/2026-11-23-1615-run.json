@@ -1,0 +1,82 @@
+{
+  "executed_at": "2026-11-23T16:15:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "01195afba201fcf23103bbde1865708c3527f502",
+    "new_blob_sha": "10630c021ec2f0f7a1442f93ab7cc9e56c158182",
+    "commit_sha": "08319a1d6b845d56421b06451b7be5b5380c0c25",
+    "count_before": 2574,
+    "added": 1,
+    "skipped_already_present": 1,
+    "count_after": 2575,
+    "updatetime": "2026-11-23T16:15:21+09:00"
+  },
+  "additions": [
+    {
+      "name": "ecoeat 岸和田カンカンベイサイドモール店",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "opening_date": "2026-11-16",
+      "category": "食品ロス削減ショップ"
+    }
+  ],
+  "sources": [
+    {
+      "source": "ecoeat公式・岸和田カンカンベイサイドモール店オープン告知",
+      "url": "https://ecoeat.co.jp/news/kishiwada-kankan-open-2026/",
+      "evidence": "2026年11月16日（月）開店、所在地は大阪府岸和田市港緑町2-1 岸和田カンカンベイサイドモールEAST1Fと明記。"
+    },
+    {
+      "source": "ecoeat株式会社公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000179312.html",
+      "evidence": "運営会社が2026年11月16日開店と店舗名・所在地を明記。公式サイトのお知らせと照合。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "11月下旬〜12月上旬の掲載店を照合。確認した候補は既存登録済み。LAWSON＋toks等々力緑地は表記違いの2レコードが既に存在するため追加せず。"
+    },
+    {
+      "source": "タリーズコーヒー公式・2026年プレスリリース一覧",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "result": "タリーズコーヒー ＆TEA イオンモール伊達店（11月27日）とタリーズコーヒー with U イオンモール小山店（11月18日）は既存登録済み。"
+    },
+    {
+      "source": "日本橋高島屋S.C.新館専門店・新店退店情報",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "result": "ハウス（日本橋高島屋S.C. POP UP SHOP）、ラ パナデリーア ドッツ、KINO、鎌倉レ・ザンジュは既存登録済み。"
+    },
+    {
+      "source": "その他の確認済み公式発表",
+      "result": "POP MART LUCUA SOUTH店、PAPABUBBLE イクスピアリ店、秋野テーブル、もりもり寿し（秋葉原UDX）、ピース岡山などは既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "unconfirmed": [
+    "ふぇすたらんど平島店：前回確認時点でリニューアル実施日が公式発表に明記されていなかった。今回、実施日の再確認はできていないため、未登録のまま保留。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false
+  }
+}
