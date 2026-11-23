@@ -1,0 +1,179 @@
+{
+  "executed_at": "2026-11-23T11:12:10+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "7b26eca2c5cc9cff590f63356ea4b962d0da3ecf",
+    "new_blob_sha": "8d83c95d898e7ce23409483197c48675d7ea85b6",
+    "commit_sha": "69d11431c4044cc652e232838c08c40aeb976378",
+    "count_before": 2545,
+    "added": 11,
+    "count_after": 2556,
+    "updatetime": "2026-11-23T11:12:10+09:00"
+  },
+  "additions": [
+    {
+      "name": "アミュージアム八王子オーパ店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-20",
+      "category": "クレーンゲーム専門店・アミューズメント施設"
+    },
+    {
+      "name": "りくろーおじさんの店 大丸梅田ツイン店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "チーズケーキ専門店（リニューアル）"
+    },
+    {
+      "name": "堂島ロールCanvas（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "ロールケーキ・洋菓子（新ブランド）"
+    },
+    {
+      "name": "Petit Prince HAKKO（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子（リニューアル）"
+    },
+    {
+      "name": "モロゾフ（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子（リニューアル）"
+    },
+    {
+      "name": "ニュー太陽ノ塔パーラー（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "洋菓子・カフェ（新ブランド）"
+    },
+    {
+      "name": "La Maison du R OSAKA（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "パティスリー・洋菓子"
+    },
+    {
+      "name": "PAPABUBBLE（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アートキャンディ専門店"
+    },
+    {
+      "name": "Hyde＆Away（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "フルーツタルト専門店"
+    },
+    {
+      "name": "OSAKA愛シング（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アイシングクッキー専門店（リニューアル）"
+    },
+    {
+      "name": "ヤマダストアー大阪 梅田店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-12",
+      "category": "スーパーマーケット"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社大丸松坂屋百貨店 公式発表（大丸梅田店・食品フロア改装）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004032.000025003.html",
+      "evidence": "新規5ブランド（堂島ロールCanvasは11月28日、ニュー太陽ノ塔パーラー・La Maison du R OSAKA・PAPABUBBLE・Hyde＆Awayは12月1日）と、りくろーおじさんの店 大丸梅田ツイン店、Petit Prince HAKKO、モロゾフ、OSAKA愛シングのリニューアル日を確認。"
+    },
+    {
+      "source": "株式会社大丸松坂屋百貨店 公式発表（ヤマダストアー大阪 梅田店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000003998.000025003.html",
+      "evidence": "大丸梅田店地下2階のヤマダストアー大阪 梅田店が2026年12月12日にオープンすることを確認。"
+    },
+    {
+      "source": "株式会社アムリード 公式発表（アミュージアム八王子オーパ店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000118739.html",
+      "evidence": "2026年11月20日オープン、東京都八王子市旭町1-12 八王子オーパ1Fを確認。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "JR西日本SC開発株式会社 公式発表（LUCUA SOUTH第2期）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "result": "2026年11月24日開業の28ブランドと12月開業分を照合。今回の確認対象はすべて既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社ワールドフィット 公式発表（CRONOS 11月4店舗）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000200.000081179.html",
+      "result": "LINKS池袋・リバーウォーク北九州・水戸エクセル・高崎の4店舗すべて既存登録済み。"
+    },
+    {
+      "source": "静鉄プロパティマネジメント株式会社 公式発表（新静岡セノバ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000055472.html",
+      "result": "くし葉・ふりそでモード・スーツスクエア・HISの4店舗すべて既存登録済み。"
+    },
+    {
+      "source": "合同会社MSH 公式発表（IKEDIA）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000193285.html",
+      "result": "カルディコーヒーファーム・成城石井・3COINS+plus・アエナの4店舗すべて既存登録済み。"
+    },
+    {
+      "source": "一般財団法人雑賀技術研究所 公式発表（食の3重丸銀座ショップ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000089901.html",
+      "result": "2026年12月4日開店の同店は既存登録済みのため、重複追加せず保持。"
+    },
+    {
+      "source": "イオンモール伊達の各出店事業者公式発表",
+      "url": "https://prtimes.jp/main/html/searchcity/pref_id/07/city_id/07213/",
+      "result": "Zoff・SHOWA NISHIKAWA・BELLUNA・ペッパーランチ等の確認対象は既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社KISSUI GROUP 公式発表（浅草もんじゃ ぜんや 浅草エキミセ）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000186441.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "株式会社道とん堀 公式発表（ゑびすばし）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000012064.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "株式会社カーゾック 公式発表（NICOPA 幕張店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000061.000138952.html",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "株式会社エス・エー・グループ 公式発表（ハラルムガル阪急茨木店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000179009.html",
+      "result": "既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "preexisting_normalized_duplicate_groups": 6,
+    "normalized_duplicate_groups_after": 6,
+    "new_normalized_duplicate_groups": 0,
+    "existing_duplicate_candidates_modified": 0
+  },
+  "errors": [],
+  "unconfirmed": []
+}
