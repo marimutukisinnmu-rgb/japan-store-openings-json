@@ -1,0 +1,157 @@
+{
+  "executed_at": "2026-11-23T17:12:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "10630c021ec2f0f7a1442f93ab7cc9e56c158182",
+    "new_blob_sha": "c7ac285d64e8f804e5293dd020faa52d5f57b360",
+    "commit_sha": "6dc4cefa0875c3e1297536893df8f261916917f0",
+    "count_before": 2575,
+    "added": 7,
+    "skipped_already_present": 0,
+    "count_after": 2582,
+    "updatetime": "2026-11-23T17:12:26+09:00"
+  },
+  "additions": [
+    {
+      "name": "ワッツウィズ あけのぎゅーとらラブリー店",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "opening_date": "2026-11-28",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 白根おかじま店",
+      "prefecture": "山梨県",
+      "city": "南アルプス市",
+      "opening_date": "2026-11-28",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 岩田ニューライフフジ店",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-29",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 狭山中央ビッグ・エー店",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-11-21",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 和歌山北ディオ店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-11-21",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツ 横須賀ノジマモール店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "コンテナ弘前市和徳町店",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社ワッツ公式・店舗ニュース",
+      "url": "https://www.watts-jp.com/news/",
+      "evidence": "2026年11月21日〜22日付の新店情報・新店予告を確認。狭山中央ビッグ・エー店、和歌山北ディオ店は11月21日OPEN、あけのぎゅーとらラブリー店と白根おかじま店は11月28日予定、岩田ニューライフフジ店は11月29日予定。"
+    },
+    {
+      "source": "株式会社ぎゅーとら公式・ラブリーあけの店",
+      "url": "https://gyutora.com/news/324",
+      "evidence": "2026年11月28日開店、三重県伊勢市村松町明野4103番地2を確認。"
+    },
+    {
+      "source": "株式会社山梨さえき公式・おかじま白根店",
+      "url": "https://ym.freshsaeki.co.jp/store/shirane",
+      "evidence": "山梨県南アルプス市飯野3689を確認。開店日は株式会社ワッツ公式の新店予告に基づく。"
+    },
+    {
+      "source": "ニューライフフジ公式・店舗一覧",
+      "url": "https://newlife-fuji.jp/access/",
+      "evidence": "岩田店の所在地が愛知県豊橋市東岩田3丁目10-3であることを確認。開店日は株式会社ワッツ公式の新店予告に基づく。"
+    },
+    {
+      "source": "株式会社ワッツ公式・狭山中央ビッグ・エー店",
+      "url": "https://www.watts-jp.com/shop/54253/",
+      "evidence": "埼玉県狭山市中央1-3-29、ビッグ・エー狭山中央店内を確認。11月21日OPEN予定の公式告知とOPEN済み表示を照合。"
+    },
+    {
+      "source": "株式会社ワッツ公式プレスリリース・横須賀ノジマモール店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000434.000084599.html",
+      "evidence": "2026年11月20日開店、神奈川県横須賀市平成町3-28-2 ノジマモール横須賀2Fを確認。"
+    },
+    {
+      "source": "株式会社UKCorporation公式プレスリリース・コンテナ弘前市和徳町店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000887.000062166.html",
+      "evidence": "2026年12月1日開店、青森県弘前市大字和徳町55-1 1階を確認。"
+    },
+    {
+      "source": "株式会社ワッツ公式プレスリリース（和歌山北ディオ店）",
+      "url": "https://wakayama.keizai.biz/release/688843/",
+      "evidence": "2026年11月21日開店、和歌山県和歌山市善明寺278-1 ディオ和歌山北店内を確認。発行企業は株式会社ワッツ。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "KFC公式・2026年11月新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "result": "掲載された11月の店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "POP MART公式・LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "2026年11月24日開店の店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "明治安田公式・明治安田新宿ビル商業エリア",
+      "url": "https://www.meijiyasuda.co.jp/profile/news/release/2026/pdf/20261022_02.pdf",
+      "result": "11月28日開業のテナント候補を照合。対象店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "確認した掲載店舗は既存JSONに登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "unconfirmed": [
+    "ワッツウィズ 焼津大島杏林堂薬局店、ワッツウィズ 川内くすりのレデイ店、ワッツウィズ 城陽平川ドラッグユタカ店は、今回の登録対象から除外。店舗の開店日・業態の追加照合を継続する。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null
+  }
+}
