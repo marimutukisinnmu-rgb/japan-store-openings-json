@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-11-24T08:15:06+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "updated_and_verified",
+  "before_count": 2614,
+  "added_count": 3,
+  "after_count": 2617,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "3dd5386dc18edda4d37dd15054eefc6c3697fd85",
+  "new_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "commit_sha": "e0546d04f7beb1ef7756df01d1f6e6d4fce8b49a",
+  "additions": [
+    {
+      "name": "鉄板料理 まじめや 三宮センタープラザ店",
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "opening_date": "2026-11-20",
+      "category": "鉄板料理・居酒屋"
+    },
+    {
+      "name": "ワンルーク 中区新栄店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-21",
+      "category": "ペットホテル"
+    },
+    {
+      "name": "個室 海鮮と地酒 魚舟 京橋店",
+      "prefecture": "大阪府",
+      "city": "大阪市都島区",
+      "opening_date": "2026-11-23",
+      "category": "海鮮居酒屋"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社コズミックダイナー「個室 海鮮と地酒 魚舟 京橋店」公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000055.000033002.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-23",
+        "大阪府大阪市都島区片町2-4-6"
+      ]
+    },
+    {
+      "name": "株式会社イートウイング「鉄板料理 まじめや 三宮センタープラザ店」公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000051.000033002.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-20",
+        "兵庫県神戸市中央区三宮町1-9-1"
+      ]
+    },
+    {
+      "name": "日本ペットホテル協会株式会社「ワンルーク 中区新栄店」公式発表（PR TIMES掲載）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000065.000142773.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-21",
+        "愛知県名古屋市中区新栄",
+        "業態 ペットホテル"
+      ]
+    }
+  ],
+  "already_registered": [
+    {
+      "name": "ヨシノベーカリーサンロード",
+      "opening_date": "2026-12-09",
+      "note": "既存登録済み"
+    },
+    {
+      "name": "CRONOS LINKS池袋店",
+      "opening_date": "2026-11-28",
+      "note": "既存登録済み"
+    },
+    {
+      "name": "タリーズコーヒー ＆TEA イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "note": "既存登録済み"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 2026年12月新店11店舗",
+      "opening_dates": "2026-12-04〜2026-12-30",
+      "note": "公式一覧11店舗すべて既存登録済み"
+    }
+  ],
+  "unconfirmed": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "preexisting_records_preserved": true,
+    "preexisting_relative_order_preserved": true,
+    "github_refetch": true,
+    "blob_sha_matches": true,
+    "all_new_entries_present": true
+  },
+  "errors": []
+}
