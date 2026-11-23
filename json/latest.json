@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T10:18:32+09:00",
+  "updatetime": "2026-11-23T11:12:10+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12163,6 +12163,13 @@
       "category": "創作串揚げ専門店"
     },
     {
+      "name": "アミュージアム八王子オーパ店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-20",
+      "category": "クレーンゲーム専門店・アミューズメント施設"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -12868,6 +12875,13 @@
       "city": "大田区",
       "opening_date": "2026-11-24",
       "category": "ラーメン"
+    },
+    {
+      "name": "りくろーおじさんの店 大丸梅田ツイン店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "category": "チーズケーキ専門店（リニューアル）"
     },
     {
       "name": "chocoZAP うきは吉井",
@@ -14809,6 +14823,27 @@
       "category": "ラーメン"
     },
     {
+      "name": "堂島ロールCanvas（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "ロールケーキ・洋菓子（新ブランド）"
+    },
+    {
+      "name": "Petit Prince HAKKO（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子（リニューアル）"
+    },
+    {
+      "name": "モロゾフ（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "洋菓子（リニューアル）"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -15234,6 +15269,41 @@
       "city": "中央区",
       "opening_date": "2026-12-01",
       "category": "焼肉会席専門店"
+    },
+    {
+      "name": "ニュー太陽ノ塔パーラー（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "洋菓子・カフェ（新ブランド）"
+    },
+    {
+      "name": "La Maison du R OSAKA（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "パティスリー・洋菓子"
+    },
+    {
+      "name": "PAPABUBBLE（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アートキャンディ専門店"
+    },
+    {
+      "name": "Hyde＆Away（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "フルーツタルト専門店"
+    },
+    {
+      "name": "OSAKA愛シング（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アイシングクッキー専門店（リニューアル）"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
@@ -16886,6 +16956,13 @@
       "city": "新宿区",
       "opening_date": "2026-12-12",
       "category": "とうふ料理店"
+    },
+    {
+      "name": "ヤマダストアー大阪 梅田店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-12",
+      "category": "スーパーマーケット"
     },
     {
       "name": "バーミヤン BiVi仙台駅東口店",
