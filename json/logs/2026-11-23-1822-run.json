@@ -1,0 +1,68 @@
+{
+  "executed_at": "2026-11-23T18:22:00+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "c7ac285d64e8f804e5293dd020faa52d5f57b360",
+    "new_blob_sha": "08bbfb19a03a3f4a7465ab2b46cfd835a15095c1",
+    "commit_sha": "71a338cb8e891fdd2f9ce005f79eec9c6c736fdf",
+    "count_before": 2582,
+    "added": 1,
+    "skipped_already_present": 0,
+    "count_after": 2583,
+    "updatetime": "2026-11-23T18:22:00+09:00"
+  },
+  "additions": [
+    {
+      "name": "四川麻辣湯 渋谷星星倶楽部 館林店",
+      "prefecture": "群馬県",
+      "city": "館林市",
+      "opening_date": "2026-11-22",
+      "category": "麻辣湯専門店"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社三匠・PR TIMES公式プレスリリース（四川麻辣湯 渋谷星星倶楽部 館林店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000182814.html",
+      "evidence": "店舗名、グランドオープン日2026年11月22日、所在地 群馬県館林市つつじ町14-11 を確認。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "既存 latest.json",
+      "url": "https://github.com/marimutukisinnmu-rgb/japan-store-openings-json/blob/main/json/latest.json",
+      "result": "館林市・星星倶楽部の関連登録なし。完全一致レコードなし。"
+    },
+    {
+      "source": "株式会社TPS・福恩麻辣湯 イオンモール天童店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000073.000179076.html",
+      "result": "別店舗として既に登録済み。今回の館林店とは別店舗のため追加対象と混同していない。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "unconfirmed": [],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null
+  }
+}
