@@ -1,0 +1,93 @@
+{
+  "executed_at": "2026-11-23T09:15:31+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "573c2eeead51149f20ff7712046705df2e017d83",
+    "new_blob_sha": "6ebf6659a88aebff7264728c76a7659659b11178",
+    "commit_sha": "f935dd7668e8e8d7d199d89a99d258b2834c0475",
+    "count_before": 2540,
+    "added": 1,
+    "count_after": 2541,
+    "updatetime": "2026-11-23T09:15:31+09:00"
+  },
+  "additions": [
+    {
+      "name": "ジャンニ キアリーニ（玉川高島屋S.C.）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-11-27",
+      "category": "レディスファッション・バッグ"
+    }
+  ],
+  "sources": [
+    {
+      "store": "ジャンニ キアリーニ（玉川高島屋S.C.）",
+      "url": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+      "location_url": "https://www.takashimaya.co.jp/tamagawa/sc/information/access",
+      "evidence": "玉川高島屋S.C.公式新店案内に11月27日(金)New Open、南館2F、レディスファッションとして掲載。施設公式アクセス案内で東京都世田谷区玉川3-17-1を確認。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "日本KFC公式・2026年12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "result": "掲載11店舗すべて、店舗名・地域・開店日が既存JSONに登録済み。"
+    },
+    {
+      "source": "ビーケー・ジャパン公式・バーガーキング16店舗出店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "result": "2026年11月9日〜12月15日の16店舗すべて既存登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年新店舗情報",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "11月25日のイオンモール神戸南店、11月27日のイオン三ツ境店・イオンモール伊達店はいずれも既存登録済み。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "result": "取得できた11月下旬〜12月上旬の候補店舗を照合し、今回確認した候補は既存登録済み。"
+    },
+    {
+      "source": "JR西日本山陰開発・one MARUI発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000165636.html",
+      "result": "one MARUI シャミネ松江店（2026-12-16）は既存登録済み。"
+    },
+    {
+      "source": "アンドエスティHD・LAKOLE発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+      "result": "LAKOLE サンシャインシティアルタ店（2026-11-20）は既存登録済み。"
+    },
+    {
+      "source": "富山フューチャー開発・WORLD STORE発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000185346.html",
+      "result": "WORLD STORE（フューチャーシティ ファボーレ、2026-11-20）は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_groups": 0,
+    "normalized_duplicate_groups_preserved": 7,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true
+  },
+  "errors": [
+    {
+      "source": "流通ニュースのバーガーキング関連記事",
+      "detail": "直接取得は403 Forbidden。運営会社ビーケー・ジャパンの公式発表で同一の16店舗情報を確認したため、公式発表を根拠として照合を継続。"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "store": "成城石井（アミュプラザ博多）",
+      "detail": "公式発表は2027年春の出店予定までで、具体的な開業日は未発表。日付が確認できないため今回も追加せず保留。"
+    }
+  ]
+}
