@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-24T04:17:45+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "updated_and_verified",
+  "before_count": 2607,
+  "added_count": 2,
+  "after_count": 2609,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "7d69be292d4b9108cdfea547af0d2062e9187cad",
+  "new_blob_sha": "0c14378fc49297e4b5e9521a121898e8e4271583",
+  "commit_sha": "13c956aadee9eddb19ae6b4943564f20213e9c34",
+  "additions": [
+    {
+      "name": "華星 麻辣湯",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-24",
+      "category": "麻辣湯専門店"
+    },
+    {
+      "name": "なだ万 セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "弁当・惣菜ショップ"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ノースポート・モール公式「華星 麻辣湯」店舗詳細・施設お知らせ",
+      "url": "https://www.northport.jp/shop/detail/15854?tenant_cd=15854",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-24",
+        "5F",
+        "麻辣湯"
+      ]
+    },
+    {
+      "name": "株式会社なだ万公式「なだ万 セレオ八王子店」店舗ページ・ニュースリリース",
+      "url": "https://www.nadaman.co.jp/en/pages/chubo_celeohachioji",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-26",
+        "東京都八王子市旭町1-1",
+        "セレオ八王子 北館1階",
+        "弁当・惣菜"
+      ]
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "preexisting_records_preserved": true,
+    "github_refetch": true,
+    "blob_sha_matches": true
+  },
+  "unconfirmed": [
+    {
+      "name": "丸亀製麺（ノースポート・モール）",
+      "reason": "施設公式は2027年2月上旬とだけ案内し、日付が確定していないため未登録"
+    },
+    {
+      "name": "回転寿司二代目ぐるめ亭（ノースポート・モール）",
+      "reason": "施設公式は2027年1月下旬〜2月中旬の範囲のみ案内し、日付が確定していないため未登録"
+    }
+  ],
+  "errors": []
+}
