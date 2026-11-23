@@ -1,0 +1,128 @@
+{
+  "run_at": "2026-11-24T06:18:32+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "updated_and_verified",
+  "before_count": 2609,
+  "added_count": 4,
+  "after_count": 2613,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "0c14378fc49297e4b5e9521a121898e8e4271583",
+  "new_blob_sha": "0101967f8a31d1a792be6e47271cbae33df5e9c0",
+  "commit_sha": "b19837eb0fbd5a79b8b8c6babfb657372f512963",
+  "additions": [
+    {
+      "name": "ハートブレッドアンティーク 八柱店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-20",
+      "category": "ベーカリー"
+    },
+    {
+      "name": "ザ・ビッグエクスプレス岐阜駅南店",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-11-27",
+      "category": "ディスカウントスーパー"
+    },
+    {
+      "name": "よりみちフレスタ（フレスタサンクス店 分店）",
+      "prefecture": "広島県",
+      "city": "山県郡北広島町",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー（無人店舗）"
+    },
+    {
+      "name": "フェルナ武豊店",
+      "prefecture": "愛知県",
+      "city": "知多郡武豊町",
+      "opening_date": "2026-12-03",
+      "category": "食品スーパー"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社オールハーツ・カンパニー公式「ハートブレッドアンティーク 八柱店」",
+      "url": "https://www.heart-bread.com/news/%E3%80%90%E5%8D%83%E8%91%89%E7%9C%8C%E6%9D%BE%E6%88%B8%E5%B8%82%E3%81%AB%E5%88%9D%E5%87%BA%E5%BA%97%EF%BC%81%E3%80%91%E3%80%8C%E3%83%8F%E3%83%BC%E3%83%88%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%82%A2.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-20",
+        "千葉県松戸市日暮1-1-6",
+        "ベーカリー"
+      ]
+    },
+    {
+      "name": "イオンビッグ公式「ザ・ビッグエクスプレス岐阜駅南店」",
+      "url": "https://www.aeonbig.co.jp/assets/pdf/news_261119.pdf",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-27",
+        "岐阜県岐阜市加納水野町3丁目20-1",
+        "ディスカウントストア"
+      ]
+    },
+    {
+      "name": "株式会社フレスタ公式「よりみちフレスタ」",
+      "url": "https://www.fresta.co.jp/info/32935",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-28",
+        "広島県山県郡北広島町南方1918",
+        "旧南方小学校校舎内",
+        "無人小型食品スーパー"
+      ]
+    },
+    {
+      "name": "株式会社カネスエ公式「フェルナ武豊店」",
+      "url": "https://kanesue.co.jp/news/2026%E5%B9%B412%E6%9C%883%E6%97%A5%E6%9C%A8%E3%80%80%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E6%AD%A6%E8%B1%8A%E5%BA%97%E3%80%80%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-12-03",
+        "愛知県知多郡武豊町字道崎48-3",
+        "食品スーパー"
+      ]
+    }
+  ],
+  "already_registered": [
+    {
+      "name": "WILDSIDE YOHJI YAMAMOTO（渋谷PARCO）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "Beisia Foods Park 玉ノ井店",
+      "opening_date": "2026-12-04"
+    },
+    {
+      "name": "Beisia Foods Park 幕張店",
+      "opening_date": "2026-11-18"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "マツゲン浪速西店",
+      "reason": "今回の確認では運営会社の一次情報で開店日を確認できず、登録保留"
+    },
+    {
+      "name": "おーばん新庄店",
+      "reason": "今回の確認では運営会社の一次情報で開店日を確認できず、登録保留"
+    },
+    {
+      "name": "ホクレンショップこたんべつ店",
+      "reason": "公式店舗ページで店舗所在地は確認できたが、開店日を示す一次情報を確認できず、登録保留"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "preexisting_records_preserved": true,
+    "existing_relative_order_preserved": true,
+    "github_refetch": true,
+    "blob_sha_matches": true
+  },
+  "errors": []
+}
