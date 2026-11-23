@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T16:15:21+09:00",
+  "updatetime": "2026-11-23T17:12:26+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12282,6 +12282,13 @@
       "category": "輸入食品・生活雑貨"
     },
     {
+      "name": "ワッツ 横須賀ノジマモール店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-20",
+      "category": "100円ショップ"
+    },
+    {
       "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
       "prefecture": "愛知県",
       "city": "長久手市",
@@ -12546,6 +12553,20 @@
       "city": "札幌市東区",
       "opening_date": "2026-11-21",
       "category": "自動車カスタムショップ"
+    },
+    {
+      "name": "ワッツウィズ 狭山中央ビッグ・エー店",
+      "prefecture": "埼玉県",
+      "city": "狭山市",
+      "opening_date": "2026-11-21",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 和歌山北ディオ店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-11-21",
+      "category": "100円ショップ"
     },
     {
       "name": "アパマンショップひたちなか佐和駅西店",
@@ -14956,6 +14977,20 @@
       "category": "油そば専門店"
     },
     {
+      "name": "ワッツウィズ あけのぎゅーとらラブリー店",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "opening_date": "2026-11-28",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 白根おかじま店",
+      "prefecture": "山梨県",
+      "city": "南アルプス市",
+      "opening_date": "2026-11-28",
+      "category": "100円ショップ"
+    },
+    {
       "name": "バーミヤン 広島アルパーク店",
       "prefecture": "広島県",
       "city": "広島市西区",
@@ -14982,6 +15017,13 @@
       "city": "港区",
       "opening_date": "2026-11-29",
       "category": "スパトリートメント施設（PAÑPURI青山2階）"
+    },
+    {
+      "name": "ワッツウィズ 岩田ニューライフフジ店",
+      "prefecture": "愛知県",
+      "city": "豊橋市",
+      "opening_date": "2026-11-29",
+      "category": "100円ショップ"
     },
     {
       "name": "Eleanor spa&treatment 沖縄北谷店",
@@ -15416,6 +15458,13 @@
       "city": "札幌市南区",
       "opening_date": "2026-12-01",
       "category": "コンビニ"
+    },
+    {
+      "name": "コンテナ弘前市和徳町店",
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
     },
     {
       "name": "八郎そば 伊勢原店",
