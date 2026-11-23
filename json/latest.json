@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T02:17:30+09:00",
+  "updatetime": "2026-11-24T03:12:14+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -5553,6 +5553,13 @@
       "city": "柏市",
       "opening_date": "2026-11-01",
       "category": "まぜそば専門店"
+    },
+    {
+      "name": "SUNTENGUYA（木の葉モール橋本・店名変更）",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "opening_date": "2026-11-01",
+      "category": "レディースシューズ（店名変更・リニューアル）"
     },
     {
       "name": "『USED BRAND FAN』（錦糸町マルイ）",
@@ -17579,6 +17586,13 @@
       "city": "福岡市博多区",
       "opening_date": "2026-12-18",
       "category": "映画館（リニューアル）"
+    },
+    {
+      "name": "ビアードパパ（木の葉モール橋本）",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "opening_date": "2026-12-18",
+      "category": "シュークリーム専門店"
     },
     {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
