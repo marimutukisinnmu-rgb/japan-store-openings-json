@@ -1,0 +1,120 @@
+{
+  "executed_at": "2026-11-24T02:17:30+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "fa7ec0658df6da748b23b9600db1eb5a74875f81",
+    "blob_sha": "9b626177c4d907ec8c943e5e7c863f454d68e79d",
+    "commit_sha": "f34bee33722cd94945c5dfd1937e1bfe058c24df",
+    "count": 2605,
+    "updatetime": "2026-11-24T02:17:30+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-24-0215-run.json"
+  },
+  "additions": [
+    {
+      "name": "SMAAK by Jacob Jan Boerma 博多",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-12-10",
+      "category": "イノベーティブレストラン"
+    }
+  ],
+  "already_registered": [
+    {
+      "candidate": "ローソン公式・2026-11-25〜2026-12-04の27店舗",
+      "matched": "27件すべて既存JSONに登録済み"
+    },
+    {
+      "candidate": "プロント珈琲庭園 nonowa 国立店（2026-12-15）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "堂島ロールCanvas（大丸梅田店・2026-11-28）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "THE UKAI TOFUYA（2026-12-12）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "ニュー太陽ノ塔パーラー（大丸梅田店・2026-12-01）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "焼肉 牛たん山科（秋葉原UDX・2026-12-10）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "ヴァンサン ゲルレ ビスキュイ フランセ（伊勢丹新宿店・2026-12-02）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "ゴンチャ 富山MAROOT店（2026-12-10）",
+      "matched": "同一店・同一日付の表記差候補が2件あり。既存レコードを変更せず保持"
+    },
+    {
+      "candidate": "仙台PARCO2「パルイチ」6店舗（2026-12-03〜2027-01-28）",
+      "matched": "新規・リニューアル6件すべて既存登録済み"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社グラナダ公式プレスリリース（PR TIMES、2026-11-17）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000041874.html",
+      "evidence": "SMAAK by Jacob Jan Boerma 博多の正式な店舗名、2026-12-10のグランドオープン、福岡県福岡市博多区博多駅中央街1-1・JR博多シティ「シティダイニングくうてん」9階を確認。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+      "evidence": "2026-11-25〜2026-12-04の新店27店舗を照合。27件すべて既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社プロントコーポレーション公式プレスリリース（訂正後、2026-11-20）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000018877.html",
+      "evidence": "プロント珈琲庭園 nonowa 国立店の2026-12-15開店を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社TNT MARKET公式プレスリリース（2026-11-10）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000050324.html",
+      "evidence": "ニュー太陽ノ塔パーラーの2026-12-01開店と大丸梅田店地下1階を確認。既存登録済み。"
+    },
+    {
+      "source": "伊勢丹新宿店公式案内（2026-11-16）",
+      "url": "https://www.mistore.jp/store/shinjuku/feature/foods/pickup/sweets/sweets_35.html",
+      "evidence": "ヴァンサン ゲルレ ビスキュイ フランセの2026-12-02開店を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社eatopia公式プレスリリース（2026-11-17）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000113937.html",
+      "evidence": "焼肉 牛たん山科 秋葉原UDX店の2026-12-10開店を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社パルコ公式プレスリリース（2026-11-05）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "evidence": "仙台PARCO2「パルイチ」の新規・リニューアル6店舗の開店日を確認。6件すべて既存登録済み。"
+    },
+    {
+      "source": "株式会社ゴンチャ ジャパン公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "evidence": "ゴンチャ 富山MAROOT店の2026-12-10移転リニューアル情報を照合。既存JSON内に同日・同地域の表記差候補が2件あるため変更せず保持。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2605
+  },
+  "unconfirmed": [],
+  "errors": []
+}
