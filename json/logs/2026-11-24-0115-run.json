@@ -1,0 +1,166 @@
+{
+  "executed_at": "2026-11-24T01:18:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "19f910e97c10931f12ec72a950da83b8df2c5467",
+    "blob_sha": "fa7ec0658df6da748b23b9600db1eb5a74875f81",
+    "commit_sha": "fa1bf24436d6981783bbcb204ca38f5dbce31c9b",
+    "count": 2604,
+    "updatetime": "2026-11-24T01:18:19+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-24-0115-run.json"
+  },
+  "additions": [
+    {
+      "name": "ロビン・フッド成城店（仮称）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2027-02-02",
+      "category": "食品強化型ディスカウントストア（業態転換・店名／開店予定日仮）"
+    },
+    {
+      "name": "MEGA ドン・キホーテ Olympic 千葉桜木店（仮称）",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "opening_date": "2027-02-23",
+      "category": "総合ディスカウントストア（業態転換・店名／開店予定日仮）"
+    },
+    {
+      "name": "MEGA ドン・キホーテ Olympic 東戸塚店（仮称）",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2027-02-24",
+      "category": "総合ディスカウントストア（業態転換・店名／開店予定日仮）"
+    }
+  ],
+  "already_registered": [
+    {
+      "candidate": "ローソン公式・2026-11-25〜2026-12-04の27店舗",
+      "matched": "27件すべて既存JSONに登録済み"
+    },
+    {
+      "candidate": "KFC公式・2026年11月の新店9店舗",
+      "matched": "9件すべて既存JSONに登録済み"
+    },
+    {
+      "candidate": "タリーズコーヒー with U イオンモール小山店（2026-11-18）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "タリーズコーヒー ＆TEA イオンモール伊達店（2026-11-27）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "エトモ菊名（2026-12-04）および新規・再開テナント6店舗",
+      "matched": "施設と6店舗すべて既存登録済み。しぶそば・LAWSON＋toks・ATMは継続営業のため新規扱いせず"
+    },
+    {
+      "candidate": "H’s CREAM イオンモール伊達店（2026-11-27）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "桐松屋（2026-12-01）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "MEGAドン・キホーテ Olympic 高井戸店（2026-12-01）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "ロビン・フッド亀戸店（2026-12-08）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "ロビン・フッド朝霞泉水店（2026-12-15）",
+      "matched": "既存登録済み"
+    },
+    {
+      "candidate": "MEGA ドン・キホーテ洋光台店（仮称・2026-12-15）",
+      "matched": "既存登録済み。既存の仮称表記を変更せず保持"
+    }
+  ],
+  "sources": [
+    {
+      "source": "PPIH公式プレスリリース（2026-11-02）",
+      "url": "https://ppih.co.jp/news/pdf/261102_news_Olympic.pdf",
+      "evidence": "2027-02-02のロビン・フッド成城店、2027-02-23のMEGAドン・キホーテ Olympic 千葉桜木店、2027-02-24のMEGAドン・キホーテ Olympic 東戸塚店について、新店舗名・予定日はいずれも仮と明記。所在地の市区町村も確認。仮称・予定日仮の注記を付けて登録。"
+    },
+    {
+      "source": "PPIH公式プレスリリース（2026-11-20）",
+      "url": "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+      "evidence": "ロビン・フッド亀戸店（2026-12-08）とロビン・フッド朝霞泉水店（2026-12-15）の正式店名・所在地・開店日を確認。両件は既存登録済み。"
+    },
+    {
+      "source": "PPIH公式プレスリリース（2026-11-13）",
+      "url": "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf",
+      "evidence": "MEGAドン・キホーテ Olympic 高井戸店（2026-12-01）の正式店名・所在地・開店日を確認。既存登録済み。"
+    },
+    {
+      "source": "PPIH公式プレスリリース（2026-09-01）",
+      "url": "https://ppih.co.jp/news/pdf/260901_news_Olympic.pdf",
+      "evidence": "洋光台店の業態転換計画を確認。新店名は仮称で、既存JSONにも仮称として登録済みのため変更せず保持。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "evidence": "2026-11-25〜2026-12-04の27店舗を照合し、27件すべて既存登録済み。"
+    },
+    {
+      "source": "KFC公式・11月の新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8192",
+      "evidence": "2026年11月の新店9店舗を照合し、9件すべて既存登録済み。"
+    },
+    {
+      "source": "タリーズコーヒー公式プレスリリース（2026-11-17、2026-11-19）",
+      "url": "https://www.tullys.co.jp/company/pressrelease/2026_index.html",
+      "evidence": "イオンモール小山店と＆TEAイオンモール伊達店の開店日・店舗情報を確認。両件とも既存登録済み。"
+    },
+    {
+      "source": "東急・東急モールズデベロップメント公式ニュースレター",
+      "url": "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf",
+      "evidence": "エトモ菊名の2026-12-04開業と9テナントを確認。新規・再開6店舗はすべて既存登録済み。継続営業3施設は新規追加対象外。"
+    },
+    {
+      "source": "有限会社マンゴースィーツインターナショナル発表",
+      "url": "https://adv.tokyo-np.co.jp/prtimes/article228220/",
+      "evidence": "H’s CREAM イオンモール伊達店の2026-11-27開店と所在地を確認。既存登録済み。"
+    },
+    {
+      "source": "桐松屋公式サイト",
+      "url": "https://www.kirimatsuya.com/news-newopen",
+      "evidence": "2026-11-28プレオープン、2026-12-01グランドオープンを確認。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 7,
+    "new_records_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2604
+  },
+  "unconfirmed": [
+    {
+      "candidate": "MEGA ドン・キホーテ Olympic 志村坂下店（2027-03-02）",
+      "reason": "PPIH公式発表で予定日は確認できるが、現在のlatest.jsonの対象期間は2027-02-28までのため今回の期間外。"
+    },
+    {
+      "candidate": "資さんうどん 熱田一番店（2027年1月下旬予定）",
+      "reason": "運営会社の発表は確認できたが、具体的な開店日が未発表のため日付を推測せず登録保留。"
+    },
+    {
+      "candidate": "万代 堅田店（2026年12月上旬予定）",
+      "reason": "開店時期は確認できたが、具体的な開店日が確認できないため登録保留。"
+    }
+  ],
+  "errors": []
+}
