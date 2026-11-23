@@ -1,0 +1,124 @@
+{
+  "executed_at": "2026-11-23T22:14:21+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "e963c80b370bd77c752eb83d3b4973efec94c721",
+    "blob_sha": "ebae009613b62ebc3c0ca6bf9a0cdc20ed839810",
+    "commit_sha": "4b193f9d737a99a89f755c05abbae0671df61140",
+    "count": 2591,
+    "updatetime": "2026-11-23T22:14:21+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-23-2214-run.json"
+  },
+  "additions": [
+    {
+      "name": "BESS Q TOKYO",
+      "prefecture": "東京都",
+      "city": "昭島市",
+      "opening_date": "2026-12-05",
+      "category": "住宅展示場・暮らし体験施設"
+    }
+  ],
+  "already_registered": [
+    {
+      "candidate": "串揚げバイキング くし葉 新静岡セノバ店",
+      "matched": "くし葉 新静岡セノバ店"
+    },
+    {
+      "candidate": "キル フェ ボン新宿",
+      "matched": "キル フェ ボン新宿"
+    },
+    {
+      "candidate": "秋野テーブル",
+      "matched": "秋野テーブル"
+    },
+    {
+      "candidate": "Soup Stock Tokyo アトレ中野店",
+      "matched": "スープストックトーキョー（アトレ中野）"
+    },
+    {
+      "candidate": "ふくしまひらいビルおよび入居店舗",
+      "matched": "施設・庵ど・バイセル・La pirates・ロレインアイ"
+    },
+    {
+      "candidate": "ローソン公式12/1〜12/4掲載24店舗",
+      "matched": "24/24件登録済み"
+    },
+    {
+      "candidate": "ローソン公式11/25〜11/27掲載3店舗",
+      "matched": "3/3件登録済み"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社アールシーコア公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000103.000060911.html",
+      "evidence": "BESS Q TOKYOの2026-12-05オープン、東京都昭島市つつじが丘一丁目1番120号を確認。2027年2月頃予定の店舗「＆Q」は日付が確定していないため別登録しない。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "evidence": "公式掲載の11/25〜11/27および12/1〜12/4の候補27店舗を既存JSONと照合し、27/27件が登録済みであることを確認。"
+    },
+    {
+      "source": "株式会社スープストックトーキョー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000159.000062610.html",
+      "evidence": "秋野テーブルの2026-12-01開業、渋谷ストリーム内の所在地を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社スープストックトーキョー公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000155.000062610.html",
+      "evidence": "Soup Stock Tokyoアトレ中野店の2026-12-09オープンを確認。既存JSONでは「スープストックトーキョー（アトレ中野）」として登録済み。"
+    },
+    {
+      "source": "キルフェボン株式会社公式サイト",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "evidence": "キル フェ ボン新宿の2026-11-28オープン、東京都新宿区西新宿一丁目9番1号を確認。既存登録済み。"
+    },
+    {
+      "source": "ニラックス株式会社公式ニュース",
+      "url": "https://www.nilax.jp/news-topics",
+      "evidence": "串揚げバイキング くし葉 新静岡セノバ店の2026-12-15グランドオープンを確認。既存登録済み。"
+    },
+    {
+      "source": "イオンモール株式会社発表（共同通信PRワイヤー）",
+      "url": "https://kyodonewsprwire.jp/release/202611119913",
+      "evidence": "ふくしまひらいビルの2026-11-27オープンと入居店舗情報を確認。施設・主要入居店舗は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_record_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2591
+  },
+  "unconfirmed": [
+    {
+      "candidate": "BESS Q TOKYO内の店舗「＆Q」",
+      "reason": "運営元は2027年2月頃のオープン予定と発表しているが、具体的な開店日が未確定のため登録対象外。"
+    }
+  ],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-23T22:15:00+09:00",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "note": "タスク状態はpeekで確認。現在の実行記録は処理中の可能性があり、管理側の完了反映は最終応答時点で未確認。"
+  }
+}
