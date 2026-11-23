@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T14:18:48+09:00",
+  "updatetime": "2026-11-23T15:18:54+09:00",
   "items": [
     {
       "name": "ソプラ銀座 大宮店",
@@ -12266,6 +12266,13 @@
       "city": "勇払郡むかわ町",
       "opening_date": "2026-11-20",
       "category": "100円ショップ（キャンドゥセレクト）"
+    },
+    {
+      "name": "COSTGO パークプレイス大分店",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "opening_date": "2026-11-20",
+      "category": "輸入食品・生活雑貨"
     },
     {
       "name": "FUTURE SUIT TECHNOLOGY イオンモール長久手店",
