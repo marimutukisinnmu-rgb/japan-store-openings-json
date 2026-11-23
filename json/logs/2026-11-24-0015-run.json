@@ -1,0 +1,151 @@
+{
+  "executed_at": "2026-11-24T00:15:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "ada97c68054c639cc260d5bc237c8e1831d4ec13",
+    "blob_sha": "19f910e97c10931f12ec72a950da83b8df2c5467",
+    "commit_sha": "35f07daa11a6b1d4a1e3483ce310738e4fa8aa68",
+    "count": 2601,
+    "updatetime": "2026-11-24T00:15:20+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-24-0015-run.json"
+  },
+  "additions": [
+    {
+      "name": "マクドナルド 小牧インター店",
+      "prefecture": "愛知県",
+      "city": "小牧市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
+    },
+    {
+      "name": "はま寿司 稚内店",
+      "prefecture": "北海道",
+      "city": "稚内市",
+      "opening_date": "2026-11-26",
+      "category": "回転寿司"
+    },
+    {
+      "name": "博多うどん うちだ屋 港北みなも店",
+      "prefecture": "神奈川県",
+      "city": "横浜市都筑区",
+      "opening_date": "2026-11-26",
+      "category": "うどん・和食"
+    },
+    {
+      "name": "鳥貴族 糸満店",
+      "prefecture": "沖縄県",
+      "city": "糸満市",
+      "opening_date": "2026-11-26",
+      "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "鳥貴族 北浦和店",
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "opening_date": "2026-12-16",
+      "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "鳥貴族 小倉京町店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-12-17",
+      "category": "焼鳥・居酒屋"
+    }
+  ],
+  "already_registered": [
+    {
+      "candidate": "JOYFULL EXPRESS ゆめタウン久留米店（2026-11-24）",
+      "matched": "JOYFULL EXPRESS ゆめタウン久留米店"
+    },
+    {
+      "candidate": "Joyfull kitchen モラージュ柏店（2026-12-01）",
+      "matched": "Joyfull kitchen モラージュ柏店"
+    },
+    {
+      "candidate": "イオンモールKYOTOロフト（2026-11-27）",
+      "matched": "イオンモールKYOTOロフト"
+    },
+    {
+      "candidate": "マクドナルド 国立谷保店（2026-11-25）",
+      "matched": "マクドナルド 国立谷保店"
+    },
+    {
+      "candidate": "マクドナルド 吉川栄店（2026-11-26）",
+      "matched": "マクドナルド 吉川栄店"
+    },
+    {
+      "candidate": "POP MART LUCUA SOUTH店（2026-11-24）",
+      "matched": "POP MART LUCUA SOUTH店"
+    },
+    {
+      "candidate": "キル フェ ボン新宿（2026-11-28）",
+      "matched": "キル フェ ボン新宿"
+    }
+  ],
+  "sources": [
+    {
+      "source": "日本マクドナルド公式 店舗検索：小牧インター店",
+      "url": "https://map.mcdonalds.co.jp/map/23832",
+      "evidence": "2026-11-25のオープン予定、愛知県小牧市大字村中1236-1を確認。"
+    },
+    {
+      "source": "はま寿司公式 店舗検索：稚内店",
+      "url": "https://maps.hama-sushi.co.jp/jp/detail/6644.html",
+      "evidence": "2026-11-26 OPEN、北海道稚内市大黒2-6-15を確認。"
+    },
+    {
+      "source": "株式会社うちだ屋 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000178931.html",
+      "evidence": "博多うどん うちだ屋の港北みなも店が2026-11-26オープン予定、神奈川県横浜市都筑区中川中央2-7-1を確認。"
+    },
+    {
+      "source": "鳥貴族公式店舗情報：糸満店",
+      "url": "https://map.torikizoku.co.jp/detail/842/",
+      "evidence": "2026-11-26オープン予定、沖縄県糸満市西崎6丁目16番16号を確認。"
+    },
+    {
+      "source": "鳥貴族公式店舗情報：北浦和店",
+      "url": "https://map.torikizoku.co.jp/detail/840/",
+      "evidence": "2026-12-16オープン予定、埼玉県さいたま市浦和区北浦和4丁目5番2号を確認。"
+    },
+    {
+      "source": "鳥貴族公式店舗情報：小倉京町店",
+      "url": "https://map.torikizoku.co.jp/detail/841/",
+      "evidence": "2026-12-17オープン予定、福岡県北九州市小倉北区京町2丁目7番7号を確認。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 7,
+    "new_records_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2601
+  },
+  "unconfirmed": [
+    {
+      "candidate": "マクドナルド 笹塚駅高架下店（2026-11-24との二次情報）",
+      "reason": "今回の確認範囲では日本マクドナルドの公式店舗情報で開店日と店舗名を確認できなかったため追加保留。"
+    },
+    {
+      "candidate": "マクドナルド 西鉄香椎駅前店（2026-11-27との二次情報）",
+      "reason": "公式採用ページを示す二次情報は見つかったが、公式ページ本文を直接取得できなかったため追加保留。"
+    },
+    {
+      "candidate": "マクドナルド 桜の郷店（2026-11-27との二次情報）",
+      "reason": "公式採用情報を示す二次情報は見つかったが、公式ページ本文を直接取得できなかったため追加保留。"
+    }
+  ],
+  "errors": []
+}
