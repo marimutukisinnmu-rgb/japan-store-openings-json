@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T22:14:21+09:00",
+  "updatetime": "2026-11-23T23:15:54+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13568,6 +13568,34 @@
       "city": "渋谷区",
       "opening_date": "2026-11-26",
       "category": "モダン割烹・ダイニング"
+    },
+    {
+      "name": "REACO 京王百貨店新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "韓国コスメ・食品専門店"
+    },
+    {
+      "name": "道の駅 アンテナショップ 道結び",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "道の駅アンテナショップ・地域特産品"
+    },
+    {
+      "name": "アジア台湾物産専門店 台湾小集",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "台湾物産・アジア食品・生活雑貨"
+    },
+    {
+      "name": "ストックマート",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "輸入食品・日用品"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
