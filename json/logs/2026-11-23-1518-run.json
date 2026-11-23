@@ -1,0 +1,128 @@
+{
+  "executed_at": "2026-11-23T15:18:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "204cff75b7605c9ea62e4a00d2b171b4d8aa1f8f",
+    "new_blob_sha": "01195afba201fcf23103bbde1865708c3527f502",
+    "commit_sha": "890f003c5af9e9bc73c625464061b387f3b4785e",
+    "count_before": 2573,
+    "added": 1,
+    "skipped_already_present": 140,
+    "count_after": 2574,
+    "updatetime": "2026-11-23T15:18:54+09:00"
+  },
+  "additions": [
+    {
+      "name": "COSTGO パークプレイス大分店",
+      "prefecture": "大分県",
+      "city": "大分市",
+      "opening_date": "2026-11-20",
+      "category": "輸入食品・生活雑貨"
+    }
+  ],
+  "sources": [
+    {
+      "source": "COSTGO公式・店舗情報",
+      "url": "https://costgo.jp/archives/storeinfo/costgo-parkplace",
+      "evidence": "店舗名、住所（大分市公園通り西2丁目1番・パークプレイス大分ガーデンウォーク2F）を確認。ページ見出しに11/20 OPEN。"
+    },
+    {
+      "source": "COSTGO公式・新店告知",
+      "url": "https://costgo.jp/archives/newstopics/531",
+      "evidence": "2026年11月20日付の新店告知。店舗情報欄は2026年11月20日開店と明記。ただし本文冒頭には2026年6月17日との誤記がある。"
+    },
+    {
+      "source": "パークプレイス大分公式",
+      "url": "https://shop.parkplace-oita.com/information/detail/541",
+      "evidence": "施設運営者の公式告知で2026年11月20日（金）NEW OPEN、ガーデンウォーク2Fを確認。COSTGO公式告知本文の6月17日記載と矛盾するが、公式店舗情報ページと施設運営者の告知がともに11月20日を支持するため、11月20日で登録。"
+    },
+    {
+      "source": "株式会社ビーケー・ジャパン公式発表（Burger King 16店舗）",
+      "url": "https://prtimes.jp/a/?c=38980&f=d38980-442-038c1c62e26b5c992f3920d3ac53574c.pdf&r=442",
+      "evidence": "2026年11月6日付公式資料。11月から12月中旬の16店舗の開店日・所在地を照合。16店舗すべて既存登録済み。MEGAドン・キホーテUNY市原店は既存レコードの表記に空白差があるが同一店舗。"
+    },
+    {
+      "source": "日本ケンタッキー・フライド・チキン公式",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "evidence": "2026年11月20日更新の11月新店情報。掲載11店舗はすべて既存登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年ニュース一覧",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "evidence": "11月19日、25日、27日開店予定の店舗情報を確認。対象4店舗はすべて既存登録済み。"
+    },
+    {
+      "source": "ローソン公式・新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "evidence": "11月19日以降から12月上旬の新店候補を照合。今回確認した候補は既存登録済み。"
+    },
+    {
+      "source": "株式会社POP MART JAPAN公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "evidence": "POP MART LUCUA SOUTH店、2026年11月24日開店。既存登録済み。"
+    },
+    {
+      "source": "株式会社PAPABUBBLE公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "evidence": "PAPABUBBLE イクスピアリ店、2026年11月21日開店。既存登録済み。"
+    },
+    {
+      "source": "KICOKICO合同会社公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000193773.html",
+      "evidence": "MERLE（メルル）、2026年11月22日開店。既存登録済み。"
+    },
+    {
+      "source": "日本光輝株式会社公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000187849.html",
+      "evidence": "GINZA TOKYO 樂 gaku、2026年11月22日開店。既存登録済み。"
+    },
+    {
+      "source": "GTホールディングス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000031.000132305.html",
+      "evidence": "VINTAGE QOO TOKYO AOYAMA、2026年11月16日開店。既存登録済み。"
+    },
+    {
+      "source": "株式会社ひらまつ公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000275.000097330.html",
+      "evidence": "HRMT BEYOND、2026年12月9日開店予定。既存登録済み。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "株式会社ルルアーク公式・ふぇすたらんど平島店",
+      "url": "https://www.luluarq.co.jp/news/detail/263.html",
+      "result": "2026年11月20日付でリニューアル済みと発表。ただし実際のリニューアル日を明記していないため、日付未確定として登録保留。"
+    },
+    {
+      "source": "既存JSON全件検査",
+      "result": "2,574件。必須項目欠落0件、不正日付0件、日付順ソート異常0件、完全一致重複0件。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true,
+    "existing_data_preserved": true
+  },
+  "unconfirmed": [
+    "ふぇすたらんど平島店：運営会社公式発表はリニューアル済みとするが、実際のリニューアル日を明記していない。日付は推測せず保留。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "enabled_state_changed": false,
+    "last_run_status_at_check": "in_progress"
+  }
+}
