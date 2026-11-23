@@ -1,0 +1,68 @@
+{
+  "run_at": "2026-11-24T07:12:20+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "updated_and_verified",
+  "before_count": 2613,
+  "added_count": 1,
+  "after_count": 2614,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "0101967f8a31d1a792be6e47271cbae33df5e9c0",
+  "new_blob_sha": "3dd5386dc18edda4d37dd15054eefc6c3697fd85",
+  "commit_sha": "6350b27b87ece5255183091a5efe064fa48c860b",
+  "additions": [
+    {
+      "name": "新時代 西新宿1丁目店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-30",
+      "category": "居酒屋"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社ファッズ公式プレスリリース（PR TIMES掲載）「新時代 西新宿1丁目店」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000284.000070373.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日 2026-11-30",
+        "東京都新宿区西新宿1-12-11",
+        "居酒屋"
+      ]
+    }
+  ],
+  "already_registered": [
+    {
+      "name": "LAKOLE（サンシャインシティ ALTA）",
+      "opening_date": "2026-11-20"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "opening_date": "2026-11-28"
+    },
+    {
+      "name": "BAKERIES LAB.砂町銀座店",
+      "opening_date": "2026-11-21"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 12月新店11店舗",
+      "opening_dates": "2026-12-04〜2026-12-30",
+      "note": "公式一覧の11店舗すべて既存JSONに登録済み"
+    }
+  ],
+  "unconfirmed": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "preexisting_records_preserved": true,
+    "github_refetch": true,
+    "blob_sha_matches": true,
+    "new_entry_unique": true
+  },
+  "errors": []
+}
