@@ -1,0 +1,146 @@
+{
+  "executed_at": "2026-11-23T23:15:54+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "ebae009613b62ebc3c0ca6bf9a0cdc20ed839810",
+    "blob_sha": "ada97c68054c639cc260d5bc237c8e1831d4ec13",
+    "commit_sha": "7a90fae55b971fe55cd29f523cc09d76b80fbfdb",
+    "count": 2595,
+    "updatetime": "2026-11-23T23:15:54+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-23-2315-run.json"
+  },
+  "additions": [
+    {
+      "name": "REACO 京王百貨店新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "韓国コスメ・食品専門店"
+    },
+    {
+      "name": "道の駅 アンテナショップ 道結び",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "道の駅アンテナショップ・地域特産品"
+    },
+    {
+      "name": "アジア台湾物産専門店 台湾小集",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "台湾物産・アジア食品・生活雑貨"
+    },
+    {
+      "name": "ストックマート",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-26",
+      "category": "輸入食品・日用品"
+    }
+  ],
+  "already_registered": [
+    {
+      "candidate": "POP MART LUCUA SOUTH店（2026-11-24）",
+      "matched": "POP MART LUCUA SOUTH店"
+    },
+    {
+      "candidate": "キル フェ ボン新宿（2026-11-28）",
+      "matched": "キル フェ ボン新宿"
+    },
+    {
+      "candidate": "ゴンチャ 豊田 T-FACE店（2026-11-27）",
+      "matched": "ゴンチャ 豊田 T-FACE店／ゴンチャ 豊田T-FACE店（表記差の重複2件）"
+    },
+    {
+      "candidate": "ゴンチャ イオンモール伊達店（2026-11-27）",
+      "matched": "ゴンチャ イオンモール伊達店"
+    },
+    {
+      "candidate": "サブウェイ イオンモール神戸南店（2026-11-25）",
+      "matched": "サブウェイ イオンモール神戸南店"
+    },
+    {
+      "candidate": "サブウェイ イオンモール伊達店（2026-11-27）",
+      "matched": "サブウェイ イオンモール伊達店"
+    },
+    {
+      "candidate": "サブウェイ イオン三ツ境店（2026-11-27）",
+      "matched": "サブウェイ イオン三ツ境店"
+    },
+    {
+      "candidate": "KFC イズミヤ長岡店（2026-11-27）",
+      "matched": "ケンタッキーフライドチキン イズミヤ長岡店"
+    },
+    {
+      "candidate": "ロピア 港北みなも店（2026-11-26）",
+      "matched": "ロピア 港北みなも店"
+    }
+  ],
+  "sources": [
+    {
+      "source": "京王百貨店 新宿店公式「京王フードマーケット」案内",
+      "url": "https://www.keionet.com/info/shinjuku/news/keio-food-market.html",
+      "evidence": "2026-11-26の8階リニューアルと新ショップとしてREACO、道の駅アンテナショップ 道結び、アジア台湾物産専門店 台湾小集、ストックマートを掲載。"
+    },
+    {
+      "source": "株式会社OICグループ・株式会社REACO公式プレスリリース",
+      "url": "https://oicgroup.co.jp/docs/release/2026-11-12-%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%86%85%E5%88%9D%EF%BC%81%E9%9F%93%E5%9B%BD%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%BB%E9%A3%9F%E5%93%81%E5%B0%82%E9%96%80%E5%BA%97%E3%80%8CREACO%E3%80%8D%E3%81%AE%E6%97%97%E8%89%A6%E5%BA%97%E3%81%8C%E3%80%8111%E6%9C%8826%E6%97%A5%E3%80%81%E4%BA%AC%E7%8E%8B%E7%B7%9A%E3%80%8C%E6%96%B0%E5%AE%BF%E9%A7%85%E3%80%8D%E7%9B%B4%E7%B5%90%E3%81%AE%E3%80%8C%E4%BA%AC%E7%8E%8B%E7%99%BE%E8%B2%A8%E5%BA%97%E6%96%B0%E5%AE%BF%E5%BA%97%E3%80%8D%E5%86%85%E3%81%AB%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3.pdf",
+      "evidence": "REACO 京王百貨店新宿店の2026-11-26オープンと東京都新宿区西新宿1-1-4、8階を確認。"
+    },
+    {
+      "source": "ゴンチャ公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "evidence": "豊田T-FACE店とイオンモール伊達店の2026-11-27オープンを確認。いずれも登録済み。"
+    },
+    {
+      "source": "サブウェイ公式2026年ニュース一覧",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "evidence": "イオンモール神戸南店、イオンモール伊達店、イオン三ツ境店の新店情報を照合し、いずれも登録済み。"
+    },
+    {
+      "source": "日本KFC公式11月新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "evidence": "11月24日、26日、27日、28日開店の掲載店を照合。イズミヤ長岡店を含め登録済み。"
+    },
+    {
+      "source": "株式会社OICグループ公式ニュース",
+      "url": "https://oicgroup.co.jp/news/",
+      "evidence": "ロピア 港北みなも店の2026-11-26オープンを確認し登録済み。遠賀川駅南商業店舗は届出上の新設予定で、実際の営業開始日を確定する公式情報が不足するため追加対象外。"
+    },
+    {
+      "source": "キルフェボン株式会社公式サイト",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "evidence": "キル フェ ボン新宿の2026-11-28オープンを確認し登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "normalized_name_duplicate_groups": 7,
+    "new_records_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2595
+  },
+  "unconfirmed": [
+    {
+      "candidate": "（仮称）遠賀川駅南商業店舗（ロピア出店計画）",
+      "reason": "大規模小売店舗立地法の届出上の新設日情報はあるが、実際の営業開始日を裏付ける運営会社の公式発表を確認できないため追加保留。"
+    },
+    {
+      "candidate": "ola blue（茨城県鹿嶋市・移転）",
+      "reason": "移転オープン日を示す地域記事・店舗情報は見つかったが、運営元の一次情報で日付と所在地を確認できないため追加保留。"
+    }
+  ],
+  "errors": []
+}
