@@ -1,0 +1,129 @@
+{
+  "executed_at": "2026-11-23T10:18:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "6ebf6659a88aebff7264728c76a7659659b11178",
+    "new_blob_sha": "7b26eca2c5cc9cff590f63356ea4b962d0da3ecf",
+    "commit_sha": "b6f655c27d5dd24c6ded09b83fc12418c7923703",
+    "count_before": 2541,
+    "added": 4,
+    "count_after": 2545,
+    "updatetime": "2026-11-23T10:18:32+09:00"
+  },
+  "additions": [
+    {
+      "name": "しまむら ホームズ南津守店",
+      "prefecture": "大阪府",
+      "city": "大阪市西成区",
+      "opening_date": "2026-11-25",
+      "category": "衣料品・ファッション（移転リニューアル）"
+    },
+    {
+      "name": "アベイル ホームズ南津守店",
+      "prefecture": "大阪府",
+      "city": "大阪市西成区",
+      "opening_date": "2026-11-25",
+      "category": "カジュアル衣料・シューズ"
+    },
+    {
+      "name": "バースデイ ホームズ南津守店",
+      "prefecture": "大阪府",
+      "city": "大阪市西成区",
+      "opening_date": "2026-11-25",
+      "category": "ベビー・子供用品"
+    },
+    {
+      "name": "シャンブル ホームズ南津守店",
+      "prefecture": "大阪府",
+      "city": "大阪市西成区",
+      "opening_date": "2026-11-25",
+      "category": "雑貨・ファッション"
+    }
+  ],
+  "sources": [
+    {
+      "source": "株式会社しまむら 公式・新店舗オープンのご案内（PDF）",
+      "url": "https://www.shimamura.gr.jp/assets-c/uploads/release20261117_smavbrcm_homesminamitsumori.pdf",
+      "evidence": "しまむらグループ4事業（しまむら・アベイル・バースデイ・シャンブル）が2026年11月25日10時にホームズ南津守内でオープン。しまむらは移転リニューアルと明記。"
+    },
+    {
+      "source": "しまむらグループ公式・シャンブル ホームズ南津守店",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_4209.html",
+      "evidence": "2026年11月25日オープン、所在地は大阪府大阪市西成区南津守1-6-41。"
+    },
+    {
+      "source": "しまむらグループ公式・アベイル ホームズ南津守店",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_7719.html",
+      "evidence": "2026年11月25日オープン、所在地は大阪府大阪市西成区南津守1-6-41。"
+    },
+    {
+      "source": "しまむらグループ公式・バースデイ ホームズ南津守店",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_3537.html",
+      "evidence": "店舗名と所在地は大阪府大阪市西成区南津守1-6-41。開店日はしまむら公式PDFで確認。"
+    },
+    {
+      "source": "しまむらグループ公式・しまむら ホームズ南津守店",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_1601.html",
+      "evidence": "2026年11月25日移転リニューアルオープン、所在地は大阪府大阪市西成区南津守1-6-41。"
+    }
+  ],
+  "cross_checks": [
+    {
+      "source": "日本KFC公式・2026年12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "result": "掲載11店舗すべて最新JSONに登録済み。"
+    },
+    {
+      "source": "サブウェイ公式・2026年新店舗情報",
+      "url": "https://subway.co.jp/news/year/2026/",
+      "result": "今回確認した11月下旬の新店候補は既存登録済み。"
+    },
+    {
+      "source": "ローソン公式・全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "result": "取得できた11月下旬〜12月上旬の候補は既存登録済み。"
+    },
+    {
+      "source": "セカンドリテイリング公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000267.000141539.html",
+      "result": "画像掲載の国内9店舗を照合。今回対象のLuck Rack 旭川西・京都ヨドバシ、おお蔵 本町駅前店を含め、該当店舗は既存登録済み。"
+    },
+    {
+      "source": "仙台PARCO公式・パルイチ新店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "result": "2026年12月〜2027年1月の新店5店舗・リニューアル1店舗は既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_groups": 0,
+    "new_records_verified_after_fetch": true,
+    "blob_sha_matches_write_response": true
+  },
+  "errors": [
+    {
+      "source": "流通ニュースのホームズ南津守4事業同時オープン記事",
+      "detail": "直接取得は403 Forbidden。しまむら公式PDFと各公式店舗ページで開店日・店舗名・所在地を確認したため、公式情報を根拠に更新。"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "stores": [
+        "万代 堅田店",
+        "万代 栗東小柿店"
+      ],
+      "detail": "運営会社公式発表は2026年12月上旬までで、具体的な開店日は未公表。日付を推測せず保留。"
+    },
+    {
+      "store": "タリーズコーヒー MORIOKA TSUTAYA（仮）店",
+      "detail": "第三者求人・店舗情報では12月上旬予定との情報があるが、公式の確定開店日を確認できず保留。"
+    }
+  ]
+}
