@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-23T12:13:38+09:00",
+  "updatetime": "2026-11-23T13:13:29+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17203,6 +17203,13 @@
       "category": "洋食レストラン"
     },
     {
+      "name": "炭火焼鳥 銀座惣菜店 イオンモール千葉ニュータウン店",
+      "prefecture": "千葉県",
+      "city": "印西市",
+      "opening_date": "2026-12-17",
+      "category": "炭火焼鳥・惣菜"
+    },
+    {
       "name": "Celule（鳥栖プレミアム・アウトレット）",
       "prefecture": "佐賀県",
       "city": "鳥栖市",
@@ -17785,6 +17792,13 @@
     },
     {
       "name": "ピラティス ウィークル（WECLE）自由が丘店",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "opening_date": "2027-01-26",
+      "category": "ピラティススタジオ"
+    },
+    {
+      "name": "WECLE 自由が丘店",
       "prefecture": "東京都",
       "city": "目黒区",
       "opening_date": "2027-01-26",
