@@ -1,0 +1,90 @@
+{
+  "executed_at": "2026-11-24T03:12:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "status": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "previous_blob_sha": "9b626177c4d907ec8c943e5e7c863f454d68e79d",
+    "blob_sha": "7d69be292d4b9108cdfea547af0d2062e9187cad",
+    "commit_sha": "a89b1d06d916695e0272783ecf08d8af0a83b61a",
+    "count": 2607,
+    "updatetime": "2026-11-24T03:12:14+09:00",
+    "changed": true,
+    "log_path": "json/logs/2026-11-24-0312-run.json"
+  },
+  "additions": [
+    {
+      "name": "SUNTENGUYA（木の葉モール橋本・店名変更）",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "opening_date": "2026-11-01",
+      "category": "レディースシューズ（店名変更・リニューアル）"
+    },
+    {
+      "name": "ビアードパパ（木の葉モール橋本）",
+      "prefecture": "福岡県",
+      "city": "福岡市西区",
+      "opening_date": "2026-12-18",
+      "category": "シュークリーム専門店"
+    }
+  ],
+  "already_registered": [],
+  "sources": [
+    {
+      "source": "木の葉モール橋本 公式お知らせ",
+      "url": "https://konohamall.com/news/infomation/",
+      "evidence": "2026-11-13掲載のNEW & RENEWAL OPEN告知で、ビアードパパが2026-12-18に1Fはしもとまるしぇへ新規オープンすることを確認。またBON FUKAYAがSUNTENGUYAへ店名変更し、2026-11-01にセンターコート1Fへリニューアルオープンしたことを確認。施設所在地は福岡市西区橋本2-27-2。"
+    },
+    {
+      "source": "ＪＲ北海道フレッシュキヨスク株式会社 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000116975.html",
+      "evidence": "KINOTOYA BAKE 札幌ステラプレイス店の2026-12-04開店を確認。既存登録済み。"
+    },
+    {
+      "source": "富澤商店公式オンラインショップ・店舗情報",
+      "url": "https://tomiz.live/information/detail/2771",
+      "evidence": "富澤商店 山形屋店の2026-11-28開店を確認。既存登録済み。"
+    },
+    {
+      "source": "株式会社 WithGreen 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+      "evidence": "WithGreen 光が丘IMA店の2026-11-26開店を確認。既存登録済み。"
+    },
+    {
+      "source": "パナソニック株式会社 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001259.000024101.html",
+      "evidence": "NICOBOの＆found期間限定出展は確認。ただし新規店舗ではなく既存体験型店舗内の期間限定出展のため、別レコードは追加せず。"
+    },
+    {
+      "source": "株式会社パルコ 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "evidence": "仙台PARCO2「パルイチ」の新規・リニューアル6店舗を照合。既存登録済み。"
+    },
+    {
+      "source": "株式会社 POP MART JAPAN 公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "evidence": "POP MART LUCUA SOUTH店の2026-11-24開店を確認。既存登録済み。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_date_format": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "new_records_present": true,
+    "existing_data_preserved": true,
+    "latest_json_changed": true,
+    "latest_json_blob_sha_matches": true,
+    "count": 2607
+  },
+  "unconfirmed": [
+    {
+      "candidate": "SUNTENGUYAの正式な住所・個別店舗ページ",
+      "reason": "施設公式告知で館内位置と施設所在地は確認できたが、店舗単独の番地・電話番号までは今回確認していない。JSONの市区町村は施設所在地に基づく。"
+    }
+  ],
+  "errors": []
+}
