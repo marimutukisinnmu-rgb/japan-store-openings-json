@@ -32,8 +32,13 @@
       "candidate_count": 5,
       "matched_existing": 5,
       "added": 0,
-      "url": "https://ppih.co.jp/news/",
-      "note": "MEGA Don Quijote Olympic Yokodai, Robin Hood Kameido, Asaka Senzui and Kitashinjuku, and MEGA Don Quijote Olympic Takaido matched existing records."
+      "note": "MEGA Don Quijote Olympic Yokodai, Robin Hood Kameido, Asaka Senzui and Kitashinjuku, and MEGA Don Quijote Olympic Takaido matched existing records.",
+      "urls": [
+        "https://cdntest.digitalpr.jp/r/149124",
+        "https://cdntest.digitalpr.jp/r/148956",
+        "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+        "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+      ]
     },
     {
       "source": "VENEX official announcement",
