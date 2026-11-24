@@ -1,0 +1,162 @@
+{
+  "run_at": "2026-11-24T16:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "item_count": 2624,
+    "updatetime": "2026-11-24T15:15:08+09:00",
+    "update_status": "no_change"
+  },
+  "changes": [],
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 27,
+      "matched_existing": 27,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "note": "All listed entries dated 2026-11-25 through 2026-12-04 matched existing records."
+    },
+    {
+      "source": "KFC Japan official December new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "note": "All 11 December openings matched existing records."
+    },
+    {
+      "source": "PPIH official releases",
+      "candidate_count": 5,
+      "matched_existing": 5,
+      "added": 0,
+      "urls": [
+        "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+        "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+        "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+        "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+      ],
+      "note": "Yokodai, Kameido, Asaka Senzui, Kitashinjuku and Takaido entries all matched existing records."
+    },
+    {
+      "source": "Blue Sky Laundry / GIB November 2026 opening list",
+      "candidate_count": 10,
+      "matched_existing": 10,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "note": "All 10 stores in the operator's announcement matched existing records."
+    },
+    {
+      "source": "Beisia official release",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.beisia.co.jp/news/",
+      "note": "Beisia Foods Park Tamanoi matched existing record."
+    },
+    {
+      "source": "Aeon Big official news",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.aeonbig.co.jp/",
+      "note": "The Big Express Gifu Station South matched existing record."
+    },
+    {
+      "source": "H's CREAM operator announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://adv.tokyo-np.co.jp/prtimes/article228220/",
+      "note": "H's CREAM Aeon Mall Date matched existing record."
+    },
+    {
+      "source": "Xebio Group announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001244.000004149.html",
+      "note": "Super Sports Xebio Aeon Mall Date matched existing record."
+    },
+    {
+      "source": "Tokyu / Tokyu Malls Development Etomo Kikuna release",
+      "candidate_count": 7,
+      "matched_existing": 7,
+      "added": 0,
+      "url": "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf",
+      "note": "Etomo Kikuna facility and six new/reopened tenant records matched existing entries; three continuing services were not treated as new openings."
+    },
+    {
+      "source": "Izumi Food Service official release",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.izumi.co.jp/news_release/assets/a53c1563418ef5d413c059e7be7fd3e4.pdf",
+      "note": "Mister Donut Tenmaya Happys Saidaiji Shop matched existing record."
+    },
+    {
+      "source": "POP MART Japan announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "note": "POP MART LUCUA SOUTH matched existing record."
+    },
+    {
+      "source": "Quil Fait Bon official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "note": "Quil Fait Bon Shinjuku matched existing record."
+    },
+    {
+      "source": "GYRO HOLDINGS / BAKERIES LAB announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "note": "BAKERIES LAB Sunamachi Ginza matched existing record."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "candidate": "ola blue relocation to Kashima",
+      "proposed_opening_date": "2026-11-26",
+      "reason": "Only a regional secondary article was found in this run; operator's primary announcement was not independently verified. Not added.",
+      "url": "https://syutoken-walker.jp/【鹿嶋市宮中】進化系かき氷とフレンチラーメンの「ola blue」が11月26日移転オープン！夜はお酒や一品料理も/"
+    },
+    {
+      "candidate": "MEGA Don Quijote Olympic Shimuma Sakashita",
+      "proposed_opening_date": "2027-03-02",
+      "reason": "Official announcement is outside the current JSON period ending 2027-02-28; not added.",
+      "url": "https://ppih.co.jp/news/"
+    },
+    {
+      "candidate": "DON DON DONKI Terminal 21 Pattaya",
+      "proposed_opening_date": "2026-12-03",
+      "reason": "Official announcement concerns a store outside Japan; excluded by the JSON scope.",
+      "url": "https://ppih.co.jp/news/"
+    }
+  ],
+  "diagnostics": {
+    "previous_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "updated_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "update_commit_sha": null,
+    "item_count_before": 2624,
+    "item_count_after": 2624,
+    "new_items": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_count": 0,
+    "normalized_duplicate_candidate_groups": 11,
+    "duplicate_detection_note": "Heuristic normalization used NFKC, lowercasing, removal of whitespace/punctuation and terminal 店/リニューアル; groups are candidates only and were not merged or deleted.",
+    "update_error": null
+  },
+  "note": "No confirmed missing Japan-scope stores were found in the reviewed official sources. latest.json was intentionally left unchanged; only this execution log was added."
+}
