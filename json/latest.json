@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-25T02:15:02+09:00",
+  "updatetime": "2026-11-25T03:15:08+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14900,6 +14900,27 @@
       "category": "食品スーパー"
     },
     {
+      "name": "ロミードーナツ イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "ドーナツ専門店"
+    },
+    {
+      "name": "三本珈琲店 イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "カフェ"
+    },
+    {
+      "name": "丸亀製麺 イオン三ツ境店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-27",
+      "category": "うどん専門店"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15801,6 +15822,13 @@
       "city": "中央区",
       "opening_date": "2026-12-01",
       "category": "焼肉会席専門店"
+    },
+    {
+      "name": "ゴンチャ イオンモール船橋店",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-12-01",
+      "category": "ティーカフェ"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
