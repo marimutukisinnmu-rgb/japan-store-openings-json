@@ -1,0 +1,144 @@
+{
+  "run_at": "2026-11-25T01:15:02+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "514f1d0ab300a6c10468ca5f14a452880c1f3bb8",
+    "blob_sha": "f031925972321acf6b350ca3b5a70f6f5d8b8f3e",
+    "update_commit_sha": "5a016c9af569d3216c9030ad69eb27e9c3c6e4cf",
+    "item_count": 2659,
+    "previous_item_count": 2655,
+    "updatetime": "2026-11-25T01:15:02+09:00",
+    "update_status": "updated",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "オリーブの丘 つくば研究学園店",
+        "prefecture": "茨城県",
+        "city": "つくば市",
+        "opening_date": "2026-12-03",
+        "category": "イタリアンレストラン（リニューアル）"
+      },
+      {
+        "name": "オリーブの丘 北本二ツ家店",
+        "prefecture": "埼玉県",
+        "city": "北本市",
+        "opening_date": "2026-12-04",
+        "category": "イタリアンレストラン（リニューアル）"
+      },
+      {
+        "name": "伝丸 環八糀谷店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-12-18",
+        "category": "ラーメン店（業態転換・リニューアル）"
+      },
+      {
+        "name": "ココス 尼崎東難波店",
+        "prefecture": "兵庫県",
+        "city": "尼崎市",
+        "opening_date": "2026-12-19",
+        "category": "ファミリーレストラン（リニューアル）"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 4,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "ZENSHO group official store locator",
+      "candidate_count": 4,
+      "matched_existing": 0,
+      "added": 4,
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/5551.html",
+        "https://maps.zensho.co.jp/jp/detail/5289.html",
+        "https://maps.zensho.co.jp/jp/detail/4049.html",
+        "https://maps.zensho.co.jp/jp/detail/2767.html"
+      ],
+      "note": "Official store pages specify Olive no Oka Tsukuba Research Gakuen reopening 2026-12-03, Olive no Oka Kitamoto Futatsuka reopening 2026-12-04, Ikkyudo Kanpachi Kojiya changing to Tatemaru Kanpachi Kojiya on 2026-12-18, and Cocos Amagasaki Higashinamba reopening after renovation on 2026-12-19."
+    },
+    {
+      "source": "Lawson official new-store list",
+      "candidate_count": 10,
+      "matched_existing": 10,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/",
+      "note": "Ten checked upcoming entries, including Nakagusuku Yagi, Shin-Matsudo Minami, Inage Ekihigashiguchi-dori and several December 1-4 openings, were already represented in latest.json."
+    },
+    {
+      "source": "KFC Japan official November new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "note": "All 11 November entries in the official 2026-11-20 update were found in latest.json."
+    },
+    {
+      "source": "PPIH official news releases",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "note": "MEGA Don Quijote Olympic Yokodai, announced 2026-11-24 for opening 2026-12-10, was already present."
+    },
+    {
+      "source": "My Basket official 2026 news",
+      "candidate_count": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "url": "https://www.mybasket.co.jp/news/detail/20261120145859.html",
+      "note": "The four stores announced for 2026-11-27 were already present."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "CHARLES & KEITH（LUCUA 1100）",
+      "expected_opening_date_options": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "reason": "Official LUCUA summary and individual shop page show conflicting dates; not changed."
+    },
+    {
+      "name": "namco（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026年12月上旬",
+      "reason": "Official facility page gives only a month-part window; no exact date."
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA（LUCUA SOUTH 11F）",
+      "expected_opening_window": "2027年2月",
+      "reason": "Official operator announcement gives month-only timing; no exact date."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2655,
+    "item_count_after": 2659,
+    "new_items": 4,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_update_response": true,
+    "all_added_records_found_after_read": true,
+    "latest_json_write_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "note": "The automation was found enabled with the existing hourly :15 schedule. The current run was recorded as in_progress when checked. No task settings were changed."
+  },
+  "note": "Added four confirmed ZENSHO-group store reopenings or brand conversion entries. Existing records were preserved in their prior relative order. Lawson, KFC, PPIH and My Basket checks found no additional missing entries in the checked candidates."
+}
