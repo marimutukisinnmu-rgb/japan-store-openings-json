@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T18:15:02+09:00",
+  "updatetime": "2026-11-24T19:15:07+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16333,6 +16333,13 @@
       "city": "新宿区",
       "opening_date": "2026-12-04",
       "category": "うなぎ料理"
+    },
+    {
+      "name": "トライアル西友小手指店",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "opening_date": "2026-12-04",
+      "category": "スーパーマーケット（再出店）"
     },
     {
       "name": "BONTEMPS 田川店",
