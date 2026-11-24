@@ -1,0 +1,206 @@
+{
+  "run_at": "2026-11-24T15:15:08+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "item_count": 2624,
+    "updatetime": "2026-11-24T15:15:08+09:00",
+    "update_status": "updated"
+  },
+  "changes": [
+    {
+      "type": "add",
+      "item": {
+        "name": "高価買取おたからや 柏原本郷店",
+        "prefecture": "大阪府",
+        "city": "柏原市",
+        "opening_date": "2026-11-23",
+        "category": "買取専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "E-Fran official store news and store pages"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "高価買取おたからや サンリブきふね店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-23",
+        "category": "買取専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "E-Fran official store news and store pages"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "高価買取おたからや コスモタウン佐伯店",
+        "prefecture": "大分県",
+        "city": "佐伯市",
+        "opening_date": "2026-11-23",
+        "category": "買取専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "E-Fran official store news and store pages"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "高価買取おたからや 熊本インター店",
+        "prefecture": "熊本県",
+        "city": "熊本市東区",
+        "opening_date": "2026-11-23",
+        "category": "買取専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "E-Fran official store news and store pages"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "鶏笑 湯島店",
+        "prefecture": "東京都",
+        "city": "文京区",
+        "opening_date": "2026-11-20",
+        "category": "からあげ専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "SRS Holdings / NIS official press release"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "Beauty Road Plus アル・プラザ宇治東店",
+        "prefecture": "京都府",
+        "city": "宇治市",
+        "opening_date": "2026-11-28",
+        "category": "コスメ・化粧品専門店"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "Heiwado official press release"
+    },
+    {
+      "type": "add",
+      "item": {
+        "name": "うなぎ四代目菊川（新宿東口店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-04",
+        "category": "うなぎ料理"
+      },
+      "reason": "Opening date, store name and city confirmed by the operator's official announcement or official store page.",
+      "source": "Passion Geeks official press release"
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "E-Fran official store news and store pages",
+      "candidate_count": 4,
+      "added": 4,
+      "matched_existing": 0,
+      "urls": [
+        "https://e-fran.jp/news/",
+        "https://www.otakaraya.jp/shop/kashiwarahongo/",
+        "https://www.otakaraya.jp/shop/ct-saiki/",
+        "https://www.otakaraya.jp/shop/s-kifune/",
+        "https://www.otakaraya.jp/shop/kumamoto-ic/"
+      ],
+      "note": "Four stores confirmed open on 2026-11-23; individual official pages confirm location and date."
+    },
+    {
+      "source": "Heiwado official press release",
+      "candidate_count": 1,
+      "added": 1,
+      "matched_existing": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000614.000096754.html",
+      "note": "Beauty Road Plus Al Plaza Uji East; opening date and address confirmed."
+    },
+    {
+      "source": "SRS Holdings / NIS official press release",
+      "candidate_count": 1,
+      "added": 1,
+      "matched_existing": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001075.000122416.html",
+      "note": "Torisho Yushima; opening date and address confirmed."
+    },
+    {
+      "source": "Passion Geeks official press release",
+      "candidate_count": 2,
+      "added": 1,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000059609.html",
+      "note": "Shinjuku East added; Akihabara UDX already existed."
+    },
+    {
+      "source": "Xebio Group official press release",
+      "candidate_count": 1,
+      "added": 0,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000001244.000004149.html"
+    },
+    {
+      "source": "Pronto Corporation official press release",
+      "candidate_count": 1,
+      "added": 0,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000018877.html"
+    },
+    {
+      "source": "Shin-Shizuoka Cenova official tenant page",
+      "candidate_count": 4,
+      "added": 0,
+      "matched_existing": 4,
+      "url": "https://www.cenova.jp/2026renewal/"
+    },
+    {
+      "source": "Domdom Food Service official press release",
+      "candidate_count": 1,
+      "added": 0,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000028112.html"
+    },
+    {
+      "source": "Watts official press releases",
+      "candidate_count": 3,
+      "added": 0,
+      "matched_existing": 3,
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000435.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000436.000084599.html",
+        "https://prtimes.jp/main/html/rd/p/000000434.000084599.html"
+      ]
+    },
+    {
+      "source": "Watami / Subway official press release",
+      "candidate_count": 1,
+      "added": 0,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000001987.000009215.html"
+    },
+    {
+      "source": "Showa Nishikawa official press release",
+      "candidate_count": 1,
+      "added": 0,
+      "matched_existing": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000443.000031377.html"
+    }
+  ],
+  "diagnostics": {
+    "previous_blob_sha": "c16e77f2bf189cd1779f3e9716c2089944aa9e81",
+    "updated_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "update_commit_sha": "4a470c720877206ceb7614d08881b6351c4295f0",
+    "item_count_before": 2617,
+    "item_count_after": 2624,
+    "new_items": 7,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_count": 0,
+    "duplicate_candidates_before_write": 0,
+    "update_error": null
+  },
+  "note": "Only officially confirmed missing stores were added. Candidates already present in the dataset were left unchanged. Existing entries were retained and date order was preserved."
+}
