@@ -1,0 +1,174 @@
+{
+  "run_at": "2026-11-24T09:22:56+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "checked_no_changes",
+  "before_count": 2617,
+  "added_count": 0,
+  "after_count": 2617,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "new_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "commit_sha": null,
+  "already_registered": [
+    {
+      "name": "MEGAドン・キホーテ Olympic 高井戸店",
+      "prefecture": "東京都",
+      "city": "杉並区",
+      "opening_date": "2026-12-01",
+      "note": "PPIH公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ロビン・フッド北新宿店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-01",
+      "note": "PPIH公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ロビン・フッド亀戸店",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-08",
+      "note": "PPIH公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ロビン・フッド朝霞泉水店",
+      "prefecture": "埼玉県",
+      "city": "朝霞市",
+      "opening_date": "2026-12-15",
+      "note": "PPIH公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "すき家 札幌平岡店",
+      "prefecture": "北海道",
+      "city": "札幌市清田区",
+      "opening_date": "2026-11-30",
+      "note": "すき家公式新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "東武ストア 春日部店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "opening_date": "2026-11-26",
+      "note": "東武ストア発表で確認、既存登録済み"
+    },
+    {
+      "name": "ゴーゴーカレーデリスタンドゆめマート永犬丸店",
+      "prefecture": "福岡県",
+      "city": "北九州市八幡西区",
+      "opening_date": "2026-11-20",
+      "note": "運営会社発表で確認、既存登録済み"
+    },
+    {
+      "name": "ゴンチャ 豊田T-FACE店",
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "opening_date": "2026-11-27",
+      "note": "ゴンチャ公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ゴンチャ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "note": "ゴンチャ公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ゴンチャ 富山MAROOT店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-12-10",
+      "note": "ゴンチャ公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "KFC 2026年11月新店11店舗",
+      "opening_dates": "2026-11-04〜2026-11-28",
+      "note": "KFC公式一覧の11店舗すべて既存登録済み"
+    },
+    {
+      "name": "KFC 2026年12月新店11店舗",
+      "opening_dates": "2026-12-04〜2026-12-30",
+      "note": "KFC公式一覧の11店舗すべて既存登録済み"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PPIH公式ニュースリリース一覧・高井戸店PDF・ロビン・フッド北新宿店PDF",
+      "url": "https://ppih.co.jp/news/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店・リニューアル日"
+      ]
+    },
+    {
+      "name": "KFC公式 11月新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8199",
+      "verified_fields": [
+        "11月新店11店舗の名称・開店日・住所"
+      ]
+    },
+    {
+      "name": "KFC公式 12月新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "verified_fields": [
+        "12月新店11店舗の名称・開店日・住所"
+      ]
+    },
+    {
+      "name": "すき家公式 新着情報",
+      "url": "https://www.sukiya.jp/news/",
+      "verified_fields": [
+        "札幌平岡店の新店告知・開店日"
+      ]
+    },
+    {
+      "name": "株式会社東武ストア発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000193892.html",
+      "verified_fields": [
+        "東武ストア春日部店の名称・開店日・所在地"
+      ]
+    },
+    {
+      "name": "ゴンチャ公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "verified_fields": [
+        "豊田T-FACE店・イオンモール伊達店・富山MAROOT店の名称・開店日"
+      ]
+    },
+    {
+      "name": "株式会社ゴーゴーカレーグループ発表",
+      "url": "https://tohakusha.com/main/html/rd/p/000000098.000075866.html",
+      "verified_fields": [
+        "店舗名・開店日・所在地"
+      ]
+    },
+    {
+      "name": "ベイシア公式ニュースリリース",
+      "url": "https://www.beisia.co.jp/news",
+      "verified_fields": [
+        "新規出店情報の更新有無"
+      ]
+    }
+  ],
+  "unconfirmed": [
+    "今回の検索対象外となる全国すべての個店・小規模事業者の新着発表は網羅確認できていない。未発見を新規出店なしの証明とは扱わない。"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "existing_records_preserved": true,
+    "latest_json_intentionally_unchanged": true,
+    "all_checked_candidates_already_registered": true,
+    "github_refetch_of_latest": true,
+    "latest_blob_sha_unchanged": true
+  },
+  "errors": [],
+  "note": "新規の確定候補が既存登録済みだったため latest.json は変更せず、updatetime も維持。実行ログのみ新規作成。"
+}
