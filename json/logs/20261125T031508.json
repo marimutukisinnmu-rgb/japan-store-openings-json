@@ -150,11 +150,6 @@
       "name": "伝丸 129号平塚田村店",
       "expected_reopening_window": "2026-12-08 09:00まで改装休業",
       "reason": "The official source states a temporary closure window but not an explicit reopening date."
-    },
-    {
-      "name": "三ツ境の追加候補（丸亀製麺・三本珈琲店）",
-      "expected_opening_window": "2026年11月27日",
-      "reason": "These were not pending; both were confirmed on the AEON Mitsukyo official shop list and added in this run."
     }
   ],
   "diagnostics": {
@@ -170,7 +165,8 @@
     "old_records_preserved_in_order": true,
     "post_read_sha_matches_update_response": true,
     "all_added_records_found_after_read": true,
-    "latest_json_write_error": null
+    "latest_json_write_error": null,
+    "official_source_systems": 8
   },
   "task_state": {
     "enabled": true,
@@ -181,5 +177,5 @@
     "last_run_completed_at": null,
     "note": "Automation peek returned is_enabled=true and the existing hourly :15 schedule. Run-history fields may lag the current execution; no automation settings were changed."
   },
-  "note": "Added four confirmed stores: three listed by the official AEON Mitsukyo facility site for 2026-11-27 and Gong cha Aeon Mall Funabashi for 2026-12-01. Existing records were preserved in their prior relative order."
+  "note": "Added four confirmed stores: three listed by the official AEON Mitsukyo facility site for 2026-11-27 and Gong cha Aeon Mall Funabashi for 2026-12-01. Existing records were preserved in their prior relative order. The five pending items are unrelated unresolved cases retained from earlier checks."
 }
