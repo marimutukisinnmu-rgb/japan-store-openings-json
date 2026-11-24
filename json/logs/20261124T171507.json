@@ -1,0 +1,120 @@
+{
+  "run_at": "2026-11-24T17:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "item_count": 2624,
+    "updatetime": "2026-11-24T15:15:08+09:00",
+    "update_status": "no_change"
+  },
+  "changes": [],
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 27,
+      "matched_existing": 27,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "note": "All listed domestic openings dated 2026-11-25 through 2026-12-04 matched existing records."
+    },
+    {
+      "source": "KFC Japan official December new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "note": "All 11 December openings matched existing records."
+    },
+    {
+      "source": "PPIH official domestic store announcements",
+      "candidate_count": 5,
+      "matched_existing": 5,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "note": "MEGA Don Quijote Olympic Yokodai, Robin Hood Kameido, Asaka Senzui and Kitashinjuku, and MEGA Don Quijote Olympic Takaido matched existing records."
+    },
+    {
+      "source": "VENEX official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://venex-j.co.jp/news/detail/1030.html",
+      "note": "neverbetter, Setagaya-ku, opening date 2026-11-15, matched existing record."
+    }
+  ],
+  "unconfirmed": [],
+  "diagnostics": {
+    "previous_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "updated_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "update_commit_sha": null,
+    "item_count_before": 2624,
+    "item_count_after": 2624,
+    "new_items": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "normalized_duplicate_candidate_groups": 11,
+    "normalized_duplicate_candidates": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      [
+        "サロモンストア 仙台パルコ",
+        "サロモンストア仙台パルコ店"
+      ],
+      [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      [
+        "無印良品 久喜吉羽",
+        "無印良品久喜吉羽"
+      ],
+      [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      [
+        "BIRTHDAY BAR アトレ中野店",
+        "BIRTHDAY BAR（アトレ中野）"
+      ],
+      [
+        "WithGreen アトレ中野店",
+        "WithGreen（アトレ中野）"
+      ],
+      [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    ],
+    "duplicate_detection_note": "Heuristic name normalization only. Candidate groups were not merged or deleted.",
+    "update_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "recorded_status_at_inspection": "in_progress",
+    "completed_at": null,
+    "note": "GitHub source checks and log write are independent of the scheduler's completion record."
+  },
+  "note": "No confirmed missing domestic stores were found in the reviewed official sources. latest.json was intentionally left unchanged; only this execution log was added. Nationwide coverage is not exhaustive."
+}
