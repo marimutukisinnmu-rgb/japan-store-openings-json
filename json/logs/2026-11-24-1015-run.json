@@ -1,0 +1,200 @@
+{
+  "run_at": "2026-11-24T10:15:04+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "checked_no_changes_conflicting_source",
+  "before_count": 2617,
+  "added_count": 0,
+  "after_count": 2617,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "new_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "commit_sha": null,
+  "already_registered": [
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-24",
+      "note": "POP MART JAPAN公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店",
+      "prefecture": "千葉県",
+      "city": "浦安市",
+      "opening_date": "2026-11-21",
+      "note": "PAPABUBBLE公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "ローソン 新松戸南",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-27",
+      "note": "ローソン公式全国・関東新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "ローソン 妙高諏訪町",
+      "prefecture": "新潟県",
+      "city": "妙高市",
+      "opening_date": "2026-12-03",
+      "note": "ローソン公式中部新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "ローソン 上越北城町",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "opening_date": "2026-12-03",
+      "note": "ローソン公式中部新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "ローソン 清水庵原町",
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "opening_date": "2026-12-04",
+      "note": "ローソン公式中部新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "ローソン 一宮祐久",
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "opening_date": "2026-12-04",
+      "note": "ローソン公式中部新店情報で確認、既存登録済み"
+    },
+    {
+      "name": "サブウェイ イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "note": "ワタミ公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "天丼専門店 ゑるびす イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "note": "サイプレス・ホールディングス公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "note": "サイプレス・ホールディングス公式発表で確認、既存登録済み"
+    },
+    {
+      "name": "麺場 田所商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "note": "既存登録済み。ただし公式情報間で開店日が不一致のため訂正保留"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ローソン公式 新店情報（全国および8地域別ページ）",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "verified_fields": [
+        "店舗名",
+        "都道府県",
+        "開店日",
+        "住所"
+      ],
+      "note": "2026-11-25〜2026-12-04の掲載店舗を照合。確認した掲載分は既存登録済み"
+    },
+    {
+      "name": "POP MART JAPAN公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "施設・所在地"
+      ]
+    },
+    {
+      "name": "PAPABUBBLE公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "施設・所在地"
+      ]
+    },
+    {
+      "name": "ワタミ公式プレスリリース（サブウェイ イオンモール伊達店）",
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "所在地"
+      ]
+    },
+    {
+      "name": "サイプレス・ホールディングス公式プレスリリース（ゑるびす・築地食堂 源ちゃん）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000182170.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "施設・所在地"
+      ]
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式店舗情報（麺場 田所商店 イオンモール伊達店）",
+      "url": "https://misoya.net/store/tadokoro-date/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店情報"
+      ],
+      "note": "店舗ページには2026-11-17 OPENと記載"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式新店告知",
+      "url": "https://try-international.co.jp/news/grand-opening/10082/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店予定日"
+      ],
+      "note": "2026-11-20 OPENと記載。別の公式店舗ページの2026-11-17と不一致"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式GRAND OPENING一覧",
+      "url": "https://try-international.co.jp/news/grand-opening/",
+      "verified_fields": [
+        "実際の開店告知"
+      ],
+      "note": "2026-11-20にオープンしたとの告知を確認"
+    },
+    {
+      "name": "プラージュグループ公式新着情報",
+      "url": "https://www.plus-plage.co.jp/news/",
+      "verified_fields": [
+        "新規出店予定の有無"
+      ],
+      "note": "大村店（仮称）は2027年春頃予定。正確な開店日未発表"
+    }
+  ],
+  "unconfirmed": [
+    "麺場 田所商店 イオンモール伊達店：latest.jsonは2026-11-27だが、運営会社の公式店舗ページは2026-11-17 OPEN、同社の公式告知は2026-11-20 OPENと記載。公式一次情報同士で日付が一致しないため、訂正せず保留。運営会社による明確な訂正・説明が必要。",
+    "理容・美容プラージュ大村店（仮称）：公式情報は2027年春頃のみで具体的な日付がなく、今回のJSON対象期間外となる可能性もあるため登録せず。",
+    "今回の検索対象外となる全国すべての個店・小規模事業者の新着発表は網羅確認できていない。"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "same_name_prefecture_city_date_duplicates": 0,
+    "existing_records_preserved": true,
+    "latest_json_intentionally_unchanged": true,
+    "all_confirmed_candidates_already_registered": true,
+    "date_conflict_flagged_for_manual_followup": true,
+    "github_refetch_of_latest": true,
+    "latest_blob_sha_unchanged": true
+  },
+  "errors": [],
+  "note": "新たに確認した確定候補は既存登録済み。麺場 田所商店 イオンモール伊達店について公式一次情報間に開店日の不一致を発見したため、latest.jsonは変更せず既存値を保護。実行ログのみ新規作成。"
+}
