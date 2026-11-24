@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T20:15:03+09:00",
+  "updatetime": "2026-11-24T22:15:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16347,6 +16347,27 @@
       "city": "所沢市",
       "opening_date": "2026-12-04",
       "category": "スーパーマーケット（再出店）"
+    },
+    {
+      "name": "BANDAI CANDY OFFICIAL SHOP ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-04",
+      "category": "キャラクター菓子・食玩専門店"
+    },
+    {
+      "name": "ぬいこれSHOP ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-04",
+      "category": "ぬいぐるみ公式ショップ"
+    },
+    {
+      "name": "ガンダムカードゲーム 公式ショップ 大阪 ルクア サウス店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-04",
+      "category": "トレーディングカードゲーム公式ショップ"
     },
     {
       "name": "BONTEMPS 田川店",
