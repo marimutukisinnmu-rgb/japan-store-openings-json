@@ -133,13 +133,16 @@
     "latest_json_write_error": null
   },
   "task_state": {
-    "enabled": true,
+    "enabled": false,
     "schedule": "HOURLY;BYMINUTE=15",
     "timezone": "Asia/Tokyo",
     "current_run_recorded_status": "in_progress",
     "current_run_completed_at": null,
     "next_run_time": "2026-11-25T02:15:00+09:00",
-    "note": "The automation is enabled with its existing hourly :15 schedule. The management record for this execution was still in_progress when inspected; no task settings were changed."
+    "note": "The automation is enabled with its existing hourly :15 schedule. The management record for this execution was still in_progress when inspected; no task settings were changed.",
+    "disabled_after_run": true,
+    "disable_reason": "Automation runtime completion handling after this successful scheduled run; the recurring schedule itself was not edited.",
+    "final_checked_at": "2026-11-25T02:17:48+09:00"
   },
   "note": "Added one confirmed Cocos Sasaoki renovation reopening for 2026-12-05. Existing records were retained in their prior relative order. Lawson, KFC, PPIH and My Basket candidates checked in this run were already represented. Two additional Zensho temporary-closure cases remain unconfirmed because no explicit reopening date was found."
 }
