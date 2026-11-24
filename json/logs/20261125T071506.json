@@ -1,0 +1,288 @@
+{
+  "run_at": "2026-11-25T07:15:06+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "6ba981d6b298f123a3017ce5a1f3d3a24924ac0c",
+    "blob_sha": "6339ad5da6a9c6236ab401e63193c248a09b27f9",
+    "update_commit_sha": "08871463f8c09a6c55a70bb75d108fb086212b19",
+    "item_count": 2668,
+    "previous_item_count": 2665,
+    "updatetime": "2026-11-25T07:15:06+09:00",
+    "update_status": "updated",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ピエール・エルメ・パリ 札幌三越",
+        "prefecture": "北海道",
+        "city": "札幌市中央区",
+        "opening_date": "2026-11-20",
+        "category": "パティスリー・ショコラ専門店",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000050.000038890.html"
+      },
+      {
+        "name": "ドラゴンホットポット 六本木店",
+        "prefecture": "東京都",
+        "city": "港区",
+        "opening_date": "2026-11-16",
+        "category": "麻辣湯専門店",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000011.000177619.html"
+      },
+      {
+        "name": "SMAAK 博多",
+        "prefecture": "福岡県",
+        "city": "福岡市博多区",
+        "opening_date": "2026-12-10",
+        "category": "イノベーティブレストラン",
+        "source_url": "https://prtimes.jp/main/html/rd/p/000000066.000041874.html"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 3,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 27,
+      "matched_existing": 27,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "note": "Current official rows from 2026-11-25 through 2026-12-04 were compared by normalized name, opening date, prefecture, and city. All 27 candidates already existed in latest.json."
+    },
+    {
+      "source": "KFC Japan official December 2026 new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "note": "All 11 December openings in the official announcement were already represented."
+    },
+    {
+      "source": "PH PARIS JAPON official announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000038890.html",
+      "note": "The operator's announcement confirms the Sapporo Mitsukoshi boutique opening on 2026-11-20."
+    },
+    {
+      "source": "Dragon Hot Pot operator official announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000011.000177619.html",
+      "note": "The operator's announcement confirms the Roppongi store opening on 2026-11-16 and gives its Minato-ku address."
+    },
+    {
+      "source": "Granada official announcement for SMAAK Hakata",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000041874.html",
+      "note": "The operator's announcement confirms the 2026-12-10 opening at JR Hakata City, City Dining Kuuten 9F."
+    },
+    {
+      "source": "Tanaka Shoten / Tanaka Soba official store announcement and PARCO release",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "supporting_urls": [
+        "https://tanaka-shoten.net/information/",
+        "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+      ],
+      "note": "The 2026-12-03 Sendai PARCO2 opening was already present under the variant name 中華そば専門 田中そば店（仙台PARCO2）."
+    },
+    {
+      "source": "Juchheim official Yann Couvreur announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000224.000034027.html",
+      "note": "The 2026-12-02 Isetan Shinjuku opening was already present."
+    },
+    {
+      "source": "Y's / CARINITO operator announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.atpress.ne.jp/news/650735",
+      "note": "CARINITO OKINAWA | KOZA was already present for 2026-12-20."
+    },
+    {
+      "source": "PRONTO Corporation corrected official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000018877.html",
+      "note": "PRONTO Coffee Garden nonowa Kunitachi was already present for 2026-12-15."
+    },
+    {
+      "source": "UKAI official announcements",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.ukai.co.jp/whatsnew/",
+      "note": "THE UKAI TOFUYA was already present for 2026-12-12."
+    },
+    {
+      "source": "TNT MARKET official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000050324.html",
+      "note": "New Taiyo no To Parlor was already present for 2026-12-01."
+    },
+    {
+      "source": "SY Food official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000019.000183380.html",
+      "note": "Sekai no Yamachan Honten Bekkan was already present for 2026-12-03."
+    },
+    {
+      "source": "Grace official announcement for wanna manna",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000137.000036360.html",
+      "note": "wanna manna Osaka Umeda was already present for 2026-12-02."
+    },
+    {
+      "source": "GRACE official announcement for Yokohama Yōshoku Kamometei",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000084389.html",
+      "note": "Yokohama Yōshoku Kamometei was already present for 2026-12-17."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "CHARLES & KEITH（LUCUA 1100）",
+      "expected_opening_date_options": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "reason": "Japanese and English official LUCUA pages still conflict; no date correction made.",
+      "supporting_urls": [
+        "https://www.lucua.jp/shopguide/openclose/",
+        "https://www.lucua.jp/en/shopguide/openclose/"
+      ]
+    },
+    {
+      "name": "namco（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026年12月上旬",
+      "reason": "The official facility page gives only a broad opening window.",
+      "supporting_urls": [
+        "https://www.lucua.jp/shopguide/openclose/"
+      ]
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA",
+      "expected_opening_window": "2027年2月",
+      "reason": "The official announcement does not specify an exact date.",
+      "supporting_urls": [
+        "https://www.gundam-base.net/news/81342.html"
+      ]
+    },
+    {
+      "name": "すき家 潮見店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official page states the renovation closure period but does not explicitly confirm a reopening date.",
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/286.html"
+      ]
+    },
+    {
+      "name": "伝丸 129号平塚田村店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official page states the renovation closure period but does not explicitly confirm a reopening date.",
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/3968.html"
+      ]
+    },
+    {
+      "name": "WA-LAB（川越駅西口）",
+      "expected_opening_window": "2026-11-30 プレオープンとの地域報道",
+      "reason": "Only local reporting was found; no official operator announcement was confirmed.",
+      "supporting_urls": [
+        "https://kawagoe.goguynet.jp/2026/11/24/openmae_walab/"
+      ]
+    }
+  ],
+  "potential_duplicates": [
+    {
+      "names": [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      "opening_date": "2026-11-25",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "reason": "One official Lawson listing corresponds to two differently named existing records; both preserved."
+    },
+    {
+      "names": [
+        "SQUARE ENIX NEXUS（LUCUA SOUTH）",
+        "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）"
+      ],
+      "opening_date": "2026-12-23",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "reason": "Official name and provisional-name record coexist; neither merged nor deleted."
+    },
+    {
+      "names": [
+        "WECLE 自由が丘店",
+        "ピラティス ウィークル（WECLE）自由が丘店"
+      ],
+      "opening_date": "2027-01-26",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "reason": "Same brand, location, and date under two name variants; both preserved."
+    },
+    {
+      "names": [
+        "bebeswan POPUP（北千住マルイ）",
+        "bebeswan POPUPイベント（北千住マルイ）"
+      ],
+      "opening_date": "2026-11-20",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "reason": "Same brand, facility, and start date under similar event names; both preserved."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2665,
+    "item_count_after": 2668,
+    "new_items": 3,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_write": true,
+    "all_additions_verified_after_read": true,
+    "latest_json_write_error": null,
+    "official_source_systems": 14
+  },
+  "task_state_at_check": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T07:15:00+09:00",
+    "recorded_status": "in_progress",
+    "completed_at": null,
+    "state_check": "success",
+    "note": "The task was enabled when checked. Its recorded run remained in_progress with completed_at unset; latest published result was from an older run."
+  }
+}
