@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T19:15:07+09:00",
+  "updatetime": "2026-11-24T20:15:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15999,6 +15999,13 @@
       "category": "ハワイアンカフェ・レストラン"
     },
     {
+      "name": "世界の山ちゃん 本店別館",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-03",
+      "category": "居酒屋・手羽先料理"
+    },
+    {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -16480,6 +16487,13 @@
       "city": "江東区",
       "opening_date": "2026-12-08",
       "category": "食品強化型ディスカウントストア"
+    },
+    {
+      "name": "パークタワー川口本町",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-12-08",
+      "category": "コンビニ"
     },
     {
       "name": "３COINS＋plus（アトレ中野）",
@@ -17824,6 +17838,13 @@
       "city": "占冠村",
       "opening_date": "2026-12-20",
       "category": "期間限定観光施設（冬季営業）"
+    },
+    {
+      "name": "CARINITO OKINAWA | KOZA",
+      "prefecture": "沖縄県",
+      "city": "沖縄市",
+      "opening_date": "2026-12-20",
+      "category": "タコス専門店"
     },
     {
       "name": "ガスト ミュープラット神宮前店",
