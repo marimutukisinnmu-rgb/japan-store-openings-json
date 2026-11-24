@@ -1,0 +1,216 @@
+{
+  "run_at": "2026-11-24T11:15:07+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "checked_no_changes_all_official_candidates_already_registered",
+  "before_count": 2617,
+  "added_count": 0,
+  "after_count": 2617,
+  "changed_count": 0,
+  "deleted_count": 0,
+  "old_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "new_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "commit_sha": null,
+  "checked_candidates": {
+    "total": 73,
+    "already_registered": 73,
+    "missing": 0,
+    "breakdown": [
+      {
+        "source": "ローソン公式 全国新店情報",
+        "count": 39,
+        "matched": 39
+      },
+      {
+        "source": "日本KFC公式 2026年12月新店情報",
+        "count": 11,
+        "matched": 11
+      },
+      {
+        "source": "ビーケー・ジャパン公式発表（PR TIMES）",
+        "count": 16,
+        "matched": 16
+      },
+      {
+        "source": "PPIH公式発表",
+        "count": 4,
+        "matched": 4
+      },
+      {
+        "source": "ベイシア公式発表",
+        "count": 1,
+        "matched": 1
+      },
+      {
+        "source": "桐松屋公式発表",
+        "count": 1,
+        "matched": 1
+      },
+      {
+        "source": "日本マクドナルド公式採用店舗ページ",
+        "count": 1,
+        "matched": 1
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "ローソン公式 全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/index.html",
+      "verified_fields": [
+        "店舗名",
+        "都道府県",
+        "開店日",
+        "住所"
+      ],
+      "note": "2026-11-12〜2026-12-04の掲載39店舗を照合し、全件既存登録済み"
+    },
+    {
+      "name": "日本ケンタッキー・フライド・チキン公式 12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "住所"
+      ],
+      "note": "2026年12月の11店舗を照合し、全件既存登録済み"
+    },
+    {
+      "name": "株式会社ビーケー・ジャパン公式プレスリリース（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日時",
+        "住所"
+      ],
+      "note": "2026年11月〜12月中旬の16店舗を照合し、全件既存登録済み"
+    },
+    {
+      "name": "PPIH公式ニュースリリース",
+      "url": "https://ppih.co.jp/news/",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "住所"
+      ],
+      "note": "ロビン・フッド北新宿店、MEGAドン・キホーテ Olympic 高井戸店、ロビン・フッド亀戸店、ロビン・フッド朝霞泉水店の4店舗を照合し、全件既存登録済み"
+    },
+    {
+      "name": "ベイシア公式プレスリリース",
+      "url": "https://www.beisia.co.jp/news/",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "住所"
+      ],
+      "note": "Beisia Foods Park 玉ノ井店（2026-12-04）、既存登録済み"
+    },
+    {
+      "name": "桐松屋公式オープン告知",
+      "url": "https://www.kirimatsuya.com/news-newopen",
+      "verified_fields": [
+        "店舗名",
+        "プレオープン日",
+        "グランドオープン日",
+        "所在地"
+      ],
+      "note": "桐松屋（東京都墨田区、2026-12-01グランドオープン）、既存登録済み"
+    },
+    {
+      "name": "日本マクドナルド公式採用店舗ページ",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/a12731",
+      "verified_fields": [
+        "店舗名",
+        "グランドオープン日",
+        "住所"
+      ],
+      "note": "マクドナルド 柏駅東口店（2026-12-10）、既存登録済み"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式店舗情報",
+      "url": "https://misoya.net/store/tadokoro-date/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店情報"
+      ],
+      "note": "麺場 田所商店 イオンモール伊達店の店舗ページは2026-11-17 OPENと記載"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式開店告知",
+      "url": "https://misoya.net/news/open-amdate/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店告知"
+      ],
+      "note": "2026-11-20公開の告知タイトルに「11月20日オープンいたしました」と記載"
+    }
+  ],
+  "data_quality_warnings": {
+    "normalized_identity_duplicate_groups": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      [
+        "無印良品 久喜吉羽",
+        "無印良品久喜吉羽"
+      ],
+      [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    ],
+    "normalized_identity_duplicate_group_count": 7,
+    "possible_alias_pairs_not_counted_above": [
+      [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      [
+        "WECLE 自由が丘店",
+        "ピラティス ウィークル（WECLE）自由が丘店"
+      ]
+    ],
+    "note": "各組は店舗名表記やカテゴリに差があるが、同一店舗・同一所在地・同一開店日の可能性が高い。今回の更新では削除・統合せず、既存データを保持した。完全一致するレコードオブジェクトの重複は0件。"
+  },
+  "unconfirmed": [
+    "麺場 田所商店 イオンモール伊達店：latest.jsonは2026-11-27。公式店舗ページは2026-11-17 OPEN、公式開店告知は2026-11-20オープンと記載。公式一次情報間で一致しないため訂正保留。",
+    "セカンドストリート クロスモール近江八幡店：二次情報で2026-12-04開店との情報は確認できたが、今回、運営元の公式一次情報で日付を独立確認できず追加・訂正していない。",
+    "万代 堅田店・万代 栗東小柿店、スギ薬局 荻窪八幡通店など、開店時期が「12月上旬」等にとどまり正確な日付が確認できない候補は登録していない。",
+    "全国すべての小規模事業者・個店の発表を網羅したものではない。"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "normalized_identity_duplicate_groups": 7,
+    "existing_records_preserved": true,
+    "latest_json_intentionally_unchanged": true,
+    "all_73_checked_official_candidates_already_registered": true,
+    "github_refetch_of_latest": true,
+    "latest_blob_sha_unchanged": true
+  },
+  "errors": [],
+  "note": "公式一次情報から照合した73件はすべてlatest.jsonに登録済み。新規追加・訂正対象がないためlatest.jsonは変更せず、データ品質上の同一店舗重複候補と開店日不一致をログに記録。"
+}
