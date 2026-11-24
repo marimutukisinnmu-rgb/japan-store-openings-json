@@ -1,0 +1,230 @@
+{
+  "run_at": "2026-11-25T06:15:10+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "fac13ba567d75ab79a6deabafc49da569afeb8ac",
+    "blob_sha": "6ba981d6b298f123a3017ce5a1f3d3a24924ac0c",
+    "update_commit_sha": "192c4e13ed93c9e8a86270f89aa53f9cee51ad1f",
+    "item_count": 2665,
+    "previous_item_count": 2664,
+    "updatetime": "2026-11-25T06:15:10+09:00",
+    "update_status": "updated",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "伝丸 つきみ野店",
+        "prefecture": "神奈川県",
+        "city": "大和市",
+        "opening_date": "2026-11-27",
+        "category": "ラーメン店（業態転換・リニューアル）",
+        "source_url": "https://maps.zensho.co.jp/jp/detail/4042.html"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 1,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 26,
+      "matched_existing": 26,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "note": "The visible official rows from 2026-11-26 through 2026-12-04 were matched against latest.json by normalized store name, opening date, prefecture, and city."
+    },
+    {
+      "source": "KFC Japan official December 2026 new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "note": "All 11 December openings in the official announcement were present in latest.json."
+    },
+    {
+      "source": "PPIH official domestic store announcements",
+      "candidate_count": 5,
+      "matched_existing": 5,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "supporting_urls": [
+        "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+        "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+        "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+        "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+      ],
+      "note": "Yokodai, Robin Hood Kameido, Asaka Sensui, Kitashinjuku, and Olympic TakaiDo matched existing records. The 2027-03-02 Shimu-Sakashita opening is outside the current data period."
+    },
+    {
+      "source": "My Basket official 2026 opening and renovation announcements",
+      "candidate_count": 12,
+      "matched_existing": 12,
+      "added": 0,
+      "url": "https://www.mybasket.co.jp/news/2026/",
+      "supporting_urls": [
+        "https://www.mybasket.co.jp/news/detail/20261120145859.html",
+        "https://www.mybasket.co.jp/news/detail/20261116142534.html",
+        "https://www.mybasket.co.jp/news/detail/20261116142821.html",
+        "https://www.mybasket.co.jp/news/detail/20261105140848.html",
+        "https://www.mybasket.co.jp/news/detail/20261009232041.html"
+      ],
+      "note": "The November 6, November 20, November 27 openings and December 4, December 11, and December 18 renovations were matched to existing records."
+    },
+    {
+      "source": "Zensho official store pages",
+      "candidate_count": 5,
+      "matched_existing": 3,
+      "added": 1,
+      "unconfirmed": 2,
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/4042.html",
+        "https://maps.zensho.co.jp/jp/detail/4049.html",
+        "https://maps.zensho.co.jp/jp/detail/286.html",
+        "https://maps.zensho.co.jp/jp/detail/3968.html",
+        "https://maps.sukiya.jp/jp/detail/6639.html"
+      ],
+      "note": "Denmaru Tsukimino was newly confirmed for 2026-11-27 and added. Denmaru Kojiya and Sukiya Sapporo Hiraoka were already present. Shiomi and Denmaru 129 Hiratsuka-Tamura pages state renovation closure periods but no explicit reopening date."
+    },
+    {
+      "source": "Operator and facility announcements for additional stores",
+      "candidate_count": 8,
+      "matched_existing": 8,
+      "added": 0,
+      "supporting_urls": [
+        "https://www.kirimatsuya.com/news-newopen",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+        "https://www.atpress.ne.jp/news/646337",
+        "https://www.atpress.ne.jp/b/qEULfNPxhO",
+        "https://prtimes.jp/main/html/rd/p/000000502.000063326.html"
+      ],
+      "note": "Kirimatsuya, WithGreen Hikarigaoka IMA, LAKOLE Sunshine City ALTA, Timeout Market Osaka shops, ECOFIT24 Ueda Ipponmatsu, Cafe Laduree Shin-Marunouchi, Taco Bell Kichijoji, and La Patisserie Cyril Lignac were already represented in latest.json."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "CHARLES & KEITH（LUCUA 1100）",
+      "expected_opening_date_options": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "reason": "The Japanese and English official LUCUA pages still conflict. No date correction was made.",
+      "supporting_urls": [
+        "https://www.lucua.jp/shopguide/openclose/",
+        "https://www.lucua.jp/en/shopguide/openclose/"
+      ]
+    },
+    {
+      "name": "namco（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026年12月上旬",
+      "reason": "The official facility page gives only a broad opening window.",
+      "supporting_urls": [
+        "https://www.lucua.jp/shopguide/openclose/"
+      ]
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA",
+      "expected_opening_window": "2027年2月",
+      "reason": "The official announcement does not specify an exact date.",
+      "supporting_urls": [
+        "https://www.gundam-base.net/news/81342.html"
+      ]
+    },
+    {
+      "name": "すき家 潮見店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official page states the renovation closure period but does not explicitly confirm a reopening date.",
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/286.html"
+      ]
+    },
+    {
+      "name": "伝丸 129号平塚田村店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official page states the renovation closure period but does not explicitly confirm a reopening date.",
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/3968.html"
+      ]
+    },
+    {
+      "name": "WA-LAB（川越駅西口）",
+      "expected_opening_window": "2026-11-30 プレオープンとの地域報道",
+      "reason": "Only local reporting was found; no official operator announcement was confirmed.",
+      "supporting_urls": [
+        "https://kawagoe.goguynet.jp/2026/11/24/openmae_walab/"
+      ]
+    }
+  ],
+  "potential_duplicates": [
+    {
+      "names": [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      "opening_date": "2026-11-25",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "reason": "Same official Lawson listing under different names; both preserved."
+    },
+    {
+      "names": [
+        "SQUARE ENIX NEXUS（LUCUA SOUTH）",
+        "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）"
+      ],
+      "opening_date": "2026-12-23",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "reason": "Official name and provisional-name record coexist; neither merged nor deleted."
+    },
+    {
+      "names": [
+        "WECLE 自由が丘店",
+        "ピラティス ウィークル（WECLE）自由が丘店"
+      ],
+      "opening_date": "2027-01-26",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "reason": "Same brand, location, and date under two name variants; both preserved."
+    },
+    {
+      "names": [
+        "bebeswan POPUP（北千住マルイ）",
+        "bebeswan POPUPイベント（北千住マルイ）"
+      ],
+      "opening_date": "2026-11-20",
+      "prefecture": "東京都",
+      "city": "足立区",
+      "reason": "Same brand, facility, and start date under similar event names; both preserved."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2664,
+    "item_count_after": 2665,
+    "new_items": 1,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_fetch_response": true,
+    "all_changes_verified_after_read": true,
+    "latest_json_write_error": null,
+    "official_source_systems": 6
+  },
+  "task_state_at_check": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T06:15:00+09:00",
+    "state_check": "success",
+    "note": "The automation was enabled when checked during this run. The last-run record still showed in_progress with no completed_at; the latest published result belonged to an older run. No schedule settings were edited during data processing."
+  }
+}
