@@ -1,0 +1,193 @@
+{
+  "run_at": "2026-11-24T21:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "3020130e98eb558d944de67123dfabbe5a0f9e60",
+    "blob_sha": "3020130e98eb558d944de67123dfabbe5a0f9e60",
+    "update_commit_sha": null,
+    "item_count": 2634,
+    "previous_item_count": 2634,
+    "updatetime": "2026-11-24T20:15:03+09:00",
+    "update_status": "unchanged",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 0,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 40,
+      "matched_existing": 40,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/",
+      "note": "All 40 currently listed entries matched existing JSON records, including the 2026-12-08 Park Tower Kawaguchi Honcho store."
+    },
+    {
+      "source": "KFC official December 2026 new-store list",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "note": "All 11 listed December openings matched existing records."
+    },
+    {
+      "source": "PPIH official domestic store announcements",
+      "candidate_count": 8,
+      "matched_existing": 8,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "note": "Five December domestic store/conversion announcements and three February 2027 Olympic conversions were already registered."
+    },
+    {
+      "source": "JR West SC Development official LUCUA SOUTH release",
+      "candidate_count": 28,
+      "matched_existing": 28,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000247.000014414.html",
+      "note": "All 28 stores scheduled for the 2026-11-24 phase-two opening matched existing records, including PUPPET SUNSUN STORE Umeda."
+    },
+    {
+      "source": "PAPABUBBLE official release dated 2026-11-24",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000602.000018984.html",
+      "note": "PAPABUBBLE Daimaru Umeda, 2026-12-01, already registered."
+    },
+    {
+      "source": "JR East Cross Station official release for &found",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001291.000082978.html",
+      "note": "&found at Gransta Tokyo, 2026-12-15, already registered."
+    },
+    {
+      "source": "Pronto Corporation official release for Pronto Coffee Garden",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000357.000018877.html",
+      "note": "Pronto Coffee Garden nonowa Kunitachi, 2026-12-15, already registered."
+    },
+    {
+      "source": "Granada official release for SMAAK Hakata",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000066.000041874.html",
+      "note": "SMAAK by Jacob Jan Boerma Hakata, 2026-12-10, already registered."
+    },
+    {
+      "source": "Daitouen official Ishawa store page",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://daitouen.jp/shop/isawa",
+      "note": "Daitouen Isawa, 2026-12-04, already registered."
+    },
+    {
+      "source": "Tokyo Solamachi official Food Marche renewal page",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.tokyo-solamachi.jp/food_marche/",
+      "note": "Oniku no Senmonten Sugimoto, 2026-11-30, explicitly listed and already registered."
+    },
+    {
+      "source": "Juchheim official release for Yann Couvreur",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000224.000034027.html",
+      "note": "Yann Couvreur at Isetan Shinjuku, 2026-12-02, already registered."
+    },
+    {
+      "source": "KISSUI GROUP official release for Tsukishima Monja Kotetsu",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000186441.html",
+      "note": "Tsukishima Monja Kotetsu Aeon Mall Date, 2026-11-27, already registered."
+    },
+    {
+      "source": "Gong cha Japan official release for Akihabara UDX",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000452.000048503.html",
+      "note": "Gong cha Akihabara UDX, 2026-11-19, already registered."
+    },
+    {
+      "source": "Mitsui Fudosan Commercial Management official outlet opening release",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "note": "CASIO WATCH OUTLET Jazz Dream Nagashima, 2026-12-11, already registered."
+    },
+    {
+      "source": "GYRO HOLDINGS official BAKERIES LAB release",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "note": "BAKERIES LAB Sunamachi Ginza, 2026-11-21, already registered."
+    },
+    {
+      "source": "Y's operator announcement for CARINITO OKINAWA | KOZA",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.atpress.ne.jp/news/650735",
+      "note": "CARINITO OKINAWA | KOZA, 2026-12-20, already registered."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "ナムコ（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026-12 early",
+      "date_precision": "month-only",
+      "reason": "The official LUCUA store guide states only '12月上旬 NEW OPEN'; no exact calendar date was found. Not added."
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA（LUCUA SOUTH 11F）",
+      "expected_opening_window": "2027-02",
+      "date_precision": "month-only",
+      "reason": "The operator's official release says it is planned for February 2027 and that details will be announced later; no exact opening day was found. Not added."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2634,
+    "item_count_after": 2634,
+    "new_items": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "latest_json_blob_sha_unchanged": true,
+    "post_read_sha_matches_fetch_response": true,
+    "latest_json_write_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-24T21:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "completed_at": null,
+    "note": "Task is enabled and schedule unchanged. Management-side completion for the current run was not yet recorded."
+  },
+  "note": "No exact-date candidate was missing from the existing JSON. latest.json was left untouched; this run added only the execution log. Two month-only openings remain unconfirmed and were not inserted."
+}
