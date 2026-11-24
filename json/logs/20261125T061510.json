@@ -93,18 +93,20 @@
     },
     {
       "source": "Operator and facility announcements for additional stores",
-      "candidate_count": 8,
-      "matched_existing": 8,
+      "candidate_count": 9,
+      "matched_existing": 9,
       "added": 0,
       "supporting_urls": [
         "https://www.kirimatsuya.com/news-newopen",
         "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
         "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
         "https://www.atpress.ne.jp/news/646337",
+        "https://www.atpress.ne.jp/news/1340669",
+        "https://prtimes.jp/main/html/rd/p/000000021.000147415.html",
         "https://www.atpress.ne.jp/b/qEULfNPxhO",
         "https://prtimes.jp/main/html/rd/p/000000502.000063326.html"
       ],
-      "note": "Kirimatsuya, WithGreen Hikarigaoka IMA, LAKOLE Sunshine City ALTA, Timeout Market Osaka shops, ECOFIT24 Ueda Ipponmatsu, Cafe Laduree Shin-Marunouchi, Taco Bell Kichijoji, and La Patisserie Cyril Lignac were already represented in latest.json."
+      "note": "Kirimatsuya, WithGreen Hikarigaoka IMA, LAKOLE Sunshine City ALTA, Kitashinchi Celebrité, Dojima KITAGAWA, ECOFIT24 Ueda Ipponmatsu, Cafe Laduree Shin-Marunouchi, Taco Bell Kichijoji, and La Patisserie Cyril Lignac were already represented in latest.json."
     }
   ],
   "unconfirmed": [
