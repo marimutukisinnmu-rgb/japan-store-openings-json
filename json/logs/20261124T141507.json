@@ -1,0 +1,110 @@
+{
+  "run_at": "2026-11-24T14:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "blob_sha": "c16e77f2bf189cd1779f3e9716c2089944aa9e81",
+    "item_count": 2617,
+    "updatetime": "2026-11-24T14:15:07+09:00",
+    "update_status": "updated"
+  },
+  "changes": [
+    {
+      "type": "correction",
+      "old": {
+        "name": "MEGA ドン・キホーテ洋光台店（仮称）",
+        "opening_date": "2026-12-15"
+      },
+      "new": {
+        "name": "MEGA ドン・キホーテ Olympic 洋光台店",
+        "opening_date": "2026-12-10"
+      },
+      "reason": "PPIH/DONKI's official release dated 2026-11-24 explicitly announces the store under the definitive name MEGA ドン・キホーテ Olympic 洋光台店, opening 2026-12-10 at 9:00. This later primary-source announcement supersedes the prior provisional 2026-12-15 listing."
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "candidate_count": 27,
+      "matched_existing": 27,
+      "missing": 0,
+      "note": "The 2026-11-25 through 2026-12-04 entries all matched. One location/date/name-normalized candidate (LAWSON + toks 等々力緑地) maps to two existing differently formatted records; both were preserved."
+    },
+    {
+      "source": "KFC official December 2026 new-store announcement",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "missing": 0
+    },
+    {
+      "source": "PPIH/DONKI official Yokodai opening announcement",
+      "url": "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "corrected": 1,
+      "missing": 0
+    },
+    {
+      "source": "PPIH official domestic store announcements",
+      "url": "https://ppih.co.jp/news/",
+      "candidate_count": 4,
+      "matched_existing": 4,
+      "missing": 0,
+      "checked": [
+        {
+          "name": "ロビン・フッド北新宿店",
+          "date": "2026-12-01",
+          "matched": true
+        },
+        {
+          "name": "MEGA ドン・キホーテ Olympic 高井戸店",
+          "date": "2026-12-01",
+          "matched": true
+        },
+        {
+          "name": "ロビン・フッド亀戸店",
+          "date": "2026-12-08",
+          "matched": true
+        },
+        {
+          "name": "ロビン・フッド朝霞泉水店",
+          "date": "2026-12-15",
+          "matched": true
+        }
+      ]
+    },
+    {
+      "source": "PARCO Sendai PARCO2 official shop-opening announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "candidate_count": 6,
+      "matched_existing": 6,
+      "missing": 0
+    }
+  ],
+  "out_of_scope_candidates": [
+    {
+      "name": "MEGA ドン・キホーテ Olympic 志村坂下店",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "opening_date": "2027-03-02",
+      "source": "https://ppih.co.jp/news/pdf/261117_news_Olympic_Mar.pdf",
+      "reason": "Verified official announcement, but the current dataset period ends on 2027-02-28; not inserted and period scope was not changed."
+    }
+  ],
+  "diagnostics": {
+    "previous_blob_sha": "412ee151edff6092dcccd33525445959062cf28b",
+    "updated_blob_sha": "c16e77f2bf189cd1779f3e9716c2089944aa9e81",
+    "update_commit_sha": "e3e11a7a43565627ac8969ec7f394cb361274b2b",
+    "item_count_before": 2617,
+    "item_count_after": 2617,
+    "required_field_missing": 0,
+    "invalid_date": 2617,
+    "date_sorted": true,
+    "exact_duplicate_count": 0,
+    "whitespace_normalized_duplicate_groups": 7
+  },
+  "note": "Only the Yokodai record was changed. Existing normalized duplicate groups were left untouched. The 2027-03-02 Shimura-Sakashita announcement is verified but outside the current JSON period."
+}
