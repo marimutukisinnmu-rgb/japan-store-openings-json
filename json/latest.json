@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-25T06:15:10+09:00",
+  "updatetime": "2026-11-25T07:15:06+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10308,6 +10308,13 @@
       "category": "ラーメン店"
     },
     {
+      "name": "ドラゴンホットポット 六本木店",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-16",
+      "category": "麻辣湯専門店"
+    },
+    {
       "name": "chocoZAP 花川戸二丁目",
       "prefecture": "東京都",
       "city": "台東区",
@@ -12406,6 +12413,13 @@
       "city": "文京区",
       "opening_date": "2026-11-20",
       "category": "からあげ専門店"
+    },
+    {
+      "name": "ピエール・エルメ・パリ 札幌三越",
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "opening_date": "2026-11-20",
+      "category": "パティスリー・ショコラ専門店"
     },
     {
       "name": "BAKERIES LAB.砂町銀座店",
@@ -17509,6 +17523,13 @@
       "city": "横浜市磯子区",
       "opening_date": "2026-12-10",
       "category": "総合ディスカウントストア（業態転換・リニューアル）"
+    },
+    {
+      "name": "SMAAK 博多",
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "opening_date": "2026-12-10",
+      "category": "イノベーティブレストラン"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
