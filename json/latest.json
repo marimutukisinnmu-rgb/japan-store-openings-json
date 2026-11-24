@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-25T01:15:02+09:00",
+  "updatetime": "2026-11-25T02:15:02+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16585,6 +16585,13 @@
       "city": "昭島市",
       "opening_date": "2026-12-05",
       "category": "住宅展示場・暮らし体験施設"
+    },
+    {
+      "name": "ココス 笹沖店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-12-05",
+      "category": "ファミリーレストラン（リニューアル）"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
