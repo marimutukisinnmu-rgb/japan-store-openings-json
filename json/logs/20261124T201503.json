@@ -1,0 +1,113 @@
+{
+  "run_at": "2026-11-24T20:15:03+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "fa55f97c6e30efc3c11e848e2940ca8db8444e46",
+    "blob_sha": "3020130e98eb558d944de67123dfabbe5a0f9e60",
+    "update_commit_sha": "31b416a9ac4a199f69731743667602efd647b9e0",
+    "item_count": 2634,
+    "previous_item_count": 2631,
+    "updatetime": "2026-11-24T20:15:03+09:00",
+    "update_status": "updated",
+    "post_write_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "世界の山ちゃん 本店別館",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-12-03",
+        "category": "居酒屋・手羽先料理"
+      },
+      {
+        "name": "パークタワー川口本町",
+        "prefecture": "埼玉県",
+        "city": "川口市",
+        "opening_date": "2026-12-08",
+        "category": "コンビニ"
+      },
+      {
+        "name": "CARINITO OKINAWA | KOZA",
+        "prefecture": "沖縄県",
+        "city": "沖縄市",
+        "opening_date": "2026-12-20",
+        "category": "タコス専門店"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 3,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 40,
+      "matched_existing": 39,
+      "added": 1,
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "note": "39 of 40 official listings matched the existing JSON. Added パークタワー川口本町 for 2026-12-08, 埼玉県川口市; the official listing gives the address as 川口市本町四丁目9番2号106号室."
+    },
+    {
+      "source": "KFC official December 2026 new-store list (updated 2026-11-20)",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "note": "All 11 December openings matched existing records."
+    },
+    {
+      "source": "PPIH official store announcements",
+      "candidate_count": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "note": "MEGA Don Quijote Olympic Yokodai, Robin Hood Kameido, Asaka Sensui, and Kitashinjuku matched existing records."
+    },
+    {
+      "source": "株式会社エスワイフード official press release for 世界の山ちゃん 本店別館",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://syfood-japan.com/bekkan_open/",
+      "note": "Official operator announcement confirms 2026-12-03 opening at 愛知県名古屋市中区栄4丁目13-24."
+    },
+    {
+      "source": "株式会社Y’s official announcement via atPress for CARINITO OKINAWA | KOZA",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://www.atpress.ne.jp/news/650735",
+      "note": "Operator announcement dated 2026-11-24 confirms 2026-12-20 grand opening at 沖縄県沖縄市中央1-26-14."
+    }
+  ],
+  "unconfirmed": [],
+  "diagnostics": {
+    "previous_blob_sha": "fa55f97c6e30efc3c11e848e2940ca8db8444e46",
+    "updated_blob_sha": "3020130e98eb558d944de67123dfabbe5a0f9e60",
+    "update_commit_sha": "31b416a9ac4a199f69731743667602efd647b9e0",
+    "item_count_before": 2631,
+    "item_count_after": 2634,
+    "new_items": 3,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_write_sha_matches_update_response": true,
+    "update_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "note": "Task was confirmed enabled; schedule was not changed."
+  },
+  "note": "Three confirmed openings were added. Existing records were preserved; no unconfirmed candidate was inserted."
+}
