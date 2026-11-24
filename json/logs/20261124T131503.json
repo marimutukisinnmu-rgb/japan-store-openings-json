@@ -1,0 +1,102 @@
+{
+  "run_at": "2026-11-24T13:15:03+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "blob_sha": "412ee151edff6092dcccd33525445959062cf28b",
+    "item_count": 2617,
+    "updatetime": "2026-11-24T13:15:03+09:00",
+    "update_status": "updated"
+  },
+  "changes": [
+    {
+      "type": "correction",
+      "old": {
+        "name": "MEGA ドン・キホーテ Olympic 洋光台店",
+        "opening_date": "2026-12-10"
+      },
+      "new": {
+        "name": "MEGA ドン・キホーテ洋光台店（仮称）",
+        "opening_date": "2026-12-15"
+      },
+      "reason": "PPIH's official 2026-09-01 Olympic transition release specifies the provisional name MEGA ドン・キホーテ洋光台店 and opening date 2026-12-15. No later official PPIH/Olympic notice changing Yokodai to 2026-12-10 was found."
+    }
+  ],
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "candidate_count": 27,
+      "matched_existing": 27,
+      "missing": 0
+    },
+    {
+      "source": "KFC official December 2026 new-store list",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "missing": 0
+    },
+    {
+      "source": "PPIH/Olympic official 2026-09-01 transition release",
+      "url": "https://ppih.co.jp/news/pdf/260901_news_Olympic.pdf",
+      "candidate_count": 5,
+      "matched_existing": 5,
+      "missing": 0,
+      "checked": [
+        {
+          "name": "高井戸店",
+          "date": "2026-12-01",
+          "city": "杉並区",
+          "matched": true
+        },
+        {
+          "name": "北新宿店",
+          "date": "2026-12-01",
+          "city": "新宿区",
+          "matched": true
+        },
+        {
+          "name": "亀戸店",
+          "date": "2026-12-08",
+          "city": "江東区",
+          "matched": true
+        },
+        {
+          "name": "洋光台店",
+          "date": "2026-12-15",
+          "city": "横浜市磯子区",
+          "matched": true
+        },
+        {
+          "name": "朝霞泉水店",
+          "date": "2026-12-15",
+          "city": "朝霞市",
+          "matched": true
+        }
+      ]
+    },
+    {
+      "source": "Olympic official IR news page",
+      "url": "https://www.olympic-corp.co.jp/ir/news/",
+      "note": "The latest page shows the November 24 listing for the Kameido/Asaka, North Shinjuku, and Takaido PPIH releases; no Yokodai date change appears there."
+    }
+  ],
+  "diagnostics": {
+    "previous_blob_sha": "2cdd3dac9a7eb145b263d282122c0474f3fe6c80",
+    "updated_blob_sha": "412ee151edff6092dcccd33525445959062cf28b",
+    "update_commit_sha": "68b68efb18bd9c5d55ae9545d8cc16a5d8838e15",
+    "item_count_before": 2617,
+    "item_count_after": 2617,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_count": 0,
+    "whitespace_normalized_duplicate_groups": 7,
+    "existing_log_count_before_run": 751,
+    "last_existing_log": "20261020T024356.json"
+  },
+  "candidate_check": "All 27 Lawson entries from 2026-11-25 through 2026-12-04, all 11 KFC entries from the current December 2026 announcement, and all 5 Olympic/PPIH December transition stores are present after correcting Yokodai.",
+  "note": "The repository's log directory previously ended at 20261020T024356.json; the 2026-11-24 12:15 log cited in the preceding report was not present. This run adds a verifiable log file. Seven whitespace-only near-duplicate groups were left unchanged for review."
+}
