@@ -12310,6 +12310,13 @@
       "category": "鉄板料理・居酒屋"
     },
     {
+      "name": "麺場 田所商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-20",
+      "category": "味噌ラーメン"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -14730,13 +14737,6 @@
       "city": "飯能市",
       "opening_date": "2026-11-27",
       "category": "生活雑貨・日用品"
-    },
-    {
-      "name": "麺場 田所商店 イオンモール伊達店",
-      "prefecture": "福島県",
-      "city": "伊達市",
-      "opening_date": "2026-11-27",
-      "category": "味噌ラーメン"
     },
     {
       "name": "串カツ田中 霧島国分店",
