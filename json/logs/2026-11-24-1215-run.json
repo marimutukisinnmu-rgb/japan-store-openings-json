@@ -40,8 +40,8 @@
     }
   ],
   "checked_candidates": {
-    "total": 54,
-    "already_registered": 52,
+    "total": 52,
+    "already_registered": 50,
     "corrected": 2,
     "missing": 0,
     "breakdown": [
@@ -69,11 +69,6 @@
         "source": "大丸松坂屋百貨店公式 大丸梅田店5ブランド発表",
         "count": 5,
         "matched": 5
-      },
-      {
-        "source": "PAPABUBBLE公式 大丸梅田店発表",
-        "count": 1,
-        "matched": 1
       },
       {
         "source": "KINOTOYA BAKE・浅草もんじゃぜんや・WithGreen・秋野テーブル・＆found各社発表",
