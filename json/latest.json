@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T23:15:07+09:00",
+  "updatetime": "2026-11-25T00:15:05+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -3238,6 +3238,20 @@
       "category": "保険代理店"
     },
     {
+      "name": "365（LUCUA）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-23",
+      "category": "レディースファッション・生活雑貨"
+    },
+    {
+      "name": "JOURNAL STANDARD relume（LUCUA 1100）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（移転リニューアル）"
+    },
+    {
       "name": "adabat（LINKS IKEBUKURO 7階）",
       "prefecture": "東京都",
       "city": "豊島区",
@@ -4230,6 +4244,13 @@
       "city": "浜松市中央区",
       "opening_date": "2026-10-29",
       "category": "焼鳥・飲食（リブランド）"
+    },
+    {
+      "name": "RAGTAG（LUCUA 1100）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-10-29",
+      "category": "ブランド古着・リユース（移転リニューアル）"
     },
     {
       "name": "-デビュー40周年記念- 藤島康介 原画展（なんばマルイ）",
@@ -7578,6 +7599,13 @@
       "category": "中華料理"
     },
     {
+      "name": "JINS（LUCUA 1100）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-06",
+      "category": "眼鏡・アイウェア（移転リニューアル）"
+    },
+    {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -9762,6 +9790,20 @@
       "category": "寿司"
     },
     {
+      "name": "CONZ（LUCUA）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-13",
+      "category": "メンズファッション"
+    },
+    {
+      "name": "ADAM ET ROPÉ FEMME（LUCUA）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-13",
+      "category": "レディースファッション（移転リニューアル）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -11209,6 +11251,27 @@
       "city": "福島市",
       "opening_date": "2026-11-19",
       "category": "イタリアン・ファミリーレストラン"
+    },
+    {
+      "name": "atmos（LUCUA）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-19",
+      "category": "スニーカー・シューズ（リニューアル）"
+    },
+    {
+      "name": "TULLY'S COFFEE & TEA（LUCUA 1100）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-19",
+      "category": "カフェ（リニューアル）"
+    },
+    {
+      "name": "ROSE BUD（LUCUA 1100）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-19",
+      "category": "レディースファッション（移転リニューアル）"
     },
     {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
