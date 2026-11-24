@@ -1,0 +1,126 @@
+{
+  "run_at": "2026-11-24T18:15:02+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "blob_sha": "d26e36a1aab807e082e0a0b8a79675be337ad1ae",
+    "item_count": 2630,
+    "previous_item_count": 2624,
+    "updatetime": "2026-11-24T18:15:02+09:00",
+    "update_status": "updated"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "コナズ珈琲 福島駅店",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-03",
+        "category": "ハワイアンカフェ・レストラン"
+      },
+      {
+        "name": "GOZZO Fukushima",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-11",
+        "category": "土産物店"
+      },
+      {
+        "name": "七宝麻辣湯 福島駅西口店",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-11",
+        "category": "麻辣湯専門店"
+      },
+      {
+        "name": "福島餃子　神楽",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-11",
+        "category": "餃子専門店"
+      },
+      {
+        "name": "凍天処　木乃幡",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-11",
+        "category": "凍天専門店（移転リニューアル）"
+      },
+      {
+        "name": "買取店わかば",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-12-11",
+        "category": "買取専門店"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 6,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "JR East Tohoku General Service official Fukushima Pivot release (2026-11-24 16:00 JST)",
+      "candidate_count": 6,
+      "matched_existing": 0,
+      "added": 6,
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+      "note": "The detailed list specifies Kona's Coffee (Dec 3), GOZZO Fukushima, 七宝麻辣湯, 福島餃子 神楽, 凍天処 木乃幡, and 買取店わかば (Dec 11). The release's introduction says five stores; its detailed list contains six entries, of which 凍天処 木乃幡 is explicitly a relocation/renewal. All six named entries and dates were recorded as five new openings plus one relocation/renewal."
+    },
+    {
+      "source": "KONA'S official operator announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000063.000123082.html",
+      "note": "Corroborates コナズ珈琲 福島駅店, 2026-12-03, Fukushima City, Fukushima Prefecture, Fukushima Station West Exit Power City Pivot 1F."
+    },
+    {
+      "source": "Dining Innovation official operator announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000500.000034691.html",
+      "note": "Corroborates 七宝麻辣湯 福島駅西口店, 2026-12-11, Fukushima City, Fukushima Prefecture, Fukushima Pivot."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "item": "お肉の専門店 スギモト（東京ソラマチ）",
+      "issue": "The official Tokyo Solamachi source states only late November, not an exact date. The current JSON says 2026-11-30; that exact day is not confirmed by the official source reviewed.",
+      "action": "No date change made; retain existing record pending a primary-source exact-date confirmation."
+    }
+  ],
+  "diagnostics": {
+    "previous_blob_sha": "5b0768f89d1b38447e758e324e925fe8ed0817b6",
+    "updated_blob_sha": "d26e36a1aab807e082e0a0b8a79675be337ad1ae",
+    "update_commit_sha": "e0cdd0d8f0d7067734db1fba4a7ce270c551536d",
+    "item_count_before": 2624,
+    "item_count_after": 2630,
+    "new_items": 6,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "normalized_duplicate_candidate_groups": 11,
+    "duplicate_detection_note": "Previously identified name-normalization candidates were not merged or deleted; this run did not change them.",
+    "update_error": null,
+    "post_write_verification": "success"
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "next_run_time": "2026-11-24T18:15:00+09:00",
+    "note": "Scheduler metadata is reported separately from GitHub write verification."
+  },
+  "note": "Six Fukushima Pivot entries were added from the facility operator's dated release, including one explicitly described as relocation/renewal. National coverage is not exhaustive."
+}
