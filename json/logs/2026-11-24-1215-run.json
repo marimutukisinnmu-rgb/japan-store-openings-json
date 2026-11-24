@@ -1,0 +1,232 @@
+{
+  "run_at": "2026-11-24T12:15:03+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "result": "updated_two_verified_opening_records",
+  "before_count": 2617,
+  "added_count": 0,
+  "corrected_count": 2,
+  "after_count": 2617,
+  "changed_count": 2,
+  "deleted_count": 0,
+  "old_blob_sha": "c581dd899a89acd9aa0bac1b414ced9a96aeb091",
+  "new_blob_sha": "2cdd3dac9a7eb145b263d282122c0474f3fe6c80",
+  "commit_sha": "29792e7f619f29aea4b22bd9f3391b7cb1134b2a",
+  "corrected_records": [
+    {
+      "name_before": "MEGA ドン・キホーテ洋光台店（仮称）",
+      "name_after": "MEGA ドン・キホーテ Olympic 洋光台店",
+      "prefecture": "神奈川県",
+      "city": "横浜市磯子区",
+      "opening_date_before": "2026-12-15",
+      "opening_date_after": "2026-12-10",
+      "category": "総合ディスカウントストア（業態転換・リニューアル）",
+      "source": "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+      "note": "PPIH/ドン・キホーテ公式発表（2026-11-24）で正式店名・住所・12月10日9時開店を確認"
+    },
+    {
+      "name": "麺場 田所商店 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date_before": "2026-11-27",
+      "opening_date_after": "2026-11-20",
+      "category": "味噌ラーメン",
+      "sources": [
+        "https://misoya.net/store/tadokoro-date/",
+        "https://try-international.co.jp/news/grand-opening/open-am-date/"
+      ],
+      "note": "運営元の現行店舗ページが2026-11-20 OPEN、運営会社の2026-11-20開店告知と一致。以前の不一致を解消"
+    }
+  ],
+  "checked_candidates": {
+    "total": 54,
+    "already_registered": 52,
+    "corrected": 2,
+    "missing": 0,
+    "breakdown": [
+      {
+        "source": "ローソン公式 全国新店情報（2026-11-25〜2026-12-04掲載）",
+        "count": 27,
+        "matched": 27
+      },
+      {
+        "source": "日本KFC公式 2026年12月新店情報",
+        "count": 11,
+        "matched": 11
+      },
+      {
+        "source": "PPIH公式 2026-11-24洋光台店発表",
+        "count": 1,
+        "corrected": 1
+      },
+      {
+        "source": "PPIH公式 亀戸店・朝霞泉水店発表",
+        "count": 2,
+        "matched": 2
+      },
+      {
+        "source": "大丸松坂屋百貨店公式 大丸梅田店5ブランド発表",
+        "count": 5,
+        "matched": 5
+      },
+      {
+        "source": "PAPABUBBLE公式 大丸梅田店発表",
+        "count": 1,
+        "matched": 1
+      },
+      {
+        "source": "KINOTOYA BAKE・浅草もんじゃぜんや・WithGreen・秋野テーブル・＆found各社発表",
+        "count": 5,
+        "matched": 5
+      },
+      {
+        "source": "株式会社トライ・インターナショナル公式 田所商店伊達店発表",
+        "count": 1,
+        "corrected": 1
+      }
+    ]
+  },
+  "sources": [
+    {
+      "name": "PPIH/ドン・キホーテ公式発表 MEGAドン・キホーテ Olympic 洋光台店",
+      "url": "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+      "verified_fields": [
+        "正式店舗名",
+        "所在地",
+        "開店日",
+        "開店時刻"
+      ],
+      "note": "2026-11-24発表、神奈川県横浜市磯子区洋光台5-1-9、2026-12-10 9:00開店"
+    },
+    {
+      "name": "ローソン公式 全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified_fields": [
+        "店舗名",
+        "都道府県",
+        "開店日",
+        "住所"
+      ],
+      "note": "2026-11-25〜2026-12-04掲載27候補を照合し全件登録済み"
+    },
+    {
+      "name": "日本KFC公式 12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "住所"
+      ],
+      "note": "2026年12月11店舗を照合し全件登録済み"
+    },
+    {
+      "name": "大丸松坂屋百貨店公式 大丸梅田店食品フロアリニューアル発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004032.000025003.html",
+      "verified_fields": [
+        "ブランド名",
+        "開店日",
+        "施設・売場"
+      ],
+      "note": "12月1日開店の4ブランドと11月28日先行開店の堂島ロールCanvasを照合、全件登録済み"
+    },
+    {
+      "name": "株式会社PAPABUBBLE公式 大丸梅田店発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000602.000018984.html",
+      "verified_fields": [
+        "店舗名",
+        "開店日",
+        "住所"
+      ],
+      "note": "PAPABUBBLE（大丸梅田店）、2026-12-01、既存登録済み"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式店舗情報",
+      "url": "https://misoya.net/store/tadokoro-date/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店情報"
+      ],
+      "note": "現行ページは2026-11-20 OPENと記載"
+    },
+    {
+      "name": "株式会社トライ・インターナショナル公式開店告知",
+      "url": "https://try-international.co.jp/news/grand-opening/open-am-date/",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店日"
+      ],
+      "note": "2026-11-20公開、同日オープン済みと告知"
+    },
+    {
+      "name": "PPIH公式 亀戸店・朝霞泉水店発表",
+      "url": "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+      "verified_fields": [
+        "店舗名",
+        "所在地",
+        "開店日"
+      ],
+      "note": "2店舗とも既存登録済み"
+    }
+  ],
+  "data_quality_warnings": {
+    "normalized_identity_duplicate_groups": [
+      [
+        "らかんスタジオ Finelight 前橋店",
+        "らかんスタジオ Finelight前橋店"
+      ],
+      [
+        "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "ロンハーマン タカシマヤゲートタワーモール店"
+      ],
+      [
+        "スープカレーSAMA 羽田空港店",
+        "スープカレーSAMA羽田空港店"
+      ],
+      [
+        "無印良品 久喜吉羽",
+        "無印良品久喜吉羽"
+      ],
+      [
+        "ゴンチャ 豊田 T-FACE店",
+        "ゴンチャ 豊田T-FACE店"
+      ],
+      [
+        "ビッグ・エー 清瀬駅北口店",
+        "ビッグ・エー清瀬駅北口店"
+      ],
+      [
+        "ゴンチャ 富山 MAROOT店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    ],
+    "normalized_identity_duplicate_group_count": 7,
+    "possible_alias_pairs_not_counted_above": [
+      [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ]
+    ],
+    "note": "既存レコードを誤削除しないため、表記揺れ・別名候補は統合せず保持"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_records": 0,
+    "normalized_identity_duplicate_groups": 7,
+    "existing_records_preserved": true,
+    "record_count_unchanged": true,
+    "github_refetch_of_latest": true,
+    "latest_blob_sha_verified": true
+  },
+  "errors": [],
+  "unconfirmed": [
+    "表記正規化で同一店舗の可能性がある7組とLAWSON + toksの別名候補1組は、誤統合防止のため未整理のまま保持",
+    "全国すべての小規模事業者・個店の発表を網羅したものではない"
+  ],
+  "note": "新規追加は0件。PPIH洋光台店と田所商店イオンモール伊達店の開店日・店舗名を一次情報で確認して訂正。latest.jsonは2,617件を維持し、再取得SHA一致を確認。"
+}
