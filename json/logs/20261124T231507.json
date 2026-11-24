@@ -1,0 +1,175 @@
+{
+  "run_at": "2026-11-24T23:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "c7de2665f24085ccb555687d95e5582caa231bb8",
+    "blob_sha": "8944545062aa12b1011a250cdf574f472fcf4fab",
+    "update_commit_sha": "8486a51635174426394a2da6744acf007c3ae076",
+    "item_count": 2646,
+    "previous_item_count": 2637,
+    "updatetime": "2026-11-24T23:15:07+09:00",
+    "update_status": "updated",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "まいばすけっと小田銀座商店街店",
+        "prefecture": "神奈川県",
+        "city": "川崎市川崎区",
+        "opening_date": "2026-11-27",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "まいばすけっと千葉弁天２丁目店",
+        "prefecture": "千葉県",
+        "city": "千葉市中央区",
+        "opening_date": "2026-11-27",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "まいばすけっと北小金駅前店",
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "opening_date": "2026-11-27",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "まいばすけっと川口三ツ和１丁目店",
+        "prefecture": "埼玉県",
+        "city": "川口市",
+        "opening_date": "2026-11-27",
+        "category": "食品スーパー"
+      },
+      {
+        "name": "ブランド買取販売 LIFE一番町店",
+        "prefecture": "宮城県",
+        "city": "仙台市青葉区",
+        "opening_date": "2026-12-24",
+        "category": "ブランドリユースセレクトショップ"
+      },
+      {
+        "name": "プチバトー 銀座三越店",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-12-02",
+        "category": "ベビー・キッズ・ウィメンズファッション"
+      },
+      {
+        "name": "GLOBAL WORK 東武百貨店池袋店",
+        "prefecture": "東京都",
+        "city": "豊島区",
+        "opening_date": "2026-11-19",
+        "category": "ファッション"
+      },
+      {
+        "name": "はま寿司 相馬店",
+        "prefecture": "福島県",
+        "city": "相馬市",
+        "opening_date": "2026-11-19",
+        "category": "回転寿司"
+      },
+      {
+        "name": "ジョリーパスタ 福島矢野目店",
+        "prefecture": "福島県",
+        "city": "福島市",
+        "opening_date": "2026-11-19",
+        "category": "イタリアン・ファミリーレストラン"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 9,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "My Basket official new-store announcement",
+      "candidate_count": 4,
+      "matched_existing": 0,
+      "added": 4,
+      "url": "https://www.mybasket.co.jp/news/detail/20261120145859.html",
+      "note": "The 2026-11-27 openings of 小田銀座商店街店, 千葉弁天２丁目店, 北小金駅前店 and 川口三ツ和１丁目店 were listed with locations in the operator's official announcement and were absent from latest.json."
+    },
+    {
+      "source": "TGM / brand resale LIFE official announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000146425.html",
+      "note": "ブランド買取販売 LIFE一番町店 is scheduled for 2026-12-24 at 宮城県仙台市青葉区一番町3丁目10番24号; absent from latest.json."
+    },
+    {
+      "source": "Petit Bateau Japan official announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000147432.html",
+      "note": "プチバトー 銀座三越店 is scheduled to open 2026-12-02 at 銀座三越 新館10階; absent from latest.json."
+    },
+    {
+      "source": "Adastria official new-store list",
+      "candidate_count": 5,
+      "matched_existing": 4,
+      "added": 1,
+      "url": "https://www.adastria.co.jp/shop/new/",
+      "note": "JEANASIS 岡山一番街, LAKOLE サンシャインシティアルタ, LEPSIM ららぽーと海老名 and LOWRYS FARM ルミネ町田 matched existing records. GLOBAL WORK 東武百貨店池袋店 (2026-11-19) was absent and added."
+    },
+    {
+      "source": "Zensho official new-store information and official store locators",
+      "candidate_count": 4,
+      "matched_existing": 2,
+      "added": 2,
+      "url": "https://www.zensho.co.jp/jp/company/news/2026/",
+      "supporting_urls": [
+        "https://maps.hama-sushi.co.jp/jp/detail/6641.html",
+        "https://maps.jolly-pasta.co.jp/jp/detail/6635.html"
+      ],
+      "note": "The 2026-11-19 company news lists すき家 16号木更津潮見店, すき家 宇都宮兵庫塚店, はま寿司 相馬店 and ジョリーパスタ 福島矢野目店. The first two were already present; the latter two were absent. Official locators confirmed 相馬市 and 福島市 addresses."
+    },
+    {
+      "source": "Burger King Japan official 16-store opening announcement",
+      "candidate_count": 16,
+      "matched_existing": 16,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000442.000038980.html",
+      "note": "All 16 stores announced for 2026-11 through 2026-12-15 matched existing records."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "THE GUNDAM BASE OSAKA（LUCUA SOUTH 11F）",
+      "expected_opening_window": "2027-02",
+      "date_precision": "month-only",
+      "reason": "The facility operator's latest official release still gives only February 2027 and says details will be announced later; no exact date found, so not added."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2637,
+    "item_count_after": 2646,
+    "new_items": 9,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_update_response": true,
+    "all_added_records_found_after_read": true,
+    "latest_json_write_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T00:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "completed_at": null,
+    "note": "The automation was enabled and its hourly schedule was unchanged. At inspection time, the management-side completion record for the current run had not yet been written."
+  },
+  "note": "Nine confirmed stores were added. Existing records were kept in their previous relative order; no existing entries were corrected or deleted. Month-only information for THE GUNDAM BASE OSAKA was retained as unconfirmed."
+}
