@@ -1,0 +1,166 @@
+{
+  "run_at": "2026-11-25T04:15:10+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "fac13ba567d75ab79a6deabafc49da569afeb8ac",
+    "blob_sha": "fac13ba567d75ab79a6deabafc49da569afeb8ac",
+    "update_commit_sha": null,
+    "item_count": 2664,
+    "previous_item_count": 2664,
+    "updatetime": "2026-11-25T03:15:08+09:00",
+    "update_status": "no_change",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 0,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 40,
+      "matched_existing": 40,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "supporting_urls": [
+        "https://www.lawson.co.jp/newstore/smt/kantou.html"
+      ],
+      "note": "All 40 checked entries from 2026-11-12 through 2026-12-08 matched latest.json by normalized store name, opening date, prefecture, and city."
+    },
+    {
+      "source": "KFC Japan official December 2026 new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "note": "All 11 listed December openings matched latest.json, including opening dates and municipalities."
+    },
+    {
+      "source": "Zensho official store/news information",
+      "candidate_count": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "url": "https://www.zensho.co.jp/jp/company/news/2026/",
+      "supporting_urls": [
+        "https://maps.zensho.co.jp/jp/detail/286.html",
+        "https://maps.zensho.co.jp/jp/detail/3968.html"
+      ],
+      "note": "Four recent store-opening announcements matched existing records. Two renovation-closure pages still specify closure through 2026-12-08 09:00 but do not explicitly state a reopening date; no date was inferred."
+    },
+    {
+      "source": "LUCUA Osaka official open/close and shop guide",
+      "candidate_count": 30,
+      "matched_existing": 30,
+      "added": 0,
+      "url": "https://www.lucua.jp/shopguide/openclose/",
+      "supporting_urls": [
+        "https://www.lucua.jp/shopguide/id2069.html",
+        "https://www.lucua.jp/special/south-open/"
+      ],
+      "note": "All 27 checked 2026-11-24 LUCUA SOUTH entries matched existing records by exact or equivalent official shop name. The dated upcoming entries TAMASHII NATIONS STORE OSAKA (2026-12-02), THE★JOJO WORLD OSAKA (2026-12-04), and SQUARE ENIX NEXUS (2026-12-23) were also already present. namco remains month-window only."
+    },
+    {
+      "source": "Recent operator/facility announcements cross-check",
+      "candidate_count": 19,
+      "matched_existing": 19,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000224.000034027.html",
+      "supporting_urls": [
+        "https://prtimes.jp/main/html/rd/p/000001291.000033462.html",
+        "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "https://prtimes.jp/main/html/rd/p/000000013.000186441.html",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000000063.000123082.html",
+        "https://www.gundam-base.net/news/81342.html",
+        "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+        "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+        "https://www.atpress.ne.jp/news/650735",
+        "https://syfood-japan.com/bekkan_open/"
+      ],
+      "note": "Recent named candidates including Yann Couvreur, Kushiba, BAKERIES LAB. Sunamachi-Ginza, Tsukishima Monja Kotetsu, WithGreen Hikarigaoka IMA, LAKOLE, PAPABUBBLE IKSPIARI, CARINITO OKINAWA, Kona's Coffee Fukushima Station, Fukushima Pivot tenants, Trial Seiyu Kotesashi, and Sekai no Yamachan Honkan Bekkan were already represented."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "CHARLES & KEITH（LUCUA 1100）",
+      "expected_opening_date_options": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "reason": "The current LUCUA open/close summary says 2026-11-28, while the individual official shop page says 2026-11-27. No date change was made."
+    },
+    {
+      "name": "namco（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026年12月上旬",
+      "reason": "The current official LUCUA page still gives only a broad opening window, not an exact date."
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA",
+      "expected_opening_window": "2027年2月",
+      "reason": "The official Gundam Base announcement confirms the month and location but not an exact date."
+    },
+    {
+      "name": "すき家 潮見店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official store page gives the closure end timestamp but does not explicitly announce the reopening date."
+    },
+    {
+      "name": "伝丸 129号平塚田村店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official store page gives the closure end timestamp but does not explicitly announce the reopening date."
+    }
+  ],
+  "potential_duplicates": [
+    {
+      "names": [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      "opening_date": "2026-11-25",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "reason": "The Lawson official list shows one corresponding store; the two JSON names remain unchanged pending review."
+    },
+    {
+      "names": [
+        "SQUARE ENIX NEXUS（LUCUA SOUTH）",
+        "スクウェア・エニックス オフィシャルグッズショップ（仮称・LUCUA SOUTH）"
+      ],
+      "opening_date": "2026-12-23",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "reason": "The current LUCUA official page names SQUARE ENIX NEXUS. A second provisional-name record remains in the dataset; neither record was deleted or merged."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2664,
+    "item_count_after": 2664,
+    "new_items": 0,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_fetch_response": true,
+    "all_changes_verified_after_read": true,
+    "latest_json_write_error": null,
+    "official_source_systems": 5
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T04:15:00+09:00",
+    "state_check": "success",
+    "note": "Automation peek confirmed the task remains enabled and the existing hourly :15 schedule is unchanged. No automation settings were changed."
+  },
+  "note": "No latest.json write was necessary because all verified candidates were already represented. A separate execution log was created to record the source checks, no-change result, unresolved dates, and possible duplicate groups."
+}
