@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T08:15:06+09:00",
+  "updatetime": "2026-11-24T12:15:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17231,6 +17231,13 @@
       "category": "イノベーティブレストラン"
     },
     {
+      "name": "MEGA ドン・キホーテ Olympic 洋光台店",
+      "prefecture": "神奈川県",
+      "city": "横浜市磯子区",
+      "opening_date": "2026-12-10",
+      "category": "総合ディスカウントストア（業態転換・リニューアル）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -17362,13 +17369,6 @@
       "city": "浜松市中央区",
       "opening_date": "2026-12-15",
       "category": "フィットネスジム"
-    },
-    {
-      "name": "MEGA ドン・キホーテ洋光台店（仮称）",
-      "prefecture": "神奈川県",
-      "city": "横浜市磯子区",
-      "opening_date": "2026-12-15",
-      "category": "総合ディスカウントストア（業態転換・リニューアル）"
     },
     {
       "name": "TANTOTANTO（エスパル仙台）",
