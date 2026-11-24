@@ -101,7 +101,7 @@
     "item_count_before": 2617,
     "item_count_after": 2617,
     "required_field_missing": 0,
-    "invalid_date": 2617,
+    "invalid_date": 0,
     "date_sorted": true,
     "exact_duplicate_count": 0,
     "whitespace_normalized_duplicate_groups": 7
