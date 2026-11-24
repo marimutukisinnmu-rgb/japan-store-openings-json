@@ -1,0 +1,125 @@
+{
+  "run_at": "2026-11-24T19:15:07+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "d26e36a1aab807e082e0a0b8a79675be337ad1ae",
+    "blob_sha": "fa55f97c6e30efc3c11e848e2940ca8db8444e46",
+    "item_count": 2631,
+    "previous_item_count": 2630,
+    "updatetime": "2026-11-24T19:15:07+09:00",
+    "update_status": "updated"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "トライアル西友小手指店",
+        "prefecture": "埼玉県",
+        "city": "所沢市",
+        "opening_date": "2026-12-04",
+        "category": "スーパーマーケット（再出店）"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 1,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "Lawson official nationwide new-store list",
+      "candidate_count": 39,
+      "matched_existing": 39,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "note": "All 39 currently listed openings were covered by existing records. The LAWSON+toks Todoroki listing has a name-variation/duplicate-candidate issue in the JSON; no record was added, merged, or deleted."
+    },
+    {
+      "source": "KFC official December 2026 new-store list (updated 2026-11-20)",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "note": "All 11 December openings in the official list matched existing records."
+    },
+    {
+      "source": "PPIH official release for MEGA Don Quijote Olympic Yokodai (2026-11-24)",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+      "note": "Official release confirms the existing record: MEGA ドン・キホーテ Olympic 洋光台店, 2026-12-10."
+    },
+    {
+      "source": "JR East Tohoku General Service official Fukushima Pivot release (2026-11-24 16:00 JST)",
+      "candidate_count": 6,
+      "matched_existing": 6,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+      "note": "All six detailed entries were already present: コナズ珈琲, GOZZO Fukushima, 七宝麻辣湯, 福島餃子 神楽, 凍天処 木乃幡, 買取店わかば. The release describes five new openings plus one relocation/renewal."
+    },
+    {
+      "source": "Haseko / Mitsubishi Corporation Urban Development announcement for Machinoma Kotesashi (2026-11-24 13:00 JST)",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000083.000128890.html",
+      "note": "Added the anchor tenant トライアル西友小手指店, 2026-12-04, 埼玉県所沢市. The announcement explicitly states the former Seiyu site will reopen as this store. No 2F tenants were added because their names/opening dates were not yet specified."
+    },
+    {
+      "source": "Xebio Group official release for Aeon Mall Date (2026-11-24 09:00 JST)",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000001244.000004149.html",
+      "note": "スーパースポーツゼビオ イオンモール伊達店, 2026-11-27, was already registered."
+    },
+    {
+      "source": "POP MART Japan official company release for LUCUA SOUTH",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "note": "POP MART LUCUA SOUTH店, 2026-11-24, was already registered."
+    },
+    {
+      "source": "Tokyo Solamachi official Food Marche renewal page",
+      "candidate_count": 4,
+      "matched_existing": 4,
+      "added": 0,
+      "url": "https://www.tokyo-solamachi.jp/food_marche/",
+      "note": "The page explicitly lists お肉の専門店 スギモト as 2026-11-30 OPEN and also lists 澤光青果, 魚力, and 富澤商店 renewal/reopening items for 2026-11-30. This resolves the previously unconfirmed exact date for Sugimoto; all corresponding records already existed."
+    }
+  ],
+  "unconfirmed": [],
+  "diagnostics": {
+    "previous_blob_sha": "d26e36a1aab807e082e0a0b8a79675be337ad1ae",
+    "updated_blob_sha": "fa55f97c6e30efc3c11e848e2940ca8db8444e46",
+    "update_commit_sha": "9ed93200de16fa649c6eb6167a9c3c20dea40a1d",
+    "item_count_before": 2630,
+    "item_count_after": 2631,
+    "new_items": 1,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "normalized_duplicate_candidate_groups": 11,
+    "duplicate_detection_note": "Previously identified normalized duplicate candidates remain unresolved and were not merged or deleted. The Lawson + toks listing is among the name-variation candidates.",
+    "update_error": null,
+    "post_write_verification": "success"
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "next_run_time": "2026-11-24T19:15:00+09:00",
+    "note": "Scheduler metadata still shows this run as in_progress with no completion timestamp; this does not negate the successful GitHub write and post-write fetch verification."
+  },
+  "note": "One confirmed store was added. Previously unconfirmed Sugimoto opening date was resolved by the Tokyo Solamachi official page; no JSON correction was needed."
+}
