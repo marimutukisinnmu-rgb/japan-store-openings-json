@@ -1,0 +1,185 @@
+{
+  "run_at": "2026-11-25T03:15:08+09:00",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "fetch_status": "success",
+    "previous_blob_sha": "9a47aaf2e6fa9674e6bdb7194745f2c55fe0a232",
+    "blob_sha": "fac13ba567d75ab79a6deabafc49da569afeb8ac",
+    "update_commit_sha": "d614626cf0b91a2ade7e70729b72889cfd379b92",
+    "item_count": 2664,
+    "previous_item_count": 2660,
+    "updatetime": "2026-11-25T03:15:08+09:00",
+    "update_status": "updated",
+    "post_read_verification": "success"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ロミードーナツ イオン三ツ境店",
+        "prefecture": "神奈川県",
+        "city": "横浜市瀬谷区",
+        "opening_date": "2026-11-27",
+        "category": "ドーナツ専門店"
+      },
+      {
+        "name": "三本珈琲店 イオン三ツ境店",
+        "prefecture": "神奈川県",
+        "city": "横浜市瀬谷区",
+        "opening_date": "2026-11-27",
+        "category": "カフェ"
+      },
+      {
+        "name": "丸亀製麺 イオン三ツ境店",
+        "prefecture": "神奈川県",
+        "city": "横浜市瀬谷区",
+        "opening_date": "2026-11-27",
+        "category": "うどん専門店"
+      },
+      {
+        "name": "ゴンチャ イオンモール船橋店",
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "opening_date": "2026-12-01",
+        "category": "ティーカフェ"
+      }
+    ],
+    "corrections": [],
+    "deletions": [],
+    "added_count": 4,
+    "correction_count": 0,
+    "deletion_count": 0
+  },
+  "source_checks": [
+    {
+      "source": "AEON Mitsukyo official shop list",
+      "candidate_count": 3,
+      "matched_existing": 0,
+      "added": 3,
+      "url": "https://www.aeon-cre-solutions.jp/sc/mitsukyo/shops/",
+      "supporting_urls": [
+        "https://www.aeon-cre-solutions.jp/sc/mitsukyo/shops/1f-011/"
+      ],
+      "note": "The facility's official shop list explicitly labels Romii Donuts, Sanbon Coffee Shop, and Marugame Seimen as opening on 2026-11-27. All three were absent from latest.json and were added."
+    },
+    {
+      "source": "Gong cha Japan official announcement",
+      "candidate_count": 1,
+      "matched_existing": 0,
+      "added": 1,
+      "url": "https://prtimes.jp/main/html/rd/p/000000460.000048503.html",
+      "note": "The operator's 2026-11-24 announcement confirms Gong cha Aeon Mall Funabashi opens 2026-12-01 at Chiba Prefecture, Funabashi City. The record was absent and was added."
+    },
+    {
+      "source": "Subway Japan official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://subway.co.jp/news/20261120_02/",
+      "note": "Subway Aeon Mitsukyo opens 2026-11-27 and was already present."
+    },
+    {
+      "source": "Lawson official new-store information",
+      "candidate_count": null,
+      "matched_existing": null,
+      "added": 0,
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "note": "Current visible new-store entries were checked; relevant entries including Park Tower Kawaguchi-Honcho were already represented."
+    },
+    {
+      "source": "KFC Japan official December 2026 new-store announcement",
+      "candidate_count": 11,
+      "matched_existing": 11,
+      "added": 0,
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "note": "All 11 December 2026 openings in the current official list were already present."
+    },
+    {
+      "source": "PPIH official news releases",
+      "candidate_count": 5,
+      "matched_existing": 5,
+      "added": 0,
+      "url": "https://ppih.co.jp/news/",
+      "supporting_urls": [
+        "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf"
+      ],
+      "note": "The 2026-11-24 MEGA Don Quijote Olympic Yokodai opening and other relevant domestic conversions were already represented."
+    },
+    {
+      "source": "Beisia official announcement",
+      "candidate_count": 1,
+      "matched_existing": 1,
+      "added": 0,
+      "url": "https://www.beisia.co.jp/news/%E3%83%99%E3%82%A4%E3%82%B7%E3%82%A2x%E4%B8%89%E5%BF%83-%E5%85%B1%E5%89%B5%E3%81%AE%E7%AC%AC2%E5%8F%B7%E5%BA%97%E3%80%80beisia-foods-park-%E7%8E%89%E3%83%8E%E4%BA%95%E5%BA%97-12%E6%9C%884",
+      "note": "Beisia Foods Park Tamanoi Store opening 2026-12-04 was already present."
+    },
+    {
+      "source": "JR East Tohoku General Service / Fukushima Pivot official announcement",
+      "candidate_count": 6,
+      "matched_existing": 6,
+      "added": 0,
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+      "note": "All six Fukushima Pivot openings and relocation-renovation entries were already represented."
+    }
+  ],
+  "unconfirmed": [
+    {
+      "name": "CHARLES & KEITH（LUCUA 1100）",
+      "expected_opening_date_options": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
+      "reason": "Official facility summary and individual shop page remain inconsistent."
+    },
+    {
+      "name": "namco（LUCUA SOUTH 10F）",
+      "expected_opening_window": "2026年12月上旬",
+      "reason": "Official facility source gives only a broad opening window."
+    },
+    {
+      "name": "THE GUNDAM BASE OSAKA（LUCUA SOUTH 11F）",
+      "expected_opening_window": "2027年2月",
+      "reason": "Official operator announcement gives month-only timing."
+    },
+    {
+      "name": "すき家 潮見店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official source states a temporary closure window but not an explicit reopening date."
+    },
+    {
+      "name": "伝丸 129号平塚田村店",
+      "expected_reopening_window": "2026-12-08 09:00まで改装休業",
+      "reason": "The official source states a temporary closure window but not an explicit reopening date."
+    },
+    {
+      "name": "三ツ境の追加候補（丸亀製麺・三本珈琲店）",
+      "expected_opening_window": "2026年11月27日",
+      "reason": "These were not pending; both were confirmed on the AEON Mitsukyo official shop list and added in this run."
+    }
+  ],
+  "diagnostics": {
+    "item_count_before": 2660,
+    "item_count_after": 2664,
+    "new_items": 4,
+    "corrections": 0,
+    "deletions": 0,
+    "required_field_missing": 0,
+    "invalid_date": 0,
+    "date_sorted": true,
+    "exact_duplicate_objects": 0,
+    "old_records_preserved_in_order": true,
+    "post_read_sha_matches_update_response": true,
+    "all_added_records_found_after_read": true,
+    "latest_json_write_error": null
+  },
+  "task_state": {
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T03:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "note": "Automation peek returned is_enabled=true and the existing hourly :15 schedule. Run-history fields may lag the current execution; no automation settings were changed."
+  },
+  "note": "Added four confirmed stores: three listed by the official AEON Mitsukyo facility site for 2026-11-27 and Gong cha Aeon Mall Funabashi for 2026-12-01. Existing records were preserved in their prior relative order."
+}
