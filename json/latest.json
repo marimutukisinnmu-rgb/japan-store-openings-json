@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-02-28",
   "scope": "Japan",
-  "updatetime": "2026-11-24T22:15:03+09:00",
+  "updatetime": "2026-11-24T23:15:07+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -11190,6 +11190,27 @@
       "category": "期間限定テイクアウト催事（2026-11-19〜2027-01-18）"
     },
     {
+      "name": "GLOBAL WORK 東武百貨店池袋店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-19",
+      "category": "ファッション"
+    },
+    {
+      "name": "はま寿司 相馬店",
+      "prefecture": "福島県",
+      "city": "相馬市",
+      "opening_date": "2026-11-19",
+      "category": "回転寿司"
+    },
+    {
+      "name": "ジョリーパスタ 福島矢野目店",
+      "prefecture": "福島県",
+      "city": "福島市",
+      "opening_date": "2026-11-19",
+      "category": "イタリアン・ファミリーレストラン"
+    },
+    {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -14788,6 +14809,34 @@
       "category": "ディスカウントスーパー"
     },
     {
+      "name": "まいばすけっと小田銀座商店街店",
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと千葉弁天２丁目店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと北小金駅前店",
+      "prefecture": "千葉県",
+      "city": "松戸市",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "まいばすけっと川口三ツ和１丁目店",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15801,6 +15850,13 @@
       "city": "伊勢原市",
       "opening_date": "2026-12-02",
       "category": "そば・和食"
+    },
+    {
+      "name": "プチバトー 銀座三越店",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-12-02",
+      "category": "ベビー・キッズ・ウィメンズファッション"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
@@ -18006,6 +18062,13 @@
       "city": "目黒区",
       "opening_date": "2026-12-24",
       "category": "日本茶専門店"
+    },
+    {
+      "name": "ブランド買取販売 LIFE一番町店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-24",
+      "category": "ブランドリユースセレクトショップ"
     },
     {
       "name": "「RAB展～はたちのオタクたち～」POP UP SHOP（神戸マルイ）",
