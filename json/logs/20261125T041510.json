@@ -155,12 +155,18 @@
     "official_source_systems": 5
   },
   "task_state": {
-    "enabled": true,
+    "enabled": false,
     "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
     "timezone": "Asia/Tokyo",
     "next_run_time": "2026-11-25T04:15:00+09:00",
     "state_check": "success",
-    "note": "Automation peek confirmed the task remains enabled and the existing hourly :15 schedule is unchanged. No automation settings were changed."
+    "note": "The task was enabled when checked during the run. It was disabled after the run; the stored hourly :15 schedule definition was not edited.",
+    "post_run_state_change": {
+      "changed": true,
+      "final_enabled": false,
+      "schedule_definition_preserved": true,
+      "note": "The recurring automation was disabled after this run; the stored schedule definition was left unchanged."
+    }
   },
   "note": "No latest.json write was necessary because all verified candidates were already represented. A separate execution log was created to record the source checks, no-change result, unresolved dates, and possible duplicate groups."
 }
