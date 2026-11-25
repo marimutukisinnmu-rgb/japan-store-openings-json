@@ -1,0 +1,109 @@
+{
+  "run_at": "2026-11-25T22:13:33+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "f2e0d18bcb92175c956e1ec381fa172d93f272f5",
+  "new_blob_sha": "7cae9c83fa6c5b13a4709904e65fd2e1f83fc4a9",
+  "data_commit": "b1ed96dc6c03a00f15b4f796d71b0faa485d2387",
+  "previous_count": 2707,
+  "new_count": 2708,
+  "additions": [
+    {
+      "name": "ITS'DEMO エキア朝霞店（リニューアル）",
+      "prefecture": "埼玉県",
+      "city": "朝霞市",
+      "opening_date": "2026-11-13",
+      "category": "ファッション・雑貨（リニューアル）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社ワールド（株式会社ライフスタイルイノベーション）",
+      "title": "ライフスタイルストア「ITS'DEMO」、エキア朝霞店・ラスカ平塚店を11月にリニューアル",
+      "url": "https://prtimes.jp/main/html/rd/p/000002248.000002439.html",
+      "published": "2026-11-18 15:30",
+      "verified": true,
+      "verified_existing": false,
+      "result": "ITS'DEMO エキア朝霞店は2026-11-13にリニューアルオープン。所在地は埼玉県朝霞市本町2-13-1 2F。既存JSONに該当店舗がなかったため追加。ラスカ平塚店（2026-11-20）は既存登録済み。"
+    },
+    {
+      "publisher": "河淳株式会社（KEYUCA）",
+      "title": "KEYUCA イオンモール伊達店 2026-11-27オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000691.000042258.html",
+      "published": "2026-11-25 18:30",
+      "verified": true,
+      "verified_existing": true,
+      "result": "福島県伊達市のKEYUCA イオンモール伊達店、2026-11-27開店。既存JSONに同日・同店舗で登録済み。"
+    },
+    {
+      "publisher": "株式会社ジーアイビー",
+      "title": "ブルースカイランドリー 2026年11月 全国10店舗を新規オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000349.000051381.html",
+      "published": "2026-10-30 14:39",
+      "verified": true,
+      "verified_existing": true,
+      "result": "11月の新規10店舗を照合。店舗名・所在地・開店日が既存JSONに登録済みのため追加なし。"
+    },
+    {
+      "publisher": "株式会社エンドレス",
+      "title": "LUNA EARTH テラスモール松戸店 2026-11-16オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000917.000061261.html",
+      "published": "2026-11-12 17:24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "千葉県松戸市のLUNA EARTH テラスモール松戸店、2026-11-16開店。既存JSONに登録済み。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "HiViE堺東のその他の入居テナント",
+      "status": "2027年春の段階的開業予定。個別の開業日未発表のため未追加。今回再確認していない。"
+    },
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "2027年3月初旬予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "2027年2月予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "個別店舗の開店日を独立した公式情報で確定できず、既存日付を保護。今回再確認していないため保留継続。"
+    }
+  ],
+  "name_variant_candidates": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_sort": true,
+    "exact_duplicate_items": 0,
+    "previous_count": 2707,
+    "new_count": 2708,
+    "existing_item_order_and_content_preserved": true,
+    "additions_count": 1,
+    "latest_blob_sha_unchanged_after_write": false,
+    "independent_refetch_verified": true
+  },
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule_definition": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T22:15:00+09:00",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "note": "タスクは有効。今回の管理側実行記録は実行中で、完了時刻は未設定。"
+  },
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、SHAと2,707件を確認。",
+    "新規追加1件をopening_date順の位置に挿入。既存2,707件は内容と相対順序を維持。",
+    "更新後にGitHubから再取得し、blob SHA、件数、追加レコード、日付順を独立検証。",
+    "KEYUCA、ブルースカイランドリー10店舗、LUNA EARTH テラスモール松戸、ITS'DEMO ラスカ平塚店は既存登録を確認。"
+  ]
+}
