@@ -1,0 +1,122 @@
+{
+  "run_at": "2026-11-25T23:17:56+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "7cae9c83fa6c5b13a4709904e65fd2e1f83fc4a9",
+  "new_blob_sha": "5e937d16a3ba21a7450767764cefab2ddad15662",
+  "data_commit": "26e359973657e2dfa478a51e2359c9b749c28e30",
+  "previous_count": 2708,
+  "new_count": 2709,
+  "additions": [
+    {
+      "name": "ecoeat 高の原すずらん館店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-12-10",
+      "category": "食品ロス削減ショップ"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "ecoeat株式会社",
+      "title": "ecoeat 高の原すずらん館店 12月10日（木）オープンのお知らせ",
+      "url": "https://ecoeat.co.jp/news/takanohara-suzuran-open-2026/",
+      "published": "2026-10-18",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-12-10開店、奈良県奈良市右京1-3-4 サンタウンプラザすずらん館1Fを確認。既存JSONに同一店舗がなかったため追加。"
+    },
+    {
+      "publisher": "サンタウンプラザ すずらん館",
+      "title": "12/10(木) 食品ロス削減ショップ「ecoeat 高の原すずらん館店」OPEN！",
+      "url": "https://suntown.jp/suzuran/",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": false,
+      "result": "施設公式のお知らせ欄でも12月10日開店を確認し、運営元発表と照合。"
+    },
+    {
+      "publisher": "株式会社暮らしと珈琲",
+      "title": "岡山市役所新庁舎2階にベーカリーカフェ ピース岡山が11月24日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000180057.html",
+      "published": "2026-11-13",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-24開店、岡山県岡山市北区大供1-1-1 岡山市役所2F。既存JSONに登録済み。"
+    },
+    {
+      "publisher": "ecoeat株式会社",
+      "title": "ecoeat 岸和田カンカンベイサイドモール店を11月16日にオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000179312.html",
+      "published": "2026-11-12",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-16開店。既存JSONに登録済み。"
+    },
+    {
+      "publisher": "ビッグクリエイト株式会社",
+      "title": "JACK IN THE DONUTS 枚方モール店が11月19日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000152670.html",
+      "published": "2026-11-12",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-19開店。既存JSONに登録済み。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "M'sアイブロウ 福岡天神店",
+      "status": "店舗開設の情報は見つかったが、今回確認できた運営元発表では開店日を確定できず。日付未確認のため追加保留。"
+    },
+    {
+      "name": "HiViE堺東のその他の入居テナント",
+      "status": "2027年春の段階的開業予定。個別の開業日未発表。今回は再確認していないため保留継続。"
+    },
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "2027年3月初旬予定。正確な日付未発表。今回は再確認していないため保留継続。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "2027年2月予定。正確な日付未発表。今回は再確認していないため保留継続。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "個別店舗の開店日を独立した公式情報で確定できず、既存日付を保護。今回は再確認していないため保留継続。"
+    }
+  ],
+  "name_variant_candidates": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_sort": true,
+    "exact_duplicate_items": 0,
+    "previous_count": 2708,
+    "new_count": 2709,
+    "existing_item_order_and_content_preserved": true,
+    "additions_count": 1,
+    "blob_sha_matches_update_response": true,
+    "independent_refetch_verified": true
+  },
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule_definition": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-26T00:15:00+09:00",
+    "current_run_recorded_status": "in_progress",
+    "current_run_completed_at": null,
+    "note": "peekでは有効状態true。実行履歴はin_progressで完了時刻未設定。"
+  },
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、blob SHA・件数・必須項目・日付形式・日付順・完全一致重複を検証。",
+    "運営元公式と施設公式の双方でecoeat 高の原すずらん館店の2026-12-10開店を確認し、1件追加。",
+    "更新後にGitHubから再取得し、blob SHA、件数、追加レコード、既存全レコードの内容・順序、日付順を独立検証。",
+    "ピース岡山、ecoeat岸和田、JACK IN THE DONUTS枚方モール店は既存登録を確認。"
+  ]
+}
