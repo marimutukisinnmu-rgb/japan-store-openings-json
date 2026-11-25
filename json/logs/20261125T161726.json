@@ -1,0 +1,322 @@
+{
+  "run_at": "2026-11-25T16:17:26+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "06c1c89b972951f69cad6155f0304fdea7a24cd7",
+  "intermediate_blob_sha": "308f853fafb6a69d1b32ff48f5d3f80ff0822699",
+  "new_blob_sha": "fcb5d9d810142b00dba8587fc1c68f11c267714d",
+  "data_commits": [
+    "37a98d8c7d6346f077d8ade1d1cd8477db01d650",
+    "3db0502a1835c9d9d91b1c5147543e9706307b29"
+  ],
+  "previous_count": 2687,
+  "intermediate_count": 2689,
+  "new_count": 2701,
+  "additions": [
+    {
+      "name": "高価買取おたからやサンリブきふね店",
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "opening_date": "2026-11-23",
+      "category": "買取専門店"
+    },
+    {
+      "name": "厚切りとんかつ よし平 瀬谷店",
+      "prefecture": "神奈川県",
+      "city": "横浜市瀬谷区",
+      "opening_date": "2026-11-25",
+      "category": "とんかつ専門店"
+    },
+    {
+      "name": "The Visitor Place",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-30",
+      "category": "観光案内所・交流拠点"
+    },
+    {
+      "name": "Littlemakers（The Visitor Place）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-30",
+      "category": "カフェ・レストラン"
+    },
+    {
+      "name": "CASIO STORE HARAJUKU",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-04",
+      "category": "時計専門店"
+    },
+    {
+      "name": "うなぎ四代目菊川 新宿東口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-04",
+      "category": "うなぎ料理専門店"
+    },
+    {
+      "name": "うなぎ四代目菊川 秋葉原UDX店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "うなぎ料理専門店"
+    },
+    {
+      "name": "Rintosull甲府店",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullイオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullパルネス前後店",
+      "prefecture": "愛知県",
+      "city": "豊明市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull吹田店",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullビバモール美原南インター店",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull野田店",
+      "prefecture": "大阪府",
+      "city": "大阪市福島区",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "LAVA半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2027-02-01",
+      "category": "ホットヨガ・マシンピラティススタジオ"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社ホットランドホールディングス",
+      "title": "厚切りとんかつ よし平 瀬谷店 11/25 OPEN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000810.000031747.html",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-11-25開店、神奈川県横浜市瀬谷区南台1-29-12を確認。未登録のため追加。"
+    },
+    {
+      "publisher": "株式会社いーふらん",
+      "title": "高価買取おたからやサンリブきふね店 2026年11月23日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000509.000080252.html",
+      "published": "2026-11-24 09:20",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-11-23開店、福岡県北九州市小倉北区貴船町1-1を確認。未登録のため追加。"
+    },
+    {
+      "publisher": "貝印株式会社",
+      "title": "The Visitor Place／Littlemakers 2026年11月30日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000799.000025105.html",
+      "published": "2026-11-25 11:00",
+      "verified": true,
+      "verified_existing": false,
+      "result": "東京都千代田区内神田1-1-16、大手町ゲートビルディング1F、2026-11-30開業を確認。施設と併設カフェを別レコードで追加。"
+    },
+    {
+      "publisher": "カシオ計算機株式会社",
+      "title": "国内初のCASIO WATCH直営店を原宿にオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000541.000040622.html",
+      "published": "2026-11-25 10:01",
+      "verified": true,
+      "verified_existing": false,
+      "result": "CASIO STORE HARAJUKU、2026-12-04開店、東京都渋谷区神宮前4-26-2を確認。追加。"
+    },
+    {
+      "publisher": "株式会社パッションギークス",
+      "title": "うなぎ四代目菊川 新宿東口店・秋葉原UDX店 連続開業",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000059609.html",
+      "published": "2026-11-19 10:30",
+      "verified": true,
+      "verified_existing": false,
+      "result": "新宿東口店は2026-12-04、秋葉原UDX店は2026-12-10。所在地・店舗名を確認し2件追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosull甲府店",
+      "url": "https://rintosull.jp/shop/yamanashi/kofu_yumura/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、山梨県甲府市を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosullイオン乙金店",
+      "url": "https://rintosull.jp/shop/fukuoka/aeon_otogana/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、福岡県大野城市を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosullパルネス前後店",
+      "url": "https://rintosull.jp/shop/aichi/palnes_zengo/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、愛知県豊明市を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosull吹田店",
+      "url": "https://rintosull.jp/shop/osaka/suita_sankusu/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、大阪府吹田市を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosullビバモール美原南インター店",
+      "url": "https://rintosull.jp/shop/osaka/vivamall_miharaminami/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、大阪府堺市美原区を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "Rintosull野田店",
+      "url": "https://rintosull.jp/shop/osaka/noda_hanshin/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01 OPEN、大阪府大阪市福島区を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "LAVA半田店",
+      "url": "https://yoga-lava.com/lp/shop/aoki_handa/shop.html",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-02-01開業、愛知県半田市北二ツ坂町2-1-1を公式店舗ページで確認。追加。"
+    },
+    {
+      "publisher": "株式会社ロフト",
+      "title": "2027年春 モラージュ菖蒲ロフト開店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001868.000018324.html",
+      "published": "2026-11-25 12:00",
+      "verified": true,
+      "verified_existing": false,
+      "result": "埼玉県久喜市のモラージュ菖蒲1Fに2027年3月初旬開店予定。ただし日付が特定できないため追加保留。"
+    },
+    {
+      "publisher": "株式会社LAVA International",
+      "title": "ホットヨガスタジオLAVA 2月OPEN店舗のお知らせ",
+      "url": "https://lava-intl.co.jp/news/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "新鎌ヶ谷店・半田店の2月開業予定を確認。新鎌ヶ谷店は正確な開店日を確認できず追加保留。"
+    },
+    {
+      "publisher": "大和ハウスリアルティマネジメント株式会社",
+      "title": "アクロスプラザ和泉観音寺 11月20日オープン",
+      "url": "https://www.daiwahouse.co.jp/about/release/group/20261117164706.html",
+      "published": "2026-11-19",
+      "verified": true,
+      "verified_existing": true,
+      "result": "施設と既存テナントの情報を照合。資さんうどん和泉観音寺店の既存レコードは2026-11-25のまま保持。施設の開業日だけでは個別店舗の日付を確定できないため訂正せず。"
+    },
+    {
+      "publisher": "ローソン",
+      "title": "全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified": true,
+      "verified_existing": true,
+      "result": "掲載中の新店候補を既存JSONと照合。新規追加対象なし。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "12月の11店舗を照合し、既存登録済みを確認。"
+    },
+    {
+      "publisher": "株式会社東武ストア",
+      "title": "東武ストア 春日部店 2026年11月26日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000193892.html",
+      "published": "2026-11-20 14:30",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-26開店、埼玉県春日部市。既存登録済み。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "運営元公式発表で2027年3月初旬開店を確認したが、正確な日付が未発表のため追加保留。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "運営元公式発表で2027年2月開業予定を確認したが、正確な日付が未発表のため追加保留。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "既存JSONは2026-11-25。施設公式発表はアクロスプラザ全体の2026-11-20開業を示すが、同店個別の開店日は明示していないため既存値を保護し、訂正保留。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "original_2687_items_preserved_in_original_relative_order": true,
+    "all_14_additions_present": true,
+    "re_fetched_sha_matches": true,
+    "total_count": 2701
+  },
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled_before": true,
+    "is_enabled_after": false,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "disabled_at": "2026-11-25T16:21:52+09:00",
+    "note": "今回のデータ更新完了後、管理側でタスクを無効化。"
+  },
+  "notes": [
+    "更新開始時点の2,687件を維持し、14件を日付順に追加。訂正・削除は行っていない。",
+    "latest.jsonは更新前SHAを照合して2回更新し、各更新後に再取得して検証。",
+    "既存データの相対順序は維持。未確定の日付は推測せず保留。",
+    "The Visitor Placeと併設カフェLittlemakersは、公式発表で別の機能・名称が示されているため別レコードとして登録。"
+  ]
+}
