@@ -61,7 +61,20 @@
       "verified_existing": true
     }
   ],
-  "unresolved": [],
+  "unresolved": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "status": "前回からの持ち越し。今回未再確認。正確な開店日を確認できていない"
+    },
+    {
+      "name": "業務スーパー 中津蛎瀬店",
+      "status": "前回からの持ち越し。今回未再確認。延期後の確定日を確認できていない"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "status": "前回からの持ち越し。今回未再確認。運営元の公式発表を確認できていない"
+    }
+  ],
   "validation": {
     "json_parse": true,
     "required_fields": true,
@@ -70,6 +83,53 @@
     "exact_duplicate_keys": 0,
     "previous_items_preserved_in_original_relative_order": true,
     "re_fetched_sha_matches": true,
-    "additions_retrieved": true
-  }
+    "additions_retrieved": true,
+    "possible_name_variant_groups": 3,
+    "carry_forward_unresolved_count": 3
+  },
+  "duplicate_candidates": [
+    {
+      "records": [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      "reason": "同じ都道府県・市区町村・開店日。公式ローソン一覧では1店舗表記。統合保留"
+    },
+    {
+      "records": [
+        "WECLE 自由が丘店",
+        "ピラティス ウィークル（WECLE）自由が丘店"
+      ],
+      "reason": "同じ都道府県・市区町村・開店日・業態。統合保留"
+    },
+    {
+      "records": [
+        "bebeswan POPUP（北千住マルイ）",
+        "bebeswan POPUPイベント（北千住マルイ）"
+      ],
+      "reason": "同じ施設・開店日・期間限定ベビー用品催事。統合保留"
+    }
+  ],
+  "source_checks": [
+    {
+      "publisher": "ローソン",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "照合した2026-12-01〜2026-12-08の22候補は既存登録済み"
+    },
+    {
+      "publisher": "日本KFC",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "result": "2026年12月の11店舗すべて既存登録済み"
+    },
+    {
+      "publisher": "しまむらグループ",
+      "url": "https://sslimg.shimamura.gr.jp/shop/map_detail_2199.html",
+      "result": "しまむら・アベイル・バースデイ FUKUOKA TENJINの3レコードを既存確認"
+    },
+    {
+      "publisher": "三菱商事都市開発・長谷工コーポレーション",
+      "url": "https://www.atpress.ne.jp/news/647829",
+      "result": "トライアル西友小手指店は既存登録済み"
+    }
+  ]
 }
