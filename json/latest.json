@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T14:19:48+09:00",
+  "updatetime": "2026-11-25T15:12:46+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -10028,6 +10028,13 @@
       "category": "保険相談ショップ（リニューアル）"
     },
     {
+      "name": "HOUSE of JOAH mini lab",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-14",
+      "category": "ワークショップ専門店"
+    },
+    {
       "name": "chocoZAP 上古賀店（リニューアル）",
       "prefecture": "福岡県",
       "city": "筑紫野市",
@@ -15402,6 +15409,13 @@
       "city": "宇治市",
       "opening_date": "2026-11-28",
       "category": "コスメ・化粧品専門店"
+    },
+    {
+      "name": "北野エース山形屋店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-28",
+      "category": "食料品専門店"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
