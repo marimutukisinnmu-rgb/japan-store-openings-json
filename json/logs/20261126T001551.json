@@ -24,15 +24,15 @@
         ]
       },
       {
-        "name": "バースデイ FUKUOKA TENJIN店",
+        "name": "バースデイ FUKUOKA TENJIN(しまむら FUKUOKA TENJIN内)店",
         "prefecture": "福岡県",
         "city": "福岡市中央区",
         "opening_date": "2026-12-02",
-        "category": "ベビー・子供用品",
+        "category": "ベビー・子供用品（複合型店舗内取扱ブランド）",
         "sources": [
           "https://www.shimamura.gr.jp/assets-c/uploads/release20261124_smavbr_fukuokatenjin.pdf"
         ],
-        "note": "しまむら FUKUOKA TENJIN内でバースデイ商品を取り扱う複合型店舗。既存のしまむら・アベイルの記録に、未登録だったブランド分を追加。"
+        "note": "しまむら FUKUOKA TENJIN内でバースデイ商品を取り扱う複合型店舗。既存のしまむら・アベイルの記録に、未登録だったブランド分を追加。独立した別区画の店舗であるとは断定しない。"
       }
     ],
     "corrected": [],
