@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T16:17:26+09:00",
+  "updatetime": "2026-11-25T17:19:18+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15005,6 +15005,13 @@
       "category": "ラーメン店（業態転換・リニューアル）"
     },
     {
+      "name": "串カツ田中 西国分寺店",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-11-27",
+      "category": "串カツ・居酒屋"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15598,6 +15605,20 @@
       "city": "千代田区",
       "opening_date": "2026-11-30",
       "category": "カフェ・レストラン"
+    },
+    {
+      "name": "串カツ田中 本八戸店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-11-30",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 横須賀中央東口店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-30",
+      "category": "串カツ・居酒屋"
     },
     {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
@@ -17698,6 +17719,20 @@
       "city": "千代田区",
       "opening_date": "2026-12-10",
       "category": "うなぎ料理専門店"
+    },
+    {
+      "name": "串カツ田中 鶴岡店",
+      "prefecture": "山形県",
+      "city": "鶴岡市",
+      "opening_date": "2026-12-10",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 大森北口店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-12-10",
+      "category": "串カツ・居酒屋"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
