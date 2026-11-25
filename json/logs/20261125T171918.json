@@ -1,0 +1,134 @@
+{
+  "run_at": "2026-11-25T17:19:18+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "fcb5d9d810142b00dba8587fc1c68f11c267714d",
+  "new_blob_sha": "6a6c30458af4ae5057993d89f3e11e119f48ea91",
+  "data_commit": "651bc7198d5de1ee64fa1a6f34808946279d87f8",
+  "previous_count": 2701,
+  "new_count": 2706,
+  "additions": [
+    {
+      "name": "串カツ田中 西国分寺店",
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "opening_date": "2026-11-27",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 本八戸店",
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "opening_date": "2026-11-30",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 横須賀中央東口店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-30",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 鶴岡店",
+      "prefecture": "山形県",
+      "city": "鶴岡市",
+      "opening_date": "2026-12-10",
+      "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "串カツ田中 大森北口店",
+      "prefecture": "東京都",
+      "city": "大田区",
+      "opening_date": "2026-12-10",
+      "category": "串カツ・居酒屋"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社ユニシアホールディングス／株式会社串カツ田中",
+      "title": "串カツ田中 西国分寺店 2026年11月27日オープン",
+      "url": "https://unisia.co.jp/press/entry/3392",
+      "official_store_url": "https://restaurant.kushi-tanaka.com/detail/0255/",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "東京都国分寺市泉町3丁目37-30、2026-11-27開業を運営元発表と公式店舗ページで確認。"
+    },
+    {
+      "publisher": "株式会社串カツ田中",
+      "title": "串カツ田中 本八戸店 2026年11月30日オープン予定",
+      "url": "https://restaurant.kushi-tanaka.com/detail/1262/",
+      "published": null,
+      "verified": true,
+      "verified_existing": false,
+      "result": "青森県八戸市十六日町20、2026-11-30開業を公式店舗ページで確認。"
+    },
+    {
+      "publisher": "株式会社串カツ田中",
+      "title": "串カツ田中 横須賀中央東口店 2026年11月30日オープン予定",
+      "url": "https://restaurant.kushi-tanaka.com/detail/0254/",
+      "published": null,
+      "verified": true,
+      "verified_existing": false,
+      "result": "神奈川県横須賀市若松町1-4、2026-11-30開業を公式店舗ページで確認。"
+    },
+    {
+      "publisher": "株式会社串カツ田中",
+      "title": "串カツ田中 鶴岡店 2026年12月10日オープン予定",
+      "url": "https://restaurant.kushi-tanaka.com/detail/1270/",
+      "published": null,
+      "verified": true,
+      "verified_existing": false,
+      "result": "山形県鶴岡市末広町7-26、2026-12-10開業を公式店舗ページで確認。"
+    },
+    {
+      "publisher": "株式会社串カツ田中",
+      "title": "串カツ田中 大森北口店 2026年12月10日オープン予定",
+      "url": "https://restaurant.kushi-tanaka.com/detail/0259/",
+      "published": null,
+      "verified": true,
+      "verified_existing": false,
+      "result": "東京都大田区大森北1-1-2 B1階B区画、2026-12-10開業を公式店舗ページで確認。"
+    }
+  ],
+  "unresolved": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "all_five_additions_present": true,
+    "sha_matches_write_result": true,
+    "original_2701_items_preserved_in_original_relative_order": true,
+    "total_count": 2706,
+    "re_fetched_sha_matches": true
+  },
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T17:15:00+09:00",
+    "last_run": {
+      "id": "fee63e9c-929c-832c-ba2a-d20ded1bc6e2",
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-25T08:15:00Z",
+      "started_at": "2026-11-25T08:19:17.616618Z",
+      "completed_at": null,
+      "chat_ref": null
+    },
+    "latest_result_run_id": "69d22d9f-9f98-8321-a3e4-a8dafe4448f6",
+    "note": "設定は変更していない。管理側の実行履歴と今回の完了状態は別途反映される。"
+  },
+  "notes": [
+    "最新のmainブランチから更新前blob SHAを取得してから書き込み。",
+    "新規5件のみ追加。訂正・削除なし。",
+    "既存2,701件は相対順序を維持。",
+    "串カツ田中公式の店舗ページで各店の開業日・所在地を照合。"
+  ]
+}
