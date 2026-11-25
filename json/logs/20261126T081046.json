@@ -1,0 +1,70 @@
+{
+  "executed_at": "2026-11-26T08:10:46+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "before": {
+    "item_count": 2729,
+    "blob_sha": "900a89d3e7a83e0dde88b1c0ecf3e8a28c6db939"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "MEGAドン・キホーテ Olympic 洋光台店",
+        "prefecture": "神奈川県",
+        "city": "横浜市磯子区",
+        "opening_date": "2026-12-10",
+        "category": "総合ディスカウントストア（業態転換）",
+        "source": "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf",
+        "source_note": "PPIH / ドン・キホーテ公式発表（2026-11-24）。開店日・所在地を確認。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "after": {
+    "item_count": 2730,
+    "blob_sha": "c2d2c851bc4b0add897658215f951186103681e7",
+    "update_commit_sha": "129c7df2ec320eefcecb062d890e2ce47cd6944c"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "date_order_sorted": true,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved": true,
+    "read_after_write_sha_match": true,
+    "read_after_write_item_count_match": true,
+    "new_record_present": true
+  },
+  "checked_but_already_registered": [
+    "WithGreen 光が丘IMA店（2026-11-26）",
+    "博多うどん うちだ屋 港北みなも店（2026-11-26）",
+    "サブウェイ イオン三ツ境店（2026-11-27）",
+    "サブウェイ イオンモール伊達店（2026-11-27）",
+    "FUJIYA CONFECTIONERY イオンモール伊達店（2026-11-27）",
+    "バーガーキング公式発表の16店舗（2026-11-09〜2026-12-15）",
+    "伊右衛門カフェ CoCoLo新潟店（2026-12-01）",
+    "コナズ珈琲 福島駅店（2026-12-03）",
+    "Guzman y Gomez 西新宿店（2026-11-28）",
+    "しまむら FUKUOKA TENJIN・アベイル FUKUOKA TENJIN（2026-12-02）",
+    "食の3重丸銀座ショップ（2026-12-04）",
+    "トライアル西友小手指店（2026-12-04）",
+    "ロビン・フッド北新宿店・亀戸店・朝霞泉水店（2026-12-01〜2026-12-15）"
+  ],
+  "pending_unconfirmed": [
+    "明治安田新宿ビルのその他の入居テナント：店舗ごとの開業日が確認できないものは追加保留。"
+  ],
+  "errors": [],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-26T08:15:00+09:00",
+    "last_run_status_at_inspection": "in_progress",
+    "note": "今回の管理側実行記録はin_progress。定期設定は有効。"
+  }
+}
