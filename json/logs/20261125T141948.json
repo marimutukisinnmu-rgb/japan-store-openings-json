@@ -1,0 +1,163 @@
+{
+  "run_at": "2026-11-25T14:19:48+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "bd79fbc119a251b0ec2ca5fdc73655a762700cd8",
+  "new_blob_sha": "f265ead80883384298d0d6af3b2e7838c2dfe512",
+  "commit_sha": "0f374b077fcd1a7b67d2bf09f4a9ae9dae0b35fc",
+  "previous_count": 2684,
+  "new_count": 2685,
+  "additions": [
+    {
+      "name": "業務スーパー中津蛎瀬店",
+      "prefecture": "大分県",
+      "city": "中津市",
+      "opening_date": "2026-12-10",
+      "category": "スーパーマーケット"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "ハローワークインターネットサービス（厚生労働省）",
+      "title": "株式会社ホームセンターセブン 業務スーパー中津蛎瀬店の求人情報",
+      "url": "https://www.hellowork.mhlw.go.jp/kensaku/GECA110020.do?action=dispDetailBtn&fullPart=1&iNFTeikyoRiyoDtiID=&jgshNo=V1KGoG12JnTk6v%2FAp9leMg%3D%3D&kjKbn=1&kjNo=4403003860861&ksNo=&newArrived=&screenId=GECA110020&tatZngy=1",
+      "published": "2026-09-24（求人受付日）",
+      "verified": true,
+      "verified_existing": false,
+      "result": "公式求人票に大分県中津市大字蛎瀬、店舗名「業務スーパー中津蛎瀬店」、2026-12-10オープン予定を明記。既存JSONに未登録のため追加"
+    },
+    {
+      "publisher": "ローソン",
+      "title": "全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式一覧の40店舗を照合。開店日・地域が既存JSONと一致。LAWSON＋toks等々力緑地は既存の表記違いレコード2件を確認したため追加せず"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン",
+      "title": "12月の新店情報（11店舗）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "11店舗すべて既存JSONに登録済み"
+    },
+    {
+      "publisher": "PPIH",
+      "title": "ニュースリリース（店舗関連）",
+      "url": "https://ppih.co.jp/news/",
+      "published": "2026-11-24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "MEGAドン・キホーテ Olympic 洋光台店、ロビン・フッド各店、志村坂下店など5候補を既存JSONで確認"
+    },
+    {
+      "publisher": "日本橋高島屋S.C.",
+      "title": "新店・リニューアル情報",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "verified": true,
+      "verified_existing": true,
+      "result": "ラ パナデリーア ドッツ、ハウス、KINOのポップアップ情報を既存JSONで確認"
+    },
+    {
+      "publisher": "GYRO HOLDINGS／株式会社T.O LAB",
+      "title": "BAKERIES LAB.砂町銀座店 2026年11月21日グランドオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "店舗名・住所・開店日が既存JSONに登録済み"
+    },
+    {
+      "publisher": "ワタミ株式会社",
+      "title": "サブウェイ イオンモール伊達店 11月27日グランドオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "サブウェイ／SUBWAY表記の既存レコードを確認。重複候補として保持し、新規追加せず"
+    },
+    {
+      "publisher": "株式会社Y’s",
+      "title": "CARINITO OKINAWA | KOZA 12月20日グランドオープン",
+      "url": "https://www.atpress.ne.jp/news/650735",
+      "published": "2026-11-24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-12-20の既存レコードと一致"
+    },
+    {
+      "publisher": "株式会社プロントコーポレーション",
+      "title": "プロント珈琲庭園 nonowa 国立 WEST 12月15日オープン",
+      "url": "https://www.pronto.co.jp/company/news/detail/20261120100914.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "開店日・店舗名が既存JSONと一致。価格訂正告知も確認"
+    },
+    {
+      "publisher": "株式会社ユーハイム",
+      "title": "Yann Couvreur 伊勢丹新宿店 12月2日日本初出店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000224.000034027.html",
+      "published": "2026-11-12",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-12-02の既存レコードと一致"
+    },
+    {
+      "publisher": "株式会社ぎょうざの満洲",
+      "title": "ジェラート工房 12月プレオープン告知",
+      "url": "https://mansyu.co.jp/event/index.php",
+      "verified": true,
+      "verified_existing": false,
+      "result": "公式告知で12月プレオープンを確認。日付未発表のため追加保留"
+    },
+    {
+      "publisher": "マックスマーラ公式",
+      "title": "銀座地区の新ショップ告知",
+      "url": "https://jp.maxmara.com/info/customer-care/information",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027年春予定を確認。店名・所在地・正確な開店日未発表のため追加保留"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "status": "運営元公式の店舗別開店日を確認できず。公式情報の確認が必要"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "status": "地域報道では2026-11-25プレオープンとされるが、運営元の公式発表を確認できず保留"
+    },
+    {
+      "name": "ぎょうざの満洲 ジェラート工房",
+      "status": "運営元公式で2026年12月プレオープンを確認。正確な日付未発表のため保留"
+    },
+    {
+      "name": "マックスマーラ 銀座地区の新ショップ",
+      "status": "公式で2027年春予定を確認。店名・所在地・正確な開店日未発表のため保留"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "candidate_matches_retrieved": true,
+    "total_count": 2685
+  },
+  "notes": [
+    "業務スーパー中津蛎瀬店は厚生労働省のハローワーク求人票で開店予定日2026-12-10を確認し、既存未登録のため追加",
+    "ローソン公式40店舗、KFC公式11店舗、PPIH関連5候補などは既存登録を照合",
+    "LAWSON＋toks等々力緑地、SUBWAY／サブウェイ、ゴンチャ富山MAROOTなどの表記違い・重複候補は誤削除防止のため変更していない",
+    "未確認・日付未確定情報は追加していない"
+  ]
+}
