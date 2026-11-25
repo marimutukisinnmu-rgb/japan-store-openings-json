@@ -1,0 +1,93 @@
+{
+  "executed_at": "2026-11-26T06:11:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2724,
+    "blob_sha": "69f41e8bdfaf55b80ee739aee65fe9bdc5396db4"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "やよい軒 長浜店",
+        "prefecture": "滋賀県",
+        "city": "長浜市",
+        "opening_date": "2026-11-25",
+        "category": "定食レストラン",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000001740.000054093.html"
+        ],
+        "note": "株式会社プレナスの2026-11-24付公式発表。2026-11-25 10:00新規オープン。"
+      },
+      {
+        "name": "新時代 大垣駅前店",
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "opening_date": "2026-12-01",
+        "category": "居酒屋（リニューアル）",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000287.000070373.html"
+        ],
+        "note": "株式会社ファッズの2026-11-24付公式発表。既存店のリニューアルオープン日を登録。住所は岐阜県大垣市高屋町1-4-4。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "Rintosullイオン乙金店：2027-02-01、既存登録済み。",
+    "ウェンディーズ・ファーストキッチン ワカバウォーク店：2026-12-05、既存登録済み。",
+    "SUBWAY／サブウェイ イオンモール伊達店：2026-11-27、既存登録済み。",
+    "ローソン公式の北海道・東北・関東・中部・近畿・中国四国・九州の新店情報：今回確認した掲載店舗は既存登録済み。",
+    "福島ピボットの新規・移転リニューアル6店舗：今回照合した6店舗は既存登録済み。",
+    "KFC 2026年12月新店11店舗：既存登録済み。"
+  ],
+  "after": {
+    "item_count": 2726,
+    "blob_sha": "656afc312f0a4f28aad37e032458e72117a33e84",
+    "update_commit_sha": "0ea78baeb74072bc1dc41b6ca60379d6c21a6015"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "東横INN長岡駅前：予約受付開始は確認したが、今回参照した発表では開業日を確認できず登録保留。",
+    "ワークマンカラーズ イオンタウン加古川店：2027年春～夏予定という時期のみで、具体的な開店日は未確認のため登録保留。",
+    "福島ピボットの施設名称変更（2027-04-01にLiViTへ変更）は施設名変更であり、今回の新店舗追加対象には含めていない。"
+  ],
+  "sources_checked": [
+    "https://prtimes.jp/main/html/rd/p/000001740.000054093.html",
+    "https://prtimes.jp/main/html/rd/p/000000287.000070373.html",
+    "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+    "https://prtimes.jp/main/html/rd/p/000000307.000059385.html",
+    "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+    "https://www.lawson.co.jp/area/hokkaido/index.html",
+    "https://www.lawson.co.jp/area/tohoku/index.html",
+    "https://www.lawson.co.jp/area/kanto/index.html",
+    "https://www.lawson.co.jp/newstore/chubu.html",
+    "https://www.lawson.co.jp/area/kinki/index.html",
+    "https://www.lawson.co.jp/area/chugokushikoku/index.html",
+    "https://www.lawson.co.jp/area/kyushu/index.html",
+    "https://www.oita-press.co.jp/pr/prtimes/detail?id=c36736_r212",
+    "https://japan.kfc.co.jp/news_release/8200"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T06:15:00+09:00",
+    "run_history_note": "この実行はin_progressでcompleted_at未設定。latest_resultのrun_idは今回のlast_run.idと異なり、前回実行分。"
+  }
+}
