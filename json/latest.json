@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T22:13:33+09:00",
+  "updatetime": "2026-11-25T23:17:56+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17733,6 +17733,13 @@
       "city": "千代田区",
       "opening_date": "2026-12-10",
       "category": "うなぎ料理専門店"
+    },
+    {
+      "name": "ecoeat 高の原すずらん館店",
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "opening_date": "2026-12-10",
+      "category": "食品ロス削減ショップ"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
