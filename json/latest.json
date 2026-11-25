@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T11:15:06+09:00",
+  "updatetime": "2026-11-25T12:15:05+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -2032,6 +2032,13 @@
       "city": "守口市",
       "opening_date": "2026-10-14",
       "category": "サンドイッチ"
+    },
+    {
+      "name": "Weekend Max Mara POP-UP STORE（玉川高島屋）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-14",
+      "category": "期間限定ファッション・ポップアップ（終了日未発表）"
     },
     {
       "name": "Allbirds / THE NORTH FACE（ジャズドリーム長島）",
@@ -6227,6 +6234,13 @@
       "category": "お好み焼き・どろ焼（鉄板焼）"
     },
     {
+      "name": "Max Mara 75 Years: The Art of Making（伊勢丹新宿店 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-04",
+      "category": "期間限定ファッション・ポップアップ（2026-11-04〜2026-11-10）"
+    },
+    {
       "name": "ABC-MART（酒々井プレミアム・アウトレット）",
       "prefecture": "千葉県",
       "city": "印旛郡酒々井町",
@@ -8738,6 +8752,13 @@
       "city": "神戸市中央区",
       "opening_date": "2026-11-11",
       "category": "豚饅頭・中華点心（本店リニューアル）"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（銀座三越 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ファッション・ポップアップ（2026-11-11〜2026-11-17）"
     },
     {
       "name": "「宅麺×ハイキュー!!」コラボポップアップ（マルイファミリー溝口）",
@@ -13479,6 +13500,27 @@
       "category": "ファストフード"
     },
     {
+      "name": "Max Mara 75 Years: The Art of Making（日本橋三越本店 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・ポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "Weekend Max Mara A WEEKEND IN IRELAND POP-UP STORE（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・ポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "Max Mara Progetto di Tessile POP-UP STORE（大丸心斎橋店）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・アクセサリーポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -16006,6 +16048,27 @@
       "category": "ベビー・キッズ・ウィメンズファッション"
     },
     {
+      "name": "Max Mara 75 Years: The Art of Making（阪急うめだ本店 POP UP STORE）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "Weekend Max Mara A WEEKEND IN IRELAND POP-UP STORE（阪急うめだ本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "Max Mara POP-UP STORE（松屋銀座）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
       "prefecture": "愛知県",
       "city": "名古屋市中村区",
@@ -17901,6 +17964,13 @@
       "city": "さいたま市浦和区",
       "opening_date": "2026-12-16",
       "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（岩田屋本店 POP UP STORE）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-16",
+      "category": "期間限定ファッション・ポップアップ（2026-12-16〜2026-12-22）"
     },
     {
       "name": "Jamie Kay（酒々井プレミアム・アウトレット・期間限定）",
