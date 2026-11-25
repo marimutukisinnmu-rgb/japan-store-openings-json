@@ -1,0 +1,115 @@
+{
+  "executed_at": "2026-11-26T05:12:58+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2723,
+    "blob_sha": "7eaeb27f8dafca6fa5a3e4dd916c52304b11b987"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "LAVA新鎌ヶ谷店",
+        "prefecture": "千葉県",
+        "city": "鎌ケ谷市",
+        "opening_date": "2027-02-01",
+        "category": "ホットヨガスタジオ",
+        "sources": [
+          "https://lava-intl.co.jp/news/%E3%80%90%E6%96%B0%E5%BA%97%E8%88%97%E3%80%91%E3%83%9B%E3%83%83%E3%83%88%E3%83%A8%E3%82%AC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAlava-2%E6%9C%88open%E5%BA%97%E8%88%97%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+          "https://yoga-lava.com/lp/shop/shinkamagaya/shop.html"
+        ],
+        "note": "LAVA Internationalの2026-11-25付公式ニュースで2027年2月開店を確認。公式店舗ページの検索取得内容で2027-02-01を確認。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "資さんうどん 和泉観音寺店：既存レコード（2026-11-25）を運営元の2026-10-30付公式発表で再確認。開店時刻は8:00。公式発表内の曜日表記には不整合があるが、日付自体は2026-11-25として確認できるため、既存レコードは変更せず保持。",
+    "リンツ グラン ショコラ ブティック（星ヶ丘三越）：2026-12-01、既存登録済み。",
+    "ベジテリア（星ヶ丘三越・リフレッシュオープン）：2026-12-02、既存登録済み。",
+    "ジャンニ キアリーニ（玉川高島屋S.C.）：2026-11-27、施設公式ページで再確認、既存登録済み。",
+    "PPIHのロビン・フッド北新宿店、ロビン・フッド亀戸店、ロビン・フッド朝霞泉水店、MEGAドン・キホーテOlympic高井戸店、MEGAドン・キホーテOlympic洋光台店：公式発表と既存レコードを照合し、全件登録済み。",
+    "KFC公式の2026年12月新店11店舗：既存登録済み。"
+  ],
+  "after": {
+    "item_count": 2724,
+    "blob_sha": "69f41e8bdfaf55b80ee739aee65fe9bdc5396db4",
+    "update_commit_sha": "7b9f9b4fcaf56086da2b197d2d3a8cb9c35a74b1"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "sources_checked": [
+    {
+      "publisher": "LAVA International",
+      "url": "https://lava-intl.co.jp/news/%E3%80%90%E6%96%B0%E5%BA%97%E8%88%97%E3%80%91%E3%83%9B%E3%83%83%E3%83%88%E3%83%A8%E3%82%AC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AAlava-2%E6%9C%88open%E5%BA%97%E8%88%97%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/",
+      "finding": "2027年2月に新鎌ヶ谷店・半田店がオープンする旨を2026-11-25付公式ニュースで確認。"
+    },
+    {
+      "publisher": "LAVA公式店舗ページ",
+      "url": "https://yoga-lava.com/lp/shop/shinkamagaya/shop.html",
+      "finding": "新鎌ヶ谷店の開店日を2027-02-01と確認。"
+    },
+    {
+      "publisher": "株式会社ロフト",
+      "url": "https://prtimes.jp/main/html/rd/p/000001868.000018324.html",
+      "finding": "モラージュ菖蒲ロフトは2027年3月初旬予定。正確な日付は未発表。"
+    },
+    {
+      "publisher": "株式会社資さん",
+      "url": "https://prtimes.jp/main/html/rd/p/000000427.000037031.html",
+      "finding": "資さんうどん 和泉観音寺店の2026-11-25 8:00開店を確認。既存登録済み。"
+    },
+    {
+      "publisher": "株式会社名古屋三越",
+      "url": "https://prtimes.jp/main/html/rd/p/000000024.000185183.html",
+      "finding": "星ヶ丘三越のリンツ グラン ショコラ ブティック（12/1）とベジテリア（12/2）を確認。既存登録済み。"
+    },
+    {
+      "publisher": "玉川高島屋S.C.",
+      "url": "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+      "finding": "ジャンニ キアリーニの2026-11-27開店を確認。既存登録済み。"
+    },
+    {
+      "publisher": "PPIH",
+      "url": "https://ppih.co.jp/news/",
+      "finding": "2026-11-24、11-20、11-16、11-13付の店舗発表を確認。該当する確定日付き店舗は既存登録済み。"
+    },
+    {
+      "publisher": "南海電気鉄道",
+      "url": "https://www.nankai.co.jp/news/260224_1.html",
+      "finding": "HiViE堺東は2027年春の全館開業予定。個別テナントの開業日について追加確認できる情報はなし。"
+    }
+  ],
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：全館は2027年春予定。個別テナントの開業日・店名は未確認。既知のライフ（HiViE堺東）は既存登録済み。",
+    "モラージュ菖蒲ロフト：運営元公式発表で2027年3月初旬を確認。正確な日付が未発表のため、日付を推測して追加していない。"
+  ],
+  "errors": [
+    "LAVA公式ニュースページおよび店舗ページの直接オープン取得はDisabledErrorで失敗。検索結果で公式発表・公式店舗ページの内容を確認できたため、確認できた範囲のみ登録。"
+  ],
+  "review_notes": [
+    "LAVA新鎌ヶ谷店は会社ニュースの月情報だけで日付を推測せず、公式店舗ページに表示された2027-02-01を採用。",
+    "日付が月・時期までしか確認できない案件は、ISO日付を推測して追加していない。",
+    "既存レコードは削除・書き換えせず、LAVA新鎌ヶ谷店1件のみ日付順に挿入。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T05:15:00+09:00",
+    "run_history_note": "今回のlast_runはin_progressでcompleted_at未設定。管理側の完了記録は未確認。"
+  }
+}
