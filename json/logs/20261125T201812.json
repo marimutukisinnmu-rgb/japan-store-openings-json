@@ -1,0 +1,156 @@
+{
+  "run_at": "2026-11-25T20:18:12+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "4687c5274e83e6941a8f0f142b2523bcc70ed493",
+  "new_blob_sha": "abd88d5a75354f62db03257000d55a6a1f9365d1",
+  "data_commit": "e62e501c4379a7fe79325ae0f009e15a45104ce6",
+  "previous_count": 2703,
+  "new_count": 2706,
+  "additions": [
+    {
+      "name": "ROCKFISH WEATHERWEAR SHINSAIBASHI FLAGSHIP STORE",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-18",
+      "category": "ライフスタイル・シューズ専門店（旗艦店）"
+    },
+    {
+      "name": "マクドナルド 宮前店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
+      "name": "勉強カフェ本厚木スタジオ",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "opening_date": "2027-01-13",
+      "category": "自習室・学習スペース"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社AU BRANDZ JAPAN",
+      "title": "Rockfish Weatherwear 日本初の心斎橋フラッグシップストア",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000186897.html",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-12-18開店。大阪府大阪市中央区心斎橋筋2丁目7-5 心斎橋椿屋ビル1F・2F。"
+    },
+    {
+      "publisher": "株式会社ARIA",
+      "title": "勉強カフェ本厚木スタジオ 2027年1月13日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000139525.html",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027-01-13開業。神奈川県厚木市泉町13-6 光正ビル302。"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社（公式クルー採用店舗ページ）",
+      "title": "マクドナルド 宮前店",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/a30537",
+      "published": null,
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-11-26グランドオープン。和歌山県和歌山市中島571-1。地域紙の2026-11-25記事でも翌26日10:30営業開始を照合。"
+    },
+    {
+      "publisher": "株式会社有隣堂",
+      "title": "有隣堂 アトレ中野店 2026年12月9日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000177.000135515.html",
+      "published": "2026-11-25",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-12-09開店、東京都中野区の既存レコード「有隣堂（アトレ中野）」と同一店舗・同日。重複追加せず既存レコードを保持。"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "title": "新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "published": null,
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式一覧の2026-11-25〜2026-12-08掲載26店舗を照合。全件が既存JSON内で確認できた。等々力緑地は表記違いの既存2レコードを保持。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式発表の2026年12月11店舗を照合。全11店舗が既存登録済み。"
+    },
+    {
+      "publisher": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "title": "ニュースリリース一覧・国内店舗発表",
+      "url": "https://ppih.co.jp/news/",
+      "published": "2026-11-24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "11-24のMEGAドン・キホーテOlympic洋光台店、11-20のロビン・フッド亀戸店・朝霞泉水店、11-16の北新宿店、11-13の高井戸店、11-17の志村坂下店を照合。全件既存登録済み。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "2027年3月初旬予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "2027年2月予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "個別店舗の開店日を独立した公式情報で確定できず、既存日付を保護。今回再確認していないため保留継続。"
+    }
+  ],
+  "name_variant_candidates": [
+    "らかんスタジオ Finelight 前橋店 / らかんスタジオ Finelight前橋店",
+    "ロンハーマン タカシマヤ ゲートタワーモール店 / ロンハーマン タカシマヤゲートタワーモール店",
+    "スープカレーSAMA 羽田空港店 / スープカレーSAMA羽田空港店",
+    "無印良品 久喜吉羽 / 無印良品久喜吉羽",
+    "高価買取おたからや サンリブきふね店 / 高価買取おたからやサンリブきふね店",
+    "ゴンチャ 豊田 T-FACE店 / ゴンチャ 豊田T-FACE店",
+    "ビッグ・エー 清瀬駅北口店 / ビッグ・エー清瀬駅北口店",
+    "うなぎ四代目菊川（新宿東口店） / うなぎ四代目菊川 新宿東口店",
+    "ゴンチャ 富山 MAROOT店 / ゴンチャ 富山MAROOT店",
+    "LAWSON + toks 等々力緑地店 / LAWSON＋toks等々力緑地",
+    "有隣堂（アトレ中野） / 有隣堂 アトレ中野店"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_sort": true,
+    "exact_duplicate_items": 0,
+    "previous_count": 2703,
+    "new_count": 2706,
+    "existing_item_order_and_content_preserved": true,
+    "additions_count": 3,
+    "latest_blob_sha_unchanged_after_write": false
+  },
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status_at_check": "in_progress",
+    "completed_at": null,
+    "next_run_time_at_check": "2026-11-25T20:15:00+09:00",
+    "note": "設定変更なし。管理側の完了記録は未反映。"
+  },
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、blob SHA、JSON解析、件数を確認した。",
+    "運営元の公式発表・公式店舗ページで開店日と市区町村を確認できた3件のみ追加した。",
+    "既存の有隣堂（アトレ中野）は同一店舗のため重複追加せず、名称差異候補として記録した。",
+    "追加以外の既存レコードは内容・相対順序を維持した。"
+  ]
+}
