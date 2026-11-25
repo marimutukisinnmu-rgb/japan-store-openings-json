@@ -1,0 +1,79 @@
+{
+  "run_at": "2026-11-25T09:15:10+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_json": {
+    "path": "json/latest.json",
+    "before_blob_sha": "9e062a409babccefc13b6e432ad0931094b4492a",
+    "after_blob_sha": "541be318a37bc682af4fa24b859b1bacd87259a4",
+    "update_commit_sha": "2044c7c87460fa18903baa33916b88b9d045c2a6",
+    "count_before": 2669,
+    "added": 2,
+    "corrected": 0,
+    "removed": 0,
+    "count_after": 2671
+  },
+  "additions": [
+    {
+      "name": "伊右衛門カフェ CoCoLo新潟店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-12-01",
+      "category": "日本茶カフェ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000219.000032163.html",
+      "source_type": "operator press release (Cafe Company)",
+      "source_verified": true
+    },
+    {
+      "name": "ワンルーク 浜松中央区佐鳴台店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-12-01",
+      "category": "ペットホテル",
+      "source": "https://prtimes.jp/main/html/rd/p/000000066.000142773.html",
+      "source_type": "operator press release (Japan Pet Hotel Association)",
+      "source_verified": true
+    }
+  ],
+  "existing_matches_not_added": [
+    "Lawson official new-store list: all 28 entries dated 2026-11-25 through 2026-12-08 checked and present",
+    "KFC December official list: all 11 stores checked and present",
+    "PPIH recent domestic store announcements: all 6 stores checked and present",
+    "Super Sports Xebio Aeon Mall Date",
+    "Kona's Coffee Fukushima Station",
+    "Yakiniku Daitouen Isawa",
+    "Tanaka Soba Sendai PARCO2"
+  ],
+  "pending_not_added": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "reason": "official store page confirms location, but exact opening date was not confirmed from an operator source"
+    },
+    {
+      "name": "業務スーパー 中津蛎瀬店",
+      "reason": "local report says the planned opening was postponed; no operator confirmation of a revised date was found"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "reason": "local report describes a 2026-11-25 pre-opening, but no operator-owned announcement was confirmed"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "date_sorted": true,
+    "exact_duplicate_groups": 0,
+    "original_items_preserved_in_order": true,
+    "reread_blob_sha_matches_update": true
+  },
+  "automation": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "checked_enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "schedule_changed": false,
+    "disabled": false
+  },
+  "errors": []
+}
