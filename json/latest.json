@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T05:12:58+09:00",
+  "updatetime": "2026-11-26T06:11:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13570,6 +13570,13 @@
       "category": "とんかつ専門店"
     },
     {
+      "name": "やよい軒 長浜店",
+      "prefecture": "滋賀県",
+      "city": "長浜市",
+      "opening_date": "2026-11-25",
+      "category": "定食レストラン"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -16060,6 +16067,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-01",
       "category": "サービスオフィス"
+    },
+    {
+      "name": "新時代 大垣駅前店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-12-01",
+      "category": "居酒屋（リニューアル）"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
