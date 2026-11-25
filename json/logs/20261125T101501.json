@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-25T10:15:01+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "541be318a37bc682af4fa24b859b1bacd87259a4",
+  "new_blob_sha": "7765a2b507b0cfa8db42f0d7a7dc93b9d73cb9ad",
+  "commit_sha": "f37965f9265183a7f1874d927507463c34297407",
+  "previous_count": 2671,
+  "new_count": 2673,
+  "additions": [
+    {
+      "name": "GOD OF BUTTERCHEESE（あべのハルカス近鉄本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-30",
+      "category": "バターチーズ菓子専門店（近鉄本店限定・全国初）"
+    },
+    {
+      "name": "グラマシーニューヨーク（あべのハルカス近鉄本店・リフレッシュ）",
+      "prefecture": "大阪府",
+      "city": "大阪市阿倍野区",
+      "opening_date": "2026-11-30",
+      "category": "洋菓子店（リフレッシュオープン）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社近鉄百貨店",
+      "title": "あべのハルカス近鉄本店 洋菓子売場リモデル・GOD OF BUTTERCHEESE／グラマシーニューヨーク",
+      "url": "https://prtimes.jp/main/html/rd/p/000000194.000155220.html",
+      "published": "2026-11-24T14:00:00+09:00",
+      "verified": true
+    },
+    {
+      "publisher": "株式会社しまむら／公式店舗検索",
+      "title": "しまむら FUKUOKA TENJIN",
+      "url": "https://sslimg.shimamura.gr.jp/shop/map_detail_2199.html",
+      "verified_existing": true
+    },
+    {
+      "publisher": "三菱商事都市開発・長谷工コーポレーション",
+      "title": "マチノマ小手指竣工・トライアル西友小手指店",
+      "url": "https://www.atpress.ne.jp/news/647829",
+      "published": "2026-11-24T13:00:00+09:00",
+      "verified_existing": true
+    },
+    {
+      "publisher": "ローソン",
+      "title": "新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified_existing": true
+    },
+    {
+      "publisher": "日本KFC",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified_existing": true
+    }
+  ],
+  "unresolved": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "additions_retrieved": true
+  }
+}
