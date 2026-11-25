@@ -1,0 +1,126 @@
+{
+  "executed_at": "2026-11-26T04:11:29+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2717,
+    "blob_sha": "b3c3d3489da30b434c9145b23ba1edc12646f7c7"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "TSUTAYA Trading Card 松戸",
+        "prefecture": "千葉県",
+        "city": "松戸市",
+        "opening_date": "2026-11-13",
+        "category": "トレーディングカード専門店",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261113_009768.html"
+        ],
+        "note": "カルチュア・エクスペリエンス株式会社の2026-11-13付公式発表。テラスモール松戸3階に同日オープン。"
+      },
+      {
+        "name": "TSUTAYA BOOKSTORE ビバモール寝屋川（リニューアル）",
+        "prefecture": "大阪府",
+        "city": "寝屋川市",
+        "opening_date": "2026-11-13",
+        "category": "書店・トレーディングカード・プラモデル・キャラクターグッズ（リニューアル）",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261113_009767.html"
+        ],
+        "note": "カルチュア・エクスペリエンス株式会社の2026-11-13付公式発表。店舗を新たなエンタテイメント型モデルへ同日リニューアル。"
+      },
+      {
+        "name": "MOBILITY LOUNGE 川根本町｜長島ダムフロント",
+        "prefecture": "静岡県",
+        "city": "榛原郡川根本町",
+        "opening_date": "2026-11-20",
+        "category": "車中泊拠点・モビリティラウンジ",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261120_009785.html"
+        ],
+        "note": "川根本町・長島ダム管理所・CCCの公式発表。所在地は静岡県榛原郡川根本町犬間3-34、運用開始日は2026-11-20。"
+      },
+      {
+        "name": "TSUTAYA Conditioning ウニクス伊奈店",
+        "prefecture": "埼玉県",
+        "city": "北足立郡伊奈町",
+        "opening_date": "2026-12-01",
+        "category": "ライフスタイルジム・マシンピラティス・ブックラウンジ",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261120_009784.html"
+        ],
+        "note": "カルチュア・エクスペリエンス株式会社の2026-11-20付公式発表。埼玉県北足立郡伊奈町のウニクス伊奈内に2026-12-01グランドオープン。"
+      },
+      {
+        "name": "AONA大阪梅田",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-01",
+        "category": "サービスオフィス",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261124_009783.html"
+        ],
+        "note": "CCC・JR西日本不動産開発・JR西日本不動産マネジメント・Compass Offices Japanの公式発表。大阪市北区芝田二丁目7番20号、サービスオフィス開業日は2026-12-01。"
+      },
+      {
+        "name": "SHARE LOUNGE AONA大阪梅田",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-09",
+        "category": "カフェラウンジ・コワーキングスペース",
+        "sources": [
+          "https://www.ccc.co.jp/news/press/20261124_009783.html"
+        ],
+        "note": "同施設の公式発表で、併設SHARE LOUNGEの開業日はサービスオフィスとは別の2026-12-09と確認。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "桐松屋：2026-12-01の既存レコードを確認、重複追加なし。",
+    "KFC公式の2026年12月新店11店舗：全件既存登録済み。",
+    "すき家 札幌平岡店：既存登録済み。",
+    "プロント珈琲庭園 nonowa 国立店：既存登録済み。"
+  ],
+  "after": {
+    "item_count": 2723,
+    "blob_sha": "7eaeb27f8dafca6fa5a3e4dd916c52304b11b987",
+    "update_commit_sha": "ed32feedb1eccff4d05077bf54fbbb9578e774fd"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：全館は2027年春予定。個別テナントの追加開業日は未確認。",
+    "モラージュ菖蒲ロフト：運営元公式発表で2027年3月初旬を再確認。日付は未確定。",
+    "LAVA新鎌ヶ谷店：運営元公式発表で2027年2月を再確認。日付は未確定。",
+    "資さんうどん 和泉観音寺店：二次情報に日付の食い違いがあり、今回も運営元公式の開店日を確認できず保留。"
+  ],
+  "review_notes": [
+    "AONA大阪梅田のサービスオフィス（12/1）とSHARE LOUNGE（12/9）は公式発表に別々の開業日があるため、別レコードとして登録。",
+    "TSUTAYA BOOKSTORE ビバモール寝屋川は既存のガシャポン専門店レコードとは別の、書店本体のリニューアルとして登録。",
+    "MOBILITY LOUNGEは公式発表の「運用開始日」を開業日として記録。",
+    "日付が月・時期までしか確認できない案件は、日付を推測して追加していない。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T04:15:00+09:00",
+    "run_history_note": "今回のlast_runはin_progressでcompleted_at未設定。latest_resultのrun_idは今回のlast_run.idと異なり、前回実行結果。"
+  }
+}
