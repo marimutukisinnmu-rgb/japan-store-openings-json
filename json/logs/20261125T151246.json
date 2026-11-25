@@ -1,0 +1,141 @@
+{
+  "run_at": "2026-11-25T15:12:46+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "f265ead80883384298d0d6af3b2e7838c2dfe512",
+  "new_blob_sha": "06c1c89b972951f69cad6155f0304fdea7a24cd7",
+  "commit_sha": "38437c2b37d60926fac321b8b35d9dea4b645a56",
+  "previous_count": 2685,
+  "new_count": 2687,
+  "additions": [
+    {
+      "name": "HOUSE of JOAH mini lab",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-14",
+      "category": "ワークショップ専門店"
+    },
+    {
+      "name": "北野エース山形屋店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-28",
+      "category": "食料品専門店"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社YOKUSHI",
+      "title": "HOUSE of JOAH mini lab が11月14日、新大久保にオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194248.html",
+      "published": "2026-11-13 16:30",
+      "verified": true,
+      "verified_existing": false,
+      "result": "運営元の発表で2026-11-14開店、東京都新宿区大久保1-14-16 こまどりビル2Fを確認。既存JSONに同店なしのため追加。"
+    },
+    {
+      "publisher": "株式会社エース",
+      "title": "食料品専門店「北野エース 山形屋店」2026年11月28日オープン",
+      "url": "https://www.ace-group.co.jp/announcement/266.html",
+      "published": "2026-11-17",
+      "verified": true,
+      "verified_existing": false,
+      "result": "運営元公式発表で2026-11-28開店、鹿児島県鹿児島市金生町3-1 山形屋2号館地階を確認。既存JSONに同店なしのため追加。"
+    },
+    {
+      "publisher": "ローソン",
+      "title": "全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified": true,
+      "verified_existing": true,
+      "result": "最新の掲載分を確認。既存JSONと一致する店舗は追加せず。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "12月の11店舗を照合し、既存登録済みを確認。"
+    },
+    {
+      "publisher": "PPIH",
+      "title": "ニュースリリース",
+      "url": "https://ppih.co.jp/news/",
+      "published": "2026-11-24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "MEGAドン・キホーテ Olympic 洋光台店などの国内店舗発表を照合し、既存登録済みを確認。"
+    },
+    {
+      "publisher": "日本マクドナルド株式会社",
+      "title": "マクドナルド 伏見桃山店 採用・店舗情報",
+      "url": "https://crewrecruiting.mcdonalds.co.jp/map/y26602",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-30グランドオープンと京都市伏見区銀座町1-361を公式採用ページで確認。既存JSONに登録済み。"
+    },
+    {
+      "publisher": "ファーストキッチン株式会社／ウェンディーズ・ジャパン株式会社",
+      "title": "ウェンディーズ・ファーストキッチン ワカバウォーク店 12月5日開店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000307.000059385.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-12-05開店、埼玉県鶴ヶ島市富士見1-2-1を確認。既存JSONに登録済み。"
+    },
+    {
+      "publisher": "株式会社JT",
+      "title": "meet@FINOA 新大久保 11月22日グランドオープン",
+      "url": "https://jt-company.co.jp/news/",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "東京都新宿区大久保1-12-15、2026-11-22開店を運営元公式ページで確認。既存JSONに登録済み。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "松屋 名取店",
+      "status": "第三者情報では2026-11-28開店予定とされるが、運営元の公式情報で開店日を確認できず。追加保留。"
+    },
+    {
+      "name": "ドトールコーヒーショップ 光が丘店",
+      "status": "地域情報では2026-11-29リニューアル予定とされるが、運営元公式の開店日を確認できず。追加保留。"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "中川政七商店 ソウル西村店",
+      "status": "2026-11-28開店の公式発表を確認したが、韓国の店舗でありJSONの対象範囲（日本国内）外のため追加対象外。"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "total_count": 2687
+  },
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-25T15:15:00+09:00",
+    "recorded_status": "in_progress",
+    "completed_at": null
+  },
+  "notes": [
+    "latest.jsonは更新前SHAを確認してから更新。競合検出なし。",
+    "新規2件は開店日順に挿入し、既存2,685件の内容と相対順序を保持。",
+    "不確実な候補は追加せず、削除・訂正も行っていない。"
+  ]
+}
