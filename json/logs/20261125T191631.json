@@ -90,7 +90,8 @@
     "ゴンチャ 豊田 T-FACE店 / ゴンチャ 豊田T-FACE店",
     "ビッグ・エー 清瀬駅北口店 / ビッグ・エー清瀬駅北口店",
     "うなぎ四代目菊川（新宿東口店） / うなぎ四代目菊川 新宿東口店",
-    "ゴンチャ 富山 MAROOT店 / ゴンチャ 富山MAROOT店"
+    "ゴンチャ 富山 MAROOT店 / ゴンチャ 富山MAROOT店",
+    "LAWSON + toks 等々力緑地店 / LAWSON＋toks等々力緑地"
   ],
   "validation": {
     "json_parse": true,
@@ -101,7 +102,9 @@
     "normalized_name_variant_groups": 9,
     "previous_count": 2703,
     "new_count": 2703,
-    "latest_blob_sha_unchanged": true
+    "latest_blob_sha_unchanged": true,
+    "additional_manual_name_variant_groups": 1,
+    "total_name_variant_candidates": 10
   },
   "automation_status": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
@@ -117,6 +120,7 @@
     "mainブランチのjson/latest.jsonを更新前に取得し、JSON解析と件数を確認した。",
     "今回確認した公式情報の候補はすべて既存登録済みだったため、latest.jsonは書き換えなかった。",
     "既存の表記ゆれ候補9組は誤統合を避けるため変更していない。",
-    "新規実行ログのみ追加する。"
+    "新規実行ログのみ追加する。",
+    "ローソン等々力緑地の表記違い2レコードも追加の統合候補として記録。既存データ保護のため統合・削除は行っていない。"
   ]
 }
