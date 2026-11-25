@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T08:15:08+09:00",
+  "updatetime": "2026-11-25T09:15:10+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15850,6 +15850,20 @@
       "city": "船橋市",
       "opening_date": "2026-12-01",
       "category": "ティーカフェ"
+    },
+    {
+      "name": "伊右衛門カフェ CoCoLo新潟店",
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "opening_date": "2026-12-01",
+      "category": "日本茶カフェ"
+    },
+    {
+      "name": "ワンルーク 浜松中央区佐鳴台店",
+      "prefecture": "静岡県",
+      "city": "浜松市中央区",
+      "opening_date": "2026-12-01",
+      "category": "ペットホテル"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
