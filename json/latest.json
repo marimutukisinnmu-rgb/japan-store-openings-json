@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T23:17:56+09:00",
+  "updatetime": "2026-11-26T00:15:51+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15992,6 +15992,13 @@
       "category": "弁当・惣菜ショップ"
     },
     {
+      "name": "PAPABUBBLE 大丸梅田店",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "アートキャンディ専門店"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16130,6 +16137,13 @@
       "city": "中央区",
       "opening_date": "2026-12-02",
       "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "バースデイ FUKUOKA TENJIN店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-02",
+      "category": "ベビー・子供用品"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
