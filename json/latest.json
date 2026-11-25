@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T10:15:01+09:00",
+  "updatetime": "2026-11-25T11:15:06+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15878,6 +15878,13 @@
       "city": "浜松市中央区",
       "opening_date": "2026-12-01",
       "category": "ペットホテル"
+    },
+    {
+      "name": "なだ万 ラゾーナ川崎プラザ店",
+      "prefecture": "神奈川県",
+      "city": "川崎市幸区",
+      "opening_date": "2026-12-01",
+      "category": "弁当・惣菜ショップ"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
