@@ -1,0 +1,228 @@
+{
+  "run_at": "2026-11-25T12:15:05+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "4d5e4d970508ca1433baa0c737fecc5c54d5679e",
+  "new_blob_sha": "bd79fbc119a251b0ec2ca5fdc73655a762700cd8",
+  "commit_sha": "87aae2d6c1aeb3edf4153e9c68278a048c9afee2",
+  "previous_count": 2674,
+  "new_count": 2684,
+  "additions": [
+    {
+      "name": "Max Mara 75 Years: The Art of Making（伊勢丹新宿店 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-04",
+      "category": "期間限定ファッション・ポップアップ（2026-11-04〜2026-11-10）"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（銀座三越 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-11",
+      "category": "期間限定ファッション・ポップアップ（2026-11-11〜2026-11-17）"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（日本橋三越本店 POP UP STORE）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・ポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（阪急うめだ本店 POP UP STORE）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "Max Mara 75 Years: The Art of Making（岩田屋本店 POP UP STORE）",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-16",
+      "category": "期間限定ファッション・ポップアップ（2026-12-16〜2026-12-22）"
+    },
+    {
+      "name": "Weekend Max Mara A WEEKEND IN IRELAND POP-UP STORE（伊勢丹新宿店）",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・ポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "Weekend Max Mara A WEEKEND IN IRELAND POP-UP STORE（阪急うめだ本店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "Max Mara Progetto di Tessile POP-UP STORE（大丸心斎橋店）",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-11-25",
+      "category": "期間限定ファッション・アクセサリーポップアップ（2026-11-25〜2026-12-01）"
+    },
+    {
+      "name": "Max Mara POP-UP STORE（松屋銀座）",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定ファッション・ポップアップ（2026-12-02〜2026-12-08）"
+    },
+    {
+      "name": "Weekend Max Mara POP-UP STORE（玉川高島屋）",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-10-14",
+      "category": "期間限定ファッション・ポップアップ（終了日未発表）"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社マックスマーラ ジャパン",
+      "title": "ブランド75周年記念ポップアップストア「Max Mara 75 Years: The Art of Making」全国5店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000386.000008758.html",
+      "published": "2026-11-05T18:06:00+09:00",
+      "verified": true,
+      "verified_existing": false
+    },
+    {
+      "publisher": "マックスマーラ公式",
+      "title": "お知らせ：Weekend Max Mara A WEEKEND IN IRELAND、Progetto di Tessile、松屋銀座POP-UP、玉川高島屋POP-UP",
+      "url": "https://jp.maxmara.com/info/customer-care/information",
+      "verified": true,
+      "verified_existing": false
+    },
+    {
+      "publisher": "日本橋三越本店",
+      "title": "Max Mara 75 Years: The Art of Making POP-UP STORE",
+      "url": "https://www.mistore.jp/store/nihombashi/shops/luxury/boutique_3f/shopnews_list/shopnews086.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "阪急うめだ本店",
+      "title": "Max Mara POP-UP STORE Max Mara 75 Years: The Art of Making",
+      "url": "https://www.hankyu-dept.co.jp/honten/shopnews/detail/12718045_2067.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "ローソン",
+      "title": "全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "PPIH",
+      "title": "ニュースリリース（2026年11月24日・20日・17日分）",
+      "url": "https://ppih.co.jp/news/",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "すき家",
+      "title": "新着情報・札幌平岡店",
+      "url": "https://maps.sukiya.jp/jp/detail/6639.html",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "日本橋高島屋S.C.",
+      "title": "新店退店情報：ラ パナデリーア ドッツ",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "verified": true,
+      "verified_existing": true
+    },
+    {
+      "publisher": "株式会社資生堂",
+      "title": "ザ・ギンザ パフューマリースキヤ一番町店 常設カウンター",
+      "url": "https://prtimes.jp/main/html/rd/p/000003226.000005794.html",
+      "published": "2026-10-30T13:00:00+09:00",
+      "verified": true,
+      "verified_existing": true
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "status": "公式店舗ページで所在地・営業情報は確認できるが、運営元公式の開店日を確認できず。地域系情報の2026-10-25表記だけでは確定せず保留"
+    },
+    {
+      "name": "業務スーパー 中津蛎瀬店",
+      "status": "地域情報に12月上旬・12月10日の記載があるが、運営元の現行公式発表で日付を確定できず保留"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "status": "11月25日プレオープンの地域報道は確認できたが、運営元の公式発表を確認できず保留"
+    },
+    {
+      "name": "ぎょうざの満洲 ジェラート工房",
+      "status": "公式告知は2026年12月プレオープン予定まで。正確な日付が未発表のため追加せず保留"
+    },
+    {
+      "name": "マックスマーラ 銀座三丁目店の後継新店舗",
+      "status": "2027年春に銀座地区へ新店舗予定との公式発表はあるが、店名・住所・開店日が未確定のため追加せず"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "additions_retrieved": true,
+    "total_count": 2684
+  },
+  "source_checks": [
+    {
+      "publisher": "ローソン",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "11月26日〜12月8日の公式掲載分を照合。既存データに登録済み"
+    },
+    {
+      "publisher": "日本KFC",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "result": "2026年12月の公式11店舗を照合。すべて既存登録済み"
+    },
+    {
+      "publisher": "PPIH",
+      "url": "https://ppih.co.jp/news/",
+      "result": "11月24日洋光台店、11月20日ロビン・フッド2店舗、11月17日志村坂下店を照合。既存登録済み"
+    },
+    {
+      "publisher": "すき家",
+      "url": "https://maps.sukiya.jp/jp/detail/6639.html",
+      "result": "札幌平岡店の2026-11-30開店・住所を確認。既存登録済み"
+    },
+    {
+      "publisher": "日本橋高島屋S.C.",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "result": "ラ パナデリーア ドッツ 2026-11-25〜12-08を確認。既存登録済み"
+    },
+    {
+      "publisher": "株式会社資生堂",
+      "url": "https://prtimes.jp/main/html/rd/p/000003226.000005794.html",
+      "result": "ザ・ギンザの常設カウンター開設情報を確認。Perfumerie Sukiya一番町店の既存レコードに該当するため別レコードは追加せず"
+    }
+  ],
+  "duplicate_candidates": []
+}
