@@ -1,0 +1,166 @@
+{
+  "run_at": "2026-11-25T13:19:41+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "bd79fbc119a251b0ec2ca5fdc73655a762700cd8",
+  "new_blob_sha": "bd79fbc119a251b0ec2ca5fdc73655a762700cd8",
+  "commit_sha": null,
+  "previous_count": 2684,
+  "new_count": 2684,
+  "additions": [],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン",
+      "title": "12月の新店情報（更新・11店舗）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式発表の11店舗すべてについて店名・開店日が既存JSONと一致"
+    },
+    {
+      "publisher": "すき家",
+      "title": "新着情報・札幌平岡店",
+      "url": "https://www.sukiya.jp/news/index.html",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "札幌平岡店（2026-11-30）を既存JSONで確認。2026-11-25掲載分は商品告知で、新店追加なし"
+    },
+    {
+      "publisher": "アトリエ株式会社",
+      "title": "ドーナツ専門店「桐松屋」12月1日グランドオープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+      "published": "2026-11-20T09:10:00+09:00",
+      "verified": true,
+      "verified_existing": true,
+      "result": "墨田区東向島、2026-12-01グランドオープン。既存レコード一致。11-28プレオープンは別日として新規登録せず"
+    },
+    {
+      "publisher": "株式会社KISSUI GROUP",
+      "title": "月島もんじゃ こてつ イオンモール伊達",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000186441.html",
+      "published": "2026-11-10T13:00:00+09:00",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-27グランドオープン、11-20〜26プレオープン。既存レコード一致"
+    },
+    {
+      "publisher": "株式会社POP MART JAPAN",
+      "title": "POP MART LUCUA SOUTH店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "published": "2026-10-30T11:00:00+09:00",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-24グランドオープン。既存レコード一致"
+    },
+    {
+      "publisher": "株式会社アンドエスティHD／株式会社アダストリア",
+      "title": "LAKOLE サンシャインシティアルタ店",
+      "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+      "published": "2026-11-19T11:30:00+09:00",
+      "verified": true,
+      "verified_existing": true,
+      "result": "2026-11-20オープン。表記「LAKOLE（サンシャインシティ ALTA）」で既存登録済み"
+    },
+    {
+      "publisher": "株式会社ぎょうざの満洲",
+      "title": "最新イベント情報・ジェラート工房",
+      "url": "https://mansyu.co.jp/event/index.php",
+      "verified": true,
+      "verified_existing": false,
+      "result": "公式告知で2026年12月プレオープンを確認。正確な日付なしのため登録保留"
+    },
+    {
+      "publisher": "マックスマーラ公式",
+      "title": "銀座地区の新ショップ告知",
+      "url": "https://jp.maxmara.com/info/customer-care/information",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2027年春の銀座地区新ショップ予定を確認。店名・住所・日付が未発表のため登録保留"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "status": "公式の店舗別開店日を確認できず。非公式店舗情報のみでは確定せず保留"
+    },
+    {
+      "name": "業務スーパー 中津蛎瀬店",
+      "status": "地域情報に12月上旬・12月10日の記載があるが、運営元の現行公式発表で確定日を確認できず保留"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "status": "11月25日プレオープンの地域報道はあるが、運営元の公式発表を確認できず保留"
+    },
+    {
+      "name": "ぎょうざの満洲 ジェラート工房",
+      "status": "運営元公式で2026年12月プレオープンを確認。正確な日付未発表のため保留"
+    },
+    {
+      "name": "マックスマーラ 銀座地区の後継新店舗",
+      "status": "公式で2027年春予定を確認。店名・所在地・正確な開店日未発表のため保留"
+    }
+  ],
+  "source_checks": [
+    {
+      "publisher": "日本KFC",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "result": "12月の11店舗すべて既存JSONに登録済み"
+    },
+    {
+      "publisher": "すき家",
+      "url": "https://www.sukiya.jp/news/index.html",
+      "result": "札幌平岡店を既存JSONで確認。11月25日掲載は商品情報"
+    },
+    {
+      "publisher": "アトリエ株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+      "result": "桐松屋の12月1日グランドオープンを既存JSONで確認"
+    },
+    {
+      "publisher": "KISSUI GROUP",
+      "url": "https://prtimes.jp/main/html/rd/p/000000013.000186441.html",
+      "result": "月島もんじゃ こてつ イオンモール伊達を既存JSONで確認"
+    },
+    {
+      "publisher": "POP MART JAPAN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+      "result": "POP MART LUCUA SOUTH店を既存JSONで確認"
+    },
+    {
+      "publisher": "アンドエスティHD／アダストリア",
+      "url": "https://prtimes.jp/main/html/rd/p/000003377.000001304.html",
+      "result": "LAKOLE サンシャインシティアルタ店を既存JSONで確認"
+    },
+    {
+      "publisher": "ぎょうざの満洲",
+      "url": "https://mansyu.co.jp/event/index.php",
+      "result": "ジェラート工房は12月プレオープン予定まで。日付未確定"
+    },
+    {
+      "publisher": "マックスマーラ公式",
+      "url": "https://jp.maxmara.com/info/customer-care/information",
+      "result": "銀座地区の後継新店舗は2027年春予定。詳細未発表"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "candidate_matches_retrieved": true,
+    "total_count": 2684
+  },
+  "notes": [
+    "今回は確認した新店候補がすべて既存JSONに登録済みだったため、json/latest.jsonは変更しない",
+    "latest.jsonのupdatetimeは前回データ更新時刻2026-11-25T12:15:05+09:00を維持",
+    "未確定日・非公式情報を推測で登録していない"
+  ]
+}
