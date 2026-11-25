@@ -15586,6 +15586,20 @@
       "category": "洋菓子店（リフレッシュオープン）"
     },
     {
+      "name": "The Visitor Place",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-30",
+      "category": "観光案内所・交流拠点"
+    },
+    {
+      "name": "Littlemakers（The Visitor Place）",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-11-30",
+      "category": "カフェ・レストラン"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -16678,6 +16692,20 @@
       "category": "イタリアンレストラン（リニューアル）"
     },
     {
+      "name": "CASIO STORE HARAJUKU",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-04",
+      "category": "時計専門店"
+    },
+    {
+      "name": "うなぎ四代目菊川 新宿東口店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-12-04",
+      "category": "うなぎ料理専門店"
+    },
+    {
       "name": "BONTEMPS 田川店",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -17663,6 +17691,13 @@
       "city": "中津市",
       "opening_date": "2026-12-10",
       "category": "スーパーマーケット"
+    },
+    {
+      "name": "うなぎ四代目菊川 秋葉原UDX店",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "opening_date": "2026-12-10",
+      "category": "うなぎ料理専門店"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
@@ -18748,6 +18783,55 @@
       "city": "町田市",
       "opening_date": "2027-01-30",
       "category": "期間限定公式ポップアップ（2027-01-30〜2027-02-07）"
+    },
+    {
+      "name": "Rintosull甲府店",
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullイオン乙金店",
+      "prefecture": "福岡県",
+      "city": "大野城市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullパルネス前後店",
+      "prefecture": "愛知県",
+      "city": "豊明市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull吹田店",
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosullビバモール美原南インター店",
+      "prefecture": "大阪府",
+      "city": "堺市美原区",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "Rintosull野田店",
+      "prefecture": "大阪府",
+      "city": "大阪市福島区",
+      "opening_date": "2027-02-01",
+      "category": "マシンピラティススタジオ"
+    },
+    {
+      "name": "LAVA半田店",
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "opening_date": "2027-02-01",
+      "category": "ホットヨガ・マシンピラティススタジオ"
     },
     {
       "name": "ロビン・フッド成城店（仮称）",
