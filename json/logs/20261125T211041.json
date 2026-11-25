@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-11-25T21:10:41+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "abd88d5a75354f62db03257000d55a6a1f9365d1",
+  "new_blob_sha": "f2e0d18bcb92175c956e1ec381fa172d93f272f5",
+  "data_commit": "608ba8d5a4e74fcd5b4da85a7d7d873464482e81",
+  "previous_count": 2706,
+  "new_count": 2707,
+  "additions": [
+    {
+      "name": "ライフ（HiViE堺東）",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-12-09",
+      "category": "スーパーマーケット"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社NANKAI",
+      "title": "HiViE堺東 1階「ライフ」2026年12月9日オープン決定",
+      "url": "https://prtimes.jp/main/html/rd/p/000000160.000076595.html",
+      "published": "2026-11-25 14:41",
+      "verified": true,
+      "verified_existing": false,
+      "result": "2026-12-09開店。大阪府堺市堺区三国ヶ丘御幸通59番地（HiViE堺東・1階）。スーパーマーケット。"
+    },
+    {
+      "publisher": "HiViE堺東（施設公式）",
+      "title": "ライフオープン日12/9に決定！",
+      "url": "https://hivie-sakaihigashi.jp/event/detail/30?hold_calendar=26-12-09~26-12-31&publish_begin=26-11-18&publish_end=26-12-31",
+      "published": "2026-11-18",
+      "verified": true,
+      "verified_existing": false,
+      "result": "施設公式ページでも2026-12-09の開店日を確認。"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "title": "三井アウトレットパーク ジャズドリーム長島 秋冬新規・リニューアル店舗情報",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "published": "2026-10-29",
+      "verified": true,
+      "verified_existing": true,
+      "result": "今回確認したPYRENEX（2026-10-17）およびCASIO WATCH OUTLET（2026-12-11）は既存JSONに登録済み。重複追加なし。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "HiViE堺東のその他の入居テナント",
+      "status": "無印良品、DAISO系ブランド、丸善、ABC-MART、3COINS+plus等の出店は公表済みだが、個別の開業日未発表。2027年春の段階的開業予定のため未追加。"
+    },
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "2027年3月初旬予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "2027年2月予定。正確な日付未発表。今回再確認していないため保留継続。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "個別店舗の開店日を独立した公式情報で確定できず、既存日付を保護。今回再確認していないため保留継続。"
+    }
+  ],
+  "name_variant_candidates": [],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_sort": true,
+    "exact_duplicate_items": 0,
+    "previous_count": 2706,
+    "new_count": 2707,
+    "existing_item_order_and_content_preserved": true,
+    "additions_count": 1,
+    "latest_blob_sha_unchanged_after_write": false,
+    "independent_refetch_verified": true
+  },
+  "errors": [
+    "初回の複合的な事後検証処理はSHA比較を含む判定で失敗を返した。直後のGitHub再取得、旧コミットとの全件比較、最新コミット差分の確認を別経路で実施し、追加1件・削除0件・既存2,706件の内容と順序維持を確認した。データ保存自体は成功。"
+  ],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": false,
+    "schedule_definition": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "note": "今回の実行完了後、管理側の更新操作で無効化された。スケジュール定義は残るが、無効状態のため自動実行されない。"
+  },
+  "notes": [
+    "更新前にmain/json/latest.jsonを取得し、blob SHA、JSON解析、件数を確認した。",
+    "NANKAIの2026-11-25公式発表とHiViE堺東の施設公式ページで開店日・所在地・業種を照合した。",
+    "新規1件のみ追加し、既存2,706件は内容・相対順序を保持した。",
+    "保存後にmainから再取得し、新blob SHA、件数、日付順、完全一致重複0件を検証した。",
+    "旧コミットとの比較で既存2,706件の内容・順序がすべて維持されていることを確認した。"
+  ]
+}
