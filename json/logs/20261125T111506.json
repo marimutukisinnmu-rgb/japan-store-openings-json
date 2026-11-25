@@ -1,0 +1,140 @@
+{
+  "run_at": "2026-11-25T11:15:06+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "7765a2b507b0cfa8db42f0d7a7dc93b9d73cb9ad",
+  "new_blob_sha": "4d5e4d970508ca1433baa0c737fecc5c54d5679e",
+  "commit_sha": "44a9603b292ef274cb229dfb4fa946a473ca0986",
+  "previous_count": 2673,
+  "new_count": 2674,
+  "additions": [
+    {
+      "name": "なだ万 ラゾーナ川崎プラザ店",
+      "prefecture": "神奈川県",
+      "city": "川崎市幸区",
+      "opening_date": "2026-12-01",
+      "category": "弁当・惣菜ショップ"
+    }
+  ],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社なだ万",
+      "title": "弁当・惣菜ショップ「なだ万 ラゾーナ川崎プラザ店」12月1日（火）グランドオープン！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000145619.html",
+      "published": "2026-11-24T14:30:00+09:00",
+      "verified": true
+    },
+    {
+      "publisher": "株式会社ゴンチャ ジャパン",
+      "title": "ゴンチャ イオンモール船橋店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000460.000048503.html",
+      "published": "2026-11-24T11:00:00+09:00",
+      "verified_existing": true
+    },
+    {
+      "publisher": "JR東日本東北総合サービス株式会社",
+      "title": "福島ピボット 2026年12月リニューアル・新規出店6店舗",
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+      "published": "2026-11-24T16:00:00+09:00",
+      "verified_existing": true
+    },
+    {
+      "publisher": "株式会社ダイニングイノベーション",
+      "title": "七宝麻辣湯 福島駅西口店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000500.000034691.html",
+      "published": "2026-11-24T16:00:00+09:00",
+      "verified_existing": true
+    },
+    {
+      "publisher": "ローソン",
+      "title": "新店舗情報",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "verified_existing": true
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "verified_existing": true
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "title": "三井アウトレットパーク ジャズドリーム長島 オープン・リニューアル",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/openclose/",
+      "verified_existing": true
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "LifeFit 北助松駅前店",
+      "status": "地域報道では2026-11-24にオープン済みとされるが、運営元の公式な開店日情報を確認できず。今回は追加・訂正せず保留"
+    },
+    {
+      "name": "業務スーパー 中津蛎瀬店",
+      "status": "地域情報に「12月上旬」と「12月10日」の異なる表記がある。運営元の現行公式発表で確定日を再確認できず、保留"
+    },
+    {
+      "name": "そしがやベーカリー",
+      "status": "地域報道では2026-11-25プレオープンとされるが、運営元の公式発表を確認できず、保留"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields": true,
+    "date_format": true,
+    "chronological_sort": true,
+    "exact_duplicate_keys": 0,
+    "previous_items_preserved_in_original_relative_order": true,
+    "re_fetched_sha_matches": true,
+    "additions_retrieved": true,
+    "total_count": 2674
+  },
+  "duplicate_candidates": [
+    {
+      "records": [
+        "LAWSON + toks 等々力緑地店",
+        "LAWSON＋toks等々力緑地"
+      ],
+      "reason": "公式ローソン一覧では1店舗。表記違いの既存レコード2件を保持し、統合保留"
+    },
+    {
+      "records": [
+        "WECLE 自由が丘店",
+        "ピラティス ウィークル（WECLE）自由が丘店"
+      ],
+      "reason": "同じ所在地・開店日・業態とみられるため統合保留"
+    },
+    {
+      "records": [
+        "bebeswan POPUP（北千住マルイ）",
+        "bebeswan POPUPイベント（北千住マルイ）"
+      ],
+      "reason": "同一催事の可能性があるため統合保留"
+    }
+  ],
+  "source_checks": [
+    {
+      "publisher": "ローソン",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "result": "公式一覧39候補を照合。既存登録で対応済み。LAWSON＋toks等々力緑地は表記違いの2レコードが存在するため重複候補として保持"
+    },
+    {
+      "publisher": "日本KFC",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "result": "2026年12月の11店舗すべて既存登録済み"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント",
+      "url": "https://mitsui-shopping-park.com/mop/nagashima/openclose/",
+      "result": "SALOMON、CASIO WATCH OUTLET、Timberland等の開店日を公式一覧で照合。すべて既存登録済み"
+    },
+    {
+      "publisher": "JR東日本東北総合サービス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000310.000146951.html",
+      "result": "福島ピボットのコナズ珈琲、GOZZO Fukushima、七宝麻辣湯、福島餃子 神楽、凍天処 木乃幡、買取店わかばを照合。6件すべて既存登録済み"
+    }
+  ]
+}
