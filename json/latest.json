@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T06:11:03+09:00",
+  "updatetime": "2026-11-26T07:18:26+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16076,6 +16076,13 @@
       "category": "居酒屋（リニューアル）"
     },
     {
+      "name": "FIT-EASY 有賀園千葉店",
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "opening_date": "2026-12-01",
+      "category": "フィットネスクラブ"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -17553,6 +17560,13 @@
       "category": "カフェラウンジ・コワーキングスペース"
     },
     {
+      "name": "有隣堂 アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "書店・文具・雑貨"
+    },
+    {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
       "prefecture": "東京都",
       "city": "渋谷区",
@@ -17845,6 +17859,13 @@
       "city": "奈良市",
       "opening_date": "2026-12-10",
       "category": "食品ロス削減ショップ"
+    },
+    {
+      "name": "THE STAND BY KOBEYA 桜新町駅店",
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "opening_date": "2026-12-10",
+      "category": "ベーカリー・カフェ"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
