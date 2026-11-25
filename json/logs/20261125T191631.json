@@ -1,0 +1,122 @@
+{
+  "run_at": "2026-11-25T19:16:31+09:00",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_blob_sha": "4687c5274e83e6941a8f0f142b2523bcc70ed493",
+  "new_blob_sha": "4687c5274e83e6941a8f0f142b2523bcc70ed493",
+  "data_commit": null,
+  "previous_count": 2703,
+  "new_count": 2703,
+  "additions": [],
+  "corrections": [],
+  "deletions": [],
+  "sources": [
+    {
+      "publisher": "株式会社ローソン",
+      "title": "新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "published": null,
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式一覧の2026-11-25〜2026-12-08掲載分27店舗を照合。全27件が同日・地域・店舗名で既存登録済み。表記違いの既存レコードは統合・削除せず保持。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "title": "12月の新店情報（更新）",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "published": "2026-11-20",
+      "verified": true,
+      "verified_existing": true,
+      "result": "公式発表の2026年12月11店舗を照合。11店舗すべて既存登録済み。"
+    },
+    {
+      "publisher": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "title": "ニュースリリース一覧および店舗別公式発表",
+      "url": "https://ppih.co.jp/news/",
+      "published": "2026-11-24",
+      "verified": true,
+      "verified_existing": true,
+      "result": "ロビン・フッド北新宿店、亀戸店、朝霞泉水店、MEGAドン・キホーテ Olympic 洋光台店・高井戸店を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "日本橋高島屋S.C.",
+      "title": "新店退店情報",
+      "url": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+      "published": null,
+      "verified": true,
+      "verified_existing": true,
+      "result": "KINO（11/17）、ハウス（11/20）、ラ パナデリーア ドッツ（11/25）の3件を照合。全件既存登録済み。"
+    },
+    {
+      "publisher": "キルフェボン株式会社",
+      "title": "キル フェ ボン新宿 2026年11月28日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+      "published": "2026-10-01",
+      "verified": true,
+      "verified_existing": true,
+      "result": "東京都新宿区、2026-11-28開店の既存レコードを確認。"
+    },
+    {
+      "publisher": "株式会社PAPABUBBLE",
+      "title": "PAPABUBBLE イクスピアリ店 11月21日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html",
+      "published": "2026-11-05",
+      "verified": true,
+      "verified_existing": true,
+      "result": "千葉県浦安市、2026-11-21開店の既存レコードを確認。"
+    }
+  ],
+  "unresolved": [
+    {
+      "name": "モラージュ菖蒲ロフト",
+      "status": "前回確認時点で2027年3月初旬予定。正確な日付未発表。本実行では再確認していないため保留継続。"
+    },
+    {
+      "name": "LAVA新鎌ヶ谷店",
+      "status": "前回確認時点で2027年2月予定。正確な日付未発表。本実行では再確認していないため保留継続。"
+    },
+    {
+      "name": "資さんうどん 和泉観音寺店",
+      "status": "個別店舗の開店日を独立した公式情報で確定できず、既存日付を保護。本実行では再確認していないため保留継続。"
+    }
+  ],
+  "name_variant_candidates": [
+    "らかんスタジオ Finelight 前橋店 / らかんスタジオ Finelight前橋店",
+    "ロンハーマン タカシマヤ ゲートタワーモール店 / ロンハーマン タカシマヤゲートタワーモール店",
+    "スープカレーSAMA 羽田空港店 / スープカレーSAMA羽田空港店",
+    "無印良品 久喜吉羽 / 無印良品久喜吉羽",
+    "高価買取おたからや サンリブきふね店 / 高価買取おたからやサンリブきふね店",
+    "ゴンチャ 豊田 T-FACE店 / ゴンチャ 豊田T-FACE店",
+    "ビッグ・エー 清瀬駅北口店 / ビッグ・エー清瀬駅北口店",
+    "うなぎ四代目菊川（新宿東口店） / うなぎ四代目菊川 新宿東口店",
+    "ゴンチャ 富山 MAROOT店 / ゴンチャ 富山MAROOT店"
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "chronological_sort": true,
+    "exact_duplicate_items": 0,
+    "normalized_name_variant_groups": 9,
+    "previous_count": 2703,
+    "new_count": 2703,
+    "latest_blob_sha_unchanged": true
+  },
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status_at_check": "in_progress",
+    "completed_at": null,
+    "next_run_time_at_check": "2026-11-25T19:15:00+09:00",
+    "note": "設定は変更していない。実行中の記録と完了記録は区別する。"
+  },
+  "notes": [
+    "mainブランチのjson/latest.jsonを更新前に取得し、JSON解析と件数を確認した。",
+    "今回確認した公式情報の候補はすべて既存登録済みだったため、latest.jsonは書き換えなかった。",
+    "既存の表記ゆれ候補9組は誤統合を避けるため変更していない。",
+    "新規実行ログのみ追加する。"
+  ]
+}
