@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T20:18:12+09:00",
+  "updatetime": "2026-11-25T21:10:41+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17432,6 +17432,13 @@
       "city": "中野区",
       "opening_date": "2026-12-09",
       "category": "惣菜・和食"
+    },
+    {
+      "name": "ライフ（HiViE堺東）",
+      "prefecture": "大阪府",
+      "city": "堺市堺区",
+      "opening_date": "2026-12-09",
+      "category": "スーパーマーケット"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
