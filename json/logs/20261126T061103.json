@@ -89,5 +89,12 @@
     "timezone": "Asia/Tokyo",
     "next_run_time_at_inspection": "2026-11-26T06:15:00+09:00",
     "run_history_note": "この実行はin_progressでcompleted_at未設定。latest_resultのrun_idは今回のlast_run.idと異なり、前回実行分。"
+  },
+  "automation_state_after_run": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": false,
+    "schedule": "HOURLY;BYMINUTE=15 (unchanged)",
+    "next_run_time_when_disabled": "2026-11-26T06:15:00+09:00",
+    "note": "Automation was disabled after the successful run by the automation runtime policy; the configured schedule was not edited."
   }
 }
