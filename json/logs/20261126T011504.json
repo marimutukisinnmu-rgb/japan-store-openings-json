@@ -1,0 +1,111 @@
+{
+  "executed_at": "2026-11-26T01:15:04+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2711,
+    "blob_sha": "a622fb4af72d5da6980ce319e20c926fca919cb9"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "リンツ グラン ショコラ ブティック（星ヶ丘三越）",
+        "prefecture": "愛知県",
+        "city": "名古屋市千種区",
+        "opening_date": "2026-12-01",
+        "category": "チョコレート専門店・百貨店初出店",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000024.000185183.html"
+        ],
+        "note": "株式会社名古屋三越の2026-11-25付公式発表。12月1日NEW OPEN。"
+      },
+      {
+        "name": "ベジテリア（星ヶ丘三越・リフレッシュオープン）",
+        "prefecture": "愛知県",
+        "city": "名古屋市千種区",
+        "opening_date": "2026-12-02",
+        "category": "ジュース・スープ・食品（リフレッシュオープン）",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000024.000185183.html"
+        ],
+        "note": "株式会社名古屋三越の2026-11-25付公式発表。12月2日REFRESH OPEN。"
+      },
+      {
+        "name": "アバハウス（ルクア イーレ）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-01",
+        "category": "メンズファッション",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000461.000021989.html"
+        ],
+        "note": "株式会社ジェイアール西日本伊勢丹の2026-11-20付公式発表。12月1日OPEN。"
+      },
+      {
+        "name": "アリア 名古屋駅前店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-12-19",
+        "category": "ジュエリー・ブランド品買取販売",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000017.000126230.html"
+        ],
+        "note": "株式会社K-GOLDインターナショナルの2026-11-18付公式発表。12月19日OPEN。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "QUEEN SHOP（ルクア イーレ）",
+    "ケンエレスタンド（ルクア イーレ）",
+    "ファンファンマーケット（ルクア イーレ・ザ・キッス プラス内）",
+    "LAH（ルクア イーレ・va内）",
+    "マックロ（ルクア イーレ）",
+    "CRONOS（ルクア イーレ）",
+    "ラ セッションズ（ルクア イーレ・リニューアル）",
+    "桐松屋",
+    "すき家 札幌平岡店",
+    "サブウェイ イオン三ツ境店",
+    "ゴンチャ 仙台PARCO2店",
+    "中華そば専門 田中そば店（仙台PARCO2）",
+    "韓美膳 仙台PARCO2店",
+    "ラベイユ ランドマークプラザ",
+    "フォーナインズ（ランドマークプラザ）"
+  ],
+  "after": {
+    "item_count": 2715,
+    "blob_sha": "4ad8033ca216219bc2d10d951f518680f0e5d514",
+    "update_commit_sha": "116dc79be8f5f0f93b067c099af4bf43cd4dffa5"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [
+    "Initial combined update/log orchestration returned a transient ReadTimeout after latest.json was updated.",
+    "A separate GitHub read verified the JSON update. The first separate log creation attempt was rejected with HTTP 409 because the repository rule evaluation timed out."
+  ],
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：個別開業日未発表",
+    "モラージュ菖蒲ロフト：2027年3月初旬予定、正確な日付未発表",
+    "LAVA新鎌ヶ谷店：2027年2月予定、正確な日付未発表",
+    "資さんうどん 和泉観音寺店：個別店舗の開店日を確定できず"
+  ],
+  "automation_state": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T01:15:00+09:00",
+    "run_history_note": "Current scheduled run was in_progress with completed_at unset; the previous latest_result belonged to an older run."
+  }
+}
