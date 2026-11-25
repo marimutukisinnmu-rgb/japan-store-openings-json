@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T16:17:26+09:00",
+  "updatetime": "2026-11-25T18:10:10+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15005,6 +15005,13 @@
       "category": "ラーメン店（業態転換・リニューアル）"
     },
     {
+      "name": "フードスタイル小平店",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-11-27",
+      "category": "スーパーマーケット（業態転換・リニューアル）"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16704,6 +16711,13 @@
       "city": "新宿区",
       "opening_date": "2026-12-04",
       "category": "うなぎ料理専門店"
+    },
+    {
+      "name": "スーパーアークス末広店",
+      "prefecture": "岩手県",
+      "city": "一関市",
+      "opening_date": "2026-12-04",
+      "category": "スーパーマーケット"
     },
     {
       "name": "BONTEMPS 田川店",
