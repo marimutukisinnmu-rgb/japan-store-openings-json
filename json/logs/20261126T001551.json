@@ -1,0 +1,82 @@
+{
+  "executed_at": "2026-11-26T00:15:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2709,
+    "blob_sha": "5e937d16a3ba21a7450767764cefab2ddad15662"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "PAPABUBBLE 大丸梅田店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-01",
+        "category": "アートキャンディ専門店",
+        "sources": [
+          "https://papabubble.co.jp/blogs/blog/umeda_papabubble",
+          "https://www.daimaru.co.jp/umedamise/261117foodrenewal/",
+          "https://prtimes.jp/main/html/rd/p/000004032.000025003.html"
+        ]
+      },
+      {
+        "name": "バースデイ FUKUOKA TENJIN店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02",
+        "category": "ベビー・子供用品",
+        "sources": [
+          "https://www.shimamura.gr.jp/assets-c/uploads/release20261124_smavbr_fukuokatenjin.pdf"
+        ],
+        "note": "しまむら FUKUOKA TENJIN内でバースデイ商品を取り扱う複合型店舗。既存のしまむら・アベイルの記録に、未登録だったブランド分を追加。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "WithGreen 光が丘IMA店",
+    "Beisia Foods Park 玉ノ井店",
+    "イオンモールKYOTOロフト",
+    "ヤマダストアー大阪 梅田店",
+    "Hyde＆Away（大丸梅田店）",
+    "ニュー太陽ノ塔パーラー（大丸梅田店）",
+    "堂島ロールCanvas（大丸梅田店）",
+    "La Maison du R OSAKA（大丸梅田店）"
+  ],
+  "after": {
+    "item_count": 2711,
+    "blob_sha": "27fafc16150e325b92e0aaccc4ab830f90338875",
+    "update_commit_sha": "6f653f2dcdf7dd2b4a86130af9502768f63e53f9"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [
+    "Automation get endpoint returned 404 Action not found; task state was checked through Automations peek instead."
+  ],
+  "automation_state": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-26T00:15:00+09:00",
+    "run_history_note": "The recorded latest run remained in_progress with completed_at unset; its run ID differs from the latest_result run ID. This is not treated as proof of current worker liveness."
+  },
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：個別開業日未発表",
+    "モラージュ菖蒲ロフト：2027年3月初旬予定、正確な日付未発表",
+    "LAVA新鎌ヶ谷店：2027年2月予定、正確な日付未発表",
+    "資さんうどん 和泉観音寺店：個別店舗の開店日を確定できず"
+  ]
+}
