@@ -1,0 +1,102 @@
+{
+  "executed_at": "2026-11-26T07:18:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "before": {
+    "item_count": 2726,
+    "blob_sha": "656afc312f0a4f28aad37e032458e72117a33e84",
+    "updatetime": "2026-11-26T06:11:03+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "FIT-EASY 有賀園千葉店",
+        "prefecture": "千葉県",
+        "city": "千葉市美浜区",
+        "opening_date": "2026-12-01",
+        "category": "フィットネスクラブ",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000177.000135515.html"
+        ]
+      },
+      {
+        "name": "有隣堂 アトレ中野店",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "書店・文具・雑貨",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000070.000132572.html"
+        ]
+      },
+      {
+        "name": "THE STAND BY KOBEYA 桜新町駅店",
+        "prefecture": "東京都",
+        "city": "世田谷区",
+        "opening_date": "2026-12-10",
+        "category": "ベーカリー・カフェ",
+        "sources": [
+          "https://www.zaikei.co.jp/releases/3715265/"
+        ]
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "after": {
+    "item_count": 2729,
+    "blob_sha": "900a89d3e7a83e0dde88b1c0ecf3e8a28c6db939",
+    "update_commit_sha": "bedb8ca803a6412b9795511091875a66e37e9733"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_exactly": true,
+    "previous_record_relative_order_preserved": true,
+    "read_after_write_sha_match": true,
+    "read_after_write_content_checks": true
+  },
+  "sources_reviewed": [
+    {
+      "title": "有隣堂 アトレ中野店 12月9日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000177.000135515.html",
+      "publisher": "株式会社有隣堂",
+      "announced_at": "2026-11-25 13:00 JST"
+    },
+    {
+      "title": "THE STAND BY KOBEYA 桜新町駅店 12月10日オープン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000132572.html",
+      "publisher": "株式会社神戸屋",
+      "announced_at": "2026-11-25 10:00 JST"
+    },
+    {
+      "title": "FIT-EASY 有賀園千葉店 12月1日グランドオープン",
+      "url": "https://www.zaikei.co.jp/releases/3715265/",
+      "publisher": "フィットイージー株式会社のプレスリリース配信",
+      "announced_at": "2026-11-13 15:00 JST"
+    }
+  ],
+  "unchanged_confirmed": [
+    "POP MART LUCUA SOUTH店：2026-11-24の既存レコードを確認。重複追加なし。",
+    "アトレ中野：施設自体の2026-12-09レコードは既存。今回の有隣堂は個別テナントとして追加。",
+    "FIT-EASY既存店4件：別店舗として既存登録済み。今回の有賀園千葉店は未登録のため追加。"
+  ],
+  "errors": [],
+  "pending_unconfirmed": [
+    "今回の検索で、日付が月・季節までしか確認できない店舗候補は確定日を推測せず追加保留。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T07:15:00+09:00",
+    "run_history_note": "管理側のlast_runはin_progressでcompleted_at未設定。latest_resultは前回実行分で今回run_idとは一致しない。"
+  }
+}
