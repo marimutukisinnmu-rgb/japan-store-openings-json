@@ -1,0 +1,69 @@
+{
+  "executed_at": "2026-11-26T03:16:40+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2716,
+    "blob_sha": "237fcc7e568160fa997015100a5aeb2346ce6e20"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "Paul’s Tea Shop A Pop up Café by Paul Smith（表参道 LOTUS）",
+        "prefecture": "東京都",
+        "city": "渋谷区",
+        "opening_date": "2026-12-01",
+        "category": "期間限定ティールーム・ポップアップカフェ",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000000039.000064119.html"
+        ],
+        "note": "株式会社ジョイックスコーポレーションの2026-11-25付発表。2026-12-01に表参道 LOTUS 2階で期間限定ティールームとして開業。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "Yann Couvreur（伊勢丹新宿店）：既存登録済み",
+    "PAPABUBBLE 大丸梅田店：既存登録済み",
+    "スミス（アトレ中野）：既存登録済み",
+    "富澤商店（アトレ中野）：既存登録済み",
+    "星乃珈琲店（秋葉原UDX）：既存登録済み"
+  ],
+  "after": {
+    "item_count": 2717,
+    "blob_sha": "b3c3d3489da30b434c9145b23ba1edc12646f7c7",
+    "update_commit_sha": "4a9747b3100ead65124adb38a6162c6001ac644f"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：個別開業日未発表",
+    "モラージュ菖蒲ロフト：2027年3月初旬予定、正確な日付未発表",
+    "LAVA新鎌ヶ谷店：2027年2月予定、正確な日付未発表",
+    "資さんうどん 和泉観音寺店：個別店舗の開店日を確定できず"
+  ],
+  "review_notes": [
+    "バースデイ FUKUOKA TENJINの表記・カテゴリ差異レコード2件は統合せず保持。",
+    "WECLE 自由が丘店の類似名称レコードは統合せず保持。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T03:15:00+09:00",
+    "run_history_note": "last_run remained in_progress with completed_at unset; latest_result belonged to the previous run, not this run."
+  }
+}
