@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-25T18:10:10+09:00",
+  "updatetime": "2026-11-25T20:18:12+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13878,6 +13878,13 @@
       "category": "弁当・惣菜ショップ"
     },
     {
+      "name": "マクドナルド 宮前店",
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -18190,6 +18197,13 @@
       "category": "ラーメン店（業態転換・リニューアル）"
     },
     {
+      "name": "ROCKFISH WEATHERWEAR SHINSAIBASHI FLAGSHIP STORE",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-18",
+      "category": "ライフスタイル・シューズ専門店（旗艦店）"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
       "prefecture": "岐阜県",
       "city": "岐阜市",
@@ -18643,6 +18657,13 @@
       "city": "名古屋市中区",
       "opening_date": "2027-01-09",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-09〜2027-01-17）"
+    },
+    {
+      "name": "勉強カフェ本厚木スタジオ",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "opening_date": "2027-01-13",
+      "category": "自習室・学習スペース"
     },
     {
       "name": "Identity V 第五人格 POP UP SHOP in ハンズ横浜店",
