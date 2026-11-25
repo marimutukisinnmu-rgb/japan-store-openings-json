@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T07:18:26+09:00",
+  "updatetime": "2026-11-26T08:10:46+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17866,6 +17866,13 @@
       "city": "世田谷区",
       "opening_date": "2026-12-10",
       "category": "ベーカリー・カフェ"
+    },
+    {
+      "name": "MEGAドン・キホーテ Olympic 洋光台店",
+      "prefecture": "神奈川県",
+      "city": "横浜市磯子区",
+      "opening_date": "2026-12-10",
+      "category": "総合ディスカウントストア（業態転換）"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
