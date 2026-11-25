@@ -1,0 +1,71 @@
+{
+  "executed_at": "2026-11-26T02:18:55+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2715,
+    "blob_sha": "4ad8033ca216219bc2d10d951f518680f0e5d514"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ポンパドウル セレオ八王子店（リニューアル）",
+        "prefecture": "東京都",
+        "city": "八王子市",
+        "opening_date": "2026-11-26",
+        "category": "ベーカリー（リニューアル）",
+        "sources": [
+          "https://www.pompadour.co.jp/topics/5522",
+          "https://www.jrccd.co.jp/celeo/shop/hachioji/318/"
+        ],
+        "note": "株式会社ポンパドウルの2026-11-24付公式発表で2026-11-26リニューアルオープンを確認。セレオ八王子公式店舗ページで北館1階の店舗であることを照合。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "＆found（グランスタ東京）：既存登録済み",
+    "KINOTOYA BAKE 札幌ステラプレイス店：既存登録済み",
+    "エトモ菊名および新規テナント：既存登録済み",
+    "LAKOLE（サンシャインシティ ALTA）：既存登録済み",
+    "POP MART LUCUA SOUTH店：既存登録済み",
+    "伊勢丹新宿店＜ザ・ギンザ＞：既存登録済み"
+  ],
+  "after": {
+    "item_count": 2716,
+    "blob_sha": "237fcc7e568160fa997015100a5aeb2346ce6e20",
+    "update_commit_sha": "4efa74c37333f6c41ba8d46f5f3a9ce0e2d8fdd7"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "HiViE堺東のその他の入居テナント：個別開業日未発表",
+    "モラージュ菖蒲ロフト：2027年3月初旬予定、正確な日付未発表",
+    "LAVA新鎌ヶ谷店：2027年2月予定、正確な日付未発表",
+    "資さんうどん 和泉観音寺店：個別店舗の開店日を確定できず"
+  ],
+  "review_notes": [
+    "バースデイ FUKUOKA TENJINの表記・カテゴリ差異レコード2件は統合せず保持。重複の可能性を要確認。",
+    "WECLE 自由が丘店とピラティス ウィークル（WECLE）自由が丘店は同日・同市の類似レコード。統合せず保持。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_inspection": "2026-11-26T02:15:00+09:00",
+    "run_history_note": "last_run remained in_progress with completed_at unset; latest_result belonged to the previous run, not this run."
+  }
+}
