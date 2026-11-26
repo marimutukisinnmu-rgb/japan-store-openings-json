@@ -1,0 +1,91 @@
+{
+  "run_at": "2026-11-26T22:19:07+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "60f0f606fc7a0cb4834ece8154938799f50d7113",
+  "latest_commit_sha": "b68c38a69e1374cf4799100a730b5bc57040ee66",
+  "record_count_before": 2769,
+  "record_count_after": 2770,
+  "added": 1,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "株式会社Colors／foun公式発表（PR TIMES掲載）",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://tohakusha.com/main/html/rd/p/000000002.000194314.html"
+      ],
+      "items": [
+        "foun"
+      ]
+    },
+    {
+      "group": "ファーストキッチン公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000307.000059385.html"
+      ],
+      "items": [
+        "ウェンディーズ・ファーストキッチン ワカバウォーク店"
+      ]
+    },
+    {
+      "group": "KFC公式12月新店情報",
+      "count": 11,
+      "result": "all_registered",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ]
+    },
+    {
+      "group": "NTT都市開発／秋葉原UDX DINING＆SHOP公式発表",
+      "result": "checked_registered_entries",
+      "urls": [
+        "https://www.nttud.co.jp/news/detail/id/n28055.html"
+      ],
+      "items": [
+        "秋葉原UDXの2026年12月10日開業予定テナント（既存登録分）"
+      ]
+    },
+    {
+      "group": "株式会社神戸屋公式発表（PR TIMES掲載）",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000070.000132572.html"
+      ],
+      "items": [
+        "THE STAND BY KOBEYA 桜新町駅店"
+      ]
+    },
+    {
+      "group": "株式会社ひらまつ公式発表（PR TIMES掲載）",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000275.000097330.html"
+      ],
+      "items": [
+        "HRMT BEYOND"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_name_date_location_unique": "passed",
+    "existing_records_retained": "all_2769_unchanged",
+    "new_entry_verified": true,
+    "post_write_fetch": "passed",
+    "post_write_sha": "60f0f606fc7a0cb4834ece8154938799f50d7113"
+  },
+  "deferred": [],
+  "errors": []
+}
