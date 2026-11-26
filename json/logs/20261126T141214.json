@@ -75,7 +75,9 @@
     "reason": "今回確認できた対象店舗はすべて既存登録済み。latest.jsonを不要に書き換えず、既存データをそのまま保護。"
   },
   "errors": [],
-  "pending_unconfirmed": [],
+  "pending_unconfirmed": [
+    "（仮称）遠賀川駅南商業店舗／ロピア：前回からの保留案件。今回の実行では運営元による実際の開店日の追加確認を行っていないため、未確認のまま維持。"
+  ],
   "automation_state_at_inspection": {
     "id": "6a9128a9e16c8191aab8712f0b016bd7",
     "enabled": true,
@@ -83,5 +85,9 @@
     "timezone": "Asia/Tokyo",
     "next_run_time": "2026-11-26T14:15:00+09:00",
     "run_history_note": "この実行のlast_runはin_progressでcompleted_at未設定。latest_resultは直前の完了済み実行で、このrun_idとは異なる。"
-  }
+  },
+  "review_notes": [
+    "今回確認した新規候補は既存登録済みのものだけだったため、json/latest.jsonは変更しなかった。",
+    "前回からの保留案件は今回再検証していないため、未確認扱いを維持した。"
+  ]
 }
