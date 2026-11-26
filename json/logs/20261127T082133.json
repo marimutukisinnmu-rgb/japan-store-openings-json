@@ -1,0 +1,134 @@
+{
+  "run_at": "2026-11-27T08:21:33+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha_before": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_blob_sha_after": "3d82eb8492e3f83c150337fae1eb435d67a4a0b9",
+  "latest_commit_sha": "ca21ebf90f887b0235a468ae1378bb414b616ecd",
+  "latest_updatetime": "2026-11-27T08:21:33+09:00",
+  "record_count_before": 2785,
+  "record_count_after": 2791,
+  "added": 6,
+  "corrected": 0,
+  "deleted": 0,
+  "additions": [
+    {
+      "name": "ビーライン香取店",
+      "prefecture": "千葉県",
+      "city": "香取市",
+      "opening_date": "2026-11-27",
+      "category": "タイヤ販売・交換サービス"
+    },
+    {
+      "name": "YGYG 天神店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-27",
+      "category": "ヨーグルトアイス専門店"
+    },
+    {
+      "name": "堂島ロール Canvas（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "洋菓子・スイーツ（2026-11-28プレオープン）"
+    },
+    {
+      "name": "GELATO PIQUE HOMME LIMITED CONCEPT STORE（松坂屋名古屋店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定メンズルームウェアショップ（2026-12-02〜2026-12-25）"
+    },
+    {
+      "name": "スーパーホテル東広島八本松天然温泉",
+      "prefecture": "広島県",
+      "city": "東広島市",
+      "opening_date": "2026-12-10",
+      "category": "ホテル"
+    },
+    {
+      "name": "KASANE 浅草店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-15",
+      "category": "香り・生活雑貨・体験型ショップ"
+    }
+  ],
+  "checked_candidates": [
+    {
+      "group": "株式会社オートバックスセブン／株式会社BL関東・ビーライン香取店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://www.autobacs.co.jp/ja/news/news-202611261400-1.html"
+      ],
+      "note": "2026-11-27開店、千葉県香取市観音963番1を運営会社発表で確認。"
+    },
+    {
+      "group": "株式会社MS Group・YGYG 天神店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000035.000172465.html"
+      ],
+      "note": "2026-11-27 12:00グランドオープン、福岡県福岡市中央区大名1-12-3を運営会社発表で確認。"
+    },
+    {
+      "group": "株式会社モンシェール・堂島ロール Canvas",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000054.000078354.html"
+      ],
+      "note": "大丸梅田店地下1階西。2026-11-28プレオープン、2026-12-01グランドオープンを運営会社発表で確認。opening_dateにはグランドオープン日を採用。"
+    },
+    {
+      "group": "株式会社マッシュホールディングス／GELATO PIQUE HOMME",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000004623.000018505.html"
+      ],
+      "note": "松坂屋名古屋店北館1F GENTA THE STAGE、2026-12-02〜2026-12-25の期間限定コンセプトストアを運営会社発表で確認。"
+    },
+    {
+      "group": "株式会社スーパーホテル",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000184.000038388.html"
+      ],
+      "note": "スーパーホテル東広島八本松天然温泉、2026-12-10開業、広島県東広島市八本松東6-1-38を運営会社発表で確認。"
+    },
+    {
+      "group": "株式会社ノルコーポレーション・KASANE 浅草店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000446.000004063.html"
+      ],
+      "note": "2026-12-15開店を運営会社発表で確認。所在地は東京・浅草。市区町村は台東区として登録。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": 0,
+    "normalized_same_name_prefecture_city_date_candidate_count": 11,
+    "existing_records_retained_in_relative_order": true,
+    "post_write_fetch": "success",
+    "read_back_record_count": 2791,
+    "added_items_present": true,
+    "latest_blob_sha_matches_update_response": true,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02"
+  },
+  "errors": []
+}
