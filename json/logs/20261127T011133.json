@@ -1,0 +1,100 @@
+{
+  "run_at": "2026-11-27T01:11:33+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_commit_sha": "2960b34c3bc17f7889bb4da2973f4222f138f35f",
+  "record_count_before": 2784,
+  "record_count_after": 2785,
+  "added": 1,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "株式会社アニメイト公式店舗情報",
+      "count": 1,
+      "result": "1_added",
+      "urls": [
+        "https://www.animate.co.jp/news/55179/"
+      ],
+      "items": [
+        "アニメイトダイバーシティ東京プラザ（2026-12-05、東京都江東区）"
+      ]
+    },
+    {
+      "group": "ローソン公式新店情報（全国・モバイル一覧）",
+      "count": 38,
+      "result": "all_38_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/smt/"
+      ],
+      "scope": "2026-11-27 through 2026-12-10"
+    },
+    {
+      "group": "NTT都市開発・秋葉原UDX公式発表",
+      "count": 27,
+      "result": "all_27_already_represented; pre-existing duplicate-like UDX rows preserved",
+      "urls": [
+        "https://www.nttud.co.jp/news/detail/id/n28055.html"
+      ]
+    },
+    {
+      "group": "静鉄プロパティマネジメント・新静岡セノバ公式発表",
+      "count": 4,
+      "result": "all_4_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000029.000055472.html"
+      ]
+    },
+    {
+      "group": "株式会社スープストックトーキョー公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000159.000062610.html"
+      ],
+      "items": [
+        "秋野テーブル（2026-12-01）"
+      ]
+    },
+    {
+      "group": "BAKERIES LAB.運営関連公式発表",
+      "count": 2,
+      "result": "both_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000001075.000005340.html",
+        "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+      ],
+      "items": [
+        "BAKERIES LAB.新百合ヶ丘店（2026-11-14）",
+        "BAKERIES LAB.砂町銀座店（2026-11-21）"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "existing_records_retained_in_relative_order": true,
+    "new_entry_verified": true,
+    "post_write_fetch": "passed",
+    "post_write_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+    "post_write_commit": "2960b34c3bc17f7889bb4da2973f4222f138f35f",
+    "post_write_count": 2785,
+    "automation_status": "enabled",
+    "automation_schedule": "unchanged",
+    "automation_next_run": "2026-11-27T01:15:00+09:00"
+  },
+  "deferred": [
+    {
+      "item": "うなぎ四代目菊川（秋葉原UDX）",
+      "reason": "同一施設・同一開店日で表記とカテゴリが異なる既存レコードが複数あるため、今回統合・削除せず保持。",
+      "url": "https://www.nttud.co.jp/news/detail/id/n28055.html"
+    }
+  ],
+  "errors": []
+}
