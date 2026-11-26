@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T18:15:12+09:00",
+  "updatetime": "2026-11-26T19:10:31+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -12534,6 +12534,13 @@
       "category": "車中泊拠点・モビリティラウンジ"
     },
     {
+      "name": "ASICS AQUA CITY ODAIBA",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-20",
+      "category": "スポーツ用品・アパレル"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -15642,6 +15649,13 @@
       "category": "食料品専門店"
     },
     {
+      "name": "ニュー・クイック洪福寺松原店",
+      "prefecture": "神奈川県",
+      "city": "横浜市保土ケ谷区",
+      "opening_date": "2026-11-28",
+      "category": "精肉・惣菜店"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -16627,6 +16641,13 @@
       "city": "木更津市",
       "opening_date": "2026-12-03",
       "category": "ダウンウェア（期間限定出店）"
+    },
+    {
+      "name": "ゴンチャ 仙台パルコ2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-03",
+      "category": "ティーカフェ"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
