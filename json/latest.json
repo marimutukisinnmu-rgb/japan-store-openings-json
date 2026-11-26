@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T00:14:05+09:00",
+  "updatetime": "2026-11-27T01:11:33+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17201,6 +17201,13 @@
       "city": "倉敷市",
       "opening_date": "2026-12-05",
       "category": "ファミリーレストラン（リニューアル）"
+    },
+    {
+      "name": "アニメイトダイバーシティ東京プラザ",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-05",
+      "category": "アニメ・コミック・ゲーム専門店"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
