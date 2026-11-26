@@ -1,0 +1,72 @@
+{
+  "executed_at": "2026-11-26T10:17:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "before": {
+    "item_count": 2731,
+    "blob_sha": "c486e624d9110c584ae0a3fb493b0ea862d68001"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ＬＡＷＳＯＮ＋ｔｏｋｓ等々力緑地",
+        "prefecture": "神奈川県",
+        "city": "川崎市中原区",
+        "opening_date": "2026-11-25",
+        "category": "コンビニ"
+      },
+      {
+        "name": "カラオケまねきねこ 秋田大町店",
+        "prefecture": "秋田県",
+        "city": "秋田市",
+        "opening_date": "2026-11-27",
+        "category": "カラオケ"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "ロビン・フッド亀戸店：2026-12-08の既存レコードを確認、重複追加なし。",
+    "ロビン・フッド朝霞泉水店：2026-12-15の既存レコードを確認、重複追加なし。",
+    "ロビン・フッド北新宿店：2026-12-01の既存レコードを確認、重複追加なし。",
+    "MEGAドン・キホーテ Olympic 高井戸店：2026-12-01の既存レコードを確認、重複追加なし。",
+    "ローソン公式新店一覧の今回確認した掲載店は、等々力緑地店以外は既存登録済み。"
+  ],
+  "after": {
+    "item_count": 2733,
+    "blob_sha": "7c295b0682ea1cbce465950986753a90d39c01f5",
+    "update_commit_sha": "4e47328f37da07ef0c8c256a0f3f98a5d49a4729"
+  },
+  "validation": {
+    "json_parse": true,
+    "item_count": 2733,
+    "expected_item_count": 2733,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true,
+    "latest_blob_sha": "7c295b0682ea1cbce465950986753a90d39c01f5"
+  },
+  "sources": [
+    "https://www.koshidakaholdings.co.jp/ja/news.html",
+    "https://www.koshidakaholdings.co.jp/ja/news/20261124/main/0/link/akitaoomachi.pdf",
+    "https://www.lawson.co.jp/newstore/index.html",
+    "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+    "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+    "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+  ],
+  "errors": [],
+  "pending_unconfirmed": [],
+  "review_notes": [
+    "カラオケまねきねこ 秋田大町店はコシダカ公式ニュースルーム掲載PDFで2026-11-27 18:00の開店日時、秋田県秋田市大町5丁目2-43の所在地を確認。JSONには日付のみ登録。",
+    "LAWSON＋toks等々力緑地はローソン公式全国新店情報で2026-11-25、神奈川県川崎市中原区宮内4-588-4を確認。店名は公式一覧表記を保持。",
+    "PPIH公式発表のロビン・フッド亀戸店、朝霞泉水店、北新宿店およびMEGAドン・キホーテ Olympic 高井戸店は既存登録済み。",
+    "ローソン公式全国新店一覧で照合した他の掲載店舗は既存登録済み。既存レコードの表記や内容は変更していない。"
+  ]
+}
