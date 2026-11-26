@@ -1,0 +1,132 @@
+{
+  "run_at": "2026-11-27T07:10:25+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_updatetime": "2026-11-27T01:11:33+09:00",
+  "record_count_before": 2785,
+  "record_count_after": 2785,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国新店情報",
+      "count": 52,
+      "result": "all_52_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/"
+      ],
+      "note": "公式全国一覧の2026-11-12〜2026-12-10掲載52店舗を、店名と開店日で照合。52件すべて既存itemsに一致。"
+    },
+    {
+      "group": "株式会社ジーアイビー／ブルースカイランドリー",
+      "count": 10,
+      "result": "all_10_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000349.000051381.html"
+      ],
+      "note": "2026年11月の全国10新店について、店名・所在地・開店日を照合。10件すべて既存登録済み。"
+    },
+    {
+      "group": "イオンモール伊達の出店各社公式発表",
+      "count": 13,
+      "result": "all_13_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000234.000040854.html",
+        "https://prtimes.jp/main/html/rd/p/000000457.000048503.html",
+        "https://prtimes.jp/main/html/rd/p/000000123.000102762.html",
+        "https://prtimes.jp/main/html/rd/p/000000743.000016236.html",
+        "https://prtimes.jp/main/html/rd/p/000000691.000042258.html",
+        "https://prtimes.jp/main/html/rd/p/000000013.000182170.html",
+        "https://prtimes.jp/main/html/rd/p/000000015.000182170.html",
+        "https://prtimes.jp/main/html/rd/p/000000017.000182170.html",
+        "https://prtimes.jp/main/html/rd/p/000000014.000182170.html",
+        "https://prtimes.jp/main/html/rd/p/000000016.000182170.html",
+        "https://prtimes.jp/main/html/rd/p/000000338.000001304.html",
+        "https://prtimes.jp/main/html/rd/p/000001986.000009215.html",
+        "https://prtimes.jp/main/html/rd/p/000000244.000070820.html"
+      ],
+      "items": [
+        "チーズガーデン イオンモール伊達店",
+        "ゴンチャ イオンモール伊達店",
+        "Cat Café MOFF イオンモール伊達店",
+        "BELLUNA イオンモール伊達店",
+        "KEYUCA イオンモール伊達店",
+        "銀座惣菜店 イオンモール伊達店",
+        "とんかつとう庵 イオンモール伊達店",
+        "ABURI百貫 イオンモール伊達店",
+        "天丼専門店 ゑるびす イオンモール伊達店",
+        "築地食堂 源ちゃん イオンモール伊達店",
+        "LOWRYS FARM イオンモール伊達店",
+        "サブウェイ イオンモール伊達店",
+        "ペッパーランチ イオンモール伊達店"
+      ],
+      "note": "2026-11-27開業の施設内で、出店企業の発表に開店日が明記された13店舗を照合。13件すべて既存登録済み。"
+    },
+    {
+      "group": "PPIH公式ニュースリリース",
+      "count": 6,
+      "result": "all_6_already_registered",
+      "urls": [
+        "https://ppih.co.jp/news/"
+      ],
+      "items": [
+        "MEGAドン・キホーテ Olympic 高井戸店",
+        "ロビン・フッド北新宿店",
+        "ロビン・フッド亀戸店",
+        "ロビン・フッド朝霞泉水店",
+        "MEGAドン・キホーテ Olympic 洋光台店",
+        "MEGAドン・キホーテ Olympic 志村坂下店（仮称）"
+      ],
+      "note": "2026-12-01〜2027-03-02の国内新店・業態転換6店舗を照合。店名の空白差は正規化して照合し、すべて既存登録済み。"
+    },
+    {
+      "group": "株式会社ユニシアホールディングス公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://unisia.co.jp/press/susnews/2026/"
+      ],
+      "items": [
+        "串カツ田中 本八戸店（2026-11-30、青森県八戸市）"
+      ],
+      "note": "2026-11-26付の新店発表で店舗名・開店日を確認。既存レコードと一致。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "top_level_schema": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "normalized_same_name_prefecture_city_date_candidate_groups": 11,
+    "existing_records_retained_in_relative_order": true,
+    "no_update_reason": "今回確認した公式発表・公式新店一覧の確定候補はすべて既存データに登録済み。確認できた未登録候補なし。",
+    "post_write_fetch": "not_applicable_no_latest_json_change",
+    "read_back_fetch": "success",
+    "latest_blob_sha_unchanged": true,
+    "post_check_record_count": 2785,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02"
+  },
+  "deferred": [
+    {
+      "group": "既存の正規化表記揺れ候補11グループ",
+      "result": "retained_without_merge",
+      "note": "空白・全角半角・表記差を正規化すると同一店名・都道府県・市区町村・開店日となる候補が11グループ。正式表記と正本を確定できないため、統合・削除せず全レコードを保持。"
+    }
+  ],
+  "errors": [],
+  "automation_status": "enabled",
+  "automation_schedule": "FREQ=HOURLY;BYMINUTE=15;Asia/Tokyo",
+  "automation_last_run_recorded_status_at_check": "in_progress",
+  "automation_completed_at_at_check": null,
+  "automation_next_run_time_reported_at_check": "2026-11-27T07:15:00+09:00",
+  "automation_schedule_note": "管理側のpeek取得時点で本実行はin_progress、completed_at未設定。タスクは有効で、毎時15分の既存スケジュールを維持。"
+}
