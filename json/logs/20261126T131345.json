@@ -164,5 +164,20 @@
     "（仮称）遠賀川駅南商業店舗／ロピア：大規模小売店舗立地法の届出日程は確認できるが、実際の店舗オープン日としての運営元公式確認が不足するため追加保留。"
   ],
   "errors": [],
-  "automation_state_at_inspection": "checked separately after file writes"
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-26T13:15:00+09:00",
+    "last_run": {
+      "id": "a6082cba-16fc-832e-83f9-065131861475",
+      "recorded_status": "in_progress",
+      "scheduled_for": "2026-11-26T04:15:00Z",
+      "started_at": "2026-11-26T04:13:44.498437Z",
+      "completed_at": null
+    },
+    "latest_result_run_id": "2072ee95-95e0-8323-9af1-b7d625b9afd4",
+    "latest_result_note": "latest_result belongs to an earlier run, not the in-progress last_run."
+  }
 }
