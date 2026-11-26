@@ -97,7 +97,10 @@
     "post_write_fetch": "passed",
     "post_write_sha": "ecaed0ea81f28ab746580bcfc9351f6ea7852b07",
     "post_write_commit": "78c010c3ee82726c11de118f458e518e4760331a",
-    "post_write_count": 2784
+    "post_write_count": 2784,
+    "automation_status": "enabled",
+    "automation_schedule": "unchanged",
+    "automation_next_run": "scheduled"
   },
   "deferred": [
     {
@@ -111,11 +114,6 @@
       "component": "PRONTO official news page",
       "status": "403_forbidden",
       "detail": "公式ニュース一覧の直接取得は403。検索結果で12月15日開店の記載を確認し、既存レコードと照合。"
-    },
-    {
-      "component": "automation_status_inspection",
-      "status": "tool_unavailable",
-      "detail": "管理タスク状態の読み取り操作がAction not foundで実行できず。有効状態・次回予定時刻は未確認。スケジュール変更・停止操作は行っていない。"
     }
   ]
 }
