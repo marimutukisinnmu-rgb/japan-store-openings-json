@@ -1,0 +1,136 @@
+{
+  "executed_at": "2026-11-26T15:19:17+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2754,
+    "blob_sha": "9bc9027c6048efdf102a691e05151543a0ea5d8c",
+    "updatetime": "2026-11-26T13:13:45+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "寝具御誂専門店イワタ（日本橋高島屋S.C.新館・移転リニューアル）",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2026-11-13",
+        "category": "寝具専門店（移転リニューアル）",
+        "source": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "checked_candidates": [
+    {
+      "name": "ハウス（日本橋高島屋S.C. POP UP SHOP）",
+      "opening_date": "2026-11-20",
+      "result": "already_registered",
+      "source": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+    },
+    {
+      "name": "ラ パナデリーア ドッツ（日本橋高島屋S.C. POP UP SHOP）",
+      "opening_date": "2026-11-25",
+      "result": "already_registered",
+      "source": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+    },
+    {
+      "name": "KINO（キノ）（日本橋高島屋S.C. POP UP SHOP）",
+      "opening_date": "2026-11-17",
+      "result": "already_registered",
+      "source": "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+    },
+    {
+      "name": "まいばすけっと 小田銀座商店街店・千葉弁天２丁目店・北小金駅前店・川口三ツ和１丁目店",
+      "opening_date": "2026-11-27",
+      "result": "all_4_already_registered",
+      "source": "https://www.mybasket.co.jp/news/detail/20261120145859.html"
+    },
+    {
+      "name": "ローソン公式新店一覧の照合対象店舗",
+      "opening_date": "2026-11-26/2026-12-08",
+      "result": "all_checked_already_registered",
+      "source": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 2026年12月新店11店舗",
+      "opening_date": "2026-12-04/2026-12-30",
+      "result": "all_11_already_registered",
+      "source": "https://japan.kfc.co.jp/news_release/8200"
+    },
+    {
+      "name": "仙台PARCO2 パルイチの新規・リニューアル6店舗",
+      "opening_date": "2026-12-03/2027-01-28",
+      "result": "all_6_already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+    },
+    {
+      "name": "エトモ菊名の新規・リニューアル6店舗",
+      "opening_date": "2026-12-04",
+      "result": "all_6_already_registered",
+      "source": "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf"
+    },
+    {
+      "name": "PAPABUBBLE 大丸梅田店",
+      "opening_date": "2026-12-01",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000602.000018984.html"
+    },
+    {
+      "name": "うちだ屋 港北みなも店・新宮店",
+      "opening_date": "2026-11-26/2026-12-15",
+      "result": "both_already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000007.000178931.html"
+    }
+  ],
+  "after": {
+    "item_count": 2755,
+    "blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+    "updatetime": "2026-11-26T15:19:17+09:00"
+  },
+  "validation": {
+    "json_parse": true,
+    "item_count": 2755,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "removed_existing_records": 0,
+    "existing_records_preserved": true,
+    "only_expected_record_added": true,
+    "re_fetched_from_main": true,
+    "fetched_blob_sha_matches": true
+  },
+  "sources_reviewed": [
+    "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/",
+    "https://www.mybasket.co.jp/news/detail/20261120145859.html",
+    "https://www.lawson.co.jp/newstore/",
+    "https://japan.kfc.co.jp/news_release/8200",
+    "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+    "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000602.000018984.html",
+    "https://prtimes.jp/main/html/rd/p/000000007.000178931.html",
+    "https://prtimes.jp/main/html/rd/p/000000005.000178931.html"
+  ],
+  "errors": [
+    "Gong cha仙台PARCO2店のPR TIMES個別ページは直接取得時にDisabledError。開店日・店名は株式会社パルコの公式発表で確認し、既存登録済みと照合。"
+  ],
+  "pending_unconfirmed": [
+    "（仮称）遠賀川駅南商業店舗／ロピア：今回再調査していないため、実際の開店日は未確認のまま維持。"
+  ],
+  "save": {
+    "latest_json_changed": true,
+    "latest_json_commit_sha": "df27bc6c681b267ac7fe9cea74c0f6f4fc1f2e03",
+    "latest_json_blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+    "latest_json_retrieved": true,
+    "latest_json_sha_verified": true
+  },
+  "review_notes": [
+    "日本橋高島屋S.C.の公式新店・リニューアル情報から、既存登録がなかった寝具御誂専門店イワタの移転リニューアルを1件追加。",
+    "既存レコードは削除・訂正せず、元の2,754件がすべて保持されていることを旧コミットとの比較で確認。",
+    "未確認案件は推測で補完せず、保留状態を維持。"
+  ]
+}
