@@ -1,0 +1,87 @@
+{
+  "executed_at": "2026-11-26T14:12:14+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "no_changes",
+  "before": {
+    "item_count": 2754,
+    "blob_sha": "9bc9027c6048efdf102a691e05151543a0ea5d8c",
+    "updatetime": "2026-11-26T13:13:45+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "checked_candidates": [
+    {
+      "name": "カルディコーヒーファーム ショッピングシティベル店",
+      "opening_date": "2026-11-26",
+      "result": "already_registered",
+      "source": "https://bell.or.jp/event-news/kaldi.html"
+    },
+    {
+      "name": "マックスバリュ エクスプレス栄2丁目店",
+      "opening_date": "2026-12-03",
+      "result": "already_registered",
+      "source": "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf"
+    },
+    {
+      "name": "ミスタードーナツ 天満屋ハピーズ西大寺ショップ",
+      "opening_date": "2026-11-12",
+      "result": "already_registered",
+      "source": "https://www.izumi.co.jp/news_release/assets/a53c1563418ef5d413c059e7be7fd3e4.pdf"
+    },
+    {
+      "name": "ケンタッキーフライドチキン 2026年12月新店11店舗",
+      "opening_date": "2026-12-04/2026-12-30",
+      "result": "all_11_already_registered",
+      "source": "https://japan.kfc.co.jp/news_release/8200"
+    },
+    {
+      "name": "BAKERIES LAB.砂町銀座店",
+      "opening_date": "2026-11-21",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html"
+    },
+    {
+      "name": "桐松屋",
+      "opening_date": "2026-12-01",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "item_count": 2754,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "name_date_duplicate_count": 0
+  },
+  "sources_reviewed": [
+    "https://bell.or.jp/event-news/kaldi.html",
+    "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf",
+    "https://www.izumi.co.jp/news_release/assets/a53c1563418ef5d413c059e7be7fd3e4.pdf",
+    "https://japan.kfc.co.jp/news_release/8200",
+    "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+    "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+  ],
+  "save": {
+    "latest_json_changed": false,
+    "reason": "今回確認できた対象店舗はすべて既存登録済み。latest.jsonを不要に書き換えず、既存データをそのまま保護。"
+  },
+  "errors": [],
+  "pending_unconfirmed": [],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "FREQ=HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-26T14:15:00+09:00",
+    "run_history_note": "この実行のlast_runはin_progressでcompleted_at未設定。latest_resultは直前の完了済み実行で、このrun_idとは異なる。"
+  }
+}
