@@ -1,0 +1,128 @@
+{
+  "run_at": "2026-11-26T21:12:25+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "a2817b89a49d114bea6363ca747b7945d2fca590",
+  "record_count_before": 2769,
+  "record_count_after": 2769,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式新店情報",
+      "count": 26,
+      "result": "all_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html",
+        "https://mldata.lawson.co.jp/newstore/kantou.html"
+      ]
+    },
+    {
+      "group": "PPIH公式ニュースリリース",
+      "count": 5,
+      "result": "all_registered",
+      "urls": [
+        "https://ppih.co.jp/news/pdf/news261116_rhkitashinjyuku.pdf",
+        "https://ppih.co.jp/news/pdf/221120_news_RHkameido,RHasakasenzui.pdf",
+        "https://ppih.co.jp/news/pdf/news261124_yokodai.pdf"
+      ],
+      "items": [
+        "ロビン・フッド北新宿店",
+        "MEGAドン・キホーテ Olympic 高井戸店",
+        "ロビン・フッド亀戸店",
+        "ロビン・フッド朝霞泉水店",
+        "MEGA ドン・キホーテ Olympic 洋光台店"
+      ]
+    },
+    {
+      "group": "うちだ屋公式発表（PR TIMES掲載）",
+      "count": 1,
+      "result": "all_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000007.000178931.html"
+      ],
+      "items": [
+        "うちだ屋 新宮店"
+      ]
+    },
+    {
+      "group": "ランドマークプラザ新店発表（三菱地所プロパティマネジメント）",
+      "count": 5,
+      "result": "all_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+      ],
+      "items": [
+        "Pilates KASANE",
+        "null²ⁿ（ヌルヌルネクサス）",
+        "わくわくはまっこひろば みなとみらい",
+        "L'ABEILLE（ラベイユ）",
+        "フォーナインズ"
+      ]
+    },
+    {
+      "group": "ふくしまひらいビル公式発表（イオンモール）",
+      "count": 3,
+      "result": "all_registered",
+      "urls": [
+        "https://www.aeonmall.com/news/index/17062/"
+      ],
+      "items": [
+        "ふくしまひらいビル",
+        "庵ど",
+        "バイセル"
+      ]
+    },
+    {
+      "group": "サブウェイ公式新店発表",
+      "count": 2,
+      "result": "all_registered",
+      "urls": [
+        "https://subway.co.jp/news/20261120_02/",
+        "https://prtimes.jp/main/html/rd/p/000001986.000009215.html"
+      ],
+      "items": [
+        "サブウェイ イオン三ツ境店",
+        "サブウェイ イオンモール伊達店"
+      ]
+    },
+    {
+      "group": "その他の運営元発表",
+      "count": 4,
+      "result": "all_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+        "https://prtimes.jp/main/html/rd/p/000000105.000117972.html",
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+      ],
+      "items": [
+        "POP MART LUCUA SOUTH店",
+        "キル フェ ボン新宿",
+        "WithGreen 光が丘IMA店",
+        "桐松屋"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_name_date_location_unique": "passed",
+    "normalized_duplicate_groups": 13,
+    "existing_records_retained": "all_2769_unchanged",
+    "post_write_fetch": "not_applicable_latest_unchanged",
+    "latest_blob_sha_verified_before_run": true
+  },
+  "deferred": [
+    {
+      "item": "既存データの表記揺れ候補13グループ",
+      "reason": "同一店舗・同一日・同一所在地とみられるが、正本名とcategoryの扱いを一意に確定していないため統合・削除を保留"
+    }
+  ],
+  "errors": []
+}
