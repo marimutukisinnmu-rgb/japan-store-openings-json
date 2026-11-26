@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T22:19:07+09:00",
+  "updatetime": "2026-11-26T23:14:41+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -18146,6 +18146,97 @@
       "city": "横浜市磯子区",
       "opening_date": "2026-12-10",
       "category": "総合ディスカウントストア（業態転換）"
+    },
+    {
+      "name": "ローソン 札幌琴似１条一丁目",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 黒石駅前",
+      "prefecture": "青森県",
+      "city": "黒石市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 川越旭町三丁目",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン Ｈ府中市役所",
+      "prefecture": "東京都",
+      "city": "府中市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 中野中央二丁目",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 八王子万町",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 三鷹牟礼三丁目",
+      "prefecture": "東京都",
+      "city": "三鷹市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 福井空港通",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 彦根元町",
+      "prefecture": "滋賀県",
+      "city": "彦根市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 和泉府中駅西",
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 敷津西一丁目",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 寝屋川田井西町",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 姫路北条一丁目",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
