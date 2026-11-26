@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T15:19:17+09:00",
+  "updatetime": "2026-11-26T18:15:12+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14018,6 +14018,27 @@
       "category": "マシンピラティススタジオ"
     },
     {
+      "name": "マクドナルド 国分新町店",
+      "prefecture": "鹿児島県",
+      "city": "霧島市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド ヒタチエ店",
+      "prefecture": "茨城県",
+      "city": "日立市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 五福店",
+      "prefecture": "富山県",
+      "city": "富山市",
+      "opening_date": "2026-11-26",
+      "category": "ファストフード"
+    },
+    {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15171,6 +15192,27 @@
       "city": "伊達市",
       "opening_date": "2026-11-27",
       "category": "ファッション（レディース・ユニセックス・キッズ）"
+    },
+    {
+      "name": "マクドナルド 西鉄香椎駅前店",
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 長浜八幡東店",
+      "prefecture": "滋賀県",
+      "city": "長浜市",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
+    },
+    {
+      "name": "マクドナルド 川崎南野川店",
+      "prefecture": "神奈川県",
+      "city": "川崎市宮前区",
+      "opening_date": "2026-11-27",
+      "category": "ファストフード"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
@@ -18041,6 +18083,97 @@
       "city": "横浜市磯子区",
       "opening_date": "2026-12-10",
       "category": "総合ディスカウントストア（業態転換）"
+    },
+    {
+      "name": "ローソン 札幌琴似１条一丁目",
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 黒石駅前",
+      "prefecture": "青森県",
+      "city": "黒石市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 川越旭町三丁目",
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン Ｈ府中市役所",
+      "prefecture": "東京都",
+      "city": "府中市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 中野中央二丁目",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 八王子万町",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 三鷹牟礼三丁目",
+      "prefecture": "東京都",
+      "city": "三鷹市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 福井空港通",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 彦根元町",
+      "prefecture": "滋賀県",
+      "city": "彦根市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 和泉府中駅西",
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 寝屋川田井西町",
+      "prefecture": "大阪府",
+      "city": "寝屋川市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 敷津西一丁目",
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
+    },
+    {
+      "name": "ローソン 姫路北条一丁目",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "opening_date": "2026-12-10",
+      "category": "コンビニ"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
