@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T01:11:33+09:00",
+  "updatetime": "2026-11-27T08:21:33+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15236,6 +15236,20 @@
       "category": "ファストフード"
     },
     {
+      "name": "ビーライン香取店",
+      "prefecture": "千葉県",
+      "city": "香取市",
+      "opening_date": "2026-11-27",
+      "category": "タイヤ販売・交換サービス"
+    },
+    {
+      "name": "YGYG 天神店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-11-27",
+      "category": "ヨーグルトアイス専門店"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16300,6 +16314,13 @@
       "category": "ブランド品買取専門店"
     },
     {
+      "name": "堂島ロール Canvas（大丸梅田店）",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-12-01",
+      "category": "洋菓子・スイーツ（2026-11-28プレオープン）"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16452,6 +16473,13 @@
       "city": "名古屋市千種区",
       "opening_date": "2026-12-02",
       "category": "ジュース・スープ・食品（リフレッシュオープン）"
+    },
+    {
+      "name": "GELATO PIQUE HOMME LIMITED CONCEPT STORE（松坂屋名古屋店）",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-02",
+      "category": "期間限定メンズルームウェアショップ（2026-12-02〜2026-12-25）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
@@ -18253,6 +18281,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "スーパーホテル東広島八本松天然温泉",
+      "prefecture": "広島県",
+      "city": "東広島市",
+      "opening_date": "2026-12-10",
+      "category": "ホテル"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
       "prefecture": "兵庫県",
       "city": "神戸市中央区",
@@ -18552,6 +18587,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-15",
       "category": "洋食"
+    },
+    {
+      "name": "KASANE 浅草店",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-15",
+      "category": "香り・生活雑貨・体験型ショップ"
     },
     {
       "name": "one MARUI シャミネ松江店",
