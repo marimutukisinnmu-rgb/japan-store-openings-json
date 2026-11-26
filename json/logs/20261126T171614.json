@@ -1,0 +1,72 @@
+{
+  "run_at": "2026-11-26T17:16:14+09:00",
+  "result": "no_data_change",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+  "record_count_before": 2755,
+  "record_count_after": 2755,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "sources": [
+    {
+      "name": "ローソン公式・地域別新店情報（北海道、東北、関東、中部、近畿、中国・四国、九州）",
+      "urls": [
+        "https://www.lawson.co.jp/area/hokkaido/index.html",
+        "https://www.lawson.co.jp/area/tohoku/index.html",
+        "https://www.lawson.co.jp/area/kanto/index.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/area/kinki/index.html",
+        "https://www.lawson.co.jp/area/chugokushikoku/index.html",
+        "https://www.lawson.co.jp/area/kyushu/index.html"
+      ]
+    },
+    {
+      "name": "グランベリーパーク公式・2026 Autumn新店情報",
+      "url": "https://gbp.minamimachida-grandberrypark.com/2026au/"
+    },
+    {
+      "name": "しまむらグループ公式・2026年出店情報",
+      "url": "https://www.shimamura.gr.jp/news/shops/2026/"
+    },
+    {
+      "name": "しまむら FUKUOKA TENJIN 公式発表",
+      "url": "https://www.shimamura.gr.jp/assets-c/uploads/release20261124_smavbr_fukuokatenjin.pdf"
+    },
+    {
+      "name": "しまむらグループ ホームズ南津守店 公式発表",
+      "url": "https://www.shimamura.gr.jp/assets-c/uploads/release20261117_smavbrcm_homesminamitsumori.pdf"
+    },
+    {
+      "name": "PAPABUBBLE イクスピアリ店 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+    },
+    {
+      "name": "マックスバリュ東海 栄2丁目店 公式発表",
+      "url": "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf"
+    }
+  ],
+  "checks": {
+    "lawson_future_candidates_checked": 19,
+    "lawson_candidates_already_registered": 19,
+    "grandberry_park_exact_date_candidates_checked": 11,
+    "grandberry_park_candidates_already_registered": 11,
+    "shimamura_fukuoka_tenjin": "registered",
+    "shimamura_homes_minamitsumori": "registered",
+    "papabubble_ikspiari": "registered",
+    "maxvalu_express_sakae_2chome": "registered",
+    "json_parse": "passed",
+    "record_count": "2755",
+    "latest_json_rewritten": false,
+    "latest_json_sha_unchanged": true
+  },
+  "deferred": [
+    {
+      "item": "ReD（グランベリーパーク）",
+      "reason": "公式施設ページの開店時期は「10月上旬～中旬」で、日付を特定できないため登録見送り"
+    }
+  ],
+  "errors": []
+}
