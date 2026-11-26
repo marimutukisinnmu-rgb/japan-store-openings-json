@@ -1,0 +1,103 @@
+{
+  "run_at": "2026-11-26T20:11:40+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "a2817b89a49d114bea6363ca747b7945d2fca590",
+  "latest_commit_sha": "989e6afd9a7f2adb08ea8a20c132397f8a78b827",
+  "record_count_before": 2764,
+  "record_count_after": 2769,
+  "added": 5,
+  "corrected": 0,
+  "deleted": 0,
+  "transiently_added_then_reverted": 0,
+  "added_items": [
+    {
+      "name": "Leilian ÉDIT 福屋八丁堀本店",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-11-19",
+      "category": "レディースファッション・複合セレクトショップ"
+    },
+    {
+      "name": "トヨタレンタカー 勝田駅前店",
+      "prefecture": "茨城県",
+      "city": "ひたちなか市",
+      "opening_date": "2026-11-26",
+      "category": "レンタカー"
+    },
+    {
+      "name": "鳥〇食堂×タニタカフェ イオンモール広島府中店",
+      "prefecture": "広島県",
+      "city": "安芸郡府中町",
+      "opening_date": "2026-12-01",
+      "category": "鶏料理・定食・カフェ"
+    },
+    {
+      "name": "ブラリバ 名古屋サンロード店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "opening_date": "2026-12-01",
+      "category": "ブランド品買取専門店"
+    },
+    {
+      "name": "ロピア 宇品コーナン店",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-12-04",
+      "category": "食品スーパー"
+    }
+  ],
+  "sources": [
+    {
+      "name": "株式会社レリアン公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000055744.html",
+      "date_confirmation": "2026-11-19に福屋八丁堀本店4Fで1号店オープン"
+    },
+    {
+      "name": "トヨタレンタカー公式店舗情報",
+      "url": "https://www.rent.toyota.co.jp/shop/detail.aspx?eCode=028&rCode=63101&udFlg=2",
+      "date_confirmation": "2026-11-26オープン予定、ひたちなか市勝田中央3番3号"
+    },
+    {
+      "name": "ビッグクリエイト公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000071.000152670.html",
+      "date_confirmation": "2026-12-01オープン、広島県安芸郡府中町大須2-1-1 イオンモール広島府中1F"
+    },
+    {
+      "name": "株式会社STAYGOLD公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000073.000128181.html",
+      "date_confirmation": "2026-12-01オープン、愛知県名古屋市中村区名駅4-7-25"
+    },
+    {
+      "name": "OICグループ・ロピア公式プレスリリース（PDF）",
+      "url": "https://oicgroup.co.jp/docs/release/2026-11-26-%E5%BA%83%E5%B3%B6%E5%B8%82%E5%8D%97%E5%8C%BA%E5%88%9D%EF%BC%81%E3%80%8C%E3%83%AD%E3%83%94%E3%82%A2%E5%AE%87%E5%93%81%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%B3%E5%BA%97%E3%80%8D12%E6%9C%884%E6%97%A5%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3.pdf",
+      "date_confirmation": "2026-12-04オープン、広島県広島市南区宇品西6丁目5番3号"
+    }
+  ],
+  "checks": {
+    "count_before": 2764,
+    "count_after": 2769,
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_name_date_pairs_unique": "passed",
+    "existing_records_retained": "passed",
+    "existing_relative_order": "preserved",
+    "normalized_duplicate_groups_before": 11,
+    "normalized_duplicate_groups_after": 11,
+    "post_write_fetch": "passed",
+    "fetched_blob_sha_matches_write": "passed",
+    "post_write_count": 2769,
+    "post_write_updatetime": "2026-11-26T20:11:40+09:00"
+  },
+  "deferred": [
+    {
+      "item": "タリーズコーヒー MORIOKA TSUTAYA店",
+      "reason": "開店日を示す運営元・店舗の一次情報を確認できず、今回のJSONには追加保留"
+    }
+  ],
+  "errors": []
+}
