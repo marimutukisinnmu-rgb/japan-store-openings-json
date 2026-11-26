@@ -1,0 +1,180 @@
+{
+  "run_at": "2026-11-27T02:14:39+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_content_commit_sha": "2960b34c3bc17f7889bb4da2973f4222f138f35f",
+  "branch_head_before_log": "0a675e015aec4656aa073aaa77dfd8a1dac2bb1b",
+  "record_count_before": 2785,
+  "record_count_after": 2785,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国新店情報",
+      "count": 38,
+      "result": "all_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/"
+      ],
+      "scope": "2026-11-27 through 2026-12-10"
+    },
+    {
+      "group": "KFC公式12月新店情報",
+      "count": 11,
+      "result": "all_already_registered",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ]
+    },
+    {
+      "group": "ゴンチャ公式新店情報",
+      "count": 3,
+      "result": "all_already_registered; Sendai PARCO2 has two pre-existing name variants",
+      "urls": [
+        "https://www.gongcha.co.jp/pressrelease/",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/bb96c92fe045a3b5810244aefec9575e.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/34d5a267229643145a3f2ffa71ee684c.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1330bbdabdac70b0c3050fcef182a651.pdf"
+      ]
+    },
+    {
+      "group": "仙台PARCO2・パルイチ公式出店情報",
+      "count": 6,
+      "result": "all_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000004155.000003639.html"
+      ]
+    },
+    {
+      "group": "CCC公式新店情報",
+      "count": 2,
+      "result": "all_already_registered",
+      "urls": [
+        "https://www.ccc.co.jp/news/",
+        "https://www.ccc.co.jp/news/press/20261120_009784.html"
+      ],
+      "items": [
+        "AONA大阪梅田",
+        "TSUTAYA Conditioning ウニクス伊奈店"
+      ]
+    },
+    {
+      "group": "三井アウトレットパーク木更津公式出店情報",
+      "count": 14,
+      "result": "all_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000004.000193943.html"
+      ],
+      "scope": "permanent, pop-up, and renewal candidates individually checked"
+    },
+    {
+      "group": "ランドマークプラザ公式新店情報",
+      "count": 5,
+      "result": "all_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000416.000043503.html"
+      ]
+    },
+    {
+      "group": "PLAZA TOKYO+公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000001097.000003436.html"
+      ]
+    },
+    {
+      "group": "WithGreen公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html"
+      ]
+    },
+    {
+      "group": "＆found常設店公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000001291.000082978.html"
+      ]
+    },
+    {
+      "group": "サブウェイ公式2026年新店舗情報",
+      "count": 4,
+      "result": "all_already_registered",
+      "urls": [
+        "https://subway.co.jp/news/year/2026/"
+      ]
+    },
+    {
+      "group": "PPIH・Olympic公式新店情報",
+      "count": 5,
+      "result": "all_already_registered",
+      "urls": [
+        "https://www.olympic-corp.co.jp/news/2026/1124/195929"
+      ]
+    },
+    {
+      "group": "神戸屋公式新店情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000070.000132572.html"
+      ]
+    },
+    {
+      "group": "キル フェ ボン公式新店情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+      ]
+    },
+    {
+      "group": "WithGreen・MOBILITY LOUNGE等の既出公式候補",
+      "count": 2,
+      "result": "both_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://www.ccc.co.jp/news/"
+      ],
+      "items": [
+        "WithGreen 光が丘IMA店",
+        "MOBILITY LOUNGE 川根本町｜長島ダムフロント"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "normalized_duplicate_like_groups": 13,
+    "existing_records_retained_in_relative_order": true,
+    "latest_json_changed": false,
+    "post_write_fetch": "not_applicable_latest_unchanged",
+    "post_write_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+    "post_write_count": 2785,
+    "automation_status": "enabled",
+    "automation_schedule": "unchanged",
+    "automation_next_run": "2026-11-27T02:15:00+09:00",
+    "automation_run_status_at_inspection": "in_progress"
+  },
+  "deferred": [
+    {
+      "item": "ゴンチャ 仙台PARCO2店",
+      "reason": "同一所在地・同一開店日の表記違い候補が既存JSONに2件あるため、統合・削除せず保持。"
+    },
+    {
+      "item": "既存の正規化後重複候補13グループ",
+      "reason": "既存データの表記揺れ候補。正本を確定できないため今回変更せず保持。"
+    }
+  ],
+  "errors": []
+}
