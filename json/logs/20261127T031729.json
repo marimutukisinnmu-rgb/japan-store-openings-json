@@ -1,0 +1,137 @@
+{
+  "run_at": "2026-11-27T03:17:29+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_commit_sha": "2960b34c3bc17f7889bb4da2973f4222f138f35f",
+  "record_count_before": 2785,
+  "record_count_after": 2785,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国新店情報",
+      "count": 52,
+      "result": "all_52_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/"
+      ],
+      "scope": "2026-11-12 through 2026-12-10"
+    },
+    {
+      "group": "すき家公式新店情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.sukiya.jp/news/"
+      ],
+      "items": [
+        "すき家 札幌平岡店（2026-11-30、北海道札幌市清田区）"
+      ]
+    },
+    {
+      "group": "PPIH公式ニュースリリース",
+      "count": 3,
+      "result": "all_3_already_registered",
+      "urls": [
+        "https://ppih.co.jp/news/"
+      ],
+      "items": [
+        "ロビン・フッド亀戸店（2026-12-08）",
+        "ロビン・フッド朝霞泉水店（2026-12-15）",
+        "MEGA ドン・キホーテ Olympic 洋光台店（2026-12-10）"
+      ]
+    },
+    {
+      "group": "株式会社ユニシアホールディングス公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://unisia.co.jp/press/susnews/2026/"
+      ],
+      "items": [
+        "串カツ田中 本八戸店（2026-11-30、青森県八戸市）"
+      ]
+    },
+    {
+      "group": "株式会社ホットパレット公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000244.000070820.html"
+      ],
+      "items": [
+        "ペッパーランチ イオンモール伊達店（2026-11-27、福島県伊達市）"
+      ]
+    },
+    {
+      "group": "株式会社甲羅公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://tohakusha.com/main/html/rd/p/000000192.000126693.html"
+      ],
+      "items": [
+        "大東園石和店（2026-12-04、山梨県笛吹市）"
+      ]
+    },
+    {
+      "group": "株式会社コズミックホールディングス公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000062.000035671.html"
+      ],
+      "items": [
+        "みつぼしや アリオ八尾店（2026-12-23、大阪府八尾市）"
+      ]
+    },
+    {
+      "group": "エスエフピーダイナース株式会社公式発表",
+      "count": 1,
+      "result": "represented_by_existing_alternate_name_record",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000013.000154546.html"
+      ],
+      "items": [
+        "麺屋 猪一 新宿（2026-11-28、東京都新宿区）"
+      ],
+      "note": "既存レコード「麵屋 猪一（明治安田新宿ビル）」が同日・同市区町村で登録済み。表記を統合・変更せず保持。"
+    },
+    {
+      "group": "株式会社POP MART JAPAN公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+      ],
+      "items": [
+        "POP MART LUCUA SOUTH店（2026-11-24、大阪府大阪市北区）"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "existing_records_retained_in_relative_order": true,
+    "no_update_reason": "eligible confirmed candidates were already represented in the existing dataset",
+    "post_write_fetch": "not_applicable_no_json_change",
+    "post_write_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+    "post_write_count": 2785,
+    "automation_status": "enabled",
+    "automation_schedule": "HOURLY;BYMINUTE=15;Asia/Tokyo"
+  },
+  "deferred": [
+    {
+      "item": "すき家 札幌平岡店",
+      "reason": "公式ニュース一覧の開店日数値は2026-11-30だが、併記された曜日表記が暦と不一致。既存のopening_date=2026-11-30は変更せず保持。"
+    }
+  ],
+  "errors": []
+}
