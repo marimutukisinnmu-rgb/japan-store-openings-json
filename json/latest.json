@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T09:11:51+09:00",
+  "updatetime": "2026-11-26T10:17:20+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13577,6 +13577,13 @@
       "category": "定食レストラン"
     },
     {
+      "name": "ＬＡＷＳＯＮ＋ｔｏｋｓ等々力緑地",
+      "prefecture": "神奈川県",
+      "city": "川崎市中原区",
+      "opening_date": "2026-11-25",
+      "category": "コンビニ"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -15066,6 +15073,13 @@
       "city": "国分寺市",
       "opening_date": "2026-11-27",
       "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "カラオケまねきねこ 秋田大町店",
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "opening_date": "2026-11-27",
+      "category": "カラオケ"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
