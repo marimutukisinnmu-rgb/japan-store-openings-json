@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-11-26T19:10:31+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "e8a3c5bafda0f5d6e2dd01f81933dfc1bedb99a8",
+  "latest_commit_sha": "2b0181f8634a9fd33c0ccbee23c3d3ead5b45717",
+  "record_count_before": 2761,
+  "record_count_after": 2764,
+  "added": 3,
+  "corrected": 0,
+  "deleted": 0,
+  "transiently_added_then_reverted": 0,
+  "added_items": [
+    {
+      "name": "ASICS AQUA CITY ODAIBA",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-20",
+      "category": "スポーツ用品・アパレル"
+    },
+    {
+      "name": "ニュー・クイック洪福寺松原店",
+      "prefecture": "神奈川県",
+      "city": "横浜市保土ケ谷区",
+      "opening_date": "2026-11-28",
+      "category": "精肉・惣菜店"
+    },
+    {
+      "name": "ゴンチャ 仙台パルコ2店",
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "opening_date": "2026-12-03",
+      "category": "ティーカフェ"
+    }
+  ],
+  "sources": [
+    {
+      "name": "アシックスジャパン公式発表（PR TIMES）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000348.000020802.html",
+      "date_confirmation": "2026-11-20営業開始、東京都港区台場1-7-1 アクアシティお台場3F"
+    },
+    {
+      "name": "株式会社ニュー・クイック公式ニュースリリース",
+      "url": "https://www.new-quick.co.jp/news/release/202611251100",
+      "date_confirmation": "2026-11-28グランドオープン、横浜市保土ケ谷区"
+    },
+    {
+      "name": "株式会社ニュー・クイック公式PR TIMES発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000119.000132196.html",
+      "date_confirmation": "2026-11-28グランドオープン、洪福寺松原商店街"
+    },
+    {
+      "name": "ゴンチャ ジャパン公式プレスリリース（PDF）",
+      "url": "https://www.gongcha.co.jp/wp-content/uploads/2026/11/bb96c92fe045a3b5810244aefec9575e.pdf",
+      "date_confirmation": "2026-12-03オープン、仙台市青葉区中央3-7-5 仙台PARCO2/1F"
+    }
+  ],
+  "checks": {
+    "count_before": 2761,
+    "count_after": 2764,
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_name_date_pairs_unique": "passed",
+    "existing_records_retained": "passed",
+    "new_items_present": "passed",
+    "post_write_fetch": "passed",
+    "fetched_blob_sha_matches_write": "passed",
+    "post_write_count": 2764,
+    "post_write_updatetime": "2026-11-26T19:10:31+09:00",
+    "post_write_exact_candidates": "passed",
+    "existing_relative_order": "preserved",
+    "new_records_count": 3
+  },
+  "deferred": [
+    {
+      "item": "確認したが既存登録済みの候補（牛角焼肉食堂 イオンモール伊達店、CHOPPED SALAD DAY 明治安田新宿ビル店、プチバトー 銀座三越店、THE UKAI TOFUYA、LUNA EARTH イオンモール草津店、MEGAドン・キホーテ Olympic 洋光台店、西松屋 サンパークあじす店）",
+      "reason": "既存レコードと店名・開店日を照合済み。重複追加なし。"
+    },
+    {
+      "item": "日付未確定のモラージュ菖蒲ロフト",
+      "reason": "公式発表は2027年春予定のみで具体的な開店日が未確認。"
+    }
+  ],
+  "errors": []
+}
