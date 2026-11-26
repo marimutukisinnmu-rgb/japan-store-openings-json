@@ -1,0 +1,121 @@
+{
+  "run_at": "2026-11-27T00:14:05+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "ecaed0ea81f28ab746580bcfc9351f6ea7852b07",
+  "latest_commit_sha": "78c010c3ee82726c11de118f458e518e4760331a",
+  "record_count_before": 2783,
+  "record_count_after": 2784,
+  "added": 1,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "株式会社ユニシアホールディングス／串カツ田中公式発表",
+      "count": 3,
+      "result": "1_added_2_already_registered",
+      "urls": [
+        "https://unisia.co.jp/press/entry/3394",
+        "https://unisia.co.jp/press/prnews/2026/",
+        "https://prtimes.jp/main/html/rd/p/000000653.000027839.html"
+      ],
+      "items": [
+        "串カツ田中 本八戸店（2026-11-30、新規追加）",
+        "串カツ田中 霧島国分店（2026-11-27、登録済み）",
+        "串カツ田中 西国分寺店（2026-11-27、登録済み）"
+      ]
+    },
+    {
+      "group": "ローソン公式新店情報（全国・地域別・モバイル一覧）",
+      "count": 39,
+      "result": "all_39_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/",
+        "https://www.lawson.co.jp/newstore/smt/",
+        "https://www.lawson.co.jp/newstore/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html"
+      ],
+      "scope": "2026-11-27 through 2026-12-10"
+    },
+    {
+      "group": "日本ケンタッキー・フライド・チキン公式12月新店情報",
+      "count": 11,
+      "result": "all_11_already_registered",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ]
+    },
+    {
+      "group": "ゴンチャ ジャパン公式プレスリリース",
+      "count": 5,
+      "result": "all_candidates_already_represented; pre-existing name variants preserved",
+      "urls": [
+        "https://www.gongcha.co.jp/pressrelease/",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/34d5a267229643145a3f2ffa71ee684c.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1330bbdabdac70b0c3050fcef182a651.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/79d0f7aed102ec29bb48f115c3d20dea.pdf",
+        "https://www.gongcha.co.jp/wp-content/uploads/2026/11/1826adfdec6bd224698b6a3c74b69a16.pdf"
+      ],
+      "items": [
+        "ゴンチャ イオンモール船橋店",
+        "ゴンチャ 豊田T-FACE店",
+        "ゴンチャ イオンモール伊達店",
+        "ゴンチャ 仙台PARCO2店",
+        "ゴンチャ 富山MAROOT店"
+      ]
+    },
+    {
+      "group": "その他の公式店舗情報",
+      "count": 5,
+      "result": "all_already_registered",
+      "urls": [
+        "https://www.pronto.co.jp/company/news/2026/",
+        "https://tomiz.mom/information/detail/2771",
+        "https://www.takashimaya.co.jp/tamagawa/sc/new_shop/",
+        "https://subway.co.jp/news/20261120_02/",
+        "https://www.takashimaya.co.jp/nihombashi/specialtystores/new_shop/"
+      ],
+      "items": [
+        "プロント珈琲庭園 nonowa 国立店",
+        "富澤商店 山形屋店",
+        "ジャンニ キアリーニ（玉川高島屋S.C.）",
+        "サブウェイ イオン三ツ境店",
+        "日本橋高島屋S.C.の既存ポップアップ候補"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "exact_duplicate_keys": "none",
+    "existing_records_retained": "all_2783_unchanged_in_relative_order",
+    "new_entry_verified": true,
+    "post_write_fetch": "passed",
+    "post_write_sha": "ecaed0ea81f28ab746580bcfc9351f6ea7852b07",
+    "post_write_commit": "78c010c3ee82726c11de118f458e518e4760331a",
+    "post_write_count": 2784
+  },
+  "deferred": [
+    {
+      "item": "お肉の専門店 スギモト（東京ソラマチ）",
+      "reason": "施設側の告知は「11月下旬」とのみ記載し、具体的な日付を確認できない。既存レコードの2026-11-30は変更せず、日付の一次確認待ち。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000458.000041446.html"
+    }
+  ],
+  "errors": [
+    {
+      "component": "PRONTO official news page",
+      "status": "403_forbidden",
+      "detail": "公式ニュース一覧の直接取得は403。検索結果で12月15日開店の記載を確認し、既存レコードと照合。"
+    },
+    {
+      "component": "automation_status_inspection",
+      "status": "tool_unavailable",
+      "detail": "管理タスク状態の読み取り操作がAction not foundで実行できず。有効状態・次回予定時刻は未確認。スケジュール変更・停止操作は行っていない。"
+    }
+  ]
+}
