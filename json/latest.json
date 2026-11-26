@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T11:18:23+09:00",
+  "updatetime": "2026-11-26T12:12:39+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13941,6 +13941,13 @@
       "category": "コンビニエンスストア"
     },
     {
+      "name": "カルディコーヒーファーム ショッピングシティベル店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-11-26",
+      "category": "コーヒー豆・輸入食品専門店"
+    },
+    {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15087,6 +15094,13 @@
       "city": "秋田市",
       "opening_date": "2026-11-27",
       "category": "カラオケ"
+    },
+    {
+      "name": "LOWRYS FARM イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ファッション（レディース・ユニセックス・キッズ）"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
@@ -16475,6 +16489,13 @@
       "category": "イタリアンレストラン（リニューアル）"
     },
     {
+      "name": "マックスバリュ エクスプレス栄2丁目店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-03",
+      "category": "食品スーパー"
+    },
+    {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -17593,6 +17614,13 @@
       "city": "中野区",
       "opening_date": "2026-12-09",
       "category": "書店・文具・雑貨"
+    },
+    {
+      "name": "富澤商店 アトレ中野店",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "opening_date": "2026-12-09",
+      "category": "製菓・製パン材料専門店"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（渋谷）",
