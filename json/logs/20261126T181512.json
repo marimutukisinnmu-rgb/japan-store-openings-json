@@ -1,108 +1,18 @@
 {
   "run_at": "2026-11-26T18:15:12+09:00",
-  "result": "updated",
+  "result": "updated_with_source_correction",
   "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
   "branch": "main",
   "latest_path": "json/latest.json",
-  "latest_blob_sha": "5af21071345ff3be1b2aa9ef84eb98937000387b",
-  "latest_commit_sha": "ae6baad3dbeec7c143a4d182e0d2e999fa2ce24a",
+  "latest_blob_sha": "6f1959c2b7f992e870d85ea4ea3b9f1c223af6c9",
+  "latest_commit_sha": "202e8458583b4622b97639fec0154fa4c9d08fa5",
   "record_count_before": 2755,
-  "record_count_after": 2774,
-  "added": 19,
+  "record_count_after": 2761,
+  "added": 6,
   "corrected": 0,
   "deleted": 0,
+  "transiently_added_then_reverted": 13,
   "added_items": [
-    {
-      "name": "ローソン 札幌琴似１条一丁目",
-      "prefecture": "北海道",
-      "city": "札幌市西区",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 黒石駅前",
-      "prefecture": "青森県",
-      "city": "黒石市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 川越旭町三丁目",
-      "prefecture": "埼玉県",
-      "city": "川越市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン Ｈ府中市役所",
-      "prefecture": "東京都",
-      "city": "府中市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 中野中央二丁目",
-      "prefecture": "東京都",
-      "city": "中野区",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 八王子万町",
-      "prefecture": "東京都",
-      "city": "八王子市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 三鷹牟礼三丁目",
-      "prefecture": "東京都",
-      "city": "三鷹市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 福井空港通",
-      "prefecture": "福井県",
-      "city": "坂井市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 彦根元町",
-      "prefecture": "滋賀県",
-      "city": "彦根市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 和泉府中駅西",
-      "prefecture": "大阪府",
-      "city": "泉大津市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 寝屋川田井西町",
-      "prefecture": "大阪府",
-      "city": "寝屋川市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 敷津西一丁目",
-      "prefecture": "大阪府",
-      "city": "大阪市浪速区",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
-    {
-      "name": "ローソン 姫路北条一丁目",
-      "prefecture": "兵庫県",
-      "city": "姫路市",
-      "opening_date": "2026-12-10",
-      "category": "コンビニ"
-    },
     {
       "name": "マクドナルド 国分新町店",
       "prefecture": "鹿児島県",
@@ -148,12 +58,9 @@
   ],
   "sources": [
     {
-      "name": "ローソン公式・新店舗情報（モバイル版）",
-      "url": "https://www.lawson.co.jp/newstore/smt/"
-    },
-    {
       "name": "マクドナルド公式店舗検索：国分新町店",
-      "url": "https://map.mcdonalds.co.jp/map/46541"
+      "url": "https://map.mcdonalds.co.jp/map/46541",
+      "date_confirmation": "公式検索結果に2026-11-26オープン予定と掲載"
     },
     {
       "name": "マクドナルド公式店舗検索：ヒタチエ店",
@@ -161,7 +68,8 @@
     },
     {
       "name": "マクドナルド公式店舗検索：五福店",
-      "url": "https://map.mcdonalds.co.jp/map/16546"
+      "url": "https://map.mcdonalds.co.jp/map/16546",
+      "date_confirmation": "公式検索結果に2026-11-26オープン予定と掲載"
     },
     {
       "name": "マクドナルド公式店舗検索：西鉄香椎駅前店",
@@ -174,34 +82,18 @@
     {
       "name": "マクドナルド公式店舗検索：川崎南野川店",
       "url": "https://map.mcdonalds.co.jp/map/14802"
-    },
-    {
-      "name": "北野エース公式・山形屋店（既存登録を再確認）",
-      "url": "https://www.ace-group.co.jp/announcement/266.html"
-    },
-    {
-      "name": "エスコン公式・トナリエ久里浜パーク（施設・既存テナントを再確認）",
-      "url": "https://www.es-conjapan.co.jp/news/8867/"
-    },
-    {
-      "name": "THE CITY BAKERY公式・新宿店（既存登録を再確認）",
-      "url": "https://thecitybakery.jp/news/shinjuku"
     }
   ],
   "checks": {
-    "lawson_official_20261210_candidates_checked": 13,
-    "lawson_newly_added": 13,
-    "mcdonalds_official_store_pages_checked": 6,
     "mcdonalds_newly_added": 6,
-    "other_official_candidates_rechecked_and_already_registered": 3,
-    "duplicate_new_candidates": 0,
+    "lawson_20261210_candidates_deferred": 13,
     "json_parse": "passed",
     "required_fields": "passed",
     "date_format": "passed",
     "opening_date_sort": "passed",
-    "existing_records_retained": "passed",
-    "existing_relative_order": "preserved",
     "exact_name_date_pairs_unique": "passed",
+    "existing_2755_records_retained": "passed",
+    "existing_relative_order": "preserved",
     "preexisting_normalized_duplicate_groups": 13,
     "preexisting_normalized_duplicate_groups_changed": false,
     "post_write_fetch": "passed",
@@ -209,9 +101,29 @@
   },
   "deferred": [
     {
+      "item": "ローソン公式検索結果に表示された2026-12-10開店候補13件",
+      "reason": "公式検索結果のスニペットには掲載がある一方、同じ公式モバイル新店ページを直接取得した本文は2026-12-08までで不一致。日付を一次本文で再確認できるまでJSONには追加しない。",
+      "names": [
+        "ローソン 札幌琴似１条一丁目",
+        "ローソン 黒石駅前",
+        "ローソン 川越旭町三丁目",
+        "ローソン Ｈ府中市役所",
+        "ローソン 中野中央二丁目",
+        "ローソン 八王子万町",
+        "ローソン 三鷹牟礼三丁目",
+        "ローソン 福井空港通",
+        "ローソン 彦根元町",
+        "ローソン 和泉府中駅西",
+        "ローソン 寝屋川田井西町",
+        "ローソン 敷津西一丁目",
+        "ローソン 姫路北条一丁目"
+      ]
+    },
+    {
       "item": "松屋 板橋四葉店・松屋 名取店",
       "reason": "今回の確認範囲では運営元公式の開店日情報を確認できず、第三者情報のみのため追加保留"
     }
   ],
-  "errors": []
+  "errors": [],
+  "correction_note": "同一実行内の初回書き込みで追加したローソン候補13件は、公式ページ本文との不一致を確認したため取り消し。元の2,755件は保持し、公式マクドナルド情報で確認できた6件のみを最終データに残した。"
 }
