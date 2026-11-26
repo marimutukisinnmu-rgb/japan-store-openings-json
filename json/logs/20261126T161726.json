@@ -1,0 +1,183 @@
+{
+  "executed_at": "2026-11-26T16:17:26+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "no_update",
+  "before": {
+    "item_count": 2755,
+    "blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+    "updatetime": "2026-11-26T15:19:17+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "checked_candidates": [
+    {
+      "name": "ローソン 中城屋宜",
+      "opening_date": "2026-11-26",
+      "result": "already_registered",
+      "source": "https://okinawa.lawson.jp/information/detail/1534971_4230.html"
+    },
+    {
+      "name": "ムラサキスポーツ イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://shop.murasaki.jp/detail/214/"
+    },
+    {
+      "name": "Can★Do イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered_under_name_variant",
+      "source": "https://en.shopinfo.cando-web.co.jp/detail/shop-5662/"
+    },
+    {
+      "name": "PETEMO イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000006224.000007505.html"
+    },
+    {
+      "name": "築地食堂 源ちゃん イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000013.000182170.html"
+    },
+    {
+      "name": "ビッグ・エー清瀬駅北口店",
+      "opening_date": "2026-11-28",
+      "result": "already_registered_name_variant_duplicate_candidate",
+      "source": "https://www.biga.co.jp/open-renewal/11%E6%9C%8828%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%BC%E6%B8%85%E7%80%AC%E9%A7%85%E5%8C%97%E5%8F%A3%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/"
+    },
+    {
+      "name": "Zoff イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000001061.000002864.html"
+    },
+    {
+      "name": "SHOWA NISHIKAWA イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000443.000031377.html"
+    },
+    {
+      "name": "KEYUCA イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000691.000042258.html"
+    },
+    {
+      "name": "LOWRYS FARM イオンモール伊達店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000003378.000001304.html"
+    },
+    {
+      "name": "サブウェイ イオン三ツ境店",
+      "opening_date": "2026-11-27",
+      "result": "already_registered",
+      "source": "https://subway.co.jp/news/20261120_02/"
+    },
+    {
+      "name": "WithGreen 光が丘IMA店",
+      "opening_date": "2026-11-26",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000126.000018848.html"
+    },
+    {
+      "name": "POP MART LUCUA SOUTH店",
+      "opening_date": "2026-11-24",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+    },
+    {
+      "name": "neverbetter",
+      "opening_date": "2026-11-15",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000326.000065392.html"
+    },
+    {
+      "name": "桐松屋",
+      "opening_date": "2026-12-01",
+      "result": "already_registered",
+      "source": "https://prtimes.jp/main/html/rd/p/000000001.000194686.html"
+    },
+    {
+      "name": "すき家 札幌平岡店",
+      "opening_date": "2026-11-30",
+      "result": "already_registered",
+      "source": "https://www.sukiya.jp/news/"
+    },
+    {
+      "name": "ケンタッキーフライドチキン イオンタウン久留米東櫛原店",
+      "opening_date": "2026-11-26",
+      "result": "already_registered",
+      "source": "https://japan.kfc.co.jp/news_release/8199"
+    },
+    {
+      "name": "マックスバリュ エクスプレス栄2丁目店",
+      "opening_date": "2026-12-03",
+      "result": "already_registered",
+      "source": "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf"
+    }
+  ],
+  "after": {
+    "item_count": 2755,
+    "blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+    "updatetime": "2026-11-26T15:19:17+09:00"
+  },
+  "validation": {
+    "json_parse": true,
+    "item_count": 2755,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "existing_records_preserved": true,
+    "latest_json_changed": false,
+    "re_fetched_from_main": true,
+    "fetched_blob_sha_matches": true
+  },
+  "sources_reviewed": [
+    "https://okinawa.lawson.jp/information/detail/1534971_4230.html",
+    "https://shop.murasaki.jp/detail/214/",
+    "https://en.shopinfo.cando-web.co.jp/detail/shop-5662/",
+    "https://prtimes.jp/main/html/rd/p/000006224.000007505.html",
+    "https://prtimes.jp/main/html/rd/p/000000013.000182170.html",
+    "https://www.biga.co.jp/open-renewal/11%E6%9C%8828%E6%97%A5%EF%BC%88%E5%9C%9F%EF%BC%89%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%82%A8%E3%83%BC%E6%B8%85%E7%80%AC%E9%A7%85%E5%8C%97%E5%8F%A3%E5%BA%97%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3/",
+    "https://prtimes.jp/main/html/rd/p/000001061.000002864.html",
+    "https://prtimes.jp/main/html/rd/p/000000443.000031377.html",
+    "https://prtimes.jp/main/html/rd/p/000000691.000042258.html",
+    "https://prtimes.jp/main/html/rd/p/000003378.000001304.html",
+    "https://subway.co.jp/news/20261120_02/",
+    "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+    "https://prtimes.jp/main/html/rd/p/000000043.000062707.html",
+    "https://prtimes.jp/main/html/rd/p/000000326.000065392.html",
+    "https://prtimes.jp/main/html/rd/p/000000001.000194686.html",
+    "https://www.sukiya.jp/news/",
+    "https://japan.kfc.co.jp/news_release/8199",
+    "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf"
+  ],
+  "errors": [
+    "PETEMOのPR TIMES個別ページは直接取得時にDisabledError。検索結果に掲載された運営元発表の概要を確認し、既存レコードと照合。"
+  ],
+  "pending_unconfirmed": [
+    "（仮称）遠賀川駅南商業店舗／ロピア：実際の開店日は未確認。前回の保留状態を維持。"
+  ],
+  "review_notes": [
+    "今回の確認候補はすべて既存登録済み。新規追加・訂正・削除は行わない。",
+    "ビッグ・エー清瀬駅北口店は表記違いの既存レコードが2件ある。正本確認前の統合・削除は行わず、両方を保持。",
+    "一部候補の公開情報に店舗名と所在地の不整合が見られたため、既存データの修正には使用しない。"
+  ],
+  "save": {
+    "latest_json_changed": false,
+    "latest_json_blob_sha": "1949921ce2c7855f71c625cc5f4eb9da8253751d",
+    "latest_json_retrieved": true,
+    "latest_json_sha_verified": true,
+    "log_path": "json/logs/20261126T161726.json"
+  }
+}
