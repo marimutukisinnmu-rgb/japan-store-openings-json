@@ -1,0 +1,168 @@
+{
+  "executed_at": "2026-11-26T13:13:45+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated_and_verified",
+  "before": {
+    "item_count": 2738,
+    "blob_sha": "fdef589ad065401bd289fe5a97cc3f7e7c480423"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "JAMIE KAY（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-10-16",
+        "category": "ベビー・キッズ服（期間限定出店）"
+      },
+      {
+        "name": "アルページュストーリー（三井アウトレットパーク 木更津・リニューアル）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-10-23",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "ワコール・ファクトリーストア（三井アウトレットパーク 木更津・リニューアル）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-10-29",
+        "category": "インナーウェア・3Dボディスキャン（リニューアル）"
+      },
+      {
+        "name": "CAMPERLAB（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-07",
+        "category": "ファッション・シューズ（期間限定出店）"
+      },
+      {
+        "name": "DESCENTE（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-13",
+        "category": "スポーツウェア（期間限定出店）"
+      },
+      {
+        "name": "COACH（三井アウトレットパーク 木更津・移転リニューアル）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-14",
+        "category": "バッグ・ファッション（移転リニューアル）"
+      },
+      {
+        "name": "TOM FORD（三井アウトレットパーク 木更津）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-19",
+        "category": "ファッション（常設店舗・関東アウトレット初）"
+      },
+      {
+        "name": "TATRAS（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-21",
+        "category": "ファッション（期間限定出店）"
+      },
+      {
+        "name": "CLUB PILATES 草加トーブ イコート",
+        "prefecture": "埼玉県",
+        "city": "草加市",
+        "opening_date": "2026-11-26",
+        "category": "マシンピラティススタジオ"
+      },
+      {
+        "name": "ダイアナ（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-11-30",
+        "category": "シューズ・バッグ（期間限定出店）"
+      },
+      {
+        "name": "焼鶏 瞬 -shun-",
+        "prefecture": "東京都",
+        "city": "港区",
+        "opening_date": "2026-12-01",
+        "category": "焼鳥・和食"
+      },
+      {
+        "name": "PYRENEX（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-12-03",
+        "category": "ダウンウェア（期間限定出店）"
+      },
+      {
+        "name": "MOONSTAR（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-12-04",
+        "category": "シューズ（期間限定出店）"
+      },
+      {
+        "name": "TORY BURCH（三井アウトレットパーク 木更津・移転リニューアル）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-12-04",
+        "category": "ファッション・バッグ（移転リニューアル）"
+      },
+      {
+        "name": "ミキハウス（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-12-04",
+        "category": "子ども服・ベビー用品（期間限定出店）"
+      },
+      {
+        "name": "FREITAG（三井アウトレットパーク 木更津・期間限定）",
+        "prefecture": "千葉県",
+        "city": "木更津市",
+        "opening_date": "2026-12-12",
+        "category": "バッグ・アクセサリー（期間限定出店）"
+      }
+    ],
+    "already_present": [],
+    "corrected": [],
+    "deleted": []
+  },
+  "sources": [
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000193943.html",
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "published_at": "2026-11-26",
+      "details": "三井アウトレットパーク 木更津の常設・移転リニューアル・期間限定出店の各ブランド名と営業開始日"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000110.000043594.html",
+      "publisher": "株式会社Wellness X Asia",
+      "published_at": "2026-11-25",
+      "details": "CLUB PILATES 草加トーブ イコート、2026-11-26開業、住所を確認"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000152766.html",
+      "publisher": "株式会社beagle",
+      "published_at": "2026-11-25",
+      "details": "焼鶏 瞬 -shun-、2026-12-01開業、東京都港区西麻布4-10-2を確認"
+    }
+  ],
+  "validation": {
+    "write_commit_sha": "a2e3908403e26a3c849e5af97d1110dfce9f0237",
+    "new_blob_sha": "9bc9027c6048efdf102a691e05151543a0ea5d8c",
+    "readback_sha": "9bc9027c6048efdf102a691e05151543a0ea5d8c",
+    "sha_match": true,
+    "item_count": 2754,
+    "updatetime": "2026-11-26T13:13:45+09:00",
+    "additions_present": true,
+    "old_records_preserved_in_order_and_content": true,
+    "json_parse": true,
+    "dates_sorted": true
+  },
+  "pending_unconfirmed": [
+    "（仮称）遠賀川駅南商業店舗／ロピア：大規模小売店舗立地法の届出日程は確認できるが、実際の店舗オープン日としての運営元公式確認が不足するため追加保留。"
+  ],
+  "errors": [],
+  "automation_state_at_inspection": "checked separately after file writes"
+}
