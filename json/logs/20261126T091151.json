@@ -1,0 +1,68 @@
+{
+  "executed_at": "2026-11-26T09:11:51+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2730,
+    "blob_sha": "c2d2c851bc4b0add897658215f951186103681e7"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "串カツ田中 西国分寺店",
+        "prefecture": "東京都",
+        "city": "国分寺市",
+        "opening_date": "2026-11-27",
+        "category": "串カツ・居酒屋",
+        "sources": [
+          "https://unisia.co.jp/press/entry/3392",
+          "https://prtimes.jp/main/html/rd/p/000000652.000027839.html"
+        ],
+        "note": "ユニシアホールディングスの2026-11-25付公式発表。2026-11-27開店。公式発表および運営元配信の店舗詳細で東京都国分寺市泉町3丁目37-30を確認。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "串カツ田中 霧島国分店：2026-11-27の既存レコードを確認、重複追加なし。",
+    "H’s CREAM イオンモール伊達店：2026-11-27の既存レコードを確認、重複追加なし。",
+    "バーガーキング 3号新宮店：2026-11-27の既存レコードを確認、重複追加なし。",
+    "ローソン公式新店一覧の直近掲載分（11/25〜12/8）：確認した店舗は既存登録済み。",
+    "KFC公式11月・12月新店一覧：照合対象店舗は既存登録済み。"
+  ],
+  "sources_checked": [
+    "https://unisia.co.jp/press/entry/3392",
+    "https://prtimes.jp/main/html/rd/p/000000652.000027839.html",
+    "https://unisia.co.jp/press/entry/3399",
+    "https://prtimes.jp/main/html/p/000000026.000175390.html",
+    "https://www.lawson.co.jp/newstore/",
+    "https://japan.kfc.co.jp/news_release/8199",
+    "https://japan.kfc.co.jp/news_release/8200",
+    "https://prtimes.jp/main/html/rd/p/000000442.000038980.html"
+  ],
+  "after": {
+    "item_count": 2731,
+    "blob_sha": "c486e624d9110c584ae0a3fb493b0ea862d68001",
+    "update_commit_sha": "8b2f73bc0fdf35659c01053de0a4f6124b28933c"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [],
+  "review_notes": [
+    "新規追加は運営元の公式発表で開店日・店名を確認した1件のみ。",
+    "既存レコードは内容を変更せず、相対順序を保持。",
+    "確認できた候補のうち既存登録済みのものは重複追加しなかった。"
+  ]
+}
