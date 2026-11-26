@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T12:12:39+09:00",
+  "updatetime": "2026-11-26T13:13:45+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -2412,6 +2412,13 @@
       "category": "鍋料理"
     },
     {
+      "name": "JAMIE KAY（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-10-16",
+      "category": "ベビー・キッズ服（期間限定出店）"
+    },
+    {
       "name": "BOOKOFF SUPER BAZAAR 横浜東戸塚オリンピック店",
       "prefecture": "神奈川県",
       "city": "横浜市戸塚区",
@@ -3257,6 +3264,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-10-23",
       "category": "ファッション（移転リニューアル）"
+    },
+    {
+      "name": "アルページュストーリー（三井アウトレットパーク 木更津・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-10-23",
+      "category": "ファッション（リニューアル）"
     },
     {
       "name": "adabat（LINKS IKEBUKURO 7階）",
@@ -4258,6 +4272,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-10-29",
       "category": "ブランド古着・リユース（移転リニューアル）"
+    },
+    {
+      "name": "ワコール・ファクトリーストア（三井アウトレットパーク 木更津・リニューアル）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-10-29",
+      "category": "インナーウェア・3Dボディスキャン（リニューアル）"
     },
     {
       "name": "-デビュー40周年記念- 藤島康介 原画展（なんばマルイ）",
@@ -7851,6 +7872,13 @@
       "category": "韓国料理（期間限定POPUP）"
     },
     {
+      "name": "CAMPERLAB（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-07",
+      "category": "ファッション・シューズ（期間限定出店）"
+    },
+    {
       "name": "PYRENEX 2026 AUTUMN & WINTER COLLECTION for MEN（ユナイテッドアローズ新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -9846,6 +9874,13 @@
       "category": "書店・トレーディングカード・プラモデル・キャラクターグッズ（リニューアル）"
     },
     {
+      "name": "DESCENTE（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-13",
+      "category": "スポーツウェア（期間限定出店）"
+    },
+    {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（博多マルイ）",
       "prefecture": "福岡県",
       "city": "福岡市博多区",
@@ -10054,6 +10089,13 @@
       "city": "新宿区",
       "opening_date": "2026-11-14",
       "category": "ワークショップ専門店"
+    },
+    {
+      "name": "COACH（三井アウトレットパーク 木更津・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-14",
+      "category": "バッグ・ファッション（移転リニューアル）"
     },
     {
       "name": "chocoZAP 上古賀店（リニューアル）",
@@ -11328,6 +11370,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-11-19",
       "category": "レディースファッション（移転リニューアル）"
+    },
+    {
+      "name": "TOM FORD（三井アウトレットパーク 木更津）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-19",
+      "category": "ファッション（常設店舗・関東アウトレット初）"
     },
     {
       "name": "『VIVANT』25 POP UPブース（PLAZA TOKYO+ 新宿店）",
@@ -12765,6 +12814,13 @@
       "category": "ペットホテル"
     },
     {
+      "name": "TATRAS（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-21",
+      "category": "ファッション（期間限定出店）"
+    },
+    {
       "name": "GINZA TOKYO 樂 gaku",
       "prefecture": "東京都",
       "city": "千代田区",
@@ -13946,6 +14002,13 @@
       "city": "福井市",
       "opening_date": "2026-11-26",
       "category": "コーヒー豆・輸入食品専門店"
+    },
+    {
+      "name": "CLUB PILATES 草加トーブ イコート",
+      "prefecture": "埼玉県",
+      "city": "草加市",
+      "opening_date": "2026-11-26",
+      "category": "マシンピラティススタジオ"
     },
     {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
@@ -15698,6 +15761,13 @@
       "category": "カフェ・レストラン"
     },
     {
+      "name": "ダイアナ（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-11-30",
+      "category": "シューズ・バッグ（期間限定出店）"
+    },
+    {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
       "prefecture": "埼玉県",
       "city": "入間市",
@@ -16125,6 +16195,13 @@
       "category": "フィットネスクラブ"
     },
     {
+      "name": "焼鶏 瞬 -shun-",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-12-01",
+      "category": "焼鳥・和食"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16494,6 +16571,13 @@
       "city": "名古屋市中区",
       "opening_date": "2026-12-03",
       "category": "食品スーパー"
+    },
+    {
+      "name": "PYRENEX（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-12-03",
+      "category": "ダウンウェア（期間限定出店）"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -16886,6 +16970,27 @@
       "city": "一関市",
       "opening_date": "2026-12-04",
       "category": "スーパーマーケット"
+    },
+    {
+      "name": "MOONSTAR（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-12-04",
+      "category": "シューズ（期間限定出店）"
+    },
+    {
+      "name": "TORY BURCH（三井アウトレットパーク 木更津・移転リニューアル）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-12-04",
+      "category": "ファッション・バッグ（移転リニューアル）"
+    },
+    {
+      "name": "ミキハウス（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-12-04",
+      "category": "子ども服・ベビー用品（期間限定出店）"
     },
     {
       "name": "BONTEMPS 田川店",
@@ -18069,6 +18174,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-12",
       "category": "スーパーマーケット"
+    },
+    {
+      "name": "FREITAG（三井アウトレットパーク 木更津・期間限定）",
+      "prefecture": "千葉県",
+      "city": "木更津市",
+      "opening_date": "2026-12-12",
+      "category": "バッグ・アクセサリー（期間限定出店）"
     },
     {
       "name": "バーミヤン BiVi仙台駅東口店",
