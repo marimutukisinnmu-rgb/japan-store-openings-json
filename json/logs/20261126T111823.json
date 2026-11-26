@@ -1,0 +1,68 @@
+{
+  "executed_at": "2026-11-26T11:18:23+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2733,
+    "blob_sha": "7c295b0682ea1cbce465950986753a90d39c01f5"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "ファミリーマート宇佐森山店",
+        "prefecture": "大分県",
+        "city": "宇佐市",
+        "opening_date": "2026-11-26",
+        "category": "コンビニエンスストア",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000001473.000037933.html",
+          "https://www.jr-retail.co.jp/topics/"
+        ],
+        "note": "JR九州リテールの2026-11-25付告知。2026-11-26 7:00開店、所在地は大分県宇佐市森山字琴井田27。"
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "unchanged_confirmed": [
+    "ローソン公式新店情報で確認した24店舗はすべて既存登録済み。重複追加なし。",
+    "CASIO STORE HARAJUKU（2026-12-04）は既存登録済み。",
+    "WithGreen 光が丘IMA店、串カツ田中 西国分寺店、回転寿司 根室花まる 明治安田新宿ビル店、Shake Shack 西新宿店、キル フェ ボン新宿は既存登録済み。"
+  ],
+  "after": {
+    "item_count": 2734,
+    "blob_sha": "d39e1ce8f5060d6c80916a045fc96f11c2902fc6",
+    "update_commit_sha": "5abcd04cda15d9adca2e061d47bb72cd08a1cf8e"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "exact_duplicate_count": 0,
+    "name_date_duplicate_count": 0,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "モラージュ菖蒲ロフト：2027年3月初旬予定まで確認。日付が確定していないため追加保留。"
+  ],
+  "review_notes": [
+    "新規追加はJR九州リテールの告知に基づき、開店日・時刻・市区町村を確認。",
+    "CASIO STORE HARAJUKUはカシオ計算機の2026-11-25公式発表で2026-12-04開店を再確認したが既存登録済みのため追加せず。",
+    "ローソン公式新店一覧で確認した掲載24店舗は既存登録済み。"
+  ],
+  "automation_state_at_inspection": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "enabled": true,
+    "schedule": "HOURLY;BYMINUTE=15",
+    "timezone": "Asia/Tokyo",
+    "last_run_recorded_status_at_inspection": "in_progress",
+    "last_run_completed_at_inspection": null,
+    "note": "今回の実行中に取得した管理状態。"
+  }
+}
