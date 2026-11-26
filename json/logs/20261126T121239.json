@@ -1,0 +1,100 @@
+{
+  "executed_at": "2026-11-26T12:12:39+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "result": "updated",
+  "before": {
+    "item_count": 2734,
+    "blob_sha": "d39e1ce8f5060d6c80916a045fc96f11c2902fc6",
+    "updatetime": "2026-11-26T11:18:23+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "カルディコーヒーファーム ショッピングシティベル店",
+        "prefecture": "福井県",
+        "city": "福井市",
+        "opening_date": "2026-11-26",
+        "category": "コーヒー豆・輸入食品専門店",
+        "sources": [
+          "https://bell.or.jp/event-news/kaldi.html"
+        ]
+      },
+      {
+        "name": "LOWRYS FARM イオンモール伊達店",
+        "prefecture": "福島県",
+        "city": "伊達市",
+        "opening_date": "2026-11-27",
+        "category": "ファッション（レディース・ユニセックス・キッズ）",
+        "sources": [
+          "https://prtimes.jp/main/html/rd/p/000003378.000001304.html",
+          "https://www.dot-st.com/lowrysfarm/info/store/?store=31395"
+        ]
+      },
+      {
+        "name": "マックスバリュ エクスプレス栄2丁目店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-12-03",
+        "category": "食品スーパー",
+        "sources": [
+          "https://www.mv-tokai.co.jp/wp/wp-content/uploads/2026/11/5aba0cceb2a0a326933b868b0a587222-1.pdf"
+        ]
+      },
+      {
+        "name": "富澤商店 アトレ中野店",
+        "prefecture": "東京都",
+        "city": "中野区",
+        "opening_date": "2026-12-09",
+        "category": "製菓・製パン材料専門店",
+        "sources": [
+          "https://official.tomiz.com/news/press/1557/",
+          "https://tomiz.com/information/detail/2777"
+        ]
+      }
+    ],
+    "corrected": [],
+    "deleted": []
+  },
+  "reviewed_already_registered": [
+    "ローソン 上越北城町（2026-12-03）",
+    "ローソン 妙高諏訪町（2026-12-03）",
+    "ローソン 清水庵原町（2026-12-04）",
+    "ローソン 一宮祐久（2026-12-04）",
+    "KEYUCA イオンモール伊達店（2026-11-27）",
+    "カラオケまねきねこ 鳥取安長店（2026-12-03）",
+    "Guzman y Gomez 西新宿店（2026-11-28）",
+    "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）（2026-12-02）",
+    "富澤商店 山形屋店（2026-11-28）",
+    "富澤商店 東京ソラマチ店（移転リニューアル、2026-11-30）"
+  ],
+  "preexisting_duplicate_aliases": {
+    "groups": 11,
+    "records": 22,
+    "after_groups": 11,
+    "after_records": 22,
+    "note": "Existing full-width/half-width or spacing variants were preserved without merging or deleting."
+  },
+  "after": {
+    "item_count": 2738,
+    "blob_sha": "fdef589ad065401bd289fe5a97cc3f7e7c480423",
+    "update_commit_sha": "f96b7b4aabad01a5757a6b7aa13e52e53ed75fa2"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "malformed_dates": 0,
+    "date_order_sorted": true,
+    "name_date_duplicate_groups": 11,
+    "preexisting_duplicate_baseline_preserved": true,
+    "previous_records_preserved_in_order_and_content": true,
+    "read_after_write_sha_match": true,
+    "readback_ok": true
+  },
+  "errors": [],
+  "pending_unconfirmed": [
+    "今回確認した範囲で、確定日を伴う未登録候補4件を追加。日付未確定の候補は推測追加していない。"
+  ]
+}
