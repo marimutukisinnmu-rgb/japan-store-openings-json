@@ -1,0 +1,155 @@
+{
+  "run_at": "2026-11-27T05:13:40+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_updatetime": "2026-11-27T01:11:33+09:00",
+  "record_count_before": 2785,
+  "record_count_after": 2785,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式新店情報（全国・地域別）",
+      "count": 13,
+      "result": "all_13_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/",
+        "https://mldata.lawson.co.jp/newstore/smt/index.html",
+        "https://mldata.lawson.co.jp/newstore/smt/kantou.html"
+      ],
+      "note": "2026-12-10開店予定の札幌琴似１条一丁目、黒石駅前、川越旭町三丁目、Ｈ府中市役所、中野中央二丁目、八王子万町、三鷹牟礼三丁目、福井空港通、彦根元町、和泉府中駅西、敷津西一丁目、寝屋川田井西町、姫路北条一丁目を店名・日付で照合。"
+    },
+    {
+      "group": "日本ケンタッキー・フライド・チキン公式12月新店情報",
+      "count": 11,
+      "result": "all_11_already_registered",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ],
+      "note": "公式発表の11店舗を店名・開店日で照合。JSON内は「ケンタッキーフライドチキン」表記。"
+    },
+    {
+      "group": "PPIH公式ニュースリリース",
+      "count": 7,
+      "result": "all_already_registered_after_whitespace_normalization",
+      "urls": [
+        "https://ppih.co.jp/news/",
+        "https://ppih.co.jp/news/pdf/261113_news_takaido.pdf"
+      ],
+      "items": [
+        "MEGAドン・キホーテ Olympic 高井戸店（2026-12-01）",
+        "ロビン・フッド北新宿店（2026-12-01）",
+        "ロビン・フッド亀戸店（2026-12-08）",
+        "MEGAドン・キホーテ Olympic 洋光台店（2026-12-10）",
+        "ロビン・フッド朝霞泉水店（2026-12-15）",
+        "ロビン・フッド成城店（2027-02-02）",
+        "MEGAドン・キホーテ Olympic 志村坂下店（2027-03-02）"
+      ],
+      "note": "高井戸店は名称中の空白差を正規化して既存レコードと照合。"
+    },
+    {
+      "group": "ゴンチャ公式プレスリリース",
+      "count": 6,
+      "result": "all_already_registered",
+      "urls": [
+        "https://www.gongcha.co.jp/pressrelease/"
+      ],
+      "note": "仙台パルコ2、イオンモール船橋、豊田T-FACE、イオンモール伊達、富山MAROOT、秋葉原UDXを照合。豊田T-FACEと富山MAROOTは既存の空白表記違い候補が各2件あり、統合・削除せず保持。"
+    },
+    {
+      "group": "プロントコーポレーション公式発表（訂正後）",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000357.000018877.html",
+        "https://www.pronto.co.jp/company/news/detail/20261120100914.html"
+      ],
+      "items": [
+        "プロント珈琲庭園 nonowa 国立店（2026-12-15）"
+      ],
+      "note": "訂正は商品価格に関するもので、店舗名・所在地・開店日は既存JSONと一致。公式企業サイトのニュース一覧は403だったが、運営元名義のPR TIMES訂正後発表を確認。"
+    },
+    {
+      "group": "有限会社マンゴースィーツインターナショナル公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://adv.tokyo-np.co.jp/prtimes/article228220/"
+      ],
+      "items": [
+        "H’s CREAM イオンモール伊達店（2026-11-27）"
+      ]
+    },
+    {
+      "group": "キルフェボン公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+      ],
+      "items": [
+        "キル フェ ボン新宿（2026-11-28）"
+      ]
+    },
+    {
+      "group": "WithGreen・富澤商店・BAKERIES LAB.・Panasonic各社発表",
+      "count": 4,
+      "result": "all_already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000126.000018848.html",
+        "https://prtimes.jp/main/html/rd/p/000000127.000083916.html",
+        "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+        "https://prtimes.jp/main/html/rd/p/000001259.000024101.html"
+      ],
+      "items": [
+        "WithGreen 光が丘IMA店（2026-11-26）",
+        "富澤商店 東京ソラマチ店（移転リニューアル、2026-11-30）",
+        "BAKERIES LAB.砂町銀座店（2026-11-21）",
+        "＆found（グランスタ東京、2026-12-15）"
+      ]
+    },
+    {
+      "group": "NTT都市開発・秋葉原UDX公式発表",
+      "count": 1,
+      "result": "relevant_openings_already_represented",
+      "urls": [
+        "https://www.nttud.co.jp/news/detail/id/n28055.html"
+      ],
+      "note": "星乃珈琲店の11月27日先行開業および12月10日のUDX DINING＆SHOPリニューアルに関する既存登録を確認。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format_and_calendar_validity": "passed",
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "existing_records_retained_in_relative_order": true,
+    "no_update_reason": "all confirmed candidates checked in this run were already represented in the existing dataset",
+    "post_write_fetch": "not_applicable_no_latest_json_change",
+    "latest_blob_sha_unchanged": true,
+    "post_check_record_count": 2785
+  },
+  "deferred": [
+    {
+      "item": "既存の表記揺れ候補",
+      "reason": "ゴンチャ豊田T-FACE、ゴンチャ富山MAROOT、MEGAドン・キホーテ Olympic 洋光台店などに空白・カテゴリ差のある既存レコードがあるため、正本を独断で統合せず保持。"
+    }
+  ],
+  "errors": [
+    {
+      "source": "PRONTO公式ニュース一覧",
+      "error": "403 Forbidden",
+      "handling": "運営元名義のPR TIMES訂正後発表を参照し、店舗情報を確認。"
+    }
+  ],
+  "automation_status": "enabled",
+  "automation_schedule": "HOURLY;BYMINUTE=15;Asia/Tokyo",
+  "next_run_time": "2026-11-27T05:15:00+09:00",
+  "last_run_recorded_status": "in_progress",
+  "completed_at": null
+}
