@@ -1,0 +1,114 @@
+{
+  "run_at": "2026-11-26T23:14:41+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "1d0272b07c765be578e7a3180b007fe3586e7eec",
+  "latest_commit_sha": "718b12c4deba35091feec7ac3fea852f8cb9787e",
+  "record_count_before": 2770,
+  "record_count_after": 2783,
+  "added": 13,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式新店情報（全国・関東・中部・近畿）",
+      "count": 53,
+      "result": "13_added_40_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html",
+        "https://mldata.lawson.co.jp/newstore/smt/kantou.html",
+        "https://www.lawson.co.jp/newstore/chubu.html",
+        "https://www.lawson.co.jp/newstore/kinki.html"
+      ],
+      "items": [
+        "ローソン 札幌琴似１条一丁目",
+        "ローソン 黒石駅前",
+        "ローソン 川越旭町三丁目",
+        "ローソン Ｈ府中市役所",
+        "ローソン 中野中央二丁目",
+        "ローソン 八王子万町",
+        "ローソン 三鷹牟礼三丁目",
+        "ローソン 福井空港通",
+        "ローソン 彦根元町",
+        "ローソン 和泉府中駅西",
+        "ローソン 敷津西一丁目",
+        "ローソン 寝屋川田井西町",
+        "ローソン 姫路北条一丁目"
+      ]
+    },
+    {
+      "group": "株式会社ビーケー・ジャパン公式発表（バーガーキング）",
+      "count": 16,
+      "result": "all_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000442.000038980.html"
+      ],
+      "items": [
+        "バーガーキング ロピア滝ノ水店",
+        "バーガーキング そよらひたち野うしく店",
+        "バーガーキング アピタ安城南店",
+        "バーガーキング 川中島店",
+        "バーガーキング 岡山津高店",
+        "バーガーキング 3号新宮店",
+        "バーガーキング イオンモール伊達店",
+        "バーガーキング おやまゆうえんハーヴェストウォーク店",
+        "バーガーキング 青森ELM店",
+        "バーガーキング イオンモール旭川駅前店",
+        "バーガーキング 平塚駅北口店",
+        "バーガーキング 西友福生店",
+        "バーガーキング 半田旭町店",
+        "バーガーキング MEGAドン・キホーテUNY市原店",
+        "バーガーキング イオン加古川店",
+        "バーガーキング ハンビー北谷店"
+      ]
+    },
+    {
+      "group": "株式会社KONA'S公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.konas-coffee.com/news/w8o1mzhn0e_n/"
+      ],
+      "items": [
+        "コナズ珈琲 福島駅店"
+      ]
+    },
+    {
+      "group": "株式会社サイプレス公式発表（イオンモール伊達5店舗）",
+      "count": 5,
+      "result": "all_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000017.000182170.html"
+      ],
+      "items": [
+        "ABURI百貫 イオンモール伊達店",
+        "築地食堂 源ちゃん イオンモール伊達店",
+        "銀座惣菜店 イオンモール伊達店",
+        "とんかつとう庵 イオンモール伊達店",
+        "天丼専門店 ゑるびす イオンモール伊達店"
+      ]
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "date_format": "passed",
+    "opening_date_sort": "passed",
+    "normalized_duplicate_groups": "13 pre-existing notation-variant groups preserved unchanged",
+    "existing_records_retained": "all_2770_unchanged_in_relative_order",
+    "new_entries_verified": true,
+    "post_write_fetch": "passed_after_retry",
+    "post_write_sha": "1d0272b07c765be578e7a3180b007fe3586e7eec",
+    "post_write_commit": "718b12c4deba35091feec7ac3fea852f8cb9787e"
+  },
+  "deferred": [],
+  "errors": [
+    {
+      "component": "immediate_post_write_fetch",
+      "status": "transient_stale_read",
+      "detail": "The first read-after-write returned the prior blob; a subsequent fetch by commit SHA and main ref confirmed the updated 2,783-record JSON."
+    }
+  ]
+}
