@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-26T20:11:40+09:00",
+  "updatetime": "2026-11-26T22:19:07+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17096,6 +17096,13 @@
       "city": "広島市南区",
       "opening_date": "2026-12-04",
       "category": "食品スーパー"
+    },
+    {
+      "name": "foun",
+      "prefecture": "東京都",
+      "city": "小平市",
+      "opening_date": "2026-12-04",
+      "category": "ライフスタイルショップ（杖・車いす・アパレル・生活雑貨・カフェ）"
     },
     {
       "name": "BONTEMPS 田川店",
