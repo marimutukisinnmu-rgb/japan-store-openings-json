@@ -1,0 +1,140 @@
+{
+  "run_at": "2026-11-27T06:17:50+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha": "5ff43554eb7e5bbfd93eed3b01397039c3e7efd8",
+  "latest_updatetime": "2026-11-27T01:11:33+09:00",
+  "record_count_before": 2785,
+  "record_count_after": 2785,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国新店情報",
+      "count": 40,
+      "result": "all_40_already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html"
+      ],
+      "note": "公式全国一覧の2026-11-12〜2026-12-08掲載40店舗を、店名と開店日で既存JSONと照合。40件すべて一致。"
+    },
+    {
+      "group": "株式会社Y’s発表（@Press）",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.atpress.ne.jp/news/650735"
+      ],
+      "items": [
+        "CARINITO OKINAWA | KOZA（2026-12-20、沖縄県沖縄市）"
+      ],
+      "note": "運営会社発表でグランドオープン日・店舗名・所在地を確認。既存レコードと一致。"
+    },
+    {
+      "group": "株式会社ユーハイム発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000224.000034027.html"
+      ],
+      "items": [
+        "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）（2026-12-02、東京都新宿区）"
+      ],
+      "note": "ライセンス契約者の発表で日本初店舗の開店日・施設・所在地を確認。既存レコードと一致。"
+    },
+    {
+      "group": "桐松屋公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.kirimatsuya.com/news-newopen"
+      ],
+      "items": [
+        "桐松屋（2026-12-01、東京都墨田区）"
+      ],
+      "note": "公式発表では2026-11-28がプレオープン、2026-12-01がグランドオープン。既存JSONのopening_dateはグランドオープン日と一致。"
+    },
+    {
+      "group": "SYNRA GROUP公式発表",
+      "count": 5,
+      "result": "all_5_already_registered",
+      "urls": [
+        "https://synra.co.jp/news-005/"
+      ],
+      "items": [
+        "Eleanor spa&treatment 中目黒店（2026-09-19）",
+        "Eleanor spa&treatment 高槻店（2026-09-19）",
+        "Eleanor spa&treatment 郡山店（2026-11-01予定）",
+        "Eleanor spa&treatment 池袋3rd店（2026-11-05予定）",
+        "Eleanor spa&treatment 沖縄北谷店（2026-11-30予定）"
+      ],
+      "note": "運営グループの公式発表に記載された5店舗すべて既存登録済み。"
+    },
+    {
+      "group": "KICOKICO合同会社発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000002.000193773.html"
+      ],
+      "items": [
+        "MERLE（メルル）（2026-11-22、東京都渋谷区）"
+      ],
+      "note": "運営会社発表でグランドオープン日と業態を確認。既存レコードと一致。"
+    },
+    {
+      "group": "キルフェボン公式発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026"
+      ],
+      "items": [
+        "キル フェ ボン新宿（2026-11-28、東京都新宿区）"
+      ],
+      "note": "公式発表で開店日と明治安田新宿ビル所在地を確認。既存レコードと一致。"
+    },
+    {
+      "group": "トランジットホールディングス発表",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000498.000040062.html"
+      ],
+      "items": [
+        "Guzman y Gomez 西新宿店（2026-11-28、東京都新宿区）"
+      ],
+      "note": "運営会社発表で開店日・施設を確認。既存レコードと一致。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "top_level_schema": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": "none",
+    "same_name_prefecture_city_date_collisions": "none",
+    "existing_records_retained_in_relative_order": true,
+    "no_update_reason": "今回確認した確定候補はすべて既存データに登録済み。確認できた未登録候補なし。",
+    "post_write_fetch": "not_applicable_no_latest_json_change",
+    "read_back_fetch": "success",
+    "latest_blob_sha_unchanged": true,
+    "post_check_record_count": 2785,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02"
+  },
+  "deferred": [],
+  "errors": [],
+  "automation_status": "enabled",
+  "automation_schedule": "FREQ=HOURLY;BYMINUTE=15;Asia/Tokyo",
+  "automation_last_run_recorded_status_at_check": "in_progress",
+  "automation_completed_at_at_check": null,
+  "automation_next_run_time_reported_at_check": "2026-11-27T06:15:00+09:00",
+  "automation_schedule_note": "取得時点でnext_run_timeは現在実行中の06:15回を指しており、次の07:15への更新はまだ確認できない。"
+}
