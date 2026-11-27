@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T06:19:44+09:00",
+  "updatetime": "2026-11-28T07:16:26+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15376,6 +15376,13 @@
       "category": "生活雑貨・インテリア雑貨"
     },
     {
+      "name": "アメモバ買取 沖縄那覇店",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "opening_date": "2026-11-27",
+      "category": "デジタル機器買取・販売"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15822,6 +15829,20 @@
       "city": "横浜市中区",
       "opening_date": "2026-11-28",
       "category": "工芸品・食卓用品・アクセサリー"
+    },
+    {
+      "name": "aardvark TEA 横浜元町",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-28",
+      "category": "クラフトティー専門店"
+    },
+    {
+      "name": "nishikawa shop ヒルトンプラザ大阪イースト",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "寝具・睡眠相談専門店"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
@@ -17539,6 +17560,13 @@
       "category": "駅そば"
     },
     {
+      "name": "本から始まる探求ラウンジ Side B",
+      "prefecture": "香川県",
+      "city": "仲多度郡琴平町",
+      "opening_date": "2026-12-06",
+      "category": "ブックラウンジ・交流拠点"
+    },
+    {
       "name": "コナズ珈琲 所沢店（リニューアル）",
       "prefecture": "埼玉県",
       "city": "所沢市",
@@ -18944,6 +18972,13 @@
       "city": "台東区",
       "opening_date": "2026-12-15",
       "category": "香り・生活雑貨・体験型ショップ"
+    },
+    {
+      "name": "MUSINSA Tokyo Pop-Up Store 2026 in Tokyu Plaza Shibuya",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-15",
+      "category": "期間限定ファッション・ビューティーPOP UP STORE（2026-12-15〜2026-12-27）"
     },
     {
       "name": "one MARUI シャミネ松江店",
