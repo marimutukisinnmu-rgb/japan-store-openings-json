@@ -1,0 +1,184 @@
+{
+  "run_at": "2026-11-28T02:13:09+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "source_file": "json/latest.json",
+  "previous_blob_sha": "327d6249217a856b859af829a58a699578a63fd7",
+  "new_blob_sha": "8b0f5c5fd56ccc9fdbfdab37734714493422615e",
+  "update_commit_sha": "80d62181288b97e3191ab332b655cd3f15c7a234",
+  "before_count": 2819,
+  "added_count": 17,
+  "after_count": 2836,
+  "added_items": [
+    {
+      "name": "MOOMIN SHOP CASUAL EDITION 天神地下街店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-04",
+      "category": "キャラクター雑貨・公式ショップ"
+    },
+    {
+      "name": "セカンドストリート 盛岡高松店",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "カプセル楽局 武蔵小山駅前店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-12-01",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "セカンドストリート アリオ川口店",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "Luck Rack アリオ川口店",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-12-11",
+      "category": "オフプライスストア"
+    },
+    {
+      "name": "カプセル楽局 向ヶ丘遊園駅前店",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-12-11",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "セカンドストリート 武蔵小山PALM3店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 焼津石津店",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-12-04",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 下関長府店",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 高松国分寺店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "カプセル楽局 長崎大学前店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "セカンドストリート 福岡天神4号店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-25",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "monet 白髪染めと髪質改善のサロン 本通り院",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-12-21",
+      "category": "美容室・ヘアサロン"
+    },
+    {
+      "name": "うまい鮨勘 ゆとろぎ高崎店",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2026-12-04",
+      "category": "回転寿司"
+    },
+    {
+      "name": "ガシャポンバンダイオフィシャルショップ イトーヨーカドーアリオ柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店（公式ショップ）"
+    },
+    {
+      "name": "L-MARK BASE 枚方",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-27",
+      "category": "メンズ専門美容室"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "Moomin Official Website",
+      "url": "https://www.moomin.co.jp/shops/casualedition/tenjinchikagai",
+      "supports": "MOOMIN SHOP CASUAL EDITION 天神地下街店; 2026-12-04; Fukuoka-shi Chuo-ku"
+    },
+    {
+      "publisher": "Second Retailing Group",
+      "url": "https://prtimes.jp/main/html/rd/p/000000276.000141539.html",
+      "supports": "Domestic 12 store openings in December 2026; the Taiwan branch was excluded"
+    },
+    {
+      "publisher": "GrandFusion",
+      "url": "https://prtimes.jp/main/html/rd/p/000000014.000152382.html",
+      "supports": "monet 本通り院; 2026-12-21; Hiroshima-shi Naka-ku"
+    },
+    {
+      "publisher": "SRS Holdings / Amino",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000122416.html",
+      "supports": "うまい鮨勘 ゆとろぎ高崎店; 2026-12-04; Takasaki-shi"
+    },
+    {
+      "publisher": "Bandai Namco Experience",
+      "url": "https://prtimes.jp/main/html/rd/p/000000552.000159118.html",
+      "supports": "ガシャポンバンダイオフィシャルショップ イトーヨーカドーアリオ柏店; 2026-11-27; Kashiwa-shi"
+    },
+    {
+      "publisher": "L-MARK",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000152391.html",
+      "supports": "L-MARK BASE 枚方; 2026-11-27; Hirakata-shi"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_prefecture_city_date": 0,
+    "date_sorted": true,
+    "existing_records_preserved": true,
+    "additions_present_after_fetch": true,
+    "fetched_blob_sha_matches": true
+  },
+  "verification": {
+    "sha_matches": true,
+    "count": 2836,
+    "updatetime": "2026-11-28T02:13:09+09:00",
+    "all_additions_present": true,
+    "json_parse": true,
+    "blob_sha": "8b0f5c5fd56ccc9fdbfdab37734714493422615e"
+  }
+}
