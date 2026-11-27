@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T19:10:53+09:00",
+  "updatetime": "2026-11-27T20:12:35+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16391,6 +16391,13 @@
       "category": "ハンバーグ・ステーキレストラン"
     },
     {
+      "name": "はてな珈琲店 名古屋栄店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-12-01",
+      "category": "謎解きカフェ"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16557,6 +16564,13 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-02",
       "category": "自然派スーパーマーケット"
+    },
+    {
+      "name": "サブウェイ 戸塚MODI店",
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "opening_date": "2026-12-02",
+      "category": "サンドイッチ・ファストフード"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
