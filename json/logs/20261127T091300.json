@@ -1,0 +1,112 @@
+{
+  "run_at": "2026-11-27T09:13:00+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha_before": "3d82eb8492e3f83c150337fae1eb435d67a4a0b9",
+  "latest_blob_sha_after": "e00246eaedb0e7566abc29c02dbe1b4a65be68a7",
+  "latest_commit_sha": "37420dc7456558851012190ab0d9c36b2c705002",
+  "latest_updatetime": "2026-11-27T09:13:00+09:00",
+  "record_count_before": 2791,
+  "record_count_after": 2793,
+  "added": 2,
+  "corrected": 0,
+  "deleted": 0,
+  "additions": [
+    {
+      "name": "ラ・メゾン アンソレイユターブル パティスリー セレオ八王子店",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-11-26",
+      "category": "フルーツタルト・洋菓子（リニューアル）"
+    },
+    {
+      "name": "ビオラル淀屋橋ゲートタワー店",
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "opening_date": "2026-12-02",
+      "category": "自然派スーパーマーケット"
+    }
+  ],
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国新店情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html"
+      ],
+      "note": "2026-12-08開店のパークタワー川口本町は、ローソン名を付けない既存レコードとして埼玉県川口市で登録済み。"
+    },
+    {
+      "group": "ラ・メゾン アンソレイユターブル パティスリー セレオ八王子店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://www.la-maison.jp/news/003891.html",
+        "https://yoyaku.la-maison.jp/shop/detail/24"
+      ],
+      "note": "運営会社公式発表で2026-11-26のリニューアルオープン、東京都八王子市旭町1-1、セレオ八王子北館1Fを確認。"
+    },
+    {
+      "group": "ビオラル淀屋橋ゲートタワー店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://www.lifecorp.jp/company/info/news/2026/index.html",
+        "https://store.lifecorp.jp/detail/west454/"
+      ],
+      "note": "ライフコーポレーション公式ニュース一覧と公式店舗ページで2026-12-02開店、大阪府大阪市中央区北浜四丁目1番1号を確認。"
+    },
+    {
+      "group": "回転寿司 根室花まる 明治安田新宿ビル店",
+      "count": 1,
+      "result": "already_registered_as_name_variant",
+      "urls": [
+        "https://www.sushi-hanamaru.com/store/details/post_1128.html?p=a"
+      ],
+      "note": "公式店舗ページで2026-11-28開店と所在地を確認。JSONには同日・同市・同施設の『回転寿司 根室花まる（明治安田新宿ビル）』が存在するため重複追加・名称上書きは行わず保持。"
+    },
+    {
+      "group": "カルディコーヒーファーム ショッピングシティベル店",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://bell.or.jp/event-news/kaldi.html"
+      ],
+      "note": "施設公式ページの2026-11-26開店情報を照合し、既存JSONの福井県福井市の同店と一致。"
+    },
+    {
+      "group": "串カツ田中 本八戸店",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://kushi-tanaka.com/news/entry/3395",
+        "https://restaurant.kushi-tanaka.com/detail/1262/"
+      ],
+      "note": "運営会社公式発表と公式店舗ページで2026-11-30開店情報を再照合。既存登録済み。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": 0,
+    "normalized_same_name_prefecture_city_date_candidate_count": 11,
+    "existing_records_retained_in_relative_order": true,
+    "new_candidates_unique": true,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02",
+    "post_write_fetch": "success",
+    "read_back_record_count": 2793,
+    "added_items_present": true,
+    "latest_blob_sha_matches_update_response": true,
+    "read_back_json_parse": "passed",
+    "read_back_updatetime": "2026-11-27T09:13:00+09:00"
+  },
+  "errors": []
+}
