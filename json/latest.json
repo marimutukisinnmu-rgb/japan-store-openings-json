@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T07:16:26+09:00",
+  "updatetime": "2026-11-28T08:17:43+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15845,6 +15845,48 @@
       "category": "寝具・睡眠相談専門店"
     },
     {
+      "name": "みやぎ生協 鶴ケ谷店",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー（改装オープン）"
+    },
+    {
+      "name": "メガネのナガタ 長野稲田店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-28",
+      "category": "眼鏡専門店"
+    },
+    {
+      "name": "海鮮特急レーン 寿司じじや 水俣店",
+      "prefecture": "熊本県",
+      "city": "水俣市",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司"
+    },
+    {
+      "name": "松屋 津島店（松のや併設）",
+      "prefecture": "愛知県",
+      "city": "津島市",
+      "opening_date": "2026-11-28",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "松屋 名取店（松のや併設）",
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "opening_date": "2026-11-28",
+      "category": "牛丼・定食（松のや併設）"
+    },
+    {
+      "name": "ハピピランド旭川大雪通店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-28",
+      "category": "ゲームセンター・キッズパーク"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -17406,6 +17448,13 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "ザ・ビッグ宗像店",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-12-04",
+      "category": "ディスカウントストア"
+    },
+    {
       "name": "BONTEMPS 田川店",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -17516,6 +17565,20 @@
       "city": "大阪市中央区",
       "opening_date": "2026-12-05",
       "category": "台湾点心・飲茶（リニューアル）"
+    },
+    {
+      "name": "万代 堅田店",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "opening_date": "2026-12-05",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "万代 栗東小柿店",
+      "prefecture": "滋賀県",
+      "city": "栗東市",
+      "opening_date": "2026-12-05",
+      "category": "食品スーパー"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
