@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T09:13:00+09:00",
+  "updatetime": "2026-11-27T10:15:48+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -14067,6 +14067,13 @@
       "category": "フルーツタルト・洋菓子（リニューアル）"
     },
     {
+      "name": "MrMax熊本インター店",
+      "prefecture": "熊本県",
+      "city": "熊本市東区",
+      "opening_date": "2026-11-26",
+      "category": "総合ディスカウントストア（リニューアル）"
+    },
+    {
       "name": "『魔法使いの夜』公開記念POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15257,6 +15264,27 @@
       "category": "ヨーグルトアイス専門店"
     },
     {
+      "name": "ニトリ いわき店",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "opening_date": "2026-11-27",
+      "category": "家具・インテリア（移転オープン）"
+    },
+    {
+      "name": "マルナカ市場店",
+      "prefecture": "徳島県",
+      "city": "阿波市",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー（建替えリニューアル）"
+    },
+    {
+      "name": "エディオン クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-11-27",
+      "category": "家電量販店（移転・増床）"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15689,6 +15717,13 @@
       "city": "横浜市保土ケ谷区",
       "opening_date": "2026-11-28",
       "category": "精肉・惣菜店"
+    },
+    {
+      "name": "ぎゅーとら ラブリーあけの店",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー"
     },
     {
       "name": "PAÑPURI WELLNESS SUITE",
@@ -16725,6 +16760,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-03",
       "category": "ティーカフェ"
+    },
+    {
+      "name": "MrMax益城店",
+      "prefecture": "熊本県",
+      "city": "上益城郡益城町",
+      "opening_date": "2026-12-03",
+      "category": "総合ディスカウントストア"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -18300,6 +18342,13 @@
       "city": "東広島市",
       "opening_date": "2026-12-10",
       "category": "ホテル"
+    },
+    {
+      "name": "MrMax松橋店",
+      "prefecture": "熊本県",
+      "city": "宇城市",
+      "opening_date": "2026-12-10",
+      "category": "総合ディスカウントストア（リニューアル）"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
