@@ -1,0 +1,91 @@
+{
+  "run_at": "2026-11-27T21:19:20+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/smt/",
+      "checked": "2026-11-27",
+      "result": "Reviewed current official listings through 2026-12-11. The 13 listed 2026-12-10 candidates and 5 listed 2026-12-11 candidates checked against latest.json were already represented; no additions made."
+    },
+    {
+      "source": "McDonald's Japan official crew-recruiting store pages",
+      "urls": [
+        "https://crewrecruiting.mcdonalds.co.jp/map/s11788",
+        "https://crewrecruiting.mcdonalds.co.jp/map/o15572"
+      ],
+      "checked": "2026-11-27",
+      "result": "Confirmed 戸田氷川町店 opens 2026-12-18 and 新潟巻店 opens 2026-12-23. Both matching records already exist in latest.json."
+    },
+    {
+      "source": "KFC Japan official December 2026 new-store release",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "checked": "2026-11-27",
+      "result": "Compared the 11 stores named in the official December new-store release with latest.json. All 11 are already represented; no additions made."
+    },
+    {
+      "source": "PPIH official news releases",
+      "url": "https://ppih.co.jp/news/",
+      "checked": "2026-11-27",
+      "result": "Reviewed current domestic store announcements, including ロビン・フッド北新宿店, 亀戸店, 朝霞泉水店 and MEGAドン・キホーテ Olympic 洋光台店. Matching records already exist. Overseas Pattaya opening excluded because dataset scope is Japan."
+    },
+    {
+      "source": "Subway Japan official news release",
+      "url": "https://subway.co.jp/news/20261127_01/",
+      "checked": "2026-11-27",
+      "result": "Confirmed 戸塚MODI店 opens 2026-12-02 in Yokohama-shi Totsuka-ku. Matching record already exists in latest.json."
+    },
+    {
+      "source": "Cyril Lignac brand official page and Isetan Shinjuku official notice",
+      "urls": [
+        "https://www.kataoka.com/lapatisseriecyrillignac/",
+        "https://www.mistore.jp/store/shinjuku/shops/foods/epicerie/shopnews_list/shopnews032.html"
+      ],
+      "checked": "2026-11-27",
+      "result": "Confirmed the La Pâtisserie Cyril Lignac shop at Isetan Shinjuku is scheduled for 2026-12-02. Matching record already exists in latest.json."
+    }
+  ],
+  "before": {
+    "count": 2817,
+    "blob_sha": "8bbfc411eb4d6d17a2a0755ad49dfe91b2804976",
+    "updatetime": "2026-11-27T20:12:35+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "after": {
+    "count": 2817,
+    "blob_sha": "8bbfc411eb4d6d17a2a0755ad49dfe91b2804976",
+    "updatetime": "2026-11-27T20:12:35+09:00",
+    "latest_json_modified": false
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "normalized_same_name_prefecture_city_date_candidate_groups": 13,
+    "normalized_candidate_groups_modified": 0,
+    "existing_records_preserved_count": 2817
+  },
+  "unresolved": [
+    "13 normalized same-name/prefecture/city/opening-date candidate groups remain for manual review. They differ in spacing, name notation, or category; no automatic merge, rename, or deletion was performed.",
+    "The automation's latest recorded run is in_progress with completed_at unset at the time of this log; this run's management-side completion has not yet been recorded."
+  ],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "last_run_status": "in_progress",
+    "last_run_scheduled_for": "2026-11-27T21:15:00+09:00",
+    "last_run_completed_at": null
+  }
+}
