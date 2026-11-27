@@ -1,0 +1,111 @@
+{
+  "run_at": "2026-11-28T00:17:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "ローソン公式 全国新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-28",
+      "result": "公式一覧の2026-11-13〜2026-12-11掲載52行を、店舗名・都道府県・市区町村・開店日で照合。全52行に既存レコードを確認。LAWSON＋toks等々力緑地のみ表記違いの既存2レコードに一致したため、統合せず保持。"
+    },
+    {
+      "source": "日本マクドナルド公式クルー募集ページ",
+      "urls": [
+        "https://crewrecruiting.mcdonalds.co.jp/map/a26606",
+        "https://crewrecruiting.mcdonalds.co.jp/map/30538",
+        "https://crewrecruiting.mcdonalds.co.jp/map/o12728",
+        "https://crewrecruiting.mcdonalds.co.jp/map/s11788",
+        "https://crewrecruiting.mcdonalds.co.jp/map/o15572"
+      ],
+      "checked": "2026-11-28",
+      "result": "八幡南山店 (2026-12-23)、貴志川店 (2026-12-18)、千葉幸町店 (2026-12-25)、戸田氷川町店 (2026-12-18)、新潟巻店 (2026-12-23) はすべて既存JSONに一致。"
+    },
+    {
+      "source": "日本KFC公式 2026年12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "checked": "2026-11-28",
+      "result": "公式掲載11店舗を店舗名・開店日・所在地で照合。11店舗すべて既存JSONに存在。"
+    },
+    {
+      "source": "PPIH公式ニュースリリース",
+      "url": "https://ppih.co.jp/news/",
+      "checked": "2026-11-28",
+      "result": "ロビン・フッド北新宿店・亀戸店・朝霞泉水店、MEGAドン・キホーテ Olympic 高井戸店・洋光台店、および2027年3月の業態転換予定店舗を照合。確認した国内候補は既存JSONに存在。海外店舗は国内JSONの対象外。"
+    },
+    {
+      "source": "東京ソラマチ公式 フードマルシェ リニューアル",
+      "url": "https://www.tokyo-solamachi.jp/food_marche/",
+      "checked": "2026-11-28",
+      "result": "2026-11-30の「お肉の専門店 スギモト」、澤光青果、魚力、富澤商店は既存JSONに存在。Eggs ’n Thingsは公式表示が「2026年冬」で日付未確定のため、新規追加せず保留。"
+    },
+    {
+      "source": "メゾン・キツネ・ジャパン公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000117228.html",
+      "checked": "2026-11-28",
+      "result": "Matcha Kitsuné（京都新風館、2026-12-04）は既存JSONに存在。"
+    },
+    {
+      "source": "うちだ屋公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000178931.html",
+      "checked": "2026-11-28",
+      "result": "うちだ屋 新宮店（2026-12-15）は既存JSONに存在。"
+    },
+    {
+      "source": "キルフェボン公式発表",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked": "2026-11-28",
+      "result": "キル フェ ボン新宿（2026-11-28）は既存JSONに存在。"
+    }
+  ],
+  "before": {
+    "count": 2819,
+    "blob_sha": "327d6249217a856b859af829a58a699578a63fd7",
+    "updatetime": "2026-11-27T23:15:57+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "after": {
+    "count": 2819,
+    "blob_sha": "327d6249217a856b859af829a58a699578a63fd7",
+    "updatetime": "2026-11-27T23:15:57+09:00",
+    "latest_json_modified": false
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_duplicate_groups": 13,
+    "normalized_duplicate_extra_records": 13,
+    "date_sorted": true,
+    "lawson_official_rows_checked": 52,
+    "lawson_rows_matched": 52,
+    "existing_records_preserved": true,
+    "existing_records_preserved_count": 2819
+  },
+  "unresolved": [
+    "13組の正規化表記揺れ候補を検出。異なるカテゴリ・表記があるため、誤統合を避けて名称変更・統合・削除は行わず保持。",
+    "Eggs ’n Things（東京ソラマチ）は公式ページで「2026年冬」とのみ確認でき、具体的な開店日が未確定のため追加保留。",
+    "今回の照合対象外を含め、全国の全開店予定を網羅したことまでは保証しない。"
+  ],
+  "errors": [],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "last_run_status": "in_progress",
+    "last_run_scheduled_for": "2026-11-28T00:15:00+09:00",
+    "last_run_started_at": "2026-11-28T00:17:16.673500+09:00",
+    "last_run_completed_at": null,
+    "next_run_time_displayed": "2026-11-28T00:15:00+09:00",
+    "note": "next_run_time displayed the same scheduled occurrence while this run was in progress; no future next-run time was confirmed."
+  }
+}
