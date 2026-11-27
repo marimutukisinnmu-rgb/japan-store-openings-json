@@ -1,0 +1,105 @@
+{
+  "run_at": "2026-11-27T15:16:19+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2805,
+    "blob_sha": "6a76b2bd24a66d696a242bd976c7423a3831ba29"
+  },
+  "after": {
+    "item_count": 2810,
+    "blob_sha": "71b089204de64b5a6de144ae8c1423e825443cf4",
+    "commit_sha": "1e1e82fb8570953e0e6242414389b1ac873be795"
+  },
+  "additions": [
+    {
+      "name": "かざぐるま with LAWSON",
+      "prefecture": "茨城県",
+      "city": "常陸大宮市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア",
+      "source": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ローソン 台東清川二丁目",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア",
+      "source": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ローソン 岐阜鏡島南二丁目",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア",
+      "source": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ローソン 松山辻町",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア",
+      "source": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "name": "ローソン 長崎新大工町",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア",
+      "source": "https://www.lawson.co.jp/newstore/"
+    }
+  ],
+  "existing_matches": [
+    "富澤商店 アトレ中野店",
+    "富澤商店 東京ソラマチ店（移転リニューアル）",
+    "富澤商店 山形屋店",
+    "ジャンニ キアリーニ（玉川高島屋S.C.）",
+    "東急ストア菊名店（エトモ菊名・リニューアル再開）",
+    "タリーズコーヒー エトモ菊名店",
+    "ミスターワッフル エトモ菊名店",
+    "ビアードパパ エトモ菊名店",
+    "青山フラワーマーケット エトモ菊名店",
+    "QB PREMIUM エトモ菊名店",
+    "ローソン 札幌川沿２条",
+    "ローソン 稲毛駅東口通",
+    "ローソン Ｓシーサイドライン新杉田駅"
+  ],
+  "held_candidates": [],
+  "validation": {
+    "json_parse": "passed",
+    "required_field_errors": 0,
+    "invalid_date_count": 0,
+    "exact_duplicate_count": 0,
+    "date_order": "passed",
+    "re_fetched_from_github": true,
+    "re_fetched_item_count": 2810,
+    "all_five_new_records_present": true,
+    "blob_sha_matches_saved_content": true
+  },
+  "automation_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-27T15:15:00+09:00",
+    "last_run_status_at_check": "in_progress",
+    "completed_at": null,
+    "schedule_changed": false,
+    "enabled_state_changed": false
+  },
+  "errors": [],
+  "notes": [
+    "The official Lawson nationwide new-store page lists all five added stores for 2026-12-11 with prefecture, city-level address and store name.",
+    "Five candidate records were absent from the existing JSON for the same opening date and locality; they were added once.",
+    "Etomo Kikuna's six new/reopening tenants, Tomizawa Shoten's three announcements, and the Tamagawa Takashimaya GIANI CHIARINI opening were already present; no duplicates were added.",
+    "The existing JSON was sorted by opening_date after insertion. Existing records were retained.",
+    "The automation was observed enabled. Its current run remained in_progress with completed_at unset and next_run_time displayed at 15:15 JST, already elapsed at inspection; this is reported as a scheduler-state limitation, not treated as completion."
+  ]
+}
