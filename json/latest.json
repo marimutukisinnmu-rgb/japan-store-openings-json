@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T18:13:36+09:00",
+  "updatetime": "2026-11-27T19:10:53+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -19044,6 +19044,13 @@
       "category": "ハンバーガー"
     },
     {
+      "name": "マクドナルド 二条城南店",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-21",
+      "category": "ファストフード"
+    },
+    {
       "name": "マクドナルド 寝屋川音羽店",
       "prefecture": "大阪府",
       "city": "寝屋川市",
@@ -19126,6 +19133,13 @@
       "city": "大阪市浪速区",
       "opening_date": "2026-12-23",
       "category": "期間限定アニメ公式グッズ・ポップアップ（2026-12-23〜2027-01-05）"
+    },
+    {
+      "name": "マクドナルド 藤枝駅前店",
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード"
     },
     {
       "name": "AMERICAN RAG CIE（Nakame Village）",
