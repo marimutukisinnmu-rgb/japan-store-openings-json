@@ -1,0 +1,152 @@
+{
+  "run_at": "2026-11-28T08:17:43+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2854,
+    "blob_sha": "777da7dd4e862c1c63463b32c0485d6a21d1af3f"
+  },
+  "after": {
+    "count": 2863,
+    "blob_sha": "082117ec014983f2e3fbdcd65d6f9808d2a6e24b",
+    "updatetime": "2026-11-28T08:17:43+09:00"
+  },
+  "added": [
+    {
+      "name": "みやぎ生協 鶴ケ谷店",
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー（改装オープン）",
+      "source": "https://www.miyagi.coop/outline/press/detail/1374/"
+    },
+    {
+      "name": "万代 堅田店",
+      "prefecture": "滋賀県",
+      "city": "大津市",
+      "opening_date": "2026-12-05",
+      "category": "食品スーパー",
+      "source": "https://www.mandai-net.co.jp/news/post-697.html"
+    },
+    {
+      "name": "万代 栗東小柿店",
+      "prefecture": "滋賀県",
+      "city": "栗東市",
+      "opening_date": "2026-12-05",
+      "category": "食品スーパー",
+      "source": "https://www.mandai-net.co.jp/news/post-696.html"
+    },
+    {
+      "name": "ザ・ビッグ宗像店",
+      "prefecture": "福岡県",
+      "city": "宗像市",
+      "opening_date": "2026-12-04",
+      "category": "ディスカウントストア",
+      "source": "https://www.aeon-kyushu.info/files/optionallink/00000797_file.pdf"
+    },
+    {
+      "name": "メガネのナガタ 長野稲田店",
+      "prefecture": "長野県",
+      "city": "長野市",
+      "opening_date": "2026-11-28",
+      "category": "眼鏡専門店",
+      "source": "https://www.oo-nagata.co.jp/store/index.php"
+    },
+    {
+      "name": "海鮮特急レーン 寿司じじや 水俣店",
+      "prefecture": "熊本県",
+      "city": "水俣市",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司",
+      "source": "https://jijiya.jp/store-detail/jijiya_minamata/"
+    },
+    {
+      "name": "松屋 津島店（松のや併設）",
+      "prefecture": "愛知県",
+      "city": "津島市",
+      "opening_date": "2026-11-28",
+      "category": "牛丼・定食（松のや併設）",
+      "source": "https://bento.matsuyafoods-holdings.jp/sp/shopsearch/shop_new_close.html"
+    },
+    {
+      "name": "松屋 名取店（松のや併設）",
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "opening_date": "2026-11-28",
+      "category": "牛丼・定食（松のや併設）",
+      "source": "https://bento.matsuyafoods-holdings.jp/sp/shopsearch/shop_new_close.html"
+    },
+    {
+      "name": "ハピピランド旭川大雪通店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-28",
+      "category": "ゲームセンター・キッズパーク",
+      "source": "https://www.hapipiland.com/1516/"
+    }
+  ],
+  "duplicates": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 14,
+    "sorted_by_opening_date": true,
+    "previous_records_preserved": true,
+    "added_records_verified": true,
+    "blob_sha_matches_update_response": true
+  },
+  "sources": [
+    {
+      "publisher": "みやぎ生活協同組合",
+      "url": "https://www.miyagi.coop/outline/press/detail/1374/"
+    },
+    {
+      "publisher": "株式会社万代（堅田店）",
+      "url": "https://www.mandai-net.co.jp/news/post-697.html"
+    },
+    {
+      "publisher": "株式会社万代（栗東小柿店）",
+      "url": "https://www.mandai-net.co.jp/news/post-696.html"
+    },
+    {
+      "publisher": "イオン九州株式会社",
+      "url": "https://www.aeon-kyushu.info/files/optionallink/00000797_file.pdf"
+    },
+    {
+      "publisher": "株式会社ナガタ",
+      "url": "https://www.oo-nagata.co.jp/store/index.php"
+    },
+    {
+      "publisher": "株式会社じじやコーポレーション",
+      "url": "https://jijiya.jp/store-detail/jijiya_minamata/"
+    },
+    {
+      "publisher": "株式会社松屋フーズ",
+      "url": "https://bento.matsuyafoods-holdings.jp/sp/shopsearch/shop_new_close.html"
+    },
+    {
+      "publisher": "グローバル・ソリューションズ株式会社（ハピピランド）",
+      "url": "https://www.hapipiland.com/1516/"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "マックスバリュ新宮店（福岡県新宮町）は2026-12-03で既存登録済み",
+    "マックスバリュエクスプレス向野２丁目店は2026-11-26で既存登録済み",
+    "北野エース山形屋店は2026-11-28で既存登録済み",
+    "生鮮市場TOP（トナリエ久里浜パーク）、サンドラッグ、FIT-EASY、QBハウスは既存登録済み"
+  ],
+  "deferred": [
+    "オオゼキ元住吉店は2026年12月予定までで具体的な開店日未確認",
+    "ロピア 福岡空港ナフコ店は2027年冬予定までで具体的な開店日未確認",
+    "ノジマ アリオ市原店は今冬予定までで具体的な開店日未確認",
+    "コープ大野芝店は改装情報を確認したが、再開日を一次情報で確定できず保留",
+    "ザ・ビッグエクストラ関店は出店計画を確認したが、開店日未確認",
+    "いい菜＆ゼスト マルイ草加店は求人掲載に2027年1月21日予定があるが、運営元の一次情報で確定できず保留",
+    "はま寿司札幌菊水元町店は1月中旬予定までで具体的な日付未確認",
+    "全国の未発表・未掲載店舗を網羅できた保証はない"
+  ]
+}
