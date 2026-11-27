@@ -1,0 +1,88 @@
+{
+  "run_at": "2026-11-28T05:10:33+09:00",
+  "status": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "previous_count": 2846,
+  "current_count": 2846,
+  "additions": [],
+  "corrections": [],
+  "deletions": [],
+  "source_checks": [
+    {
+      "source": "ローソン公式 新店情報",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "result": "11月25日・26日・27日および12月1日〜11日の掲載候補を照合。対象43店舗名は既存レコードに一致"
+    },
+    {
+      "source": "KFC公式 12月新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "result": "12月の11店舗すべて既存登録済み"
+    },
+    {
+      "source": "PPIH公式ニュース",
+      "url": "https://ppih.co.jp/",
+      "result": "MEGAドン・キホーテ Olympic 洋光台店、ロビン・フッド亀戸店、朝霞泉水店を既存登録済みと確認"
+    },
+    {
+      "source": "PAL公式 新店情報",
+      "url": "https://www.palgroup.co.jp/shop/",
+      "result": "アトレ中野の3COINS+plus、COLLAGE GALLARDAGALANTE、BIRTHDAY BARを照合。3店舗とも既存登録済み"
+    },
+    {
+      "source": "株式会社Yom発表 MARLMARL天神地下街店",
+      "url": "https://prtimes.jp/main/html/rd/p/000000134.000014882.html",
+      "result": "11月25日開店。JSONでは「マールマール 天神地下街店」として既存登録済み"
+    },
+    {
+      "source": "GYRO HOLDINGS発表 BAKERIES LAB.砂町銀座店",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000005340.html",
+      "result": "11月21日開店。JSONでは「BAKERIES LAB.砂町銀座店」として既存登録済み"
+    },
+    {
+      "source": "Maison Kitsuné Japan発表 Matcha Kitsuné",
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000117228.html",
+      "result": "12月4日開店。JSONでは「Matcha Kitsuné（抹茶キツネ／新風館）」として既存登録済み"
+    }
+  ],
+  "duplicate_or_alias_checks": [
+    {
+      "candidate": "MARLMARL 天神地下街店",
+      "existing": "マールマール 天神地下街店",
+      "decision": "same_store_alias; no_add"
+    },
+    {
+      "candidate": "BAKERIES LAB. 砂町銀座店",
+      "existing": "BAKERIES LAB.砂町銀座店",
+      "decision": "spacing_variant; no_add"
+    },
+    {
+      "candidate": "3COINS+plus アトレ中野",
+      "existing": "３COINS＋plus（アトレ中野）",
+      "decision": "same_store_alias; no_add"
+    },
+    {
+      "candidate": "COLLAGE GALLARDAGALANTE アトレ中野店",
+      "existing": "コラージュガリャルダガランテ（アトレ中野）",
+      "decision": "Japanese_name_alias; no_add"
+    }
+  ],
+  "quality_checks": {
+    "json_parse": "passed",
+    "count": 2846,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "existing_records_preserved": true
+  },
+  "source_coverage": "partial; these sources and candidate groups were checked, not a guarantee of every nationwide opening",
+  "latest_json_blob_sha": "37bb3d8b1b7c353ecf8474581f31822e57910009",
+  "latest_json_changed": false,
+  "errors": [],
+  "unverified": [
+    "全国すべての新店情報の網羅性は未保証",
+    "管理側の今回実行完了記録は実行中のため未確定"
+  ]
+}
