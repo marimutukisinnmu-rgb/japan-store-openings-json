@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T20:12:35+09:00",
+  "updatetime": "2026-11-27T23:15:57+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15304,6 +15304,20 @@
       "city": "京都市中京区",
       "opening_date": "2026-11-27",
       "category": "期間限定セレクトショップ（2026-11-27〜2026-11-29）"
+    },
+    {
+      "name": "リンツ ショコラ ブティック（LINKS IKEBUKURO）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "チョコレート専門店"
+    },
+    {
+      "name": "REGAL［リーガル］（LINKS IKEBUKURO）",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-27",
+      "category": "シューズ・バッグ"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
