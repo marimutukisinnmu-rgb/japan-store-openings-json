@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T10:15:48+09:00",
+  "updatetime": "2026-11-27T13:15:06+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13661,6 +13661,13 @@
       "category": "コンビニ"
     },
     {
+      "name": "マクドナルド イオンスタイル中条店",
+      "prefecture": "新潟県",
+      "city": "胎内市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
+    },
+    {
       "name": "323KASEI（セレオ八王子）",
       "prefecture": "東京都",
       "city": "八王子市",
@@ -15283,6 +15290,13 @@
       "city": "近江八幡市",
       "opening_date": "2026-11-27",
       "category": "家電量販店（移転・増床）"
+    },
+    {
+      "name": "BEYOND（新風館 POP UP SPACE）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定セレクトショップ（2026-11-27〜2026-11-29）"
     },
     {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
@@ -17196,6 +17210,13 @@
       "category": "ライフスタイルショップ（杖・車いす・アパレル・生活雑貨・カフェ）"
     },
     {
+      "name": "Matcha Kitsuné（抹茶キツネ／新風館）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-04",
+      "category": "抹茶カフェ・日本初常設店"
+    },
+    {
       "name": "BONTEMPS 田川店",
       "prefecture": "福岡県",
       "city": "田川市",
@@ -17292,6 +17313,13 @@
       "city": "江東区",
       "opening_date": "2026-12-05",
       "category": "アニメ・コミック・ゲーム専門店"
+    },
+    {
+      "name": "ANTHOM POP UP STORE（新風館）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-05",
+      "category": "期間限定ニット・アパレルポップアップ（2026-12-05〜2026-12-13）"
     },
     {
       "name": "AP by AMERICAN PHARMACY（中野駅西改札内）",
