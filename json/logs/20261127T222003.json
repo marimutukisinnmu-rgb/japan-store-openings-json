@@ -1,0 +1,116 @@
+{
+  "run_at": "2026-11-27T22:20:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Lawson Japan official new-store list",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html",
+        "https://www.lawson.co.jp/newstore/smt/index.html",
+        "https://mldata.lawson.co.jp/newstore/smt/"
+      ],
+      "checked": "2026-11-27",
+      "result": "Reviewed current official listings through 2026-12-11. December 10 and December 11 candidates visible in the official lists were matched against latest.json; all checked candidates were already represented."
+    },
+    {
+      "source": "McDonald's Japan official crew-recruiting pages",
+      "urls": [
+        "https://crewrecruiting.mcdonalds.co.jp/map/y05524",
+        "https://crewrecruiting.mcdonalds.co.jp/map/a05524",
+        "https://crewrecruiting.mcdonalds.co.jp/map/g05524"
+      ],
+      "checked": "2026-11-27",
+      "result": "13号湯沢店 is already present as マクドナルド １３号湯沢店, Akita/Yuzawa, opening 2026-12-17. The full-width numeral variant was normalized during duplicate checking; no duplicate record added."
+    },
+    {
+      "source": "McDonald's Japan official crew-recruiting pages for 篠山店",
+      "urls": [
+        "https://crewrecruiting.mcdonalds.co.jp/map/a28708",
+        "https://crewrecruiting.mcdonalds.co.jp/map/y28708"
+      ],
+      "checked": "2026-11-27",
+      "result": "Official pages conflict: one page states 2026-12-16 and another states 2026-12-15. Candidate withheld; no date guessed or record added."
+    },
+    {
+      "source": "NTT Urban Development official UDX DINING&SHOP release",
+      "url": "https://www.nttud.co.jp/news/detail/id/n28055.html",
+      "checked": "2026-11-27",
+      "result": "Compared the announced Akihabara UDX tenant list with latest.json. Hoshino Coffee opened 2026-11-27 and the listed 2026-12-10 tenants were already represented."
+    },
+    {
+      "source": "Subway Japan official new-store release",
+      "url": "https://subway.co.jp/news/20261120_02/",
+      "checked": "2026-11-27",
+      "result": "Confirmed イオン三ツ境店 opened 2026-11-27; matching record already exists in latest.json."
+    },
+    {
+      "source": "AENA company release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000118647.html",
+      "checked": "2026-11-27",
+      "result": "Confirmed アエナ イオンモール伊達店 opened 2026-11-27; matching record already exists in latest.json."
+    },
+    {
+      "source": "Qu'il fait bon official announcement",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "checked": "2026-11-27",
+      "result": "Confirmed キル フェ ボン新宿 opens 2026-11-28; matching record already exists in latest.json."
+    },
+    {
+      "source": "Transit Holdings company announcement for Guzman y Gomez",
+      "url": "https://prtimes.jp/main/html/rd/p/000000498.000040062.html",
+      "checked": "2026-11-27",
+      "result": "Confirmed Guzman y Gomez 西新宿店 opens 2026-11-28; matching record already exists in latest.json."
+    }
+  ],
+  "before": {
+    "count": 2817,
+    "blob_sha": "8bbfc411eb4d6d17a2a0755ad49dfe91b2804976",
+    "updatetime": "2026-11-27T20:12:35+09:00"
+  },
+  "changes": {
+    "added": [],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "after": {
+    "count": 2817,
+    "blob_sha": "8bbfc411eb4d6d17a2a0755ad49dfe91b2804976",
+    "updatetime": "2026-11-27T20:12:35+09:00",
+    "latest_json_modified": false
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "existing_candidate_match_counts": {
+      "mcd13Yuzawa": 1,
+      "subwayMitsukyo": 1,
+      "aenaDate": 1,
+      "hoshinoUDX": 1,
+      "quilFaitBon": 1,
+      "gyg": 1
+    },
+    "existing_records_preserved_count": 2817
+  },
+  "unresolved": [
+    "マクドナルド 篠山店: official recruiting pages disagree on 2026-12-15 versus 2026-12-16; withheld pending consistent confirmation.",
+    "サイゼリヤ 近鉄布施駅前店: a date appears in third-party job listings, but no primary company confirmation was established in this run; withheld.",
+    "Several normalized same-store candidate groups in the existing dataset remain unchanged; no automatic merge, rename, or deletion was performed."
+  ],
+  "automation_status": {
+    "id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "last_run_status": "in_progress",
+    "last_run_scheduled_for": "2026-11-27T13:15:00Z",
+    "last_run_completed_at": null,
+    "next_run_time": "2026-11-27T22:15:00+09:00"
+  }
+}
