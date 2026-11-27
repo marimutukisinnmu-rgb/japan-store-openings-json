@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T02:13:09+09:00",
+  "updatetime": "2026-11-28T03:13:04+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15334,6 +15334,27 @@
       "category": "メンズ専門美容室"
     },
     {
+      "name": "Pon! イオンモール茨木店",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "オートバックス榛原",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-11-27",
+      "category": "カー用品・自動車整備（移転オープン）"
+    },
+    {
+      "name": "オートバックスカーズ榛原",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-11-27",
+      "category": "中古車買取・販売"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15955,6 +15976,13 @@
       "city": "八戸市",
       "opening_date": "2026-11-30",
       "category": "串カツ・居酒屋"
+    },
+    {
+      "name": "トンちゃんラーメン",
+      "prefecture": "大阪府",
+      "city": "大東市",
+      "opening_date": "2026-11-30",
+      "category": "中華そば・チャーシュー麺専門店"
     },
     {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
@@ -17306,6 +17334,13 @@
       "city": "高崎市",
       "opening_date": "2026-12-04",
       "category": "回転寿司"
+    },
+    {
+      "name": "ガチャガチャの森 イオンタウン菰野店",
+      "prefecture": "三重県",
+      "city": "三重郡菰野町",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "BONTEMPS 田川店",
