@@ -1,0 +1,81 @@
+{
+  "run_at": "2026-11-27T16:17:58+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2810,
+    "blob_sha": "71b089204de64b5a6de144ae8c1423e825443cf4"
+  },
+  "after": {
+    "item_count": 2811,
+    "blob_sha": "e218593ad6f0fadb85cbde18bb5c561de84454aa",
+    "commit_sha": "7a6a2a29dcb6bc294e27f690a3b8a5d99be2a07c"
+  },
+  "additions": [
+    {
+      "name": "新時代 千葉中央駅西口店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-24",
+      "category": "居酒屋",
+      "source": "https://prtimes.jp/main/html/rd/p/000000282.000070373.html"
+    }
+  ],
+  "existing_matches": [
+    "ローソン公式新店一覧：今回表示された11月13日～12月11日の掲載店舗は既存登録済み",
+    "PPIH公式：MEGAドン・キホーテ Olympic 洋光台店、ロビン・フッド亀戸店、朝霞泉水店などは既存登録済み",
+    "KFC公式：12月の11店舗すべて既存登録済み",
+    "ジャズドリーム長島：CASIO WATCH OUTLET、SALOMON、Timberlandは既存登録済み",
+    "新静岡セノバ：くし葉 新静岡セノバ店は既存登録済み",
+    "串カツ田中：本八戸店、霧島国分店、西国分寺店は既存登録済み",
+    "Matcha Kitsuné（抹茶キツネ／新風館）は既存登録済み",
+    "BAKERIES LAB.砂町銀座店は既存登録済み"
+  ],
+  "held_candidates": [
+    {
+      "name": "Marunouchi Street Park 2026 Winter / Christmas market",
+      "reason": "複数の期間限定飲食ブースを含むイベントとして発表されており、独立した店舗名・常設店舗の開店情報とは区別して今回の店舗JSONには追加しない"
+    }
+  ],
+  "sources": [
+    "https://www.lawson.co.jp/newstore/",
+    "https://ppih.co.jp/news/",
+    "https://japan.kfc.co.jp/news_release/8200",
+    "https://unisia.co.jp/press/prnews/2026/",
+    "https://prtimes.jp/main/html/rd/p/000000282.000070373.html",
+    "https://www.at-s.com/life/article/ats/2030147.html",
+    "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+    "https://prtimes.jp/main/html/rd/p/000000069.000117228.html"
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_field_errors": 0,
+    "invalid_date_count": 0,
+    "exact_duplicate_count": 0,
+    "date_order": "passed",
+    "re_fetched_from_github": true,
+    "re_fetched_item_count": 2811,
+    "new_record_present": true,
+    "blob_sha_matches_saved_content": true
+  },
+  "automation_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-27T17:15:00+09:00",
+    "schedule_changed": false,
+    "enabled_state_changed": false
+  },
+  "errors": [],
+  "notes": [
+    "The operator's PR TIMES release specifies the store name 新時代 千葉中央駅西口店, address 千葉県千葉市中央区新宿2丁目2-2 第3プレシードビル2F, and opening date 2026-11-24.",
+    "The exact name/date/city combination was absent from the existing 2,810 records; one record was added.",
+    "The JSON schema has no address field, so only name, prefecture, city, opening_date, and category were written to latest.json; the full address and source URL are preserved in this execution log.",
+    "The latest JSON was re-fetched from GitHub after the update. Item count, new record, SHA, required fields, date validity, exact duplicates, and date ordering were checked.",
+    "The automation was observed enabled and its hourly schedule was left unchanged."
+  ]
+}
