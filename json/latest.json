@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T16:17:58+09:00",
+  "updatetime": "2026-11-27T17:13:52+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16382,6 +16382,13 @@
       "city": "大阪市北区",
       "opening_date": "2026-12-01",
       "category": "洋菓子・スイーツ（2026-11-28プレオープン）"
+    },
+    {
+      "name": "炭焼きレストランさわやか 御殿場ぐみ沢店",
+      "prefecture": "静岡県",
+      "city": "御殿場市",
+      "opening_date": "2026-12-01",
+      "category": "ハンバーグ・ステーキレストラン"
     },
     {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
