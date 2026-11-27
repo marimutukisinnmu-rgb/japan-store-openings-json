@@ -1,0 +1,176 @@
+{
+  "run_at": "2026-11-27T10:15:48+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha_before": "e00246eaedb0e7566abc29c02dbe1b4a65be68a7",
+  "latest_blob_sha_after": "fc610192cae826e97dcd4d4427d6d34e981b77c4",
+  "latest_commit_sha": "8ec2257446cc9da4860d520a865196f913b8cc02",
+  "latest_updatetime": "2026-11-27T10:15:48+09:00",
+  "record_count_before": 2793,
+  "record_count_after": 2800,
+  "added": 7,
+  "corrected": 0,
+  "deleted": 0,
+  "additions": [
+    {
+      "name": "ぎゅーとら ラブリーあけの店",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "opening_date": "2026-11-28",
+      "category": "食品スーパー"
+    },
+    {
+      "name": "ニトリ いわき店",
+      "prefecture": "福島県",
+      "city": "いわき市",
+      "opening_date": "2026-11-27",
+      "category": "家具・インテリア（移転オープン）"
+    },
+    {
+      "name": "マルナカ市場店",
+      "prefecture": "徳島県",
+      "city": "阿波市",
+      "opening_date": "2026-11-27",
+      "category": "食品スーパー（建替えリニューアル）"
+    },
+    {
+      "name": "エディオン クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-11-27",
+      "category": "家電量販店（移転・増床）"
+    },
+    {
+      "name": "MrMax益城店",
+      "prefecture": "熊本県",
+      "city": "上益城郡益城町",
+      "opening_date": "2026-12-03",
+      "category": "総合ディスカウントストア"
+    },
+    {
+      "name": "MrMax熊本インター店",
+      "prefecture": "熊本県",
+      "city": "熊本市東区",
+      "opening_date": "2026-11-26",
+      "category": "総合ディスカウントストア（リニューアル）"
+    },
+    {
+      "name": "MrMax松橋店",
+      "prefecture": "熊本県",
+      "city": "宇城市",
+      "opening_date": "2026-12-10",
+      "category": "総合ディスカウントストア（リニューアル）"
+    }
+  ],
+  "checked_candidates": [
+    {
+      "group": "ぎゅーとら ラブリーあけの店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://gyutora.com/news/324"
+      ],
+      "note": "運営会社公式発表で2026-11-28開店、三重県伊勢市村松町明野4103番地2を確認。"
+    },
+    {
+      "group": "ニトリ いわき店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://www.nitorihd.co.jp/news/items/bea5ae053d9150a04abea9361b21f0a0.pdf"
+      ],
+      "note": "ニトリHD公式発表の店舗概要で2026-11-27開店、福島県いわき市鹿島町久保字梅田1-1を確認。発表冒頭には福島市との不整合があるため、店舗固有の所在地欄を採用し注記。"
+    },
+    {
+      "group": "マルナカ市場店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://www.the-fuji.com/mv/store/shop/tokushima/m_ichiba.php"
+      ],
+      "note": "運営会社フジの公式店舗ページで2026-11-27 9時リニューアル、徳島県阿波市市場町香美字秋葉本82-7を確認。"
+    },
+    {
+      "group": "エディオン クロスモール近江八幡店",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://digitalpr.jp/r/146816"
+      ],
+      "note": "エディオン名義の公式プレスリリースで2026-11-27移転増床オープン、滋賀県近江八幡市土田町1362-1を確認。"
+    },
+    {
+      "group": "MrMax公式新店・改装発表",
+      "count": 3,
+      "result": "added",
+      "urls": [
+        "https://mrmax.co.jp/info/%E7%9B%8A%E5%9F%8E/"
+      ],
+      "note": "運営会社公式発表でMrMax益城店（2026-12-03）、MrMax熊本インター店（2026-11-26リニューアル）、MrMax松橋店（2026-12-10リニューアル）の店名・日付・市区町村を確認。"
+    },
+    {
+      "group": "まいばすけっと公式4店舗同時オープン",
+      "count": 4,
+      "result": "already_registered",
+      "urls": [
+        "https://www.mybasket.co.jp/news/detail/20261120145859.html"
+      ],
+      "note": "2026-11-27開店の小田銀座商店街店、千葉弁天2丁目店、北小金駅前店、川口三ツ和1丁目店はすべて既存登録済み。"
+    },
+    {
+      "group": "ローソン公式新店情報",
+      "count": 1,
+      "result": "checked",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html"
+      ],
+      "note": "最新の全国新店一覧を確認。今回の追加候補に該当する未登録確定店舗は確認範囲内でなし。"
+    },
+    {
+      "group": "KFC公式12月新店情報",
+      "count": 11,
+      "result": "checked",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ],
+      "note": "2026年12月の11店舗を確認。今回の追加対象とは別に既存照合対象として扱い、今回の追加は行わず。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": 0,
+    "normalized_same_name_prefecture_city_date_candidate_count": 13,
+    "existing_records_retained_in_relative_order": true,
+    "new_candidates_unique": true,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02",
+    "post_write_fetch": "success",
+    "read_back_record_count": 2800,
+    "added_items_present": true,
+    "latest_blob_sha_matches_update_response": true,
+    "read_back_json_parse": "passed",
+    "read_back_updatetime": "2026-11-27T10:15:48+09:00"
+  },
+  "errors": [],
+  "unconfirmed": [
+    {
+      "name": "Tecc LIFE SELECT太田高林店",
+      "reason": "行政届出・求人情報では2027年春予定までで、確定した年月日を確認できないため追加保留。"
+    },
+    {
+      "name": "ドン・キホーテ東住吉店（仮称）",
+      "reason": "行政届出段階で、正式店名・確定開店日を確認できないため追加保留。"
+    },
+    {
+      "name": "おーばん新庄店などの候補",
+      "reason": "今回の確認では運営会社等の一次情報で店名・開店日を十分に確定できず、追加保留。"
+    }
+  ]
+}
