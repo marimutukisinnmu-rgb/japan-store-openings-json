@@ -1,0 +1,167 @@
+{
+  "run_at": "2026-11-27T13:15:06+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha_before": "fc610192cae826e97dcd4d4427d6d34e981b77c4",
+  "latest_blob_sha_after": "82bcbc2d47ff1a790fe7c18679a598f2d7b1b1c5",
+  "latest_commit_sha": "8dea00359bd47c596c03706a05639e9615659176",
+  "latest_updatetime": "2026-11-27T13:15:06+09:00",
+  "record_count_before": 2800,
+  "record_count_after": 2804,
+  "added": 4,
+  "corrected": 0,
+  "deleted": 0,
+  "additions": [
+    {
+      "name": "マクドナルド イオンスタイル中条店",
+      "prefecture": "新潟県",
+      "city": "胎内市",
+      "opening_date": "2026-11-25",
+      "category": "ファストフード"
+    },
+    {
+      "name": "BEYOND（新風館 POP UP SPACE）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-11-27",
+      "category": "期間限定セレクトショップ（2026-11-27〜2026-11-29）"
+    },
+    {
+      "name": "Matcha Kitsuné（抹茶キツネ／新風館）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-04",
+      "category": "抹茶カフェ・日本初常設店"
+    },
+    {
+      "name": "ANTHOM POP UP STORE（新風館）",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-05",
+      "category": "期間限定ニット・アパレルポップアップ（2026-12-05〜2026-12-13）"
+    }
+  ],
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国・地域別新店情報",
+      "count": 28,
+      "result": "already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html",
+        "https://www.lawson.co.jp/newstore/smt/index.html",
+        "https://www.lawson.co.jp/newstore/kantou.html"
+      ],
+      "note": "11月27日〜12月10日の公式掲載候補を既存JSONと照合。新松戸南、12月1日〜4日、12月8日、12月10日の候補は既存登録済み。"
+    },
+    {
+      "group": "KFC公式12月新店情報",
+      "count": 11,
+      "result": "already_registered",
+      "urls": [
+        "https://japan.kfc.co.jp/news_release/8200"
+      ],
+      "note": "12月の11店舗すべて店名・開店日・所在地を公式発表で確認し、既存JSONに登録済み。"
+    },
+    {
+      "group": "PPIH公式新店・業態転換発表",
+      "count": 5,
+      "result": "already_registered",
+      "urls": [
+        "https://ppih.co.jp/news/"
+      ],
+      "note": "ロビン・フッドおよびMEGAドン・キホーテ Olympicの確認対象5店舗は既存登録済み。"
+    },
+    {
+      "group": "株式会社メゾン・キツネ・ジャパン公式発表",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000069.000117228.html"
+      ],
+      "note": "Matcha Kitsuné。2026-12-04、京都府京都市中京区、京都新風館1F。"
+    },
+    {
+      "group": "新風館（NTT都市開発）公式ポップアップ情報",
+      "count": 2,
+      "result": "added",
+      "urls": [
+        "https://shinpuhkan.jp/anthom-pop-up-store/",
+        "https://shinpuhkan.jp/post-5501/"
+      ],
+      "note": "ANTHOM POP UP STORE（2026-12-05〜12-13）とBEYOND（2026-11-27〜11-29）。両方とも新風館POP UP SPACEでの期間限定セレクト・アパレル販売。"
+    },
+    {
+      "group": "日本マクドナルド公式採用・店舗情報",
+      "count": 1,
+      "result": "added",
+      "urls": [
+        "https://crewrecruiting.mcdonalds.co.jp/map/y15570"
+      ],
+      "note": "マクドナルド イオンスタイル中条店。2026-11-25グランドオープン、新潟県胎内市東本町2641。"
+    },
+    {
+      "group": "焼肉 大東園公式店舗情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://daitouen.jp/shop/isawa",
+        "https://daitouen.jp/archives/4605.html"
+      ],
+      "note": "大東園石和店（2026-12-04、山梨県笛吹市）は既存登録済み。"
+    },
+    {
+      "group": "新静岡セノバ公式新店情報",
+      "count": 4,
+      "result": "already_registered",
+      "urls": [
+        "https://www.cenova.jp/2026renewal/"
+      ],
+      "note": "くし葉、ふりそでモード、HIS、スーツスクエアの4店舗は既存登録済み。"
+    },
+    {
+      "group": "プロント公式ニュース",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.pronto.co.jp/company/news/detail/20261120100914.html"
+      ],
+      "note": "プロント珈琲庭園 nonowa 国立店は既存登録済み。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": 0,
+    "normalized_same_name_prefecture_city_date_candidate_count": 13,
+    "normalized_candidates_action": "preserved_no_auto_merge",
+    "existing_records_retained_in_relative_order": true,
+    "new_candidates_unique": "passed",
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02",
+    "post_write_fetch": "success",
+    "read_back_record_count": 2804,
+    "added_items_present": true,
+    "latest_blob_sha_matches_update_response": true,
+    "read_back_json_parse": "passed",
+    "read_back_updatetime": "2026-11-27T13:15:06+09:00"
+  },
+  "errors": [],
+  "unconfirmed": [
+    {
+      "candidate": "タリーズコーヒー MORIOKA TSUTAYA（仮称）",
+      "reason": "今回の調査では運営会社の公式発表による確定開店日を確認できず、追加保留。",
+      "source": "https://www.tullys.co.jp/"
+    },
+    {
+      "candidate": "しまむら 天神西通り店",
+      "reason": "二次情報では出店候補が見つかったが、今回の確認範囲で運営会社の公式発表による確定開店日を確認できず、追加保留。",
+      "source": "https://www.shimamura.gr.jp/"
+    }
+  ]
+}
