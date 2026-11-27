@@ -1,0 +1,117 @@
+{
+  "run_at": "2026-11-28T03:13:04+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "source_file": "json/latest.json",
+  "previous_blob_sha": "8b0f5c5fd56ccc9fdbfdab37734714493422615e",
+  "new_blob_sha": "32fccd842c2248bcdd63503bb2efe58659ebd36d",
+  "update_commit_sha": "8a9887dfa54150b3061dcc414727bc629c77b9b5",
+  "before_count": 2836,
+  "added_count": 5,
+  "after_count": 2841,
+  "added_items": [
+    {
+      "name": "Pon! イオンモール茨木店",
+      "prefecture": "大阪府",
+      "city": "茨木市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "オートバックス榛原",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-11-27",
+      "category": "カー用品・自動車整備（移転オープン）"
+    },
+    {
+      "name": "オートバックスカーズ榛原",
+      "prefecture": "静岡県",
+      "city": "牧之原市",
+      "opening_date": "2026-11-27",
+      "category": "中古車買取・販売"
+    },
+    {
+      "name": "トンちゃんラーメン",
+      "prefecture": "大阪府",
+      "city": "大東市",
+      "opening_date": "2026-11-30",
+      "category": "中華そば・チャーシュー麺専門店"
+    },
+    {
+      "name": "ガチャガチャの森 イオンタウン菰野店",
+      "prefecture": "三重県",
+      "city": "三重郡菰野町",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
+    }
+  ],
+  "already_present_candidates": [],
+  "sources": [
+    {
+      "publisher": "株式会社ルルアーク",
+      "url": "https://www.value-press.com/pressrelease/384749",
+      "supports": "Pon! イオンモール茨木店; 2026-11-27; 大阪府茨木市"
+    },
+    {
+      "publisher": "株式会社オートバックスセブン / 株式会社オートバックス関東販売",
+      "url": "https://prtimes.jp/main/html/rd/p/000000283.000010789.html",
+      "supports": "オートバックス榛原の2026-11-27移転オープン、およびオートバックスカーズ榛原の同日新規オープン; 静岡県牧之原市"
+    },
+    {
+      "publisher": "株式会社コズミックホールディングス / 株式会社C-HUNDRED",
+      "url": "https://prtimes.jp/main/html/rd/p/000000061.000033002.html",
+      "supports": "トンちゃんラーメン; 2026-11-30; 大阪府大東市"
+    },
+    {
+      "publisher": "株式会社ルルアーク",
+      "url": "https://www.value-press.com/pressrelease/385072",
+      "supports": "ガチャガチャの森 イオンタウン菰野店; 2026-12-04; 三重県三重郡菰野町"
+    },
+    {
+      "publisher": "ローソン公式",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "supports": "今回確認した新店候補は既存JSONへの登録を照合; 追加なし"
+    },
+    {
+      "publisher": "株式会社アンドエスティHD / 株式会社アダストリア",
+      "url": "https://prtimes.jp/main/html/rd/p/000003378.000001304.html",
+      "supports": "LOWRYS FARM イオンモール伊達店; 2026-11-27; 既存登録済み"
+    },
+    {
+      "publisher": "株式会社いーふらん",
+      "url": "https://prtimes.jp/main/html/rd/p/000000506.000080252.html",
+      "supports": "高価買取おたからや柏原本郷店; 2026-11-23; 既存登録済み"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "candidate": "ドクターアイズ江別店",
+      "reason": "移転オープン日の情報は地域メディアで確認できたが、運営元の一次情報で裏付けられず、追加保留"
+    },
+    {
+      "candidate": "なんぽろジンギスカン大麻店",
+      "reason": "地域メディアで開店予定を確認したが、運営元の一次情報で裏付けられず、追加保留"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_prefecture_city_date": 0,
+    "date_sorted": true,
+    "existing_records_preserved": true,
+    "additions_within_period": true,
+    "additions_present_after_fetch": true,
+    "fetched_blob_sha_matches": true
+  },
+  "verification": {
+    "sha_matches": true,
+    "count": 2841,
+    "updatetime": "2026-11-28T03:13:04+09:00",
+    "all_additions_present": true,
+    "json_parse": true,
+    "blob_sha": "32fccd842c2248bcdd63503bb2efe58659ebd36d"
+  }
+}
