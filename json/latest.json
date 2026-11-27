@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T23:15:57+09:00",
+  "updatetime": "2026-11-28T02:13:09+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15320,6 +15320,20 @@
       "category": "シューズ・バッグ"
     },
     {
+      "name": "ガシャポンバンダイオフィシャルショップ イトーヨーカドーアリオ柏店",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "opening_date": "2026-11-27",
+      "category": "カプセルトイ専門店（公式ショップ）"
+    },
+    {
+      "name": "L-MARK BASE 枚方",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-11-27",
+      "category": "メンズ専門美容室"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16412,6 +16426,13 @@
       "category": "謎解きカフェ"
     },
     {
+      "name": "カプセル楽局 武蔵小山駅前店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-12-01",
+      "category": "カプセルトイ専門店"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -17257,6 +17278,34 @@
       "city": "京都市中京区",
       "opening_date": "2026-12-04",
       "category": "抹茶カフェ・日本初常設店"
+    },
+    {
+      "name": "MOOMIN SHOP CASUAL EDITION 天神地下街店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-04",
+      "category": "キャラクター雑貨・公式ショップ"
+    },
+    {
+      "name": "セカンドストリート クロスモール近江八幡店",
+      "prefecture": "滋賀県",
+      "city": "近江八幡市",
+      "opening_date": "2026-12-04",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "カプセル楽局 長崎大学前店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "うまい鮨勘 ゆとろぎ高崎店",
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "opening_date": "2026-12-04",
+      "category": "回転寿司"
     },
     {
       "name": "BONTEMPS 田川店",
@@ -18582,6 +18631,41 @@
       "category": "コンビニエンスストア"
     },
     {
+      "name": "セカンドストリート アリオ川口店",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "Luck Rack アリオ川口店",
+      "prefecture": "埼玉県",
+      "city": "川口市",
+      "opening_date": "2026-12-11",
+      "category": "オフプライスストア"
+    },
+    {
+      "name": "カプセル楽局 向ヶ丘遊園駅前店",
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "opening_date": "2026-12-11",
+      "category": "カプセルトイ専門店"
+    },
+    {
+      "name": "セカンドストリート 焼津石津店",
+      "prefecture": "静岡県",
+      "city": "焼津市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 高松国分寺店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
       "name": "『夢色パティシエール』POP UP SHOP in マルイ（上野マルイ）",
       "prefecture": "東京都",
       "city": "台東区",
@@ -18960,6 +19044,27 @@
       "category": "ライフスタイル・シューズ専門店（旗艦店）"
     },
     {
+      "name": "セカンドストリート 盛岡高松店",
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 武蔵小山PALM3店",
+      "prefecture": "東京都",
+      "city": "品川区",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 下関長府店",
+      "prefecture": "山口県",
+      "city": "下関市",
+      "opening_date": "2026-12-18",
+      "category": "リユースショップ"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
       "prefecture": "岐阜県",
       "city": "岐阜市",
@@ -19077,6 +19182,13 @@
       "city": "京都市中京区",
       "opening_date": "2026-12-21",
       "category": "ファストフード"
+    },
+    {
+      "name": "monet 白髪染めと髪質改善のサロン 本通り院",
+      "prefecture": "広島県",
+      "city": "広島市中区",
+      "opening_date": "2026-12-21",
+      "category": "美容室・ヘアサロン"
     },
     {
       "name": "マクドナルド 寝屋川音羽店",
@@ -19245,6 +19357,13 @@
       "city": "宇治市",
       "opening_date": "2026-12-25",
       "category": "ホテル"
+    },
+    {
+      "name": "セカンドストリート 福岡天神4号店",
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "opening_date": "2026-12-25",
+      "category": "リユースショップ"
     },
     {
       "name": "『銀河特急 ミルキー☆サブウェイ』POP UP STORE（博多マルイ）",
