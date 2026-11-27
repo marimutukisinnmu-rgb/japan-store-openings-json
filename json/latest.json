@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T04:18:24+09:00",
+  "updatetime": "2026-11-28T06:19:44+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15817,6 +15817,13 @@
       "category": "食品スーパー"
     },
     {
+      "name": "てふ 横浜店",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-28",
+      "category": "工芸品・食卓用品・アクセサリー"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -16004,6 +16011,13 @@
       "city": "大東市",
       "opening_date": "2026-11-30",
       "category": "中華そば・チャーシュー麺専門店"
+    },
+    {
+      "name": "沖縄そば 海と島 渋谷宮益坂店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "沖縄そば専門店"
     },
     {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
@@ -18734,6 +18748,13 @@
       "city": "高松市",
       "opening_date": "2026-12-11",
       "category": "リユースショップ"
+    },
+    {
+      "name": "和食麺処サガミ16号春日部増戸店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "opening_date": "2026-12-11",
+      "category": "和食レストラン（そば・うどん・和膳）"
     },
     {
       "name": "『夢色パティシエール』POP UP SHOP in マルイ（上野マルイ）",
