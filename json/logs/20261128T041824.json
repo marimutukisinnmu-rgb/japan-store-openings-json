@@ -1,0 +1,214 @@
+{
+  "run_at": "2026-11-28T04:18:24+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "source_file": "json/latest.json",
+  "previous_blob_sha": "32fccd842c2248bcdd63503bb2efe58659ebd36d",
+  "new_blob_sha": "37bb3d8b1b7c353ecf8474581f31822e57910009",
+  "update_commit_sha": "f4c5c8a8a74dd565416c14cff5513fe041c9bf3d",
+  "before_count": 2841,
+  "added_count": 5,
+  "after_count": 2846,
+  "added_items": [
+    {
+      "name": "3COINS+plus アクアウォーク大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "3COINS+plus ジョーシン岸和田店",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "3COINS+plus イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
+      "name": "3COINS+plus イオンモール京都桂川店",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-12-02",
+      "category": "生活雑貨・インテリア雑貨（リニューアル）"
+    },
+    {
+      "name": "3COINS+plus リエール藤沢店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-12-10",
+      "category": "生活雑貨・インテリア雑貨（リニューアル）"
+    }
+  ],
+  "already_present_candidates": [
+    {
+      "name": "3COINS+plus 阪急池田IKEDIA店",
+      "reason": "既存JSONの「3COINS+plus（IKEDIA）」に同日・同所在地で登録済み"
+    },
+    {
+      "name": "3COINS+plus アトレ中野店",
+      "reason": "既存JSONにアトレ中野の3COINS店舗記録あり。PALの一覧と詳細ページでブランド表記が異なるため名称変更は保留"
+    },
+    {
+      "name": "キル フェ ボン新宿",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "Guzman y Gomez 西新宿店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "富澤商店 山形屋店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "マクドナルド 緑橋店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "La Maison du R OSAKA（大丸梅田店）",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "ニュー太陽ノ塔パーラー（大丸梅田店）",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "SMAAK 博多",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "くし葉 新静岡セノバ店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "プロント珈琲庭園 nonowa 国立店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "CARINITO OKINAWA | KOZA",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "Yann Couvreur（ヤン・クヴルー／伊勢丹新宿店）",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "ラ・パティスリー・シリル リニャック（伊勢丹新宿店）",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "BONTEMPS 福岡薬院店",
+      "reason": "既存登録済み"
+    },
+    {
+      "name": "はてな珈琲店 名古屋栄店",
+      "reason": "既存登録済み"
+    }
+  ],
+  "sources": [
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_2610233co_006&ak=SHOPNEWS&b=&cpvcd=sex-type%7C001",
+      "supports": "3COINS+plus アクアウォーク大垣店; 2026-11-06; 岐阜県大垣市"
+    },
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_261027co_002&ak=SHOPNEWS&b=&bg=casual&cpvcd=sex-type%7C000",
+      "supports": "3COINS+plus ジョーシン岸和田店; 2026-11-20; 大阪府岸和田市"
+    },
+    {
+      "publisher": "株式会社Joshin / 公式発表",
+      "url": "https://www.joshin.co.jp/ja/news/info/info20261117/main/0/link/20261117%20Joshin%203COINS%2Bplus%20now%20available%20at%20the%20Kishiwada%20store.pdf",
+      "supports": "ジョーシン岸和田店内3COINS+plus; 2026-11-20; 大阪府岸和田市"
+    },
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_2611123co_001&ak=SHOPNEWS&b=3coins&cpvcd=sex-type%7C000",
+      "supports": "3COINS+plus イオンモール伊達店; 2026-11-27; 福島県伊達市"
+    },
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_261218co_001&ak=SHOPNEWS&b=3coins&bg=casual&cpvcd=sex-type%7C000",
+      "supports": "3COINS+plus イオンモール京都桂川店; 2026-12-02; 京都府京都市南区; リニューアルオープン"
+    },
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_2611013co_002&ak=SHOPNEWS&b=3coins&bg=casual&cpvcd=sex-type%7C000",
+      "supports": "3COINS+plus リエール藤沢店; 2026-12-10; 神奈川県藤沢市; リニューアルオープン"
+    },
+    {
+      "publisher": "株式会社パル / PAL CLOSET公式",
+      "url": "https://www.palcloset.jp/display/article/detail/?acd=s_2611013co_001&ak=SHOPNEWS&b=3coins&bg=outlet",
+      "supports": "リエール藤沢店の最終営業日2026-11-30とリニューアルオープン日2026-12-10"
+    },
+    {
+      "publisher": "ローソン公式",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "supports": "公式新店一覧52候補を照合し、全件既存JSONに一致"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン公式",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "supports": "2026年12月新店11店舗を照合し、全件既存登録済み"
+    },
+    {
+      "publisher": "PPIH公式",
+      "url": "https://ppih.co.jp/news/",
+      "supports": "国内の新規・業態転換候補6店舗を照合し、既存登録済み"
+    },
+    {
+      "publisher": "株式会社パル公式 新店情報",
+      "url": "https://www.palgroup.co.jp/shop/",
+      "supports": "アトレ中野、伊達、アリオ橋本、IKEDIA、ジョーシン岸和田等の新店候補照合"
+    }
+  ],
+  "unconfirmed": [
+    {
+      "candidate": "CIAOPANIC TYPY アリオ橋本",
+      "reason": "PAL公式新店一覧は2026-11-21 OPEN、求人掲載は2026-11-20 NEW OPENと日付が相違。確定を避けて追加保留"
+    },
+    {
+      "candidate": "3COINS The Wai店",
+      "reason": "香港・The Wai店のため日本国内JSON対象外"
+    },
+    {
+      "candidate": "3COINS 誠品生活南西店",
+      "reason": "台湾店舗のため日本国内JSON対象外"
+    },
+    {
+      "candidate": "3COINS+plus 浦和パルコ店 / 調布パルコ店",
+      "reason": "2026-11-20～11-24の既存店舗向けキャンペーンであり、新規開店情報ではない"
+    },
+    {
+      "candidate": "3COINS+plus イオンモール苫小牧店",
+      "reason": "2026-11-14～11-22の既存店舗向けキャンペーンであり、新規開店情報ではない"
+    }
+  ],
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "duplicate_name_prefecture_city_date": 0,
+    "date_sorted": true,
+    "existing_records_preserved": true,
+    "additions_within_period": true,
+    "additions_present_after_fetch": true,
+    "fetched_blob_sha_matches": true
+  },
+  "verification": {
+    "sha_matches": true,
+    "count": 2846,
+    "updatetime": "2026-11-28T04:18:24+09:00",
+    "all_additions_present": true,
+    "json_parse": true,
+    "blob_sha": "37bb3d8b1b7c353ecf8474581f31822e57910009"
+  }
+}
