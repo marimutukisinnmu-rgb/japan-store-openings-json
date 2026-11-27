@@ -1,0 +1,85 @@
+{
+  "run_at": "2026-11-28T06:19:44+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2846,
+    "blob_sha": "37bb3d8b1b7c353ecf8474581f31822e57910009"
+  },
+  "after": {
+    "count": 2849,
+    "blob_sha": "efbd38213009b0d422c944fa0f1ad3b22cca3204",
+    "updatetime": "2026-11-28T06:19:44+09:00"
+  },
+  "added": [
+    {
+      "name": "和食麺処サガミ16号春日部増戸店",
+      "prefecture": "埼玉県",
+      "city": "春日部市",
+      "opening_date": "2026-12-11",
+      "category": "和食レストラン（そば・うどん・和膳）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000493.000031654.html"
+    },
+    {
+      "name": "沖縄そば 海と島 渋谷宮益坂店",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-11-30",
+      "category": "沖縄そば専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000799.000031747.html"
+    },
+    {
+      "name": "てふ 横浜店",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-28",
+      "category": "工芸品・食卓用品・アクセサリー",
+      "source": "https://prtimes.jp/main/html/rd/p/000000002.000192120.html"
+    }
+  ],
+  "duplicates": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 13,
+    "sorted_by_opening_date": true,
+    "added_records_verified": true,
+    "blob_sha_matches_update_response": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社サガミホールディングス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000493.000031654.html"
+    },
+    {
+      "publisher": "株式会社ホットランドホールディングス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000799.000031747.html"
+    },
+    {
+      "publisher": "株式会社てふ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000002.000192120.html"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/index.html"
+    },
+    {
+      "publisher": "三井不動産商業マネジメント株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "ローソン公式掲載の2026年12月1日〜11日の確認候補は既存登録済み",
+    "富澤商店 山形屋店は既存登録済み",
+    "WithGreen アトレ中野店は既存レコードあり（同一店舗の表記候補を含む）",
+    "ジャズドリーム長島の確認済み候補は既存登録済み"
+  ],
+  "deferred": [
+    "Timberland（ジャズドリーム長島）は『2026年12月予定』のみで日付未確定のため変更なし",
+    "開店日を一次情報で確定できない候補は追加保留"
+  ]
+}
