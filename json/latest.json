@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T14:14:02+09:00",
+  "updatetime": "2026-11-27T15:16:19+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -18496,6 +18496,41 @@
       "city": "福島市",
       "opening_date": "2026-12-11",
       "category": "買取専門店"
+    },
+    {
+      "name": "かざぐるま with LAWSON",
+      "prefecture": "茨城県",
+      "city": "常陸大宮市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 台東清川二丁目",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 岐阜鏡島南二丁目",
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 松山辻町",
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア"
+    },
+    {
+      "name": "ローソン 長崎新大工町",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-11",
+      "category": "コンビニエンスストア"
     },
     {
       "name": "『夢色パティシエール』POP UP SHOP in マルイ（上野マルイ）",
