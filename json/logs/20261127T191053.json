@@ -1,0 +1,51 @@
+{
+  "run_at": "2026-11-27T19:10:53+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "previous_count": 2813,
+  "new_count": 2815,
+  "added": [
+    {
+      "name": "マクドナルド 二条城南店",
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "opening_date": "2026-12-21",
+      "category": "ファストフード",
+      "source_url": "https://crewrecruiting.mcdonalds.co.jp/map/r26604"
+    },
+    {
+      "name": "マクドナルド 藤枝駅前店",
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "opening_date": "2026-12-23",
+      "category": "ファストフード",
+      "source_url": "https://crewrecruiting.mcdonalds.co.jp/map/g22659"
+    }
+  ],
+  "changed_fields": [
+    "updatetime",
+    "items"
+  ],
+  "previous_blob_sha": "6a0a203e33f66ab73e7f3c4970d0e4f7bc59f807",
+  "new_blob_sha": "1275c63110ed6df56b59639cf46858b8572b69c8",
+  "commit_sha": "756e37e2a9ccc0f10dc5c6bb26ec0c8a66c93751",
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "added_records_found": [
+      true,
+      true
+    ],
+    "existing_records_preserved_count": 2813
+  },
+  "notes": [
+    "既存レコードは削除・統合・上書きしていない。",
+    "住所は正本スキーマに含まれないため、詳細住所は出典ページで確認し、正本には既存スキーマの項目のみ登録。",
+    "既存データ中の表記揺れ・意味上の重複候補14組は変更せず保護。"
+  ]
+}
