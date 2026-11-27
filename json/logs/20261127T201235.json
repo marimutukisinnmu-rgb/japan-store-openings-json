@@ -1,0 +1,118 @@
+{
+  "run_at": "2026-11-27T20:12:35+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "source_checks": [
+    {
+      "source": "Subway Japan official news release",
+      "url": "https://subway.co.jp/news/20261127_01/",
+      "checked": "2026-11-27",
+      "result": "Confirmed 戸塚MODI店 opens 2026-12-02 at 戸塚モディ 1F; official release identifies Yokohama-shi Totsuka-ku."
+    },
+    {
+      "source": "Hatena Coffee official store page",
+      "url": "https://hatenacoffee.experiful.jp/locations/nagoya/",
+      "checked": "2026-11-27",
+      "result": "Confirmed 名古屋栄店, address in Nagoya-shi Naka-ku Nishiki 2-11-27, ほうかつ錦ビル 4F."
+    },
+    {
+      "source": "Experiful official press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000113176.html",
+      "checked": "2026-11-27",
+      "result": "Confirmed 名古屋栄店 opens 2026-12-01."
+    },
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-27",
+      "result": "Checked current listings through 2026-12-11; the reviewed Dec 10-11 candidates were already present in latest.json."
+    },
+    {
+      "source": "PPIH official news releases",
+      "url": "https://ppih.co.jp/news/",
+      "checked": "2026-11-27",
+      "result": "Reviewed latest domestic store announcements; candidates were already represented in latest.json. Overseas stores excluded from Japan scope."
+    },
+    {
+      "source": "Shinjuku Takano official notice",
+      "url": "https://takano.jp/takano/news/708009/",
+      "checked": "2026-11-27",
+      "result": "12/9 Atre Nakano opening checked; existing item フルーツクチュールタカノ（アトレ中野） already has the same city/date. No duplicate or rename made."
+    },
+    {
+      "source": "Atre official tenant announcement",
+      "url": "https://prtimes.jp/main/html/rd/p/000000390.000070988.html",
+      "checked": "2026-11-27",
+      "result": "Confirmed フルーツクチュールタカノ as an Atre Nakano tenant; retained existing same-date record rather than duplicate it."
+    },
+    {
+      "source": "LUNA EARTH official release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000922.000061261.html",
+      "checked": "2026-11-27",
+      "result": "LUNA EARTH イオンモール草津店 already present in latest.json."
+    },
+    {
+      "source": "BONTEMPS operator press release",
+      "url": "https://prtimes.jp/main/html/rd/p/000000353.000061742.html",
+      "checked": "2026-11-27",
+      "result": "BONTEMPS 福岡薬院店 already present in latest.json."
+    },
+    {
+      "source": "Gong cha Japan official press releases",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "checked": "2026-11-27",
+      "result": "Reviewed Sendai PARCO2, Aeon Mall Funabashi and Toyota T-FACE openings; matching records already present. Existing variant spellings were not merged."
+    }
+  ],
+  "before": {
+    "count": 2815,
+    "blob_sha": "1275c63110ed6df56b59639cf46858b8572b69c8",
+    "updatetime": "2026-11-27T19:10:53+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "はてな珈琲店 名古屋栄店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中区",
+        "opening_date": "2026-12-01",
+        "category": "謎解きカフェ"
+      },
+      {
+        "name": "サブウェイ 戸塚MODI店",
+        "prefecture": "神奈川県",
+        "city": "横浜市戸塚区",
+        "opening_date": "2026-12-02",
+        "category": "サンドイッチ・ファストフード"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "after": {
+    "count": 2817,
+    "blob_sha": "8bbfc411eb4d6d17a2a0755ad49dfe91b2804976",
+    "commit_sha": "3b4542988284a8af7f7294a7dd638d3ca9afe0c6",
+    "updatetime": "2026-11-27T20:12:35+09:00"
+  },
+  "validation": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "existing_records_preserved_count": 2815,
+    "added_records_found": [
+      true,
+      true
+    ],
+    "blob_sha_matches_write": true
+  },
+  "unresolved": [
+    "The existing record フルーツクチュールタカノ（アトレ中野） is retained; the newer operator notice uses 新宿高野 アトレ中野店. Official Atre tenant information supports the existing store identity, so no duplicate or rename was made.",
+    "Existing variant-spelling groups, including Gong cha Sendai PARCO2 naming variants, were left unchanged."
+  ]
+}
