@@ -117,18 +117,20 @@
       "count": 1,
       "result": "already_registered",
       "urls": [
-        "https://www.pronto.co.jp/company/news/2026/"
+        "https://www.pronto.co.jp/company/news/2026/",
+        "https://prtimes.jp/main/html/rd/p/000000357.000018877.html"
       ],
-      "note": "プロント珈琲庭園 nonowa国立WEST（2026-12-15）を公式発表と訂正告知で確認。既存登録済み。"
+      "note": "訂正後の公式発表で店舗名「プロント珈琲庭園 nonowa 国立店」、所在地「東京都国立市北1-14-17 nonowa 国立 WEST」、開店日2026-12-15を確認。既存JSONの店名・市区町村・日付と一致。"
     },
     {
       "group": "トランジットグループ公式ニュース",
       "count": 1,
       "result": "already_registered",
       "urls": [
-        "https://transit-web.com/news/"
+        "https://gyg.jp/news/西新宿に、gygがやってくる！西新宿店オープン記念/",
+        "https://prtimes.jp/main/html/rd/p/000000526.000040062.html"
       ],
-      "note": "Guzman y Gomez 西新宿店（2026-11-28）を運営会社の公式ニュースで照合。既存登録済み。"
+      "note": "運営会社の公式発表およびGYG公式ニュースで、Guzman y Gomez 西新宿店（2026-11-28、東京都新宿区西新宿1丁目9-1 明治安田新宿ビル1F）を確認。既存登録済み。"
     }
   ],
   "checks": {
