@@ -1,0 +1,104 @@
+{
+  "run_at": "2026-11-28T01:17:41+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target": "json/latest.json",
+  "before": {
+    "blob_sha": "327d6249217a856b859af829a58a699578a63fd7",
+    "item_count": 2819,
+    "updatetime": "2026-11-27T23:15:57+09:00"
+  },
+  "after": {
+    "blob_sha": "327d6249217a856b859af829a58a699578a63fd7",
+    "item_count": 2819,
+    "changed": false
+  },
+  "checks": {
+    "json_parse": "passed",
+    "required_fields_missing": 0,
+    "invalid_opening_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sort_order": "passed",
+    "date_range": [
+      "2026-09-04",
+      "2027-03-02"
+    ]
+  },
+  "sources_checked": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/index.html",
+      "checked_entries": 40,
+      "matched_existing_records": 40,
+      "new_records": 0
+    },
+    {
+      "source": "KFC official December 2026 new-store release",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "checked_entries": 11,
+      "matched_existing_records": 11,
+      "new_records": 0
+    },
+    {
+      "source": "PPIH official releases",
+      "url": "https://ppih.co.jp/news/",
+      "checked_entries": 3,
+      "matched_existing_records": 3,
+      "new_records": 0
+    },
+    {
+      "source": "Fresta official release: Yorimichi Fresta",
+      "url": "https://www.fresta.co.jp/company_news/32938",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "new_records": 0
+    },
+    {
+      "source": "Meiji Yasuda Shinjuku Building official tenant release",
+      "url": "https://www.meijiyasuda.co.jp/profile/news/release/2026/pdf/20261022_02.pdf",
+      "checked_entries": 21,
+      "matched_existing_records": 19,
+      "new_records": 0,
+      "note": "Two alcohol-focused candidates were not added."
+    },
+    {
+      "source": "GYG official newsroom",
+      "url": "https://gyg.jp/news/",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "new_records": 0
+    },
+    {
+      "source": "Shake Shack official store page",
+      "url": "https://shakeshack.jp/locations/nishi-shinjuku/",
+      "checked_entries": 1,
+      "matched_existing_records": 1,
+      "new_records": 0
+    },
+    {
+      "source": "McDonald's official recruitment/store pages",
+      "checked_entries": 5,
+      "matched_existing_records": 5,
+      "new_records": 0,
+      "note": "One store has a name variant in the JSON; the store/date/location match."
+    }
+  ],
+  "notes": [
+    "Yorimichi Fresta was already present in the source JSON; no duplicate was added.",
+    "Lawson 40 entries and KFC 11 entries matched existing records.",
+    "One McDonald's listing uses a variant name but matches by prefecture, city, and opening date.",
+    "No existing records were edited, deleted, or merged.",
+    "National coverage is not guaranteed."
+  ],
+  "errors": [],
+  "automation_status": {
+    "checked": true,
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_reported": "2026-11-28T01:15:00+09:00",
+    "note": "The next-run timestamp is already in the past at the time of this run; no schedule change was made in this log."
+  }
+}
