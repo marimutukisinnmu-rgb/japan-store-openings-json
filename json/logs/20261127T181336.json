@@ -1,0 +1,75 @@
+{
+  "run_at": "2026-11-27T18:13:36+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "source_checks": [
+    {
+      "source": "Lawson official new-store list",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-27",
+      "result": "Reviewed current listed openings; checked entries were already present in latest.json"
+    },
+    {
+      "source": "PPIH official news releases",
+      "url": "https://ppih.co.jp/news/",
+      "checked": "2026-11-27",
+      "result": "Domestic store announcements checked against existing records; listed candidates already present; overseas Pattaya store excluded from Japan scope"
+    },
+    {
+      "source": "KFC Japan official December store list",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "checked": "2026-11-27",
+      "result": "All 11 listed December openings matched existing records"
+    },
+    {
+      "source": "Din Tai Fung Japan official news",
+      "url": "https://d.rt-c.co.jp/news/",
+      "checked": "2026-11-27",
+      "result": "Confirmed Namba Dining Maison store reopening on 2026-12-05"
+    },
+    {
+      "source": "Namba Dining Maison official store page",
+      "url": "https://www.diningmaison.jp/restaurant/shop_28.html",
+      "checked": "2026-11-27",
+      "result": "Confirmed Osaka-shi Chuo-ku / Namba Dining Maison 7F location"
+    }
+  ],
+  "before": {
+    "count": 2812,
+    "blob_sha": "24055323b0f0b4691e86e9e91367494f6fcda17f",
+    "updatetime": "2026-11-27T17:13:52+09:00"
+  },
+  "changes": {
+    "added": [
+      {
+        "name": "鼎泰豐 なんばダイニングメゾン店",
+        "prefecture": "大阪府",
+        "city": "大阪市中央区",
+        "opening_date": "2026-12-05",
+        "category": "台湾点心・飲茶（リニューアル）"
+      }
+    ],
+    "corrected": 0,
+    "deleted": 0
+  },
+  "after": {
+    "count": 2813,
+    "blob_sha": "6a0a203e33f66ab73e7f3c4970d0e4f7bc59f807",
+    "commit_sha": "e6b8f72eff0cb9cec0215300932861084c7fbfc2",
+    "updatetime": "2026-11-27T18:13:36+09:00"
+  },
+  "validation": {
+    "json_parse": true,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "sorted_by_opening_date": true,
+    "exact_duplicate_count": 0,
+    "new_entry_verified": true,
+    "blob_sha_matches_write": true
+  },
+  "unresolved": [
+    "No changes were made to existing records.",
+    "13 normalized name/date/location variation groups remain untouched to avoid unsafe merges."
+  ],
+  "automation_state": "Active at inspection; schedule unchanged at that time."
+}
