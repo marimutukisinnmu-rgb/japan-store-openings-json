@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-27T15:16:19+09:00",
+  "updatetime": "2026-11-27T16:17:58+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -13344,6 +13344,13 @@
       "city": "横浜市都筑区",
       "opening_date": "2026-11-24",
       "category": "麻辣湯専門店"
+    },
+    {
+      "name": "新時代 千葉中央駅西口店",
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "opening_date": "2026-11-24",
+      "category": "居酒屋"
     },
     {
       "name": "chocoZAP うきは吉井",
