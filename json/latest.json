@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T03:13:04+09:00",
+  "updatetime": "2026-11-28T04:18:24+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -7641,6 +7641,13 @@
       "category": "眼鏡・アイウェア（移転リニューアル）"
     },
     {
+      "name": "3COINS+plus アクアウォーク大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-06",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
       "name": "『可愛い嘘のカワウソ ぬんぬんベーカリー』（北千住マルイ）",
       "prefecture": "東京都",
       "city": "足立区",
@@ -12548,6 +12555,13 @@
       "category": "スポーツ用品・アパレル"
     },
     {
+      "name": "3COINS+plus ジョーシン岸和田店",
+      "prefecture": "大阪府",
+      "city": "岸和田市",
+      "opening_date": "2026-11-20",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
       "name": "BAKERIES LAB.砂町銀座店",
       "prefecture": "東京都",
       "city": "江東区",
@@ -15355,6 +15369,13 @@
       "category": "中古車買取・販売"
     },
     {
+      "name": "3COINS+plus イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "生活雑貨・インテリア雑貨"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16634,6 +16655,13 @@
       "city": "横浜市戸塚区",
       "opening_date": "2026-12-02",
       "category": "サンドイッチ・ファストフード"
+    },
+    {
+      "name": "3COINS+plus イオンモール京都桂川店",
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "opening_date": "2026-12-02",
+      "category": "生活雑貨・インテリア雑貨（リニューアル）"
     },
     {
       "name": "&TEAM CAFE～THE WOLF BUTLERS～（愛知・グローバルゲート名古屋1号店）",
@@ -18510,6 +18538,13 @@
       "city": "宇城市",
       "opening_date": "2026-12-10",
       "category": "総合ディスカウントストア（リニューアル）"
+    },
+    {
+      "name": "3COINS+plus リエール藤沢店",
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "opening_date": "2026-12-10",
+      "category": "生活雑貨・インテリア雑貨（リニューアル）"
     },
     {
       "name": "「ハイキュー!!」アグリーセーター POP UP SHOP（神戸マルイ）",
