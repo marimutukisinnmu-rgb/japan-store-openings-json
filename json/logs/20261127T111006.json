@@ -1,0 +1,106 @@
+{
+  "run_at": "2026-11-27T11:10:06+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "latest_path": "json/latest.json",
+  "latest_blob_sha_before": "fc610192cae826e97dcd4d4427d6d34e981b77c4",
+  "latest_blob_sha_after": "fc610192cae826e97dcd4d4427d6d34e981b77c4",
+  "latest_commit_sha": "8ec2257446cc9da4860d520a865196f913b8cc02",
+  "latest_updatetime": "2026-11-27T10:15:48+09:00",
+  "record_count_before": 2800,
+  "record_count_after": 2800,
+  "added": 0,
+  "corrected": 0,
+  "deleted": 0,
+  "additions": [],
+  "checked_candidates": [
+    {
+      "group": "ローソン公式全国・地域別新店情報",
+      "count": 14,
+      "result": "already_registered",
+      "urls": [
+        "https://www.lawson.co.jp/newstore/index.html",
+        "https://www.lawson.co.jp/newstore/smt/"
+      ],
+      "note": "公式一覧に掲載された2026-12-01〜12-04の候補14店舗（札幌川沿2条、稲毛駅東口通、Sシーサイドライン新杉田駅、札幌南14条西十二丁目、北広島青葉町、苫小牧音羽町、仙台長町南一丁目、H中野弥生町二丁目、妙高諏訪町、米原野一色、向日寺戸、広陵馬見北一丁目、上島町生名、南行橋駅前、壱岐柳田、帯広大空町、早稲田鶴巻町のうち確認対象として抽出した候補）は既存JSONに登録済み。"
+    },
+    {
+      "group": "PPIH公式新店・業態転換発表",
+      "count": 5,
+      "result": "already_registered",
+      "urls": [
+        "https://ppih.co.jp/news/",
+        "https://cdntest.digitalpr.jp/r/148453"
+      ],
+      "note": "ロビン・フッド北新宿店、ロビン・フッド亀戸店、ロビン・フッド朝霞泉水店、MEGAドン・キホーテ Olympic 高井戸店、MEGAドン・キホーテ Olympic 洋光台店の店名・開店日・市区町村を既存JSONで確認。"
+    },
+    {
+      "group": "秋葉原UDX先行開業・リニューアル情報",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://www.nttud.co.jp/news/detail/id/n28055.html"
+      ],
+      "note": "NTT都市開発公式発表で星乃珈琲店の2026-11-27先行開業と秋葉原UDX（東京都千代田区外神田4-14-1）を確認。JSONの「星乃珈琲店（秋葉原UDX）」2026-11-27、東京都千代田区と一致。"
+    },
+    {
+      "group": "PAPABUBBLE イクスピアリ店",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000599.000018984.html"
+      ],
+      "note": "運営会社発表で2026-11-21オープン、千葉県浦安市を確認。既存JSONに登録済み。"
+    },
+    {
+      "group": "POP MART LUCUA SOUTH店",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000043.000062707.html"
+      ],
+      "note": "運営会社発表で2026-11-24グランドオープン、大阪府大阪市北区を確認。既存JSONに登録済み。"
+    },
+    {
+      "group": "カルディコーヒーファーム ショッピングシティベル店",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://bell.or.jp/event-news/kaldi.html"
+      ],
+      "note": "施設公式案内で2026-11-26グランドオープン、福井県福井市を確認。既存JSONに登録済み。"
+    },
+    {
+      "group": "キル フェ ボン新宿",
+      "count": 1,
+      "result": "already_registered",
+      "urls": [
+        "https://prtimes.jp/main/html/rd/p/000000105.000117972.html"
+      ],
+      "note": "運営会社発表で2026-11-28オープン、東京都新宿区を確認。既存JSONに登録済み。"
+    }
+  ],
+  "checks": {
+    "json_parse": "passed",
+    "required_fields": "passed",
+    "required_field_missing_count": 0,
+    "date_format_and_calendar_validity": "passed",
+    "invalid_date_count": 0,
+    "opening_date_sort": "passed",
+    "exact_duplicate_records": 0,
+    "normalized_same_name_prefecture_city_date_candidate_count": 14,
+    "existing_records_retained_in_relative_order": true,
+    "new_candidates_unique": true,
+    "date_min": "2026-09-04",
+    "date_max": "2027-03-02",
+    "post_write_fetch": "not_applicable_latest_unchanged",
+    "read_back_record_count": 2800,
+    "added_items_present": true,
+    "latest_blob_sha_matches_update_response": "not_applicable_latest_unchanged",
+    "read_back_json_parse": "passed",
+    "read_back_updatetime": "2026-11-27T10:15:48+09:00"
+  },
+  "errors": [],
+  "unconfirmed": []
+}
