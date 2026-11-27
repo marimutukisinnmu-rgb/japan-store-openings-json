@@ -17,13 +17,13 @@
   "checked_candidates": [
     {
       "group": "ローソン公式全国・地域別新店情報",
-      "count": 14,
+      "count": 13,
       "result": "already_registered",
       "urls": [
         "https://www.lawson.co.jp/newstore/index.html",
         "https://www.lawson.co.jp/newstore/smt/"
       ],
-      "note": "公式一覧に掲載された2026-12-01〜12-04の候補14店舗（札幌川沿2条、稲毛駅東口通、Sシーサイドライン新杉田駅、札幌南14条西十二丁目、北広島青葉町、苫小牧音羽町、仙台長町南一丁目、H中野弥生町二丁目、妙高諏訪町、米原野一色、向日寺戸、広陵馬見北一丁目、上島町生名、南行橋駅前、壱岐柳田、帯広大空町、早稲田鶴巻町のうち確認対象として抽出した候補）は既存JSONに登録済み。"
+      "note": "公式一覧の候補13店舗（仙台長町南一丁目、札幌南14条西十二丁目、北広島青葉町、苫小牧音羽町、Sシーサイドライン新杉田駅、米原野一色、向日寺戸、広陵馬見北一丁目、上島町生名、南行橋駅前、壱岐柳田、帯広大空町、早稲田鶴巻町）について店名・開店日をJSONと照合し、すべて登録済みを確認。"
     },
     {
       "group": "PPIH公式新店・業態転換発表",
@@ -91,12 +91,12 @@
     "exact_duplicate_records": 0,
     "normalized_same_name_prefecture_city_date_candidate_count": 14,
     "existing_records_retained_in_relative_order": true,
-    "new_candidates_unique": true,
+    "new_candidates_unique": "not_applicable_no_new_candidates",
     "date_min": "2026-09-04",
     "date_max": "2027-03-02",
-    "post_write_fetch": "not_applicable_latest_unchanged",
+    "post_write_fetch": "success_latest_unchanged",
     "read_back_record_count": 2800,
-    "added_items_present": true,
+    "added_items_present": "not_applicable_no_additions",
     "latest_blob_sha_matches_update_response": "not_applicable_latest_unchanged",
     "read_back_json_parse": "passed",
     "read_back_updatetime": "2026-11-27T10:15:48+09:00"
