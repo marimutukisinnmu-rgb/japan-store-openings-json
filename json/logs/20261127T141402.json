@@ -1,0 +1,77 @@
+{
+  "run_at": "2026-11-27T14:14:02+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "target_file": "json/latest.json",
+  "before": {
+    "item_count": 2804,
+    "blob_sha": "82bcbc2d47ff1a790fe7c18679a598f2d7b1b1c5"
+  },
+  "after": {
+    "item_count": 2805,
+    "blob_sha": "6a76b2bd24a66d696a242bd976c7423a3831ba29",
+    "commit_sha": "eff4c57f01afeb8a1fc6c516b0b7374b8b0fee42"
+  },
+  "additions": [
+    {
+      "name": "カールスジュニア 池袋サンシャイン通り店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-12-21",
+      "category": "ハンバーガー",
+      "source": "https://www.carlsjr.jp/news/999911/",
+      "source_published": "2026-11-25"
+    }
+  ],
+  "existing_matches": [
+    "マクドナルド 和歌山貴志川店",
+    "コナズ珈琲 福島駅店",
+    "中華そば専門 田中そば店（仙台PARCO2）",
+    "ゴンチャ 仙台PARCO2店",
+    "韓美膳 仙台PARCO2店",
+    "博多天ぷらやまや 仙台PARCO2店",
+    "月島もんじゃ たまとや 仙台PARCO2店",
+    "博多もつ鍋おおやま 仙台PARCO2店（リニューアル）",
+    "新時代 西新宿1丁目店",
+    "wanna manna大阪梅田店",
+    "WithGreen アトレ中野店",
+    "THE★JOJO WORLD OSAKA（LUCUA SOUTH）",
+    "TAMASHII NATIONS STORE OSAKA（LUCUA SOUTH）",
+    "SQUARE ENIX NEXUS（LUCUA SOUTH）"
+  ],
+  "held_candidates": [
+    {
+      "name": "ナムコ（LUCUA SOUTH）",
+      "reason": "確認できた施設発表は「12月上旬予定」にとどまり、確定した開店日を確認できなかったため未追加"
+    }
+  ],
+  "validation": {
+    "json_parse": "passed",
+    "required_field_errors": 0,
+    "invalid_date_count": 0,
+    "exact_duplicate_count": 0,
+    "date_order": "passed",
+    "re_fetched_from_github": true,
+    "re_fetched_item_count": 2805,
+    "new_record_present": true
+  },
+  "automation_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "hourly at minute 15",
+    "timezone": "Asia/Tokyo",
+    "next_run_time": "2026-11-27T14:15:00+09:00",
+    "last_run_status_at_check": "in_progress",
+    "completed_at": null,
+    "schedule_changed": false,
+    "enabled_state_changed": false
+  },
+  "errors": [],
+  "notes": [
+    "The existing record for McDonald's Kishigawa was found under the name マクドナルド 和歌山貴志川店; no duplicate was added.",
+    "The existing JSON was sorted by opening_date after the new record was inserted.",
+    "Only confirmed information was added; unconfirmed candidates were held."
+  ]
+}
