@@ -1,0 +1,107 @@
+{
+  "run_at": "2026-11-28T07:16:26+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2849,
+    "blob_sha": "efbd38213009b0d422c944fa0f1ad3b22cca3204"
+  },
+  "after": {
+    "count": 2854,
+    "blob_sha": "777da7dd4e862c1c63463b32c0485d6a21d1af3f",
+    "updatetime": "2026-11-28T07:16:26+09:00"
+  },
+  "added": [
+    {
+      "name": "aardvark TEA 横浜元町",
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "opening_date": "2026-11-28",
+      "category": "クラフトティー専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000018.000080731.html"
+    },
+    {
+      "name": "nishikawa shop ヒルトンプラザ大阪イースト",
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "opening_date": "2026-11-28",
+      "category": "寝具・睡眠相談専門店",
+      "source": "https://prtimes.jp/main/html/rd/p/000000486.000010201.html"
+    },
+    {
+      "name": "アメモバ買取 沖縄那覇店",
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "opening_date": "2026-11-27",
+      "category": "デジタル機器買取・販売",
+      "source": "https://prtimes.jp/main/html/rd/p/000000016.000072684.html"
+    },
+    {
+      "name": "本から始まる探求ラウンジ Side B",
+      "prefecture": "香川県",
+      "city": "仲多度郡琴平町",
+      "opening_date": "2026-12-06",
+      "category": "ブックラウンジ・交流拠点",
+      "source": "https://prtimes.jp/main/html/rd/p/000000003.000193790.html"
+    },
+    {
+      "name": "MUSINSA Tokyo Pop-Up Store 2026 in Tokyu Plaza Shibuya",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "opening_date": "2026-12-15",
+      "category": "期間限定ファッション・ビューティーPOP UP STORE（2026-12-15〜2026-12-27）",
+      "source": "https://prtimes.jp/main/html/rd/p/000000122.000071607.html"
+    }
+  ],
+  "duplicates": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 15,
+    "sorted_by_opening_date": true,
+    "previous_records_preserved": true,
+    "added_records_verified": true,
+    "blob_sha_matches_update_response": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社AOBEAT",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000080731.html"
+    },
+    {
+      "publisher": "西川株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000486.000010201.html"
+    },
+    {
+      "publisher": "株式会社COD",
+      "url": "https://prtimes.jp/main/html/rd/p/000000016.000072684.html"
+    },
+    {
+      "publisher": "株式会社かける小町",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000193790.html"
+    },
+    {
+      "publisher": "株式会社 MUSINSA JAPAN",
+      "url": "https://prtimes.jp/main/html/rd/p/000000122.000071607.html"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "Matcha Kitsuné（抹茶キツネ／新風館）は2026-12-04で既存登録済み",
+    "桐松屋は2026-12-01のグランドオープン日で既存登録済み（2026-11-28はプレオープン）",
+    "食の3重丸銀座ショップは2026-12-04で既存登録済み",
+    "仙台PARCO2の中華そば専門 田中そば店、ゴンチャ、韓美膳は既存登録済み",
+    "ローソン公式の掲載候補（2026-12-01〜2026-12-11）は既存登録済み"
+  ],
+  "deferred": [
+    "笑咲屋 はなび（岡山県倉敷市）は12月3日再開予定との二次情報を確認したが、運営元の一次情報を確認できず追加保留",
+    "全国の未発表・未掲載店舗を網羅できた保証はない"
+  ]
+}
