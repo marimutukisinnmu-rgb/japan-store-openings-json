@@ -79,9 +79,10 @@
       "count": 1,
       "result": "added",
       "urls": [
-        "https://www.nitorihd.co.jp/news/items/bea5ae053d9150a04abea9361b21f0a0.pdf"
+        "https://www.nitorihd.co.jp/news/items/bea5ae053d9150a04abea9361b21f0a0.pdf",
+        "https://shop.nitori-net.jp/nitori/spot/detail?code=0000006411"
       ],
-      "note": "ニトリHD公式発表の店舗概要で2026-11-27開店、福島県いわき市鹿島町久保字梅田1-1を確認。発表冒頭には福島市との不整合があるため、店舗固有の所在地欄を採用し注記。"
+      "note": "ニトリHD公式発表の店舗概要と公式店舗ページの両方で2026-11-27開店、福島県いわき市鹿島町久保字梅田1-1を確認。発表冒頭の『福島市』表記は公式店舗ページの福島県→いわき市、住所欄と食い違うため誤記として注記し、店舗固有の住所・公式店舗ページを採用。"
     },
     {
       "group": "マルナカ市場店",
@@ -136,6 +137,15 @@
         "https://japan.kfc.co.jp/news_release/8200"
       ],
       "note": "2026年12月の11店舗を確認。今回の追加対象とは別に既存照合対象として扱い、今回の追加は行わず。"
+    },
+    {
+      "group": "ニトリ公式店舗ページによる所在地再確認",
+      "count": 1,
+      "result": "confirmed",
+      "urls": [
+        "https://shop.nitori-net.jp/nitori/spot/detail?code=0000006411"
+      ],
+      "note": "公式店舗ページに福島県→いわき市のパンくず、住所、11月27日オープン表記を確認。"
     }
   ],
   "checks": {
