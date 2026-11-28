@@ -1,0 +1,145 @@
+{
+  "run_at": "2026-11-28T12:17:29+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2868,
+    "blob_sha": "a265205d9cfd9431c1d9a2c75652f6b1fd0310d7",
+    "updatetime": "2026-11-28T10:18:32+09:00"
+  },
+  "after": {
+    "count": 2875,
+    "blob_sha": "f60ccb6a3dd8896d5a6a98c1e3df395ecdab6eaa",
+    "updatetime": "2026-11-28T12:17:29+09:00"
+  },
+  "commit_sha": "916a16382af733492add74d9e4cb02bc0a3c003e",
+  "added": [
+    {
+      "name": "北野エース 山形屋店",
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "opening_date": "2026-11-28",
+      "category": "食料品専門店"
+    },
+    {
+      "name": "スターバックス コーヒー 明治安田新宿ビル B1F店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "コーヒーショップ"
+    },
+    {
+      "name": "ワッツウィズ 神野フーディーズ店",
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "opening_date": "2026-12-04",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 新居浜松木くすりのレデイ店",
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "opening_date": "2026-12-04",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 天城マルナカ店",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-12-03",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ みつわ台わくわく広場店",
+      "prefecture": "千葉県",
+      "city": "千葉市若葉区",
+      "opening_date": "2026-12-05",
+      "category": "100円ショップ"
+    },
+    {
+      "name": "ワッツウィズ 天間林プチマート店",
+      "prefecture": "青森県",
+      "city": "上北郡七戸町",
+      "opening_date": "2026-12-05",
+      "category": "100円ショップ"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 16,
+    "sorted_by_opening_date": true,
+    "latest_json_preserved": true,
+    "official_candidate_crosscheck": true,
+    "added_records_verified": true,
+    "github_retrieval_verified": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社エース（北野エース）",
+      "url": "https://www.ace-group.co.jp/announcement/266.html"
+    },
+    {
+      "publisher": "スターバックス コーヒー ジャパン",
+      "url": "https://store.starbucks.co.jp/detail-4456/"
+    },
+    {
+      "publisher": "株式会社ワッツ",
+      "url": "https://www.watts-jp.com/news/"
+    },
+    {
+      "publisher": "株式会社ワッツ・店舗ニュース：神野フーディーズ店",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E7%A5%9E%E9%87%8E%E3%83%95%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%E5%BA%97%EF%BC%88%E5%85%B5%E5%BA%AB%E7%9C%8C%EF%BC%8912-4%E9%87%91open/"
+    },
+    {
+      "publisher": "株式会社ワッツ・店舗ニュース：新居浜松木くすりのレデイ店",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E6%96%B0%E5%B1%85%E6%B5%9C%E6%9D%BE%E6%9C%A8%E3%81%8F%E3%81%99%E3%82%8A%E3%81%AE%E3%83%AC%E3%83%87%E3%82%A4%E5%BA%97%EF%BC%88%E6%84%9B%E5%AA%9B%E7%9C%8C%EF%BC%8912-4%E9%87%91open/"
+    },
+    {
+      "publisher": "株式会社ワッツ・店舗ニュース：天城マルナカ店",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E5%A4%A9%E5%9F%8E%E3%83%9E%E3%83%AB%E3%83%8A%E3%82%AB%E5%BA%97%EF%BC%88%E5%B2%A1%E5%B1%B1%E7%9C%8C%EF%BC%8912-3%E6%9C%A8open%E4%BA%88%E5%AE%9A/"
+    },
+    {
+      "publisher": "株式会社ワッツ・店舗ニュース：みつわ台わくわく広場店",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E3%81%BF%E3%81%A4%E3%82%8F%E5%8F%B0%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E5%BA%83%E5%A0%B4%E5%BA%97%EF%BC%88%E5%8D%83%E8%91%89%E7%9C%8C%EF%BC%891/"
+    },
+    {
+      "publisher": "株式会社ワッツ・店舗ニュース：天間林プチマート店",
+      "url": "https://www.watts-jp.com/store-news/%E3%83%AF%E3%83%83%E3%83%84%E3%82%A6%E3%82%A3%E3%82%BA-%E5%A4%A9%E9%96%93%E6%9E%97%E3%83%97%E3%83%81%E3%83%9E%E3%83%BC%E3%83%88%E5%BA%97%EF%BC%88%E9%9D%92%E6%A3%AE%E7%9C%8C%EF%BC%8912-5%E5%9C%9Fopen/"
+    },
+    {
+      "publisher": "株式会社わくわく広場（みつわ台店の所在地）",
+      "url": "https://wakuwaku-hiroba.com/shop/%E3%82%8F%E3%81%8F%E3%82%8F%E3%81%8F%E5%BA%83%E5%A0%B4%E3%80%80%E3%81%BF%E3%81%A4%E3%82%8F%E5%8F%B0%E5%BA%97/"
+    },
+    {
+      "publisher": "フジ（マルナカ天城店の所在地）",
+      "url": "https://www.the-fuji.com/mv/store/shop/okayama/m_amaki.php"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "ケンタッキーフライドチキン アル・プラザ宇治東店は既存登録済み",
+    "ワッツウィズ 焼津大島杏林堂薬局店は既存登録済み",
+    "ワッツウィズ 川内くすりのレデイ店、城陽平川ドラッグユタカ店、岩田ニューライフフジ店、狭山中央ビッグ・エー店、和歌山北ディオ店などは既存登録済み"
+  ],
+  "deferred": [
+    "オオゼキ元住吉店は公式に2026年12月予定まで確認できたが、具体的な開店日が未公表のため追加保留",
+    "スターバックス ティー＆カフェ 明治安田新宿ビル1F店は公式店舗ページで住所・営業情報を確認したが、開店日を明示した一次情報を確認できず追加保留",
+    "その他、日付や所在地を一次情報等で確定できない候補は追加保留"
+  ],
+  "automation_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_check": "2026-11-28T12:15:00+09:00",
+    "last_run_recorded_status_at_check": "in_progress",
+    "completed_at_at_check": null,
+    "get_endpoint_error": "NOT_FOUND; peek endpoint provided the automation state"
+  }
+}
