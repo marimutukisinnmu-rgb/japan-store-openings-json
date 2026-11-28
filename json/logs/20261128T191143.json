@@ -1,0 +1,131 @@
+{
+  "run_at": "2026-11-28T19:11:43+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "status": "updated",
+  "target": "json/latest.json",
+  "before": {
+    "item_count": 2905,
+    "blob_sha": "c03ef4c7d658de971ae7d47ad50710faab24532f",
+    "updatetime": "2026-11-28T19:11:43+09:00"
+  },
+  "changes": {
+    "added": 2,
+    "corrected": 0,
+    "deleted": 0,
+    "after_item_count": 2907,
+    "added_items": [
+      {
+        "name": "ANELLA CAFE 出雲斐川店",
+        "prefecture": "島根県",
+        "city": "出雲市",
+        "opening_date": "2026-12-18",
+        "category": "保護犬猫カフェ・福祉複合施設"
+      },
+      {
+        "name": "カフェ・ミケランジェロ 日本橋",
+        "prefecture": "東京都",
+        "city": "中央区",
+        "opening_date": "2027-01-25",
+        "category": "カフェ"
+      }
+    ],
+    "existing_records_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "株式会社ひらまつ「カフェ・ミケランジェロ 日本橋」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000280.000097330.html",
+      "published": "2026-11-27",
+      "opening_date": "2027-01-25",
+      "result": "店舗名・開業日・東京都中央区日本橋1丁目3-13を確認。既存未登録のため追加。"
+    },
+    {
+      "source": "ANELLA CAFE 公式お知らせ「出雲斐川店」",
+      "url": "https://wan-time.jp/news/grandopen-izumohikawa/",
+      "published": "2026-11-18",
+      "opening_date": "2026-12-18",
+      "result": "店舗名・開店日・島根県出雲市斐川町直江5041-8を確認。既存未登録のため追加。"
+    },
+    {
+      "source": "ANELLA CAFE 公式店舗情報",
+      "url": "https://wan-time.jp/store/anella-cafe-izumohikawa/",
+      "checked": "2026-11-28",
+      "result": "出雲斐川店の所在地と保護犬猫ふれあいカフェ等の業態を照合。"
+    },
+    {
+      "source": "ローソン公式 全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-28",
+      "result": "12月上旬掲載分を既存JSONと照合。確認対象は既存登録済み。"
+    },
+    {
+      "source": "KFC公式 12月の新店情報",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "published": "2026-11-20",
+      "result": "12月の新店情報を照合。確認した対象店舗は既存登録済み。"
+    },
+    {
+      "source": "Gong cha Japan公式プレスリリース一覧",
+      "url": "https://www.gongcha.co.jp/pressrelease/",
+      "checked": "2026-11-28",
+      "result": "イオンモール船橋店（12月1日）と仙台パルコ2店（12月3日）を個別公式資料と照合。いずれも既存登録済み。"
+    },
+    {
+      "source": "しまむらグループ公式店舗ページ",
+      "url": "https://www.shimamura.gr.jp/shop/map_detail_2199.html",
+      "checked": "2026-11-28",
+      "opening_date": "2026-12-02",
+      "result": "しまむらFUKUOKA TENJINと店内ブランドの登録を確認。新規追加なし。"
+    },
+    {
+      "source": "株式会社エンドレス「LUNA EARTH イオンモール草津店」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000922.000061261.html",
+      "published": "2026-11-20",
+      "opening_date": "2026-11-27",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "HILLS BOWL 福岡久留米店 公式ページ（検索インデックス）",
+      "url": "https://hillsbowl.jp/fukuoka/",
+      "opening_date": "2026-12-11",
+      "result": "公式ページの検索表示には開店日・住所が掲載されているが、ページ本体の取得はリダイレクト後HTTP 500で失敗。今回は追加を保留。"
+    }
+  ],
+  "quality": {
+    "json_parse": true,
+    "item_count": 2907,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "normalized_duplicate_candidate_groups": 16,
+    "normalized_duplicate_candidates_modified": false,
+    "existing_records_preserved": true
+  },
+  "errors": [],
+  "unresolved": [
+    "正規化名称の重複候補グループは検出したが、誤統合防止のため自動修正していない。",
+    "HILLS BOWL 福岡久留米店は公式ページの検索表示に2026-12-11と所在地が見えるが、ページ本体取得がHTTP 500となったためJSON追加を保留。"
+  ],
+  "persistence": {
+    "latest_json_modified": true,
+    "latest_json_blob_sha_after": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
+    "latest_json_commit_sha": "f03baa1cab709c346b995344c2e9659ffeef5fee",
+    "latest_json_verified_by_refetch": true,
+    "log_saved": false,
+    "log_path": "json/logs/20261128T191143.json",
+    "log_verified_by_refetch": false
+  },
+  "automation_state_at_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "timezone": "Asia/Tokyo",
+    "schedule": "HOURLY;BYMINUTE=15",
+    "next_run_time": "2026-11-28T19:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "state_check": "peek succeeded; get endpoint returned HTTP 404"
+  }
+}
