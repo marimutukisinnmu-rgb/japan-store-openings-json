@@ -1,0 +1,108 @@
+{
+  "run_at": "2026-11-28T20:17:45+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "status": "no_update",
+  "target": "json/latest.json",
+  "before": {
+    "item_count": 2907,
+    "blob_sha": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
+    "updatetime": "2026-11-28T19:11:43+09:00"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "after_item_count": 2907,
+    "added_items": [],
+    "existing_records_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "株式会社AOBEAT「aardvark TEA 横浜元町」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000018.000080731.html",
+      "published": "2026-11-27",
+      "opening_date": "2026-11-28",
+      "result": "店舗名・神奈川県横浜市中区元町5-205・開業日を確認。既存JSONに同名・同日で登録済み。"
+    },
+    {
+      "source": "株式会社ジョイックスコーポレーション「Paul’s Tea Shop A Pop up café by Paul Smith」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000039.000064119.html",
+      "published": "2026-11-25",
+      "opening_date": "2026-12-01",
+      "result": "店舗名・東京都渋谷区神宮前4-6-8 LOTUS 2F・開店日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "合同会社ロチャ「冷麺 to カルビ」公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000193023.html",
+      "published": "2026-11-25",
+      "opening_date": "2026-12-21",
+      "result": "京都・木屋町の店舗名とグランドオープン日を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "KFC公式「12月の新店情報（更新）」",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "published": "2026-11-20",
+      "result": "12月の新店11店舗を個別照合。全11店舗が既存JSONに登録済み。"
+    },
+    {
+      "source": "すき家公式店舗情報「札幌平岡店」",
+      "url": "https://maps.sukiya.jp/jp/detail/6639.html",
+      "checked": "2026-11-28",
+      "opening_date": "2026-11-30",
+      "result": "店舗ページに開店日時・北海道札幌市清田区平岡8条1-1-5を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "株式会社フレスタ公式「よりみちフレスタ」",
+      "url": "https://www.fresta.co.jp/info/32935",
+      "published": "2026-11-18",
+      "opening_date": "2026-11-28",
+      "result": "広島県山県郡北広島町南方1918・旧南方小学校校舎内の開店情報を確認。既存JSONに登録済み。"
+    },
+    {
+      "source": "キルフェボン公式「キル フェ ボン新宿」",
+      "url": "https://www.quil-fait-bon.com/blogs/news/shinjuku-open-2026",
+      "published": "2026-10-01",
+      "opening_date": "2026-11-28",
+      "result": "東京都新宿区西新宿一丁目9番1号・開店日を確認。既存JSONに登録済み。"
+    }
+  ],
+  "quality": {
+    "json_parse": true,
+    "item_count": 2907,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "normalized_duplicate_candidate_groups": 16,
+    "normalized_duplicate_candidates_modified": false,
+    "existing_records_preserved": true
+  },
+  "errors": [
+    "HILLS BOWL 福岡久留米店の公式ページ（https://hillsbowl.jp/fukuoka/）は今回も取得できず、Web取得で内部エラー。"
+  ],
+  "unresolved": [
+    "HILLS BOWL 福岡久留米店は検索表示に2026-12-11と所在地が見えるものの、公式ページ本文を取得できないため未確認として追加保留。",
+    "正規化名称の重複候補16グループは誤統合防止のため自動修正していない。"
+  ],
+  "persistence": {
+    "latest_json_modified": false,
+    "latest_json_blob_sha_after": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
+    "latest_json_commit_sha": null,
+    "latest_json_verified_by_refetch": true,
+    "log_saved": true,
+    "log_path": "json/logs/20261128T201745.json",
+    "log_verified_by_refetch": true
+  },
+  "automation_state_at_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "timezone": "Asia/Tokyo",
+    "schedule": "HOURLY;BYMINUTE=15",
+    "next_run_time": "2026-11-28T20:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "state_check": "peek succeeded; next_run_time is earlier than this run time and last-run details remain stale."
+  }
+}
