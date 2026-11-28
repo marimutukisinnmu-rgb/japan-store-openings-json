@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T08:17:43+09:00",
+  "updatetime": "2026-11-28T09:17:44+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16559,6 +16559,20 @@
       "category": "カプセルトイ専門店"
     },
     {
+      "name": "BIZcomfort大島",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-01",
+      "category": "シェアオフィス・コワーキングスペース"
+    },
+    {
+      "name": "ENN吉祥寺",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-12-01",
+      "category": "レンタルスペース・ラウンジ"
+    },
+    {
       "name": "GODIVA Cacao Jardin（伊勢丹新宿店）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -16977,6 +16991,13 @@
       "city": "上益城郡益城町",
       "opening_date": "2026-12-03",
       "category": "総合ディスカウントストア"
+    },
+    {
+      "name": "gashacoco イーアス高尾",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-12-03",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -17453,6 +17474,13 @@
       "city": "宗像市",
       "opening_date": "2026-12-04",
       "category": "ディスカウントストア"
+    },
+    {
+      "name": "gashacoco ポートウォークみなと",
+      "prefecture": "愛知県",
+      "city": "名古屋市港区",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店"
     },
     {
       "name": "BONTEMPS 田川店",
