@@ -1,0 +1,89 @@
+{
+  "run_at": "2026-11-28T09:17:44+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2863,
+    "blob_sha": "082117ec014983f2e3fbdcd65d6f9808d2a6e24b"
+  },
+  "after": {
+    "count": 2867,
+    "blob_sha": "d5273631b3a58fba2d0e86cb8a0443278b93dbf1",
+    "updatetime": "2026-11-28T09:17:44+09:00"
+  },
+  "added": [
+    {
+      "name": "BIZcomfort大島",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "opening_date": "2026-12-01",
+      "category": "シェアオフィス・コワーキングスペース",
+      "source": "https://prtimes.jp/main/html/rd/p/000000235.000043878.html"
+    },
+    {
+      "name": "ENN吉祥寺",
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "opening_date": "2026-12-01",
+      "category": "レンタルスペース・ラウンジ",
+      "source": "https://prtimes.jp/main/html/rd/p/000000015.000181012.html"
+    },
+    {
+      "name": "gashacoco イーアス高尾",
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "opening_date": "2026-12-03",
+      "category": "カプセルトイ専門店",
+      "source": "https://gashacoco.jp/news/5244/"
+    },
+    {
+      "name": "gashacoco ポートウォークみなと",
+      "prefecture": "愛知県",
+      "city": "名古屋市港区",
+      "opening_date": "2026-12-04",
+      "category": "カプセルトイ専門店",
+      "source": "https://gashacoco.jp/news/5252/"
+    }
+  ],
+  "duplicates": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 2,
+    "sorted_by_opening_date": true,
+    "added_records_verified": true,
+    "previous_records_preserved": true,
+    "blob_sha_matches_update_response": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社WOOC",
+      "url": "https://prtimes.jp/main/html/rd/p/000000235.000043878.html"
+    },
+    {
+      "publisher": "株式会社新都市ライフホールディングス",
+      "url": "https://prtimes.jp/main/html/rd/p/000000015.000181012.html"
+    },
+    {
+      "publisher": "株式会社ハピネット（gashacoco）",
+      "url": "https://gashacoco.jp/news/5244/"
+    },
+    {
+      "publisher": "株式会社ハピネット（gashacoco）",
+      "url": "https://gashacoco.jp/news/5252/"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "gashacoco 明屋書店 大洲（愛媛県大洲市、2026-12-04）は既存登録済み",
+    "ローソン三鷹牟礼三丁目店など今回照合したローソン候補は既存登録済み",
+    "アエナ イオンモール伊達店、FUJIYA CONFECTIONERY イオンモール伊達店は既存登録済み"
+  ],
+  "deferred": [
+    "笑咲屋 はなび（岡山県倉敷市）は地域メディア情報を確認したが、今回、運営元の一次情報を確定できず保留",
+    "全国の未発表・未掲載店舗を網羅できた保証はない"
+  ]
+}
