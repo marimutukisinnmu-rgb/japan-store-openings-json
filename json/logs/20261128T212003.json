@@ -1,0 +1,173 @@
+{
+  "run_at": "2026-11-28T21:20:03+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "status": "updated",
+  "target": "json/latest.json",
+  "before": {
+    "item_count": 2907,
+    "blob_sha": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
+    "updatetime": "2026-11-28T19:11:43+09:00"
+  },
+  "changes": {
+    "added": 6,
+    "corrected": 0,
+    "deleted": 0,
+    "after_item_count": 2913,
+    "added_items": [
+      {
+        "name": "SHIPS any ららぽーとTOKYO-BAY店",
+        "prefecture": "千葉県",
+        "city": "船橋市",
+        "opening_date": "2026-11-28",
+        "category": "ファッション（リニューアル）"
+      },
+      {
+        "name": "いぬカフェRio 平塚店",
+        "prefecture": "神奈川県",
+        "city": "平塚市",
+        "opening_date": "2026-11-28",
+        "category": "犬カフェ"
+      },
+      {
+        "name": "LifeFit 行徳駅前店",
+        "prefecture": "千葉県",
+        "city": "市川市",
+        "opening_date": "2026-11-28",
+        "category": "24時間フィットネスジム"
+      },
+      {
+        "name": "ZEAL BOXING FITNESS 旭川大町店",
+        "prefecture": "北海道",
+        "city": "旭川市",
+        "opening_date": "2026-11-28",
+        "category": "ボクシングフィットネスジム"
+      },
+      {
+        "name": "どうとんぼり神座 箕面坊島店",
+        "prefecture": "大阪府",
+        "city": "箕面市",
+        "opening_date": "2026-11-30",
+        "category": "ラーメン"
+      },
+      {
+        "name": "福恩麻辣湯 アクアウォーク大垣店",
+        "prefecture": "岐阜県",
+        "city": "大垣市",
+        "opening_date": "2026-11-30",
+        "category": "麻辣湯専門店"
+      }
+    ],
+    "existing_records_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "株式会社シップス公式発表（@Press）「SHIPS any ららぽーとTOKYO-BAY店 リニューアル」",
+      "url": "https://www.atpress.ne.jp/news/7412923",
+      "published": "2026-11-18",
+      "opening_date": "2026-11-28",
+      "result": "店舗名・リニューアル日を確認。ららぽーとTOKYO-BAY公式アクセス情報で千葉県船橋市の所在地を照合し、未登録のため追加。"
+    },
+    {
+      "source": "ららぽーと湘南平塚公式「いぬカフェRio」オープン案内",
+      "url": "https://mitsui-shopping-park.com/lalaport/hiratsuka/openrenewal/3680022.html",
+      "checked": "2026-11-28",
+      "opening_date": "2026-11-28",
+      "result": "施設公式ページで1FのいぬカフェRioの開店日を確認。施設所在地から神奈川県平塚市として追加。"
+    },
+    {
+      "source": "LifeFit公式店舗ページ「行徳駅前店」",
+      "url": "https://lifefit.tech/store/gyotokuekimae/",
+      "checked": "2026-11-28",
+      "opening_date": "2026-11-28",
+      "result": "公式ページでGRAND OPEN日・10:00開始・千葉県市川市行徳駅前2-13-1を確認し追加。"
+    },
+    {
+      "source": "株式会社ZEAL公式プレスリリース「ZEAL BOXING FITNESS 旭川大町店」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000093.000146700.html",
+      "published": "2026-10-27",
+      "opening_date": "2026-11-28",
+      "result": "運営会社発表でグランドオープン日と北海道旭川市大町2条の出店を確認。公式店舗ページで所在地を照合し追加。"
+    },
+    {
+      "source": "どうとんぼり神座公式 大阪店舗一覧",
+      "url": "https://kamukura.co.jp/shop/osaka/",
+      "checked": "2026-11-28",
+      "opening_date": "2026-11-30",
+      "result": "公式店舗一覧に箕面坊島店・大阪府箕面市坊島4-16-35・11月30日OPEN予定の記載を確認し追加。"
+    },
+    {
+      "source": "TPS株式会社公式プレスリリース「福恩麻辣湯 アクアウォーク大垣店」",
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000179076.html",
+      "published": "2026-11-16",
+      "opening_date": "2026-11-30",
+      "result": "運営会社発表で店舗名・開店日・岐阜県大垣市林町6丁目80-21を確認し追加。"
+    },
+    {
+      "source": "日本マクドナルド公式店舗ページ「伏見桃山店」",
+      "url": "https://map.mcdonalds.co.jp/map/26602",
+      "checked": "2026-11-28",
+      "opening_date": "2026-11-30",
+      "result": "公式店舗ページで開店日・住所を確認。既存JSON登録済みのため追加なし。"
+    },
+    {
+      "source": "イオン九州公式「マックスバリュエクスプレス向野２丁目店」",
+      "url": "https://www.aeon-kyushu.info/files/optionallink/00000787_file.pdf",
+      "published": "2026-11-17",
+      "opening_date": "2026-11-26",
+      "result": "公式PDFで開店日・福岡県福岡市南区向野2丁目13番34号を確認。既存JSON登録済みのため追加なし。"
+    },
+    {
+      "source": "ローソン公式 全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-28",
+      "result": "掲載中の新店候補を既存JSONと照合。今回追加対象なし。"
+    },
+    {
+      "source": "日本KFC公式 12月の新店情報",
+      "url": "https://japan.kfc.co.jp/news_release/8200",
+      "checked": "2026-11-28",
+      "result": "12月の掲載店舗を照合。今回追加対象なし。"
+    }
+  ],
+  "quality": {
+    "json_parse": true,
+    "item_count": 2913,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "added_items_present": true,
+    "existing_records_preserved": true
+  },
+  "errors": [
+    "HILLS BOWL 福岡久留米店の公式ページは今回も取得時に内部エラーとなり、開店日・所在地の本文確認ができなかった。"
+  ],
+  "unresolved": [
+    "HILLS BOWL 福岡久留米店：公式ページ本文を取得できないため追加保留。",
+    "ドトールコーヒーショップ 光が丘店：公式店舗ページは2026-11-28までの休業を示すが、再開日2026-11-29を明示する一次情報を確認できず追加保留。",
+    "お肉の専門店スギモト 東京ソラマチ店：施設公式案内は「11月下旬」までで具体的な開店日が未確認のため追加保留。",
+    "マクドナルド 伏見桃山店とマックスバリュエクスプレス向野２丁目店は公式情報で再確認したが、既存登録済みのため重複追加なし。"
+  ],
+  "persistence": {
+    "latest_json_modified": true,
+    "latest_json_blob_sha_before": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
+    "latest_json_blob_sha_after": "d6f321be5be7935eba203ada12003d074f991179",
+    "latest_json_commit_sha": "665b8d157ca233b3b45bcd0ac03e4dae69c41def",
+    "latest_json_verified_by_refetch": true,
+    "log_saved": false,
+    "log_path": "json/logs/20261128T212003.json",
+    "log_verified_by_refetch": false
+  },
+  "automation_state_at_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "timezone": "Asia/Tokyo",
+    "schedule": "HOURLY;BYMINUTE=15",
+    "next_run_time_reported": "2026-11-28T21:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null,
+    "state_check": "peek succeeded; task remains enabled; next_run_time field appears stale because it is earlier than the current check time"
+  }
+}
