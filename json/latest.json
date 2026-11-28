@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T17:19:38+09:00",
+  "updatetime": "2026-11-28T19:11:43+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -19548,6 +19548,13 @@
       "category": "ラーメン店（業態転換・リニューアル）"
     },
     {
+      "name": "ANELLA CAFE 出雲斐川店",
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "opening_date": "2026-12-18",
+      "category": "保護犬猫カフェ・福祉複合施設"
+    },
+    {
       "name": "BEYBLADE X POP UP SHOP mini in アニメイト（アニメイト岐阜）",
       "prefecture": "岐阜県",
       "city": "岐阜市",
@@ -20127,6 +20134,13 @@
       "city": "北九州市小倉北区",
       "opening_date": "2027-01-23",
       "category": "期間限定ゲームグッズ・展示ポップアップ（2027-01-23〜2027-01-31）"
+    },
+    {
+      "name": "カフェ・ミケランジェロ 日本橋",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "opening_date": "2027-01-25",
+      "category": "カフェ"
     },
     {
       "name": "WECLE 自由が丘店",
