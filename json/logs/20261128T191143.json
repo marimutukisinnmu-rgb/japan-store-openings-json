@@ -114,9 +114,9 @@
     "latest_json_blob_sha_after": "786a2f1d83c0e3d1128ad9deebf9369d1b0b15f6",
     "latest_json_commit_sha": "f03baa1cab709c346b995344c2e9659ffeef5fee",
     "latest_json_verified_by_refetch": true,
-    "log_saved": false,
+    "log_saved": true,
     "log_path": "json/logs/20261128T191143.json",
-    "log_verified_by_refetch": false
+    "log_verified_by_refetch": true
   },
   "automation_state_at_check": {
     "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
