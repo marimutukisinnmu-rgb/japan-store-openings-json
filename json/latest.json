@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T15:18:52+09:00",
+  "updatetime": "2026-11-28T17:19:38+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15383,6 +15383,55 @@
       "category": "生活雑貨・日用品"
     },
     {
+      "name": "ヘアカラー専門店fufu イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ヘアカラー専門店"
+    },
+    {
+      "name": "保険クリニック イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "保険相談・保険ショップ"
+    },
+    {
+      "name": "タイムステーションNEO イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "時計専門店"
+    },
+    {
+      "name": "CALL&RESPONSE イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "メンズファッション"
+    },
+    {
+      "name": "Perfect Suit FActory イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ビジネスウェア・スーツ"
+    },
+    {
+      "name": "眼鏡市場 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "眼鏡・サングラス・補聴器"
+    },
+    {
+      "name": "ABC-MART GRAND STAGEイオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ・アパレル"
+    },
+    {
       "name": "『とある暗部の少女共棲』POP UP SHOP（新宿マルイ アネックス）",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -15943,6 +15992,27 @@
       "category": "回転寿司"
     },
     {
+      "name": "近江ちゃんぽん亭 アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "ちゃんぽん専門店"
+    },
+    {
+      "name": "とんかつ田なか屋 赤坂",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-28",
+      "category": "とんかつ専門店"
+    },
+    {
+      "name": "ANELLA CAFE 沼津原店",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "opening_date": "2026-11-28",
+      "category": "保護犬猫カフェ・福祉複合施設"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -15976,6 +16046,13 @@
       "city": "相模原市中央区",
       "opening_date": "2026-11-29",
       "category": "ラーメン（リニューアル）"
+    },
+    {
+      "name": "喫茶 白煙珈琲店 池袋西口店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-29",
+      "category": "喫茶店・カフェ"
     },
     {
       "name": "chocoZAP 足立西保木間",
@@ -16643,6 +16720,20 @@
       "category": "パソコン教室"
     },
     {
+      "name": "Lawson Go 県立広島病院店",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-12-01",
+      "category": "コンビニエンスストア（職員専用・ウォークスルー決済）"
+    },
+    {
+      "name": "スペラボ 佐世保松川町店",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
       "name": "3COINS+plus イオンモール京都桂川店",
       "prefecture": "京都府",
       "city": "京都市南区",
@@ -17096,6 +17187,13 @@
       "city": "倉敷市",
       "opening_date": "2026-12-03",
       "category": "居酒屋"
+    },
+    {
+      "name": "ANDDELICAくずはモール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-12-03",
+      "category": "惣菜・弁当専門店"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -17600,6 +17698,20 @@
       "city": "長崎市",
       "opening_date": "2026-12-04",
       "category": "リユースショップ"
+    },
+    {
+      "name": "DAISO福井パリオ店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "100円ショップ（移転リニューアル）"
+    },
+    {
+      "name": "THREEPPY福井パリオ店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "300円ショップ・雑貨"
     },
     {
       "name": "ANTHOM POP UP STORE（新風館）",
@@ -19315,6 +19427,13 @@
       "city": "北九州市小倉北区",
       "opening_date": "2026-12-17",
       "category": "焼鳥・居酒屋"
+    },
+    {
+      "name": "劇安ワンダーランド ココトク！まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-12-17",
+      "category": "ディスカウントスーパー"
     },
     {
       "name": "Celule（鳥栖プレミアム・アウトレット）",
