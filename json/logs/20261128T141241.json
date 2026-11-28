@@ -1,0 +1,168 @@
+{
+  "run_at": "2026-11-28T14:12:41+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2877,
+    "blob_sha": "5d0e26f18f879f97c5d8a9396fb79a85a9ddd4cf",
+    "updatetime": "2026-11-28T13:13:26+09:00"
+  },
+  "after": {
+    "count": 2884,
+    "blob_sha": "aa4c950bdd2df0e9fd6305c0a769c20c98600ad3",
+    "updatetime": "2026-11-28T14:12:41+09:00"
+  },
+  "commit_sha": "738243fd47149136ba34485dba973123e17b965d",
+  "added": [
+    {
+      "name": "生鮮市場TOP トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "FIT-EASY トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスクラブ（プレオープン、グランドオープン2026-12-08）"
+    },
+    {
+      "name": "CHOPPED SALAD DAY 明治安田新宿ビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "チョップドサラダ専門店"
+    },
+    {
+      "name": "鳥ぶら 名古屋伏見店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-28",
+      "category": "焼鳥店"
+    },
+    {
+      "name": "QB HOUSE トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ヘアカット専門店"
+    },
+    {
+      "name": "回転寿司 根室花まる 明治安田新宿ビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司"
+    },
+    {
+      "name": "成城石井 阪急塚口駅改札内店",
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "opening_date": "2026-12-03",
+      "category": "スーパーマーケット"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "sorted_by_opening_date": true,
+    "latest_json_preserved": true,
+    "added_records_verified": true,
+    "github_retrieval_verified": true,
+    "content_sha_matches": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社マミーマート／生鮮市場TOP公式",
+      "url": "https://mami-mart.com/stores/kanagawa/yokosuka/tonarie-kurihama.html",
+      "note": "店舗名・所在地を公式店舗ページで確認。公式TOPサイトの11月28日OPEN告知と照合。"
+    },
+    {
+      "publisher": "フィットイージー株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000001124.000099487.html",
+      "note": "11月28日〜12月7日のプレオープン、12月8日のグランドオープン、住所を公式発表で確認。opening_dateは一般利用開始のプレオープン日。"
+    },
+    {
+      "publisher": "CHOPPED SALAD DAY公式",
+      "url": "https://www.choppedsaladdays.com/news/20261119/",
+      "note": "11月28日グランドオープンを公式ニュースで確認。住所は運営会社発表で照合。"
+    },
+    {
+      "publisher": "株式会社ファッズ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000286.000070373.html",
+      "note": "店名・所在地・11月28日開店を運営会社の発表で確認。"
+    },
+    {
+      "publisher": "QB HOUSE公式",
+      "url": "https://www.qbhouse.co.jp/",
+      "note": "公式サイトの新店情報にトナリエ久里浜店・2026年11月28日オープンと掲載。住所は施設公式発表と照合。"
+    },
+    {
+      "publisher": "流通ニュース",
+      "url": "https://www.ryutsuu.biz/store/s112573.html",
+      "note": "根室花まるの店名・11月28日開店・所在地を業界専門媒体で確認。運営会社の一次発表は今回未確認。"
+    },
+    {
+      "publisher": "流通ニュース",
+      "url": "https://www.ryutsuu.biz/store/s112746.html",
+      "note": "成城石井の店名・12月3日開店・所在地を業界専門媒体で確認。運営会社の一次発表は今回未確認。"
+    }
+  ],
+  "crosschecks": [
+    {
+      "publisher": "株式会社エスコン",
+      "url": "https://www.es-conjapan.co.jp/news/8867/",
+      "result": "トナリエ久里浜パークは11月28日開業。既存JSON登録済みのため再追加せず。"
+    },
+    {
+      "publisher": "ローソン公式",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "result": "12月3日・4日の確認対象店舗は既存登録済み。"
+    },
+    {
+      "publisher": "株式会社アイビーカンパニー／Shake Shack",
+      "url": "https://shakeshack.jp/locations/nishi-shinjuku/",
+      "result": "Shake Shack 西新宿店は既存登録済み。"
+    },
+    {
+      "publisher": "株式会社フレスタ",
+      "url": "https://www.fresta.co.jp/info/32935",
+      "result": "よりみちフレスタは既存登録済み。"
+    },
+    {
+      "publisher": "株式会社エース",
+      "url": "https://www.ace-group.co.jp/announcement/266.html",
+      "result": "北野エース 山形屋店は既存登録済み。"
+    }
+  ],
+  "held": [
+    {
+      "name": "スターバックス ティー＆カフェ 明治安田新宿ビル1F店",
+      "reason": "公式店舗ページは確認できたが、今回確認したページでは開店日を明記する記載を確認できず保留。"
+    },
+    {
+      "name": "サンドラッグ トナリエ久里浜店",
+      "reason": "開店候補は確認したが、運営会社の一次情報で日付を確認できず保留。"
+    },
+    {
+      "name": "はま寿司 札幌平岡店・札幌菊水元町店・網走店・八幡則松店",
+      "reason": "公式求人情報で月・時期は確認できるものの、具体的な開店日が未確定のため保留。"
+    },
+    {
+      "name": "ロピア 福岡空港ナフコ店",
+      "reason": "2027年冬予定までで具体的な開店日が未確認のため保留。"
+    },
+    {
+      "name": "笑咲屋 はなび",
+      "reason": "開店日情報は複数の二次情報で見つかったが、運営元の一次情報を確認できず保留。"
+    }
+  ]
+}
