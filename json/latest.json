@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T19:11:43+09:00",
+  "updatetime": "2026-11-28T21:20:03+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16013,6 +16013,34 @@
       "category": "保護犬猫カフェ・福祉複合施設"
     },
     {
+      "name": "SHIPS any ららぽーとTOKYO-BAY店",
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "opening_date": "2026-11-28",
+      "category": "ファッション（リニューアル）"
+    },
+    {
+      "name": "いぬカフェRio 平塚店",
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "opening_date": "2026-11-28",
+      "category": "犬カフェ"
+    },
+    {
+      "name": "LifeFit 行徳駅前店",
+      "prefecture": "千葉県",
+      "city": "市川市",
+      "opening_date": "2026-11-28",
+      "category": "24時間フィットネスジム"
+    },
+    {
+      "name": "ZEAL BOXING FITNESS 旭川大町店",
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "opening_date": "2026-11-28",
+      "category": "ボクシングフィットネスジム"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -16214,6 +16242,20 @@
       "city": "渋谷区",
       "opening_date": "2026-11-30",
       "category": "鮨割烹（リニューアル）"
+    },
+    {
+      "name": "どうとんぼり神座 箕面坊島店",
+      "prefecture": "大阪府",
+      "city": "箕面市",
+      "opening_date": "2026-11-30",
+      "category": "ラーメン"
+    },
+    {
+      "name": "福恩麻辣湯 アクアウォーク大垣店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-11-30",
+      "category": "麻辣湯専門店"
     },
     {
       "name": "9090 / 9090 girl（三井アウトレットパーク入間）",
