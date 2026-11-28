@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T13:13:26+09:00",
+  "updatetime": "2026-11-28T14:12:41+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -15901,6 +15901,48 @@
       "category": "ラーメン"
     },
     {
+      "name": "生鮮市場TOP トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "スーパーマーケット"
+    },
+    {
+      "name": "FIT-EASY トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "フィットネスクラブ（プレオープン、グランドオープン2026-12-08）"
+    },
+    {
+      "name": "CHOPPED SALAD DAY 明治安田新宿ビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "チョップドサラダ専門店"
+    },
+    {
+      "name": "鳥ぶら 名古屋伏見店",
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "opening_date": "2026-11-28",
+      "category": "焼鳥店"
+    },
+    {
+      "name": "QB HOUSE トナリエ久里浜店",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "opening_date": "2026-11-28",
+      "category": "ヘアカット専門店"
+    },
+    {
+      "name": "回転寿司 根室花まる 明治安田新宿ビル店",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "opening_date": "2026-11-28",
+      "category": "回転寿司"
+    },
+    {
       "name": "PAÑPURI WELLNESS SUITE",
       "prefecture": "東京都",
       "city": "港区",
@@ -17026,6 +17068,13 @@
       "city": "仙台市青葉区",
       "opening_date": "2026-12-03",
       "category": "ラーメン"
+    },
+    {
+      "name": "成城石井 阪急塚口駅改札内店",
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "opening_date": "2026-12-03",
+      "category": "スーパーマーケット"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
