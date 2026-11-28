@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T12:17:29+09:00",
+  "updatetime": "2026-11-28T13:13:26+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -17525,6 +17525,13 @@
       "category": "食品スーパー（リニューアル再開）"
     },
     {
+      "name": "セカンドストリート 長崎大学前店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-04",
+      "category": "リユースショップ"
+    },
+    {
       "name": "ANTHOM POP UP STORE（新風館）",
       "prefecture": "京都府",
       "city": "京都市中京区",
@@ -18930,6 +18937,13 @@
       "city": "春日部市",
       "opening_date": "2026-12-11",
       "category": "和食レストラン（そば・うどん・和膳）"
+    },
+    {
+      "name": "セカンドストリート 高松西宝店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
     },
     {
       "name": "『夢色パティシエール』POP UP SHOP in マルイ（上野マルイ）",
