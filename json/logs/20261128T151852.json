@@ -1,0 +1,114 @@
+{
+  "run_at": "2026-11-28T15:18:52+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2884,
+    "blob_sha": "aa4c950bdd2df0e9fd6305c0a769c20c98600ad3",
+    "updatetime": "2026-11-28T14:12:41+09:00"
+  },
+  "after": {
+    "count": 2888,
+    "blob_sha": "42c41a5611666d11a1f984a6eb134a104b6d89b2",
+    "updatetime": "2026-11-28T15:18:52+09:00"
+  },
+  "commit_sha": "6d8d61a48e76989032fb1ad5252d7c29515130d9",
+  "added": [
+    {
+      "name": "笑咲屋 はなび",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-12-03",
+      "category": "居酒屋"
+    },
+    {
+      "name": "パソコン教室かるん♪ イオンモール富津教室",
+      "prefecture": "千葉県",
+      "city": "富津市",
+      "opening_date": "2026-12-01",
+      "category": "パソコン教室"
+    },
+    {
+      "name": "パソコン教室かるん♪ 勝山サンプラザ教室",
+      "prefecture": "福井県",
+      "city": "勝山市",
+      "opening_date": "2026-12-01",
+      "category": "パソコン教室"
+    },
+    {
+      "name": "パソコン教室かるん♪ アル・プラザアミ教室",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "opening_date": "2026-12-08",
+      "category": "パソコン教室"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "sorted_by_opening_date": true,
+    "latest_json_preserved": true,
+    "previous_records_preserved": 2884,
+    "added_records_verified": true,
+    "github_retrieval_verified": true,
+    "content_sha_matches": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社TURTLE（運営元発表）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000181085.html",
+      "note": "笑咲屋 はなびの2026-12-03復活グランドオープン、店舗名、所在地（岡山県倉敷市阿知2丁目11-4）を確認。"
+    },
+    {
+      "publisher": "パソコン教室かるん♪公式",
+      "url": "https://karunchan.com/",
+      "note": "公式サイトのお知らせで、2026-12-01のイオンモール富津教室（千葉県富津市）、勝山サンプラザ教室（福井県勝山市）、2026-12-08のアル・プラザアミ教室（福井県坂井市）を確認。"
+    }
+  ],
+  "crosschecks": [
+    {
+      "publisher": "ココス公式",
+      "url": "https://www.cocos-jpn.co.jp/news/2026/",
+      "result": "千葉貝塚店（11/28改装再開）、富士吉田店（12/3新規開店）、笹沖店（12/5改装再開）はすべて既存JSON登録済み。"
+    },
+    {
+      "publisher": "株式会社平和堂",
+      "url": "https://prtimes.jp/main/html/rd/p/000000614.000096754.html",
+      "result": "Beauty Road Plus アル・プラザ宇治東店（11/28）は既存登録済み。"
+    },
+    {
+      "publisher": "株式会社アエナ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000035.000118647.html",
+      "result": "アエナ イオンモール伊達店（11/27）は既存登録済み。"
+    },
+    {
+      "publisher": "流通ニュース",
+      "url": "https://www.ryutsuu.biz/store/s112746.html",
+      "result": "成城石井 阪急塚口駅改札内店（12/3）は既存登録済み。"
+    }
+  ],
+  "held": [
+    {
+      "name": "ニッコリ亭",
+      "reason": "地元メディアで2026-11-28開店情報を確認したが、運営元の一次情報を確認できず保留。"
+    },
+    {
+      "name": "お肉の専門店スギモト（東京ソラマチ）",
+      "reason": "施設側情報は11月下旬予定までで、具体的な開店日が未確認のため保留。"
+    },
+    {
+      "name": "福恩麻辣湯 イオンモール富津店",
+      "reason": "求人・二次情報で2027-01-22と2027-01-29の異なる日付が見つかり、公式一次情報も未確認のため保留。"
+    },
+    {
+      "name": "ノジマ アリオ市原店",
+      "reason": "今冬オープン予定までで、具体的な開店日が未確認のため保留。"
+    }
+  ]
+}
