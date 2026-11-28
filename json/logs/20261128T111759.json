@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-28T11:17:59+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2868,
+    "blob_sha": "a265205d9cfd9431c1d9a2c75652f6b1fd0310d7",
+    "updatetime": "2026-11-28T10:18:32+09:00"
+  },
+  "after": {
+    "count": 2868,
+    "blob_sha": "a265205d9cfd9431c1d9a2c75652f6b1fd0310d7",
+    "updatetime": "2026-11-28T10:18:32+09:00"
+  },
+  "commit_sha": null,
+  "added": [],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 13,
+    "sorted_by_opening_date": true,
+    "latest_json_preserved": true,
+    "official_candidate_crosscheck": true,
+    "added_records_verified": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200"
+    },
+    {
+      "publisher": "株式会社パン・パシフィック・インターナショナルホールディングス",
+      "url": "https://ppih.co.jp/news/"
+    },
+    {
+      "publisher": "東急株式会社・株式会社東急モールズデベロップメント",
+      "url": "https://www.tokyu-tmd.co.jp/wp-content/uploads/2026/11/newsletter-etomo-20261105.pdf"
+    },
+    {
+      "publisher": "Tesla Japan合同会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000078.000038481.html"
+    },
+    {
+      "publisher": "株式会社メゾン・キツネ・ジャパン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000117228.html"
+    },
+    {
+      "publisher": "片岡物産株式会社（輸入総代理店）",
+      "url": "https://www.kataoka.com/lapatisseriecyrillignac/"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "ローソン公式の2026-12-01〜2026-12-11掲載41候補はすべて既存登録と一致",
+    "KFC公式の2026年12月新店11店舗はすべて既存登録済み",
+    "PPIH公式の国内新店・業態転換候補は既存登録済み",
+    "エトモ菊名および新規テナント6店舗は既存登録済み",
+    "テスラ福島伊達・テスラ北九州は既存登録済み",
+    "Matcha Kitsunéおよびラ・パティスリー・シリル リニャックは既存登録済み"
+  ],
+  "deferred": [
+    "開店日・所在地・店舗名を一次情報で確定できない候補は追加保留",
+    "全国の未発表・未掲載店舗を網羅できた保証はない"
+  ],
+  "automation_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "schedule": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "timezone": "Asia/Tokyo",
+    "next_run_time_at_check": "2026-11-28T11:15:00+09:00",
+    "last_run_recorded_status_at_check": "in_progress",
+    "completed_at_at_check": null,
+    "get_endpoint_error": "NOT_FOUND; peek endpoint provided the automation state"
+  }
+}
