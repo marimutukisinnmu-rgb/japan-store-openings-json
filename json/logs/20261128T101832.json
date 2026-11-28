@@ -1,0 +1,265 @@
+{
+  "run_at": "2026-11-28T10:18:32+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2867,
+    "blob_sha": "d5273631b3a58fba2d0e86cb8a0443278b93dbf1"
+  },
+  "after": {
+    "count": 2868,
+    "blob_sha": "a265205d9cfd9431c1d9a2c75652f6b1fd0310d7",
+    "updatetime": "2026-11-28T10:18:32+09:00"
+  },
+  "commit_sha": "2a6bf0e58fb62b6cfccc6eb05834af07759ef7e2",
+  "added": [
+    {
+      "name": "こどもっちパーク おおがき店",
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "opening_date": "2026-12-03",
+      "category": "屋内公園・子ども向け施設",
+      "source": "https://prtimes.jp/main/html/rd/p/000000039.000007763.html"
+    }
+  ],
+  "duplicates": [
+    [
+      {
+        "name": "らかんスタジオ Finelight 前橋店",
+        "prefecture": "群馬県",
+        "city": "前橋市",
+        "opening_date": "2026-11-02"
+      },
+      {
+        "name": "らかんスタジオ Finelight前橋店",
+        "prefecture": "群馬県",
+        "city": "前橋市",
+        "opening_date": "2026-11-02"
+      }
+    ],
+    [
+      {
+        "name": "ロンハーマン タカシマヤ ゲートタワーモール店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-11-13"
+      },
+      {
+        "name": "ロンハーマン タカシマヤゲートタワーモール店",
+        "prefecture": "愛知県",
+        "city": "名古屋市中村区",
+        "opening_date": "2026-11-13"
+      }
+    ],
+    [
+      {
+        "name": "スープカレーSAMA 羽田空港店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-20"
+      },
+      {
+        "name": "スープカレーSAMA羽田空港店",
+        "prefecture": "東京都",
+        "city": "大田区",
+        "opening_date": "2026-11-20"
+      }
+    ],
+    [
+      {
+        "name": "無印良品 久喜吉羽",
+        "prefecture": "埼玉県",
+        "city": "久喜市",
+        "opening_date": "2026-11-20"
+      },
+      {
+        "name": "無印良品久喜吉羽",
+        "prefecture": "埼玉県",
+        "city": "久喜市",
+        "opening_date": "2026-11-20"
+      }
+    ],
+    [
+      {
+        "name": "高価買取おたからや サンリブきふね店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-23"
+      },
+      {
+        "name": "高価買取おたからやサンリブきふね店",
+        "prefecture": "福岡県",
+        "city": "北九州市小倉北区",
+        "opening_date": "2026-11-23"
+      }
+    ],
+    [
+      {
+        "name": "LAWSON＋toks等々力緑地",
+        "prefecture": "神奈川県",
+        "city": "川崎市中原区",
+        "opening_date": "2026-11-25"
+      },
+      {
+        "name": "ＬＡＷＳＯＮ＋ｔｏｋｓ等々力緑地",
+        "prefecture": "神奈川県",
+        "city": "川崎市中原区",
+        "opening_date": "2026-11-25"
+      }
+    ],
+    [
+      {
+        "name": "ゴンチャ 豊田 T-FACE店",
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "opening_date": "2026-11-27"
+      },
+      {
+        "name": "ゴンチャ 豊田T-FACE店",
+        "prefecture": "愛知県",
+        "city": "豊田市",
+        "opening_date": "2026-11-27"
+      }
+    ],
+    [
+      {
+        "name": "ビッグ・エー 清瀬駅北口店",
+        "prefecture": "東京都",
+        "city": "清瀬市",
+        "opening_date": "2026-11-28"
+      },
+      {
+        "name": "ビッグ・エー清瀬駅北口店",
+        "prefecture": "東京都",
+        "city": "清瀬市",
+        "opening_date": "2026-11-28"
+      }
+    ],
+    [
+      {
+        "name": "PAPABUBBLE（大丸梅田店）",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-01"
+      },
+      {
+        "name": "PAPABUBBLE 大丸梅田店",
+        "prefecture": "大阪府",
+        "city": "大阪市北区",
+        "opening_date": "2026-12-01"
+      }
+    ],
+    [
+      {
+        "name": "バースデイ FUKUOKA TENJIN(しまむらFUKUOKA TENJIN内)店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02"
+      },
+      {
+        "name": "バースデイ FUKUOKA TENJIN(しまむら FUKUOKA TENJIN内)店",
+        "prefecture": "福岡県",
+        "city": "福岡市中央区",
+        "opening_date": "2026-12-02"
+      }
+    ],
+    [
+      {
+        "name": "うなぎ四代目菊川（新宿東口店）",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-04"
+      },
+      {
+        "name": "うなぎ四代目菊川 新宿東口店",
+        "prefecture": "東京都",
+        "city": "新宿区",
+        "opening_date": "2026-12-04"
+      }
+    ],
+    [
+      {
+        "name": "ゴンチャ 富山 MAROOT店",
+        "prefecture": "富山県",
+        "city": "富山市",
+        "opening_date": "2026-12-10"
+      },
+      {
+        "name": "ゴンチャ 富山MAROOT店",
+        "prefecture": "富山県",
+        "city": "富山市",
+        "opening_date": "2026-12-10"
+      }
+    ],
+    [
+      {
+        "name": "MEGA ドン・キホーテ Olympic 洋光台店",
+        "prefecture": "神奈川県",
+        "city": "横浜市磯子区",
+        "opening_date": "2026-12-10"
+      },
+      {
+        "name": "MEGAドン・キホーテ Olympic 洋光台店",
+        "prefecture": "神奈川県",
+        "city": "横浜市磯子区",
+        "opening_date": "2026-12-10"
+      }
+    ]
+  ],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 13,
+    "sorted_by_opening_date": true,
+    "added_records_verified": true,
+    "previous_records_preserved": true,
+    "blob_sha_matches_update_response": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社F.K.Solutions（運営元）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000039.000007763.html"
+    },
+    {
+      "publisher": "株式会社NTT都市開発",
+      "url": "https://www.nttud.co.jp/news/detail/id/n28055.html"
+    },
+    {
+      "publisher": "株式会社ローソン",
+      "url": "https://www.lawson.co.jp/newstore/"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン株式会社",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200"
+    },
+    {
+      "publisher": "株式会社メゾン・キツネ・ジャパン",
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000117228.html"
+    },
+    {
+      "publisher": "株式会社アニメイト",
+      "url": "https://prtimes.jp/main/html/rd/p/000009267.000016756.html"
+    },
+    {
+      "publisher": "株式会社モンシェール",
+      "url": "https://prtimes.jp/main/html/rd/p/000000054.000078354.html"
+    }
+  ],
+  "unchanged_or_already_registered": [
+    "アニメイトダイバーシティ東京プラザ（2026-12-05）は既存登録済み",
+    "Matcha Kitsuné（京都新風館、2026-12-04）は既存登録済み",
+    "堂島ロール Canvas（大丸梅田店）はプレオープン2026-11-28／グランドオープン2026-12-01の既存2レコードを保持",
+    "KFC公式12月新店一覧で確認した11店舗は既存登録済み",
+    "ローソン公式新店一覧の確認対象は既存登録済み",
+    "秋葉原UDXの12月10日リニューアル関連テナントは既存登録済み"
+  ],
+  "deferred": [
+    "玉子焼・お出汁ひまわり アルプラザ宇治東店は、見出し・冒頭が2026-11-28とする一方、本文に2027-11-28との記載があり、年の不一致を解消できないため追加保留",
+    "三六サラダ焼 アル・プラザ鯖江店は地域メディア記事を確認したが、今回運営元の一次情報を確認できず追加保留",
+    "全国の未発表・未掲載店舗を網羅できた保証はない"
+  ]
+}
