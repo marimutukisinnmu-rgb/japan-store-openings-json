@@ -104,5 +104,12 @@
     "last_run_recorded_status": "in_progress",
     "last_run_completed_at": null,
     "state_check": "peek succeeded; next_run_time is earlier than this run time and last-run details remain stale."
+  },
+  "automation_state_after_processing": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": false,
+    "schedule_preserved": "BEGIN:VEVENT\nDTSTART:20261114T101500\nRRULE:FREQ=HOURLY;BYMINUTE=15\nEND:VEVENT",
+    "next_run_time_recorded": "2026-11-28T21:15:00+09:00",
+    "state_change": "Disabled after this successful run's completion processing; schedule definition retained."
   }
 }
