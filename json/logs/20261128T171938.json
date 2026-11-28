@@ -1,0 +1,258 @@
+{
+  "run_at": "2026-11-28T17:19:38+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2888,
+    "blob_sha": "42c41a5611666d11a1f984a6eb134a104b6d89b2",
+    "updatetime": "2026-11-28T15:18:52+09:00"
+  },
+  "after": {
+    "count": 2905,
+    "blob_sha": "c03ef4c7d658de971ae7d47ad50710faab24532f",
+    "updatetime": "2026-11-28T17:19:38+09:00"
+  },
+  "commit_sha": "bc62e81b8753fb4edbe5e47d00d553bb85e663b1",
+  "added": [
+    {
+      "name": "劇安ワンダーランド ココトク！まえばし赤城モール店",
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "opening_date": "2026-12-17",
+      "category": "ディスカウントスーパー"
+    },
+    {
+      "name": "Lawson Go 県立広島病院店",
+      "prefecture": "広島県",
+      "city": "広島市南区",
+      "opening_date": "2026-12-01",
+      "category": "コンビニエンスストア（職員専用・ウォークスルー決済）"
+    },
+    {
+      "name": "ANDDELICAくずはモール店",
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "opening_date": "2026-12-03",
+      "category": "惣菜・弁当専門店"
+    },
+    {
+      "name": "DAISO福井パリオ店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "100円ショップ（移転リニューアル）"
+    },
+    {
+      "name": "THREEPPY福井パリオ店",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "opening_date": "2026-12-04",
+      "category": "300円ショップ・雑貨"
+    },
+    {
+      "name": "ヘアカラー専門店fufu イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ヘアカラー専門店"
+    },
+    {
+      "name": "保険クリニック イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "保険相談・保険ショップ"
+    },
+    {
+      "name": "タイムステーションNEO イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "時計専門店"
+    },
+    {
+      "name": "CALL&RESPONSE イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "メンズファッション"
+    },
+    {
+      "name": "Perfect Suit FActory イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "ビジネスウェア・スーツ"
+    },
+    {
+      "name": "眼鏡市場 イオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "眼鏡・サングラス・補聴器"
+    },
+    {
+      "name": "ABC-MART GRAND STAGEイオンモール伊達店",
+      "prefecture": "福島県",
+      "city": "伊達市",
+      "opening_date": "2026-11-27",
+      "category": "シューズ・アパレル"
+    },
+    {
+      "name": "スペラボ 佐世保松川町店",
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "opening_date": "2026-12-01",
+      "category": "トランクルーム・レンタル収納"
+    },
+    {
+      "name": "近江ちゃんぽん亭 アル・プラザ宇治東店",
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "opening_date": "2026-11-28",
+      "category": "ちゃんぽん専門店"
+    },
+    {
+      "name": "とんかつ田なか屋 赤坂",
+      "prefecture": "東京都",
+      "city": "港区",
+      "opening_date": "2026-11-28",
+      "category": "とんかつ専門店"
+    },
+    {
+      "name": "喫茶 白煙珈琲店 池袋西口店",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "opening_date": "2026-11-29",
+      "category": "喫茶店・カフェ"
+    },
+    {
+      "name": "ANELLA CAFE 沼津原店",
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "opening_date": "2026-11-28",
+      "category": "保護犬猫カフェ・福祉複合施設"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "sorted_by_opening_date": true,
+    "previous_records_preserved": 2888,
+    "candidate_records_verified": true,
+    "latest_json_written": true,
+    "latest_json_sha_unchanged": false,
+    "latest_json_sha_matches_write": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社ベイシア公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000506.000069349.html",
+      "note": "ココトク！まえばし赤城モール店。12月16日プレオープン、12月17日グランドオープン。住所は前橋市田口町66-1。"
+    },
+    {
+      "publisher": "ローソン公式",
+      "url": "https://www.lawson.co.jp/company/news/detail/1535015_2504.html",
+      "note": "Lawson Go 県立広島病院店。12月1日オープン、県立広島病院職員専用。所在地は広島市南区宇品神田1-5-54。"
+    },
+    {
+      "publisher": "オークワ公式・流通ニュース",
+      "url": "https://www.ryutsuu.biz/store/s112712.html",
+      "note": "ANDDELICAくずはモール店。12月3日10時開店、枚方市楠葉花園町15-1。オークワ公式ニュース一覧と公式店舗一覧でも店名・所在地を照合。"
+    },
+    {
+      "publisher": "大創産業公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000375.000039955.html",
+      "note": "DAISO・Standard Products・THREEPPYの3ブランド複合店。12月4日、福井市松城町12-7 パリオCITY 1階。Standard Productsは既存登録済みのためDAISOとTHREEPPYのみ追加。"
+    },
+    {
+      "publisher": "株式会社Fast Beauty公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000134.000016863.html",
+      "note": "ヘアカラー専門店fufu イオンモール伊達店。11月27日オープン。"
+    },
+    {
+      "publisher": "アイリックコーポレーション公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000001083.000001256.html",
+      "note": "保険クリニック イオンモール伊達店。11月27日オープン。"
+    },
+    {
+      "publisher": "株式会社ナカザワ公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000054.000151263.html",
+      "note": "タイムステーションNEO イオンモール伊達店。11月27日オープン。"
+    },
+    {
+      "publisher": "CALL＆RESPONSE株式会社公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000134749.html",
+      "note": "CALL&RESPONSE イオンモール伊達店。11月27日オープン。"
+    },
+    {
+      "publisher": "はるやまホールディングス公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000779.000030981.html",
+      "note": "Perfect Suit FActory イオンモール伊達店。11月27日グランドオープン。"
+    },
+    {
+      "publisher": "株式会社メガネトップ公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000337.000096543.html",
+      "note": "眼鏡市場 イオンモール伊達店。11月27日10時オープン。"
+    },
+    {
+      "publisher": "株式会社エービーシー・マート公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000001000.000074055.html",
+      "note": "ABC-MART GRAND STAGEイオンモール伊達店。11月27日オープン。"
+    },
+    {
+      "publisher": "株式会社UKCorporation公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000889.000062166.html",
+      "note": "スペラボ 佐世保松川町店。12月1日オープン。所在地は佐世保市松川町18-1 松川オフィス2階。"
+    },
+    {
+      "publisher": "ドリームフーズ株式会社公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000225.000019783.html",
+      "note": "近江ちゃんぽん亭 アル・プラザ宇治東店。11月28日グランドオープン。宇治市莵道平町28-1。"
+    },
+    {
+      "publisher": "株式会社田中屋FOOD SERVICE公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000063.000033002.html",
+      "note": "とんかつ田なか屋 赤坂。11月28日オープン。港区赤坂6-13-11 KDXレジデンス赤坂1F。"
+    },
+    {
+      "publisher": "株式会社FS.shake公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000269.000035671.html",
+      "note": "喫茶 白煙珈琲店 池袋西口店。11月29日グランドオープン。豊島区西池袋1-38-5 池袋西口セイコービル6階。"
+    },
+    {
+      "publisher": "株式会社ANELLA Group公式",
+      "url": "https://prtimes.jp/main/html/rd/p/000000053.000049799.html",
+      "note": "ANELLA CAFE 沼津原店。11月28日オープン。沼津市大塚280-1。"
+    }
+  ],
+  "crosschecks": [
+    {
+      "publisher": "イオンモール伊達の確認対象テナント",
+      "result": "SANYO Style STORE PLUS、KEYUCA、BELLUNA、アディダス ストア by ABC-MART、R＋ PLUS REGAL CORPORATIONなどは既存登録済み。新規確認できた未登録店舗のみ追加。"
+    },
+    {
+      "publisher": "パリオCITY",
+      "result": "Standard Products パリオCITY店は既存登録済み。DAISO福井パリオ店とTHREEPPY福井パリオ店のみ追加。"
+    },
+    {
+      "publisher": "トナリエ久里浜",
+      "result": "FIT-EASY トナリエ久里浜店は既存登録済み。重複追加なし。"
+    },
+    {
+      "publisher": "アル・プラザ宇治東",
+      "result": "Beauty Road Plus、LifeFit、KFCは既存登録済み。近江ちゃんぽん亭のみ新規追加。"
+    }
+  ],
+  "held": [],
+  "errors": [
+    "オークワ公式の詳細ニュースリリース本文は取得時に502エラー。公式ニュース一覧と公式店舗一覧を確認し、開店日・開店時刻は流通ニュースで補完した。",
+    "定期タスク状態の照会は管理ツール側404エラーで失敗。有効状態・次回予定の最新値は未確認。スケジュール変更・無効化・削除の操作は行っていない。"
+  ]
+}
