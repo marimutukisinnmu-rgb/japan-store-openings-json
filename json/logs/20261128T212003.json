@@ -156,9 +156,10 @@
     "latest_json_blob_sha_after": "d6f321be5be7935eba203ada12003d074f991179",
     "latest_json_commit_sha": "665b8d157ca233b3b45bcd0ac03e4dae69c41def",
     "latest_json_verified_by_refetch": true,
-    "log_saved": false,
+    "log_saved": true,
     "log_path": "json/logs/20261128T212003.json",
-    "log_verified_by_refetch": false
+    "log_verified_by_refetch": true,
+    "log_create_commit_sha": "a0ce1c7a0b1837222b41507d65bc8ce4a3cd855e"
   },
   "automation_state_at_check": {
     "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
