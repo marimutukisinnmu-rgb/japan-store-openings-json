@@ -1,0 +1,97 @@
+{
+  "run_at": "2026-11-28T18:13:32+09:00",
+  "task": "全国 開店予定JSON（回転JSON）",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "status": "no_update",
+  "target": "json/latest.json",
+  "before": {
+    "item_count": 2905,
+    "blob_sha": "c03ef4c7d658de971ae7d47ad50710faab24532f",
+    "updatetime": "2026-11-28T17:19:38+09:00"
+  },
+  "changes": {
+    "added": 0,
+    "corrected": 0,
+    "deleted": 0,
+    "after_item_count": 2905,
+    "existing_records_preserved": true
+  },
+  "source_checks": [
+    {
+      "source": "ローソン 全国の新店情報",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "checked": "2026-11-28",
+      "result": "2026-12-01〜2026-12-11掲載分を照合。対象店舗は既存JSONに登録済み。"
+    },
+    {
+      "source": "串カツ田中 本八戸店 公式お知らせ",
+      "url": "https://kushi-tanaka.com/news/entry/3395",
+      "published": "2026-11-26",
+      "opening_date": "2026-11-30",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "桐松屋 公式オープン告知",
+      "url": "https://www.kirimatsuya.com/news-newopen",
+      "opening_date": "2026-12-01",
+      "result": "11月28日プレオープンと12月1日グランドオープンを区別。JSONにはグランドオープン日で既存登録済み。"
+    },
+    {
+      "source": "PAPABUBBLE 大丸梅田店 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000602.000018984.html",
+      "published": "2026-11-24",
+      "opening_date": "2026-12-01",
+      "result": "既存登録済み。"
+    },
+    {
+      "source": "富澤商店 東京ソラマチ店 公式プレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000127.000083916.html",
+      "published": "2026-11-17",
+      "opening_date": "2026-11-30",
+      "result": "移転リニューアルとして既存登録済み。"
+    },
+    {
+      "source": "仙台PARCO2 パルイチ 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000004155.000003639.html",
+      "published": "2026-11-05",
+      "result": "12月3日・10日および2027年1月の対象店を照合。確認した店舗は既存登録済み。"
+    },
+    {
+      "source": "三井アウトレットパーク ジャズドリーム長島 公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000105392.html",
+      "published": "2026-10-29",
+      "result": "CASIO WATCH OUTLET等の12月11日出店を照合。既存登録済み。"
+    }
+  ],
+  "quality": {
+    "json_parse": true,
+    "item_count": 2905,
+    "missing_required_fields": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "date_sorted": true,
+    "normalized_duplicate_candidate_groups": 14,
+    "normalized_duplicate_candidates_modified": false
+  },
+  "errors": [],
+  "unresolved": [
+    "表記差・カテゴリ差を伴う正規化重複候補が14グループ存在する。誤統合防止のため今回も変更していない。"
+  ],
+  "persistence": {
+    "latest_json_modified": false,
+    "latest_json_blob_sha_after": "c03ef4c7d658de971ae7d47ad50710faab24532f",
+    "log_saved": true,
+    "log_path": "json/logs/20261128T181332.json",
+    "log_verified_by_refetch": true
+  },
+  "automation_state_at_check": {
+    "automation_id": "6a9128a9e16c8191aab8712f0b016bd7",
+    "is_enabled": true,
+    "timezone": "Asia/Tokyo",
+    "schedule": "HOURLY;BYMINUTE=15",
+    "next_run_time": "2026-11-28T18:15:00+09:00",
+    "last_run_recorded_status": "in_progress",
+    "last_run_completed_at": null
+  }
+}
