@@ -1,7 +1,7 @@
 {
   "period": "2026-09-04/2027-03-02",
   "scope": "Japan",
-  "updatetime": "2026-11-28T14:12:41+09:00",
+  "updatetime": "2026-11-28T15:18:52+09:00",
   "items": [
     {
       "name": "gashacoco 平安堂東和田",
@@ -16629,6 +16629,20 @@
       "category": "焼肉会席専門店"
     },
     {
+      "name": "パソコン教室かるん♪ イオンモール富津教室",
+      "prefecture": "千葉県",
+      "city": "富津市",
+      "opening_date": "2026-12-01",
+      "category": "パソコン教室"
+    },
+    {
+      "name": "パソコン教室かるん♪ 勝山サンプラザ教室",
+      "prefecture": "福井県",
+      "city": "勝山市",
+      "opening_date": "2026-12-01",
+      "category": "パソコン教室"
+    },
+    {
       "name": "3COINS+plus イオンモール京都桂川店",
       "prefecture": "京都府",
       "city": "京都市南区",
@@ -17075,6 +17089,13 @@
       "city": "尼崎市",
       "opening_date": "2026-12-03",
       "category": "スーパーマーケット"
+    },
+    {
+      "name": "笑咲屋 はなび",
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "opening_date": "2026-12-03",
+      "category": "居酒屋"
     },
     {
       "name": "「文豪ストレイドッグス × h.NAOTO」於 マルイ 脱獄遊戯 篇（博多マルイ）",
@@ -17789,6 +17810,13 @@
       "city": "江東区",
       "opening_date": "2026-12-08",
       "category": "食品強化型ディスカウントストア"
+    },
+    {
+      "name": "パソコン教室かるん♪ アル・プラザアミ教室",
+      "prefecture": "福井県",
+      "city": "坂井市",
+      "opening_date": "2026-12-08",
+      "category": "パソコン教室"
     },
     {
       "name": "３COINS＋plus（アトレ中野）",
