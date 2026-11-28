@@ -1,0 +1,84 @@
+{
+  "run_at": "2026-11-28T13:13:26+09:00",
+  "result": "updated",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2875,
+    "blob_sha": "f60ccb6a3dd8896d5a6a98c1e3df395ecdab6eaa",
+    "updatetime": "2026-11-28T12:17:29+09:00"
+  },
+  "after": {
+    "count": 2877,
+    "blob_sha": "5d0e26f18f879f97c5d8a9396fb79a85a9ddd4cf",
+    "updatetime": "2026-11-28T13:13:26+09:00"
+  },
+  "commit_sha": "a12e94b6641b44531442910c8a065c3c4baba5ca",
+  "added": [
+    {
+      "name": "セカンドストリート 高松西宝店",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "opening_date": "2026-12-11",
+      "category": "リユースショップ"
+    },
+    {
+      "name": "セカンドストリート 長崎大学前店",
+      "prefecture": "長崎県",
+      "city": "長崎市",
+      "opening_date": "2026-12-04",
+      "category": "リユースショップ"
+    }
+  ],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "normalized_name_collision_groups": 2,
+    "sorted_by_opening_date": true,
+    "latest_json_preserved": true,
+    "official_candidate_crosscheck": true,
+    "added_records_verified": true,
+    "github_retrieval_verified": true
+  },
+  "sources": [
+    {
+      "publisher": "株式会社セカンドリテイリング（2026年12月新規出店一覧）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000276.000141539.html",
+      "note": "公式発表の店舗一覧画像に高松西宝店（12月11日）・長崎大学前店（12月4日）の店名、日付、所在地を掲載"
+    }
+  ],
+  "crosschecks": [
+    {
+      "publisher": "株式会社ニュー・クイック",
+      "url": "https://www.new-quick.co.jp/news/release/202611251100",
+      "result": "既存登録済み"
+    },
+    {
+      "publisher": "カフェ・カンパニー株式会社",
+      "url": "https://prtimes.jp/main/html/rd/p/000000219.000032163.html",
+      "result": "既存登録済み"
+    },
+    {
+      "publisher": "株式会社アトレ",
+      "url": "https://prtimes.jp/main/html/rd/p/000000429.000070988.html",
+      "result": "アトレ中野および確認できたテナントは既存登録済み"
+    }
+  ],
+  "checks_detail": {
+    "takamatsu_existing_same_chain": [
+      {
+        "name": "セカンドストリート 高松国分寺店",
+        "prefecture": "香川県",
+        "city": "高松市",
+        "opening_date": "2026-12-11",
+        "category": "リユースショップ"
+      }
+    ],
+    "nagasaki_existing_same_chain": []
+  }
+}
