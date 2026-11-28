@@ -1,0 +1,86 @@
+{
+  "run_at": "2026-11-28T16:13:02+09:00",
+  "result": "no_update",
+  "repository": "marimutukisinnmu-rgb/japan-store-openings-json",
+  "branch": "main",
+  "file": "json/latest.json",
+  "before": {
+    "count": 2888,
+    "blob_sha": "42c41a5611666d11a1f984a6eb134a104b6d89b2",
+    "updatetime": "2026-11-28T15:18:52+09:00"
+  },
+  "after": {
+    "count": 2888,
+    "blob_sha": "42c41a5611666d11a1f984a6eb134a104b6d89b2",
+    "updatetime": "2026-11-28T15:18:52+09:00"
+  },
+  "commit_sha": null,
+  "added": [],
+  "corrected": [],
+  "removed": [],
+  "checks": {
+    "json_parse": true,
+    "required_fields_missing": 0,
+    "invalid_dates": 0,
+    "exact_duplicate_records": 0,
+    "sorted_by_opening_date": true,
+    "previous_records_preserved": 2888,
+    "candidate_records_verified": true,
+    "latest_json_written": false,
+    "latest_json_sha_unchanged": true
+  },
+  "sources": [
+    {
+      "publisher": "ローソン公式",
+      "url": "https://www.lawson.co.jp/newstore/",
+      "note": "2026-12-01〜2026-12-11の国内新店42件を照合し、全件が既存JSONに登録済みであることを確認。"
+    },
+    {
+      "publisher": "日本ケンタッキー・フライド・チキン公式",
+      "url": "https://japan.kfc.co.jp/index.php/news_release/8200",
+      "note": "2026年12月の新店11件を照合し、全件が既存JSONに登録済みであることを確認。"
+    },
+    {
+      "publisher": "PPIH公式",
+      "url": "https://ppih.co.jp/news/",
+      "note": "ロビン・フッド北新宿・亀戸・朝霞泉水、MEGAドン・キホーテ Olympic 高井戸・洋光台の登録を確認。志村坂下店は既存の暫定記録を維持。"
+    },
+    {
+      "publisher": "PPIH公式PDF",
+      "url": "https://ppih.co.jp/news/pdf/261117_news_Olympic_Mar.pdf",
+      "note": "MEGA ドン・キホーテ Olympic 志村坂下店は店名・開店予定日が仮で、変更の可能性があると明記。既存の暫定表記を変更しない。"
+    },
+    {
+      "publisher": "株式会社パル公式",
+      "url": "https://www.palgroup.co.jp/shop/",
+      "note": "アトレ中野の3COINS+plus、COLLAGE GALLARDAGALANTE、BIRTHDAY BARを照合し、登録済みであることを確認。"
+    },
+    {
+      "publisher": "株式会社エクスペリフル公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000068.000113176.html",
+      "note": "探偵キャンプ劇場 上野店（2026-11-28）を照合し、登録済みであることを確認。"
+    },
+    {
+      "publisher": "株式会社エンドレス公式発表",
+      "url": "https://prtimes.jp/main/html/rd/p/000000922.000061261.html",
+      "note": "LUNA EARTH イオンモール草津店（2026-11-27）を照合し、登録済みであることを確認。"
+    }
+  ],
+  "crosschecks": [
+    {
+      "publisher": "直近の企業・施設発表",
+      "result": "PAPABUBBLE 大丸梅田店、浅草もんじゃ ぜんや 浅草エキミセ、月島もんじゃ もへじ 松山、うちだ屋 新宮店、＆found、イオンモール伊達の確認対象テナント等は既存登録済み。"
+    },
+    {
+      "publisher": "秋葉原UDX公式テナント発表",
+      "result": "確認対象の新規・リニューアル店舗は既存登録済み。"
+    }
+  ],
+  "held": [
+    {
+      "name": "MEGA ドン・キホーテ Olympic 志村坂下店（仮称）",
+      "reason": "PPIH公式PDFが新店舗名・開店予定日を仮とし、変更可能性を明記しているため、既存の暫定記録を維持。"
+    }
+  ],
+  "errors": []
+}
